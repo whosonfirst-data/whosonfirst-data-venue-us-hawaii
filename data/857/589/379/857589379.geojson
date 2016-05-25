@@ -1,0 +1,73 @@
+{
+  "id": 857589379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.099282,21.308283,-158.099282,21.308283",
+    "geom:latitude":21.308283,
+    "geom:longitude":-158.099282,
+    "iso:country":"US",
+    "sg:address":"335 Kauhi St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2085",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UjFicF6N2jZ3vte8WuCnI_21.308283_-158.099282@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203746,
+    "wof:geomhash":"70441466689fb66329c14165d0532efe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857589379
+        }
+    ],
+    "wof:id":857589379,
+    "wof:lastmodified":1464203746,
+    "wof:name":"American Piping & Boiler Co",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.099282,
+    21.308283,
+    -158.099282,
+    21.308283
+],
+  "geometry": {"coordinates":[-158.09928199999999,21.308283],"type":"Point"}
+}

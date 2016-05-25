@@ -1,0 +1,71 @@
+{
+  "id": 857528987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029139,21.497656,-158.029139,21.497656",
+    "geom:latitude":21.497656,
+    "geom:longitude":-158.029139,
+    "iso:country":"US",
+    "sg:address":"117 Mango St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5603",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NLXjVPASWwWyEuESmyumz_21.497656_-158.029139@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202524,
+    "wof:geomhash":"f5fd154f0ae84cda8765b1cdbca75049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857528987
+        }
+    ],
+    "wof:id":857528987,
+    "wof:lastmodified":1464202524,
+    "wof:name":"Rural Food Products Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -158.029139,
+    21.497656,
+    -158.029139,
+    21.497656
+],
+  "geometry": {"coordinates":[-158.02913899999999,21.497656],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857538479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.34228,22.052989,-159.34228,22.052989",
+    "geom:latitude":22.052989,
+    "geom:longitude":-159.34228,
+    "iso:country":"US",
+    "sg:address":"200 Eggerking Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 635 6638",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52ZlpRjdvzLaYYGO1ZV42Y_22.052989_-159.342280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202707,
+    "wof:geomhash":"547d4c99b77e2ea94bd98f3dd8ca9546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857538479
+        }
+    ],
+    "wof:id":857538479,
+    "wof:lastmodified":1464202707,
+    "wof:name":"Safari Landscaping",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.34228,
+    22.052989,
+    -159.34228,
+    22.052989
+],
+  "geometry": {"coordinates":[-159.34227999999999,22.052989],"type":"Point"}
+}

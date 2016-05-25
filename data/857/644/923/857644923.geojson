@@ -1,0 +1,73 @@
+{
+  "id": 857644923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889776,21.324229,-157.889776,21.324229",
+    "geom:latitude":21.324229,
+    "geom:longitude":-157.889776,
+    "iso:country":"US",
+    "sg:address":"2122 Kaliawa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6141",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11EK0PpO0PusvEtiH8q7Lf_21.324229_-157.889776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205235,
+    "wof:geomhash":"947691396d880b55b60b39f58a9a7bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857644923
+        }
+    ],
+    "wof:id":857644923,
+    "wof:lastmodified":1464205235,
+    "wof:name":"Pride Auto Repair",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.889776,
+    21.324229,
+    -157.889776,
+    21.324229
+],
+  "geometry": {"coordinates":[-157.88977600000001,21.324229],"type":"Point"}
+}

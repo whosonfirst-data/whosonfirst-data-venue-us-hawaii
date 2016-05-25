@@ -1,0 +1,73 @@
+{
+  "id": 857517745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867442,21.318825,-157.867442,21.318825",
+    "geom:latitude":21.318825,
+    "geom:longitude":-157.867442,
+    "iso:country":"US",
+    "sg:address":"602 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8888",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2joRtbPy61LldPEMQ93pgC_21.318825_-157.867442@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202304,
+    "wof:geomhash":"a0f12d8675781e28a29ee46464080964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857517745
+        }
+    ],
+    "wof:id":857517745,
+    "wof:lastmodified":1464202304,
+    "wof:name":"M & G Automotive Group",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.867442,
+    21.318825,
+    -157.867442,
+    21.318825
+],
+  "geometry": {"coordinates":[-157.86744200000001,21.318825],"type":"Point"}
+}

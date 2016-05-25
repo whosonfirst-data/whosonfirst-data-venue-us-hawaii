@@ -1,0 +1,71 @@
+{
+  "id": 857512781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802612,21.301636,-157.802612,21.301636",
+    "geom:latitude":21.301636,
+    "geom:longitude":-157.802612,
+    "iso:country":"US",
+    "sg:address":"1628 Bertram St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 6441",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZIqhAgaXs6hBgCdW83dZt_21.301636_-157.802612@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202202,
+    "wof:geomhash":"4e1bc07cf35a4791811d146416a73c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857512781
+        }
+    ],
+    "wof:id":857512781,
+    "wof:lastmodified":1464202202,
+    "wof:name":"I Do Cab",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.802612,
+    21.301636,
+    -157.802612,
+    21.301636
+],
+  "geometry": {"coordinates":[-157.80261200000001,21.301636],"type":"Point"}
+}

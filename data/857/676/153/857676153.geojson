@@ -1,0 +1,75 @@
+{
+  "id": 857676153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.991967,19.640291,-155.991967,19.640291",
+    "geom:latitude":19.640291,
+    "geom:longitude":-155.991967,
+    "iso:country":"US",
+    "sg:address":"5700 Kuakini Hwy",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 6988",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eyxIEIqijQusdV4VkmFUc_19.640291_-155.991967@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206582,
+    "wof:geomhash":"5882c110aed690a49fc6fd6478d6c331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857676153
+        }
+    ],
+    "wof:id":857676153,
+    "wof:lastmodified":1464206582,
+    "wof:name":"Aloha Quality Gasoline",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -155.991967,
+    19.640291,
+    -155.991967,
+    19.640291
+],
+  "geometry": {"coordinates":[-155.99196699999999,19.640291],"type":"Point"}
+}

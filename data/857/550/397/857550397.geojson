@@ -1,0 +1,73 @@
+{
+  "id": 857550397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855345,21.322147,-157.855345,21.322147",
+    "geom:latitude":21.322147,
+    "geom:longitude":-157.855345,
+    "iso:country":"US",
+    "sg:address":"1901 Bachelot St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 5269",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iAd54IzXBNIJYbmebXHai_21.322147_-157.855345@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202938,
+    "wof:geomhash":"5732b7443e9bdb88b1841d610f10fa7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857550397
+        }
+    ],
+    "wof:id":857550397,
+    "wof:lastmodified":1464202938,
+    "wof:name":"Blind Rehabilitation",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -157.855345,
+    21.322147,
+    -157.855345,
+    21.322147
+],
+  "geometry": {"coordinates":[-157.855345,21.322147],"type":"Point"}
+}

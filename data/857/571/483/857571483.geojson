@@ -1,0 +1,71 @@
+{
+  "id": 857571483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799182,21.288027,-157.799182,21.288027",
+    "geom:latitude":21.288027,
+    "geom:longitude":-157.799182,
+    "iso:country":"US",
+    "sg:address":"3462 Hardesty St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 4697",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KewtdlYoPTQJITGaOpyyM_21.288027_-157.799182@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203380,
+    "wof:geomhash":"4abe7e9b0b608f9aadd30782c7cc4348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857571483
+        }
+    ],
+    "wof:id":857571483,
+    "wof:lastmodified":1464203380,
+    "wof:name":"We Haul-Supermove",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -157.799182,
+    21.288027,
+    -157.799182,
+    21.288027
+],
+  "geometry": {"coordinates":[-157.799182,21.288027],"type":"Point"}
+}

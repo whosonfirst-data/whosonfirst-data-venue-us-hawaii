@@ -1,0 +1,75 @@
+{
+  "id": 857522803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885614,21.326506,-157.885614,21.326506",
+    "geom:latitude":21.326506,
+    "geom:longitude":-157.885614,
+    "iso:country":"US",
+    "sg:address":"1923 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8008",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BUnOlnzOUI1mMDzeAnfCe_21.326506_-157.885614@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202409,
+    "wof:geomhash":"92f3942b5c6bac872f25245e50d2d40a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857522803
+        }
+    ],
+    "wof:id":857522803,
+    "wof:lastmodified":1464202409,
+    "wof:name":"Industrial Control Systems",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.885614,
+    21.326506,
+    -157.885614,
+    21.326506
+],
+  "geometry": {"coordinates":[-157.885614,21.326506],"type":"Point"}
+}

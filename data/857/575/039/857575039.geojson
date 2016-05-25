@@ -1,0 +1,71 @@
+{
+  "id": 857575039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083005,21.331211,-158.083005,21.331211",
+    "geom:latitude":21.331211,
+    "geom:longitude":-158.083005,
+    "iso:country":"US",
+    "sg:address":"1000 Uluohia St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 692 5159",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ZT0UUtIELweWNHdYJkCn_21.331211_-158.083005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203451,
+    "wof:geomhash":"7a63d3c5caaabe37310702df12da03ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857575039
+        }
+    ],
+    "wof:id":857575039,
+    "wof:lastmodified":1464203451,
+    "wof:name":"Environmental Services",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "dept"
+    ]
+},
+  "bbox": [
+    -158.083005,
+    21.331211,
+    -158.083005,
+    21.331211
+],
+  "geometry": {"coordinates":[-158.08300500000001,21.331211],"type":"Point"}
+}

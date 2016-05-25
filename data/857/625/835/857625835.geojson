@@ -1,0 +1,71 @@
+{
+  "id": 857625835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.973973,21.406565,-157.973973,21.406565",
+    "geom:latitude":21.406565,
+    "geom:longitude":-157.973973,
+    "iso:country":"US",
+    "sg:address":"1463 Kaumoli Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 7228",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b6B4X4XGZB5iFFWUup97d_21.406565_-157.973973@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204579,
+    "wof:geomhash":"c6b809846824abce261b34e14ff96023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857625835
+        }
+    ],
+    "wof:id":857625835,
+    "wof:lastmodified":1464204579,
+    "wof:name":"Abes Repair",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.973973,
+    21.406565,
+    -157.973973,
+    21.406565
+],
+  "geometry": {"coordinates":[-157.973973,21.406565],"type":"Point"}
+}

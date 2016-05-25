@@ -1,0 +1,69 @@
+{
+  "id": 857569789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830911,21.435378,-157.830911,21.435378",
+    "geom:latitude":21.435378,
+    "geom:longitude":-157.830911,
+    "iso:country":"US",
+    "sg:address":"470 Hui Aeko Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 3125",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85869059,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fg9QRsV8tFvJMvI7cmBzg_21.435378_-157.830911@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203348,
+    "wof:geomhash":"88aedb713d9fedb77f4c2b4adca73861",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85869059,
+            "region_id":85688671,
+            "venue_id":857569789
+        }
+    ],
+    "wof:id":857569789,
+    "wof:lastmodified":1464203348,
+    "wof:name":"Ahuimanu Elementary School",
+    "wof:parent_id":85869059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.830911,
+    21.435378,
+    -157.830911,
+    21.435378
+],
+  "geometry": {"coordinates":[-157.83091099999999,21.435378],"type":"Point"}
+}

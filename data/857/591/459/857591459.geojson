@@ -1,0 +1,69 @@
+{
+  "id": 857591459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011242,21.426913,-158.011242,21.426913",
+    "geom:latitude":21.426913,
+    "geom:longitude":-158.011242,
+    "iso:country":"US",
+    "sg:address":"500 Kamehameha Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 7566",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rGeMHNDxTDvlzJ3GcJtzZ_21.426913_-158.011242@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203793,
+    "wof:geomhash":"a643225da3da015b39fbdd6fe93dd2e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857591459
+        }
+    ],
+    "wof:id":857591459,
+    "wof:lastmodified":1464203793,
+    "wof:name":"Contractor's Equipment & Svc",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.011242,
+    21.426913,
+    -158.011242,
+    21.426913
+],
+  "geometry": {"coordinates":[-158.01124200000001,21.426913],"type":"Point"}
+}

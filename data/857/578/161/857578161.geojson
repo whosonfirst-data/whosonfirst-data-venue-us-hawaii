@@ -1,0 +1,73 @@
+{
+  "id": 857578161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.786765,21.279602,-157.786765,21.279602",
+    "geom:latitude":21.279602,
+    "geom:longitude":-157.786765,
+    "iso:country":"US",
+    "sg:address":"4191 Keanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 1704",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36fuO0Ant7pBSvh71rBVdl_21.279602_-157.786765@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203513,
+    "wof:geomhash":"6fd01fa2d718c61b7b64232c703a3ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857578161
+        }
+    ],
+    "wof:id":857578161,
+    "wof:lastmodified":1464203513,
+    "wof:name":"Azure Travel",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.786765,
+    21.279602,
+    -157.786765,
+    21.279602
+],
+  "geometry": {"coordinates":[-157.786765,21.279602],"type":"Point"}
+}

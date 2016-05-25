@@ -1,0 +1,68 @@
+{
+  "id": 857621983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.68271,20.878464,-156.68271,20.878464",
+    "geom:latitude":20.878464,
+    "geom:longitude":-156.68271,
+    "iso:country":"US",
+    "sg:address":"831 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 3472",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HM0jFI0ddvFUeD722s9p8_20.878464_-156.682710@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204473,
+    "wof:geomhash":"35ee09b129c3f9afba0fadbd37b07102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857621983
+        }
+    ],
+    "wof:id":857621983,
+    "wof:lastmodified":1464204473,
+    "wof:name":"Lahaina Fish Co",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.68271,
+    20.878464,
+    -156.68271,
+    20.878464
+],
+  "geometry": {"coordinates":[-156.68270999999999,20.878464],"type":"Point"}
+}

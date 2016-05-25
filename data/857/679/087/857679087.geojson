@@ -1,0 +1,71 @@
+{
+  "id": 857679087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.012733,21.46227,-158.012733,21.46227",
+    "geom:latitude":21.46227,
+    "geom:longitude":-158.012733,
+    "iso:country":"US",
+    "sg:address":"76 Kipapa Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 4423",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qf58FZ5gSK3N9QthY7EEf_21.462270_-158.012733@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206694,
+    "wof:geomhash":"00355f2cefa7882012ce3451dc316759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857679087
+        }
+    ],
+    "wof:id":857679087,
+    "wof:lastmodified":1464206694,
+    "wof:name":"Kipapa Elementary School",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -158.012733,
+    21.46227,
+    -158.012733,
+    21.46227
+],
+  "geometry": {"coordinates":[-158.012733,21.46227],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857592803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.817708,21.288071,-157.817708,21.288071",
+    "geom:latitude":21.288071,
+    "geom:longitude":-157.817708,
+    "iso:country":"US",
+    "sg:address":"2781 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 0513",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GOumLArb5JlWhJE3fEz2k_21.288071_-157.817708@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203823,
+    "wof:geomhash":"102a37247d8e375e648513197c9b6c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857592803
+        }
+    ],
+    "wof:id":857592803,
+    "wof:lastmodified":1464203823,
+    "wof:name":"ATM Home Check & Contracting",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.817708,
+    21.288071,
+    -157.817708,
+    21.288071
+],
+  "geometry": {"coordinates":[-157.81770800000001,21.288071],"type":"Point"}
+}

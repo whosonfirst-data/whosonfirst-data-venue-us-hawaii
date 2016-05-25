@@ -1,0 +1,78 @@
+{
+  "id": 857609285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840072,21.287156,-157.840072,21.287156",
+    "geom:latitude":21.287156,
+    "geom:longitude":-157.840072,
+    "iso:country":"US",
+    "sg:address":"1739 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 9666",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club",
+        "yacht"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0514cYUvuPqpheMycS6HWi_21.287156_-157.840072@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204193,
+    "wof:geomhash":"21db7c0671247bfe90d8e00317c3fc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857609285
+        }
+    ],
+    "wof:id":857609285,
+    "wof:lastmodified":1464204193,
+    "wof:name":"Hawaii Yacht Club Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "yacht"
+    ]
+},
+  "bbox": [
+    -157.840072,
+    21.287156,
+    -157.840072,
+    21.287156
+],
+  "geometry": {"coordinates":[-157.84007199999999,21.287156],"type":"Point"}
+}

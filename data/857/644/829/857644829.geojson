@@ -1,0 +1,73 @@
+{
+  "id": 857644829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878447,21.324962,-157.878447,21.324962",
+    "geom:latitude":21.324962,
+    "geom:longitude":-157.878447,
+    "iso:country":"US",
+    "sg:address":"1409 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8591",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lettering",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V2aZkTz24cC65W3rhTnpe_21.324962_-157.878447@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205232,
+    "wof:geomhash":"d6278a7921ce0ce8bf580367903a69c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857644829
+        }
+    ],
+    "wof:id":857644829,
+    "wof:lastmodified":1464205232,
+    "wof:name":"Art & Signs",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lettering",
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.878447,
+    21.324962,
+    -157.878447,
+    21.324962
+],
+  "geometry": {"coordinates":[-157.87844699999999,21.324962],"type":"Point"}
+}

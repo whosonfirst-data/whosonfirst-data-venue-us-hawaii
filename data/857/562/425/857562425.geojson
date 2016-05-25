@@ -1,0 +1,80 @@
+{
+  "id": 857562425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913219,21.31879,-157.913219,21.31879",
+    "geom:latitude":21.31879,
+    "geom:longitude":-157.913219,
+    "iso:country":"US",
+    "sg:address":"99 Mokuea Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 6311",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uwot13XBJz2pvJYqDC5c4_21.318790_-157.913219@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203210,
+    "wof:geomhash":"deb54dd0cd881a5ebdacec991238c096",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857562425
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857562425
+        }
+    ],
+    "wof:id":857562425,
+    "wof:lastmodified":1464203210,
+    "wof:name":"Airborne Realty Advisor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.913219,
+    21.31879,
+    -157.913219,
+    21.31879
+],
+  "geometry": {"coordinates":[-157.913219,21.31879],"type":"Point"}
+}

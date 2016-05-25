@@ -1,0 +1,74 @@
+{
+  "id": 857681881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861948,21.313419,-157.861948,21.313419",
+    "geom:latitude":21.313419,
+    "geom:longitude":-157.861948,
+    "iso:country":"US",
+    "sg:address":"1188 Maunakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/280436-ducs-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 6325",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBvywsCbSZd1llcv1bRdU_21.312900_-157.861928@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206811,
+    "wof:geomhash":"ae59493c432db60e7d5a9746c11f2730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857681881
+        }
+    ],
+    "wof:id":857681881,
+    "wof:lastmodified":1464206811,
+    "wof:name":"Duc's Bistro",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.861948,
+    21.313419,
+    -157.861948,
+    21.313419
+],
+  "geometry": {"coordinates":[-157.86194800000001,21.313419],"type":"Point"}
+}

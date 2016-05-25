@@ -1,0 +1,73 @@
+{
+  "id": 857651033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854623,21.300029,-157.854623,21.300029",
+    "geom:latitude":21.300029,
+    "geom:longitude":-157.854623,
+    "iso:country":"US",
+    "sg:address":"875 Waimanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2441",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DcU0k69KU0vqi4FvEQrD0_21.300029_-157.854623@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205496,
+    "wof:geomhash":"e09a2ae2be9cca2f45b8b7383a16a0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857651033
+        }
+    ],
+    "wof:id":857651033,
+    "wof:lastmodified":1464205496,
+    "wof:name":"Phillips Sales Co",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.854623,
+    21.300029,
+    -157.854623,
+    21.300029
+],
+  "geometry": {"coordinates":[-157.854623,21.300029],"type":"Point"}
+}

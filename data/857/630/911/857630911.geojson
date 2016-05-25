@@ -1,0 +1,75 @@
+{
+  "id": 857630911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.441067,20.894242,-156.441067,20.894242",
+    "geom:latitude":20.894242,
+    "geom:longitude":-156.441067,
+    "iso:country":"US",
+    "sg:address":"850 W Mokuea Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 5167",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532929,
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nKjvJ5Mqr1KIsTkoME4OH_20.894242_-156.441067@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204683,
+    "wof:geomhash":"8f95be8f397381f35c9d44ae93c93c43",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532929,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857630911
+        }
+    ],
+    "wof:id":857630911,
+    "wof:lastmodified":1464204683,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":102532929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.441067,
+    20.894242,
+    -156.441067,
+    20.894242
+],
+  "geometry": {"coordinates":[-156.441067,20.894242],"type":"Point"}
+}

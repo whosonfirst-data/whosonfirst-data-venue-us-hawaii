@@ -1,0 +1,71 @@
+{
+  "id": 857561347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.869243,21.330308,-157.869243,21.330308",
+    "geom:latitude":21.330308,
+    "geom:longitude":-157.869243,
+    "iso:country":"US",
+    "sg:address":"1311 Houghtailing St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0794",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wOQbQGLNjJlGX8pd2JlA8_21.330308_-157.869243@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203189,
+    "wof:geomhash":"6958ff203b6e816febd71536ff41f092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857561347
+        }
+    ],
+    "wof:id":857561347,
+    "wof:lastmodified":1464203189,
+    "wof:name":"Carpenters Apprenticeship",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -157.869243,
+    21.330308,
+    -157.869243,
+    21.330308
+],
+  "geometry": {"coordinates":[-157.86924300000001,21.330308],"type":"Point"}
+}

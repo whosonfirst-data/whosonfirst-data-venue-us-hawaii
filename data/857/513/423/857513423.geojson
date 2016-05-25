@@ -1,0 +1,69 @@
+{
+  "id": 857513423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.355003,21.994395,-159.355003,21.994395",
+    "geom:latitude":21.994395,
+    "geom:longitude":-159.355003,
+    "iso:country":"US",
+    "sg:address":"4131 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3990",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truss"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YbDEUQRWpCWGCQ9iEKFVM_21.994395_-159.355003@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202219,
+    "wof:geomhash":"0f934376fb0a7ecc3eb5de4d3912bc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857513423
+        }
+    ],
+    "wof:id":857513423,
+    "wof:lastmodified":1464202219,
+    "wof:name":"Island Truss",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truss"
+    ]
+},
+  "bbox": [
+    -159.355003,
+    21.994395,
+    -159.355003,
+    21.994395
+],
+  "geometry": {"coordinates":[-159.35500300000001,21.994395],"type":"Point"}
+}

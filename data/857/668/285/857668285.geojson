@@ -1,0 +1,73 @@
+{
+  "id": 857668285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102517,21.305534,-158.102517,21.305534",
+    "geom:latitude":21.305534,
+    "geom:longitude":-158.102517,
+    "iso:country":"US",
+    "sg:address":"209 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5737",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "block",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a1OUjktM9c48Cm6W4qLOG_21.305534_-158.102517@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206268,
+    "wof:geomhash":"058f2cd4cb8ea137eb46640b06f2ecc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857668285
+        }
+    ],
+    "wof:id":857668285,
+    "wof:lastmodified":1464206268,
+    "wof:name":"Tileco Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "block",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -158.102517,
+    21.305534,
+    -158.102517,
+    21.305534
+],
+  "geometry": {"coordinates":[-158.10251700000001,21.305534],"type":"Point"}
+}

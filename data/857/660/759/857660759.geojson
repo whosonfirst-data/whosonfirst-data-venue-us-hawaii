@@ -1,0 +1,77 @@
+{
+  "id": 857660759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.35092,21.97933,-159.35092,21.97933",
+    "geom:latitude":21.97933,
+    "geom:longitude":-159.35092,
+    "iso:country":"US",
+    "sg:address":"3273 Hoolimalima Pl",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3653",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "franchising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528943,
+        85890567,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85688671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aw7RCvcmM4HzUh9WmHTn9_21.979330_-159.350920@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205942,
+    "wof:geomhash":"3166e8c37d71cc8b2985336a76bb576f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528943,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857660759
+        }
+    ],
+    "wof:id":857660759,
+    "wof:lastmodified":1464205942,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":102528943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "franchising"
+    ]
+},
+  "bbox": [
+    -159.35092,
+    21.97933,
+    -159.35092,
+    21.97933
+],
+  "geometry": {"coordinates":[-159.35092,21.97933],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857618385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84713,21.293936,-157.84713,21.293936",
+    "geom:latitude":21.293936,
+    "geom:longitude":-157.84713,
+    "iso:country":"US",
+    "sg:address":"1235 Kona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8522",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "used",
+        "leasing",
+        "dealer",
+        "car"
+    ],
+    "sg:website":"www.autosourcehawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028cvKhguf7NPhIuVvpaWx_21.293936_-157.847130@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204385,
+    "wof:geomhash":"0901fc868704b9868604e93c68f2f890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857618385
+        }
+    ],
+    "wof:id":857618385,
+    "wof:lastmodified":1464204385,
+    "wof:name":"Autosource LLC",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "used",
+        "leasing",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.84713,
+    21.293936,
+    -157.84713,
+    21.293936
+],
+  "geometry": {"coordinates":[-157.84712999999999,21.293936],"type":"Point"}
+}

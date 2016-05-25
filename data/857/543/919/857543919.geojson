@@ -1,0 +1,74 @@
+{
+  "id": 857543919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.89863,21.335685,-157.89863,21.335685",
+    "geom:latitude":21.335685,
+    "geom:longitude":-157.89863,
+    "iso:country":"US",
+    "sg:address":"697 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 2500",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.mrsandmaninc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xCO1NpKGwdQO8daz8XHPb_21.335685_-157.898630@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202819,
+    "wof:geomhash":"f76e52a3661c6ee8a80e820979f1afe6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857543919
+        }
+    ],
+    "wof:id":857543919,
+    "wof:lastmodified":1464202819,
+    "wof:name":"Mr Sandman Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.89863,
+    21.335685,
+    -157.89863,
+    21.335685
+],
+  "geometry": {"coordinates":[-157.89863,21.335685],"type":"Point"}
+}

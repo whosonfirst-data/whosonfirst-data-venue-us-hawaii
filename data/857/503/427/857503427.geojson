@@ -1,0 +1,71 @@
+{
+  "id": 857503427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506478,20.887567,-156.506478,20.887567",
+    "geom:latitude":20.887567,
+    "geom:longitude":-156.506478,
+    "iso:country":"US",
+    "sg:address":"2133 Kaohu St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7276",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N5rmExqP2j40Dz8GZ6sXi_20.887567_-156.506478@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201993,
+    "wof:geomhash":"7954da7b39033b8f82808117f8dcfca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857503427
+        }
+    ],
+    "wof:id":857503427,
+    "wof:lastmodified":1464201993,
+    "wof:name":"Ichiban Okazuya Hawaii",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -156.506478,
+    20.887567,
+    -156.506478,
+    20.887567
+],
+  "geometry": {"coordinates":[-156.50647799999999,20.887567],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857619821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.354688,20.812035,-156.354688,20.812035",
+    "geom:latitude":20.812035,
+    "geom:longitude":-156.354688,
+    "iso:country":"US",
+    "sg:address":"653 Inia Pl",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 876 0183",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iSJf80e7axC21Lpj9zYSq_20.812035_-156.354688@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204429,
+    "wof:geomhash":"1fa3f965274700d68e62e5ed585d4972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857619821
+        }
+    ],
+    "wof:id":857619821,
+    "wof:lastmodified":1464204429,
+    "wof:name":"Sweet Kula Enterprises",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -156.354688,
+    20.812035,
+    -156.354688,
+    20.812035
+],
+  "geometry": {"coordinates":[-156.35468800000001,20.812035],"type":"Point"}
+}

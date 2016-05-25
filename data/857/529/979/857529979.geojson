@@ -1,0 +1,71 @@
+{
+  "id": 857529979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.925096,21.379641,-157.925096,21.379641",
+    "geom:latitude":21.379641,
+    "geom:longitude":-157.925096,
+    "iso:country":"US",
+    "sg:address":"600 Kulawea St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 7230",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54KJCfAH74t7G0Ft6w8A9Y_21.379641_-157.925096@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202542,
+    "wof:geomhash":"fa08cb9a71f9fc04ccc8b1014b677e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857529979
+        }
+    ],
+    "wof:id":857529979,
+    "wof:lastmodified":1464202542,
+    "wof:name":"Aiea Intermediate School",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -157.925096,
+    21.379641,
+    -157.925096,
+    21.379641
+],
+  "geometry": {"coordinates":[-157.925096,21.379641],"type":"Point"}
+}

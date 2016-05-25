@@ -1,0 +1,79 @@
+{
+  "id": 857669813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910878,21.393986,-157.910878,21.393986",
+    "geom:latitude":21.393986,
+    "geom:longitude":-157.910878,
+    "iso:country":"US",
+    "sg:address":"49 Kupono Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6883",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890055,
+        102085417,
+        85937671,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ct5EnGSxLA1p61webVqn_21.393986_-157.910878@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206334,
+    "wof:geomhash":"084eefc2696ff15b6f1f08ceb29de255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890055,
+            "region_id":85688671,
+            "venue_id":857669813
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857669813
+        }
+    ],
+    "wof:id":857669813,
+    "wof:lastmodified":1464206334,
+    "wof:name":"Web Featz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -157.910878,
+    21.393986,
+    -157.910878,
+    21.393986
+],
+  "geometry": {"coordinates":[-157.910878,21.393986],"type":"Point"}
+}

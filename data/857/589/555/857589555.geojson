@@ -1,0 +1,71 @@
+{
+  "id": 857589555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.093246,21.308573,-158.093246,21.308573",
+    "geom:latitude":21.308573,
+    "geom:longitude":-158.093246,
+    "iso:country":"US",
+    "sg:address":"284 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 690 1093",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37VfSjAfbjOOaMouRmG8YS_21.308573_-158.093246@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203750,
+    "wof:geomhash":"4738009041122567bcabd8677e16ecfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857589555
+        }
+    ],
+    "wof:id":857589555,
+    "wof:lastmodified":1464203750,
+    "wof:name":"Atlas Floor & Tile",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.093246,
+    21.308573,
+    -158.093246,
+    21.308573
+],
+  "geometry": {"coordinates":[-158.09324599999999,21.308573],"type":"Point"}
+}

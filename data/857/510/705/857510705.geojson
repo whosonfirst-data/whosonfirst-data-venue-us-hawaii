@@ -1,0 +1,71 @@
+{
+  "id": 857510705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.99961,21.389389,-157.99961,21.389389",
+    "geom:latitude":21.389389,
+    "geom:longitude":-157.99961,
+    "iso:country":"US",
+    "sg:address":"337 Kahuanani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 8807",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aTxX4vYM7Cg3lUGtbNS0m_21.389389_-157.999610@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202161,
+    "wof:geomhash":"be5e11dc1d2c0027b300d9a81f09ed98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857510705
+        }
+    ],
+    "wof:id":857510705,
+    "wof:lastmodified":1464202161,
+    "wof:name":"Joeys Auto Service",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.99961,
+    21.389389,
+    -157.99961,
+    21.389389
+],
+  "geometry": {"coordinates":[-157.99960999999999,21.389389],"type":"Point"}
+}

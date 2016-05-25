@@ -1,0 +1,69 @@
+{
+  "id": 857527529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025297,21.499824,-158.025297,21.499824",
+    "geom:latitude":21.499824,
+    "geom:longitude":-158.025297,
+    "iso:country":"US",
+    "sg:address":"906 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0747",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wSeCvWNYMhG7SfIdTypBa_21.499824_-158.025297@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202495,
+    "wof:geomhash":"e5d220dfd0e1cc27515864fb5eccbf4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857527529
+        }
+    ],
+    "wof:id":857527529,
+    "wof:lastmodified":1464202495,
+    "wof:name":"Wesley K Nihei Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -158.025297,
+    21.499824,
+    -158.025297,
+    21.499824
+],
+  "geometry": {"coordinates":[-158.02529699999999,21.499824],"type":"Point"}
+}

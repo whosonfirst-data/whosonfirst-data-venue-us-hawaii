@@ -1,0 +1,73 @@
+{
+  "id": 857639177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.949861,21.340082,-157.949861,21.340082",
+    "geom:latitude":21.340082,
+    "geom:longitude":-157.949861,
+    "iso:country":"US",
+    "sg:address":"2344 Apollo Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 4243",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coordinator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IYlXXtkzjOQMoMQET6rhU_21.340082_-157.949861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204990,
+    "wof:geomhash":"f6a35350e248332b16e6683551032ea4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857639177
+        }
+    ],
+    "wof:id":857639177,
+    "wof:lastmodified":1464204990,
+    "wof:name":"Julie Lara",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coordinator"
+    ]
+},
+  "bbox": [
+    -157.949861,
+    21.340082,
+    -157.949861,
+    21.340082
+],
+  "geometry": {"coordinates":[-157.949861,21.340082],"type":"Point"}
+}

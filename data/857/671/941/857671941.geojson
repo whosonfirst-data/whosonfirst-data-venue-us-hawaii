@@ -1,0 +1,73 @@
+{
+  "id": 857671941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.796845,21.277774,-157.796845,21.277774",
+    "geom:latitude":21.277774,
+    "geom:longitude":-157.796845,
+    "iso:country":"US",
+    "sg:address":"1030 15th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 6046",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GQB3rt9XTf3IH3gsAi1F_21.277774_-157.796845@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206408,
+    "wof:geomhash":"423cde52f8f196454e966f52f5c7ce89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857671941
+        }
+    ],
+    "wof:id":857671941,
+    "wof:lastmodified":1464206408,
+    "wof:name":"Muramoto Landscaping",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.796845,
+    21.277774,
+    -157.796845,
+    21.277774
+],
+  "geometry": {"coordinates":[-157.79684499999999,21.277774],"type":"Point"}
+}

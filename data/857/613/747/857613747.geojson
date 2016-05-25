@@ -1,0 +1,71 @@
+{
+  "id": 857613747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829224,21.29932,-157.829224,21.29932",
+    "geom:latitude":21.29932,
+    "geom:longitude":-157.829224,
+    "iso:country":"US",
+    "sg:address":"1916 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 258 3343",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aCFcjXS6POCCbVoDgrhqD_21.299320_-157.829224@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204297,
+    "wof:geomhash":"430a584230e2d2d1dcee22b06181c347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857613747
+        }
+    ],
+    "wof:id":857613747,
+    "wof:lastmodified":1464204297,
+    "wof:name":"Eddie Horner Construction",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.829224,
+    21.29932,
+    -157.829224,
+    21.29932
+],
+  "geometry": {"coordinates":[-157.82922400000001,21.29932],"type":"Point"}
+}

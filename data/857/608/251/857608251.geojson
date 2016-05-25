@@ -1,0 +1,77 @@
+{
+  "id": 857608251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862285,21.311526,-157.862285,21.311526",
+    "geom:latitude":21.311526,
+    "geom:longitude":-157.862285,
+    "iso:country":"US",
+    "sg:address":"20 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 550 0233",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFPE4x0PQHs7BoVkaYUzO_21.311526_-157.862285@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204170,
+    "wof:geomhash":"8d036a5103978b76dafbc0b945c5c10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857608251
+        }
+    ],
+    "wof:id":857608251,
+    "wof:lastmodified":1464204170,
+    "wof:name":"Mel's Videocade Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.862285,
+    21.311526,
+    -157.862285,
+    21.311526
+],
+  "geometry": {"coordinates":[-157.86228500000001,21.311526],"type":"Point"}
+}

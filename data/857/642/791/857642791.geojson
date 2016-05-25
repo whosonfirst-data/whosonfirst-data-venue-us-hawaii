@@ -1,0 +1,79 @@
+{
+  "id": 857642791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.470467,22.21416,-159.470467,22.21416",
+    "geom:latitude":22.21416,
+    "geom:longitude":-159.470467,
+    "iso:country":"US",
+    "sg:address":"4480 Ka Haku Rd",
+    "sg:city":"Hanalei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 826 7423",
+    "sg:postcode":"96714",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937489,
+        102085457,
+        85890167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_173Yna5vp18UPDvRGRvJOY_22.214160_-159.470467@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205129,
+    "wof:geomhash":"d6cd2230bb7328f31de741b54cd34aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937489,
+            "neighbourhood_id":85890167,
+            "region_id":85688671,
+            "venue_id":857642791
+        }
+    ],
+    "wof:id":857642791,
+    "wof:lastmodified":1464205129,
+    "wof:name":"Richard's Plumbing Repair",
+    "wof:parent_id":85890167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -159.470467,
+    22.21416,
+    -159.470467,
+    22.21416
+],
+  "geometry": {"coordinates":[-159.47046700000001,22.21416],"type":"Point"}
+}

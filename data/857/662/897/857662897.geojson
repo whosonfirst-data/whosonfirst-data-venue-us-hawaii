@@ -1,0 +1,71 @@
+{
+  "id": 857662897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822966,21.277176,-157.822966,21.277176",
+    "geom:latitude":21.277176,
+    "geom:longitude":-157.822966,
+    "iso:country":"US",
+    "sg:address":"2423 Cleghorn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 1726",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RC7Ue2erCfd7FsxSOclbF_21.277176_-157.822966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206045,
+    "wof:geomhash":"25ee46aa6b5c074139473e802d5c9fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857662897
+        }
+    ],
+    "wof:id":857662897,
+    "wof:lastmodified":1464206045,
+    "wof:name":"Lealea Hale Hotel",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -157.822966,
+    21.277176,
+    -157.822966,
+    21.277176
+],
+  "geometry": {"coordinates":[-157.82296600000001,21.277176],"type":"Point"}
+}

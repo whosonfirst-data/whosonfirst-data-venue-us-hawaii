@@ -1,0 +1,66 @@
+{
+  "id": 857558193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.695438,21.290854,-157.695438,21.290854",
+    "geom:latitude":21.290854,
+    "geom:longitude":-157.695438,
+    "iso:country":"US",
+    "sg:address":"643 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 8671",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DsvfkjsObsC8kNBf3wCMq_21.290854_-157.695438@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203107,
+    "wof:geomhash":"124deb1b89323483394fea5e0daf60a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857558193
+        }
+    ],
+    "wof:id":857558193,
+    "wof:lastmodified":1464203107,
+    "wof:name":"Medstat",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.695438,
+    21.290854,
+    -157.695438,
+    21.290854
+],
+  "geometry": {"coordinates":[-157.695438,21.290854],"type":"Point"}
+}

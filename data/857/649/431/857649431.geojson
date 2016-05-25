@@ -1,0 +1,71 @@
+{
+  "id": 857649431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807104,21.27872,-157.807104,21.27872",
+    "geom:latitude":21.27872,
+    "geom:longitude":-157.807104,
+    "iso:country":"US",
+    "sg:address":"3430 Maunaloa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7323",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gbU44eVPeSe6es2dPopnt_21.278720_-157.807104@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205433,
+    "wof:geomhash":"d962739b7a141e4cc0525ceae4b46044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857649431
+        }
+    ],
+    "wof:id":857649431,
+    "wof:lastmodified":1464205433,
+    "wof:name":"Kumon USA",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -157.807104,
+    21.27872,
+    -157.807104,
+    21.27872
+],
+  "geometry": {"coordinates":[-157.80710400000001,21.27872],"type":"Point"}
+}

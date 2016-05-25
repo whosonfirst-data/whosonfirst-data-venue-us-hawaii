@@ -1,0 +1,73 @@
+{
+  "id": 857650281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.912861,21.336622,-157.912861,21.336622",
+    "geom:latitude":21.336622,
+    "geom:longitude":-157.912861,
+    "iso:country":"US",
+    "sg:address":"3103 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 0000",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uj0uA8lJvglM3k6urGWA3_21.336622_-157.912861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205470,
+    "wof:geomhash":"24d0632bda26c041708b398ac8cecfa6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857650281
+        }
+    ],
+    "wof:id":857650281,
+    "wof:lastmodified":1464205470,
+    "wof:name":"Kaneohe 24 Hour Tow",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.912861,
+    21.336622,
+    -157.912861,
+    21.336622
+],
+  "geometry": {"coordinates":[-157.91286099999999,21.336622],"type":"Point"}
+}

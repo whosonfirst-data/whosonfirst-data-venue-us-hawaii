@@ -1,0 +1,71 @@
+{
+  "id": 857663241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859783,21.321821,-157.859783,21.321821",
+    "geom:latitude":21.321821,
+    "geom:longitude":-157.859783,
+    "iso:country":"US",
+    "sg:address":"1658 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 5288",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Aj4Sfr5odgeNFwziqwISQ_21.321821_-157.859783@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206059,
+    "wof:geomhash":"8711921df8753e289a4bdce6c2e43e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857663241
+        }
+    ],
+    "wof:id":857663241,
+    "wof:lastmodified":1464206059,
+    "wof:name":"Liliha Barber Shop",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.859783,
+    21.321821,
+    -157.859783,
+    21.321821
+],
+  "geometry": {"coordinates":[-157.85978299999999,21.321821],"type":"Point"}
+}

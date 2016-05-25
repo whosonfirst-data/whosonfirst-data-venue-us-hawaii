@@ -1,0 +1,73 @@
+{
+  "id": 857594877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815387,21.27532,-157.815387,21.27532",
+    "geom:latitude":21.27532,
+    "geom:longitude":-157.815387,
+    "iso:country":"US",
+    "sg:address":"465 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 6937",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xuQeDj3hQCpQYMolecXNl_21.275320_-157.815387@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203869,
+    "wof:geomhash":"18f1814b2b8238af6653f0b8071b97ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857594877
+        }
+    ],
+    "wof:id":857594877,
+    "wof:lastmodified":1464203869,
+    "wof:name":"Ecologics",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -157.815387,
+    21.27532,
+    -157.815387,
+    21.27532
+],
+  "geometry": {"coordinates":[-157.81538699999999,21.27532],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857641211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910136,21.347432,-157.910136,21.347432",
+    "geom:latitude":21.347432,
+    "geom:longitude":-157.910136,
+    "iso:country":"US",
+    "sg:address":"5080 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 8962",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rKeVvIIrmNISEnPCffLtj_21.347432_-157.910136@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205069,
+    "wof:geomhash":"c8158dcbd88892b4b0e57994e82d028d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857641211
+        }
+    ],
+    "wof:id":857641211,
+    "wof:lastmodified":1464205069,
+    "wof:name":"Country Club Plaza",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.910136,
+    21.347432,
+    -157.910136,
+    21.347432
+],
+  "geometry": {"coordinates":[-157.91013599999999,21.347432],"type":"Point"}
+}

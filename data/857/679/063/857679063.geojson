@@ -1,0 +1,77 @@
+{
+  "id": 857679063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865208,21.319174,-157.865208,21.319174",
+    "geom:latitude":21.319174,
+    "geom:longitude":-157.865208,
+    "iso:country":"US",
+    "sg:address":"555 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8445",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QRrF48mFGPHJP3xM2I2mJ_21.319174_-157.865208@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206693,
+    "wof:geomhash":"2e0d30f552e387fb4b2ec4aef5556f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857679063
+        }
+    ],
+    "wof:id":857679063,
+    "wof:lastmodified":1464206693,
+    "wof:name":"Alpha Video",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.865208,
+    21.319174,
+    -157.865208,
+    21.319174
+],
+  "geometry": {"coordinates":[-157.865208,21.319174],"type":"Point"}
+}

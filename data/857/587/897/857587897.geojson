@@ -1,0 +1,71 @@
+{
+  "id": 857587897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744641,21.407235,-157.744641,21.407235",
+    "geom:latitude":21.407235,
+    "geom:longitude":-157.744641,
+    "iso:country":"US",
+    "sg:address":"122 Palapu St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 7763",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oUshhsnDDFx616tcxTP9Y_21.407235_-157.744641@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203711,
+    "wof:geomhash":"588172e8afa0494eeee82364f704a5fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857587897
+        }
+    ],
+    "wof:id":857587897,
+    "wof:lastmodified":1464203711,
+    "wof:name":"Rovette Salon",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.744641,
+    21.407235,
+    -157.744641,
+    21.407235
+],
+  "geometry": {"coordinates":[-157.744641,21.407235],"type":"Point"}
+}

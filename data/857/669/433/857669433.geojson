@@ -1,0 +1,71 @@
+{
+  "id": 857669433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.705724,21.270792,-157.705724,21.270792",
+    "geom:latitude":21.270792,
+    "geom:longitude":-157.705724,
+    "iso:country":"US",
+    "sg:address":"79 Lawai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 3964",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLKqGHmKBBKvvDFWtkm1l_21.270792_-157.705724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206318,
+    "wof:geomhash":"010cc3b1ca22f894173dcf6a7d2ebc0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857669433
+        }
+    ],
+    "wof:id":857669433,
+    "wof:lastmodified":1464206318,
+    "wof:name":"Parker Builders",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.705724,
+    21.270792,
+    -157.705724,
+    21.270792
+],
+  "geometry": {"coordinates":[-157.705724,21.270792],"type":"Point"}
+}

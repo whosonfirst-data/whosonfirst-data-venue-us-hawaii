@@ -1,0 +1,75 @@
+{
+  "id": 857644377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.068396,19.69471,-155.068396,19.69471",
+    "geom:latitude":19.69471,
+    "geom:longitude":-155.068396,
+    "iso:country":"US",
+    "sg:address":"2010 Kilauea Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 895 4185",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KJbCFLztyX3mk05D799Kz_19.694710_-155.068396@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205208,
+    "wof:geomhash":"7d2acd93c056b1d403a82af1eb843b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857644377
+        }
+    ],
+    "wof:id":857644377,
+    "wof:lastmodified":1464205208,
+    "wof:name":"Services Hawaii",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -155.068396,
+    19.69471,
+    -155.068396,
+    19.69471
+],
+  "geometry": {"coordinates":[-155.06839600000001,19.69471],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857576497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838442,21.306242,-157.838442,21.306242",
+    "geom:latitude":21.306242,
+    "geom:longitude":-157.838442,
+    "iso:country":"US",
+    "sg:address":"1616 Liholiho St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 258 7985",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RTNwIpcZFl3Sn70nWliO1_21.306242_-157.838442@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203480,
+    "wof:geomhash":"81246e4afe1f96344c9757181affd4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857576497
+        }
+    ],
+    "wof:id":857576497,
+    "wof:lastmodified":1464203480,
+    "wof:name":"Picture This Photography",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -157.838442,
+    21.306242,
+    -157.838442,
+    21.306242
+],
+  "geometry": {"coordinates":[-157.83844199999999,21.306242],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857564291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.837159,21.299373,-157.837159,21.299373",
+    "geom:latitude":21.299373,
+    "geom:longitude":-157.837159,
+    "iso:country":"US",
+    "sg:address":"1500 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4814",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTAFPLxPmuThXK41rtHa8_21.299373_-157.837159@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203243,
+    "wof:geomhash":"9ab463211fa9ed8aaba6153ea08b93e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857564291
+        }
+    ],
+    "wof:id":857564291,
+    "wof:lastmodified":1464203243,
+    "wof:name":"Julia M Phillips Rn MA",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -157.837159,
+    21.299373,
+    -157.837159,
+    21.299373
+],
+  "geometry": {"coordinates":[-157.83715900000001,21.299373],"type":"Point"}
+}

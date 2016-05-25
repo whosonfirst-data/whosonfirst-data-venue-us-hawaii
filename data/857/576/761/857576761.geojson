@@ -1,0 +1,71 @@
+{
+  "id": 857576761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007504,21.385549,-158.007504,21.385549",
+    "geom:latitude":21.385549,
+    "geom:longitude":-158.007504,
+    "iso:country":"US",
+    "sg:address":"258 Waipahu Depot St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3451",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LOqtE8eERCZdnOs2wqTSh_21.385549_-158.007504@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203484,
+    "wof:geomhash":"9f3227e6fc292eab31026504bdd6f574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857576761
+        }
+    ],
+    "wof:id":857576761,
+    "wof:lastmodified":1464203484,
+    "wof:name":"Pearl City Travel",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -158.007504,
+    21.385549,
+    -158.007504,
+    21.385549
+],
+  "geometry": {"coordinates":[-158.00750400000001,21.385549],"type":"Point"}
+}

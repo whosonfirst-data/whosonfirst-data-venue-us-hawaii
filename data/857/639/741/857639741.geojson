@@ -1,0 +1,71 @@
+{
+  "id": 857639741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799197,21.260449,-157.799197,21.260449",
+    "geom:latitude":21.260449,
+    "geom:longitude":-157.799197,
+    "iso:country":"US",
+    "sg:address":"3890 Pokapahu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9508",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_621iA7I4ffp0UAvEId7QOg_21.260449_-157.799197@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205010,
+    "wof:geomhash":"b415cce86dbfd592bb0fc36d4523ca6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857639741
+        }
+    ],
+    "wof:id":857639741,
+    "wof:lastmodified":1464205010,
+    "wof:name":"Richard Dixon Moore MD",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.799197,
+    21.260449,
+    -157.799197,
+    21.260449
+],
+  "geometry": {"coordinates":[-157.79919699999999,21.260449],"type":"Point"}
+}

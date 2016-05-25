@@ -1,0 +1,66 @@
+{
+  "id": 857650279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798493,21.282397,-157.798493,21.282397",
+    "geom:latitude":21.282397,
+    "geom:longitude":-157.798493,
+    "iso:country":"US",
+    "sg:address":"3611 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 6779",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DyMyeVmXh8vI4Tj5jV1eY_21.282397_-157.798493@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205470,
+    "wof:geomhash":"3858cddb5dca0b2ae544d6fa05f9a8ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857650279
+        }
+    ],
+    "wof:id":857650279,
+    "wof:lastmodified":1464205470,
+    "wof:name":"Kaimuki Chop Suey",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.798493,
+    21.282397,
+    -157.798493,
+    21.282397
+],
+  "geometry": {"coordinates":[-157.79849300000001,21.282397],"type":"Point"}
+}

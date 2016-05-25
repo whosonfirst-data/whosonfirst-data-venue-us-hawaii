@@ -1,0 +1,73 @@
+{
+  "id": 857600913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.962147,19.603817,-155.962147,19.603817",
+    "geom:latitude":19.603817,
+    "geom:longitude":-155.962147,
+    "iso:country":"US",
+    "sg:address":"6447 Kuakini Hwy",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 8005",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZezGMuS3786I2Lc1z39BE_19.603817_-155.962147@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204006,
+    "wof:geomhash":"b6022800cd71ab798fc7ccf09fdeac8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890319,
+            "region_id":85688671,
+            "venue_id":857600913
+        }
+    ],
+    "wof:id":857600913,
+    "wof:lastmodified":1464204006,
+    "wof:name":"Kona Pediatrics",
+    "wof:parent_id":85890319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -155.962147,
+    19.603817,
+    -155.962147,
+    19.603817
+],
+  "geometry": {"coordinates":[-155.96214699999999,19.603817],"type":"Point"}
+}

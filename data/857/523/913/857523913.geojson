@@ -1,0 +1,71 @@
+{
+  "id": 857523913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814675,21.275661,-157.814675,21.275661",
+    "geom:latitude":21.275661,
+    "geom:longitude":-157.814675,
+    "iso:country":"US",
+    "sg:address":"3308 Kanaina Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 0177",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mp8OIZfZ99g9tHGqqolAe_21.275661_-157.814675@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202428,
+    "wof:geomhash":"d2613f37ddc98d272e753e2c8c3e99aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857523913
+        }
+    ],
+    "wof:id":857523913,
+    "wof:lastmodified":1464202428,
+    "wof:name":"Rainbow Drive-In",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drive"
+    ]
+},
+  "bbox": [
+    -157.814675,
+    21.275661,
+    -157.814675,
+    21.275661
+],
+  "geometry": {"coordinates":[-157.81467499999999,21.275661],"type":"Point"}
+}

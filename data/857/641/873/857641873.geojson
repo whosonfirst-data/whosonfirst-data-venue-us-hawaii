@@ -1,0 +1,75 @@
+{
+  "id": 857641873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826114,21.295445,-157.826114,21.295445",
+    "geom:latitude":21.295445,
+    "geom:longitude":-157.826114,
+    "iso:country":"US",
+    "sg:address":"2324 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 1222",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lo4cYCxUy90rin672cZDH_21.295445_-157.826114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205094,
+    "wof:geomhash":"e8eea840d3f8044793d59b406a80325c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857641873
+        }
+    ],
+    "wof:id":857641873,
+    "wof:lastmodified":1464205094,
+    "wof:name":"South Bay Carpet & Upholstery",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -157.826114,
+    21.295445,
+    -157.826114,
+    21.295445
+],
+  "geometry": {"coordinates":[-157.82611399999999,21.295445],"type":"Point"}
+}

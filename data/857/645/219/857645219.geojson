@@ -1,0 +1,75 @@
+{
+  "id": 857645219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851409,21.309166,-157.851409,21.309166",
+    "geom:latitude":21.309166,
+    "geom:longitude":-157.851409,
+    "iso:country":"US",
+    "sg:address":"520 Magellan Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 4419",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x51pUp0lA5Vg8wAhxTevu_21.309166_-157.851409@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205247,
+    "wof:geomhash":"25cdb749c99342628370bb8738197266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857645219
+        }
+    ],
+    "wof:id":857645219,
+    "wof:lastmodified":1464205247,
+    "wof:name":"K & T Maintenance",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -157.851409,
+    21.309166,
+    -157.851409,
+    21.309166
+],
+  "geometry": {"coordinates":[-157.85140899999999,21.309166],"type":"Point"}
+}

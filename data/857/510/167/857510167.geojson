@@ -1,0 +1,73 @@
+{
+  "id": 857510167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.999235,21.508227,-157.999235,21.508227",
+    "geom:latitude":21.508227,
+    "geom:longitude":-157.999235,
+    "iso:country":"US",
+    "sg:address":"2066 Puu Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 6162",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nT5w5H8LhC8dgW7gNOejF_21.508227_-157.999235@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202147,
+    "wof:geomhash":"df5719e9b38296ffefcb4409569a836e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857510167
+        }
+    ],
+    "wof:id":857510167,
+    "wof:lastmodified":1464202147,
+    "wof:name":"A-1 Extraction",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -157.999235,
+    21.508227,
+    -157.999235,
+    21.508227
+],
+  "geometry": {"coordinates":[-157.999235,21.508227],"type":"Point"}
+}

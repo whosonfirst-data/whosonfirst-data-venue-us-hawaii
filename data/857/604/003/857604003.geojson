@@ -1,0 +1,71 @@
+{
+  "id": 857604003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785848,21.401984,-157.785848,21.401984",
+    "geom:latitude":21.401984,
+    "geom:longitude":-157.785848,
+    "iso:country":"US",
+    "sg:address":"230 Hikiwale Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 5121",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Q5YsGWXJirwTwaAxyjy9_21.401984_-157.785848@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204075,
+    "wof:geomhash":"2a474f29eb6ad6a10afe1c660d9dbec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857604003
+        }
+    ],
+    "wof:id":857604003,
+    "wof:lastmodified":1464204075,
+    "wof:name":"KEG Construction & Drywall",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.785848,
+    21.401984,
+    -157.785848,
+    21.401984
+],
+  "geometry": {"coordinates":[-157.78584799999999,21.401984],"type":"Point"}
+}

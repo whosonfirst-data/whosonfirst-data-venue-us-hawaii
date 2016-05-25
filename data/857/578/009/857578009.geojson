@@ -1,0 +1,66 @@
+{
+  "id": 857578009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860145,21.296167,-157.860145,21.296167",
+    "geom:latitude":21.296167,
+    "geom:longitude":-157.860145,
+    "iso:country":"US",
+    "sg:address":"770 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 7400",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fhUoBHVDiyMCvTbBxabOy_21.296167_-157.860145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203510,
+    "wof:geomhash":"0df769aa4adbb288b86ba4371f32d204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857578009
+        }
+    ],
+    "wof:id":857578009,
+    "wof:lastmodified":1464203510,
+    "wof:name":"Pfleuger Honda",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.860145,
+    21.296167,
+    -157.860145,
+    21.296167
+],
+  "geometry": {"coordinates":[-157.86014499999999,21.296167],"type":"Point"}
+}

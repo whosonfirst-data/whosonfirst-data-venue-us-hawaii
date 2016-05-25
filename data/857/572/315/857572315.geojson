@@ -1,0 +1,71 @@
+{
+  "id": 857572315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788538,21.292804,-157.788538,21.292804",
+    "geom:latitude":21.292804,
+    "geom:longitude":-157.788538,
+    "iso:country":"US",
+    "sg:address":"3815 Mariposa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2799",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wuxD07tQ0hxg8Neg52eCa_21.292804_-157.788538@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203394,
+    "wof:geomhash":"c913cf9d8c18da756b5c724078159f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857572315
+        }
+    ],
+    "wof:id":857572315,
+    "wof:lastmodified":1464203394,
+    "wof:name":"Shirl A Alvaro",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -157.788538,
+    21.292804,
+    -157.788538,
+    21.292804
+],
+  "geometry": {"coordinates":[-157.78853799999999,21.292804],"type":"Point"}
+}

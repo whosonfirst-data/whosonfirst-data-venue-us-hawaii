@@ -1,0 +1,80 @@
+{
+  "id": 857619629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.463618,20.885043,-156.463618,20.885043",
+    "geom:latitude":20.885043,
+    "geom:longitude":-156.463618,
+    "iso:country":"US",
+    "sg:address":"60 E Wakea Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 4663",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "medic",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BzAt8wEYvzIo4zGSpQTHv_20.885043_-156.463618@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204424,
+    "wof:geomhash":"6928e7f266766d2b7232ccdb48441d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857619629
+        }
+    ],
+    "wof:id":857619629,
+    "wof:lastmodified":1464204424,
+    "wof:name":"Maui Home Care",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medic",
+        "care"
+    ]
+},
+  "bbox": [
+    -156.463618,
+    20.885043,
+    -156.463618,
+    20.885043
+],
+  "geometry": {"coordinates":[-156.463618,20.885043],"type":"Point"}
+}

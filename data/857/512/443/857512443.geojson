@@ -1,0 +1,73 @@
+{
+  "id": 857512443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820688,21.285073,-157.820688,21.285073",
+    "geom:latitude":21.285073,
+    "geom:longitude":-157.820688,
+    "iso:country":"US",
+    "sg:address":"2630 Date St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 7296",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55seJl59oQSJBINEYozmNP_21.285073_-157.820688@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202196,
+    "wof:geomhash":"b3c6fef43613d76c51bc6eb1a6d0b500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857512443
+        }
+    ],
+    "wof:id":857512443,
+    "wof:lastmodified":1464202196,
+    "wof:name":"Pacific Training & Dev Co",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "training"
+    ]
+},
+  "bbox": [
+    -157.820688,
+    21.285073,
+    -157.820688,
+    21.285073
+],
+  "geometry": {"coordinates":[-157.82068799999999,21.285073],"type":"Point"}
+}

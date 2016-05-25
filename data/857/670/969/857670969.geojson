@@ -1,0 +1,71 @@
+{
+  "id": 857670969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880607,21.344573,-157.880607,21.344573",
+    "geom:latitude":21.344573,
+    "geom:longitude":-157.880607,
+    "iso:country":"US",
+    "sg:address":"537 Wisser Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3141",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CPGS4n7ytYIwly1pXAXO7_21.344573_-157.880607@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206374,
+    "wof:geomhash":"b4d55caadb82d93b95e6223e5f45cd1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857670969
+        }
+    ],
+    "wof:id":857670969,
+    "wof:lastmodified":1464206374,
+    "wof:name":"Fort Shafter Barber Shop",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.880607,
+    21.344573,
+    -157.880607,
+    21.344573
+],
+  "geometry": {"coordinates":[-157.880607,21.344573],"type":"Point"}
+}

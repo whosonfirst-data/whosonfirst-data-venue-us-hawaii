@@ -1,0 +1,75 @@
+{
+  "id": 857535563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829447,21.347885,-157.829447,21.347885",
+    "geom:latitude":21.347885,
+    "geom:longitude":-157.829447,
+    "iso:country":"US",
+    "sg:address":"112 Meleana Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 8400",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I56YYC9Uw4hHw3u0cNeaH_21.347885_-157.829447@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202653,
+    "wof:geomhash":"c4cd0eb3b0c24e1d0956724819c93133",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872727,
+            "region_id":85688671,
+            "venue_id":857535563
+        }
+    ],
+    "wof:id":857535563,
+    "wof:lastmodified":1464202653,
+    "wof:name":"Whalesong Arts",
+    "wof:parent_id":85872727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -157.829447,
+    21.347885,
+    -157.829447,
+    21.347885
+],
+  "geometry": {"coordinates":[-157.82944699999999,21.347885],"type":"Point"}
+}

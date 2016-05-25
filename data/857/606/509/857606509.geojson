@@ -1,0 +1,71 @@
+{
+  "id": 857606509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.849416,21.304803,-157.849416,21.304803",
+    "geom:latitude":21.304803,
+    "geom:longitude":-157.849416,
+    "iso:country":"US",
+    "sg:address":"809 Kinau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 728 1167",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ORhTGCGwT8N6sEyDz3AVZ_21.304803_-157.849416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204125,
+    "wof:geomhash":"0b2ea8f58bc179788928445959b6d9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857606509
+        }
+    ],
+    "wof:id":857606509,
+    "wof:lastmodified":1464204125,
+    "wof:name":"One Stop Cleaning",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -157.849416,
+    21.304803,
+    -157.849416,
+    21.304803
+],
+  "geometry": {"coordinates":[-157.84941599999999,21.304803],"type":"Point"}
+}

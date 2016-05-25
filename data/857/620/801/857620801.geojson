@@ -1,0 +1,71 @@
+{
+  "id": 857620801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.955674,21.39222,-157.955674,21.39222",
+    "geom:latitude":21.39222,
+    "geom:longitude":-157.955674,
+    "iso:country":"US",
+    "sg:address":"711 Kuahao Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 6489",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bm16tOAmMyA0ubgTfWopd_21.392220_-157.955674@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204448,
+    "wof:geomhash":"f0efc57e8b252b5caebcef45a024cb0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857620801
+        }
+    ],
+    "wof:id":857620801,
+    "wof:lastmodified":1464204448,
+    "wof:name":"Nabisco",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.955674,
+    21.39222,
+    -157.955674,
+    21.39222
+],
+  "geometry": {"coordinates":[-157.95567399999999,21.39222],"type":"Point"}
+}

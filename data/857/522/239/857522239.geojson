@@ -1,0 +1,73 @@
+{
+  "id": 857522239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.732446,21.398339,-157.732446,21.398339",
+    "geom:latitude":21.398339,
+    "geom:longitude":-157.732446,
+    "iso:country":"US",
+    "sg:address":"112 S Kalaheo Ave",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 6217",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aQA1lAkTGGUt9F4SEwvOH_21.398339_-157.732446@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202394,
+    "wof:geomhash":"25da50010773cc58fe956eea80b9d6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857522239
+        }
+    ],
+    "wof:id":857522239,
+    "wof:lastmodified":1464202394,
+    "wof:name":"Tracy Mavis Ballet School",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.732446,
+    21.398339,
+    -157.732446,
+    21.398339
+],
+  "geometry": {"coordinates":[-157.73244600000001,21.398339],"type":"Point"}
+}

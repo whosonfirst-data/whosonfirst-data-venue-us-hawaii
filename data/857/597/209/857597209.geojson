@@ -1,0 +1,71 @@
+{
+  "id": 857597209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825167,21.288343,-157.825167,21.288343",
+    "geom:latitude":21.288343,
+    "geom:longitude":-157.825167,
+    "iso:country":"US",
+    "sg:address":"625 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6007",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qoQkezCKKcmQ1NDJYQbVo_21.288343_-157.825167@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203927,
+    "wof:geomhash":"bcd655614605339086e907bf6952f373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857597209
+        }
+    ],
+    "wof:id":857597209,
+    "wof:lastmodified":1464203927,
+    "wof:name":"Economy Appliance Svc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.825167,
+    21.288343,
+    -157.825167,
+    21.288343
+],
+  "geometry": {"coordinates":[-157.82516699999999,21.288343],"type":"Point"}
+}

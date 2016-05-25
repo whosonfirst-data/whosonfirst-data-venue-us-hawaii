@@ -1,0 +1,73 @@
+{
+  "id": 857659245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.168193,21.40817,-158.168193,21.40817",
+    "geom:latitude":21.40817,
+    "geom:longitude":-158.168193,
+    "iso:country":"US",
+    "sg:address":"446 Kulahanai St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 4989",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oP6fyBPvs64A60IJLhO6n_21.408170_-158.168193@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205871,
+    "wof:geomhash":"042248e51351e88896d14cfbd774b5e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857659245
+        }
+    ],
+    "wof:id":857659245,
+    "wof:lastmodified":1464205871,
+    "wof:name":"Bot Inc",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -158.168193,
+    21.40817,
+    -158.168193,
+    21.40817
+],
+  "geometry": {"coordinates":[-158.168193,21.40817],"type":"Point"}
+}

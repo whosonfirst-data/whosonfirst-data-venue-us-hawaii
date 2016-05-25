@@ -1,0 +1,77 @@
+{
+  "id": 857609921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899492,21.341606,-157.899492,21.341606",
+    "geom:latitude":21.341606,
+    "geom:longitude":-157.899492,
+    "iso:country":"US",
+    "sg:address":"851 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1792",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "installation",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BKByY9b2Yf401doVqMCcO_21.341606_-157.899492@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204205,
+    "wof:geomhash":"aef27da8add3df701b78886bc8f3aad0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857609921
+        }
+    ],
+    "wof:id":857609921,
+    "wof:lastmodified":1464204205,
+    "wof:name":"CV Technologies",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "installation",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -157.899492,
+    21.341606,
+    -157.899492,
+    21.341606
+],
+  "geometry": {"coordinates":[-157.89949200000001,21.341606],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857584825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.735569,21.285691,-157.735569,21.285691",
+    "geom:latitude":21.285691,
+    "geom:longitude":-157.735569,
+    "iso:country":"US",
+    "sg:address":"350 Ulua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5471",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:website":"www.honoluluwaldorf.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HwvxWaA8TuFXBNrHAvieX_21.285691_-157.735569@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203640,
+    "wof:geomhash":"96341ff9ae84b4b31d6cc74eeb0a8a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857584825
+        }
+    ],
+    "wof:id":857584825,
+    "wof:lastmodified":1464203640,
+    "wof:name":"Honolulu Waldorf School",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.735569,
+    21.285691,
+    -157.735569,
+    21.285691
+],
+  "geometry": {"coordinates":[-157.735569,21.285691],"type":"Point"}
+}

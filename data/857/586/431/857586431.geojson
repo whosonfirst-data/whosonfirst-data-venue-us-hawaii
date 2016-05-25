@@ -1,0 +1,73 @@
+{
+  "id": 857586431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.871594,21.327035,-157.871594,21.327035",
+    "geom:latitude":21.327035,
+    "geom:longitude":-157.871594,
+    "iso:country":"US",
+    "sg:address":"1317 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8901",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fHnj35cbwhIbb75wmfAW6_21.327035_-157.871594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203682,
+    "wof:geomhash":"86cda0a028d50a0fcd937e4d8208a5cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857586431
+        }
+    ],
+    "wof:id":857586431,
+    "wof:lastmodified":1464203682,
+    "wof:name":"Earl Matsunaga Painting Co",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.871594,
+    21.327035,
+    -157.871594,
+    21.327035
+],
+  "geometry": {"coordinates":[-157.87159399999999,21.327035],"type":"Point"}
+}

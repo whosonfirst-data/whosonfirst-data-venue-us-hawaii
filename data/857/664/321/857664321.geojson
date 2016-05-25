@@ -1,0 +1,71 @@
+{
+  "id": 857664321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.216794,21.578684,-158.216794,21.578684",
+    "geom:latitude":21.578684,
+    "geom:longitude":-158.216794,
+    "iso:country":"US",
+    "sg:address":"16 Farrington Hwy",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 6800",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50lx70X7YtQK9QQvmNcWNr_21.578684_-158.216794@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206096,
+    "wof:geomhash":"9f43caa81a43040fb8737fc74a6ea1d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857664321
+        }
+    ],
+    "wof:id":857664321,
+    "wof:lastmodified":1464206096,
+    "wof:name":"Ka'Ala Diagnostic Svc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.216794,
+    21.578684,
+    -158.216794,
+    21.578684
+],
+  "geometry": {"coordinates":[-158.21679399999999,21.578684],"type":"Point"}
+}

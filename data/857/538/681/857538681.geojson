@@ -1,0 +1,71 @@
+{
+  "id": 857538681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855048,21.327756,-157.855048,21.327756",
+    "geom:latitude":21.327756,
+    "geom:longitude":-157.855048,
+    "iso:country":"US",
+    "sg:address":"525 N Judd St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 5907",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SFZJKnhhFSXx80ghpO8Uk_21.327756_-157.855048@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202711,
+    "wof:geomhash":"d45153275433c379baddac751732f096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857538681
+        }
+    ],
+    "wof:id":857538681,
+    "wof:lastmodified":1464202711,
+    "wof:name":"Fly High Sales",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.855048,
+    21.327756,
+    -157.855048,
+    21.327756
+],
+  "geometry": {"coordinates":[-157.85504800000001,21.327756],"type":"Point"}
+}

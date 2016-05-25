@@ -1,0 +1,72 @@
+{
+  "id": 857554833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815154,21.268105,-157.815154,21.268105",
+    "geom:latitude":21.268105,
+    "geom:longitude":-157.815154,
+    "iso:country":"US",
+    "sg:address":"3710 Leahi Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 971 6900",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OuSBUuuVQPATu2GMcguIZ_21.268105_-157.815154@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203024,
+    "wof:geomhash":"79b6f3449eb220e2e02f7f7712767f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857554833
+        }
+    ],
+    "wof:id":857554833,
+    "wof:lastmodified":1464203024,
+    "wof:name":"Waikiki Elementary School",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.815154,
+    21.268105,
+    -157.815154,
+    21.268105
+],
+  "geometry": {"coordinates":[-157.81515400000001,21.268105],"type":"Point"}
+}

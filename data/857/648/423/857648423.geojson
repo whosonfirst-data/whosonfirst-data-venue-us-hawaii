@@ -1,0 +1,75 @@
+{
+  "id": 857648423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.917226,21.344982,-157.917226,21.344982",
+    "geom:latitude":21.344982,
+    "geom:longitude":-157.917226,
+    "iso:country":"US",
+    "sg:address":"4300 Radford Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 471 0211",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cFSxAQlS0ptptzJ2d7LRU_21.344982_-157.917226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205392,
+    "wof:geomhash":"198753a6209f9ce1c81919f5f7e634f0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857648423
+        }
+    ],
+    "wof:id":857648423,
+    "wof:lastmodified":1464205392,
+    "wof:name":"US Navy Dept",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -157.917226,
+    21.344982,
+    -157.917226,
+    21.344982
+],
+  "geometry": {"coordinates":[-157.917226,21.344982],"type":"Point"}
+}

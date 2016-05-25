@@ -1,0 +1,73 @@
+{
+  "id": 857607179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88004,21.324803,-157.88004,21.324803",
+    "geom:latitude":21.324803,
+    "geom:longitude":-157.88004,
+    "iso:country":"US",
+    "sg:address":"1620 Hau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5556",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "special",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Am2YHbzQsCl6pQF7eCD5R_21.324803_-157.880040@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204138,
+    "wof:geomhash":"9e5b3d136fe7d47ec00e8e1587f077c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857607179
+        }
+    ],
+    "wof:id":857607179,
+    "wof:lastmodified":1464204138,
+    "wof:name":"Superior Solid Surface",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.88004,
+    21.324803,
+    -157.88004,
+    21.324803
+],
+  "geometry": {"coordinates":[-157.88004000000001,21.324803],"type":"Point"}
+}

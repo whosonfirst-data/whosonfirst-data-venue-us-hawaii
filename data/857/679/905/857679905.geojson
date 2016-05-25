@@ -1,0 +1,73 @@
+{
+  "id": 857679905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083415,21.368372,-158.083415,21.368372",
+    "geom:latitude":21.368372,
+    "geom:longitude":-158.083415,
+    "iso:country":"US",
+    "sg:address":"961 Hunekai Pl",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 3758",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dfUjgL6g8AhPEYOOJgErl_21.368372_-158.083415@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206726,
+    "wof:geomhash":"480800dc9bf031dadca43bcb634a55af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857679905
+        }
+    ],
+    "wof:id":857679905,
+    "wof:lastmodified":1464206726,
+    "wof:name":"Action Plumbing",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.083415,
+    21.368372,
+    -158.083415,
+    21.368372
+],
+  "geometry": {"coordinates":[-158.083415,21.368372],"type":"Point"}
+}

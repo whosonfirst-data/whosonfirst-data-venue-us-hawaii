@@ -1,0 +1,75 @@
+{
+  "id": 857628205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863104,21.325457,-157.863104,21.325457",
+    "geom:latitude":21.325457,
+    "geom:longitude":-157.863104,
+    "iso:country":"US",
+    "sg:address":"1642 Old Palama St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 4211",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "electric",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hOYlhFnHh2QVYjNyLhdOc_21.325457_-157.863104@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204628,
+    "wof:geomhash":"b3e87771dfe9b5bf1c2d0d26aa829076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857628205
+        }
+    ],
+    "wof:id":857628205,
+    "wof:lastmodified":1464204628,
+    "wof:name":"Pat's Auto Electric",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electric",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.863104,
+    21.325457,
+    -157.863104,
+    21.325457
+],
+  "geometry": {"coordinates":[-157.86310399999999,21.325457],"type":"Point"}
+}

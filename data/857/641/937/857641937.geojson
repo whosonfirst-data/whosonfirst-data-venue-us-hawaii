@@ -1,0 +1,71 @@
+{
+  "id": 857641937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927963,21.363954,-157.927963,21.363954",
+    "geom:latitude":21.363954,
+    "geom:longitude":-157.927963,
+    "iso:country":"US",
+    "sg:address":"1009 Luapele Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 4586",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F54BTeLPyzeh8em4nInjH_21.363954_-157.927963@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205096,
+    "wof:geomhash":"c4b785c6c16dd428887bebf983e4ebc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857641937
+        }
+    ],
+    "wof:id":857641937,
+    "wof:lastmodified":1464205096,
+    "wof:name":"Budget Towing Svc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.927963,
+    21.363954,
+    -157.927963,
+    21.363954
+],
+  "geometry": {"coordinates":[-157.92796300000001,21.363954],"type":"Point"}
+}

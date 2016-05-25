@@ -1,0 +1,71 @@
+{
+  "id": 857673833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840072,21.287156,-157.840072,21.287156",
+    "geom:latitude":21.287156,
+    "geom:longitude":-157.840072,
+    "iso:country":"US",
+    "sg:address":"1739 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 9061",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZX0mEhQ5jm1Cfo7PoFlvC_21.287156_-157.840072@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206481,
+    "wof:geomhash":"21db7c0671247bfe90d8e00317c3fc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857673833
+        }
+    ],
+    "wof:id":857673833,
+    "wof:lastmodified":1464206481,
+    "wof:name":"Royal Hawaiian Ocean Racing",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.840072,
+    21.287156,
+    -157.840072,
+    21.287156
+],
+  "geometry": {"coordinates":[-157.84007199999999,21.287156],"type":"Point"}
+}

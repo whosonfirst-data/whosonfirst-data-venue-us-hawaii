@@ -1,0 +1,73 @@
+{
+  "id": 857551607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.805195,21.276628,-157.805195,21.276628",
+    "geom:latitude":21.276628,
+    "geom:longitude":-157.805195,
+    "iso:country":"US",
+    "sg:address":"755 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 225 3709",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uRiuP17acvN3uAKLp1T4n_21.276628_-157.805195@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202963,
+    "wof:geomhash":"0c8b03032075b58758e1d4f898525598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857551607
+        }
+    ],
+    "wof:id":857551607,
+    "wof:lastmodified":1464202963,
+    "wof:name":"Kinoshita Nobuo",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -157.805195,
+    21.276628,
+    -157.805195,
+    21.276628
+],
+  "geometry": {"coordinates":[-157.805195,21.276628],"type":"Point"}
+}

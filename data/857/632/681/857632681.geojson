@@ -1,0 +1,77 @@
+{
+  "id": 857632681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.968115,19.63827,-155.968115,19.63827",
+    "geom:latitude":19.63827,
+    "geom:longitude":-155.968115,
+    "iso:country":"US",
+    "sg:address":"5803 Neke Pl",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 4050",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltxb80OgvXpcckYHO8fiQ_19.638270_-155.968115@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204743,
+    "wof:geomhash":"e46fc1fdbb68767a8b2fb71723c053d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890343,
+            "region_id":85688671,
+            "venue_id":857632681
+        }
+    ],
+    "wof:id":857632681,
+    "wof:lastmodified":1464204743,
+    "wof:name":"Hawaii Glass Tinting",
+    "wof:parent_id":85890343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -155.968115,
+    19.63827,
+    -155.968115,
+    19.63827
+],
+  "geometry": {"coordinates":[-155.96811500000001,19.63827],"type":"Point"}
+}

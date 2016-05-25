@@ -1,0 +1,74 @@
+{
+  "id": 857545661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85719,21.298323,-157.85719,21.298323",
+    "geom:latitude":21.298323,
+    "geom:longitude":-157.85719,
+    "iso:country":"US",
+    "sg:address":"529 Koula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2683",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "sg:website":"www.alconlabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68F7eFzeA5bKiMKf88rBZf_21.298323_-157.857190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202851,
+    "wof:geomhash":"3c804ffdf67d4192b6a71d5276e38257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857545661
+        }
+    ],
+    "wof:id":857545661,
+    "wof:lastmodified":1464202851,
+    "wof:name":"Alcon Laboratories Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -157.85719,
+    21.298323,
+    -157.85719,
+    21.298323
+],
+  "geometry": {"coordinates":[-157.85719,21.298323],"type":"Point"}
+}

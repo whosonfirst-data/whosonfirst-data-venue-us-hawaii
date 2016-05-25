@@ -1,0 +1,67 @@
+{
+  "id": 857652207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787741,21.278827,-157.787741,21.278827",
+    "geom:latitude":21.278827,
+    "geom:longitude":-157.787741,
+    "iso:country":"US",
+    "sg:address":"1339 Hunakai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9311",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:website":"www.honoluluwaldorf.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pxJHqkXFGEwHwcxkDswOS_21.278827_-157.787741@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205555,
+    "wof:geomhash":"c4721df809b6735e29334509611d6c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857652207
+        }
+    ],
+    "wof:id":857652207,
+    "wof:lastmodified":1464205555,
+    "wof:name":"Honolulu Waldorf School",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.787741,
+    21.278827,
+    -157.787741,
+    21.278827
+],
+  "geometry": {"coordinates":[-157.78774100000001,21.278827],"type":"Point"}
+}

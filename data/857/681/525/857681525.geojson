@@ -1,0 +1,72 @@
+{
+  "id": 857681525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.786407,21.274617,-157.786407,21.274617",
+    "geom:latitude":21.274617,
+    "geom:longitude":-157.786407,
+    "iso:country":"US",
+    "sg:address":"4211 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108560-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 0283",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hGIqtlI23YaxVhOxdDcxE_21.274617_-157.786407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206787,
+    "wof:geomhash":"ddd785ceb45d2996b580f4a64c4f81eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857681525
+        }
+    ],
+    "wof:id":857681525,
+    "wof:lastmodified":1464206787,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.786407,
+    21.274617,
+    -157.786407,
+    21.274617
+],
+  "geometry": {"coordinates":[-157.786407,21.274617],"type":"Point"}
+}

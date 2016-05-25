@@ -1,0 +1,73 @@
+{
+  "id": 857659675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.812695,21.28215,-157.812695,21.28215",
+    "geom:latitude":21.28215,
+    "geom:longitude":-157.812695,
+    "iso:country":"US",
+    "sg:address":"3121 Mokihana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 7200",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52dj4rjefMR639B3ovLxEM_21.282150_-157.812695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205891,
+    "wof:geomhash":"9378489f17fda8ced0be7e5d3983fbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857659675
+        }
+    ],
+    "wof:id":857659675,
+    "wof:lastmodified":1464205891,
+    "wof:name":"Aloha Hawaiian Holidays",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.812695,
+    21.28215,
+    -157.812695,
+    21.28215
+],
+  "geometry": {"coordinates":[-157.81269499999999,21.28215],"type":"Point"}
+}

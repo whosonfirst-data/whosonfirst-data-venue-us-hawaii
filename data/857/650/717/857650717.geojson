@@ -1,0 +1,73 @@
+{
+  "id": 857650717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.99501,21.472009,-157.99501,21.472009",
+    "geom:latitude":21.472009,
+    "geom:longitude":-157.99501,
+    "iso:country":"US",
+    "sg:address":"1010 Kuena St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 2349",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SAZgSgyFixEZt3oSeM0yv_21.472009_-157.995010@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205485,
+    "wof:geomhash":"5844fc228881bb2e7af2736581ffa012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857650717
+        }
+    ],
+    "wof:id":857650717,
+    "wof:lastmodified":1464205485,
+    "wof:name":"Island Surgical Solutions Inc",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.99501,
+    21.472009,
+    -157.99501,
+    21.472009
+],
+  "geometry": {"coordinates":[-157.99501000000001,21.472009],"type":"Point"}
+}

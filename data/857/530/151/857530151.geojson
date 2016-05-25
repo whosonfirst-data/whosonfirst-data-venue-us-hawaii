@@ -1,0 +1,73 @@
+{
+  "id": 857530151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.485791,20.904757,-156.485791,20.904757",
+    "geom:latitude":20.904757,
+    "geom:longitude":-156.485791,
+    "iso:country":"US",
+    "sg:address":"310 Hookahi St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 280 3019",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57fCOQzRMpb60kdt1OgRYp_20.904757_-156.485791@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202547,
+    "wof:geomhash":"7524dd36ecdfffe5c011fe0cd8df0434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857530151
+        }
+    ],
+    "wof:id":857530151,
+    "wof:lastmodified":1464202547,
+    "wof:name":"Tumblebear Gym Program",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -156.485791,
+    20.904757,
+    -156.485791,
+    20.904757
+],
+  "geometry": {"coordinates":[-156.48579100000001,20.904757],"type":"Point"}
+}

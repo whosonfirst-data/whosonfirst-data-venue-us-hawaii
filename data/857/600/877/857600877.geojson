@@ -1,0 +1,71 @@
+{
+  "id": 857600877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881067,21.342416,-157.881067,21.342416",
+    "geom:latitude":21.342416,
+    "geom:longitude":-157.881067,
+    "iso:country":"US",
+    "sg:address":"2511 Rose St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 1666",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mq0clQll0IbTUyyzCswVR_21.342416_-157.881067@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204005,
+    "wof:geomhash":"4c2d17f853e753b55d190233f700ea01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857600877
+        }
+    ],
+    "wof:id":857600877,
+    "wof:lastmodified":1464204005,
+    "wof:name":"Hybrid",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.881067,
+    21.342416,
+    -157.881067,
+    21.342416
+],
+  "geometry": {"coordinates":[-157.881067,21.342416],"type":"Point"}
+}

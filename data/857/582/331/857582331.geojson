@@ -1,0 +1,71 @@
+{
+  "id": 857582331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102958,21.595542,-158.102958,21.595542",
+    "geom:latitude":21.595542,
+    "geom:longitude":-158.102958,
+    "iso:country":"US",
+    "sg:address":"580 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 9611",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01f0gvhIxwDhjDT2viBHBl_21.595542_-158.102958@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203596,
+    "wof:geomhash":"546d09437d56bda7373d8727603f437f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857582331
+        }
+    ],
+    "wof:id":857582331,
+    "wof:lastmodified":1464203596,
+    "wof:name":"TESORO Gas Express",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -158.102958,
+    21.595542,
+    -158.102958,
+    21.595542
+],
+  "geometry": {"coordinates":[-158.102958,21.595542],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857583509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.481363,20.904393,-156.481363,20.904393",
+    "geom:latitude":20.904393,
+    "geom:longitude":-156.481363,
+    "iso:country":"US",
+    "sg:address":"509 Kainalu Pl",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 1015",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental",
+        "vacation"
+    ],
+    "sg:website":"www.ride-maui.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gkz5nJxl81sLqEejzbH88_20.904393_-156.481363@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203617,
+    "wof:geomhash":"a358931f7ba39f26213c3c23f28c26e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857583509
+        }
+    ],
+    "wof:id":857583509,
+    "wof:lastmodified":1464203617,
+    "wof:name":"Ride Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "vacation"
+    ]
+},
+  "bbox": [
+    -156.481363,
+    20.904393,
+    -156.481363,
+    20.904393
+],
+  "geometry": {"coordinates":[-156.48136299999999,20.904393],"type":"Point"}
+}

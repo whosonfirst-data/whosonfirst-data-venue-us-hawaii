@@ -1,0 +1,71 @@
+{
+  "id": 857504953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.467393,20.888064,-156.467393,20.888064",
+    "geom:latitude":20.888064,
+    "geom:longitude":-156.467393,
+    "iso:country":"US",
+    "sg:address":"31 W Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 0066",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CgaAIiPrDJNCr6tvz9YUb_20.888064_-156.467393@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202026,
+    "wof:geomhash":"807842623d48e04f8d2edf07abe595e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857504953
+        }
+    ],
+    "wof:id":857504953,
+    "wof:lastmodified":1464202026,
+    "wof:name":"Pedodontic Associates Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -156.467393,
+    20.888064,
+    -156.467393,
+    20.888064
+],
+  "geometry": {"coordinates":[-156.46739299999999,20.888064],"type":"Point"}
+}

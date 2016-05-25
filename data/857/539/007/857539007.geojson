@@ -1,0 +1,73 @@
+{
+  "id": 857539007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857211,21.314914,-157.857211,21.314914",
+    "geom:latitude":21.314914,
+    "geom:longitude":-157.857211,
+    "iso:country":"US",
+    "sg:address":"1519 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 7085",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C3ZRIg3A77HxZl1wepHkU_21.314914_-157.857211@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202719,
+    "wof:geomhash":"48dc3c1968a09cc041def4d429c4310c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857539007
+        }
+    ],
+    "wof:id":857539007,
+    "wof:lastmodified":1464202719,
+    "wof:name":"Queen Emma Gardens Apts",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.857211,
+    21.314914,
+    -157.857211,
+    21.314914
+],
+  "geometry": {"coordinates":[-157.85721100000001,21.314914],"type":"Point"}
+}

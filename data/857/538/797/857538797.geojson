@@ -1,0 +1,69 @@
+{
+  "id": 857538797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.936308,21.365866,-157.936308,21.365866",
+    "geom:latitude":21.365866,
+    "geom:longitude":-157.936308,
+    "iso:country":"US",
+    "sg:address":"9 Kalaloa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 3613",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890053,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o8bt98N9IiEZ25jV3bVjy_21.365866_-157.936308@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202713,
+    "wof:geomhash":"6d3baa5456f828e1f2ffb5896736903c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890053,
+            "region_id":85688671,
+            "venue_id":857538797
+        }
+    ],
+    "wof:id":857538797,
+    "wof:lastmodified":1464202713,
+    "wof:name":"Halawa View Apartments",
+    "wof:parent_id":85890053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.936308,
+    21.365866,
+    -157.936308,
+    21.365866
+],
+  "geometry": {"coordinates":[-157.936308,21.365866],"type":"Point"}
+}

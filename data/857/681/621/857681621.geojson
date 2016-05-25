@@ -1,0 +1,74 @@
+{
+  "id": 857681621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875575,21.330961,-157.875575,21.330961",
+    "geom:latitude":21.330961,
+    "geom:longitude":-157.875575,
+    "iso:country":"US",
+    "sg:address":"1704 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/198269-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7007",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AHQMB8Dk579dpAZ6t5hMO_21.330961_-157.875575@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"4f6ef90178dfee60cceafddf66b54043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857681621
+        }
+    ],
+    "wof:id":857681621,
+    "wof:lastmodified":1464206790,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -157.875575,
+    21.330961,
+    -157.875575,
+    21.330961
+],
+  "geometry": {"coordinates":[-157.875575,21.330961],"type":"Point"}
+}

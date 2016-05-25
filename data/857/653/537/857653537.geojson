@@ -1,0 +1,66 @@
+{
+  "id": 857653537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824178,21.292663,-157.824178,21.292663",
+    "geom:latitude":21.292663,
+    "geom:longitude":-157.824178,
+    "iso:country":"US",
+    "sg:address":"2437 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6090",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SSjrk3dRnO0pxxelCA3YK_21.292663_-157.824178@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205613,
+    "wof:geomhash":"503da347f0fcad56009122eb19c742a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857653537
+        }
+    ],
+    "wof:id":857653537,
+    "wof:lastmodified":1464205613,
+    "wof:name":"Gourmet Liquors",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.824178,
+    21.292663,
+    -157.824178,
+    21.292663
+],
+  "geometry": {"coordinates":[-157.82417799999999,21.292663],"type":"Point"}
+}

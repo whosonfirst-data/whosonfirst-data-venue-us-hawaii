@@ -1,0 +1,71 @@
+{
+  "id": 857520291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879459,21.333697,-157.879459,21.333697",
+    "geom:latitude":21.333697,
+    "geom:longitude":-157.879459,
+    "iso:country":"US",
+    "sg:address":"907 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8612",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mbw9kBLgj9d6jn5hLxrrE_21.333697_-157.879459@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202358,
+    "wof:geomhash":"1aedb6fb926f3210fc9c63acb1845dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857520291
+        }
+    ],
+    "wof:id":857520291,
+    "wof:lastmodified":1464202358,
+    "wof:name":"Baseline Surveying",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -157.879459,
+    21.333697,
+    -157.879459,
+    21.333697
+],
+  "geometry": {"coordinates":[-157.879459,21.333697],"type":"Point"}
+}

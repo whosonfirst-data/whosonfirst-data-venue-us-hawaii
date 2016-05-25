@@ -1,0 +1,66 @@
+{
+  "id": 857631471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84157,21.298877,-157.84157,21.298877",
+    "geom:latitude":21.298877,
+    "geom:longitude":-157.84157,
+    "iso:country":"US",
+    "sg:address":"1345 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6069",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RdHUdzp2jgtgyMCrppXjJ_21.298877_-157.841570@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204695,
+    "wof:geomhash":"6d948c255bb67efef66ac5eebf422d95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857631471
+        }
+    ],
+    "wof:id":857631471,
+    "wof:lastmodified":1464204695,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.84157,
+    21.298877,
+    -157.84157,
+    21.298877
+],
+  "geometry": {"coordinates":[-157.84156999999999,21.298877],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857603085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847725,21.33637,-157.847725,21.33637",
+    "geom:latitude":21.33637,
+    "geom:longitude":-157.847725,
+    "iso:country":"US",
+    "sg:address":"2618 Waolani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 7673",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EqdmTUhwZFoUKdIr646Ly_21.336370_-157.847725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204052,
+    "wof:geomhash":"7322830f700a56b4d3e1b4278adb98bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857603085
+        }
+    ],
+    "wof:id":857603085,
+    "wof:lastmodified":1464204052,
+    "wof:name":"O Gary Whitney",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -157.847725,
+    21.33637,
+    -157.847725,
+    21.33637
+],
+  "geometry": {"coordinates":[-157.847725,21.33637],"type":"Point"}
+}

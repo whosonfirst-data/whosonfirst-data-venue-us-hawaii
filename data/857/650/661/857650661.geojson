@@ -1,0 +1,75 @@
+{
+  "id": 857650661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808306,21.310387,-157.808306,21.310387",
+    "geom:latitude":21.310387,
+    "geom:longitude":-157.808306,
+    "iso:country":"US",
+    "sg:address":"2909 Lowrey Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6300",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dv2x4xjyreVaUef9hvWBZ_21.310387_-157.808306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205483,
+    "wof:geomhash":"8d00d1684beb1bfc4f3ae55b05a1c830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857650661
+        }
+    ],
+    "wof:id":857650661,
+    "wof:lastmodified":1464205483,
+    "wof:name":"Eldercare Hawaii",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -157.808306,
+    21.310387,
+    -157.808306,
+    21.310387
+],
+  "geometry": {"coordinates":[-157.80830599999999,21.310387],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857673229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744996,21.406719,-157.744996,21.406719",
+    "geom:latitude":21.406719,
+    "geom:longitude":-157.744996,
+    "iso:country":"US",
+    "sg:address":"409 N Kainalu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 2886",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HDIiPZct20U4jV7cbZRdv_21.406719_-157.744996@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206460,
+    "wof:geomhash":"6fb2930b78bc249717e4d1560d4d6251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857673229
+        }
+    ],
+    "wof:id":857673229,
+    "wof:lastmodified":1464206460,
+    "wof:name":"Wayne Y Painting",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.744996,
+    21.406719,
+    -157.744996,
+    21.406719
+],
+  "geometry": {"coordinates":[-157.74499599999999,21.406719],"type":"Point"}
+}

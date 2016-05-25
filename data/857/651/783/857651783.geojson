@@ -1,0 +1,72 @@
+{
+  "id": 857651783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858197,21.298581,-157.858197,21.298581",
+    "geom:latitude":21.298581,
+    "geom:longitude":-157.858197,
+    "iso:country":"US",
+    "sg:address":"539 Cooke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2289",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.islandprinting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nnnis2PhG9h1XvC74Wv6Y_21.298581_-157.858197@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205534,
+    "wof:geomhash":"c539dc570f194594f0448b00adccc648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857651783
+        }
+    ],
+    "wof:id":857651783,
+    "wof:lastmodified":1464205534,
+    "wof:name":"Island Printing Ctr",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.858197,
+    21.298581,
+    -157.858197,
+    21.298581
+],
+  "geometry": {"coordinates":[-157.85819699999999,21.298581],"type":"Point"}
+}

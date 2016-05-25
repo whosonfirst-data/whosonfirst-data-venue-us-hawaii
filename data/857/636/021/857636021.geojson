@@ -1,0 +1,73 @@
+{
+  "id": 857636021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826037,21.28749,-157.826037,21.28749",
+    "geom:latitude":21.28749,
+    "geom:longitude":-157.826037,
+    "iso:country":"US",
+    "sg:address":"500 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5483",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k85LhsfMiFcMmJkyqKgVk_21.287490_-157.826037@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204869,
+    "wof:geomhash":"1d6f2d6db15a4ad7f8b65502cd7ed15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857636021
+        }
+    ],
+    "wof:id":857636021,
+    "wof:lastmodified":1464204869,
+    "wof:name":"Christensen Travel Corporation",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.826037,
+    21.28749,
+    -157.826037,
+    21.28749
+],
+  "geometry": {"coordinates":[-157.82603700000001,21.28749],"type":"Point"}
+}

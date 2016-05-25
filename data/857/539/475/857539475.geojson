@@ -1,0 +1,73 @@
+{
+  "id": 857539475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.920798,21.34999,-157.920798,21.34999",
+    "geom:latitude":21.34999,
+    "geom:longitude":-157.920798,
+    "iso:country":"US",
+    "sg:address":"3617 Puuku Mauka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 2196",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HcDHec9SndIfb3tXiqnbv_21.349990_-157.920798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202727,
+    "wof:geomhash":"4b50b23ccf2fff5635b9992bbda475e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857539475
+        }
+    ],
+    "wof:id":857539475,
+    "wof:lastmodified":1464202727,
+    "wof:name":"Serafina & Federico",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -157.920798,
+    21.34999,
+    -157.920798,
+    21.34999
+],
+  "geometry": {"coordinates":[-157.92079799999999,21.34999],"type":"Point"}
+}

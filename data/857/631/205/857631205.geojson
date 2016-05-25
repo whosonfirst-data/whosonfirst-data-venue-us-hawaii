@@ -1,0 +1,73 @@
+{
+  "id": 857631205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.728604,21.377174,-157.728604,21.377174",
+    "geom:latitude":21.377174,
+    "geom:longitude":-157.728604,
+    "iso:country":"US",
+    "sg:address":"1051 Keolu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 8999",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YTvwgnxQEbKr5j1Ha6547_21.377174_-157.728604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204689,
+    "wof:geomhash":"239ad9563a9f82e87b6bb295cb5957a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857631205
+        }
+    ],
+    "wof:id":857631205,
+    "wof:lastmodified":1464204689,
+    "wof:name":"Food Service Hawaii",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.728604,
+    21.377174,
+    -157.728604,
+    21.377174
+],
+  "geometry": {"coordinates":[-157.72860399999999,21.377174],"type":"Point"}
+}

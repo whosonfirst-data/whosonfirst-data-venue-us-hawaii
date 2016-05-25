@@ -1,0 +1,72 @@
+{
+  "id": 857593329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.340311,20.755661,-156.340311,20.755661",
+    "geom:latitude":20.755661,
+    "geom:longitude":-156.340311,
+    "iso:country":"US",
+    "sg:address":"1350 Naalae Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 4105",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "guitar"
+    ],
+    "sg:website":"www.bcguitar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iGngMvfrG8fTrSLvdpKha_20.755661_-156.340311@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203835,
+    "wof:geomhash":"6900851ddd8b858f30576230c3a3e441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857593329
+        }
+    ],
+    "wof:id":857593329,
+    "wof:lastmodified":1464203835,
+    "wof:name":"Bear Creek Guitars",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar"
+    ]
+},
+  "bbox": [
+    -156.340311,
+    20.755661,
+    -156.340311,
+    20.755661
+],
+  "geometry": {"coordinates":[-156.34031100000001,20.755661],"type":"Point"}
+}

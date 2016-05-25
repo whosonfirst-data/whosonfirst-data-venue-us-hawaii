@@ -1,0 +1,73 @@
+{
+  "id": 857570415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.780587,21.280368,-157.780587,21.280368",
+    "geom:latitude":21.280368,
+    "geom:longitude":-157.780587,
+    "iso:country":"US",
+    "sg:address":"4449 Malia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3840",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center",
+        "preschool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QfxfXjOl57kbrnezeBCmd_21.280368_-157.780587@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203361,
+    "wof:geomhash":"541907d0dd3ce6062b365afe34b8401c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857570415
+        }
+    ],
+    "wof:id":857570415,
+    "wof:lastmodified":1464203361,
+    "wof:name":"Star of Sea Early Learning Ctr",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "preschool"
+    ]
+},
+  "bbox": [
+    -157.780587,
+    21.280368,
+    -157.780587,
+    21.280368
+],
+  "geometry": {"coordinates":[-157.780587,21.280368],"type":"Point"}
+}

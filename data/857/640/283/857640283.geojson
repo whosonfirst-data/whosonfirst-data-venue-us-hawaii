@@ -1,0 +1,78 @@
+{
+  "id": 857640283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847562,21.308157,-157.847562,21.308157",
+    "geom:latitude":21.308157,
+    "geom:longitude":-157.847562,
+    "iso:country":"US",
+    "sg:address":"1515 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 2776",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bPZI48CHAgcpQq2K4V6wo_21.308157_-157.847562@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205031,
+    "wof:geomhash":"757da242fdd981287a1dc4b7d904b2b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857640283
+        }
+    ],
+    "wof:id":857640283,
+    "wof:lastmodified":1464205031,
+    "wof:name":"Benefits Advisory Group Inc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -157.847562,
+    21.308157,
+    -157.847562,
+    21.308157
+],
+  "geometry": {"coordinates":[-157.84756200000001,21.308157],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857680843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.039213,19.622371,-155.039213,19.622371",
+    "geom:latitude":19.622371,
+    "geom:longitude":-155.039213,
+    "iso:country":"US",
+    "sg:address":"16-565 Old Volcano Rd",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/keaau-mountain-view/202807-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hHwDNhsidMCoVaasTCyGV_19.622371_-155.039213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206757,
+    "wof:geomhash":"b6a8c95f7bf51a76c8a59fe1b7611d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857680843
+        }
+    ],
+    "wof:id":857680843,
+    "wof:lastmodified":1464206757,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.039213,
+    19.622371,
+    -155.039213,
+    19.622371
+],
+  "geometry": {"coordinates":[-155.03921299999999,19.622371],"type":"Point"}
+}

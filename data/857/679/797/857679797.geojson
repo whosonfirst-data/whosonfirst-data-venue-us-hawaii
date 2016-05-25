@@ -1,0 +1,71 @@
+{
+  "id": 857679797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.012,21.393438,-158.012,21.393438",
+    "geom:latitude":21.393438,
+    "geom:longitude":-158.012,
+    "iso:country":"US",
+    "sg:address":"1091 Kuhaulua St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4472",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N4d48moYL3icUmLnqxnuA_21.393438_-158.012000@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206722,
+    "wof:geomhash":"a224ffce9a5d698d3113ce9db9fc8267",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857679797
+        }
+    ],
+    "wof:id":857679797,
+    "wof:lastmodified":1464206722,
+    "wof:name":"Larry PS Travel Agency",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -158.012,
+    21.393438,
+    -158.012,
+    21.393438
+],
+  "geometry": {"coordinates":[-158.012,21.393438],"type":"Point"}
+}

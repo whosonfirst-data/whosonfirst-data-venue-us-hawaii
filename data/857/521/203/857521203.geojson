@@ -1,0 +1,73 @@
+{
+  "id": 857521203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899492,21.341606,-157.899492,21.341606",
+    "geom:latitude":21.341606,
+    "geom:longitude":-157.899492,
+    "iso:country":"US",
+    "sg:address":"851 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 2230",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUIZW2tLz1LBs2a75Zgo5_21.341606_-157.899492@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202375,
+    "wof:geomhash":"aef27da8add3df701b78886bc8f3aad0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857521203
+        }
+    ],
+    "wof:id":857521203,
+    "wof:lastmodified":1464202375,
+    "wof:name":"Kapiolani Medical Ctr Women/Ch",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -157.899492,
+    21.341606,
+    -157.899492,
+    21.341606
+],
+  "geometry": {"coordinates":[-157.89949200000001,21.341606],"type":"Point"}
+}

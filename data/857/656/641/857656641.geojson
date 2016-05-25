@@ -1,0 +1,73 @@
+{
+  "id": 857656641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831274,21.292588,-157.831274,21.292588",
+    "geom:latitude":21.292588,
+    "geom:longitude":-157.831274,
+    "iso:country":"US",
+    "sg:address":"1919 Citron St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 5991",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kMFFCwuoEDSL5Ddi3sc4x_21.292588_-157.831274@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205753,
+    "wof:geomhash":"5704a4126eaa5db4de98986fbafa9c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857656641
+        }
+    ],
+    "wof:id":857656641,
+    "wof:lastmodified":1464205753,
+    "wof:name":"Mc Cully Circle Apartments",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.831274,
+    21.292588,
+    -157.831274,
+    21.292588
+],
+  "geometry": {"coordinates":[-157.83127400000001,21.292588],"type":"Point"}
+}

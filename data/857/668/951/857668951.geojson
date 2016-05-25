@@ -1,0 +1,71 @@
+{
+  "id": 857668951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.47803,20.88565,-156.47803,20.88565",
+    "geom:latitude":20.88565,
+    "geom:longitude":-156.47803,
+    "iso:country":"US",
+    "sg:address":"353 Ano St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 8587",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bc8DezJ2tJSti5USuZXXB_20.885650_-156.478030@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206297,
+    "wof:geomhash":"cd520a9f60de025bdb6b10242d1ddbf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857668951
+        }
+    ],
+    "wof:id":857668951,
+    "wof:lastmodified":1464206297,
+    "wof:name":"Albert C Kobayashi Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.47803,
+    20.88565,
+    -156.47803,
+    20.88565
+],
+  "geometry": {"coordinates":[-156.47802999999999,20.88565],"type":"Point"}
+}

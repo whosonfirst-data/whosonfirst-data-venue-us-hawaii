@@ -1,0 +1,69 @@
+{
+  "id": 857520755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.37553,21.97027,-159.37553,21.97027",
+    "geom:latitude":21.97027,
+    "geom:longitude":-159.37553,
+    "iso:country":"US",
+    "sg:address":"4303 Nawiliwili Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 0862",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i5t1RtcBfbhDLReDYVtTd_21.970270_-159.375530@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202367,
+    "wof:geomhash":"8e4aff93d6aba318423d33ee39c303ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857520755
+        }
+    ],
+    "wof:id":857520755,
+    "wof:lastmodified":1464202367,
+    "wof:name":"Borders",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -159.37553,
+    21.97027,
+    -159.37553,
+    21.97027
+],
+  "geometry": {"coordinates":[-159.37553,21.97027],"type":"Point"}
+}

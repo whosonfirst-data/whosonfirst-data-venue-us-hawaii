@@ -1,0 +1,71 @@
+{
+  "id": 857581519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.200566,21.580965,-158.200566,21.580965",
+    "geom:latitude":21.580965,
+    "geom:longitude":-158.200566,
+    "iso:country":"US",
+    "sg:address":"1019 Farrington Hwy",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 6445",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525863,
+        85688671,
+        85633793,
+        102085417,
+        85890595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J6u3vhl1vTXm1qD2jSiYi_21.580965_-158.200566@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203580,
+    "wof:geomhash":"21d6a4a68fab5dbd2ad88ff1e1d38fc9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525863,
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890595,
+            "region_id":85688671,
+            "venue_id":857581519
+        }
+    ],
+    "wof:id":857581519,
+    "wof:lastmodified":1464203580,
+    "wof:name":"Water Tech",
+    "wof:parent_id":102525863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -158.200566,
+    21.580965,
+    -158.200566,
+    21.580965
+],
+  "geometry": {"coordinates":[-158.20056600000001,21.580965],"type":"Point"}
+}

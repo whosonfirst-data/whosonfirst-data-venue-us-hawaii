@@ -1,0 +1,71 @@
+{
+  "id": 857555783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.01873,21.458938,-158.01873,21.458938",
+    "geom:latitude":21.458938,
+    "geom:longitude":-158.01873,
+    "iso:country":"US",
+    "sg:address":"119 Kamehameha Hwy",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 2442",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sk79Gpfif1G4pigFVnZdV_21.458938_-158.018730@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203048,
+    "wof:geomhash":"701ce6dcda5ad02f306a94a2362ebbee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857555783
+        }
+    ],
+    "wof:id":857555783,
+    "wof:lastmodified":1464203048,
+    "wof:name":"M and R Corp",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -158.01873,
+    21.458938,
+    -158.01873,
+    21.458938
+],
+  "geometry": {"coordinates":[-158.01873000000001,21.458938],"type":"Point"}
+}

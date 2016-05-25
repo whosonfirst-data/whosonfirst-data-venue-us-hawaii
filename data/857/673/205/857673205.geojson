@@ -1,0 +1,75 @@
+{
+  "id": 857673205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885505,21.322846,-157.885505,21.322846",
+    "geom:latitude":21.322846,
+    "geom:longitude":-157.885505,
+    "iso:country":"US",
+    "sg:address":"1733 Silva St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5648",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2otPLZyYtJhzEb2YcvPOOj_21.322846_-157.885505@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206459,
+    "wof:geomhash":"d2b2acfa0a3eb8430a06ba2da7898c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857673205
+        }
+    ],
+    "wof:id":857673205,
+    "wof:lastmodified":1464206459,
+    "wof:name":"M & I Electric Co Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.885505,
+    21.322846,
+    -157.885505,
+    21.322846
+],
+  "geometry": {"coordinates":[-157.88550499999999,21.322846],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857670275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830306,21.294866,-157.830306,21.294866",
+    "geom:latitude":21.294866,
+    "geom:longitude":-157.830306,
+    "iso:country":"US",
+    "sg:address":"1915 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 6055",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vMg2wHFsPwdz6dHKLR6yV_21.294866_-157.830306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206350,
+    "wof:geomhash":"4d7e3427543af5fd0911a316deaf78b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857670275
+        }
+    ],
+    "wof:id":857670275,
+    "wof:lastmodified":1464206350,
+    "wof:name":"Ebisu Catering Service Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.830306,
+    21.294866,
+    -157.830306,
+    21.294866
+],
+  "geometry": {"coordinates":[-157.83030600000001,21.294866],"type":"Point"}
+}

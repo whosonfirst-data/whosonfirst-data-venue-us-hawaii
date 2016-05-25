@@ -1,0 +1,78 @@
+{
+  "id": 857503763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8547,21.301593,-157.8547,21.301593",
+    "geom:latitude":21.301593,
+    "geom:longitude":-157.8547,
+    "iso:country":"US",
+    "sg:address":"725 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 535 7555",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mfEZoaN00okGjX7kdDgSd_21.301593_-157.854700@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202000,
+    "wof:geomhash":"ebaaeac1c9f792db2155c2c9bb1a560b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857503763
+        }
+    ],
+    "wof:id":857503763,
+    "wof:lastmodified":1464202000,
+    "wof:name":"Health Resources Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -157.8547,
+    21.301593,
+    -157.8547,
+    21.301593
+],
+  "geometry": {"coordinates":[-157.85470000000001,21.301593],"type":"Point"}
+}

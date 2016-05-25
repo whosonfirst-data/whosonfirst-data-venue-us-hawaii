@@ -1,0 +1,71 @@
+{
+  "id": 857550755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.921278,21.350963,-157.921278,21.350963",
+    "geom:latitude":21.350963,
+    "geom:longitude":-157.921278,
+    "iso:country":"US",
+    "sg:address":"1161 Wanaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6925",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n6DY1fNa49cR7O9sVDwVy_21.350963_-157.921278@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202944,
+    "wof:geomhash":"9dbbddb018c6d0363ee6787afc5225f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857550755
+        }
+    ],
+    "wof:id":857550755,
+    "wof:lastmodified":1464202944,
+    "wof:name":"Tropical Bytes",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -157.921278,
+    21.350963,
+    -157.921278,
+    21.350963
+],
+  "geometry": {"coordinates":[-157.921278,21.350963],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857601853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824403,21.291343,-157.824403,21.291343",
+    "geom:latitude":21.291343,
+    "geom:longitude":-157.824403,
+    "iso:country":"US",
+    "sg:address":"808 Hausten St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 3423",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kk4bNAIDj4KD08X7wmlAI_21.291343_-157.824403@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204025,
+    "wof:geomhash":"0e1fc9f767e30d1e450d4db7f65c978b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857601853
+        }
+    ],
+    "wof:id":857601853,
+    "wof:lastmodified":1464204025,
+    "wof:name":"Hausten Gardens",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.824403,
+    21.291343,
+    -157.824403,
+    21.291343
+],
+  "geometry": {"coordinates":[-157.82440299999999,21.291343],"type":"Point"}
+}

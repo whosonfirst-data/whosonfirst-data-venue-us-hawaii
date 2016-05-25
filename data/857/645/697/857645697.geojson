@@ -1,0 +1,71 @@
+{
+  "id": 857645697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752402,21.287658,-157.752402,21.287658",
+    "geom:latitude":21.287658,
+    "geom:longitude":-157.752402,
+    "iso:country":"US",
+    "sg:address":"5412 Paniolo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5606",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LMUnv7H5HvDci94h6XbsR_21.287658_-157.752402@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205266,
+    "wof:geomhash":"5c72c0bb21ae70b9e96d85d20f56e5d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857645697
+        }
+    ],
+    "wof:id":857645697,
+    "wof:lastmodified":1464205266,
+    "wof:name":"Classic Roofing & Maintenance",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.752402,
+    21.287658,
+    -157.752402,
+    21.287658
+],
+  "geometry": {"coordinates":[-157.75240199999999,21.287658],"type":"Point"}
+}

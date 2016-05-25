@@ -1,0 +1,73 @@
+{
+  "id": 857639827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820424,21.27612,-157.820424,21.27612",
+    "geom:latitude":21.27612,
+    "geom:longitude":-157.820424,
+    "iso:country":"US",
+    "sg:address":"250 Ohua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 6226",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ut5iM4u1ruvc6ddr3K5mP_21.276120_-157.820424@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205013,
+    "wof:geomhash":"eac9290c17c2aef4743ad9dc7fe6ccd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857639827
+        }
+    ],
+    "wof:id":857639827,
+    "wof:lastmodified":1464205013,
+    "wof:name":"Custom Tours & Cruises",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.820424,
+    21.27612,
+    -157.820424,
+    21.27612
+],
+  "geometry": {"coordinates":[-157.820424,21.27612],"type":"Point"}
+}

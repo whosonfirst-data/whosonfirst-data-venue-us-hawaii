@@ -1,0 +1,73 @@
+{
+  "id": 857617201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862446,21.313023,-157.862446,21.313023",
+    "geom:latitude":21.313023,
+    "geom:longitude":-157.862446,
+    "iso:country":"US",
+    "sg:address":"167 N Pauahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 5844",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vihHrNxDxDNFJJ7cFNfU8_21.313023_-157.862446@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204361,
+    "wof:geomhash":"e43b64e8aa0d172ccb478dc320d56c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857617201
+        }
+    ],
+    "wof:id":857617201,
+    "wof:lastmodified":1464204361,
+    "wof:name":"Pauahi Kupuna Hale",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.862446,
+    21.313023,
+    -157.862446,
+    21.313023
+],
+  "geometry": {"coordinates":[-157.86244600000001,21.313023],"type":"Point"}
+}

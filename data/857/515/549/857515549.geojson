@@ -1,0 +1,77 @@
+{
+  "id": 857515549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.066675,19.703385,-155.066675,19.703385",
+    "geom:latitude":19.703385,
+    "geom:longitude":-155.066675,
+    "iso:country":"US",
+    "sg:address":"34 Pookela St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 969 9969",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iay4pAwQdR1LENtUWYrNJ_19.703385_-155.066675@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202262,
+    "wof:geomhash":"91e5b9e1166de38f2b4d0aa41abebd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857515549
+        }
+    ],
+    "wof:id":857515549,
+    "wof:lastmodified":1464202262,
+    "wof:name":"Kent's Auto Repair",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -155.066675,
+    19.703385,
+    -155.066675,
+    19.703385
+],
+  "geometry": {"coordinates":[-155.066675,19.703385],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857579723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835649,21.290556,-157.835649,21.290556",
+    "geom:latitude":21.290556,
+    "geom:longitude":-157.835649,
+    "iso:country":"US",
+    "sg:address":"1701 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7670",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jyEfU0gZxHU3eCEZ0zOaj_21.290556_-157.835649@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203548,
+    "wof:geomhash":"ce71b187f5d096a6fd809207cb02c1bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857579723
+        }
+    ],
+    "wof:id":857579723,
+    "wof:lastmodified":1464203548,
+    "wof:name":"Varsity Top Shop",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -157.835649,
+    21.290556,
+    -157.835649,
+    21.290556
+],
+  "geometry": {"coordinates":[-157.83564899999999,21.290556],"type":"Point"}
+}

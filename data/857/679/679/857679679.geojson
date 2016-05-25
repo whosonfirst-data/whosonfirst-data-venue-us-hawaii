@@ -1,0 +1,73 @@
+{
+  "id": 857679679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.938916,21.380898,-157.938916,21.380898",
+    "geom:latitude":21.380898,
+    "geom:longitude":-157.938916,
+    "iso:country":"US",
+    "sg:address":"124 Kihale St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 1444",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jlhA2oMzqS0sADN8lT4u_21.380898_-157.938916@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206718,
+    "wof:geomhash":"6d4961ec9c4ed36f039f52c9be87251c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857679679
+        }
+    ],
+    "wof:id":857679679,
+    "wof:lastmodified":1464206718,
+    "wof:name":"Ace Appliance Svc",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.938916,
+    21.380898,
+    -157.938916,
+    21.380898
+],
+  "geometry": {"coordinates":[-157.93891600000001,21.380898],"type":"Point"}
+}

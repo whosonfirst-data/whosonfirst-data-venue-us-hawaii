@@ -1,0 +1,73 @@
+{
+  "id": 857658913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.92458,19.524749,-154.92458,19.524749",
+    "geom:latitude":19.524749,
+    "geom:longitude":-154.92458,
+    "iso:country":"US",
+    "sg:address":"2746 Aama St",
+    "sg:city":"Pahoa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 1367",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937457,
+        102085433,
+        85890629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFOtrPCh3pq0djs1FOnGB_19.524749_-154.924580@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205859,
+    "wof:geomhash":"175e429ea4b655f92b1c0c234b2835b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937457,
+            "neighbourhood_id":85890629,
+            "region_id":85688671,
+            "venue_id":857658913
+        }
+    ],
+    "wof:id":857658913,
+    "wof:lastmodified":1464205859,
+    "wof:name":"Aafter Hours Appliance",
+    "wof:parent_id":85890629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -154.92458,
+    19.524749,
+    -154.92458,
+    19.524749
+],
+  "geometry": {"coordinates":[-154.92457999999999,19.524749],"type":"Point"}
+}

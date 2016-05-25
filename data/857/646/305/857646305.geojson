@@ -1,0 +1,71 @@
+{
+  "id": 857646305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.749585,21.400081,-157.749585,21.400081",
+    "geom:latitude":21.400081,
+    "geom:longitude":-157.749585,
+    "iso:country":"US",
+    "sg:address":"554 Kuaaina Way",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 9110",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AanKfnFhz8EjK8ch283HS_21.400081_-157.749585@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205299,
+    "wof:geomhash":"991b037ffb1ad84a0ca1d54a60f40100",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857646305
+        }
+    ],
+    "wof:id":857646305,
+    "wof:lastmodified":1464205299,
+    "wof:name":"Autoworx LLC",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.749585,
+    21.400081,
+    -157.749585,
+    21.400081
+],
+  "geometry": {"coordinates":[-157.749585,21.400081],"type":"Point"}
+}

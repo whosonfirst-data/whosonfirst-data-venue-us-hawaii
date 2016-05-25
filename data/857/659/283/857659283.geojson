@@ -1,0 +1,71 @@
+{
+  "id": 857659283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793637,21.273221,-157.793637,21.273221",
+    "geom:latitude":21.273221,
+    "geom:longitude":-157.793637,
+    "iso:country":"US",
+    "sg:address":"832 20th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 1119",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kMzVo8iX4By5GMdQ8nFKx_21.273221_-157.793637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205873,
+    "wof:geomhash":"89631a9e2dbb8651889a8b60a2138d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857659283
+        }
+    ],
+    "wof:id":857659283,
+    "wof:lastmodified":1464205873,
+    "wof:name":"Denel Laboratories",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.793637,
+    21.273221,
+    -157.793637,
+    21.273221
+],
+  "geometry": {"coordinates":[-157.79363699999999,21.273221],"type":"Point"}
+}

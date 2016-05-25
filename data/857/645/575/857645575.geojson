@@ -1,0 +1,71 @@
+{
+  "id": 857645575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.90639,21.35905,-157.90639,21.35905",
+    "geom:latitude":21.35905,
+    "geom:longitude":-157.90639,
+    "iso:country":"US",
+    "sg:address":"2022 Bauhina Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5672",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "childcare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p5ONEtAvIPJ97QUnFkHcb_21.359050_-157.906390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205262,
+    "wof:geomhash":"8e4253b567ff667ba18a412eca9814be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857645575
+        }
+    ],
+    "wof:id":857645575,
+    "wof:lastmodified":1464205262,
+    "wof:name":"Danielles Day Care",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "childcare"
+    ]
+},
+  "bbox": [
+    -157.90639,
+    21.35905,
+    -157.90639,
+    21.35905
+],
+  "geometry": {"coordinates":[-157.90638999999999,21.35905],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857677669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022335,21.502346,-158.022335,21.502346",
+    "geom:latitude":21.502346,
+    "geom:longitude":-158.022335,
+    "iso:country":"US",
+    "sg:address":"249 Kellog St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 9112",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e4Q6RLtj0dVj2YGcgy8Us_21.502346_-158.022335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206640,
+    "wof:geomhash":"ae38405e049227a1661a0a92ff423614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857677669
+        }
+    ],
+    "wof:id":857677669,
+    "wof:lastmodified":1464206640,
+    "wof:name":"PMJ Fabrication & Welding",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -158.022335,
+    21.502346,
+    -158.022335,
+    21.502346
+],
+  "geometry": {"coordinates":[-158.022335,21.502346],"type":"Point"}
+}

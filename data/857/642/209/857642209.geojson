@@ -1,0 +1,67 @@
+{
+  "id": 857642209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80061,21.282254,-157.80061,21.282254",
+    "geom:latitude":21.282254,
+    "geom:longitude":-157.80061,
+    "iso:country":"US",
+    "sg:address":"1114 11th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 8838",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:website":"www.dower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MtlXlJ1fVEyvGfUwHEUYB_21.282254_-157.800610@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205107,
+    "wof:geomhash":"baf215107ededd27c87559028012bd85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857642209
+        }
+    ],
+    "wof:id":857642209,
+    "wof:lastmodified":1464205107,
+    "wof:name":"Dower Realty Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.80061,
+    21.282254,
+    -157.80061,
+    21.282254
+],
+  "geometry": {"coordinates":[-157.80061000000001,21.282254],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857677003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.091321,19.728453,-155.091321,19.728453",
+    "geom:latitude":19.728453,
+    "geom:longitude":-155.091321,
+    "iso:country":"US",
+    "sg:address":"199 Wainaku Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 5751",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortuary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ioJ448uATR03g3Z6D8TN_19.728453_-155.091321@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206614,
+    "wof:geomhash":"7da202b9aa992772996b3f0dcb8ad96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857677003
+        }
+    ],
+    "wof:id":857677003,
+    "wof:lastmodified":1464206614,
+    "wof:name":"Dodo Mortuary Inc",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortuary"
+    ]
+},
+  "bbox": [
+    -155.091321,
+    19.728453,
+    -155.091321,
+    19.728453
+],
+  "geometry": {"coordinates":[-155.09132099999999,19.728453],"type":"Point"}
+}

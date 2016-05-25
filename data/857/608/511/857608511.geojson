@@ -1,0 +1,74 @@
+{
+  "id": 857608511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.465015,20.886125,-156.465015,20.886125",
+    "geom:latitude":20.886125,
+    "geom:longitude":-156.465015,
+    "iso:country":"US",
+    "sg:address":"200 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0932",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.alohawastesystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DC9e89FTjnl8bgaQVHPwh_20.886125_-156.465015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204176,
+    "wof:geomhash":"1663984bc6fb5480801b28afe5b41957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857608511
+        }
+    ],
+    "wof:id":857608511,
+    "wof:lastmodified":1464204176,
+    "wof:name":"Aloha Waste Systems Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -156.465015,
+    20.886125,
+    -156.465015,
+    20.886125
+],
+  "geometry": {"coordinates":[-156.46501499999999,20.886125],"type":"Point"}
+}

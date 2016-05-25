@@ -1,0 +1,80 @@
+{
+  "id": 857651771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023759,21.374969,-158.023759,21.374969",
+    "geom:latitude":21.374969,
+    "geom:longitude":-158.023759,
+    "iso:country":"US",
+    "sg:address":"155 Leowaena St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 8880",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garage",
+        "door",
+        "installation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4taGx0dvUKRyhNAZDfJnCy_21.374969_-158.023759@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205533,
+    "wof:geomhash":"aa7ef26df0394ba76745c529be75a797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857651771
+        }
+    ],
+    "wof:id":857651771,
+    "wof:lastmodified":1464205533,
+    "wof:name":"H & H Overhead Door of Oahu",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "door",
+        "installation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.023759,
+    21.374969,
+    -158.023759,
+    21.374969
+],
+  "geometry": {"coordinates":[-158.02375900000001,21.374969],"type":"Point"}
+}

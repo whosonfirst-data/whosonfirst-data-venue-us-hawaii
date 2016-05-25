@@ -1,0 +1,73 @@
+{
+  "id": 857524423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886427,21.325607,-157.886427,21.325607",
+    "geom:latitude":21.325607,
+    "geom:longitude":-157.886427,
+    "iso:country":"US",
+    "sg:address":"1940 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5855",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "exterminating",
+        "fumigating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HONrTOZMA7SWedM2j5hpD_21.325607_-157.886427@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202437,
+    "wof:geomhash":"3144ee52352680a0a54ca128621ed2a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857524423
+        }
+    ],
+    "wof:id":857524423,
+    "wof:lastmodified":1464202437,
+    "wof:name":"Diversified Exterminators",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exterminating",
+        "fumigating"
+    ]
+},
+  "bbox": [
+    -157.886427,
+    21.325607,
+    -157.886427,
+    21.325607
+],
+  "geometry": {"coordinates":[-157.886427,21.325607],"type":"Point"}
+}

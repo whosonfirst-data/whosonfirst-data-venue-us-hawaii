@@ -1,0 +1,75 @@
+{
+  "id": 857513915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.458982,20.88332,-156.458982,20.88332",
+    "geom:latitude":20.88332,
+    "geom:longitude":-156.458982,
+    "iso:country":"US",
+    "sg:address":"385 Hukilike St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 270 2800",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bulk",
+        "oil",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54z1VaZgp80X74vPGp6FG1_20.883320_-156.458982@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202228,
+    "wof:geomhash":"100f22a0b9cfac0bdd60da29b990bb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857513915
+        }
+    ],
+    "wof:id":857513915,
+    "wof:lastmodified":1464202228,
+    "wof:name":"Maui Petroleum Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "oil",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -156.458982,
+    20.88332,
+    -156.458982,
+    20.88332
+],
+  "geometry": {"coordinates":[-156.45898199999999,20.88332],"type":"Point"}
+}

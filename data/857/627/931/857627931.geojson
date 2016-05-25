@@ -1,0 +1,71 @@
+{
+  "id": 857627931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80792,21.271034,-157.80792,21.271034",
+    "geom:latitude":21.271034,
+    "geom:longitude":-157.80792,
+    "iso:country":"US",
+    "sg:address":"3610 Trousseau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 1612",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wy3FNoFzrYri6waAEysBu_21.271034_-157.807920@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204621,
+    "wof:geomhash":"20d6cf98394a39e3f9d38bf0bf036389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857627931
+        }
+    ],
+    "wof:id":857627931,
+    "wof:lastmodified":1464204621,
+    "wof:name":"D S II Audit Svc",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit"
+    ]
+},
+  "bbox": [
+    -157.80792,
+    21.271034,
+    -157.80792,
+    21.271034
+],
+  "geometry": {"coordinates":[-157.80792,21.271034],"type":"Point"}
+}

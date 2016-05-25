@@ -1,0 +1,78 @@
+{
+  "id": 857660935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863583,21.312905,-157.863583,21.312905",
+    "geom:latitude":21.312905,
+    "geom:longitude":-157.863583,
+    "iso:country":"US",
+    "sg:address":"1028 Kekaulike St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4304",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pork",
+        "noodle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pqCQJhAB4SmVXmVnEUrB2_21.312905_-157.863583@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205956,
+    "wof:geomhash":"e85c9b551d0ac0116fba0c9b8c94ffa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857660935
+        }
+    ],
+    "wof:id":857660935,
+    "wof:lastmodified":1464205956,
+    "wof:name":"Ying Leong Look Fun Factory",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pork",
+        "noodle"
+    ]
+},
+  "bbox": [
+    -157.863583,
+    21.312905,
+    -157.863583,
+    21.312905
+],
+  "geometry": {"coordinates":[-157.86358300000001,21.312905],"type":"Point"}
+}

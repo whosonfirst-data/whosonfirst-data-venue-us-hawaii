@@ -1,0 +1,73 @@
+{
+  "id": 857581437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835273,21.446018,-157.835273,21.446018",
+    "geom:latitude":21.446018,
+    "geom:longitude":-157.835273,
+    "iso:country":"US",
+    "sg:address":"403 Ahuimanu Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 4464",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zOmIgx5bYWi0PtcPBqkqn_21.446018_-157.835273@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203578,
+    "wof:geomhash":"69d7892dac104e22971af79db1bd54a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857581437
+        }
+    ],
+    "wof:id":857581437,
+    "wof:lastmodified":1464203578,
+    "wof:name":"Hawaii Pumping Svc",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.835273,
+    21.446018,
+    -157.835273,
+    21.446018
+],
+  "geometry": {"coordinates":[-157.835273,21.446018],"type":"Point"}
+}

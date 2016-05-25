@@ -1,0 +1,71 @@
+{
+  "id": 857542111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506908,20.895232,-156.506908,20.895232",
+    "geom:latitude":20.895232,
+    "geom:longitude":-156.506908,
+    "iso:country":"US",
+    "sg:address":"318 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5255",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78BZfXDcMZMJBUHmDQ3egZ_20.895232_-156.506908@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202779,
+    "wof:geomhash":"5516b5814975987fb01e9a2edf7270ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857542111
+        }
+    ],
+    "wof:id":857542111,
+    "wof:lastmodified":1464202779,
+    "wof:name":"Happy Valley Sweets & Gifts",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.506908,
+    20.895232,
+    -156.506908,
+    20.895232
+],
+  "geometry": {"coordinates":[-156.50690800000001,20.895232],"type":"Point"}
+}

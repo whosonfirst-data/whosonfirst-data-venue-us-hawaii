@@ -1,0 +1,71 @@
+{
+  "id": 857563053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.464375,20.884816,-156.464375,20.884816",
+    "geom:latitude":20.884816,
+    "geom:longitude":-156.464375,
+    "iso:country":"US",
+    "sg:address":"243 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 0604",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdruFuevmUXiApbiFvGDf_20.884816_-156.464375@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203221,
+    "wof:geomhash":"4f49bc2918d1b3555aad35ef3babbe20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857563053
+        }
+    ],
+    "wof:id":857563053,
+    "wof:lastmodified":1464203221,
+    "wof:name":"Tesoro",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinery"
+    ]
+},
+  "bbox": [
+    -156.464375,
+    20.884816,
+    -156.464375,
+    20.884816
+],
+  "geometry": {"coordinates":[-156.46437499999999,20.884816],"type":"Point"}
+}

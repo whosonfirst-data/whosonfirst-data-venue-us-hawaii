@@ -1,0 +1,73 @@
+{
+  "id": 857633153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.1014,21.298467,-158.1014,21.298467",
+    "geom:latitude":21.298467,
+    "geom:longitude":-158.1014,
+    "iso:country":"US",
+    "sg:address":"39 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5363",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "piping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FsTc0gq3dVYNtpbjRW8qQ_21.298467_-158.101400@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204761,
+    "wof:geomhash":"a609cc4bb93c51a48a52de3ce9afc5e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857633153
+        }
+    ],
+    "wof:id":857633153,
+    "wof:lastmodified":1464204761,
+    "wof:name":"Island Mechanical Corp",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.1014,
+    21.298467,
+    -158.1014,
+    21.298467
+],
+  "geometry": {"coordinates":[-158.10140000000001,21.298467],"type":"Point"}
+}

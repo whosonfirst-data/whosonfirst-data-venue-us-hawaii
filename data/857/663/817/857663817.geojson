@@ -1,0 +1,73 @@
+{
+  "id": 857663817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.929379,21.317944,-157.929379,21.317944",
+    "geom:latitude":21.317944,
+    "geom:longitude":-157.929379,
+    "iso:country":"US",
+    "sg:address":"670 Worchester Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1622",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q1BDiViMQPzwMNPiaXKBl_21.317944_-157.929379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206078,
+    "wof:geomhash":"3e110badef3dd54f5eb8c92ad86e10d1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857663817
+        }
+    ],
+    "wof:id":857663817,
+    "wof:lastmodified":1464206078,
+    "wof:name":"FAA Admnstration Hawaii-Hickam",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -157.929379,
+    21.317944,
+    -157.929379,
+    21.317944
+],
+  "geometry": {"coordinates":[-157.92937900000001,21.317944],"type":"Point"}
+}

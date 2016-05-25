@@ -1,0 +1,74 @@
+{
+  "id": 857681007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.393445,21.967392,-159.393445,21.967392",
+    "geom:latitude":21.967392,
+    "geom:longitude":-159.393445,
+    "iso:country":"US",
+    "sg:address":"3-2600 Kaumualii Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/puhi-hanamaulu/124383-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 4782",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bqFrGqeDGD6tLWXEHhBZZ_21.967392_-159.393445@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206765,
+    "wof:geomhash":"43cd9319f22cd44e592cbea97152d821",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857681007
+        }
+    ],
+    "wof:id":857681007,
+    "wof:lastmodified":1464206765,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -159.393445,
+    21.967392,
+    -159.393445,
+    21.967392
+],
+  "geometry": {"coordinates":[-159.39344500000001,21.967392],"type":"Point"}
+}

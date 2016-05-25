@@ -1,0 +1,73 @@
+{
+  "id": 857673227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.774922,21.286746,-157.774922,21.286746",
+    "geom:latitude":21.286746,
+    "geom:longitude":-157.774922,
+    "iso:country":"US",
+    "sg:address":"1411 Ainakoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 6385",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ITFxwsNAq8gDKaAjIKsnl_21.286746_-157.774922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206460,
+    "wof:geomhash":"ecc2262387eedd061b2de0f0f941c5d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857673227
+        }
+    ],
+    "wof:id":857673227,
+    "wof:lastmodified":1464206460,
+    "wof:name":"Akiyama K Plumbing",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.774922,
+    21.286746,
+    -157.774922,
+    21.286746
+],
+  "geometry": {"coordinates":[-157.774922,21.286746],"type":"Point"}
+}

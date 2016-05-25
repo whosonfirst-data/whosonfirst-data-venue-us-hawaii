@@ -1,0 +1,75 @@
+{
+  "id": 857663061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896445,21.3458,-157.896445,21.3458",
+    "geom:latitude":21.3458,
+    "geom:longitude":-157.896445,
+    "iso:country":"US",
+    "sg:address":"2828 Paa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 503 788 8080",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "door",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03IaphmEehXAxCu6Je6a8E_21.345800_-157.896445@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206052,
+    "wof:geomhash":"d0ebc8dadad14789a87d69ec727e2520",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857663061
+        }
+    ],
+    "wof:id":857663061,
+    "wof:lastmodified":1464206052,
+    "wof:name":"Gibson Door and Millwork Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "installation"
+    ]
+},
+  "bbox": [
+    -157.896445,
+    21.3458,
+    -157.896445,
+    21.3458
+],
+  "geometry": {"coordinates":[-157.896445,21.3458],"type":"Point"}
+}

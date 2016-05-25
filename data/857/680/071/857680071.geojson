@@ -1,0 +1,101 @@
+{
+  "id": 857680071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834698,21.299511,-157.834698,21.299511",
+    "geom:latitude":21.299511,
+    "geom:longitude":-157.834698,
+    "iso:country":"US",
+    "sg:address":"1319 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 535 7401",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "information",
+        "center",
+        "family",
+        "medical",
+        "specialty",
+        "planning",
+        "interest",
+        "special"
+    ],
+    "sg:website":"www.kapiolani.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BlMvS132v90lfMrm5q2SM_21.299511_-157.834698@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206732,
+    "wof:geomhash":"8c2d057e3a0d79f3cba8fc68077fe6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857680071
+        }
+    ],
+    "wof:id":857680071,
+    "wof:lastmodified":1464206732,
+    "wof:name":"Kapiolani Medical Ctr Women/Ch",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "center",
+        "family",
+        "medical",
+        "specialty",
+        "planning",
+        "interest",
+        "special"
+    ]
+},
+  "bbox": [
+    -157.834698,
+    21.299511,
+    -157.834698,
+    21.299511
+],
+  "geometry": {"coordinates":[-157.834698,21.299511],"type":"Point"}
+}

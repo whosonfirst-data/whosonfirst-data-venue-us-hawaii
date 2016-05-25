@@ -1,0 +1,72 @@
+{
+  "id": 857680529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930477,21.379065,-157.930477,21.379065",
+    "geom:latitude":21.379065,
+    "geom:longitude":-157.930477,
+    "iso:country":"US",
+    "sg:address":"99-115 Aiea Heights Dr",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/108540-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 1488",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14CVZ4EGnLRbAvtHBWgwAf_21.379065_-157.930477@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206747,
+    "wof:geomhash":"618259edaf8d0ea0c4750148b2dfbc8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857680529
+        }
+    ],
+    "wof:id":857680529,
+    "wof:lastmodified":1464206747,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.930477,
+    21.379065,
+    -157.930477,
+    21.379065
+],
+  "geometry": {"coordinates":[-157.930477,21.379065],"type":"Point"}
+}

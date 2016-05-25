@@ -1,0 +1,73 @@
+{
+  "id": 857678623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86307,21.330114,-157.86307,21.330114",
+    "geom:latitude":21.330114,
+    "geom:longitude":-157.86307,
+    "iso:country":"US",
+    "sg:address":"1143 Hala Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6852",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fbil5oNKOIArdSEFBvJUq_21.330114_-157.863070@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206677,
+    "wof:geomhash":"299816767297a399d90c61c772ccc8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857678623
+        }
+    ],
+    "wof:id":857678623,
+    "wof:lastmodified":1464206677,
+    "wof:name":"Estes Engineering",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.86307,
+    21.330114,
+    -157.86307,
+    21.330114
+],
+  "geometry": {"coordinates":[-157.86306999999999,21.330114],"type":"Point"}
+}

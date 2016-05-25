@@ -1,0 +1,73 @@
+{
+  "id": 857660451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839041,21.301718,-157.839041,21.301718",
+    "geom:latitude":21.301718,
+    "geom:longitude":-157.839041,
+    "iso:country":"US",
+    "sg:address":"1207 Matlock Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 4297",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lbC9xrH0jXnv5HsJ8RuhI_21.301718_-157.839041@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205930,
+    "wof:geomhash":"5e388c3236a743e0de8228f145e2397f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857660451
+        }
+    ],
+    "wof:id":857660451,
+    "wof:lastmodified":1464205930,
+    "wof:name":"Professional Massage Therapy",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.839041,
+    21.301718,
+    -157.839041,
+    21.301718
+],
+  "geometry": {"coordinates":[-157.83904100000001,21.301718],"type":"Point"}
+}

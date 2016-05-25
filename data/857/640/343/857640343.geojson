@@ -1,0 +1,73 @@
+{
+  "id": 857640343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802827,21.296356,-157.802827,21.296356",
+    "geom:latitude":21.296356,
+    "geom:longitude":-157.802827,
+    "iso:country":"US",
+    "sg:address":"1671 Kanalui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8320",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CV8rVqWOTXgStaQX9TSV1_21.296356_-157.802827@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205034,
+    "wof:geomhash":"c8f098453734c580069b30fe5aa1c6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857640343
+        }
+    ],
+    "wof:id":857640343,
+    "wof:lastmodified":1464205034,
+    "wof:name":"Marketing Services",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.802827,
+    21.296356,
+    -157.802827,
+    21.296356
+],
+  "geometry": {"coordinates":[-157.80282700000001,21.296356],"type":"Point"}
+}

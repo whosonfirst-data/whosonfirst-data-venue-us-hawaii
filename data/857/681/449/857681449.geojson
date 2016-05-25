@@ -1,0 +1,72 @@
+{
+  "id": 857681449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825733,21.276945,-157.825733,21.276945",
+    "geom:latitude":21.276945,
+    "geom:longitude":-157.825733,
+    "iso:country":"US",
+    "sg:address":"120 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3283-pikake-terrace-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 5811",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nhyEV7JmfGXiYZK0pqN5y_21.276945_-157.825733@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206785,
+    "wof:geomhash":"aa74960e88b7dd59ef91e3e9edfa3b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681449
+        }
+    ],
+    "wof:id":857681449,
+    "wof:lastmodified":1464206785,
+    "wof:name":"Pikake Terrace Restaurant",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.825733,
+    21.276945,
+    -157.825733,
+    21.276945
+],
+  "geometry": {"coordinates":[-157.82573300000001,21.276945],"type":"Point"}
+}

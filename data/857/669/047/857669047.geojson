@@ -1,0 +1,79 @@
+{
+  "id": 857669047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829749,21.294838,-157.829749,21.294838",
+    "geom:latitude":21.294838,
+    "geom:longitude":-157.829749,
+    "iso:country":"US",
+    "sg:address":"2038 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 1400",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apparel",
+        "equipment",
+        "sport",
+        "golf",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19WjCx5IPS2M5fZCbEhBAG_21.294838_-157.829749@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206304,
+    "wof:geomhash":"69ef13229ff5333feb97c8d531ef993f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857669047
+        }
+    ],
+    "wof:id":857669047,
+    "wof:lastmodified":1464206304,
+    "wof:name":"Golf House",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "equipment",
+        "sport",
+        "golf",
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.829749,
+    21.294838,
+    -157.829749,
+    21.294838
+],
+  "geometry": {"coordinates":[-157.82974899999999,21.294838],"type":"Point"}
+}

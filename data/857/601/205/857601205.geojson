@@ -1,0 +1,71 @@
+{
+  "id": 857601205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843639,21.293549,-157.843639,21.293549",
+    "geom:latitude":21.293549,
+    "geom:longitude":-157.843639,
+    "iso:country":"US",
+    "sg:address":"1423 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9200",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cell58E873d51Z9WeaALN_21.293549_-157.843639@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204012,
+    "wof:geomhash":"af9ecb68ef7c9c5faa6141b6a06817bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857601205
+        }
+    ],
+    "wof:id":857601205,
+    "wof:lastmodified":1464204012,
+    "wof:name":"Netwerx Internet & Games",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -157.843639,
+    21.293549,
+    -157.843639,
+    21.293549
+],
+  "geometry": {"coordinates":[-157.843639,21.293549],"type":"Point"}
+}

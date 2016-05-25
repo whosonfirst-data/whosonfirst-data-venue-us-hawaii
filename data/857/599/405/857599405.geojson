@@ -1,0 +1,75 @@
+{
+  "id": 857599405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.086539,21.328148,-158.086539,21.328148",
+    "geom:latitude":21.328148,
+    "geom:longitude":-158.086539,
+    "iso:country":"US",
+    "sg:address":"650 Kamokila Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 692 7925",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "govt",
+        "state",
+        "planning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uhGSFGT5TT1RcmPWgJjZz_21.328148_-158.086539@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203971,
+    "wof:geomhash":"dd3b9c43b77670d80d492234105c6056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857599405
+        }
+    ],
+    "wof:id":857599405,
+    "wof:lastmodified":1464203971,
+    "wof:name":"Community Development Auth",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "govt",
+        "state",
+        "planning"
+    ]
+},
+  "bbox": [
+    -158.086539,
+    21.328148,
+    -158.086539,
+    21.328148
+],
+  "geometry": {"coordinates":[-158.08653899999999,21.328148],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857503787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840253,21.302997,-157.840253,21.302997",
+    "geom:latitude":21.302997,
+    "geom:longitude":-157.840253,
+    "iso:country":"US",
+    "sg:address":"1407 Kewalo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 3233",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "retirement",
+        "apartment",
+        "community",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E9DEd8n5pFGa1E4fc4Cam_21.302997_-157.840253@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202001,
+    "wof:geomhash":"05e273be09d87363ea3ec853c39592d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857503787
+        }
+    ],
+    "wof:id":857503787,
+    "wof:lastmodified":1464202001,
+    "wof:name":"Kewalo Apartments",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "retirement",
+        "apartment",
+        "community",
+        "home"
+    ]
+},
+  "bbox": [
+    -157.840253,
+    21.302997,
+    -157.840253,
+    21.302997
+],
+  "geometry": {"coordinates":[-157.84025299999999,21.302997],"type":"Point"}
+}

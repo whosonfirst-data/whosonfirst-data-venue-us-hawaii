@@ -1,0 +1,73 @@
+{
+  "id": 857674069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.510411,20.890297,-156.510411,20.890297",
+    "geom:latitude":20.890297,
+    "geom:longitude":-156.510411,
+    "iso:country":"US",
+    "sg:address":"2141 W Vineyard St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 0970",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q6mQYyF8NdNmas9Ats2Mu_20.890297_-156.510411@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206489,
+    "wof:geomhash":"4ceb3d713e41036255657004da6dfdfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857674069
+        }
+    ],
+    "wof:id":857674069,
+    "wof:lastmodified":1464206489,
+    "wof:name":"Meyer Computer Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -156.510411,
+    20.890297,
+    -156.510411,
+    20.890297
+],
+  "geometry": {"coordinates":[-156.510411,20.890297],"type":"Point"}
+}

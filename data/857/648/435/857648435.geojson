@@ -1,0 +1,80 @@
+{
+  "id": 857648435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.675705,20.885776,-156.675705,20.885776",
+    "geom:latitude":20.885776,
+    "geom:longitude":-156.675705,
+    "iso:country":"US",
+    "sg:address":"503 Aki St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0440",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6goASvMNaLFLVk5eRYcEng_20.885776_-156.675705@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205392,
+    "wof:geomhash":"7540aab5039f8b6e9c944b806898f17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857648435
+        }
+    ],
+    "wof:id":857648435,
+    "wof:lastmodified":1464205392,
+    "wof:name":"Matsumoto Auto Repair LLC",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "general"
+    ]
+},
+  "bbox": [
+    -156.675705,
+    20.885776,
+    -156.675705,
+    20.885776
+],
+  "geometry": {"coordinates":[-156.67570499999999,20.885776],"type":"Point"}
+}

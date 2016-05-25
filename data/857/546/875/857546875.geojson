@@ -1,0 +1,71 @@
+{
+  "id": 857546875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.90233,21.346638,-157.90233,21.346638",
+    "geom:latitude":21.346638,
+    "geom:longitude":-157.90233,
+    "iso:country":"US",
+    "sg:address":"1128 Ala Napunani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 225 8733",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z1jkA6ddQGQnibzmIERBG_21.346638_-157.902330@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202872,
+    "wof:geomhash":"13b5bcbe1e95c96f0ad445f00ed2c23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857546875
+        }
+    ],
+    "wof:id":857546875,
+    "wof:lastmodified":1464202872,
+    "wof:name":"ABC Limo Service",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.90233,
+    21.346638,
+    -157.90233,
+    21.346638
+],
+  "geometry": {"coordinates":[-157.90233000000001,21.346638],"type":"Point"}
+}

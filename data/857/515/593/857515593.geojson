@@ -1,0 +1,71 @@
+{
+  "id": 857515593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930586,21.383683,-157.930586,21.383683",
+    "geom:latitude":21.383683,
+    "geom:longitude":-157.930586,
+    "iso:country":"US",
+    "sg:address":"1239 Ulune St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 7955",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PRlrLp4iLUjrTFIi5jeLE_21.383683_-157.930586@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202263,
+    "wof:geomhash":"caaaf05a5129e10f2dbd9a5deaab0ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857515593
+        }
+    ],
+    "wof:id":857515593,
+    "wof:lastmodified":1464202263,
+    "wof:name":"Honolulu Fire Investigations",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -157.930586,
+    21.383683,
+    -157.930586,
+    21.383683
+],
+  "geometry": {"coordinates":[-157.93058600000001,21.383683],"type":"Point"}
+}

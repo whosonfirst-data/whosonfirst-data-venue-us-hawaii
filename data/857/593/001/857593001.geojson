@@ -1,0 +1,71 @@
+{
+  "id": 857593001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913008,21.611872,-157.913008,21.611872",
+    "geom:latitude":21.611872,
+    "geom:longitude":-157.913008,
+    "iso:country":"US",
+    "sg:address":"311 Hauula Homestead Rd",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 2122",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wfFXvJnJOpf2MutXY86xF_21.611872_-157.913008@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203827,
+    "wof:geomhash":"f66b17ec09c33890518efde345bbd17f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857593001
+        }
+    ],
+    "wof:id":857593001,
+    "wof:lastmodified":1464203827,
+    "wof:name":"Hauula Congregational Church",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.913008,
+    21.611872,
+    -157.913008,
+    21.611872
+],
+  "geometry": {"coordinates":[-157.91300799999999,21.611872],"type":"Point"}
+}

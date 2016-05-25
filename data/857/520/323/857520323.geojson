@@ -1,0 +1,80 @@
+{
+  "id": 857520323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.323222,20.793261,-156.323222,20.793261",
+    "geom:latitude":20.793261,
+    "geom:longitude":-156.323222,
+    "iso:country":"US",
+    "sg:address":"124 Kolokea Way",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 8000",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937627,
+        102085577,
+        85890579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d98p8qkZPW9kvBPSSzSIf_20.793261_-156.323222@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202359,
+    "wof:geomhash":"8b6d1ea59c22c10a7fef4ca9eb3dc02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890579,
+            "region_id":85688671,
+            "venue_id":857520323
+        }
+    ],
+    "wof:id":857520323,
+    "wof:lastmodified":1464202359,
+    "wof:name":"Sail Repairs",
+    "wof:parent_id":85890579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.323222,
+    20.793261,
+    -156.323222,
+    20.793261
+],
+  "geometry": {"coordinates":[-156.32322199999999,20.793261],"type":"Point"}
+}

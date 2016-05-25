@@ -1,0 +1,66 @@
+{
+  "id": 857670725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820887,21.27732,-157.820887,21.27732",
+    "geom:latitude":21.27732,
+    "geom:longitude":-157.820887,
+    "iso:country":"US",
+    "sg:address":"2415 Ala Wai Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 2998",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32xKViyVLFbZudyPSoQRsV_21.277320_-157.820887@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206366,
+    "wof:geomhash":"ffe1f96fb5a3fc18ce1d608a3bd1d71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857670725
+        }
+    ],
+    "wof:id":857670725,
+    "wof:lastmodified":1464206366,
+    "wof:name":"Proactive Mdcl Case Mgmt Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.820887,
+    21.27732,
+    -157.820887,
+    21.27732
+],
+  "geometry": {"coordinates":[-157.820887,21.27732],"type":"Point"}
+}

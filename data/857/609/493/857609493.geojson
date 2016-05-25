@@ -1,0 +1,73 @@
+{
+  "id": 857609493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.696124,20.930755,-156.696124,20.930755",
+    "geom:latitude":20.930755,
+    "geom:longitude":-156.696124,
+    "iso:country":"US",
+    "sg:address":"2605 Kaanapali Pkwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 1918",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937683,
+        102085577,
+        85890509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dQCFM62x7Qd2kteeoqssU_20.930755_-156.696124@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204197,
+    "wof:geomhash":"901b7cb2bad3fb1a72a9be3dbd43c11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937683,
+            "neighbourhood_id":85890509,
+            "region_id":85688671,
+            "venue_id":857609493
+        }
+    ],
+    "wof:id":857609493,
+    "wof:lastmodified":1464204197,
+    "wof:name":"Apcoa Parking",
+    "wof:parent_id":85890509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.696124,
+    20.930755,
+    -156.696124,
+    20.930755
+],
+  "geometry": {"coordinates":[-156.696124,20.930755],"type":"Point"}
+}

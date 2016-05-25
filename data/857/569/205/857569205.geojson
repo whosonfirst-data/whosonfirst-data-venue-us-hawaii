@@ -1,0 +1,71 @@
+{
+  "id": 857569205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972961,21.408142,-157.972961,21.408142",
+    "geom:latitude":21.408142,
+    "geom:longitude":-157.972961,
+    "iso:country":"US",
+    "sg:address":"1441 Kuloko St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 5873",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZQytjVkdiRRmZgUc5JoQ_21.408142_-157.972961@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203337,
+    "wof:geomhash":"f484bf1088296d66f86ba17f6d407c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857569205
+        }
+    ],
+    "wof:id":857569205,
+    "wof:lastmodified":1464203337,
+    "wof:name":"James Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.972961,
+    21.408142,
+    -157.972961,
+    21.408142
+],
+  "geometry": {"coordinates":[-157.972961,21.408142],"type":"Point"}
+}

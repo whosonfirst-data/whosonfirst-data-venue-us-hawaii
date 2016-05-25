@@ -1,0 +1,71 @@
+{
+  "id": 857666523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.673473,21.309705,-157.673473,21.309705",
+    "geom:latitude":21.309705,
+    "geom:longitude":-157.673473,
+    "iso:country":"US",
+    "sg:address":"831 Kealahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 6640",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ClM9EuYvgyIwEwG2FW6Hc_21.309705_-157.673473@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206207,
+    "wof:geomhash":"30558a0e34f34512dcb818f57e2405b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857666523
+        }
+    ],
+    "wof:id":857666523,
+    "wof:lastmodified":1464206207,
+    "wof:name":"Matthew K Chung",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.673473,
+    21.309705,
+    -157.673473,
+    21.309705
+],
+  "geometry": {"coordinates":[-157.673473,21.309705],"type":"Point"}
+}

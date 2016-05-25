@@ -1,0 +1,82 @@
+{
+  "id": 857537389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834226,21.296431,-157.834226,21.296431",
+    "geom:latitude":21.296431,
+    "geom:longitude":-157.834226,
+    "iso:country":"US",
+    "sg:address":"1738 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4811",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "electric",
+        "business",
+        "typewriter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26FZPTaSsnNJ41NnTOr6vE_21.296431_-157.834226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202687,
+    "wof:geomhash":"9814837c57d598316c314cfb79f0dea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857537389
+        }
+    ],
+    "wof:id":857537389,
+    "wof:lastmodified":1464202687,
+    "wof:name":"Kaimuki Typewriter Service",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "electric",
+        "business",
+        "typewriter"
+    ]
+},
+  "bbox": [
+    -157.834226,
+    21.296431,
+    -157.834226,
+    21.296431
+],
+  "geometry": {"coordinates":[-157.834226,21.296431],"type":"Point"}
+}

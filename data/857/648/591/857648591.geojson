@@ -1,0 +1,76 @@
+{
+  "id": 857648591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873223,21.326742,-157.873223,21.326742",
+    "geom:latitude":21.326742,
+    "geom:longitude":-157.873223,
+    "iso:country":"US",
+    "sg:address":"743 Waiakamilo Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6662",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09TDVWTJiMDuG3JlmLsUJs_21.326742_-157.873223@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205398,
+    "wof:geomhash":"dd07f2c0766d45180b32257da63ccd0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857648591
+        }
+    ],
+    "wof:id":857648591,
+    "wof:lastmodified":1464205398,
+    "wof:name":"Lab Services Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.873223,
+    21.326742,
+    -157.873223,
+    21.326742
+],
+  "geometry": {"coordinates":[-157.873223,21.326742],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857674633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.000273,21.506658,-158.000273,21.506658",
+    "geom:latitude":21.506658,
+    "geom:longitude":-158.000273,
+    "iso:country":"US",
+    "sg:address":"19 Kilea Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 3076",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R2RaDhStujh7CMDFngTwI_21.506658_-158.000273@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206510,
+    "wof:geomhash":"268867c0fab6e4f6cf16136a03ccaf3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857674633
+        }
+    ],
+    "wof:id":857674633,
+    "wof:lastmodified":1464206510,
+    "wof:name":"Aloha Treasures",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -158.000273,
+    21.506658,
+    -158.000273,
+    21.506658
+],
+  "geometry": {"coordinates":[-158.00027299999999,21.506658],"type":"Point"}
+}

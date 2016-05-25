@@ -1,0 +1,75 @@
+{
+  "id": 857647465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802451,21.392916,-157.802451,21.392916",
+    "geom:latitude":21.392916,
+    "geom:longitude":-157.802451,
+    "iso:country":"US",
+    "sg:address":"606 Apuapu St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5645",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Iupk9whYQ0Fxw1BmZddxG_21.392916_-157.802451@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205358,
+    "wof:geomhash":"95210c8f68921b34f0337f435a5eb3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857647465
+        }
+    ],
+    "wof:id":857647465,
+    "wof:lastmodified":1464205358,
+    "wof:name":"H Flooring",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.802451,
+    21.392916,
+    -157.802451,
+    21.392916
+],
+  "geometry": {"coordinates":[-157.80245099999999,21.392916],"type":"Point"}
+}

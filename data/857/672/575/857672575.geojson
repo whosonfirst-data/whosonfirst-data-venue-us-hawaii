@@ -1,0 +1,73 @@
+{
+  "id": 857672575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.317525,22.076743,-159.317525,22.076743",
+    "geom:latitude":22.076743,
+    "geom:longitude":-159.317525,
+    "iso:country":"US",
+    "sg:address":"1396 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 6353",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iyjzyr5qeAkhCmKKcNLQ1_22.076743_-159.317525@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206437,
+    "wof:geomhash":"222765880cb07308c3476efbb2d290e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857672575
+        }
+    ],
+    "wof:id":857672575,
+    "wof:lastmodified":1464206437,
+    "wof:name":"Kapaa Electric Shop",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -159.317525,
+    22.076743,
+    -159.317525,
+    22.076743
+],
+  "geometry": {"coordinates":[-159.31752499999999,22.076743],"type":"Point"}
+}

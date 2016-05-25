@@ -1,0 +1,71 @@
+{
+  "id": 857642973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850098,21.296377,-157.850098,21.296377",
+    "geom:latitude":21.296377,
+    "geom:longitude":-157.850098,
+    "iso:country":"US",
+    "sg:address":"1035 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8578",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Scb7jE7Zmf6VPKtOi1zK1_21.296377_-157.850098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205138,
+    "wof:geomhash":"4ccaa53d5d33bcf277dd4d56cab59495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857642973
+        }
+    ],
+    "wof:id":857642973,
+    "wof:lastmodified":1464205138,
+    "wof:name":"Club Kapiolani",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.850098,
+    21.296377,
+    -157.850098,
+    21.296377
+],
+  "geometry": {"coordinates":[-157.850098,21.296377],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857633179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.951059,21.385659,-157.951059,21.385659",
+    "geom:latitude":21.385659,
+    "geom:longitude":-157.951059,
+    "iso:country":"US",
+    "sg:address":"55 Kamehameha Hwy",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 478 2639",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57vLDCvG47qbUxfaK6Yq0a_21.385659_-157.951059@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204762,
+    "wof:geomhash":"f086c73105ed92a663387e6ff7c6d3ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857633179
+        }
+    ],
+    "wof:id":857633179,
+    "wof:lastmodified":1464204762,
+    "wof:name":"Tri-Star Painting",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.951059,
+    21.385659,
+    -157.951059,
+    21.385659
+],
+  "geometry": {"coordinates":[-157.95105899999999,21.385659],"type":"Point"}
+}

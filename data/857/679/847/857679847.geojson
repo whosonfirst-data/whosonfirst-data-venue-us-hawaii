@@ -1,0 +1,78 @@
+{
+  "id": 857679847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884801,21.32443,-157.884801,21.32443",
+    "geom:latitude":21.32443,
+    "geom:longitude":-157.884801,
+    "iso:country":"US",
+    "sg:address":"287 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 5876",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qOTV6HTVEH3nUmno67xyG_21.324430_-157.884801@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206724,
+    "wof:geomhash":"ab2610caa17083e7e39acb321d5fac2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857679847
+        }
+    ],
+    "wof:id":857679847,
+    "wof:lastmodified":1464206724,
+    "wof:name":"Wayne T Hammonds Steel",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.884801,
+    21.32443,
+    -157.884801,
+    21.32443
+],
+  "geometry": {"coordinates":[-157.88480100000001,21.32443],"type":"Point"}
+}

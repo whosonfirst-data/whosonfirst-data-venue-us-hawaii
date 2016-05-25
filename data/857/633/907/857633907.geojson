@@ -1,0 +1,71 @@
+{
+  "id": 857633907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815025,21.291874,-157.815025,21.291874",
+    "geom:latitude":21.291874,
+    "geom:longitude":-157.815025,
+    "iso:country":"US",
+    "sg:address":"2945 Kalei Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 330 3664",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X0zKJOut7lDl2O2MMOkbG_21.291874_-157.815025@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204794,
+    "wof:geomhash":"ff61cfb81b993d0cb70c95125c801ceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857633907
+        }
+    ],
+    "wof:id":857633907,
+    "wof:lastmodified":1464204794,
+    "wof:name":"Home Investment LLC",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -157.815025,
+    21.291874,
+    -157.815025,
+    21.291874
+],
+  "geometry": {"coordinates":[-157.81502499999999,21.291874],"type":"Point"}
+}

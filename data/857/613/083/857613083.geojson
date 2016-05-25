@@ -1,0 +1,73 @@
+{
+  "id": 857613083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752557,21.286089,-157.752557,21.286089",
+    "geom:latitude":21.286089,
+    "geom:longitude":-157.752557,
+    "iso:country":"US",
+    "sg:address":"657 Hind Iuka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 9436",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "childbirth",
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tgPRjqL6tw9OMMbWBZ1nt_21.286089_-157.752557@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204282,
+    "wof:geomhash":"9a4b2dc05e0c8b45785b2612b810095e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857613083
+        }
+    ],
+    "wof:id":857613083,
+    "wof:lastmodified":1464204282,
+    "wof:name":"Doula Network Of Hawaii",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "childbirth",
+        "education"
+    ]
+},
+  "bbox": [
+    -157.752557,
+    21.286089,
+    -157.752557,
+    21.286089
+],
+  "geometry": {"coordinates":[-157.752557,21.286089],"type":"Point"}
+}

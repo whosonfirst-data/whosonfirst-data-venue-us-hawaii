@@ -1,0 +1,71 @@
+{
+  "id": 857672845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827917,21.293287,-157.827917,21.293287",
+    "geom:latitude":21.293287,
+    "geom:longitude":-157.827917,
+    "iso:country":"US",
+    "sg:address":"2118 Algaroba St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1604",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1geWuAZIWII2427EJvYhIJ_21.293287_-157.827917@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206446,
+    "wof:geomhash":"ae3654426156fd222fa93282c30424b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857672845
+        }
+    ],
+    "wof:id":857672845,
+    "wof:lastmodified":1464206446,
+    "wof:name":"Dave's Dental Lab Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.827917,
+    21.293287,
+    -157.827917,
+    21.293287
+],
+  "geometry": {"coordinates":[-157.82791700000001,21.293287],"type":"Point"}
+}

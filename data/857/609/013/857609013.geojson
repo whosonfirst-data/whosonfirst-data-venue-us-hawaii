@@ -1,0 +1,73 @@
+{
+  "id": 857609013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877156,21.338092,-157.877156,21.338092",
+    "geom:latitude":21.338092,
+    "geom:longitude":-157.877156,
+    "iso:country":"US",
+    "sg:address":"1545 Linapuni St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4898",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TgESHU9MhScdFyEXNC5u3_21.338092_-157.877156@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204187,
+    "wof:geomhash":"dd39d87467bbe57a48d13f29101c964b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857609013
+        }
+    ],
+    "wof:id":857609013,
+    "wof:lastmodified":1464204187,
+    "wof:name":"Susannah Wesley Community Ctr",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.877156,
+    21.338092,
+    -157.877156,
+    21.338092
+],
+  "geometry": {"coordinates":[-157.87715600000001,21.338092],"type":"Point"}
+}

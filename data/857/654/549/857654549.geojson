@@ -1,0 +1,71 @@
+{
+  "id": 857654549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461552,20.887302,-156.461552,20.887302",
+    "geom:latitude":20.887302,
+    "geom:longitude":-156.461552,
+    "iso:country":"US",
+    "sg:address":"200 Kalepa Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 5585",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ivR3Ogi7z3Xt3O5Upsx8_20.887302_-156.461552@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205657,
+    "wof:geomhash":"7d3ee09a1090f9f0358a28b12f1ff4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857654549
+        }
+    ],
+    "wof:id":857654549,
+    "wof:lastmodified":1464205657,
+    "wof:name":"Wright Marilyn D MD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.461552,
+    20.887302,
+    -156.461552,
+    20.887302
+],
+  "geometry": {"coordinates":[-156.46155200000001,20.887302],"type":"Point"}
+}

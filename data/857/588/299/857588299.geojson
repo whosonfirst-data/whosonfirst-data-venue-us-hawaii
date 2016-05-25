@@ -1,0 +1,80 @@
+{
+  "id": 857588299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.947303,21.418978,-157.947303,21.418978",
+    "geom:latitude":21.418978,
+    "geom:longitude":-157.947303,
+    "iso:country":"US",
+    "sg:address":"2676 Waimano Home Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 454 1339",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mental",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e0ugZ6BF4ivkXjlg2ZIN8_21.418978_-157.947303@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203721,
+    "wof:geomhash":"e8fe98947fffffe83ea65cb5de8cc910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857588299
+        }
+    ],
+    "wof:id":857588299,
+    "wof:lastmodified":1464203721,
+    "wof:name":"Ho'Okupono Program",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -157.947303,
+    21.418978,
+    -157.947303,
+    21.418978
+],
+  "geometry": {"coordinates":[-157.94730300000001,21.418978],"type":"Point"}
+}

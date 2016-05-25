@@ -1,0 +1,71 @@
+{
+  "id": 857553509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845766,21.329379,-157.845766,21.329379",
+    "geom:latitude":21.329379,
+    "geom:longitude":-157.845766,
+    "iso:country":"US",
+    "sg:address":"84 Coelho Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6241",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ZGi47BcSUCMsKmokMgqI_21.329379_-157.845766@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202998,
+    "wof:geomhash":"4682a3a488ab56fd4bc123b234e3a88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857553509
+        }
+    ],
+    "wof:id":857553509,
+    "wof:lastmodified":1464202998,
+    "wof:name":"Raymond Lau",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -157.845766,
+    21.329379,
+    -157.845766,
+    21.329379
+],
+  "geometry": {"coordinates":[-157.845766,21.329379],"type":"Point"}
+}

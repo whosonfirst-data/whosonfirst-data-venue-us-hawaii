@@ -1,0 +1,71 @@
+{
+  "id": 857606171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.736006,21.281141,-157.736006,21.281141",
+    "geom:latitude":21.281141,
+    "geom:longitude":-157.736006,
+    "iso:country":"US",
+    "sg:address":"44 Niuiki Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 7788",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BYO4V6QD6vgJJmZVtjv5L_21.281141_-157.736006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204119,
+    "wof:geomhash":"ca699015e5cf25d7ad03d69a9fc32788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857606171
+        }
+    ],
+    "wof:id":857606171,
+    "wof:lastmodified":1464204119,
+    "wof:name":"Lams Garden Chinese Rest",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.736006,
+    21.281141,
+    -157.736006,
+    21.281141
+],
+  "geometry": {"coordinates":[-157.736006,21.281141],"type":"Point"}
+}

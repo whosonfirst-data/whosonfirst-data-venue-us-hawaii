@@ -1,0 +1,75 @@
+{
+  "id": 857533321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.696773,21.296624,-157.696773,21.296624",
+    "geom:latitude":21.296624,
+    "geom:longitude":-157.696773,
+    "iso:country":"US",
+    "sg:address":"7370 Makaa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 2555",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mypsfwXnQAm6TLDB0VWmi_21.296624_-157.696773@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202609,
+    "wof:geomhash":"7d412b5a1ea0685e7f5064696abeb164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857533321
+        }
+    ],
+    "wof:id":857533321,
+    "wof:lastmodified":1464202609,
+    "wof:name":"Ace Glass Tinting Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -157.696773,
+    21.296624,
+    -157.696773,
+    21.296624
+],
+  "geometry": {"coordinates":[-157.69677300000001,21.296624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857629945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00402,21.384128,-158.00402,21.384128",
+    "geom:latitude":21.384128,
+    "geom:longitude":-158.00402,
+    "iso:country":"US",
+    "sg:address":"766 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1155",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xo24sH1s1OpcFl77IKnJM_21.384128_-158.004020@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204659,
+    "wof:geomhash":"cd3755a3a628b9734b1828d0303d7544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857629945
+        }
+    ],
+    "wof:id":857629945,
+    "wof:lastmodified":1464204659,
+    "wof:name":"Dee Lite Bakery",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -158.00402,
+    21.384128,
+    -158.00402,
+    21.384128
+],
+  "geometry": {"coordinates":[-158.00402,21.384128],"type":"Point"}
+}

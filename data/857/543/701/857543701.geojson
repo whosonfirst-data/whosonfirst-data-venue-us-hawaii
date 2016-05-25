@@ -1,0 +1,69 @@
+{
+  "id": 857543701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.057291,21.334792,-158.057291,21.334792",
+    "geom:latitude":21.334792,
+    "geom:longitude":-158.057291,
+    "iso:country":"US",
+    "sg:address":"1002 Hawea St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 223 3843",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72TCCiyHNE7dNH1tRBciIT_21.334792_-158.057291@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202815,
+    "wof:geomhash":"8450aa041cb1c7929bf1d1482d9afe0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857543701
+        }
+    ],
+    "wof:id":857543701,
+    "wof:lastmodified":1464202815,
+    "wof:name":"Yummy Stuff",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -158.057291,
+    21.334792,
+    -158.057291,
+    21.334792
+],
+  "geometry": {"coordinates":[-158.05729099999999,21.334792],"type":"Point"}
+}

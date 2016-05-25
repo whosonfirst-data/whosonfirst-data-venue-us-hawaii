@@ -1,0 +1,73 @@
+{
+  "id": 857571639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861055,21.310713,-157.861055,21.310713",
+    "geom:latitude":21.310713,
+    "geom:longitude":-157.861055,
+    "iso:country":"US",
+    "sg:address":"1111 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4712",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seed",
+        "preserved"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36UmAGrJbXAUKFb4agNZ69_21.310713_-157.861055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203382,
+    "wof:geomhash":"ddcb6ae328138e8e9ee87158fc74a0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857571639
+        }
+    ],
+    "wof:id":857571639,
+    "wof:lastmodified":1464203382,
+    "wof:name":"C-Mui Ctr",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed",
+        "preserved"
+    ]
+},
+  "bbox": [
+    -157.861055,
+    21.310713,
+    -157.861055,
+    21.310713
+],
+  "geometry": {"coordinates":[-157.86105499999999,21.310713],"type":"Point"}
+}

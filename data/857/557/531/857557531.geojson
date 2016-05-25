@@ -1,0 +1,73 @@
+{
+  "id": 857557531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844087,21.293729,-157.844087,21.293729",
+    "geom:latitude":21.293729,
+    "geom:longitude":-157.844087,
+    "iso:country":"US",
+    "sg:address":"1441 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 3636",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70IDOYX0HctXiSfzz4TnSs_21.293729_-157.844087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203080,
+    "wof:geomhash":"4dbf92c175a7ed4acc24da8670a72e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857557531
+        }
+    ],
+    "wof:id":857557531,
+    "wof:lastmodified":1464203080,
+    "wof:name":"Doctors Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.844087,
+    21.293729,
+    -157.844087,
+    21.293729
+],
+  "geometry": {"coordinates":[-157.844087,21.293729],"type":"Point"}
+}

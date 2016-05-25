@@ -1,0 +1,73 @@
+{
+  "id": 857662573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84314,21.320832,-157.84314,21.320832",
+    "geom:latitude":21.320832,
+    "geom:longitude":-157.84314,
+    "iso:country":"US",
+    "sg:address":"2331 Kanealii Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 522 7037",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZpXoCrtKjFYHmuIXXnoOa_21.320832_-157.843140@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206032,
+    "wof:geomhash":"9ca7d6a5f82d6d17364221bb065e6744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857662573
+        }
+    ],
+    "wof:id":857662573,
+    "wof:lastmodified":1464206032,
+    "wof:name":"Booth District Swimming Pool",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -157.84314,
+    21.320832,
+    -157.84314,
+    21.320832
+],
+  "geometry": {"coordinates":[-157.84314000000001,21.320832],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857665403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878664,21.32787,-157.878664,21.32787",
+    "geom:latitude":21.32787,
+    "geom:longitude":-157.878664,
+    "iso:country":"US",
+    "sg:address":"634 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1888",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wFimYFJ8BYHUQ212HKWpP_21.327870_-157.878664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206147,
+    "wof:geomhash":"2720b9b5afa996243736d6769f747aa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857665403
+        }
+    ],
+    "wof:id":857665403,
+    "wof:lastmodified":1464206147,
+    "wof:name":"Ylarde Roland J B DDS",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.878664,
+    21.32787,
+    -157.878664,
+    21.32787
+],
+  "geometry": {"coordinates":[-157.87866399999999,21.32787],"type":"Point"}
+}

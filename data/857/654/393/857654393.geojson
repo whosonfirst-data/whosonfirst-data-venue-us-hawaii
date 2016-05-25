@@ -1,0 +1,71 @@
+{
+  "id": 857654393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847373,21.308342,-157.847373,21.308342",
+    "geom:latitude":21.308342,
+    "geom:longitude":-157.847373,
+    "iso:country":"US",
+    "sg:address":"944 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 387 7825",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bPqeQ7pNnMGy893cwHmT5_21.308342_-157.847373@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205651,
+    "wof:geomhash":"8af33b4aee3c7d4d78d58636f46998c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857654393
+        }
+    ],
+    "wof:id":857654393,
+    "wof:lastmodified":1464205651,
+    "wof:name":"Climb Aloha",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -157.847373,
+    21.308342,
+    -157.847373,
+    21.308342
+],
+  "geometry": {"coordinates":[-157.847373,21.308342],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857632755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905136,21.334436,-157.905136,21.334436",
+    "geom:latitude":21.334436,
+    "geom:longitude":-157.905136,
+    "iso:country":"US",
+    "sg:address":"2887 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0131",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iAjaSjJbio2nx5hy84HAY_21.334436_-157.905136@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204746,
+    "wof:geomhash":"6fec4c60a059b5312110d78f6801bc65",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857632755
+        }
+    ],
+    "wof:id":857632755,
+    "wof:lastmodified":1464204746,
+    "wof:name":"Aloha Freight Forwarders Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -157.905136,
+    21.334436,
+    -157.905136,
+    21.334436
+],
+  "geometry": {"coordinates":[-157.905136,21.334436],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857512533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723528,21.285988,-157.723528,21.285988",
+    "geom:latitude":21.285988,
+    "geom:longitude":-157.723528,
+    "iso:country":"US",
+    "sg:address":"6060 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 5953",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6juGhhtYJoHoxASUrzjlWS_21.285988_-157.723528@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202197,
+    "wof:geomhash":"e13b5d535f0c7b0d75a211f58d5bb1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857512533
+        }
+    ],
+    "wof:id":857512533,
+    "wof:lastmodified":1464202197,
+    "wof:name":"Kyle Stuart Salon",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.723528,
+    21.285988,
+    -157.723528,
+    21.285988
+],
+  "geometry": {"coordinates":[-157.72352799999999,21.285988],"type":"Point"}
+}

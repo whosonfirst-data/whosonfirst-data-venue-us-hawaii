@@ -1,0 +1,90 @@
+{
+  "id": 857668655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.91118,21.321128,-157.91118,21.321128",
+    "geom:latitude":21.321128,
+    "geom:longitude":-157.91118,
+    "iso:country":"US",
+    "sg:address":"155 Kapalulu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5500",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ],
+    "sg:website":"www.heliusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nYng2zy6dl1Y8WA3PgTP5_21.321128_-157.911180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206280,
+    "wof:geomhash":"944cb7a268a34bc8fcb1fc5af6cb2679",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857668655
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857668655
+        }
+    ],
+    "wof:id":857668655,
+    "wof:lastmodified":1464206280,
+    "wof:name":"Heli USA Airways",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ]
+},
+  "bbox": [
+    -157.91118,
+    21.321128,
+    -157.91118,
+    21.321128
+],
+  "geometry": {"coordinates":[-157.91118,21.321128],"type":"Point"}
+}

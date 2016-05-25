@@ -1,0 +1,71 @@
+{
+  "id": 857580275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911852,21.348465,-157.911852,21.348465",
+    "geom:latitude":21.348465,
+    "geom:longitude":-157.911852,
+    "iso:country":"US",
+    "sg:address":"5151 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 4772",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "industry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58z9cHdSf2oAChOl58RZFl_21.348465_-157.911852@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203558,
+    "wof:geomhash":"2b895524d00bf254f9947aac34adda53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857580275
+        }
+    ],
+    "wof:id":857580275,
+    "wof:lastmodified":1464203558,
+    "wof:name":"Acme Construction Co",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry"
+    ]
+},
+  "bbox": [
+    -157.911852,
+    21.348465,
+    -157.911852,
+    21.348465
+],
+  "geometry": {"coordinates":[-157.91185200000001,21.348465],"type":"Point"}
+}

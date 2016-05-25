@@ -1,0 +1,73 @@
+{
+  "id": 857641831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841387,21.293377,-157.841387,21.293377",
+    "geom:latitude":21.293377,
+    "geom:longitude":-157.841387,
+    "iso:country":"US",
+    "sg:address":"1525 Makaloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9090",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16xfUmLfI9EyhVyh3UNPWc_21.293377_-157.841387@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205092,
+    "wof:geomhash":"4841807109d8e79b7f5f34d9658a9b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857641831
+        }
+    ],
+    "wof:id":857641831,
+    "wof:lastmodified":1464205092,
+    "wof:name":"Smiley's Music & Video Exch",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.841387,
+    21.293377,
+    -157.841387,
+    21.293377
+],
+  "geometry": {"coordinates":[-157.841387,21.293377],"type":"Point"}
+}

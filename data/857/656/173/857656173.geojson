@@ -1,0 +1,73 @@
+{
+  "id": 857656173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801802,21.280078,-157.801802,21.280078",
+    "geom:latitude":21.280078,
+    "geom:longitude":-157.801802,
+    "iso:country":"US",
+    "sg:address":"1039 11th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 4344",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60nRncjPq9pRA7kDwxZ5fh_21.280078_-157.801802@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205732,
+    "wof:geomhash":"bacb41dbbc09a5b3cd8362de6ee18658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857656173
+        }
+    ],
+    "wof:id":857656173,
+    "wof:lastmodified":1464205732,
+    "wof:name":"Diamond Head Plumbing Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.801802,
+    21.280078,
+    -157.801802,
+    21.280078
+],
+  "geometry": {"coordinates":[-157.80180200000001,21.280078],"type":"Point"}
+}

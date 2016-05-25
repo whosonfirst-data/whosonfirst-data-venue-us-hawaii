@@ -1,0 +1,75 @@
+{
+  "id": 857675641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011259,21.438166,-158.011259,21.438166",
+    "geom:latitude":21.438166,
+    "geom:longitude":-158.011259,
+    "iso:country":"US",
+    "sg:address":"444 Kapuahi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 4929",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garage",
+        "door",
+        "installation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IqSjFkQDsCaQ1dOk3nbjm_21.438166_-158.011259@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206559,
+    "wof:geomhash":"e9563398d6a358d346d523b6ad2fff7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857675641
+        }
+    ],
+    "wof:id":857675641,
+    "wof:lastmodified":1464206559,
+    "wof:name":"H & H Overhead Door of Oahu",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "door",
+        "installation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.011259,
+    21.438166,
+    -158.011259,
+    21.438166
+],
+  "geometry": {"coordinates":[-158.011259,21.438166],"type":"Point"}
+}

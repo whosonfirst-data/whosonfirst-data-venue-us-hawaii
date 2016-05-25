@@ -1,0 +1,71 @@
+{
+  "id": 857679359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.682552,21.294551,-157.682552,21.294551",
+    "geom:latitude":21.294551,
+    "geom:longitude":-157.682552,
+    "iso:country":"US",
+    "sg:address":"7445 Kamehame Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5476",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiAooINqVaDXehDiPqbNC_21.294551_-157.682552@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206705,
+    "wof:geomhash":"1c58796b859378c4bb61a60f729a245b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857679359
+        }
+    ],
+    "wof:id":857679359,
+    "wof:lastmodified":1464206705,
+    "wof:name":"DJNS Surveying & Mapping",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -157.682552,
+    21.294551,
+    -157.682552,
+    21.294551
+],
+  "geometry": {"coordinates":[-157.68255199999999,21.294551],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857555923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.469382,20.871381,-156.469382,20.871381",
+    "geom:latitude":20.871381,
+    "geom:longitude":-156.469382,
+    "iso:country":"US",
+    "sg:address":"378 S Mokapu St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 2638",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hK58P9niEQhJdX3WcckGR_20.871381_-156.469382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203051,
+    "wof:geomhash":"514b7ca66b34b708a0ac8c0f6d07f63d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857555923
+        }
+    ],
+    "wof:id":857555923,
+    "wof:lastmodified":1464203051,
+    "wof:name":"Maui Pop Warner Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -156.469382,
+    20.871381,
+    -156.469382,
+    20.871381
+],
+  "geometry": {"coordinates":[-156.469382,20.871381],"type":"Point"}
+}

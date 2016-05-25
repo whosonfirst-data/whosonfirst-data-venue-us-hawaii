@@ -1,0 +1,71 @@
+{
+  "id": 857524245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787524,21.303385,-157.787524,21.303385",
+    "geom:latitude":21.303385,
+    "geom:longitude":-157.787524,
+    "iso:country":"US",
+    "sg:address":"2416 Holomua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 0090",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zHpGaNKtzcQkpkYgVjeZ5_21.303385_-157.787524@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202434,
+    "wof:geomhash":"13140a67f38f4099a7d372cd753d994a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857524245
+        }
+    ],
+    "wof:id":857524245,
+    "wof:lastmodified":1464202434,
+    "wof:name":"Architectural Design Group Inc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.787524,
+    21.303385,
+    -157.787524,
+    21.303385
+],
+  "geometry": {"coordinates":[-157.78752399999999,21.303385],"type":"Point"}
+}

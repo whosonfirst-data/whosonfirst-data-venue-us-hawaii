@@ -1,0 +1,71 @@
+{
+  "id": 857670835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.805665,21.416271,-157.805665,21.416271",
+    "geom:latitude":21.416271,
+    "geom:longitude":-157.805665,
+    "iso:country":"US",
+    "sg:address":"283 Kahuhipa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 256 5566",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PpiHq2XCAp3PAcs4OqL9R_21.416271_-157.805665@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206369,
+    "wof:geomhash":"8ffd7c5102d37ba998b1181509468b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857670835
+        }
+    ],
+    "wof:id":857670835,
+    "wof:lastmodified":1464206369,
+    "wof:name":"K Bay Cab",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.805665,
+    21.416271,
+    -157.805665,
+    21.416271
+],
+  "geometry": {"coordinates":[-157.805665,21.416271],"type":"Point"}
+}

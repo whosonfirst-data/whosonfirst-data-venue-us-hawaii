@@ -1,0 +1,71 @@
+{
+  "id": 857585347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850429,21.322234,-157.850429,21.322234",
+    "geom:latitude":21.322234,
+    "geom:longitude":-157.850429,
+    "iso:country":"US",
+    "sg:address":"2029 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 6349",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R9Zu9N5SmTcnr2bgVbtSI_21.322234_-157.850429@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203652,
+    "wof:geomhash":"904fcd27e78e0d756a2bab4e91058855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857585347
+        }
+    ],
+    "wof:id":857585347,
+    "wof:lastmodified":1464203652,
+    "wof:name":"Residential & Commercial Bldrs",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.850429,
+    21.322234,
+    -157.850429,
+    21.322234
+],
+  "geometry": {"coordinates":[-157.85042899999999,21.322234],"type":"Point"}
+}

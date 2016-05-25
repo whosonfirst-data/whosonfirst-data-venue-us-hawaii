@@ -1,0 +1,80 @@
+{
+  "id": 857581465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84705,21.307046,-157.84705,21.307046",
+    "geom:latitude":21.307046,
+    "geom:longitude":-157.84705,
+    "iso:country":"US",
+    "sg:address":"1441 Victoria St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 2846",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment",
+        "complex",
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LpTa4CutHk8OzIljQMY2E_21.307046_-157.847050@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203579,
+    "wof:geomhash":"feecf09b119a69feb7940bb59677e8de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857581465
+        }
+    ],
+    "wof:id":857581465,
+    "wof:lastmodified":1464203579,
+    "wof:name":"Victoria Plaza",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex",
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.84705,
+    21.307046,
+    -157.84705,
+    21.307046
+],
+  "geometry": {"coordinates":[-157.84705,21.307046],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857643049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.481701,20.876698,-156.481701,20.876698",
+    "geom:latitude":20.876698,
+    "geom:longitude":-156.481701,
+    "iso:country":"US",
+    "sg:address":"577 Waikala St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 8948",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LSU1sqU1skMfiZ0ZN0kXD_20.876698_-156.481701@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205144,
+    "wof:geomhash":"07685d65270f80c799b8bc0c5a390551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857643049
+        }
+    ],
+    "wof:id":857643049,
+    "wof:lastmodified":1464205144,
+    "wof:name":"K-2 Electric",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.481701,
+    20.876698,
+    -156.481701,
+    20.876698
+],
+  "geometry": {"coordinates":[-156.48170099999999,20.876698],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857583287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.037416,21.676844,-158.037416,21.676844",
+    "geom:latitude":21.676844,
+    "geom:longitude":-158.037416,
+    "iso:country":"US",
+    "sg:address":"37 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 7054",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85851545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17FeEqxORaXvNXB0Mobtni_21.676844_-158.037416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203613,
+    "wof:geomhash":"7abb6fe72edf8646619952d4fd955101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85851545,
+            "region_id":85688671,
+            "venue_id":857583287
+        }
+    ],
+    "wof:id":857583287,
+    "wof:lastmodified":1464203613,
+    "wof:name":"Ke Ola Pono O Haleiwa Family",
+    "wof:parent_id":85851545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.037416,
+    21.676844,
+    -158.037416,
+    21.676844
+],
+  "geometry": {"coordinates":[-158.03741600000001,21.676844],"type":"Point"}
+}

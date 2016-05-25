@@ -1,0 +1,77 @@
+{
+  "id": 857572265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899635,21.335866,-157.899635,21.335866",
+    "geom:latitude":21.335866,
+    "geom:longitude":-157.899635,
+    "iso:country":"US",
+    "sg:address":"2814 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 7717",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MiE3q1PjKir1Omb5mg8v7_21.335866_-157.899635@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203393,
+    "wof:geomhash":"5f31287618182d4e36f5fa5f15b9b727",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857572265
+        }
+    ],
+    "wof:id":857572265,
+    "wof:lastmodified":1464203393,
+    "wof:name":"Jack Endo Electric Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.899635,
+    21.335866,
+    -157.899635,
+    21.335866
+],
+  "geometry": {"coordinates":[-157.89963499999999,21.335866],"type":"Point"}
+}

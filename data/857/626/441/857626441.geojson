@@ -1,0 +1,67 @@
+{
+  "id": 857626441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825542,21.280335,-157.825542,21.280335",
+    "geom:latitude":21.280335,
+    "geom:longitude":-157.825542,
+    "iso:country":"US",
+    "sg:address":"445 Nohonani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 1877",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.ilima.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JoL8iZn7Cqax5vi1XWosn_21.280335_-157.825542@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204590,
+    "wof:geomhash":"ae8451526cf83a2199eeb58cdc0c13f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857626441
+        }
+    ],
+    "wof:id":857626441,
+    "wof:lastmodified":1464204590,
+    "wof:name":"Ilima Hotel",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.825542,
+    21.280335,
+    -157.825542,
+    21.280335
+],
+  "geometry": {"coordinates":[-157.82554200000001,21.280335],"type":"Point"}
+}

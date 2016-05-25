@@ -1,0 +1,66 @@
+{
+  "id": 857567137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82355,21.276585,-157.82355,21.276585",
+    "geom:latitude":21.276585,
+    "geom:longitude":-157.82355,
+    "iso:country":"US",
+    "sg:address":"150 Uluniu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 2765",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sWiIPd9Z2De8n3s7xU0Uk_21.276585_-157.823550@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203301,
+    "wof:geomhash":"99e74df36e4e5768cd09d1f4e2bc1a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857567137
+        }
+    ],
+    "wof:id":857567137,
+    "wof:lastmodified":1464203301,
+    "wof:name":"ABC Mart",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.82355,
+    21.276585,
+    -157.82355,
+    21.276585
+],
+  "geometry": {"coordinates":[-157.82355000000001,21.276585],"type":"Point"}
+}

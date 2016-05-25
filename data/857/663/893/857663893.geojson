@@ -1,0 +1,71 @@
+{
+  "id": 857663893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.780869,21.277948,-157.780869,21.277948",
+    "geom:latitude":21.277948,
+    "geom:longitude":-157.780869,
+    "iso:country":"US",
+    "sg:address":"4400 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 8828",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0ulpIcZV9D1ccG1oJ3fQ_21.277948_-157.780869@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206081,
+    "wof:geomhash":"c22482be5e6ac756f3e362a8b8b6fa81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857663893
+        }
+    ],
+    "wof:id":857663893,
+    "wof:lastmodified":1464206081,
+    "wof:name":"Pet Doctor",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -157.780869,
+    21.277948,
+    -157.780869,
+    21.277948
+],
+  "geometry": {"coordinates":[-157.780869,21.277948],"type":"Point"}
+}

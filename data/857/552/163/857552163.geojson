@@ -1,0 +1,71 @@
+{
+  "id": 857552163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.849582,21.294302,-157.849582,21.294302",
+    "geom:latitude":21.294302,
+    "geom:longitude":-157.849582,
+    "iso:country":"US",
+    "sg:address":"1152 Waimanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 951 9077",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vSC0Yn22nPYlF1eev2KEt_21.294302_-157.849582@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202974,
+    "wof:geomhash":"299c551e84696e42be87973e0153687a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857552163
+        }
+    ],
+    "wof:id":857552163,
+    "wof:lastmodified":1464202974,
+    "wof:name":"Interworld Auto Repair & Svc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.849582,
+    21.294302,
+    -157.849582,
+    21.294302
+],
+  "geometry": {"coordinates":[-157.849582,21.294302],"type":"Point"}
+}

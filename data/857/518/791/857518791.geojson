@@ -1,0 +1,73 @@
+{
+  "id": 857518791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.973314,21.390578,-157.973314,21.390578",
+    "geom:latitude":21.390578,
+    "geom:longitude":-157.973314,
+    "iso:country":"US",
+    "sg:address":"903 1st St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2131",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hm5Rzzuj79HPdR3Uq8JyD_21.390578_-157.973314@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202326,
+    "wof:geomhash":"372225e81cd6849fc36c72d99d825825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857518791
+        }
+    ],
+    "wof:id":857518791,
+    "wof:lastmodified":1464202326,
+    "wof:name":"Pearl City Piano Studio",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.973314,
+    21.390578,
+    -157.973314,
+    21.390578
+],
+  "geometry": {"coordinates":[-157.97331399999999,21.390578],"type":"Point"}
+}

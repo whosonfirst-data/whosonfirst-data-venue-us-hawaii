@@ -1,0 +1,77 @@
+{
+  "id": 857571163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.358839,21.954282,-159.358839,21.954282",
+    "geom:latitude":21.954282,
+    "geom:longitude":-159.358839,
+    "iso:country":"US",
+    "sg:address":"2666 Niumalu Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 2372",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21F7Ljww2DShm2jzJHz9WN_21.954282_-159.358839@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203374,
+    "wof:geomhash":"383ff16c4ff7e2df52f39d8247755d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857571163
+        }
+    ],
+    "wof:id":857571163,
+    "wof:lastmodified":1464203374,
+    "wof:name":"Garden Isle Disposal Inc",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -159.358839,
+    21.954282,
+    -159.358839,
+    21.954282
+],
+  "geometry": {"coordinates":[-159.35883899999999,21.954282],"type":"Point"}
+}

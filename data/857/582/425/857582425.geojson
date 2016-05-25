@@ -1,0 +1,73 @@
+{
+  "id": 857582425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839675,21.365839,-157.839675,21.365839",
+    "geom:latitude":21.365839,
+    "geom:longitude":-157.839675,
+    "iso:country":"US",
+    "sg:address":"3670 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5544",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgrbPppoErnbnAU7V37Td_21.365839_-157.839675@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203598,
+    "wof:geomhash":"077725ff2742e9a983b6d92a67756d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857582425
+        }
+    ],
+    "wof:id":857582425,
+    "wof:lastmodified":1464203598,
+    "wof:name":"Hawaii Wellness Institute",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -157.839675,
+    21.365839,
+    -157.839675,
+    21.365839
+],
+  "geometry": {"coordinates":[-157.839675,21.365839],"type":"Point"}
+}

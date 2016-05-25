@@ -1,0 +1,75 @@
+{
+  "id": 857634681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874022,21.340262,-157.874022,21.340262",
+    "geom:latitude":21.340262,
+    "geom:longitude":-157.874022,
+    "iso:country":"US",
+    "sg:address":"2225 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 9754",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wzN63L3115ETcHqjZZLpp_21.340262_-157.874022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204821,
+    "wof:geomhash":"f3b7d66be18d2c4a30b08fd0b14f9f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857634681
+        }
+    ],
+    "wof:id":857634681,
+    "wof:lastmodified":1464204821,
+    "wof:name":"William Fruean Inc",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.874022,
+    21.340262,
+    -157.874022,
+    21.340262
+],
+  "geometry": {"coordinates":[-157.874022,21.340262],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857666793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804322,21.325628,-157.804322,21.325628",
+    "geom:latitude":21.325628,
+    "geom:longitude":-157.804322,
+    "iso:country":"US",
+    "sg:address":"3658 Kumukoa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 222 3333",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AanwqrvM8Dbq9MtAmxkzc_21.325628_-157.804322@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206217,
+    "wof:geomhash":"1c74471c4d1b7d5379b3128ab02b2b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857666793
+        }
+    ],
+    "wof:id":857666793,
+    "wof:lastmodified":1464206217,
+    "wof:name":"Excel Plumbing LLC",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.804322,
+    21.325628,
+    -157.804322,
+    21.325628
+],
+  "geometry": {"coordinates":[-157.80432200000001,21.325628],"type":"Point"}
+}

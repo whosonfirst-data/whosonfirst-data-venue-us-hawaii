@@ -1,0 +1,75 @@
+{
+  "id": 857636079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.081072,21.364502,-158.081072,21.364502",
+    "geom:latitude":21.364502,
+    "geom:longitude":-158.081072,
+    "iso:country":"US",
+    "sg:address":"328 Hookili Pl",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 8802",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer",
+        "laser",
+        "cartridge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yDMFTDXxJOC99wpySd2pR_21.364502_-158.081072@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204871,
+    "wof:geomhash":"982638038a89a32ce8d4164f0ce51fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857636079
+        }
+    ],
+    "wof:id":857636079,
+    "wof:lastmodified":1464204871,
+    "wof:name":"Laser Age",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "laser",
+        "cartridge"
+    ]
+},
+  "bbox": [
+    -158.081072,
+    21.364502,
+    -158.081072,
+    21.364502
+],
+  "geometry": {"coordinates":[-158.08107200000001,21.364502],"type":"Point"}
+}

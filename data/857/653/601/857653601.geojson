@@ -1,0 +1,71 @@
+{
+  "id": 857653601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026833,21.498021,-158.026833,21.498021",
+    "geom:latitude":21.498021,
+    "geom:longitude":-158.026833,
+    "iso:country":"US",
+    "sg:address":"961 Center St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0899",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tGkE1wc5g5VcD5jFsWQNd_21.498021_-158.026833@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205621,
+    "wof:geomhash":"eac052fc42fd7636ec343c42a39f54ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857653601
+        }
+    ],
+    "wof:id":857653601,
+    "wof:lastmodified":1464205621,
+    "wof:name":"Flagship Fastlube",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -158.026833,
+    21.498021,
+    -158.026833,
+    21.498021
+],
+  "geometry": {"coordinates":[-158.02683300000001,21.498021],"type":"Point"}
+}

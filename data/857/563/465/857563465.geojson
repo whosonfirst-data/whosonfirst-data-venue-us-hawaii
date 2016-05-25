@@ -1,0 +1,79 @@
+{
+  "id": 857563465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.991645,19.637997,-155.991645,19.637997",
+    "geom:latitude":19.637997,
+    "geom:longitude":-155.991645,
+    "iso:country":"US",
+    "sg:address":"137 Hualalai Rd",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 1346",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23rz9YJrO4ArkMwnjFA6QX_19.637997_-155.991645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203228,
+    "wof:geomhash":"d15aedce9c5bf83caa838e69b8fa1458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857563465
+        }
+    ],
+    "wof:id":857563465,
+    "wof:lastmodified":1464203228,
+    "wof:name":"Kona-Kohala Medical Assoc",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -155.991645,
+    19.637997,
+    -155.991645,
+    19.637997
+],
+  "geometry": {"coordinates":[-155.99164500000001,19.637997],"type":"Point"}
+}

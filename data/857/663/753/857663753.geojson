@@ -1,0 +1,73 @@
+{
+  "id": 857663753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.849113,21.305445,-157.849113,21.305445",
+    "geom:latitude":21.305445,
+    "geom:longitude":-157.849113,
+    "iso:country":"US",
+    "sg:address":"757 Kinalau Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 6885",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GhDbmg8G9zzufxhloMIP5_21.305445_-157.849113@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206076,
+    "wof:geomhash":"44517c04918a5795b4a0a5df93ff4cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857663753
+        }
+    ],
+    "wof:id":857663753,
+    "wof:lastmodified":1464206076,
+    "wof:name":"Hale O Pumehana",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.849113,
+    21.305445,
+    -157.849113,
+    21.305445
+],
+  "geometry": {"coordinates":[-157.84911299999999,21.305445],"type":"Point"}
+}

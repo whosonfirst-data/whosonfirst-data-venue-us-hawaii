@@ -1,0 +1,77 @@
+{
+  "id": 857656169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.12316,19.690878,-155.12316,19.690878",
+    "geom:latitude":19.690878,
+    "geom:longitude":-155.12316,
+    "iso:country":"US",
+    "sg:address":"282 Edita St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 4138",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mieFVSBex1eQXqFMTe8J7_19.690878_-155.123160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205732,
+    "wof:geomhash":"d296a78bcf8d7d4a9d5a22d906c66832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890243,
+            "region_id":85688671,
+            "venue_id":857656169
+        }
+    ],
+    "wof:id":857656169,
+    "wof:lastmodified":1464205732,
+    "wof:name":"Kamaaina Pumping",
+    "wof:parent_id":85890243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -155.12316,
+    19.690878,
+    -155.12316,
+    19.690878
+],
+  "geometry": {"coordinates":[-155.12316000000001,19.690878],"type":"Point"}
+}

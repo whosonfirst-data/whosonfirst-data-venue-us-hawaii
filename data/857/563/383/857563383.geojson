@@ -1,0 +1,79 @@
+{
+  "id": 857563383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905757,21.395621,-157.905757,21.395621",
+    "geom:latitude":21.395621,
+    "geom:longitude":-157.905757,
+    "iso:country":"US",
+    "sg:address":"1849 Aiea Heights Dr",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 2511",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890055,
+        102085417,
+        85937671,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FLTR3fgs7dNRmRjccYZPl_21.395621_-157.905757@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203227,
+    "wof:geomhash":"4fbb5c188e78e0475b716be04ab313a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890055,
+            "region_id":85688671,
+            "venue_id":857563383
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857563383
+        }
+    ],
+    "wof:id":857563383,
+    "wof:lastmodified":1464203227,
+    "wof:name":"Keaiwa Heiau State Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.905757,
+    21.395621,
+    -157.905757,
+    21.395621
+],
+  "geometry": {"coordinates":[-157.90575699999999,21.395621],"type":"Point"}
+}

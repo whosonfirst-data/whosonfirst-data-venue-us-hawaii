@@ -1,0 +1,84 @@
+{
+  "id": 857552439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851022,21.292926,-157.851022,21.292926",
+    "geom:latitude":21.292926,
+    "geom:longitude":-157.851022,
+    "iso:country":"US",
+    "sg:address":"1116 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 7441",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "sport",
+        "surfboard",
+        "wetsuits"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63m1S5exKP7RIk4787HjOs_21.292926_-157.851022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202979,
+    "wof:geomhash":"67a9aba7afb816a464208c2122512d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857552439
+        }
+    ],
+    "wof:id":857552439,
+    "wof:lastmodified":1464202979,
+    "wof:name":"Xcel Wetsuits Hawaii",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "sport",
+        "surfboard",
+        "wetsuits"
+    ]
+},
+  "bbox": [
+    -157.851022,
+    21.292926,
+    -157.851022,
+    21.292926
+],
+  "geometry": {"coordinates":[-157.851022,21.292926],"type":"Point"}
+}

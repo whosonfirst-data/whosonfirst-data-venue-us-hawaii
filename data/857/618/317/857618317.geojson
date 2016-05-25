@@ -1,0 +1,75 @@
+{
+  "id": 857618317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102441,21.304128,-158.102441,21.304128",
+    "geom:latitude":21.304128,
+    "geom:longitude":-158.102441,
+    "iso:country":"US",
+    "sg:address":"174 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2099",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "generation",
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ImT7WwAMdtl1xrOZdQC0p_21.304128_-158.102441@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204384,
+    "wof:geomhash":"2b8679f0bbe7edc3fefaabdd087fbe39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857618317
+        }
+    ],
+    "wof:id":857618317,
+    "wof:lastmodified":1464204384,
+    "wof:name":"Hrrv",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "generation",
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -158.102441,
+    21.304128,
+    -158.102441,
+    21.304128
+],
+  "geometry": {"coordinates":[-158.102441,21.304128],"type":"Point"}
+}

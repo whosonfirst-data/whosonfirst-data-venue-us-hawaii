@@ -1,0 +1,75 @@
+{
+  "id": 857618399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8097,21.424526,-157.8097,21.424526",
+    "geom:latitude":21.424526,
+    "geom:longitude":-157.8097,
+    "iso:country":"US",
+    "sg:address":"137 Hinapu St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6601",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "heating",
+        "solar",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85890373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SQBAc1Ea1pApnux4DMSU3_21.424526_-157.809700@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204386,
+    "wof:geomhash":"83789a6462df955a7d7c0da5fcf7aafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85890373,
+            "region_id":85688671,
+            "venue_id":857618399
+        }
+    ],
+    "wof:id":857618399,
+    "wof:lastmodified":1464204386,
+    "wof:name":"Dakmi Solar",
+    "wof:parent_id":85890373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "solar",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.8097,
+    21.424526,
+    -157.8097,
+    21.424526
+],
+  "geometry": {"coordinates":[-157.80969999999999,21.424526],"type":"Point"}
+}

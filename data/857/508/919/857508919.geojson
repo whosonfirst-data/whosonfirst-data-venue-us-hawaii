@@ -1,0 +1,73 @@
+{
+  "id": 857508919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.751384,21.411476,-157.751384,21.411476",
+    "geom:latitude":21.411476,
+    "geom:longitude":-157.751384,
+    "iso:country":"US",
+    "sg:address":"922 Kainui Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 2190",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oDGNagXwiWBgiwUDQbWtA_21.411476_-157.751384@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202123,
+    "wof:geomhash":"41c55b1a3338a88be049c8dfc6f66523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857508919
+        }
+    ],
+    "wof:id":857508919,
+    "wof:lastmodified":1464202123,
+    "wof:name":"TMS Builders",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.751384,
+    21.411476,
+    -157.751384,
+    21.411476
+],
+  "geometry": {"coordinates":[-157.751384,21.411476],"type":"Point"}
+}

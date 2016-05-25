@@ -1,0 +1,72 @@
+{
+  "id": 857657587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873939,21.303902,-157.873939,21.303902",
+    "geom:latitude":21.303902,
+    "geom:longitude":-157.873939,
+    "iso:country":"US",
+    "sg:address":"1019 Ulupono St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4267",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.aeequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aCwhJMcGZIgc7AAh0CyJJ_21.303902_-157.873939@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205800,
+    "wof:geomhash":"18f3cb35c62df9a72fc0641dab8205e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857657587
+        }
+    ],
+    "wof:id":857657587,
+    "wof:lastmodified":1464205800,
+    "wof:name":"A & E Equipment Rentals",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.873939,
+    21.303902,
+    -157.873939,
+    21.303902
+],
+  "geometry": {"coordinates":[-157.87393900000001,21.303902],"type":"Point"}
+}

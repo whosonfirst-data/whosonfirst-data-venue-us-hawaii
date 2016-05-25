@@ -1,0 +1,73 @@
+{
+  "id": 857658857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807944,21.270751,-157.807944,21.270751",
+    "geom:latitude":21.270751,
+    "geom:longitude":-157.807944,
+    "iso:country":"US",
+    "sg:address":"3601 Trousseau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8884",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hmT9pxjBzYO0HGp24GryD_21.270751_-157.807944@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205857,
+    "wof:geomhash":"4dcb0bbf7b3673383e4459dffef2ef66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857658857
+        }
+    ],
+    "wof:id":857658857,
+    "wof:lastmodified":1464205857,
+    "wof:name":"D Suehiro Electric Inc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.807944,
+    21.270751,
+    -157.807944,
+    21.270751
+],
+  "geometry": {"coordinates":[-157.80794399999999,21.270751],"type":"Point"}
+}

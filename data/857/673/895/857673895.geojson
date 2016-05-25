@@ -1,0 +1,73 @@
+{
+  "id": 857673895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.48576,20.904608,-156.48576,20.904608",
+    "geom:latitude":20.904608,
+    "geom:longitude":-156.48576,
+    "iso:country":"US",
+    "sg:address":"331 Hookahi St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 2575",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c7U3Gzp0fY2XpezZvDRw4_20.904608_-156.485760@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206483,
+    "wof:geomhash":"1a6243ebd4df77f44205b0ac0c22adc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857673895
+        }
+    ],
+    "wof:id":857673895,
+    "wof:lastmodified":1464206483,
+    "wof:name":"D T Sports",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -156.48576,
+    20.904608,
+    -156.48576,
+    20.904608
+],
+  "geometry": {"coordinates":[-156.48576,20.904608],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857609537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900078,21.336507,-157.900078,21.336507",
+    "geom:latitude":21.336507,
+    "geom:longitude":-157.900078,
+    "iso:country":"US",
+    "sg:address":"681 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 0039",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lglYE8GVbXtOBOicS4QeH_21.336507_-157.900078@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204197,
+    "wof:geomhash":"dddcc970975bd01d8e9ec53e7402149d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857609537
+        }
+    ],
+    "wof:id":857609537,
+    "wof:lastmodified":1464204197,
+    "wof:name":"Contractors' Equipment & Svc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.900078,
+    21.336507,
+    -157.900078,
+    21.336507
+],
+  "geometry": {"coordinates":[-157.90007800000001,21.336507],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857675029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828784,21.283349,-157.828784,21.283349",
+    "geom:latitude":21.283349,
+    "geom:longitude":-157.828784,
+    "iso:country":"US",
+    "sg:address":"437 Launiu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 3776",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alternative",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46EW9gnOcXZ5jbFVqL09MI_21.283349_-157.828784@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206526,
+    "wof:geomhash":"b8a934502b435b80774d47493630206b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857675029
+        }
+    ],
+    "wof:id":857675029,
+    "wof:lastmodified":1464206526,
+    "wof:name":"Malama Ka Ohana A Pau Loa",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "care"
+    ]
+},
+  "bbox": [
+    -157.828784,
+    21.283349,
+    -157.828784,
+    21.283349
+],
+  "geometry": {"coordinates":[-157.82878400000001,21.283349],"type":"Point"}
+}

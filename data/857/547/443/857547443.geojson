@@ -1,0 +1,73 @@
+{
+  "id": 857547443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.935845,21.400605,-157.935845,21.400605",
+    "geom:latitude":21.400605,
+    "geom:longitude":-157.935845,
+    "iso:country":"US",
+    "sg:address":"731 Ewelani St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 3602",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "detector",
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uEQ0aTi3xuhnmsHDlNghA_21.400605_-157.935845@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202881,
+    "wof:geomhash":"1a5000e1eb490c21432e31fe4bf80cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857547443
+        }
+    ],
+    "wof:id":857547443,
+    "wof:lastmodified":1464202881,
+    "wof:name":"Rohlf Dale",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detector",
+        "metal"
+    ]
+},
+  "bbox": [
+    -157.935845,
+    21.400605,
+    -157.935845,
+    21.400605
+],
+  "geometry": {"coordinates":[-157.935845,21.400605],"type":"Point"}
+}

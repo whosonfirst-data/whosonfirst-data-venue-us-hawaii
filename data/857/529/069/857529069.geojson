@@ -1,0 +1,71 @@
+{
+  "id": 857529069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.926892,21.363253,-157.926892,21.363253",
+    "geom:latitude":21.363253,
+    "geom:longitude":-157.926892,
+    "iso:country":"US",
+    "sg:address":"1060 Luapele Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 1511",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pOtuVfPYIJI05Sb9fqdN0_21.363253_-157.926892@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202525,
+    "wof:geomhash":"c9c82a9e91061ce3f879bf220d7365b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857529069
+        }
+    ],
+    "wof:id":857529069,
+    "wof:lastmodified":1464202525,
+    "wof:name":"Island Homes Construction",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.926892,
+    21.363253,
+    -157.926892,
+    21.363253
+],
+  "geometry": {"coordinates":[-157.92689200000001,21.363253],"type":"Point"}
+}

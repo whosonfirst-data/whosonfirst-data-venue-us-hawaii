@@ -1,0 +1,71 @@
+{
+  "id": 857676327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.995781,21.401285,-157.995781,21.401285",
+    "geom:latitude":21.401285,
+    "geom:longitude":-157.995781,
+    "iso:country":"US",
+    "sg:address":"1007 Molale St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 4995",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15UjDRRl4sTcoRyxE0H5Lf_21.401285_-157.995781@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206589,
+    "wof:geomhash":"42f112a31691195d52050a94f34cbba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857676327
+        }
+    ],
+    "wof:id":857676327,
+    "wof:lastmodified":1464206589,
+    "wof:name":"Morrison Knudsen Corp",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.995781,
+    21.401285,
+    -157.995781,
+    21.401285
+],
+  "geometry": {"coordinates":[-157.99578099999999,21.401285],"type":"Point"}
+}

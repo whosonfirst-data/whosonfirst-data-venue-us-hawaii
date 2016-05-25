@@ -1,0 +1,71 @@
+{
+  "id": 857674669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.084125,21.372387,-158.084125,21.372387",
+    "geom:latitude":21.372387,
+    "geom:longitude":-158.084125,
+    "iso:country":"US",
+    "sg:address":"1443 Ho'alii St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 9723",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BT3UaDJs9WDFtQKM7ADBs_21.372387_-158.084125@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206511,
+    "wof:geomhash":"0eaf549f2fdec1bc988d72a1f0ad7af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857674669
+        }
+    ],
+    "wof:id":857674669,
+    "wof:lastmodified":1464206511,
+    "wof:name":"CD Cullison Plumbing Inc",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.084125,
+    21.372387,
+    -158.084125,
+    21.372387
+],
+  "geometry": {"coordinates":[-158.084125,21.372387],"type":"Point"}
+}

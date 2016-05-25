@@ -1,0 +1,73 @@
+{
+  "id": 857508125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007988,21.383706,-158.007988,21.383706",
+    "geom:latitude":21.383706,
+    "geom:longitude":-158.007988,
+    "iso:country":"US",
+    "sg:address":"235 Hanawai Cir",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 8539",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3idiaaz0GuhErDAnfNnio1_21.383706_-158.007988@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202107,
+    "wof:geomhash":"0793849b46ac85062e5f529a0c057fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857508125
+        }
+    ],
+    "wof:id":857508125,
+    "wof:lastmodified":1464202107,
+    "wof:name":"Perlita Lampitoc MD",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.007988,
+    21.383706,
+    -158.007988,
+    21.383706
+],
+  "geometry": {"coordinates":[-158.00798800000001,21.383706],"type":"Point"}
+}

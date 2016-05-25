@@ -1,0 +1,73 @@
+{
+  "id": 857596415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.462806,20.881316,-156.462806,20.881316",
+    "geom:latitude":20.881316,
+    "geom:longitude":-156.462806,
+    "iso:country":"US",
+    "sg:address":"420 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0334",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CTbqcC6Gg12BGWdloW839_20.881316_-156.462806@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203905,
+    "wof:geomhash":"5103b3286d68b8193c359b42c1c90490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857596415
+        }
+    ],
+    "wof:id":857596415,
+    "wof:lastmodified":1464203905,
+    "wof:name":"Habitat For Humanity",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -156.462806,
+    20.881316,
+    -156.462806,
+    20.881316
+],
+  "geometry": {"coordinates":[-156.462806,20.881316],"type":"Point"}
+}

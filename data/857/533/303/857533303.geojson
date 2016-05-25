@@ -1,0 +1,71 @@
+{
+  "id": 857533303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.049356,21.493975,-158.049356,21.493975",
+    "geom:latitude":21.493975,
+    "geom:longitude":-158.049356,
+    "iso:country":"US",
+    "sg:address":"1658 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 4573",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36qaqqcgGyhJAwK7Hw25iU_21.493975_-158.049356@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202609,
+    "wof:geomhash":"bd7c6fd2de6a455632de8327210fb0ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857533303
+        }
+    ],
+    "wof:id":857533303,
+    "wof:lastmodified":1464202609,
+    "wof:name":"One Day Sewing/Dry Cleaning",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.049356,
+    21.493975,
+    -158.049356,
+    21.493975
+],
+  "geometry": {"coordinates":[-158.04935599999999,21.493975],"type":"Point"}
+}

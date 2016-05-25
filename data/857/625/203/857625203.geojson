@@ -1,0 +1,71 @@
+{
+  "id": 857625203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87691,21.302598,-157.87691,21.302598",
+    "geom:latitude":21.302598,
+    "geom:longitude":-157.87691,
+    "iso:country":"US",
+    "sg:address":"24 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6066",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XkKagKNeVsg8Vw7bSqXyK_21.302598_-157.876910@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204565,
+    "wof:geomhash":"b9c4e9526634e17e0f39223b684bc13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857625203
+        }
+    ],
+    "wof:id":857625203,
+    "wof:lastmodified":1464204565,
+    "wof:name":"Sawdust",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.87691,
+    21.302598,
+    -157.87691,
+    21.302598
+],
+  "geometry": {"coordinates":[-157.87691000000001,21.302598],"type":"Point"}
+}

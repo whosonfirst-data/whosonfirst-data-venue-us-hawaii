@@ -1,0 +1,71 @@
+{
+  "id": 857665475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.673546,21.30953,-157.673546,21.30953",
+    "geom:latitude":21.30953,
+    "geom:longitude":-157.673546,
+    "iso:country":"US",
+    "sg:address":"838 Kealahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 722 7665",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FzfeqeKwlU8FuEY8iyQC7_21.309530_-157.673546@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206151,
+    "wof:geomhash":"b76b55a36091d157c2107169290262e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857665475
+        }
+    ],
+    "wof:id":857665475,
+    "wof:lastmodified":1464206151,
+    "wof:name":"Gmed",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -157.673546,
+    21.30953,
+    -157.673546,
+    21.30953
+],
+  "geometry": {"coordinates":[-157.67354599999999,21.30953],"type":"Point"}
+}

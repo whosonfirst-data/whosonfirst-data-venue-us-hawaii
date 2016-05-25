@@ -1,0 +1,68 @@
+{
+  "id": 857508905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.447614,20.72349,-156.447614,20.72349",
+    "geom:latitude":20.72349,
+    "geom:longitude":-156.447614,
+    "iso:country":"US",
+    "sg:address":"2259 S Kihei Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 891 8860",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nDE3qkhl81KQu3pFMs8ym_20.723490_-156.447614@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202122,
+    "wof:geomhash":"13f51e954360c32a5e63bf25bc041700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857508905
+        }
+    ],
+    "wof:id":857508905,
+    "wof:lastmodified":1464202122,
+    "wof:name":"Spices Restaurant",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.447614,
+    20.72349,
+    -156.447614,
+    20.72349
+],
+  "geometry": {"coordinates":[-156.44761399999999,20.72349],"type":"Point"}
+}

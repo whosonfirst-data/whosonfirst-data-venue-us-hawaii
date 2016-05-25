@@ -1,0 +1,71 @@
+{
+  "id": 857638553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.956669,21.395241,-157.956669,21.395241",
+    "geom:latitude":21.395241,
+    "geom:longitude":-157.956669,
+    "iso:country":"US",
+    "sg:address":"928 Noelani St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 9998",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35aStgMblVRyuBg3RkdolZ_21.395241_-157.956669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204962,
+    "wof:geomhash":"8fb2e74ca9fb8a66c020cbad74eae0a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857638553
+        }
+    ],
+    "wof:id":857638553,
+    "wof:lastmodified":1464204962,
+    "wof:name":"Dave's A/C Svc",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -157.956669,
+    21.395241,
+    -157.956669,
+    21.395241
+],
+  "geometry": {"coordinates":[-157.95666900000001,21.395241],"type":"Point"}
+}

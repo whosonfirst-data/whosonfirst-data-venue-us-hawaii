@@ -1,0 +1,75 @@
+{
+  "id": 857609363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830545,21.296078,-157.830545,21.296078",
+    "geom:latitude":21.296078,
+    "geom:longitude":-157.830545,
+    "iso:country":"US",
+    "sg:address":"1946 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2208",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "biomedical",
+        "lab",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WMGbB3SOe0fhuUvnzlPF1_21.296078_-157.830545@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204194,
+    "wof:geomhash":"6112ad1f3bf248035ae1c9b72b4d19a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857609363
+        }
+    ],
+    "wof:id":857609363,
+    "wof:lastmodified":1464204194,
+    "wof:name":"Cellular Bio Engineering Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biomedical",
+        "lab",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.830545,
+    21.296078,
+    -157.830545,
+    21.296078
+],
+  "geometry": {"coordinates":[-157.830545,21.296078],"type":"Point"}
+}

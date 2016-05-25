@@ -1,0 +1,72 @@
+{
+  "id": 857569135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825583,21.299344,-157.825583,21.299344",
+    "geom:latitude":21.299344,
+    "geom:longitude":-157.825583,
+    "iso:country":"US",
+    "sg:address":"2122 Metcalf St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5252",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.hawaiichurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iDh4Ujlzj0DQZ3QRvuAJm_21.299344_-157.825583@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203335,
+    "wof:geomhash":"ae1e787fafb2816dc77679e894127767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857569135
+        }
+    ],
+    "wof:id":857569135,
+    "wof:lastmodified":1464203335,
+    "wof:name":"Korean Presbyterian Church",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.825583,
+    21.299344,
+    -157.825583,
+    21.299344
+],
+  "geometry": {"coordinates":[-157.82558299999999,21.299344],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857528249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841671,21.300061,-157.841671,21.300061",
+    "geom:latitude":21.300061,
+    "geom:longitude":-157.841671,
+    "iso:country":"US",
+    "sg:address":"1268 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 4855",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SYfPKUGWXQOaH5Y5t9pLf_21.300061_-157.841671@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202510,
+    "wof:geomhash":"dbb5ae3b7ebe6325e14d27239afd0ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857528249
+        }
+    ],
+    "wof:id":857528249,
+    "wof:lastmodified":1464202510,
+    "wof:name":"Angel Wedding Svc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -157.841671,
+    21.300061,
+    -157.841671,
+    21.300061
+],
+  "geometry": {"coordinates":[-157.84167099999999,21.300061],"type":"Point"}
+}

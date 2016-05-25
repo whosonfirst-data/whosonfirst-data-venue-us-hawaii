@@ -1,0 +1,71 @@
+{
+  "id": 857652429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900427,21.361464,-157.900427,21.361464",
+    "geom:latitude":21.361464,
+    "geom:longitude":-157.900427,
+    "iso:country":"US",
+    "sg:address":"3288 Moanalua Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 8968",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HPabvkuSbccVE7PxWsNvK_21.361464_-157.900427@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205563,
+    "wof:geomhash":"788a59c747796811c867d5cad857679a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857652429
+        }
+    ],
+    "wof:id":857652429,
+    "wof:lastmodified":1464205563,
+    "wof:name":"Paradise Isle Espresso Co",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.900427,
+    21.361464,
+    -157.900427,
+    21.361464
+],
+  "geometry": {"coordinates":[-157.90042700000001,21.361464],"type":"Point"}
+}

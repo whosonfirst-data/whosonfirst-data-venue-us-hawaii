@@ -1,0 +1,73 @@
+{
+  "id": 857638535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86215,21.295558,-157.86215,21.295558",
+    "geom:latitude":21.295558,
+    "geom:longitude":-157.86215,
+    "iso:country":"US",
+    "sg:address":"701 Ilalo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 0846",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "agriculture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JgprviEJykmDJiMQN22bV_21.295558_-157.862150@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204961,
+    "wof:geomhash":"85b094f374046d710056934eb0598d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857638535
+        }
+    ],
+    "wof:id":857638535,
+    "wof:lastmodified":1464204961,
+    "wof:name":"Agriculture Hawaii Department",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "agriculture"
+    ]
+},
+  "bbox": [
+    -157.86215,
+    21.295558,
+    -157.86215,
+    21.295558
+],
+  "geometry": {"coordinates":[-157.86215000000001,21.295558],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857648099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.919322,21.366751,-157.919322,21.366751",
+    "geom:latitude":21.366751,
+    "geom:longitude":-157.919322,
+    "iso:country":"US",
+    "sg:address":"1547 Haloa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 2034",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jnPrDF3wymChpu3vSwTTH_21.366751_-157.919322@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205380,
+    "wof:geomhash":"9626af076d77c9ad2287f2cdf1de3257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857648099
+        }
+    ],
+    "wof:id":857648099,
+    "wof:lastmodified":1464205380,
+    "wof:name":"Janet Gilos Adult Residential",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.919322,
+    21.366751,
+    -157.919322,
+    21.366751
+],
+  "geometry": {"coordinates":[-157.91932199999999,21.366751],"type":"Point"}
+}

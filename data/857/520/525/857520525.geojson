@@ -1,0 +1,71 @@
+{
+  "id": 857520525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.46234,20.889308,-156.46234,20.889308",
+    "geom:latitude":20.889308,
+    "geom:longitude":-156.46234,
+    "iso:country":"US",
+    "sg:address":"162 Alamaha St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 872 9100",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KLTlziC8M6SVk8id2JjYu_20.889308_-156.462340@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202363,
+    "wof:geomhash":"ebad832b2e4561ed94504abbeef134dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857520525
+        }
+    ],
+    "wof:id":857520525,
+    "wof:lastmodified":1464202363,
+    "wof:name":"Feed My Sheep",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -156.46234,
+    20.889308,
+    -156.46234,
+    20.889308
+],
+  "geometry": {"coordinates":[-156.46234000000001,20.889308],"type":"Point"}
+}

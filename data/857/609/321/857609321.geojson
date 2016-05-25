@@ -1,0 +1,71 @@
+{
+  "id": 857609321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.747325,21.448001,-157.747325,21.448001",
+    "geom:latitude":21.448001,
+    "geom:longitude":-157.747325,
+    "iso:country":"US",
+    "sg:address":"2703 Cushman Ave",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 2599",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "childcare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85890311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9XNHKKMB5utMkFMXoPgl_21.448001_-157.747325@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204193,
+    "wof:geomhash":"47131727d50f11a5856275cc9395fe9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85890311,
+            "region_id":85688671,
+            "venue_id":857609321
+        }
+    ],
+    "wof:id":857609321,
+    "wof:lastmodified":1464204193,
+    "wof:name":"Angelas Angles",
+    "wof:parent_id":85890311,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "childcare"
+    ]
+},
+  "bbox": [
+    -157.747325,
+    21.448001,
+    -157.747325,
+    21.448001
+],
+  "geometry": {"coordinates":[-157.74732499999999,21.448001],"type":"Point"}
+}

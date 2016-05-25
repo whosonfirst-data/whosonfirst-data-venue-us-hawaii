@@ -1,0 +1,73 @@
+{
+  "id": 857509039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.998402,21.479659,-157.998402,21.479659",
+    "geom:latitude":21.479659,
+    "geom:longitude":-157.998402,
+    "iso:country":"US",
+    "sg:address":"1003 Hololea St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 4545",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sp4qFlna23yoxRNvh9Qst_21.479659_-157.998402@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202125,
+    "wof:geomhash":"35b63275c71b59e58c688cb42a520f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857509039
+        }
+    ],
+    "wof:id":857509039,
+    "wof:lastmodified":1464202125,
+    "wof:name":"Electric Blue Corp",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.998402,
+    21.479659,
+    -157.998402,
+    21.479659
+],
+  "geometry": {"coordinates":[-157.998402,21.479659],"type":"Point"}
+}

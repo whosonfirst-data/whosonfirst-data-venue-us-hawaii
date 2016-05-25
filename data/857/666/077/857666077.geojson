@@ -1,0 +1,71 @@
+{
+  "id": 857666077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814737,21.276414,-157.814737,21.276414",
+    "geom:latitude":21.276414,
+    "geom:longitude":-157.814737,
+    "iso:country":"US",
+    "sg:address":"525 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 8884",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G1YBJpOsUXs5dVF6B6DuQ_21.276414_-157.814737@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206187,
+    "wof:geomhash":"abb22436dd44dbaa25ba33077cd93f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857666077
+        }
+    ],
+    "wof:id":857666077,
+    "wof:lastmodified":1464206187,
+    "wof:name":"Waiola Bakery",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.814737,
+    21.276414,
+    -157.814737,
+    21.276414
+],
+  "geometry": {"coordinates":[-157.81473700000001,21.276414],"type":"Point"}
+}

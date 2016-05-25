@@ -1,0 +1,75 @@
+{
+  "id": 857578751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836093,21.298063,-157.836093,21.298063",
+    "geom:latitude":21.298063,
+    "geom:longitude":-157.836093,
+    "iso:country":"US",
+    "sg:address":"1552 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 0121",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ASaYrpMnvCDeSoQO3v6wM_21.298063_-157.836093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203527,
+    "wof:geomhash":"55a1c222c6aa7bbf0faa70fe15554e8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857578751
+        }
+    ],
+    "wof:id":857578751,
+    "wof:lastmodified":1464203527,
+    "wof:name":"Khb Investments Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "investment"
+    ]
+},
+  "bbox": [
+    -157.836093,
+    21.298063,
+    -157.836093,
+    21.298063
+],
+  "geometry": {"coordinates":[-157.83609300000001,21.298063],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857591369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102352,21.592015,-158.102352,21.592015",
+    "geom:latitude":21.592015,
+    "geom:longitude":-158.102352,
+    "iso:country":"US",
+    "sg:address":"103 Anahulu Pl",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 9608",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Okq7k2n0qcEAfCkcWufZh_21.592015_-158.102352@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203791,
+    "wof:geomhash":"854d0ecfe82b606319d865ebf5c82f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857591369
+        }
+    ],
+    "wof:id":857591369,
+    "wof:lastmodified":1464203791,
+    "wof:name":"Haleiwa Towing Service",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.102352,
+    21.592015,
+    -158.102352,
+    21.592015
+],
+  "geometry": {"coordinates":[-158.102352,21.592015],"type":"Point"}
+}

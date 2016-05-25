@@ -1,0 +1,71 @@
+{
+  "id": 857604755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881463,21.339451,-157.881463,21.339451",
+    "geom:latitude":21.339451,
+    "geom:longitude":-157.881463,
+    "iso:country":"US",
+    "sg:address":"1121 Middle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9808",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OiAiZvngyOBPR39BVJe6D_21.339451_-157.881463@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204091,
+    "wof:geomhash":"eb7d61d47e9eef1a54cdbc4eae471f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857604755
+        }
+    ],
+    "wof:id":857604755,
+    "wof:lastmodified":1464204091,
+    "wof:name":"Kumon Math & Reading Ctr",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -157.881463,
+    21.339451,
+    -157.881463,
+    21.339451
+],
+  "geometry": {"coordinates":[-157.881463,21.339451],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857623389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.659695,20.02469,-155.659695,20.02469",
+    "geom:latitude":20.02469,
+    "geom:longitude":-155.659695,
+    "iso:country":"US",
+    "sg:address":"5188 Kinohou St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 887 0600",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30KH7CxnisNzFDanQS1siA_20.024690_-155.659695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204515,
+    "wof:geomhash":"6227e1dce29cd2dc071f23bb9ca084db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857623389
+        }
+    ],
+    "wof:id":857623389,
+    "wof:lastmodified":1464204515,
+    "wof:name":"Ronald Ah Loy Inc",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -155.659695,
+    20.02469,
+    -155.659695,
+    20.02469
+],
+  "geometry": {"coordinates":[-155.659695,20.02469],"type":"Point"}
+}

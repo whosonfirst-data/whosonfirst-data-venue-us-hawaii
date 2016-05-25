@@ -1,0 +1,71 @@
+{
+  "id": 857560471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.708941,21.291421,-157.708941,21.291421",
+    "geom:latitude":21.291421,
+    "geom:longitude":-157.708941,
+    "iso:country":"US",
+    "sg:address":"558 Kumukahi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 8849",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41p5h2RiERL0kdapZDAuVd_21.291421_-157.708941@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203167,
+    "wof:geomhash":"a80c9a744e615e78bc8956047df4f7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857560471
+        }
+    ],
+    "wof:id":857560471,
+    "wof:lastmodified":1464203167,
+    "wof:name":"Pau Hana Travel",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.708941,
+    21.291421,
+    -157.708941,
+    21.291421
+],
+  "geometry": {"coordinates":[-157.70894100000001,21.291421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857650009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883388,21.322924,-157.883388,21.322924",
+    "geom:latitude":21.322924,
+    "geom:longitude":-157.883388,
+    "iso:country":"US",
+    "sg:address":"274 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8435",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "soy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g9ALkyIqA8dZKcF5qFFRs_21.322924_-157.883388@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205460,
+    "wof:geomhash":"36afc1da5b7d022f24931fa513c4e63f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857650009
+        }
+    ],
+    "wof:id":857650009,
+    "wof:lastmodified":1464205460,
+    "wof:name":"American Hawaiian Soy Co LTD",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soy"
+    ]
+},
+  "bbox": [
+    -157.883388,
+    21.322924,
+    -157.883388,
+    21.322924
+],
+  "geometry": {"coordinates":[-157.883388,21.322924],"type":"Point"}
+}

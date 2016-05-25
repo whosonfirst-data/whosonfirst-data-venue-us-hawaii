@@ -1,0 +1,71 @@
+{
+  "id": 857508573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864684,21.312213,-157.864684,21.312213",
+    "geom:latitude":21.312213,
+    "geom:longitude":-157.864684,
+    "iso:country":"US",
+    "sg:address":"930 Kekaulike St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 2756",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DmTiEJdE6nIS2Uzw126Kt_21.312213_-157.864684@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202116,
+    "wof:geomhash":"29662777b184b22c4075ad3d16609e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857508573
+        }
+    ],
+    "wof:id":857508573,
+    "wof:lastmodified":1464202116,
+    "wof:name":"Star Seafood",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.864684,
+    21.312213,
+    -157.864684,
+    21.312213
+],
+  "geometry": {"coordinates":[-157.86468400000001,21.312213],"type":"Point"}
+}

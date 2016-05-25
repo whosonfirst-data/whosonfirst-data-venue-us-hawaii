@@ -1,0 +1,71 @@
+{
+  "id": 857654903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814994,21.273695,-157.814994,21.273695",
+    "geom:latitude":21.273695,
+    "geom:longitude":-157.814994,
+    "iso:country":"US",
+    "sg:address":"3043 Hollinger St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 3720",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W5l069Yl1fm0LGIqI5sIF_21.273695_-157.814994@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205677,
+    "wof:geomhash":"8339604fd76ed6cc94a8d44cdf583371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857654903
+        }
+    ],
+    "wof:id":857654903,
+    "wof:lastmodified":1464205677,
+    "wof:name":"Lea Limousine Service",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.814994,
+    21.273695,
+    -157.814994,
+    21.273695
+],
+  "geometry": {"coordinates":[-157.81499400000001,21.273695],"type":"Point"}
+}

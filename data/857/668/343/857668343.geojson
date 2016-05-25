@@ -1,0 +1,71 @@
+{
+  "id": 857668343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.929047,21.354675,-157.929047,21.354675",
+    "geom:latitude":21.354675,
+    "geom:longitude":-157.929047,
+    "iso:country":"US",
+    "sg:address":"4420 Lawehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 7200",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HHWuYJhdg5pNbENXVcruf_21.354675_-157.929047@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206270,
+    "wof:geomhash":"6f7f8df8453d187a962b6ecc0b59bf71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857668343
+        }
+    ],
+    "wof:id":857668343,
+    "wof:lastmodified":1464206270,
+    "wof:name":"Transponder Key Duplication Co",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [
+    -157.929047,
+    21.354675,
+    -157.929047,
+    21.354675
+],
+  "geometry": {"coordinates":[-157.929047,21.354675],"type":"Point"}
+}

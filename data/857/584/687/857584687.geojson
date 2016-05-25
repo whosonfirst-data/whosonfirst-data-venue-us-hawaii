@@ -1,0 +1,80 @@
+{
+  "id": 857584687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319884,22.066803,-159.319884,22.066803",
+    "geom:latitude":22.066803,
+    "geom:longitude":-159.319884,
+    "iso:country":"US",
+    "sg:address":"951 Kipuni Way",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 0851",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carwash",
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cEj6YICligJ7YZfdCV5Gj_22.066803_-159.319884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203636,
+    "wof:geomhash":"278b6421e47beec7ae900b02dcf5b1f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857584687
+        }
+    ],
+    "wof:id":857584687,
+    "wof:lastmodified":1464203636,
+    "wof:name":"Tint Master",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -159.319884,
+    22.066803,
+    -159.319884,
+    22.066803
+],
+  "geometry": {"coordinates":[-159.319884,22.066803],"type":"Point"}
+}

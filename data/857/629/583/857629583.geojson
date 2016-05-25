@@ -1,0 +1,68 @@
+{
+  "id": 857629583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.102147,19.70412,-155.102147,19.70412",
+    "geom:latitude":19.70412,
+    "geom:longitude":-155.102147,
+    "iso:country":"US",
+    "sg:address":"482 Kipuni Pl",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 5874",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UwnoIpI8S86vd3KekWVB8_19.704120_-155.102147@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204653,
+    "wof:geomhash":"881cbb14433a0391d7527e0c8a407fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890241,
+            "region_id":85688671,
+            "venue_id":857629583
+        }
+    ],
+    "wof:id":857629583,
+    "wof:lastmodified":1464204653,
+    "wof:name":"Jet Builders Inc",
+    "wof:parent_id":85890241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.102147,
+    19.70412,
+    -155.102147,
+    19.70412
+],
+  "geometry": {"coordinates":[-155.102147,19.70412],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857653783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.970768,21.392477,-157.970768,21.392477",
+    "geom:latitude":21.392477,
+    "geom:longitude":-157.970768,
+    "iso:country":"US",
+    "sg:address":"959 Lehua Ave",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 9833",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PyV5bBRUwq8JOWwDv2Vr1_21.392477_-157.970768@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205628,
+    "wof:geomhash":"a2fb3973567e0c1d30d4dbf4285db378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857653783
+        }
+    ],
+    "wof:id":857653783,
+    "wof:lastmodified":1464205628,
+    "wof:name":"Pearl City Pampered Poodle",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -157.970768,
+    21.392477,
+    -157.970768,
+    21.392477
+],
+  "geometry": {"coordinates":[-157.97076799999999,21.392477],"type":"Point"}
+}

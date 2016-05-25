@@ -1,0 +1,71 @@
+{
+  "id": 857572005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830851,21.328291,-157.830851,21.328291",
+    "geom:latitude":21.328291,
+    "geom:longitude":-157.830851,
+    "iso:country":"US",
+    "sg:address":"2911 Booth Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 8659",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3ISgK4I6fK1ac4aMmV9s_21.328291_-157.830851@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203388,
+    "wof:geomhash":"31c061d8baa1b4a011be7189479c13d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857572005
+        }
+    ],
+    "wof:id":857572005,
+    "wof:lastmodified":1464203388,
+    "wof:name":"Glen C L Pang",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.830851,
+    21.328291,
+    -157.830851,
+    21.328291
+],
+  "geometry": {"coordinates":[-157.830851,21.328291],"type":"Point"}
+}

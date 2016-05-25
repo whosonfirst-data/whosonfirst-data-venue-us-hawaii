@@ -1,0 +1,75 @@
+{
+  "id": 857572015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841173,21.30265,-157.841173,21.30265",
+    "geom:latitude":21.30265,
+    "geom:longitude":-157.841173,
+    "iso:country":"US",
+    "sg:address":"1326 Matlock Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 748 4300",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIUrf9hyUdBLLE4QJdZZu_21.302650_-157.841173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203389,
+    "wof:geomhash":"cd2426b446c5fabf9ed10cd85d7d46db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857572015
+        }
+    ],
+    "wof:id":857572015,
+    "wof:lastmodified":1464203389,
+    "wof:name":"T J Mahoney & Assoc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -157.841173,
+    21.30265,
+    -157.841173,
+    21.30265
+],
+  "geometry": {"coordinates":[-157.841173,21.30265],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857573629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833784,21.287325,-157.833784,21.287325",
+    "geom:latitude":21.287325,
+    "geom:longitude":-157.833784,
+    "iso:country":"US",
+    "sg:address":"1888 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 979 2600",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FbAH4M1F6EDacjWNcb6BX_21.287325_-157.833784@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203422,
+    "wof:geomhash":"96f24f838e729726b04195a57627dbd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857573629
+        }
+    ],
+    "wof:id":857573629,
+    "wof:lastmodified":1464203422,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.833784,
+    21.287325,
+    -157.833784,
+    21.287325
+],
+  "geometry": {"coordinates":[-157.83378400000001,21.287325],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857667819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862951,21.310464,-157.862951,21.310464",
+    "geom:latitude":21.310464,
+    "geom:longitude":-157.862951,
+    "iso:country":"US",
+    "sg:address":"33 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 4014",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "academic",
+        "business"
+    ],
+    "sg:website":"www.hbc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bi2AlAnQcvcj8loFmq1NS_21.310464_-157.862951@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206253,
+    "wof:geomhash":"ac6edf005f7c948ad74282dd1cb204a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857667819
+        }
+    ],
+    "wof:id":857667819,
+    "wof:lastmodified":1464206253,
+    "wof:name":"Hawaii Business College Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "business"
+    ]
+},
+  "bbox": [
+    -157.862951,
+    21.310464,
+    -157.862951,
+    21.310464
+],
+  "geometry": {"coordinates":[-157.86295100000001,21.310464],"type":"Point"}
+}

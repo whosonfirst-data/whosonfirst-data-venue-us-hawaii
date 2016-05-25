@@ -1,0 +1,77 @@
+{
+  "id": 857610013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843791,21.309639,-157.843791,21.309639",
+    "geom:latitude":21.309639,
+    "geom:longitude":-157.843791,
+    "iso:country":"US",
+    "sg:address":"1103 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1500",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "washer",
+        "dryer",
+        "commercial",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nWIKoxvubDAxt2eB7oYkg_21.309639_-157.843791@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204206,
+    "wof:geomhash":"fa0c6c5e95d8431fb88ba99a8c37cf08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857610013
+        }
+    ],
+    "wof:id":857610013,
+    "wof:lastmodified":1464204206,
+    "wof:name":"Commercial Route Operator",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washer",
+        "dryer",
+        "commercial",
+        "lease"
+    ]
+},
+  "bbox": [
+    -157.843791,
+    21.309639,
+    -157.843791,
+    21.309639
+],
+  "geometry": {"coordinates":[-157.84379100000001,21.309639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857658049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.508541,20.891245,-156.508541,20.891245",
+    "geom:latitude":20.891245,
+    "geom:longitude":-156.508541,
+    "iso:country":"US",
+    "sg:address":"2444 W Vineyard St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 8087",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TTqy9o1Jg1ulLxDuHklu6_20.891245_-156.508541@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205818,
+    "wof:geomhash":"d599fba298e33d53f6c0ea56583fe2f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857658049
+        }
+    ],
+    "wof:id":857658049,
+    "wof:lastmodified":1464205818,
+    "wof:name":"Polynesian Pole & Custom Homes",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.508541,
+    20.891245,
+    -156.508541,
+    20.891245
+],
+  "geometry": {"coordinates":[-156.50854100000001,20.891245],"type":"Point"}
+}

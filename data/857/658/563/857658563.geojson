@@ -1,0 +1,73 @@
+{
+  "id": 857658563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808685,21.283524,-157.808685,21.283524",
+    "geom:latitude":21.283524,
+    "geom:longitude":-157.808685,
+    "iso:country":"US",
+    "sg:address":"3253 Pahoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 2198",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d1nKnVlqleCGksQiUf8ut_21.283524_-157.808685@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205841,
+    "wof:geomhash":"6407021b6c653993df40e3f80ab1dc53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857658563
+        }
+    ],
+    "wof:id":857658563,
+    "wof:lastmodified":1464205841,
+    "wof:name":"Security Locksmith Co",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.808685,
+    21.283524,
+    -157.808685,
+    21.283524
+],
+  "geometry": {"coordinates":[-157.808685,21.283524],"type":"Point"}
+}

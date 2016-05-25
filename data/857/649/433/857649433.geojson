@@ -1,0 +1,71 @@
+{
+  "id": 857649433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.694477,21.275255,-157.694477,21.275255",
+    "geom:latitude":21.275255,
+    "geom:longitude":-157.694477,
+    "iso:country":"US",
+    "sg:address":"7455 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 6633",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "snorkeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hovJxarA8kuFt8J0h7JH1_21.275255_-157.694477@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205433,
+    "wof:geomhash":"95eada0b3afcf41b8e231ccdf85dcf75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857649433
+        }
+    ],
+    "wof:id":857649433,
+    "wof:lastmodified":1464205433,
+    "wof:name":"Sure Shot Hawaii",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snorkeling"
+    ]
+},
+  "bbox": [
+    -157.694477,
+    21.275255,
+    -157.694477,
+    21.275255
+],
+  "geometry": {"coordinates":[-157.69447700000001,21.275255],"type":"Point"}
+}

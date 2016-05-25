@@ -1,0 +1,71 @@
+{
+  "id": 857632801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847012,21.293238,-157.847012,21.293238",
+    "geom:latitude":21.293238,
+    "geom:longitude":-157.847012,
+    "iso:country":"US",
+    "sg:address":"88 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 8987",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ixvfCdtKpFh4188pJBDAJ_21.293238_-157.847012@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204748,
+    "wof:geomhash":"52261de32f4a7d11876e57ca79e2b8de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857632801
+        }
+    ],
+    "wof:id":857632801,
+    "wof:lastmodified":1464204748,
+    "wof:name":"Jazzies International",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.847012,
+    21.293238,
+    -157.847012,
+    21.293238
+],
+  "geometry": {"coordinates":[-157.84701200000001,21.293238],"type":"Point"}
+}

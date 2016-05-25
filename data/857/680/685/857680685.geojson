@@ -1,0 +1,76 @@
+{
+  "id": 857680685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.455903,20.881098,-156.455903,20.881098",
+    "geom:latitude":20.881098,
+    "geom:longitude":-156.455903,
+    "iso:country":"US",
+    "sg:address":"270 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/puunene/92279-l--l-hawaiian-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 0323",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fQjanolkLnPXLzJHYplDE_20.881098_-156.455903@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"b546301ec3f4061384be8171ed4c2d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680685
+        }
+    ],
+    "wof:id":857680685,
+    "wof:lastmodified":1464206752,
+    "wof:name":"L & L Hawaiian BBQ",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -156.455903,
+    20.881098,
+    -156.455903,
+    20.881098
+],
+  "geometry": {"coordinates":[-156.45590300000001,20.881098],"type":"Point"}
+}

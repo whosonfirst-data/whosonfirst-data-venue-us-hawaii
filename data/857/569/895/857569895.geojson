@@ -1,0 +1,71 @@
+{
+  "id": 857569895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001516,21.381527,-158.001516,21.381527",
+    "geom:latitude":21.381527,
+    "geom:longitude":-158.001516,
+    "iso:country":"US",
+    "sg:address":"900 Awanei St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4667",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ct1J0N77XUNvyxHvX8q4J_21.381527_-158.001516@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203351,
+    "wof:geomhash":"28fa0aa501dfc0adc2821579245fbb27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857569895
+        }
+    ],
+    "wof:id":857569895,
+    "wof:lastmodified":1464203351,
+    "wof:name":"Waipahu Seventh-Day Adventist",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.001516,
+    21.381527,
+    -158.001516,
+    21.381527
+],
+  "geometry": {"coordinates":[-158.00151600000001,21.381527],"type":"Point"}
+}

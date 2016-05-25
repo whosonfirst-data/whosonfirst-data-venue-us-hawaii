@@ -1,0 +1,75 @@
+{
+  "id": 857513323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.359129,21.968036,-159.359129,21.968036",
+    "geom:latitude":21.968036,
+    "geom:longitude":-159.359129,
+    "iso:country":"US",
+    "sg:address":"4020 Kapena St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5880",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039UtjYHS8i0B6qUthl9qV_21.968036_-159.359129@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202218,
+    "wof:geomhash":"b5179d7b76ad40f143ea7d523f984d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857513323
+        }
+    ],
+    "wof:id":857513323,
+    "wof:lastmodified":1464202218,
+    "wof:name":"Sparky's Roofing",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.359129,
+    21.968036,
+    -159.359129,
+    21.968036
+],
+  "geometry": {"coordinates":[-159.359129,21.968036],"type":"Point"}
+}

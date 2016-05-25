@@ -1,0 +1,71 @@
+{
+  "id": 857550595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874828,21.341524,-157.874828,21.341524",
+    "geom:latitude":21.341524,
+    "geom:longitude":-157.874828,
+    "iso:country":"US",
+    "sg:address":"2256 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8118",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ozCJCjCJnSbbbcNjFqmbL_21.341524_-157.874828@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202942,
+    "wof:geomhash":"cf3034e3863b36866eca1402326f8e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857550595
+        }
+    ],
+    "wof:id":857550595,
+    "wof:lastmodified":1464202942,
+    "wof:name":"Rosalo Paeste MD",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.874828,
+    21.341524,
+    -157.874828,
+    21.341524
+],
+  "geometry": {"coordinates":[-157.87482800000001,21.341524],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857593857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.098747,21.313557,-158.098747,21.313557",
+    "geom:latitude":21.313557,
+    "geom:longitude":-158.098747,
+    "iso:country":"US",
+    "sg:address":"201 Malakole St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 673 1600",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation",
+        "r",
+        "racing",
+        "or"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vx88epqzGhqeqoCrs0Mpt_21.313557_-158.098747@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203846,
+    "wof:geomhash":"984875894bb1c0b23099a4c43d821a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857593857
+        }
+    ],
+    "wof:id":857593857,
+    "wof:lastmodified":1464203846,
+    "wof:name":"Hawaii International Racing SC",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "r",
+        "racing",
+        "or"
+    ]
+},
+  "bbox": [
+    -158.098747,
+    21.313557,
+    -158.098747,
+    21.313557
+],
+  "geometry": {"coordinates":[-158.098747,21.313557],"type":"Point"}
+}

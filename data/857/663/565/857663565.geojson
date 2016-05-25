@@ -1,0 +1,71 @@
+{
+  "id": 857663565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029483,21.494919,-158.029483,21.494919",
+    "geom:latitude":21.494919,
+    "geom:longitude":-158.029483,
+    "iso:country":"US",
+    "sg:address":"67 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5053",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y5qvv7APleSd5DK0Ho0y7_21.494919_-158.029483@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206070,
+    "wof:geomhash":"19e6abed34fecbf2eee59c65bc16e0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857663565
+        }
+    ],
+    "wof:id":857663565,
+    "wof:lastmodified":1464206070,
+    "wof:name":"Top Hat Bar",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -158.029483,
+    21.494919,
+    -158.029483,
+    21.494919
+],
+  "geometry": {"coordinates":[-158.029483,21.494919],"type":"Point"}
+}

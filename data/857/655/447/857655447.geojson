@@ -1,0 +1,81 @@
+{
+  "id": 857655447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.725642,21.338486,-157.725642,21.338486",
+    "geom:latitude":21.338486,
+    "geom:longitude":-157.725642,
+    "iso:country":"US",
+    "sg:address":"665 Kaulukanu St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 6344",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sO98O1RW1alTdfrg9irsA_21.338486_-157.725642@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205700,
+    "wof:geomhash":"e3d5e225c5577171421fe3303d94197e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857655447
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857655447
+        }
+    ],
+    "wof:id":857655447,
+    "wof:lastmodified":1464205700,
+    "wof:name":"Green Valley Nursery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.725642,
+    21.338486,
+    -157.725642,
+    21.338486
+],
+  "geometry": {"coordinates":[-157.72564199999999,21.338486],"type":"Point"}
+}

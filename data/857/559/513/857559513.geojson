@@ -1,0 +1,75 @@
+{
+  "id": 857559513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833396,21.303362,-157.833396,21.303362",
+    "geom:latitude":21.303362,
+    "geom:longitude":-157.833396,
+    "iso:country":"US",
+    "sg:address":"1550 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 7096",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W4XddFelcrwz9O1Y8jWfh_21.303362_-157.833396@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203140,
+    "wof:geomhash":"0574c528041d12e3676908939b016cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857559513
+        }
+    ],
+    "wof:id":857559513,
+    "wof:lastmodified":1464203140,
+    "wof:name":"King Miles Alarm Svc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -157.833396,
+    21.303362,
+    -157.833396,
+    21.303362
+],
+  "geometry": {"coordinates":[-157.83339599999999,21.303362],"type":"Point"}
+}

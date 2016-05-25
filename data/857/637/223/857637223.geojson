@@ -1,0 +1,75 @@
+{
+  "id": 857637223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831226,21.278911,-157.831226,21.278911",
+    "geom:latitude":21.278911,
+    "geom:longitude":-157.831226,
+    "iso:country":"US",
+    "sg:address":"200 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 6424",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_158DUsRmBy1scXVEpU5HTS_21.278911_-157.831226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204912,
+    "wof:geomhash":"c3bb776231067742df3572877ff24264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857637223
+        }
+    ],
+    "wof:id":857637223,
+    "wof:lastmodified":1464204912,
+    "wof:name":"Best Western",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour",
+        "operation"
+    ]
+},
+  "bbox": [
+    -157.831226,
+    21.278911,
+    -157.831226,
+    21.278911
+],
+  "geometry": {"coordinates":[-157.83122599999999,21.278911],"type":"Point"}
+}

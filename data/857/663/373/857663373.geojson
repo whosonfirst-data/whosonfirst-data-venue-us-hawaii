@@ -1,0 +1,75 @@
+{
+  "id": 857663373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797734,21.413303,-157.797734,21.413303",
+    "geom:latitude":21.413303,
+    "geom:longitude":-157.797734,
+    "iso:country":"US",
+    "sg:address":"260 Waikalua Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 0421",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "university",
+        "cooperative",
+        "extension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39YDlwntkK1jUsw5gsZVvH_21.413303_-157.797734@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206063,
+    "wof:geomhash":"3b8b274a59d22bfad94370d5d7427d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857663373
+        }
+    ],
+    "wof:id":857663373,
+    "wof:lastmodified":1464206063,
+    "wof:name":"Cooperative Extension Service",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university",
+        "cooperative",
+        "extension"
+    ]
+},
+  "bbox": [
+    -157.797734,
+    21.413303,
+    -157.797734,
+    21.413303
+],
+  "geometry": {"coordinates":[-157.79773399999999,21.413303],"type":"Point"}
+}

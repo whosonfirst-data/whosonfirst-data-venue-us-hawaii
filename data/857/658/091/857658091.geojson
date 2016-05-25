@@ -1,0 +1,77 @@
+{
+  "id": 857658091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787772,21.301312,-157.787772,21.301312",
+    "geom:latitude":21.301312,
+    "geom:longitude":-157.787772,
+    "iso:country":"US",
+    "sg:address":"2306 Kuahea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8341",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "general",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GnSBg8FSJRpssGPhZDPWy_21.301312_-157.787772@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205819,
+    "wof:geomhash":"54cb2b78a3277660602dff88c33b34d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857658091
+        }
+    ],
+    "wof:id":857658091,
+    "wof:lastmodified":1464205819,
+    "wof:name":"Chivers Construction",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "general",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.787772,
+    21.301312,
+    -157.787772,
+    21.301312
+],
+  "geometry": {"coordinates":[-157.78777199999999,21.301312],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857656151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.994669,19.642266,-155.994669,19.642266",
+    "geom:latitude":19.642266,
+    "geom:longitude":-155.994669,
+    "iso:country":"US",
+    "sg:address":"5586 Ololi Rd",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 5106",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60oASZnXSkYNPLnX8XGGxa_19.642266_-155.994669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205732,
+    "wof:geomhash":"162bfb36e8832ff9ce732686637944fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857656151
+        }
+    ],
+    "wof:id":857656151,
+    "wof:lastmodified":1464205732,
+    "wof:name":"Federal Bureau-Investigation",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -155.994669,
+    19.642266,
+    -155.994669,
+    19.642266
+],
+  "geometry": {"coordinates":[-155.99466899999999,19.642266],"type":"Point"}
+}

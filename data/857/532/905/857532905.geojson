@@ -1,0 +1,87 @@
+{
+  "id": 857532905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.726736,21.3358,-157.726736,21.3358",
+    "geom:latitude":21.3358,
+    "geom:longitude":-157.726736,
+    "iso:country":"US",
+    "sg:address":"919 Kaulukanu St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 5184",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "horse",
+        "ranch",
+        "plant",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GEYekgLLMSt18TJN0Ph92_21.335800_-157.726736@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202601,
+    "wof:geomhash":"514979c43ced45df94ee06bbb61fcd33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857532905
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857532905
+        }
+    ],
+    "wof:id":857532905,
+    "wof:lastmodified":1464202601,
+    "wof:name":"Jungle Rain Tree Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "ranch",
+        "plant",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -157.726736,
+    21.3358,
+    -157.726736,
+    21.3358
+],
+  "geometry": {"coordinates":[-157.72673599999999,21.3358],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857680621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.063911,19.699423,-155.063911,19.699423",
+    "geom:latitude":19.699423,
+    "geom:longitude":-155.063911,
+    "iso:country":"US",
+    "sg:address":"325 Makaala St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/hilo/172676-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 6832",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_510idPUinttVe1QxQ0eJs0_19.699423_-155.063911@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206750,
+    "wof:geomhash":"85319745654608002b7d55b86e29d203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857680621
+        }
+    ],
+    "wof:id":857680621,
+    "wof:lastmodified":1464206750,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.063911,
+    19.699423,
+    -155.063911,
+    19.699423
+],
+  "geometry": {"coordinates":[-155.06391099999999,19.699423],"type":"Point"}
+}

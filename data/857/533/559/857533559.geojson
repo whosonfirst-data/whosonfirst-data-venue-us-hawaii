@@ -1,0 +1,73 @@
+{
+  "id": 857533559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.736129,21.286569,-157.736129,21.286569",
+    "geom:latitude":21.286569,
+    "geom:longitude":-157.736129,
+    "iso:country":"US",
+    "sg:address":"334 Kupaua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 8306",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G1W76Xa8GAb7jkNi42iwN_21.286569_-157.736129@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202613,
+    "wof:geomhash":"7d6338fb6e7006e6ef78a9daabb4e49d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857533559
+        }
+    ],
+    "wof:id":857533559,
+    "wof:lastmodified":1464202613,
+    "wof:name":"Julian Lock",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.736129,
+    21.286569,
+    -157.736129,
+    21.286569
+],
+  "geometry": {"coordinates":[-157.73612900000001,21.286569],"type":"Point"}
+}

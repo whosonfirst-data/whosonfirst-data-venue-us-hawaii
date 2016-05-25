@@ -1,0 +1,69 @@
+{
+  "id": 857514821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.990573,21.481899,-157.990573,21.481899",
+    "geom:latitude":21.481899,
+    "geom:longitude":-157.990573,
+    "iso:country":"US",
+    "sg:address":"211 Hoani Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 630 2048",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jyC0s2nwCuog7ngvls18L_21.481899_-157.990573@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202248,
+    "wof:geomhash":"43c0208aa30bd3053d8b220fdbd52e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857514821
+        }
+    ],
+    "wof:id":857514821,
+    "wof:lastmodified":1464202248,
+    "wof:name":"HB Contract Services",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologist"
+    ]
+},
+  "bbox": [
+    -157.990573,
+    21.481899,
+    -157.990573,
+    21.481899
+],
+  "geometry": {"coordinates":[-157.99057300000001,21.481899],"type":"Point"}
+}

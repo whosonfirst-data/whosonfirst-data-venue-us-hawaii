@@ -1,0 +1,71 @@
+{
+  "id": 857667847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.429497,20.905876,-156.429497,20.905876",
+    "geom:latitude":20.905876,
+    "geom:longitude":-156.429497,
+    "iso:country":"US",
+    "sg:address":"594 Stable Rd",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 6887",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gdhq9NEyWCYf84T3j5Wby_20.905876_-156.429497@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206254,
+    "wof:geomhash":"b53fdc593f8f15e7f21cdb822fb2152b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857667847
+        }
+    ],
+    "wof:id":857667847,
+    "wof:lastmodified":1464206254,
+    "wof:name":"Amanda Tucker MD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.429497,
+    20.905876,
+    -156.429497,
+    20.905876
+],
+  "geometry": {"coordinates":[-156.429497,20.905876],"type":"Point"}
+}

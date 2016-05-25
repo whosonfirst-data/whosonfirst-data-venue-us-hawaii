@@ -1,0 +1,68 @@
+{
+  "id": 857561521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.385098,20.918693,-156.385098,20.918693",
+    "geom:latitude":20.918693,
+    "geom:longitude":-156.385098,
+    "iso:country":"US",
+    "sg:address":"142 Hana Hwy",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 9453",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xxTDVeFT7HFvRvJ8yjMZa_20.918693_-156.385098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203192,
+    "wof:geomhash":"588868ab5ea963292d4d7e611fdf3853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857561521
+        }
+    ],
+    "wof:id":857561521,
+    "wof:lastmodified":1464203192,
+    "wof:name":"Charley's Restaurant",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.385098,
+    20.918693,
+    -156.385098,
+    20.918693
+],
+  "geometry": {"coordinates":[-156.385098,20.918693],"type":"Point"}
+}

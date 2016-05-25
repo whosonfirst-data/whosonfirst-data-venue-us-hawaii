@@ -1,0 +1,73 @@
+{
+  "id": 857611709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.763769,21.28444,-157.763769,21.28444",
+    "geom:latitude":21.28444,
+    "geom:longitude":-157.763769,
+    "iso:country":"US",
+    "sg:address":"1745 Laukahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 9964",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOizCyMuP1MZszUYxmCfX_21.284440_-157.763769@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204247,
+    "wof:geomhash":"cb8220681c15b5c030ad904cf21ade4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857611709
+        }
+    ],
+    "wof:id":857611709,
+    "wof:lastmodified":1464204247,
+    "wof:name":"Precision Press",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.763769,
+    21.28444,
+    -157.763769,
+    21.28444
+],
+  "geometry": {"coordinates":[-157.763769,21.28444],"type":"Point"}
+}

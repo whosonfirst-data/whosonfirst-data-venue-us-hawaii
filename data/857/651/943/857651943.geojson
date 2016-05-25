@@ -1,0 +1,71 @@
+{
+  "id": 857651943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.468709,20.886353,-156.468709,20.886353",
+    "geom:latitude":20.886353,
+    "geom:longitude":-156.468709,
+    "iso:country":"US",
+    "sg:address":"112 W Kane St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 5719",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UCYlpTKELpqzYT64RlpX8_20.886353_-156.468709@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205545,
+    "wof:geomhash":"f0358f59483c0545f25ed529e8f8391c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857651943
+        }
+    ],
+    "wof:id":857651943,
+    "wof:lastmodified":1464205545,
+    "wof:name":"Church Of The Nazarene",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -156.468709,
+    20.886353,
+    -156.468709,
+    20.886353
+],
+  "geometry": {"coordinates":[-156.46870899999999,20.886353],"type":"Point"}
+}

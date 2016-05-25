@@ -1,0 +1,87 @@
+{
+  "id": 857601043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901698,21.333747,-157.901698,21.333747",
+    "geom:latitude":21.333747,
+    "geom:longitude":-157.901698,
+    "iso:country":"US",
+    "sg:address":"540 Lagoon Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5533",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QCrdbc4t0vG6b8DTCAltQ_21.333747_-157.901698@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204009,
+    "wof:geomhash":"9d3758d3a19c47f3ecda729e419df63a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857601043
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857601043
+        }
+    ],
+    "wof:id":857601043,
+    "wof:lastmodified":1464204009,
+    "wof:name":"Jacobsen Labor Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.901698,
+    21.333747,
+    -157.901698,
+    21.333747
+],
+  "geometry": {"coordinates":[-157.90169800000001,21.333747],"type":"Point"}
+}

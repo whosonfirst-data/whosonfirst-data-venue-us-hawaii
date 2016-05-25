@@ -1,0 +1,71 @@
+{
+  "id": 857574541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.923203,20.829858,-156.923203,20.829858",
+    "geom:latitude":20.829858,
+    "geom:longitude":-156.923203,
+    "iso:country":"US",
+    "sg:address":"617 Ilima Ave",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 9308",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hEySQceC8t0j636pUsFiJ_20.829858_-156.923203@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203442,
+    "wof:geomhash":"42e0764e4f4bcfac693195809bcc9d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857574541
+        }
+    ],
+    "wof:id":857574541,
+    "wof:lastmodified":1464203442,
+    "wof:name":"Memory Photo",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -156.923203,
+    20.829858,
+    -156.923203,
+    20.829858
+],
+  "geometry": {"coordinates":[-156.923203,20.829858],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857681141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00142,21.426617,-158.00142,21.426617",
+    "geom:latitude":21.426617,
+    "geom:longitude":-158.00142,
+    "iso:country":"US",
+    "sg:address":"94-1221 Ka Uka Blvd",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/108605-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 680 9213",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Y0oBJVb6MCVopb7zdW7j_21.426617_-158.001420@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"534dc5c2667fec6dc3d9a4a4887724d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857681141
+        }
+    ],
+    "wof:id":857681141,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -158.00142,
+    21.426617,
+    -158.00142,
+    21.426617
+],
+  "geometry": {"coordinates":[-158.00142,21.426617],"type":"Point"}
+}

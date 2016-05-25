@@ -1,0 +1,75 @@
+{
+  "id": 857655071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.994872,19.64309,-155.994872,19.64309",
+    "geom:latitude":19.64309,
+    "geom:longitude":-155.994872,
+    "iso:country":"US",
+    "sg:address":"5660 Kopiko St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 8558",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ZPaJIL7RcIbLCeKKcAHV_19.643090_-155.994872@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205685,
+    "wof:geomhash":"a798a5fc0d27b506e6777e6c018b65bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857655071
+        }
+    ],
+    "wof:id":857655071,
+    "wof:lastmodified":1464205685,
+    "wof:name":"Mask Bar",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -155.994872,
+    19.64309,
+    -155.994872,
+    19.64309
+],
+  "geometry": {"coordinates":[-155.99487199999999,19.64309],"type":"Point"}
+}

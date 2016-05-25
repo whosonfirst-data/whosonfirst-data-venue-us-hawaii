@@ -1,0 +1,73 @@
+{
+  "id": 857542555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823315,21.304943,-157.823315,21.304943",
+    "geom:latitude":21.304943,
+    "geom:longitude":-157.823315,
+    "iso:country":"US",
+    "sg:address":"2042 Lanihuli Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5177",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "decoration",
+        "glassware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lgm3B18Irz36jjMgaXXNl_21.304943_-157.823315@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202792,
+    "wof:geomhash":"0a2736c566ce6b8bbb86dbe1014d64ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857542555
+        }
+    ],
+    "wof:id":857542555,
+    "wof:lastmodified":1464202792,
+    "wof:name":"Progressive Specialty Glass",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decoration",
+        "glassware"
+    ]
+},
+  "bbox": [
+    -157.823315,
+    21.304943,
+    -157.823315,
+    21.304943
+],
+  "geometry": {"coordinates":[-157.82331500000001,21.304943],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857611565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.466867,20.889888,-156.466867,20.889888",
+    "geom:latitude":20.889888,
+    "geom:longitude":-156.466867,
+    "iso:country":"US",
+    "sg:address":"50 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7575",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z7IZtNJg0CPJ4QU95JRB6_20.889888_-156.466867@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204245,
+    "wof:geomhash":"4254e9ab1c83b0b94c63b206d38d4fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857611565
+        }
+    ],
+    "wof:id":857611565,
+    "wof:lastmodified":1464204245,
+    "wof:name":"Hawaii National Bank",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -156.466867,
+    20.889888,
+    -156.466867,
+    20.889888
+],
+  "geometry": {"coordinates":[-156.46686700000001,20.889888],"type":"Point"}
+}

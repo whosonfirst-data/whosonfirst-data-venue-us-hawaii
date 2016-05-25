@@ -1,0 +1,69 @@
+{
+  "id": 857647677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005963,21.50405,-158.005963,21.50405",
+    "geom:latitude":21.50405,
+    "geom:longitude":-158.005963,
+    "iso:country":"US",
+    "sg:address":"19 Kalala St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 478 3581",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fksL73s0m9I4BFGSn9yNc_21.504050_-158.005963@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205366,
+    "wof:geomhash":"bd754a863d961d3757fcbfbe3bf5769c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857647677
+        }
+    ],
+    "wof:id":857647677,
+    "wof:lastmodified":1464205366,
+    "wof:name":"Mobile Tech Hawaii",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.005963,
+    21.50405,
+    -158.005963,
+    21.50405
+],
+  "geometry": {"coordinates":[-158.00596300000001,21.50405],"type":"Point"}
+}

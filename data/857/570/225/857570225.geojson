@@ -1,0 +1,71 @@
+{
+  "id": 857570225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865406,21.330938,-157.865406,21.330938",
+    "geom:latitude":21.330938,
+    "geom:longitude":-157.865406,
+    "iso:country":"US",
+    "sg:address":"1200 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 2355",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_253Ps5tsNKa6d0q0uMKsLC_21.330938_-157.865406@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203358,
+    "wof:geomhash":"9383d0bf116c59c6e6d58f2a65d6ddd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857570225
+        }
+    ],
+    "wof:id":857570225,
+    "wof:lastmodified":1464203358,
+    "wof:name":"Honolulu Fire Dept Federal Cu",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -157.865406,
+    21.330938,
+    -157.865406,
+    21.330938
+],
+  "geometry": {"coordinates":[-157.86540600000001,21.330938],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857630501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.123357,21.56636,-158.123357,21.56636",
+    "geom:latitude":21.56636,
+    "geom:longitude":-158.123357,
+    "iso:country":"US",
+    "sg:address":"173 Farrington Hwy",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4825",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XNCF8CVYgtGR8ufDy3MZf_21.566360_-158.123357@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204675,
+    "wof:geomhash":"80fa162af538fc35aa56df9f16323b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857630501
+        }
+    ],
+    "wof:id":857630501,
+    "wof:lastmodified":1464204675,
+    "wof:name":"Sagara Tamayo",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -158.123357,
+    21.56636,
+    -158.123357,
+    21.56636
+],
+  "geometry": {"coordinates":[-158.123357,21.56636],"type":"Point"}
+}

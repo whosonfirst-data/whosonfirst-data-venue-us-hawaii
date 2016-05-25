@@ -1,0 +1,73 @@
+{
+  "id": 857629023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.692487,21.290154,-157.692487,21.290154",
+    "geom:latitude":21.290154,
+    "geom:longitude":-157.692487,
+    "iso:country":"US",
+    "sg:address":"718 Ahukini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 9601",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B9VqPZgcgY6gAiQRDyIPk_21.290154_-157.692487@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204643,
+    "wof:geomhash":"caa6342e7bba0804b758bc5ee5f07846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857629023
+        }
+    ],
+    "wof:id":857629023,
+    "wof:lastmodified":1464204643,
+    "wof:name":"Hawaii Kai Electro-Svc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.692487,
+    21.290154,
+    -157.692487,
+    21.290154
+],
+  "geometry": {"coordinates":[-157.692487,21.290154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857554355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794491,21.281498,-157.794491,21.281498",
+    "geom:latitude":21.281498,
+    "geom:longitude":-157.794491,
+    "iso:country":"US",
+    "sg:address":"1247 15th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4128",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xdXykOTtwi9odw9tJGokS_21.281498_-157.794491@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203015,
+    "wof:geomhash":"3cbde0fa236a1f6c1506074c91891d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857554355
+        }
+    ],
+    "wof:id":857554355,
+    "wof:lastmodified":1464203015,
+    "wof:name":"Printing House",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.794491,
+    21.281498,
+    -157.794491,
+    21.281498
+],
+  "geometry": {"coordinates":[-157.79449099999999,21.281498],"type":"Point"}
+}

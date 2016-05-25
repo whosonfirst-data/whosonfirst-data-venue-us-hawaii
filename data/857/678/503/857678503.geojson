@@ -1,0 +1,73 @@
+{
+  "id": 857678503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927644,21.356069,-157.927644,21.356069",
+    "geom:latitude":21.356069,
+    "geom:longitude":-157.927644,
+    "iso:country":"US",
+    "sg:address":"4321 Lawehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 8777",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baggage",
+        "transfer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bVTtKszdVysOXxL0RDEdk_21.356069_-157.927644@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206673,
+    "wof:geomhash":"278b9c383752f1a483cb50890b0c21d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857678503
+        }
+    ],
+    "wof:id":857678503,
+    "wof:lastmodified":1464206673,
+    "wof:name":"Touchdown Trucking Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baggage",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -157.927644,
+    21.356069,
+    -157.927644,
+    21.356069
+],
+  "geometry": {"coordinates":[-157.92764399999999,21.356069],"type":"Point"}
+}

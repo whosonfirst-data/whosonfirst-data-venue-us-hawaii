@@ -1,0 +1,73 @@
+{
+  "id": 857624003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50532,20.892636,-156.50532,20.892636",
+    "geom:latitude":20.892636,
+    "geom:longitude":-156.50532,
+    "iso:country":"US",
+    "sg:address":"1975 E Vineyard St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 6800",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00gV1zOncrMxH2epdRyASm_20.892636_-156.505320@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204542,
+    "wof:geomhash":"d86b8de04acdcdc6a26cfcda358e8c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857624003
+        }
+    ],
+    "wof:id":857624003,
+    "wof:lastmodified":1464204542,
+    "wof:name":"U S Financial Mortgage Corp",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -156.50532,
+    20.892636,
+    -156.50532,
+    20.892636
+],
+  "geometry": {"coordinates":[-156.50532000000001,20.892636],"type":"Point"}
+}

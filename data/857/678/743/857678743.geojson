@@ -1,0 +1,77 @@
+{
+  "id": 857678743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.46666,20.078659,-155.46666,20.078659",
+    "geom:latitude":20.078659,
+    "geom:longitude":-155.46666,
+    "iso:country":"US",
+    "sg:address":"3542 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 9777",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XekHd4oj6gk67KEebuDdL_20.078659_-155.466660@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206681,
+    "wof:geomhash":"732b62f2289ce42a73691db0375030ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857678743
+        }
+    ],
+    "wof:id":857678743,
+    "wof:lastmodified":1464206681,
+    "wof:name":"Cousins Brother's Video",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -155.46666,
+    20.078659,
+    -155.46666,
+    20.078659
+],
+  "geometry": {"coordinates":[-155.46665999999999,20.078659],"type":"Point"}
+}

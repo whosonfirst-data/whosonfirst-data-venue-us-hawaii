@@ -1,0 +1,74 @@
+{
+  "id": 857681155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00243,21.385133,-158.00243,21.385133",
+    "geom:latitude":21.385133,
+    "geom:longitude":-158.00243,
+    "iso:country":"US",
+    "sg:address":"94-866 Moloalo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/158435-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 5342",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iO63pVroJeUjLcAwuV2c4_21.385133_-158.002430@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"5e3239f70fd48f4485b2839fffdd0df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857681155
+        }
+    ],
+    "wof:id":857681155,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Arby's",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.00243,
+    21.385133,
+    -158.00243,
+    21.385133
+],
+  "geometry": {"coordinates":[-158.00243,21.385133],"type":"Point"}
+}

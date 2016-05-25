@@ -1,0 +1,71 @@
+{
+  "id": 857642123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.485179,20.874117,-156.485179,20.874117",
+    "geom:latitude":20.874117,
+    "geom:longitude":-156.485179,
+    "iso:country":"US",
+    "sg:address":"70 Kuuhale Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0893",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NGWj5aSpzqvZH7i3xy6r_20.874117_-156.485179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205103,
+    "wof:geomhash":"9aa9e3c7b55c283cee239b3fa34864bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857642123
+        }
+    ],
+    "wof:id":857642123,
+    "wof:lastmodified":1464205103,
+    "wof:name":"Transpacific Mortgage Group",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -156.485179,
+    20.874117,
+    -156.485179,
+    20.874117
+],
+  "geometry": {"coordinates":[-156.48517899999999,20.874117],"type":"Point"}
+}

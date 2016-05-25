@@ -1,0 +1,74 @@
+{
+  "id": 857515845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.463204,20.886923,-156.463204,20.886923",
+    "geom:latitude":20.886923,
+    "geom:longitude":-156.463204,
+    "iso:country":"US",
+    "sg:address":"239 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0578",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.healthsouth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IKsFMctVQdLWl7018hzzu_20.886923_-156.463204@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202268,
+    "wof:geomhash":"902a936fdee5f669ed2e2c557088be71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857515845
+        }
+    ],
+    "wof:id":857515845,
+    "wof:lastmodified":1464202268,
+    "wof:name":"Healthsouth Aloha Surgical Ctr",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -156.463204,
+    20.886923,
+    -156.463204,
+    20.886923
+],
+  "geometry": {"coordinates":[-156.46320399999999,20.886923],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857524087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.959732,21.422027,-157.959732,21.422027",
+    "geom:latitude":21.422027,
+    "geom:longitude":-157.959732,
+    "iso:country":"US",
+    "sg:address":"2120 Awikiwiki St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2315",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_207FHrpwecIeFlFOAsJjU8_21.422027_-157.959732@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202431,
+    "wof:geomhash":"208d425fd18766db989b3d07d24dcb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857524087
+        }
+    ],
+    "wof:id":857524087,
+    "wof:lastmodified":1464202431,
+    "wof:name":"Yis Construction",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.959732,
+    21.422027,
+    -157.959732,
+    21.422027
+],
+  "geometry": {"coordinates":[-157.959732,21.422027],"type":"Point"}
+}

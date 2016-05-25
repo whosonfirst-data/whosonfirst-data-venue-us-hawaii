@@ -1,0 +1,71 @@
+{
+  "id": 857540069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005787,21.315261,-158.005787,21.315261",
+    "geom:latitude":21.315261,
+    "geom:longitude":-158.005787,
+    "iso:country":"US",
+    "sg:address":"652 Kilaha St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 382 7625",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73CbYBdS9M7QR91hK8truk_21.315261_-158.005787@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202738,
+    "wof:geomhash":"2bf62b6c9588cbb9eeb0cf3ffa13be86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857540069
+        }
+    ],
+    "wof:id":857540069,
+    "wof:lastmodified":1464202738,
+    "wof:name":"Rocknes Computer Service",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -158.005787,
+    21.315261,
+    -158.005787,
+    21.315261
+],
+  "geometry": {"coordinates":[-158.005787,21.315261],"type":"Point"}
+}

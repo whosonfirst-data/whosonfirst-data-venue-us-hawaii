@@ -1,0 +1,78 @@
+{
+  "id": 857593181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850577,21.304339,-157.850577,21.304339",
+    "geom:latitude":21.304339,
+    "geom:longitude":-157.850577,
+    "iso:country":"US",
+    "sg:address":"882 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 1625",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sRHcpEND9XXTHgcQcyoqI_21.304339_-157.850577@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203831,
+    "wof:geomhash":"a161f55f058e1195380f2cec9d581742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857593181
+        }
+    ],
+    "wof:id":857593181,
+    "wof:lastmodified":1464203831,
+    "wof:name":"Beretania & Ward Union 76",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.850577,
+    21.304339,
+    -157.850577,
+    21.304339
+],
+  "geometry": {"coordinates":[-157.85057699999999,21.304339],"type":"Point"}
+}

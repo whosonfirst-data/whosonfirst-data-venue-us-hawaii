@@ -1,0 +1,71 @@
+{
+  "id": 857614303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831127,21.338463,-157.831127,21.338463",
+    "geom:latitude":21.338463,
+    "geom:longitude":-157.831127,
+    "iso:country":"US",
+    "sg:address":"3119 Kaohinani Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 4663",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hvsi51xQ9lLrDD4vry5eK_21.338463_-157.831127@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204307,
+    "wof:geomhash":"3887b1c4d2b6b8607e182331f150e8a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857614303
+        }
+    ],
+    "wof:id":857614303,
+    "wof:lastmodified":1464204307,
+    "wof:name":"Akamai Residential & Comm",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -157.831127,
+    21.338463,
+    -157.831127,
+    21.338463
+],
+  "geometry": {"coordinates":[-157.83112700000001,21.338463],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857558767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884346,21.325104,-157.884346,21.325104",
+    "geom:latitude":21.325104,
+    "geom:longitude":-157.884346,
+    "iso:country":"US",
+    "sg:address":"284 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0055",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V7V0fRUDpsC7wG4aAiAGR_21.325104_-157.884346@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203123,
+    "wof:geomhash":"139d705fa5257d9f5fd7cd0fb9ee5906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857558767
+        }
+    ],
+    "wof:id":857558767,
+    "wof:lastmodified":1464203123,
+    "wof:name":"Fuji's Market",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.884346,
+    21.325104,
+    -157.884346,
+    21.325104
+],
+  "geometry": {"coordinates":[-157.88434599999999,21.325104],"type":"Point"}
+}

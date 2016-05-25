@@ -1,0 +1,75 @@
+{
+  "id": 857533125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810017,21.307383,-157.810017,21.307383",
+    "geom:latitude":21.307383,
+    "geom:longitude":-157.810017,
+    "iso:country":"US",
+    "sg:address":"2750 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 2161",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drug",
+        "store",
+        "variety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14o230Cl4uXklvDpnGW91V_21.307383_-157.810017@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202605,
+    "wof:geomhash":"9379dfdbc23ef96c992a9907a190a066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857533125
+        }
+    ],
+    "wof:id":857533125,
+    "wof:lastmodified":1464202605,
+    "wof:name":"Longs Drug Store",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store",
+        "variety"
+    ]
+},
+  "bbox": [
+    -157.810017,
+    21.307383,
+    -157.810017,
+    21.307383
+],
+  "geometry": {"coordinates":[-157.81001699999999,21.307383],"type":"Point"}
+}

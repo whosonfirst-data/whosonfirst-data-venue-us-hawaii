@@ -1,0 +1,83 @@
+{
+  "id": 857655791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.06173,19.709181,-155.06173,19.709181",
+    "geom:latitude":19.709181,
+    "geom:longitude":-155.06173,
+    "iso:country":"US",
+    "sg:address":"11 Railroad Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 5481",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "canned",
+        "product",
+        "mfg",
+        "fluid",
+        "dairy",
+        "milk"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5woLkMKH0EYFoZTbuQnVvl_19.709181_-155.061730@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205714,
+    "wof:geomhash":"a02f78385c6aad856eaf473ce4bda6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857655791
+        }
+    ],
+    "wof:id":857655791,
+    "wof:lastmodified":1464205714,
+    "wof:name":"Meadow Gold Dairies",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "product",
+        "mfg",
+        "fluid",
+        "dairy",
+        "milk"
+    ]
+},
+  "bbox": [
+    -155.06173,
+    19.709181,
+    -155.06173,
+    19.709181
+],
+  "geometry": {"coordinates":[-155.06173000000001,19.709181],"type":"Point"}
+}

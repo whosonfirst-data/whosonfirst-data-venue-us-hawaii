@@ -1,0 +1,71 @@
+{
+  "id": 857660261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.790069,21.31008,-157.790069,21.31008",
+    "geom:latitude":21.31008,
+    "geom:longitude":-157.790069,
+    "iso:country":"US",
+    "sg:address":"2536 Narcissus Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 5858",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7blbAAp3eru5ggj81Z0L79_21.310080_-157.790069@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205922,
+    "wof:geomhash":"26986436bbfb79c59e61596c851c8675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857660261
+        }
+    ],
+    "wof:id":857660261,
+    "wof:lastmodified":1464205922,
+    "wof:name":"Bruce S Ames",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.790069,
+    21.31008,
+    -157.790069,
+    21.31008
+],
+  "geometry": {"coordinates":[-157.79006899999999,21.31008],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857539707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.96767,19.6106,-155.96767,19.6106",
+    "geom:latitude":19.6106,
+    "geom:longitude":-155.96767,
+    "iso:country":"US",
+    "sg:address":"6300 Mahuahua Pl",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 326 7653",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xJtXAss5y0coivtwaMI64_19.610600_-155.967670@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202732,
+    "wof:geomhash":"bb9d8cbb1acb182e6c2787acb059ff05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890345,
+            "region_id":85688671,
+            "venue_id":857539707
+        }
+    ],
+    "wof:id":857539707,
+    "wof:lastmodified":1464202732,
+    "wof:name":"Island Counseling",
+    "wof:parent_id":85890345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -155.96767,
+    19.6106,
+    -155.96767,
+    19.6106
+],
+  "geometry": {"coordinates":[-155.96767,19.6106],"type":"Point"}
+}

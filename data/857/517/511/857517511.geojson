@@ -1,0 +1,71 @@
+{
+  "id": 857517511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.781573,21.271386,-157.781573,21.271386",
+    "geom:latitude":21.271386,
+    "geom:longitude":-157.781573,
+    "iso:country":"US",
+    "sg:address":"950 Waiohinu Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 227 9340",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KcOOM0Cl3FhMaHj7t6U6X_21.271386_-157.781573@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202299,
+    "wof:geomhash":"f70f5e874b07ded13a2e95ac11fd24df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857517511
+        }
+    ],
+    "wof:id":857517511,
+    "wof:lastmodified":1464202299,
+    "wof:name":"Emergency Moves Hawaii",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -157.781573,
+    21.271386,
+    -157.781573,
+    21.271386
+],
+  "geometry": {"coordinates":[-157.78157300000001,21.271386],"type":"Point"}
+}

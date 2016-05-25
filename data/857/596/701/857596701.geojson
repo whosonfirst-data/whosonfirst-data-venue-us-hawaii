@@ -1,0 +1,71 @@
+{
+  "id": 857596701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854878,21.32085,-157.854878,21.32085",
+    "geom:latitude":21.32085,
+    "geom:longitude":-157.854878,
+    "iso:country":"US",
+    "sg:address":"114 N Kuakini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 1213",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yY40y5lf6snYqK64SBG8q_21.320850_-157.854878@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203916,
+    "wof:geomhash":"762ac5e866e406b39fb5ac16e857df14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857596701
+        }
+    ],
+    "wof:id":857596701,
+    "wof:lastmodified":1464203916,
+    "wof:name":"Malulani Hale",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.854878,
+    21.32085,
+    -157.854878,
+    21.32085
+],
+  "geometry": {"coordinates":[-157.85487800000001,21.32085],"type":"Point"}
+}

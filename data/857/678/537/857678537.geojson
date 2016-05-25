@@ -1,0 +1,71 @@
+{
+  "id": 857678537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023461,21.354996,-158.023461,21.354996",
+    "geom:latitude":21.354996,
+    "geom:longitude":-158.023461,
+    "iso:country":"US",
+    "sg:address":"1037 Aipoola St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 3005",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nFItpi0NEEL0UXqqrrOdo_21.354996_-158.023461@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206674,
+    "wof:geomhash":"94ead0617b84b2af0bbdc984f8bf0ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857678537
+        }
+    ],
+    "wof:id":857678537,
+    "wof:lastmodified":1464206674,
+    "wof:name":"Roger Acosta",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.023461,
+    21.354996,
+    -158.023461,
+    21.354996
+],
+  "geometry": {"coordinates":[-158.023461,21.354996],"type":"Point"}
+}

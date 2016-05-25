@@ -1,0 +1,74 @@
+{
+  "id": 857645205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853738,21.300205,-157.853738,21.300205",
+    "geom:latitude":21.300205,
+    "geom:longitude":-157.853738,
+    "iso:country":"US",
+    "sg:address":"777 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 1225",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.bmwhawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40gmFZxhcY02S2rkKe5XTV_21.300205_-157.853738@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205246,
+    "wof:geomhash":"a2ef9efba5e18c8ef7c2f2e478514828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857645205
+        }
+    ],
+    "wof:id":857645205,
+    "wof:lastmodified":1464205246,
+    "wof:name":"BMW Of Honolulu",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.853738,
+    21.300205,
+    -157.853738,
+    21.300205
+],
+  "geometry": {"coordinates":[-157.85373799999999,21.300205],"type":"Point"}
+}

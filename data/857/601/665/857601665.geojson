@@ -1,0 +1,71 @@
+{
+  "id": 857601665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.775087,21.286727,-157.775087,21.286727",
+    "geom:latitude":21.286727,
+    "geom:longitude":-157.775087,
+    "iso:country":"US",
+    "sg:address":"1412 Ainakoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 5179",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVtNM0xRN5IF0HNyiUecd_21.286727_-157.775087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204021,
+    "wof:geomhash":"2751ec959176ddb8f56deb3ce0bacf92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857601665
+        }
+    ],
+    "wof:id":857601665,
+    "wof:lastmodified":1464204021,
+    "wof:name":"Community Jewelry Co",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -157.775087,
+    21.286727,
+    -157.775087,
+    21.286727
+],
+  "geometry": {"coordinates":[-157.77508700000001,21.286727],"type":"Point"}
+}

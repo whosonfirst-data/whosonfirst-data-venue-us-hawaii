@@ -1,0 +1,73 @@
+{
+  "id": 857547043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859574,21.301908,-157.859574,21.301908",
+    "geom:latitude":21.301908,
+    "geom:longitude":-157.859574,
+    "iso:country":"US",
+    "sg:address":"609 South St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 7006",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00pKN2b4CYvYXhVqI8WBVt_21.301908_-157.859574@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202875,
+    "wof:geomhash":"1b5299fd88526c40e4f7d026025519e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857547043
+        }
+    ],
+    "wof:id":857547043,
+    "wof:lastmodified":1464202875,
+    "wof:name":"Servco Pacific Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.859574,
+    21.301908,
+    -157.859574,
+    21.301908
+],
+  "geometry": {"coordinates":[-157.85957400000001,21.301908],"type":"Point"}
+}

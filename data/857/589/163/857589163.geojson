@@ -1,0 +1,73 @@
+{
+  "id": 857589163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870764,21.312913,-157.870764,21.312913",
+    "geom:latitude":21.312913,
+    "geom:longitude":-157.870764,
+    "iso:country":"US",
+    "sg:address":"703 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 527 3215",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "flour",
+        "mills"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K0TjYzK8xkUEkP2PSZrGI_21.312913_-157.870764@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203743,
+    "wof:geomhash":"616dead17c21d1dc1a2ef5fd9291ac89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857589163
+        }
+    ],
+    "wof:id":857589163,
+    "wof:lastmodified":1464203743,
+    "wof:name":"Hawaiian Flour Mill",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flour",
+        "mills"
+    ]
+},
+  "bbox": [
+    -157.870764,
+    21.312913,
+    -157.870764,
+    21.312913
+],
+  "geometry": {"coordinates":[-157.87076400000001,21.312913],"type":"Point"}
+}

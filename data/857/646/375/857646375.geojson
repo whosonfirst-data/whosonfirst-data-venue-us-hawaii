@@ -1,0 +1,71 @@
+{
+  "id": 857646375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850316,21.303184,-157.850316,21.303184",
+    "geom:latitude":21.303184,
+    "geom:longitude":-157.850316,
+    "iso:country":"US",
+    "sg:address":"846 S Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 7077",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P0zITIg7JBFx9QGj7cKTz_21.303184_-157.850316@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205303,
+    "wof:geomhash":"8d16b4c644892c5e1e64fd3c4cab04a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857646375
+        }
+    ],
+    "wof:id":857646375,
+    "wof:lastmodified":1464205303,
+    "wof:name":"Kokua Federal Credit Union",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -157.850316,
+    21.303184,
+    -157.850316,
+    21.303184
+],
+  "geometry": {"coordinates":[-157.85031599999999,21.303184],"type":"Point"}
+}

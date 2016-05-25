@@ -1,0 +1,66 @@
+{
+  "id": 857568623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862584,21.30996,-157.862584,21.30996",
+    "geom:latitude":21.30996,
+    "geom:longitude":-157.862584,
+    "iso:country":"US",
+    "sg:address":"2 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9404",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lVnaOTOcLbgchLx4Hnv6u_21.309960_-157.862584@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203326,
+    "wof:geomhash":"02c33b13584c6031fe4b097af073f3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857568623
+        }
+    ],
+    "wof:id":857568623,
+    "wof:lastmodified":1464203326,
+    "wof:name":"Home Street Bank",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.862584,
+    21.30996,
+    -157.862584,
+    21.30996
+],
+  "geometry": {"coordinates":[-157.862584,21.30996],"type":"Point"}
+}

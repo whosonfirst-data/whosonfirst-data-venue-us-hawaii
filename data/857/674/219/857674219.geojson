@@ -1,0 +1,73 @@
+{
+  "id": 857674219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851091,21.308222,-157.851091,21.308222",
+    "geom:latitude":21.308222,
+    "geom:longitude":-157.851091,
+    "iso:country":"US",
+    "sg:address":"602 Magellan Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4237",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oNDHcF1IepnGodt1T2Xob_21.308222_-157.851091@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206495,
+    "wof:geomhash":"fcec89b24eada79d8d7eec390c652286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857674219
+        }
+    ],
+    "wof:id":857674219,
+    "wof:lastmodified":1464206495,
+    "wof:name":"Dole Head Start",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.851091,
+    21.308222,
+    -157.851091,
+    21.308222
+],
+  "geometry": {"coordinates":[-157.851091,21.308222],"type":"Point"}
+}

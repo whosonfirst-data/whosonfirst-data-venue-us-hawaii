@@ -1,0 +1,71 @@
+{
+  "id": 857660749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799253,21.408018,-157.799253,21.408018",
+    "geom:latitude":21.408018,
+    "geom:longitude":-157.799253,
+    "iso:country":"US",
+    "sg:address":"741 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 3720",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rX4326xR8ofSiNSrdHjp7_21.408018_-157.799253@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205942,
+    "wof:geomhash":"e3df6294f89ebf3f590fb721813b4180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857660749
+        }
+    ],
+    "wof:id":857660749,
+    "wof:lastmodified":1464205942,
+    "wof:name":"Dons Repair Shop",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.799253,
+    21.408018,
+    -157.799253,
+    21.408018
+],
+  "geometry": {"coordinates":[-157.79925299999999,21.408018],"type":"Point"}
+}

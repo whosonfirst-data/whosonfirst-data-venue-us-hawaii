@@ -1,0 +1,75 @@
+{
+  "id": 857569209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.69121,21.29844,-157.69121,21.29844",
+    "geom:latitude":21.29844,
+    "geom:longitude":-157.69121,
+    "iso:country":"US",
+    "sg:address":"7114 Niumalu Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 2226",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "enclosure",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IzqpgrwkLfmqAWJeYUw9G_21.298440_-157.691210@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203337,
+    "wof:geomhash":"1ec8dd626c419632fe5950e2416ed239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857569209
+        }
+    ],
+    "wof:id":857569209,
+    "wof:lastmodified":1464203337,
+    "wof:name":"Life Saver Pool Fence-Hawaii",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enclosure",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -157.69121,
+    21.29844,
+    -157.69121,
+    21.29844
+],
+  "geometry": {"coordinates":[-157.69121000000001,21.29844],"type":"Point"}
+}

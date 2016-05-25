@@ -1,0 +1,69 @@
+{
+  "id": 857637821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.246758,20.914063,-156.246758,20.914063",
+    "geom:latitude":20.914063,
+    "geom:longitude":-156.246758,
+    "iso:country":"US",
+    "sg:address":"13375 Hana Hwy",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 248 8355",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890093,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NESLrJMBmHM09cG269BOC_20.914063_-156.246758@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204934,
+    "wof:geomhash":"7ce560a629877c4f083eff996d2d41f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890093,
+            "region_id":85688671,
+            "venue_id":857637821
+        }
+    ],
+    "wof:id":857637821,
+    "wof:lastmodified":1464204934,
+    "wof:name":"Ymca Maui Office Camp",
+    "wof:parent_id":85890093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -156.246758,
+    20.914063,
+    -156.246758,
+    20.914063
+],
+  "geometry": {"coordinates":[-156.246758,20.914063],"type":"Point"}
+}

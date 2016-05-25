@@ -1,0 +1,71 @@
+{
+  "id": 857629833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.812664,21.274943,-157.812664,21.274943",
+    "geom:latitude":21.274943,
+    "geom:longitude":-157.812664,
+    "iso:country":"US",
+    "sg:address":"3387 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 2234",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6avg0Nb5sPQGbhg5jhGTWZ_21.274943_-157.812664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204657,
+    "wof:geomhash":"8c14de243a54a08be09085b52fb46cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857629833
+        }
+    ],
+    "wof:id":857629833,
+    "wof:lastmodified":1464204657,
+    "wof:name":"Date Street Grocery",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.812664,
+    21.274943,
+    -157.812664,
+    21.274943
+],
+  "geometry": {"coordinates":[-157.81266400000001,21.274943],"type":"Point"}
+}

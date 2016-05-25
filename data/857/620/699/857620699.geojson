@@ -1,0 +1,73 @@
+{
+  "id": 857620699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.95479,21.405349,-157.95479,21.405349",
+    "geom:latitude":21.405349,
+    "geom:longitude":-157.95479,
+    "iso:country":"US",
+    "sg:address":"1754 Hoohulu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2521",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bSYdLNKkff7iTSkZtPBiD_21.405349_-157.954790@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204447,
+    "wof:geomhash":"9153f585dfc67fd818f111d61ac71dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857620699
+        }
+    ],
+    "wof:id":857620699,
+    "wof:lastmodified":1464204447,
+    "wof:name":"Basic Systems Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -157.95479,
+    21.405349,
+    -157.95479,
+    21.405349
+],
+  "geometry": {"coordinates":[-157.95479,21.405349],"type":"Point"}
+}

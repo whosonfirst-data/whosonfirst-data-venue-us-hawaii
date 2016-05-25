@@ -1,0 +1,85 @@
+{
+  "id": 857671835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883778,21.325582,-157.883778,21.325582",
+    "geom:latitude":21.325582,
+    "geom:longitude":-157.883778,
+    "iso:country":"US",
+    "sg:address":"307 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 8501",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J1u2zIJFiTA2c8b7q4bc0_21.325582_-157.883778@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206404,
+    "wof:geomhash":"f718bac90ff92a32b9dd7f11e06f30ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857671835
+        }
+    ],
+    "wof:id":857671835,
+    "wof:lastmodified":1464206404,
+    "wof:name":"Central Pacific Rebuilders",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "electric"
+    ]
+},
+  "bbox": [
+    -157.883778,
+    21.325582,
+    -157.883778,
+    21.325582
+],
+  "geometry": {"coordinates":[-157.88377800000001,21.325582],"type":"Point"}
+}

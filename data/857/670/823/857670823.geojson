@@ -1,0 +1,71 @@
+{
+  "id": 857670823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.093604,21.311848,-158.093604,21.311848",
+    "geom:latitude":21.311848,
+    "geom:longitude":-158.093604,
+    "iso:country":"US",
+    "sg:address":"229 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 8828",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9Kz6nJzyruyCOa5CEsVU_21.311848_-158.093604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206369,
+    "wof:geomhash":"6a533d31984c2dd182b3536835fc03c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857670823
+        }
+    ],
+    "wof:id":857670823,
+    "wof:lastmodified":1464206369,
+    "wof:name":"Kapolei Auto Recycling",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -158.093604,
+    21.311848,
+    -158.093604,
+    21.311848
+],
+  "geometry": {"coordinates":[-158.093604,21.311848],"type":"Point"}
+}

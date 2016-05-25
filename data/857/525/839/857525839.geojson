@@ -1,0 +1,73 @@
+{
+  "id": 857525839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810927,21.31571,-157.810927,21.31571",
+    "geom:latitude":21.31571,
+    "geom:longitude":-157.810927,
+    "iso:country":"US",
+    "sg:address":"3041 Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3202",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HhcPL9wWSHghVeXCNTC5J_21.315710_-157.810927@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202465,
+    "wof:geomhash":"33f1f45fee8cf60d8e56d1365d1e03d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857525839
+        }
+    ],
+    "wof:id":857525839,
+    "wof:lastmodified":1464202465,
+    "wof:name":"Honolulu Dance Theatre Ltd",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.810927,
+    21.31571,
+    -157.810927,
+    21.31571
+],
+  "geometry": {"coordinates":[-157.81092699999999,21.31571],"type":"Point"}
+}

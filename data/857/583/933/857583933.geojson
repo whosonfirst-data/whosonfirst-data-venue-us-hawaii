@@ -1,0 +1,73 @@
+{
+  "id": 857583933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861148,21.312621,-157.861148,21.312621",
+    "geom:latitude":21.312621,
+    "geom:longitude":-157.861148,
+    "iso:country":"US",
+    "sg:address":"1164 Smith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 6818",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XF2uei0ZbpcjG8tjCcxCa_21.312621_-157.861148@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203624,
+    "wof:geomhash":"156fc34bd026835491db5619b9546a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857583933
+        }
+    ],
+    "wof:id":857583933,
+    "wof:lastmodified":1464203624,
+    "wof:name":"Ocean Coffee",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -157.861148,
+    21.312621,
+    -157.861148,
+    21.312621
+],
+  "geometry": {"coordinates":[-157.86114799999999,21.312621],"type":"Point"}
+}

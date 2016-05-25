@@ -1,0 +1,71 @@
+{
+  "id": 857543261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.355201,22.046509,-159.355201,22.046509",
+    "geom:latitude":22.046509,
+    "geom:longitude":-159.355201,
+    "iso:country":"US",
+    "sg:address":"5443 Kuamoo Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 0559",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attraction",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y8BPPHshGX02FZD2L6eoa_22.046509_-159.355201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202806,
+    "wof:geomhash":"cd8582bb76ccdc8aa57bcf5e37d23b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857543261
+        }
+    ],
+    "wof:id":857543261,
+    "wof:lastmodified":1464202806,
+    "wof:name":"Kamokila Hawaiian Village Inc",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -159.355201,
+    22.046509,
+    -159.355201,
+    22.046509
+],
+  "geometry": {"coordinates":[-159.35520099999999,22.046509],"type":"Point"}
+}

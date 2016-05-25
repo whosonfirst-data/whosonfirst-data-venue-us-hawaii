@@ -1,0 +1,78 @@
+{
+  "id": 857656783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.366247,21.98612,-159.366247,21.98612",
+    "geom:latitude":21.98612,
+    "geom:longitude":-159.366247,
+    "iso:country":"US",
+    "sg:address":"3400 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7469",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfCLVxqJyNIQ0XZJXc0RW_21.986120_-159.366247@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205758,
+    "wof:geomhash":"dbc5d871a3a8e5cf0e5e9a9361d15966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857656783
+        }
+    ],
+    "wof:id":857656783,
+    "wof:lastmodified":1464205758,
+    "wof:name":"Sun Village Kauai",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -159.366247,
+    21.98612,
+    -159.366247,
+    21.98612
+],
+  "geometry": {"coordinates":[-159.36624699999999,21.98612],"type":"Point"}
+}

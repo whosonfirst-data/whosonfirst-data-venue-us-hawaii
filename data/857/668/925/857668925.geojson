@@ -1,0 +1,68 @@
+{
+  "id": 857668925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.687027,20.946956,-156.687027,20.946956",
+    "geom:latitude":20.946956,
+    "geom:longitude":-156.687027,
+    "iso:country":"US",
+    "sg:address":"3445 Honoapiilani Hwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 4088",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937613,
+        102085577,
+        85890515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XfMfQSz05uCwDZNUb2qk8_20.946956_-156.687027@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206291,
+    "wof:geomhash":"897cbc1c9237498330bbffadcb21710d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937613,
+            "neighbourhood_id":85890515,
+            "region_id":85688671,
+            "venue_id":857668925
+        }
+    ],
+    "wof:id":857668925,
+    "wof:lastmodified":1464206291,
+    "wof:name":"American Educational Institute",
+    "wof:parent_id":85890515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.687027,
+    20.946956,
+    -156.687027,
+    20.946956
+],
+  "geometry": {"coordinates":[-156.687027,20.946956],"type":"Point"}
+}

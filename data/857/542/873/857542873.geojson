@@ -1,0 +1,71 @@
+{
+  "id": 857542873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798188,21.318694,-157.798188,21.318694",
+    "geom:latitude":21.318694,
+    "geom:longitude":-157.798188,
+    "iso:country":"US",
+    "sg:address":"3558 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3714",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IwQciUQUdttK0MkEUZGql_21.318694_-157.798188@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202798,
+    "wof:geomhash":"1fe5272e544d2ca26814bc18ba9fff2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857542873
+        }
+    ],
+    "wof:id":857542873,
+    "wof:lastmodified":1464202798,
+    "wof:name":"Manoa Woods",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.798188,
+    21.318694,
+    -157.798188,
+    21.318694
+],
+  "geometry": {"coordinates":[-157.79818800000001,21.318694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857659931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.675317,21.297067,-157.675317,21.297067",
+    "geom:latitude":21.297067,
+    "geom:longitude":-157.675317,
+    "iso:country":"US",
+    "sg:address":"1057 Kamaole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 3681",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ytj2w1i11YGFi21kz0ZC5_21.297067_-157.675317@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205901,
+    "wof:geomhash":"607457b7a1fc6c9cd2996e4b9ad2348d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857659931
+        }
+    ],
+    "wof:id":857659931,
+    "wof:lastmodified":1464205901,
+    "wof:name":"J and G Vendors",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -157.675317,
+    21.297067,
+    -157.675317,
+    21.297067
+],
+  "geometry": {"coordinates":[-157.67531700000001,21.297067],"type":"Point"}
+}

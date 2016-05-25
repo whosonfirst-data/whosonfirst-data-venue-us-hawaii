@@ -1,0 +1,75 @@
+{
+  "id": 857632553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.919946,19.508386,-155.919946,19.508386",
+    "geom:latitude":19.508386,
+    "geom:longitude":-155.919946,
+    "iso:country":"US",
+    "sg:address":"1080 Konawaena School Rd",
+    "sg:city":"Kealakekua",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 323 3252",
+    "sg:postcode":"96750",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937421,
+        102085433,
+        85890065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2prjqYkK7mrczLeMOii2iq_19.508386_-155.919946@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204735,
+    "wof:geomhash":"a7343c7a5ef93c7a08b7e619f0ad1aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937421,
+            "neighbourhood_id":85890065,
+            "region_id":85688671,
+            "venue_id":857632553
+        }
+    ],
+    "wof:id":857632553,
+    "wof:lastmodified":1464204735,
+    "wof:name":"Konawaena Pool",
+    "wof:parent_id":85890065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -155.919946,
+    19.508386,
+    -155.919946,
+    19.508386
+],
+  "geometry": {"coordinates":[-155.91994600000001,19.508386],"type":"Point"}
+}

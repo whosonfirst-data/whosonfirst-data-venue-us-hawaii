@@ -1,0 +1,73 @@
+{
+  "id": 857647663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872669,21.302497,-157.872669,21.302497",
+    "geom:latitude":21.302497,
+    "geom:longitude":-157.872669,
+    "iso:country":"US",
+    "sg:address":"1022 Paapu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0807",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kImeNgxek0Hhy2E4VIeeT_21.302497_-157.872669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205365,
+    "wof:geomhash":"2f9cf24374751efbe382f314f6a1e85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857647663
+        }
+    ],
+    "wof:id":857647663,
+    "wof:lastmodified":1464205365,
+    "wof:name":"Downstream Consultants Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construction"
+    ]
+},
+  "bbox": [
+    -157.872669,
+    21.302497,
+    -157.872669,
+    21.302497
+],
+  "geometry": {"coordinates":[-157.872669,21.302497],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857586593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.0084,21.314024,-158.0084,21.314024",
+    "geom:latitude":21.314024,
+    "geom:longitude":-158.0084,
+    "iso:country":"US",
+    "sg:address":"955 North Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 689 0370",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "executive",
+        "religious",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NTQyKOQAlrkRNj7UH9izJ_21.314024_-158.008400@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203686,
+    "wof:geomhash":"6053f579d458f35f6fb3ecf06a2a9be4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857586593
+        }
+    ],
+    "wof:id":857586593,
+    "wof:lastmodified":1464203686,
+    "wof:name":"Ewa Beach Community Assoc",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "executive",
+        "religious",
+        "parks"
+    ]
+},
+  "bbox": [
+    -158.0084,
+    21.314024,
+    -158.0084,
+    21.314024
+],
+  "geometry": {"coordinates":[-158.00839999999999,21.314024],"type":"Point"}
+}

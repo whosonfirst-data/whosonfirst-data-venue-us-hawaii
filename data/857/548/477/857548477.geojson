@@ -1,0 +1,71 @@
+{
+  "id": 857548477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005855,21.465784,-158.005855,21.465784",
+    "geom:latitude":21.465784,
+    "geom:longitude":-158.005855,
+    "iso:country":"US",
+    "sg:address":"801 Kipapa Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 4692",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BbiKsljWgrzDT2yIOoWyl_21.465784_-158.005855@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202902,
+    "wof:geomhash":"b3a86d9535c4a2127e85360d1f02244b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857548477
+        }
+    ],
+    "wof:id":857548477,
+    "wof:lastmodified":1464202902,
+    "wof:name":"Kumon Math & Reading Ctr",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -158.005855,
+    21.465784,
+    -158.005855,
+    21.465784
+],
+  "geometry": {"coordinates":[-158.005855,21.465784],"type":"Point"}
+}

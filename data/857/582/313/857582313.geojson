@@ -1,0 +1,86 @@
+{
+  "id": 857582313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.070145,19.715896,-155.070145,19.715896",
+    "geom:latitude":19.715896,
+    "geom:longitude":-155.070145,
+    "iso:country":"US",
+    "sg:address":"500 Manono St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 3191",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manufacture",
+        "bakery",
+        "retail",
+        "product",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRJk0Y1mhlQx8I9KX1NdI_19.715896_-155.070145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203596,
+    "wof:geomhash":"291c80287cbbe30f2afc33348288d013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857582313
+        }
+    ],
+    "wof:id":857582313,
+    "wof:lastmodified":1464203596,
+    "wof:name":"Love's Bakery",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "bakery",
+        "retail",
+        "product",
+        "baker"
+    ]
+},
+  "bbox": [
+    -155.070145,
+    19.715896,
+    -155.070145,
+    19.715896
+],
+  "geometry": {"coordinates":[-155.070145,19.715896],"type":"Point"}
+}

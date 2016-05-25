@@ -1,0 +1,71 @@
+{
+  "id": 857511013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.016972,21.433017,-158.016972,21.433017",
+    "geom:latitude":21.433017,
+    "geom:longitude":-158.016972,
+    "iso:country":"US",
+    "sg:address":"175 Makapipipi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 2392",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vev3lWZR2CSD5GrkViv70_21.433017_-158.016972@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202168,
+    "wof:geomhash":"2af507a67fb98535aef572b3f72ead60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857511013
+        }
+    ],
+    "wof:id":857511013,
+    "wof:lastmodified":1464202168,
+    "wof:name":"Hawaii Agricultural Operations",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -158.016972,
+    21.433017,
+    -158.016972,
+    21.433017
+],
+  "geometry": {"coordinates":[-158.01697200000001,21.433017],"type":"Point"}
+}

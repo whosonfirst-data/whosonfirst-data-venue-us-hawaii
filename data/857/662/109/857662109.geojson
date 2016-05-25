@@ -1,0 +1,73 @@
+{
+  "id": 857662109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820796,21.291201,-157.820796,21.291201",
+    "geom:latitude":21.291201,
+    "geom:longitude":-157.820796,
+    "iso:country":"US",
+    "sg:address":"2741 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 4116",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OgOmjppiTt2nAAoqxcUvJ_21.291201_-157.820796@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206016,
+    "wof:geomhash":"503ca12df5507b6bae93a82c684b5b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857662109
+        }
+    ],
+    "wof:id":857662109,
+    "wof:lastmodified":1464206016,
+    "wof:name":"Lee's Beauty Nail Salon",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -157.820796,
+    21.291201,
+    -157.820796,
+    21.291201
+],
+  "geometry": {"coordinates":[-157.820796,21.291201],"type":"Point"}
+}

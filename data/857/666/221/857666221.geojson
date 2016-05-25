@@ -1,0 +1,71 @@
+{
+  "id": 857666221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810692,21.303784,-157.810692,21.303784",
+    "geom:latitude":21.303784,
+    "geom:longitude":-157.810692,
+    "iso:country":"US",
+    "sg:address":"2814 Kalawao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9334",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "botanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CgJ5HDrHevEw0zkpl9kxI_21.303784_-157.810692@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206195,
+    "wof:geomhash":"4f6ca2210cb833c0734830a45368351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857666221
+        }
+    ],
+    "wof:id":857666221,
+    "wof:lastmodified":1464206195,
+    "wof:name":"Isle Botanica",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "botanical"
+    ]
+},
+  "bbox": [
+    -157.810692,
+    21.303784,
+    -157.810692,
+    21.303784
+],
+  "geometry": {"coordinates":[-157.81069199999999,21.303784],"type":"Point"}
+}

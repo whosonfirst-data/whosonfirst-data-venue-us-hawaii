@@ -1,0 +1,73 @@
+{
+  "id": 857560035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843179,21.299449,-157.843179,21.299449",
+    "geom:latitude":21.299449,
+    "geom:longitude":-157.843179,
+    "iso:country":"US",
+    "sg:address":"1251 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 1200",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jju3VX0xSgxEWAMGHusCg_21.299449_-157.843179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203150,
+    "wof:geomhash":"743b8b2a03aff0faa012ae37b47bff33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857560035
+        }
+    ],
+    "wof:id":857560035,
+    "wof:lastmodified":1464203150,
+    "wof:name":"E J Communications",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -157.843179,
+    21.299449,
+    -157.843179,
+    21.299449
+],
+  "geometry": {"coordinates":[-157.84317899999999,21.299449],"type":"Point"}
+}

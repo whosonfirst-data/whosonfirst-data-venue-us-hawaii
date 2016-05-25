@@ -1,0 +1,71 @@
+{
+  "id": 857670513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.693011,21.293655,-157.693011,21.293655",
+    "geom:latitude":21.293655,
+    "geom:longitude":-157.693011,
+    "iso:country":"US",
+    "sg:address":"770 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2635",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "toiletry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47xf81vf0A3AScSdUr0JVU_21.293655_-157.693011@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206358,
+    "wof:geomhash":"804c060d3b35295ea60cc72c6176823e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857670513
+        }
+    ],
+    "wof:id":857670513,
+    "wof:lastmodified":1464206358,
+    "wof:name":"Gillette",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toiletry"
+    ]
+},
+  "bbox": [
+    -157.693011,
+    21.293655,
+    -157.693011,
+    21.293655
+],
+  "geometry": {"coordinates":[-157.69301100000001,21.293655],"type":"Point"}
+}

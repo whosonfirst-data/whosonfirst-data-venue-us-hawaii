@@ -1,0 +1,66 @@
+{
+  "id": 857599607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930975,21.378842,-157.930975,21.378842",
+    "geom:latitude":21.378842,
+    "geom:longitude":-157.930975,
+    "iso:country":"US",
+    "sg:address":"211 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 9425",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YwItLEuoDwJSBH9a27C9h_21.378842_-157.930975@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203975,
+    "wof:geomhash":"ef5547376d9bbb1858580d6b1aa7fbea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857599607
+        }
+    ],
+    "wof:id":857599607,
+    "wof:lastmodified":1464203975,
+    "wof:name":"Body Shop",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.930975,
+    21.378842,
+    -157.930975,
+    21.378842
+],
+  "geometry": {"coordinates":[-157.93097499999999,21.378842],"type":"Point"}
+}

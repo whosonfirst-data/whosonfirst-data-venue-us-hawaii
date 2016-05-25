@@ -1,0 +1,71 @@
+{
+  "id": 857672089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868736,21.314304,-157.868736,21.314304",
+    "geom:latitude":21.314304,
+    "geom:longitude":-157.868736,
+    "iso:country":"US",
+    "sg:address":"666 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 4216",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32TBcokHynbgEOXVujVC9t_21.314304_-157.868736@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206413,
+    "wof:geomhash":"d0b013b20e2b1b0e9c9c10ae5ea4698d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857672089
+        }
+    ],
+    "wof:id":857672089,
+    "wof:lastmodified":1464206413,
+    "wof:name":"A Catered Experience",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.868736,
+    21.314304,
+    -157.868736,
+    21.314304
+],
+  "geometry": {"coordinates":[-157.86873600000001,21.314304],"type":"Point"}
+}

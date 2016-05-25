@@ -1,0 +1,73 @@
+{
+  "id": 857646381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.789795,21.398989,-157.789795,21.398989",
+    "geom:latitude":21.398989,
+    "geom:longitude":-157.789795,
+    "iso:country":"US",
+    "sg:address":"219 Namoku St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 0684",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38UvD2jLaQlYI2xlxtBmNQ_21.398989_-157.789795@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205303,
+    "wof:geomhash":"af36280c200f19ede3f602c6e1a686ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857646381
+        }
+    ],
+    "wof:id":857646381,
+    "wof:lastmodified":1464205303,
+    "wof:name":"Island Plumbing Co",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.789795,
+    21.398989,
+    -157.789795,
+    21.398989
+],
+  "geometry": {"coordinates":[-157.789795,21.398989],"type":"Point"}
+}

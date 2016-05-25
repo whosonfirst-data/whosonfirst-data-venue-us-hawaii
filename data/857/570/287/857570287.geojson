@@ -1,0 +1,73 @@
+{
+  "id": 857570287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008895,21.407849,-158.008895,21.407849",
+    "geom:latitude":21.407849,
+    "geom:longitude":-158.008895,
+    "iso:country":"US",
+    "sg:address":"503 Lumiauau St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 0767",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OaxpXxq9nuDAA9SenWMhj_21.407849_-158.008895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203359,
+    "wof:geomhash":"8a48689bc9c1333ee3605982f850838b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857570287
+        }
+    ],
+    "wof:id":857570287,
+    "wof:lastmodified":1464203359,
+    "wof:name":"A & E Electric",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.008895,
+    21.407849,
+    -158.008895,
+    21.407849
+],
+  "geometry": {"coordinates":[-158.008895,21.407849],"type":"Point"}
+}

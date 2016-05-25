@@ -1,0 +1,71 @@
+{
+  "id": 857666571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029917,21.496139,-158.029917,21.496139",
+    "geom:latitude":21.496139,
+    "geom:longitude":-158.029917,
+    "iso:country":"US",
+    "sg:address":"81 N Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 3950",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53lHh5xiZsliQ0uVZSPyov_21.496139_-158.029917@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206209,
+    "wof:geomhash":"9e6c3c0d969543a50dfbe3e7de548848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857666571
+        }
+    ],
+    "wof:id":857666571,
+    "wof:lastmodified":1464206209,
+    "wof:name":"Joe's Auto Sales",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.029917,
+    21.496139,
+    -158.029917,
+    21.496139
+],
+  "geometry": {"coordinates":[-158.02991700000001,21.496139],"type":"Point"}
+}

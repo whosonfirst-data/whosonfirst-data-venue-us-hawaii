@@ -1,0 +1,73 @@
+{
+  "id": 857586803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836189,21.29662,-157.836189,21.29662",
+    "geom:latitude":21.29662,
+    "geom:longitude":-157.836189,
+    "iso:country":"US",
+    "sg:address":"920 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 1014",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74iLEkQK00jPqDyxJESTnz_21.296620_-157.836189@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203691,
+    "wof:geomhash":"f966e9453af9c8db0fbfdb0c9036d2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857586803
+        }
+    ],
+    "wof:id":857586803,
+    "wof:lastmodified":1464203691,
+    "wof:name":"Colonial Cars",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.836189,
+    21.29662,
+    -157.836189,
+    21.29662
+],
+  "geometry": {"coordinates":[-157.83618899999999,21.29662],"type":"Point"}
+}

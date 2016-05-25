@@ -1,0 +1,75 @@
+{
+  "id": 857627319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.780519,20.227217,-155.780519,20.227217",
+    "geom:latitude":20.227217,
+    "geom:longitude":-155.780519,
+    "iso:country":"US",
+    "sg:address":"3695 Akoni Pule Hwy",
+    "sg:city":"Kapaau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 889 6405",
+    "sg:postcode":"96755",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937473,
+        102085433,
+        85890395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dvG0rs3plX4ryjffafRQA_20.227217_-155.780519@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204610,
+    "wof:geomhash":"812e053343e1294ccb94de3ecaae9b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937473,
+            "neighbourhood_id":85890395,
+            "region_id":85688671,
+            "venue_id":857627319
+        }
+    ],
+    "wof:id":857627319,
+    "wof:lastmodified":1464204610,
+    "wof:name":"Kohala Pet Clinic",
+    "wof:parent_id":85890395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -155.780519,
+    20.227217,
+    -155.780519,
+    20.227217
+],
+  "geometry": {"coordinates":[-155.780519,20.227217],"type":"Point"}
+}

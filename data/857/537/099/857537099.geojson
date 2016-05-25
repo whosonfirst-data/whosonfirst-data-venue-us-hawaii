@@ -1,0 +1,71 @@
+{
+  "id": 857537099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001489,21.384507,-158.001489,21.384507",
+    "geom:latitude":21.384507,
+    "geom:longitude":-158.001489,
+    "iso:country":"US",
+    "sg:address":"879 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3955",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oTBSTyhRPFoLL7PQPCmga_21.384507_-158.001489@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202682,
+    "wof:geomhash":"31feba8e51bea047903c50b5798d6c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857537099
+        }
+    ],
+    "wof:id":857537099,
+    "wof:lastmodified":1464202682,
+    "wof:name":"Wada's Appliance Sales & Svc",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.001489,
+    21.384507,
+    -158.001489,
+    21.384507
+],
+  "geometry": {"coordinates":[-158.00148899999999,21.384507],"type":"Point"}
+}

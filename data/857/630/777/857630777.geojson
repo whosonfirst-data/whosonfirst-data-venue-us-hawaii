@@ -1,0 +1,75 @@
+{
+  "id": 857630777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.01184,21.38251,-158.01184,21.38251",
+    "geom:latitude":21.38251,
+    "geom:longitude":-158.01184,
+    "iso:country":"US",
+    "sg:address":"529 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1176",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O64YdaXX6RE1KcbMtOopy_21.382510_-158.011840@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"e9d39aa7c183484b9219d9452e107ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857630777
+        }
+    ],
+    "wof:id":857630777,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Darren's Glass Tinting",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -158.01184,
+    21.38251,
+    -158.01184,
+    21.38251
+],
+  "geometry": {"coordinates":[-158.01184000000001,21.38251],"type":"Point"}
+}

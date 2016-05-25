@@ -1,0 +1,71 @@
+{
+  "id": 857660035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860724,21.302845,-157.860724,21.302845",
+    "geom:latitude":21.302845,
+    "geom:longitude":-157.860724,
+    "iso:country":"US",
+    "sg:address":"565 Halekauwila St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 6438",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rBKn79Nf7brV3p1AXWU7V_21.302845_-157.860724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205904,
+    "wof:geomhash":"37e45d310b0177024f2b1a702f8d75bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857660035
+        }
+    ],
+    "wof:id":857660035,
+    "wof:lastmodified":1464205904,
+    "wof:name":"Acme Fender & Paint Shop",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -157.860724,
+    21.302845,
+    -157.860724,
+    21.302845
+],
+  "geometry": {"coordinates":[-157.860724,21.302845],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857651475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860594,21.307207,-157.860594,21.307207",
+    "geom:latitude":21.307207,
+    "geom:longitude":-157.860594,
+    "iso:country":"US",
+    "sg:address":"233 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 3377",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZeZspORNFX7PVInb2QVj_21.307207_-157.860594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205520,
+    "wof:geomhash":"87ba9dabd377ce831d478d18290faf66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857651475
+        }
+    ],
+    "wof:id":857651475,
+    "wof:lastmodified":1464205520,
+    "wof:name":"American Express",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.860594,
+    21.307207,
+    -157.860594,
+    21.307207
+],
+  "geometry": {"coordinates":[-157.86059399999999,21.307207],"type":"Point"}
+}

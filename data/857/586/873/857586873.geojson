@@ -1,0 +1,73 @@
+{
+  "id": 857586873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846094,21.333275,-157.846094,21.333275",
+    "geom:latitude":21.333275,
+    "geom:longitude":-157.846094,
+    "iso:country":"US",
+    "sg:address":"518 Pahili Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 3863",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jXBmvBKwLXp4AQAEDoXkr_21.333275_-157.846094@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203692,
+    "wof:geomhash":"4f416cdaaba2273ae228e9385f0bc953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857586873
+        }
+    ],
+    "wof:id":857586873,
+    "wof:lastmodified":1464203692,
+    "wof:name":"Lyman Electric Inc",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.846094,
+    21.333275,
+    -157.846094,
+    21.333275
+],
+  "geometry": {"coordinates":[-157.84609399999999,21.333275],"type":"Point"}
+}

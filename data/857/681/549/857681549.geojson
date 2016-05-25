@@ -1,0 +1,76 @@
+{
+  "id": 857681549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799682,21.282895,-157.799682,21.282895",
+    "geom:latitude":21.282895,
+    "geom:longitude":-157.799682,
+    "iso:country":"US",
+    "sg:address":"3571 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/127073-blimpie-subs--salads/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0902",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rDOxaY5wFkRDd5IJ0bdr4_21.282895_-157.799682@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206788,
+    "wof:geomhash":"85e43fac056173437db524ce97fc5ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857681549
+        }
+    ],
+    "wof:id":857681549,
+    "wof:lastmodified":1464206788,
+    "wof:name":"Blimpie Subs & Salads",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.799682,
+    21.282895,
+    -157.799682,
+    21.282895
+],
+  "geometry": {"coordinates":[-157.79968199999999,21.282895],"type":"Point"}
+}

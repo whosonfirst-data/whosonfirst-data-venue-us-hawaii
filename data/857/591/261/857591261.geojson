@@ -1,0 +1,71 @@
+{
+  "id": 857591261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841715,21.320498,-157.841715,21.320498",
+    "geom:latitude":21.320498,
+    "geom:longitude":-157.841715,
+    "iso:country":"US",
+    "sg:address":"243 Koalele St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 4220",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TBvGleUr5Onzy0V8IdMJb_21.320498_-157.841715@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203789,
+    "wof:geomhash":"0252d97076caf50ad86a7f5e4ea28a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857591261
+        }
+    ],
+    "wof:id":857591261,
+    "wof:lastmodified":1464203789,
+    "wof:name":"Ono/Decoito Maint",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.841715,
+    21.320498,
+    -157.841715,
+    21.320498
+],
+  "geometry": {"coordinates":[-157.84171499999999,21.320498],"type":"Point"}
+}

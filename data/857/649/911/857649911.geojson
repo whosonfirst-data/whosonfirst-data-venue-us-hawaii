@@ -1,0 +1,71 @@
+{
+  "id": 857649911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.503139,20.892454,-156.503139,20.892454",
+    "geom:latitude":20.892454,
+    "geom:longitude":-156.503139,
+    "iso:country":"US",
+    "sg:address":"29 Central Ave",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 9700",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z0MYSUSOzMxpEB0YjRvvv_20.892454_-156.503139@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205457,
+    "wof:geomhash":"fe022ea4feab4fd845d28f4ede301a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857649911
+        }
+    ],
+    "wof:id":857649911,
+    "wof:lastmodified":1464205457,
+    "wof:name":"Kamikaze Electronics",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -156.503139,
+    20.892454,
+    -156.503139,
+    20.892454
+],
+  "geometry": {"coordinates":[-156.503139,20.892454],"type":"Point"}
+}

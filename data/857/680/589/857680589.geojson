@@ -1,0 +1,70 @@
+{
+  "id": 857680589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.077717,21.338138,-158.077717,21.338138",
+    "geom:latitude":21.338138,
+    "geom:longitude":-158.077717,
+    "iso:country":"US",
+    "sg:address":"563 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/108588-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 8735",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QyPhV2m6Y2K059ndTzuNh_21.338138_-158.077717@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"5eb0d4f486aaa3d10ce94ad75b691894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680589
+        }
+    ],
+    "wof:id":857680589,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -158.077717,
+    21.338138,
+    -158.077717,
+    21.338138
+],
+  "geometry": {"coordinates":[-158.07771700000001,21.338138],"type":"Point"}
+}

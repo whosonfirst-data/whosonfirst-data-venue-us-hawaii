@@ -1,0 +1,73 @@
+{
+  "id": 857574759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86542,21.326729,-157.86542,21.326729",
+    "geom:latitude":21.326729,
+    "geom:longitude":-157.86542,
+    "iso:country":"US",
+    "sg:address":"1516 Auld Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 7788",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "magician",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PDmnISz5pv2h7unJUQWDw_21.326729_-157.865420@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203446,
+    "wof:geomhash":"28918b6182541c3817f6024e22eebb39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857574759
+        }
+    ],
+    "wof:id":857574759,
+    "wof:lastmodified":1464203446,
+    "wof:name":"Zuke's Magic & Jokes",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magician",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.86542,
+    21.326729,
+    -157.86542,
+    21.326729
+],
+  "geometry": {"coordinates":[-157.86542,21.326729],"type":"Point"}
+}

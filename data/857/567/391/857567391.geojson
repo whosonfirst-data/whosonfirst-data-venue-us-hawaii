@@ -1,0 +1,71 @@
+{
+  "id": 857567391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79857,21.410066,-157.79857,21.410066",
+    "geom:latitude":21.410066,
+    "geom:longitude":-157.79857,
+    "iso:country":"US",
+    "sg:address":"457 Meli Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 4399",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XNZakZcHQA5VsdrYQoDSb_21.410066_-157.798570@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203305,
+    "wof:geomhash":"1f43739ccfebde9992b31ff5b6ce35bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857567391
+        }
+    ],
+    "wof:id":857567391,
+    "wof:lastmodified":1464203305,
+    "wof:name":"Kaneohe Elderly Apartments",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.79857,
+    21.410066,
+    -157.79857,
+    21.410066
+],
+  "geometry": {"coordinates":[-157.79857000000001,21.410066],"type":"Point"}
+}

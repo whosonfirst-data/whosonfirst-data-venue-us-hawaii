@@ -1,0 +1,72 @@
+{
+  "id": 857548029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818312,21.290132,-157.818312,21.290132",
+    "geom:latitude":21.290132,
+    "geom:longitude":-157.818312,
+    "iso:country":"US",
+    "sg:address":"2700 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 2187",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinary"
+    ],
+    "sg:website":"www.hawaiianhumane.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ufafiV7sg3jSaZ2uHOd7N_21.290132_-157.818312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202894,
+    "wof:geomhash":"b917a2c38969fc09397c7b78ceea05f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857548029
+        }
+    ],
+    "wof:id":857548029,
+    "wof:lastmodified":1464202894,
+    "wof:name":"Hawaiian Humane Society",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinary"
+    ]
+},
+  "bbox": [
+    -157.818312,
+    21.290132,
+    -157.818312,
+    21.290132
+],
+  "geometry": {"coordinates":[-157.81831199999999,21.290132],"type":"Point"}
+}

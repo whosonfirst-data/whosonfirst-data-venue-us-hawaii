@@ -1,0 +1,69 @@
+{
+  "id": 857645261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.084461,21.346422,-158.084461,21.346422",
+    "geom:latitude":21.346422,
+    "geom:longitude":-158.084461,
+    "iso:country":"US",
+    "sg:address":"605 Anipeahi Pl",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 624 1965",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N5MEAseL7G04riWrEIxBt_21.346422_-158.084461@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205248,
+    "wof:geomhash":"78caff0d54cf3cc6f36dddb0727dbc58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857645261
+        }
+    ],
+    "wof:id":857645261,
+    "wof:lastmodified":1464205248,
+    "wof:name":"Wally Wok",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -158.084461,
+    21.346422,
+    -158.084461,
+    21.346422
+],
+  "geometry": {"coordinates":[-158.084461,21.346422],"type":"Point"}
+}

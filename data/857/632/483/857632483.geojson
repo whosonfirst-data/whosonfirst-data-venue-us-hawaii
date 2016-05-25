@@ -1,0 +1,74 @@
+{
+  "id": 857632483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830683,21.280949,-157.830683,21.280949",
+    "geom:latitude":21.280949,
+    "geom:longitude":-157.830683,
+    "iso:country":"US",
+    "sg:address":"234 Beach Walk",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 4605",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.vipcarrentalhawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KeNsnUgDabR2mNsDbnv8O_21.280949_-157.830683@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204732,
+    "wof:geomhash":"576f8b64eefbf600c24fd047c6c0aedc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857632483
+        }
+    ],
+    "wof:id":857632483,
+    "wof:lastmodified":1464204732,
+    "wof:name":"VIP Car Rental",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.830683,
+    21.280949,
+    -157.830683,
+    21.280949
+],
+  "geometry": {"coordinates":[-157.83068299999999,21.280949],"type":"Point"}
+}

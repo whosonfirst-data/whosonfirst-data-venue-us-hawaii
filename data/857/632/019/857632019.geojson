@@ -1,0 +1,75 @@
+{
+  "id": 857632019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872514,21.3275,-157.872514,21.3275",
+    "geom:latitude":21.3275,
+    "geom:longitude":-157.872514,
+    "iso:country":"US",
+    "sg:address":"908 Waiakamilo Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3877",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vZNjE29ukvENNMFdvtFYl_21.327500_-157.872514@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204714,
+    "wof:geomhash":"876ff3dd5fb2c280aa9be0cb24833021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857632019
+        }
+    ],
+    "wof:id":857632019,
+    "wof:lastmodified":1464204714,
+    "wof:name":"Ifuku K Radiator Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -157.872514,
+    21.3275,
+    -157.872514,
+    21.3275
+],
+  "geometry": {"coordinates":[-157.872514,21.3275],"type":"Point"}
+}

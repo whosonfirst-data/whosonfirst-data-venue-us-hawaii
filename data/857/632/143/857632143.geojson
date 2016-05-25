@@ -1,0 +1,71 @@
+{
+  "id": 857632143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862323,21.311585,-157.862323,21.311585",
+    "geom:latitude":21.311585,
+    "geom:longitude":-157.862323,
+    "iso:country":"US",
+    "sg:address":"16 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 1129",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BvW7HSL1Z5cVYC8lDHwje_21.311585_-157.862323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204719,
+    "wof:geomhash":"1d091e9f38a9c788f941f07bc45990ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857632143
+        }
+    ],
+    "wof:id":857632143,
+    "wof:lastmodified":1464204719,
+    "wof:name":"Ace of Clubs",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.862323,
+    21.311585,
+    -157.862323,
+    21.311585
+],
+  "geometry": {"coordinates":[-157.862323,21.311585],"type":"Point"}
+}

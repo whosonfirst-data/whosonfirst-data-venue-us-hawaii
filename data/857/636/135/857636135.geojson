@@ -1,0 +1,73 @@
+{
+  "id": 857636135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.680065,21.298584,-157.680065,21.298584",
+    "geom:latitude":21.298584,
+    "geom:longitude":-157.680065,
+    "iso:country":"US",
+    "sg:address":"1035 Kamehame Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 0019",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "private",
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uEWLzjWHe3tulTQgLksL1_21.298584_-157.680065@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204873,
+    "wof:geomhash":"d2b457d840374615d6de0bd45949bf09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857636135
+        }
+    ],
+    "wof:id":857636135,
+    "wof:lastmodified":1464204873,
+    "wof:name":"Loeffelholz Elden",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private",
+        "investigator"
+    ]
+},
+  "bbox": [
+    -157.680065,
+    21.298584,
+    -157.680065,
+    21.298584
+],
+  "geometry": {"coordinates":[-157.68006500000001,21.298584],"type":"Point"}
+}

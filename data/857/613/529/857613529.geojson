@@ -1,0 +1,73 @@
+{
+  "id": 857613529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876125,21.323907,-157.876125,21.323907",
+    "geom:latitude":21.323907,
+    "geom:longitude":-157.876125,
+    "iso:country":"US",
+    "sg:address":"1535 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 4500",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GwP7B0r4rYkfDgHPUzMJa_21.323907_-157.876125@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204293,
+    "wof:geomhash":"85f196831c12be91f59bea892fbed955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857613529
+        }
+    ],
+    "wof:id":857613529,
+    "wof:lastmodified":1464204293,
+    "wof:name":"City Bank",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.876125,
+    21.323907,
+    -157.876125,
+    21.323907
+],
+  "geometry": {"coordinates":[-157.876125,21.323907],"type":"Point"}
+}

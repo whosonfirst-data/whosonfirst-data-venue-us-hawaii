@@ -1,0 +1,71 @@
+{
+  "id": 857566959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.684466,21.300066,-157.684466,21.300066",
+    "geom:latitude":21.300066,
+    "geom:longitude":-157.684466,
+    "iso:country":"US",
+    "sg:address":"978 Wainiha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 3964",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26c23ToRJuaxIJ7pcDiy7S_21.300066_-157.684466@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203297,
+    "wof:geomhash":"c01f7ee9460dfe145bf7753a395e1dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857566959
+        }
+    ],
+    "wof:id":857566959,
+    "wof:lastmodified":1464203297,
+    "wof:name":"Arthur Siu AIA Architect",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.684466,
+    21.300066,
+    -157.684466,
+    21.300066
+],
+  "geometry": {"coordinates":[-157.68446599999999,21.300066],"type":"Point"}
+}

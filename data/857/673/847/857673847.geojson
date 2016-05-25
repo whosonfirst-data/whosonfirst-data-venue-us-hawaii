@@ -1,0 +1,66 @@
+{
+  "id": 857673847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881603,21.326044,-157.881603,21.326044",
+    "geom:latitude":21.326044,
+    "geom:longitude":-157.881603,
+    "iso:country":"US",
+    "sg:address":"1818 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8019",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11nj32pkBvmEHXoKyBL1g1_21.326044_-157.881603@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206481,
+    "wof:geomhash":"4460d62068fa5e42ae71770f318e56ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857673847
+        }
+    ],
+    "wof:id":857673847,
+    "wof:lastmodified":1464206481,
+    "wof:name":"B and J Store",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.881603,
+    21.326044,
+    -157.881603,
+    21.326044
+],
+  "geometry": {"coordinates":[-157.88160300000001,21.326044],"type":"Point"}
+}

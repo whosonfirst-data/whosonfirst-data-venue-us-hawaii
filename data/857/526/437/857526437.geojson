@@ -1,0 +1,71 @@
+{
+  "id": 857526437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.177397,21.406782,-158.177397,21.406782",
+    "geom:latitude":21.406782,
+    "geom:longitude":-158.177397,
+    "iso:country":"US",
+    "sg:address":"827 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 2113",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q8cBKQJjp2rG22O3R4rQ6_21.406782_-158.177397@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202476,
+    "wof:geomhash":"98c2d11ef1c3a4e76e1f557d9fd4bbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857526437
+        }
+    ],
+    "wof:id":857526437,
+    "wof:lastmodified":1464202476,
+    "wof:name":"Mary's Barber Shop",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.177397,
+    21.406782,
+    -158.177397,
+    21.406782
+],
+  "geometry": {"coordinates":[-158.17739700000001,21.406782],"type":"Point"}
+}

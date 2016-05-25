@@ -1,0 +1,73 @@
+{
+  "id": 857511461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.922821,21.364732,-157.922821,21.364732",
+    "geom:latitude":21.364732,
+    "geom:longitude":-157.922821,
+    "iso:country":"US",
+    "sg:address":"1447 Uila St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 5888",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4utJwEnoEDDSGblDC7TQsC_21.364732_-157.922821@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202176,
+    "wof:geomhash":"5ebde2372127c217249e6d4f75edf849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857511461
+        }
+    ],
+    "wof:id":857511461,
+    "wof:lastmodified":1464202176,
+    "wof:name":"ACDG Gallegos Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -157.922821,
+    21.364732,
+    -157.922821,
+    21.364732
+],
+  "geometry": {"coordinates":[-157.922821,21.364732],"type":"Point"}
+}

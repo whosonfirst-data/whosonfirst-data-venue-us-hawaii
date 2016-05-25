@@ -1,0 +1,71 @@
+{
+  "id": 857664959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84036,21.294417,-157.84036,21.294417",
+    "geom:latitude":21.294417,
+    "geom:longitude":-157.84036,
+    "iso:country":"US",
+    "sg:address":"750 Amana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 951 4547",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gOXbczB9OYe772TzwCtcW_21.294417_-157.840360@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206121,
+    "wof:geomhash":"ec29c17e7a03599c4bcdeaf838694681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857664959
+        }
+    ],
+    "wof:id":857664959,
+    "wof:lastmodified":1464206121,
+    "wof:name":"Linus Pauling Jr MD",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -157.84036,
+    21.294417,
+    -157.84036,
+    21.294417
+],
+  "geometry": {"coordinates":[-157.84036,21.294417],"type":"Point"}
+}

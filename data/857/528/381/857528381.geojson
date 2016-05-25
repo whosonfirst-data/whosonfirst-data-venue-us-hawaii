@@ -1,0 +1,73 @@
+{
+  "id": 857528381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.090113,19.725825,-155.090113,19.725825",
+    "geom:latitude":19.725825,
+    "geom:longitude":-155.090113,
+    "iso:country":"US",
+    "sg:address":"319 Wailuku Dr",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 969 1296",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Ll6FxOnrwSjQbeEylknx_19.725825_-155.090113@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202513,
+    "wof:geomhash":"8d31a30fd13f261386b91c9a278c8dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857528381
+        }
+    ],
+    "wof:id":857528381,
+    "wof:lastmodified":1464202513,
+    "wof:name":"Dara Thompson",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -155.090113,
+    19.725825,
+    -155.090113,
+    19.725825
+],
+  "geometry": {"coordinates":[-155.090113,19.725825],"type":"Point"}
+}

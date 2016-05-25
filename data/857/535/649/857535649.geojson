@@ -1,0 +1,76 @@
+{
+  "id": 857535649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799144,21.281899,-157.799144,21.281899",
+    "geom:latitude":21.281899,
+    "geom:longitude":-157.799144,
+    "iso:country":"US",
+    "sg:address":"1145 12th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 9488",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7erAN4tFCrUjhnSmKSZas2_21.281899_-157.799144@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202655,
+    "wof:geomhash":"332a9fee8f415fda48c46841354ea609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857535649
+        }
+    ],
+    "wof:id":857535649,
+    "wof:lastmodified":1464202655,
+    "wof:name":"Crafty Bear",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.799144,
+    21.281899,
+    -157.799144,
+    21.281899
+],
+  "geometry": {"coordinates":[-157.79914400000001,21.281899],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857678243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888609,21.329038,-157.888609,21.329038",
+    "geom:latitude":21.329038,
+    "geom:longitude":-157.888609,
+    "iso:country":"US",
+    "sg:address":"2291 Alahao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5994",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jOtvB0lP91BKTE5sF7A5i_21.329038_-157.888609@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206664,
+    "wof:geomhash":"1939273e870295994f974160305b9d35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857678243
+        }
+    ],
+    "wof:id":857678243,
+    "wof:lastmodified":1464206664,
+    "wof:name":"United Laundry Services Inc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -157.888609,
+    21.329038,
+    -157.888609,
+    21.329038
+],
+  "geometry": {"coordinates":[-157.888609,21.329038],"type":"Point"}
+}

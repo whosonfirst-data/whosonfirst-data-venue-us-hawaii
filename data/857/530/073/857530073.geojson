@@ -1,0 +1,71 @@
+{
+  "id": 857530073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.291276,20.895308,-156.291276,20.895308",
+    "geom:latitude":20.895308,
+    "geom:longitude":-156.291276,
+    "iso:country":"US",
+    "sg:address":"1179 Kaupakalua Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 2525",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ppJDd2EVufYFRHSzS3vM0_20.895308_-156.291276@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202544,
+    "wof:geomhash":"9b5f99e86d6814b3462e08ba96e332c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857530073
+        }
+    ],
+    "wof:id":857530073,
+    "wof:lastmodified":1464202544,
+    "wof:name":"Hooululahui Farms",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -156.291276,
+    20.895308,
+    -156.291276,
+    20.895308
+],
+  "geometry": {"coordinates":[-156.29127600000001,20.895308],"type":"Point"}
+}

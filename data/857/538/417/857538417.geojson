@@ -1,0 +1,71 @@
+{
+  "id": 857538417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.718431,21.287675,-157.718431,21.287675",
+    "geom:latitude":21.287675,
+    "geom:longitude":-157.718431,
+    "iso:country":"US",
+    "sg:address":"6244 Milolii Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 6601",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kk4plDMQhQnSob26fqXg2_21.287675_-157.718431@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202706,
+    "wof:geomhash":"6da2b9b9c34ae0a76ff680913acd4688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857538417
+        }
+    ],
+    "wof:id":857538417,
+    "wof:lastmodified":1464202706,
+    "wof:name":"James Kellar & Assoc",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.718431,
+    21.287675,
+    -157.718431,
+    21.287675
+],
+  "geometry": {"coordinates":[-157.71843100000001,21.287675],"type":"Point"}
+}

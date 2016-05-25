@@ -1,0 +1,73 @@
+{
+  "id": 857659883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856995,21.3009,-157.856995,21.3009",
+    "geom:latitude":21.3009,
+    "geom:longitude":-157.856995,
+    "iso:country":"US",
+    "sg:address":"716 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2111",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l1E34wUK64d6oG1IVLy3R_21.300900_-157.856995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205899,
+    "wof:geomhash":"bd5592480487b8f208116dd2a929086a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857659883
+        }
+    ],
+    "wof:id":857659883,
+    "wof:lastmodified":1464205899,
+    "wof:name":"Daytona Auto Ctr Corp",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.856995,
+    21.3009,
+    -157.856995,
+    21.3009
+],
+  "geometry": {"coordinates":[-157.85699500000001,21.3009],"type":"Point"}
+}

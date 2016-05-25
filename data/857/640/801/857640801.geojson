@@ -1,0 +1,73 @@
+{
+  "id": 857640801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867059,21.316064,-157.867059,21.316064",
+    "geom:latitude":21.316064,
+    "geom:longitude":-157.867059,
+    "iso:country":"US",
+    "sg:address":"818 Iwilei Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 5375",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UgDTO5HoI3Z2PBL2rFz5E_21.316064_-157.867059@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205055,
+    "wof:geomhash":"fd747750fd5b8b6efbb2c0e18b89b50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857640801
+        }
+    ],
+    "wof:id":857640801,
+    "wof:lastmodified":1464205055,
+    "wof:name":"Lam Auto Repair",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.867059,
+    21.316064,
+    -157.867059,
+    21.316064
+],
+  "geometry": {"coordinates":[-157.86705900000001,21.316064],"type":"Point"}
+}

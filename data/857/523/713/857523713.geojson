@@ -1,0 +1,71 @@
+{
+  "id": 857523713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.923113,20.827656,-156.923113,20.827656",
+    "geom:latitude":20.827656,
+    "geom:longitude":-156.923113,
+    "iso:country":"US",
+    "sg:address":"834 Gay St",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 6061",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OwMpJD7kjEey9ZUzWXAIY_20.827656_-156.923113@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202425,
+    "wof:geomhash":"5bf992e8a2be727537b8a66dc30356f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857523713
+        }
+    ],
+    "wof:id":857523713,
+    "wof:lastmodified":1464202425,
+    "wof:name":"SRS Distributors",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -156.923113,
+    20.827656,
+    -156.923113,
+    20.827656
+],
+  "geometry": {"coordinates":[-156.923113,20.827656],"type":"Point"}
+}

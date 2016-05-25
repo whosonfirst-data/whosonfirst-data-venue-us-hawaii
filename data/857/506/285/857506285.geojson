@@ -1,0 +1,73 @@
+{
+  "id": 857506285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833303,21.312469,-157.833303,21.312469",
+    "geom:latitude":21.312469,
+    "geom:longitude":-157.833303,
+    "iso:country":"US",
+    "sg:address":"2112 Mott Smith Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 643 4063",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SQAS6g23kKAxhd50vMjxK_21.312469_-157.833303@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202065,
+    "wof:geomhash":"986c8e58d6c310e74f75dfd3679525ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857506285
+        }
+    ],
+    "wof:id":857506285,
+    "wof:lastmodified":1464202065,
+    "wof:name":"Pacific Lending Group",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -157.833303,
+    21.312469,
+    -157.833303,
+    21.312469
+],
+  "geometry": {"coordinates":[-157.833303,21.312469],"type":"Point"}
+}

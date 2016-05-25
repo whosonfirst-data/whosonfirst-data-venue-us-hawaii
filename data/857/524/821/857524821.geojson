@@ -1,0 +1,80 @@
+{
+  "id": 857524821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.940525,21.387198,-157.940525,21.387198",
+    "geom:latitude":21.387198,
+    "geom:longitude":-157.940525,
+    "iso:country":"US",
+    "sg:address":"282 Ualo St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 1332",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "owner",
+        "apartment",
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l6QSmglsEDxKzAVhRMH6y_21.387198_-157.940525@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202447,
+    "wof:geomhash":"17e210851cc4748802a3769eb3347bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857524821
+        }
+    ],
+    "wof:id":857524821,
+    "wof:lastmodified":1464202447,
+    "wof:name":"Pacific Village & Annex",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "apartment",
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.940525,
+    21.387198,
+    -157.940525,
+    21.387198
+],
+  "geometry": {"coordinates":[-157.94052500000001,21.387198],"type":"Point"}
+}

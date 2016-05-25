@@ -1,0 +1,71 @@
+{
+  "id": 857645367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87871,21.351499,-157.87871,21.351499",
+    "geom:latitude":21.351499,
+    "geom:longitude":-157.87871,
+    "iso:country":"US",
+    "sg:address":"1255 Herian Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 1198",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tN6iuFEF4jQU6tRPM9RYF_21.351499_-157.878710@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205252,
+    "wof:geomhash":"168089cb76073e2a73340b172e995a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857645367
+        }
+    ],
+    "wof:id":857645367,
+    "wof:lastmodified":1464205252,
+    "wof:name":"Our Catholic Faith Inc",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -157.87871,
+    21.351499,
+    -157.87871,
+    21.351499
+],
+  "geometry": {"coordinates":[-157.87871000000001,21.351499],"type":"Point"}
+}

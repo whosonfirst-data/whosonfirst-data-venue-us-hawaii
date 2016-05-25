@@ -1,0 +1,73 @@
+{
+  "id": 857668103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835732,21.305673,-157.835732,21.305673",
+    "geom:latitude":21.305673,
+    "geom:longitude":-157.835732,
+    "iso:country":"US",
+    "sg:address":"1333 Moku Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 1425",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fI8HRsR4J2FKlxYRk6Qw7_21.305673_-157.835732@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206262,
+    "wof:geomhash":"47d5fe60c11e1b9190a815ca311648ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857668103
+        }
+    ],
+    "wof:id":857668103,
+    "wof:lastmodified":1464206262,
+    "wof:name":"A A Affordable Locksmith",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.835732,
+    21.305673,
+    -157.835732,
+    21.305673
+],
+  "geometry": {"coordinates":[-157.83573200000001,21.305673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857662185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.79054,19.948079,-155.79054,19.948079",
+    "geom:latitude":19.948079,
+    "geom:longitude":-155.79054,
+    "iso:country":"US",
+    "sg:address":"1707 Makuakane St",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 883 2777",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W94ijrWOKlccWK8Zv1efe_19.948079_-155.790540@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206018,
+    "wof:geomhash":"ef4a7be785ef2fa1e42f3aa6f0c810b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857662185
+        }
+    ],
+    "wof:id":857662185,
+    "wof:lastmodified":1464206018,
+    "wof:name":"Concrete Pool & Spa",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -155.79054,
+    19.948079,
+    -155.79054,
+    19.948079
+],
+  "geometry": {"coordinates":[-155.79053999999999,19.948079],"type":"Point"}
+}

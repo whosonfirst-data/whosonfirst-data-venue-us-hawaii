@@ -1,0 +1,73 @@
+{
+  "id": 857664663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.063605,21.337045,-158.063605,21.337045",
+    "geom:latitude":21.337045,
+    "geom:longitude":-158.063605,
+    "iso:country":"US",
+    "sg:address":"1012 Kanehoalani St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 216 6277",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "distribution",
+        "product",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kvYEfXUvLkqW5eaPaeQcP_21.337045_-158.063605@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206111,
+    "wof:geomhash":"4443a9e6455e39366f95aae99d19b7bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857664663
+        }
+    ],
+    "wof:id":857664663,
+    "wof:lastmodified":1464206111,
+    "wof:name":"Napoleon Communications",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "product",
+        "training"
+    ]
+},
+  "bbox": [
+    -158.063605,
+    21.337045,
+    -158.063605,
+    21.337045
+],
+  "geometry": {"coordinates":[-158.063605,21.337045],"type":"Point"}
+}

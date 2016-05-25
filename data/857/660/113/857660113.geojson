@@ -1,0 +1,71 @@
+{
+  "id": 857660113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.121106,21.333122,-158.121106,21.333122",
+    "geom:latitude":21.333122,
+    "geom:longitude":-158.121106,
+    "iso:country":"US",
+    "sg:address":"101 Mauloa Pl",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 679 0950",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "resort"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cIHbRBsD42snknZfPKrmM_21.333122_-158.121106@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205912,
+    "wof:geomhash":"b52cde4bf5a5e4424376e9da79a7da1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857660113
+        }
+    ],
+    "wof:id":857660113,
+    "wof:lastmodified":1464205912,
+    "wof:name":"Mariott Ko Olina",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort"
+    ]
+},
+  "bbox": [
+    -158.121106,
+    21.333122,
+    -158.121106,
+    21.333122
+],
+  "geometry": {"coordinates":[-158.121106,21.333122],"type":"Point"}
+}

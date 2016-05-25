@@ -1,0 +1,69 @@
+{
+  "id": 857643227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.027296,21.50128,-158.027296,21.50128",
+    "geom:latitude":21.50128,
+    "geom:longitude":-158.027296,
+    "iso:country":"US",
+    "sg:address":"322 Palm St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6949",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HBisM1cJdAgxbZNfUYNer_21.501280_-158.027296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205156,
+    "wof:geomhash":"e2e23717664665696aca5c2875da0c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857643227
+        }
+    ],
+    "wof:id":857643227,
+    "wof:lastmodified":1464205156,
+    "wof:name":"Hawaii Tofu",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -158.027296,
+    21.50128,
+    -158.027296,
+    21.50128
+],
+  "geometry": {"coordinates":[-158.02729600000001,21.50128],"type":"Point"}
+}

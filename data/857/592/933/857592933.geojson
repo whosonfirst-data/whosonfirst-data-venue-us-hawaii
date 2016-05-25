@@ -1,0 +1,71 @@
+{
+  "id": 857592933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823641,21.302301,-157.823641,21.302301",
+    "geom:latitude":21.302301,
+    "geom:longitude":-157.823641,
+    "iso:country":"US",
+    "sg:address":"2151 Atherton Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 4485",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "firm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jsvc2F1xTCmxt8DGxf8sl_21.302301_-157.823641@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203825,
+    "wof:geomhash":"8b2c01f552f52d012c4a97b923bc61be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857592933
+        }
+    ],
+    "wof:id":857592933,
+    "wof:lastmodified":1464203825,
+    "wof:name":"Manoarchitects",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm"
+    ]
+},
+  "bbox": [
+    -157.823641,
+    21.302301,
+    -157.823641,
+    21.302301
+],
+  "geometry": {"coordinates":[-157.82364100000001,21.302301],"type":"Point"}
+}

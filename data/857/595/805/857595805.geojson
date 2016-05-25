@@ -1,0 +1,75 @@
+{
+  "id": 857595805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.708108,21.276757,-157.708108,21.276757",
+    "geom:latitude":21.276757,
+    "geom:longitude":-157.708108,
+    "iso:country":"US",
+    "sg:address":"249 Portlock Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0704",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Z7Ria5WIA5V4NlXGAtQO_21.276757_-157.708108@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203891,
+    "wof:geomhash":"7e87a30a0cfbac7647a61fdd1ffd054a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857595805
+        }
+    ],
+    "wof:id":857595805,
+    "wof:lastmodified":1464203891,
+    "wof:name":"Holopapa",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.708108,
+    21.276757,
+    -157.708108,
+    21.276757
+],
+  "geometry": {"coordinates":[-157.70810800000001,21.276757],"type":"Point"}
+}

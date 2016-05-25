@@ -1,0 +1,92 @@
+{
+  "id": 857635933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.9024,21.332995,-157.9024,21.332995",
+    "geom:latitude":21.332995,
+    "geom:longitude":-157.9024,
+    "iso:country":"US",
+    "sg:address":"2978 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 372 9451",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ],
+    "sg:website":"www.europeanautotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ViTLzvi55dQkFu3eEAnCe_21.332995_-157.902400@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204866,
+    "wof:geomhash":"adc395f886f2bb452ef7dc7009cf7ec5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857635933
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857635933
+        }
+    ],
+    "wof:id":857635933,
+    "wof:lastmodified":1464204866,
+    "wof:name":"European Autotech Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.9024,
+    21.332995,
+    -157.9024,
+    21.332995
+],
+  "geometry": {"coordinates":[-157.9024,21.332995],"type":"Point"}
+}

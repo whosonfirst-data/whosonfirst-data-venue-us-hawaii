@@ -1,0 +1,66 @@
+{
+  "id": 857677431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83219,21.313145,-157.83219,21.313145",
+    "geom:latitude":21.313145,
+    "geom:longitude":-157.83219,
+    "iso:country":"US",
+    "sg:address":"2439 Makiki Heights Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 7187",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yQkXYJIv3IbVmpQWmfIpQ_21.313145_-157.832190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206630,
+    "wof:geomhash":"782105857c7e73132a58099b42064dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857677431
+        }
+    ],
+    "wof:id":857677431,
+    "wof:lastmodified":1464206630,
+    "wof:name":"John Shimokawa DDS",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.83219,
+    21.313145,
+    -157.83219,
+    21.313145
+],
+  "geometry": {"coordinates":[-157.83219,21.313145],"type":"Point"}
+}

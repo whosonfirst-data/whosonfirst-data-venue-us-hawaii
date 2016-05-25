@@ -1,0 +1,71 @@
+{
+  "id": 857624317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831706,21.297335,-157.831706,21.297335",
+    "geom:latitude":21.297335,
+    "geom:longitude":-157.831706,
+    "iso:country":"US",
+    "sg:address":"1775 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 592 2500",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gI8i9eJmK3IGw6guj4C0z_21.297335_-157.831706@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204549,
+    "wof:geomhash":"5eb0a83a1136c501f1f8ecc127f8978f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857624317
+        }
+    ],
+    "wof:id":857624317,
+    "wof:lastmodified":1464204549,
+    "wof:name":"Family Ministries Ctr",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -157.831706,
+    21.297335,
+    -157.831706,
+    21.297335
+],
+  "geometry": {"coordinates":[-157.831706,21.297335],"type":"Point"}
+}

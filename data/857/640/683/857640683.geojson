@@ -1,0 +1,71 @@
+{
+  "id": 857640683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872186,21.338102,-157.872186,21.338102",
+    "geom:latitude":21.338102,
+    "geom:longitude":-157.872186,
+    "iso:country":"US",
+    "sg:address":"1512 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1461",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_724OKlqbXkjAMSpZrJxvcq_21.338102_-157.872186@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205051,
+    "wof:geomhash":"7f6c379778e1ee0faa755d151bb1d7f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857640683
+        }
+    ],
+    "wof:id":857640683,
+    "wof:lastmodified":1464205051,
+    "wof:name":"Gulick Deli & Coffee Shop",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.872186,
+    21.338102,
+    -157.872186,
+    21.338102
+],
+  "geometry": {"coordinates":[-157.872186,21.338102],"type":"Point"}
+}

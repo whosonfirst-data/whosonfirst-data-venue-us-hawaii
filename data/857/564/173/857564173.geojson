@@ -1,0 +1,71 @@
+{
+  "id": 857564173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815005,21.257045,-157.815005,21.257045",
+    "geom:latitude":21.257045,
+    "geom:longitude":-157.815005,
+    "iso:country":"US",
+    "sg:address":"3200 Diamond Head Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 3430",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15BPgXmEOqz9OvLasEqEyM_21.257045_-157.815005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203241,
+    "wof:geomhash":"47d6c39f3921dca02c4bd001b466f91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857564173
+        }
+    ],
+    "wof:id":857564173,
+    "wof:lastmodified":1464203241,
+    "wof:name":"Gretzinger Corp",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -157.815005,
+    21.257045,
+    -157.815005,
+    21.257045
+],
+  "geometry": {"coordinates":[-157.81500500000001,21.257045],"type":"Point"}
+}

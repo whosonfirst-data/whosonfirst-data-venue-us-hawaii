@@ -1,0 +1,69 @@
+{
+  "id": 857539615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.58622,21.911204,-159.58622,21.911204",
+    "geom:latitude":21.911204,
+    "geom:longitude":-159.58622,
+    "iso:country":"US",
+    "sg:address":"3864 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 5522",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gyEfbH5VdaZF8WJm5x2wU_21.911204_-159.586220@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202730,
+    "wof:geomhash":"06acc9add4030368ff7e6a72b106f932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857539615
+        }
+    ],
+    "wof:id":857539615,
+    "wof:lastmodified":1464202730,
+    "wof:name":"Aloha Spirits",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -159.58622,
+    21.911204,
+    -159.58622,
+    21.911204
+],
+  "geometry": {"coordinates":[-159.58622,21.911204],"type":"Point"}
+}

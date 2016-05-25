@@ -1,0 +1,74 @@
+{
+  "id": 857627985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861723,21.311999,-157.861723,21.311999",
+    "geom:latitude":21.311999,
+    "geom:longitude":-157.861723,
+    "iso:country":"US",
+    "sg:address":"11 N Pauahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 7070",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.diamondheadtravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tsorNr35Kw0m4V0qSOA2x_21.311999_-157.861723@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204622,
+    "wof:geomhash":"eb3c42ad123ba8ffbac7778777d26e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857627985
+        }
+    ],
+    "wof:id":857627985,
+    "wof:lastmodified":1464204622,
+    "wof:name":"Diamond Head Travel",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.861723,
+    21.311999,
+    -157.861723,
+    21.311999
+],
+  "geometry": {"coordinates":[-157.86172300000001,21.311999],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857596771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011558,21.50337,-158.011558,21.50337",
+    "geom:latitude":21.50337,
+    "geom:longitude":-158.011558,
+    "iso:country":"US",
+    "sg:address":"1752 Nakula St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1124",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30I1iaUcDEbGlo7ss3sAuy_21.503370_-158.011558@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203919,
+    "wof:geomhash":"e79254b17e365d8d8404e78876895be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857596771
+        }
+    ],
+    "wof:id":857596771,
+    "wof:lastmodified":1464203919,
+    "wof:name":"Complete Carpet Cleaning",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -158.011558,
+    21.50337,
+    -158.011558,
+    21.50337
+],
+  "geometry": {"coordinates":[-158.01155800000001,21.50337],"type":"Point"}
+}

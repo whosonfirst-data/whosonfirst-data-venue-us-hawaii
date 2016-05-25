@@ -1,0 +1,69 @@
+{
+  "id": 857643821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02828,21.384236,-158.02828,21.384236",
+    "geom:latitude":21.384236,
+    "geom:longitude":-158.02828,
+    "iso:country":"US",
+    "sg:address":"144 Hulahe St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 3796",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NwqPwyb9mPfBmEEo6nI4e_21.384236_-158.028280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205187,
+    "wof:geomhash":"5a611105ab22fda646148865b098e969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857643821
+        }
+    ],
+    "wof:id":857643821,
+    "wof:lastmodified":1464205187,
+    "wof:name":"Waipahu Plumbing",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.02828,
+    21.384236,
+    -158.02828,
+    21.384236
+],
+  "geometry": {"coordinates":[-158.02828,21.384236],"type":"Point"}
+}

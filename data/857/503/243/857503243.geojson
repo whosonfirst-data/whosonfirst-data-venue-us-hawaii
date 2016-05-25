@@ -1,0 +1,69 @@
+{
+  "id": 857503243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.354494,21.993182,-159.354494,21.993182",
+    "geom:latitude":21.993182,
+    "geom:longitude":-159.354494,
+    "iso:country":"US",
+    "sg:address":"4406 Laulima St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7941",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RjMgPVxst1pqEfoyd0Eb2_21.993182_-159.354494@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201990,
+    "wof:geomhash":"c475ef9cf76258bb3734b57e55355485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857503243
+        }
+    ],
+    "wof:id":857503243,
+    "wof:lastmodified":1464201990,
+    "wof:name":"Henry's Builders",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.354494,
+    21.993182,
+    -159.354494,
+    21.993182
+],
+  "geometry": {"coordinates":[-159.35449399999999,21.993182],"type":"Point"}
+}

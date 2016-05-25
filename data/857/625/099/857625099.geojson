@@ -1,0 +1,75 @@
+{
+  "id": 857625099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88397,21.330435,-157.88397,21.330435",
+    "geom:latitude":21.330435,
+    "geom:longitude":-157.88397,
+    "iso:country":"US",
+    "sg:address":"2199 Kamehameha Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 1777",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kvt3aUbc7CG5bF2KvIh1L_21.330435_-157.883970@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204563,
+    "wof:geomhash":"4d3081d87ef96f2e3b20dc3829165bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857625099
+        }
+    ],
+    "wof:id":857625099,
+    "wof:lastmodified":1464204563,
+    "wof:name":"Oahu Community Correctional",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -157.88397,
+    21.330435,
+    -157.88397,
+    21.330435
+],
+  "geometry": {"coordinates":[-157.88397000000001,21.330435],"type":"Point"}
+}

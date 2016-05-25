@@ -1,0 +1,71 @@
+{
+  "id": 857616329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744917,21.288546,-157.744917,21.288546",
+    "geom:latitude":21.288546,
+    "geom:longitude":-157.744917,
+    "iso:country":"US",
+    "sg:address":"149 Kaulana Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 1324",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VCpLRevTzeg15E8favfit_21.288546_-157.744917@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204345,
+    "wof:geomhash":"bfca25ba832a6e7f17fcdb8dc10c0109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857616329
+        }
+    ],
+    "wof:id":857616329,
+    "wof:lastmodified":1464204345,
+    "wof:name":"Island Ukulele Co",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.744917,
+    21.288546,
+    -157.744917,
+    21.288546
+],
+  "geometry": {"coordinates":[-157.74491699999999,21.288546],"type":"Point"}
+}

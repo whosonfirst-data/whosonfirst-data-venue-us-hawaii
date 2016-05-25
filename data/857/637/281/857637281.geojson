@@ -1,0 +1,71 @@
+{
+  "id": 857637281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.361901,22.095274,-159.361901,22.095274",
+    "geom:latitude":22.095274,
+    "geom:longitude":-159.361901,
+    "iso:country":"US",
+    "sg:address":"6470 Kawaihau Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3383",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w4L3GObJFcuyl9HxG85HW_22.095274_-159.361901@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204915,
+    "wof:geomhash":"ccaa5844990420921d50b71e673097f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857637281
+        }
+    ],
+    "wof:id":857637281,
+    "wof:lastmodified":1464204915,
+    "wof:name":"J R Electric",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.361901,
+    22.095274,
+    -159.361901,
+    22.095274
+],
+  "geometry": {"coordinates":[-159.36190099999999,22.095274],"type":"Point"}
+}

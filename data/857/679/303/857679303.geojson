@@ -1,0 +1,71 @@
+{
+  "id": 857679303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.667958,21.291563,-157.667958,21.291563",
+    "geom:latitude":21.291563,
+    "geom:longitude":-157.667958,
+    "iso:country":"US",
+    "sg:address":"296 Kipukai Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 342 8965",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "brewery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MnkirlJJZEitAvNGBoPl9_21.291563_-157.667958@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206703,
+    "wof:geomhash":"2b8746bb82ed10462d657256b7a85942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857679303
+        }
+    ],
+    "wof:id":857679303,
+    "wof:lastmodified":1464206703,
+    "wof:name":"Royal Hawaiian Brewing Co",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewery"
+    ]
+},
+  "bbox": [
+    -157.667958,
+    21.291563,
+    -157.667958,
+    21.291563
+],
+  "geometry": {"coordinates":[-157.667958,21.291563],"type":"Point"}
+}

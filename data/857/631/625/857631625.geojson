@@ -1,0 +1,66 @@
+{
+  "id": 857631625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927966,21.362019,-157.927966,21.362019",
+    "geom:latitude":21.362019,
+    "geom:longitude":-157.927966,
+    "iso:country":"US",
+    "sg:address":"4561 Salt Lake Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 5645",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34MRP84rPFn68DN3V9Gtkf_21.362019_-157.927966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204700,
+    "wof:geomhash":"2818db17cb23c1780d8845217f1c148a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857631625
+        }
+    ],
+    "wof:id":857631625,
+    "wof:lastmodified":1464204700,
+    "wof:name":"American Savings Bank",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.927966,
+    21.362019,
+    -157.927966,
+    21.362019
+],
+  "geometry": {"coordinates":[-157.927966,21.362019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857505467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004838,21.380653,-158.004838,21.380653",
+    "geom:latitude":21.380653,
+    "geom:longitude":-158.004838,
+    "iso:country":"US",
+    "sg:address":"71 Waipahu Depot St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 8878",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WcuZPhh1LKLPUy7vYew61_21.380653_-158.004838@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202047,
+    "wof:geomhash":"ccef8f7431bf90d45f4acda2a2ad8ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857505467
+        }
+    ],
+    "wof:id":857505467,
+    "wof:lastmodified":1464202047,
+    "wof:name":"Waipahu Convenience Ctr",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -158.004838,
+    21.380653,
+    -158.004838,
+    21.380653
+],
+  "geometry": {"coordinates":[-158.00483800000001,21.380653],"type":"Point"}
+}

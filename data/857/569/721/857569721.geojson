@@ -1,0 +1,71 @@
+{
+  "id": 857569721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.082597,21.355541,-158.082597,21.355541",
+    "geom:latitude":21.355541,
+    "geom:longitude":-158.082597,
+    "iso:country":"US",
+    "sg:address":"914 Welo St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 9317",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z4WTI79YWfTQpvWMbdH32_21.355541_-158.082597@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203347,
+    "wof:geomhash":"f29393f274e207bc3a7c1ff96f1c4d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857569721
+        }
+    ],
+    "wof:id":857569721,
+    "wof:lastmodified":1464203347,
+    "wof:name":"R & M Service",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -158.082597,
+    21.355541,
+    -158.082597,
+    21.355541
+],
+  "geometry": {"coordinates":[-158.08259699999999,21.355541],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857631621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.714134,21.384324,-157.714134,21.384324",
+    "geom:latitude":21.384324,
+    "geom:longitude":-157.714134,
+    "iso:country":"US",
+    "sg:address":"1445 Kehaulani Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 1237",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qEnZ64J89RtsudIq2TBQC_21.384324_-157.714134@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204700,
+    "wof:geomhash":"6ad04f9a56c668d8f6d19b96630b1fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857631621
+        }
+    ],
+    "wof:id":857631621,
+    "wof:lastmodified":1464204700,
+    "wof:name":"Global Wedding",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -157.714134,
+    21.384324,
+    -157.714134,
+    21.384324
+],
+  "geometry": {"coordinates":[-157.714134,21.384324],"type":"Point"}
+}

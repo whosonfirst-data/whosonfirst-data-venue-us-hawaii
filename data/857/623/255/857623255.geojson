@@ -1,0 +1,75 @@
+{
+  "id": 857623255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.34977,20.844476,-156.34977,20.844476",
+    "geom:latitude":20.844476,
+    "geom:longitude":-156.34977,
+    "iso:country":"US",
+    "sg:address":"2849 Ipolani St",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 7782",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WwXwLAlqqtRgG2p3RKVXk_20.844476_-156.349770@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204513,
+    "wof:geomhash":"235c813e661bc5200af03817d9ace87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857623255
+        }
+    ],
+    "wof:id":857623255,
+    "wof:lastmodified":1464204513,
+    "wof:name":"Sunrise Electrical Inc",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.34977,
+    20.844476,
+    -156.34977,
+    20.844476
+],
+  "geometry": {"coordinates":[-156.34977000000001,20.844476],"type":"Point"}
+}

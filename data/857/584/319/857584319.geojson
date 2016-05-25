@@ -1,0 +1,73 @@
+{
+  "id": 857584319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930416,21.368917,-157.930416,21.368917",
+    "geom:latitude":21.368917,
+    "geom:longitude":-157.930416,
+    "iso:country":"US",
+    "sg:address":"193 Kalaloa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 1115",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30icPZ5jGXTRgUY9sc5dhz_21.368917_-157.930416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203630,
+    "wof:geomhash":"32d7024efe81acd0fb822dbaeced2030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857584319
+        }
+    ],
+    "wof:id":857584319,
+    "wof:lastmodified":1464203630,
+    "wof:name":"Burdick Dwight D Construction",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.930416,
+    21.368917,
+    -157.930416,
+    21.368917
+],
+  "geometry": {"coordinates":[-157.93041600000001,21.368917],"type":"Point"}
+}

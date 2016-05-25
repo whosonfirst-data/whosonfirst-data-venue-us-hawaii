@@ -1,0 +1,71 @@
+{
+  "id": 857656011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80227,21.301337,-157.80227,21.301337",
+    "geom:latitude":21.301337,
+    "geom:longitude":-157.80227,
+    "iso:country":"US",
+    "sg:address":"2377 Saint Louis Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 783 2314",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "meeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M9cfufP0p8UfKrmJBCIci_21.301337_-157.802270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205724,
+    "wof:geomhash":"ddac7196943e511d6b3b90cf27056979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857656011
+        }
+    ],
+    "wof:id":857656011,
+    "wof:lastmodified":1464205724,
+    "wof:name":"Donna Ching",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meeting"
+    ]
+},
+  "bbox": [
+    -157.80227,
+    21.301337,
+    -157.80227,
+    21.301337
+],
+  "geometry": {"coordinates":[-157.80226999999999,21.301337],"type":"Point"}
+}

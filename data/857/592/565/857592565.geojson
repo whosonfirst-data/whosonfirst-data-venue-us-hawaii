@@ -1,0 +1,68 @@
+{
+  "id": 857592565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.07007,19.723702,-155.07007,19.723702",
+    "geom:latitude":19.723702,
+    "geom:longitude":-155.07007,
+    "iso:country":"US",
+    "sg:address":"93 Lihiwai St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 969 3434",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NKBuLHly5zfiX9E1JEiS_19.723702_-155.070070@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203818,
+    "wof:geomhash":"3c09d9c7231638b411b490847700c00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857592565
+        }
+    ],
+    "wof:id":857592565,
+    "wof:lastmodified":1464203818,
+    "wof:name":"Isles Cafe",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.07007,
+    19.723702,
+    -155.07007,
+    19.723702
+],
+  "geometry": {"coordinates":[-155.07006999999999,19.723702],"type":"Point"}
+}

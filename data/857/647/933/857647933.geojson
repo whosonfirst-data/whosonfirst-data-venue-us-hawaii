@@ -1,0 +1,71 @@
+{
+  "id": 857647933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827315,21.331042,-157.827315,21.331042",
+    "geom:latitude":21.331042,
+    "geom:longitude":-157.827315,
+    "iso:country":"US",
+    "sg:address":"2740 Booth Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3068",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24JEYp2MSKbsrFO3xfGSvR_21.331042_-157.827315@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205374,
+    "wof:geomhash":"c383a6679ce2ea7bd476b50b9d4bb7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857647933
+        }
+    ],
+    "wof:id":857647933,
+    "wof:lastmodified":1464205374,
+    "wof:name":"Iredale Construction",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.827315,
+    21.331042,
+    -157.827315,
+    21.331042
+],
+  "geometry": {"coordinates":[-157.827315,21.331042],"type":"Point"}
+}

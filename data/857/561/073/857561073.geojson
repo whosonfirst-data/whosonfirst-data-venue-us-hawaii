@@ -1,0 +1,73 @@
+{
+  "id": 857561073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.078587,21.33811,-158.078587,21.33811",
+    "geom:latitude":21.33811,
+    "geom:longitude":-158.078587,
+    "iso:country":"US",
+    "sg:address":"555 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 2664",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shopping",
+        "center",
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02cuImmyT2P3780WFDslgC_21.338110_-158.078587@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203184,
+    "wof:geomhash":"ec0d555ec15abdb06f3c9dde217ad055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857561073
+        }
+    ],
+    "wof:id":857561073,
+    "wof:lastmodified":1464203184,
+    "wof:name":"Kapolei Shopping Mall Dev",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shopping",
+        "center",
+        "developer"
+    ]
+},
+  "bbox": [
+    -158.078587,
+    21.33811,
+    -158.078587,
+    21.33811
+],
+  "geometry": {"coordinates":[-158.078587,21.33811],"type":"Point"}
+}

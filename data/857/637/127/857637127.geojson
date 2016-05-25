@@ -1,0 +1,77 @@
+{
+  "id": 857637127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914147,21.336811,-157.914147,21.336811",
+    "geom:latitude":21.336811,
+    "geom:longitude":-157.914147,
+    "iso:country":"US",
+    "sg:address":"3253 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 8889",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment",
+        "dwelling",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Eri96djCMSTueAZXhK6X_21.336811_-157.914147@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204909,
+    "wof:geomhash":"fe4a368dbcd828cb1e3171f587c294b9",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857637127
+        }
+    ],
+    "wof:id":857637127,
+    "wof:lastmodified":1464204909,
+    "wof:name":"Grace Business Dev Corp",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "dwelling",
+        "except"
+    ]
+},
+  "bbox": [
+    -157.914147,
+    21.336811,
+    -157.914147,
+    21.336811
+],
+  "geometry": {"coordinates":[-157.91414700000001,21.336811],"type":"Point"}
+}

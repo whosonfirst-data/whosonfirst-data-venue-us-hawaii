@@ -1,0 +1,71 @@
+{
+  "id": 857519369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.349902,22.098525,-159.349902,22.098525",
+    "geom:latitude":22.098525,
+    "geom:longitude":-159.349902,
+    "iso:country":"US",
+    "sg:address":"6201 Kawaihau Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 5099",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5toLUX75am1Wo21mcWhwRL_22.098525_-159.349902@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202338,
+    "wof:geomhash":"d96ab907a79e7af0b5bae9d72dcc373d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857519369
+        }
+    ],
+    "wof:id":857519369,
+    "wof:lastmodified":1464202338,
+    "wof:name":"Cabreira's Plumbing",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.349902,
+    22.098525,
+    -159.349902,
+    22.098525
+],
+  "geometry": {"coordinates":[-159.34990199999999,22.098525],"type":"Point"}
+}

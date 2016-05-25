@@ -1,0 +1,71 @@
+{
+  "id": 857553865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.683864,21.307624,-157.683864,21.307624",
+    "geom:latitude":21.307624,
+    "geom:longitude":-157.683864,
+    "iso:country":"US",
+    "sg:address":"1168 Lunalilo Home Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 9252",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EbCBBLNHWExaeBe3dLT1k_21.307624_-157.683864@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203004,
+    "wof:geomhash":"8a21c9363c05ed52acc21d596bf070ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857553865
+        }
+    ],
+    "wof:id":857553865,
+    "wof:lastmodified":1464203004,
+    "wof:name":"Wesley H Ikeda",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.683864,
+    21.307624,
+    -157.683864,
+    21.307624
+],
+  "geometry": {"coordinates":[-157.683864,21.307624],"type":"Point"}
+}

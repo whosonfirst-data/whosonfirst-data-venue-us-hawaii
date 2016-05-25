@@ -1,0 +1,73 @@
+{
+  "id": 857509847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855932,21.294374,-157.855932,21.294374",
+    "geom:latitude":21.294374,
+    "geom:longitude":-157.855932,
+    "iso:country":"US",
+    "sg:address":"1048 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 2040",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BVs77UgPIoMBv0agnfPYE_21.294374_-157.855932@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202140,
+    "wof:geomhash":"34a3a6c1bc4a534a88477048930eee3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857509847
+        }
+    ],
+    "wof:id":857509847,
+    "wof:lastmodified":1464202140,
+    "wof:name":"Petland Ala Moana",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.855932,
+    21.294374,
+    -157.855932,
+    21.294374
+],
+  "geometry": {"coordinates":[-157.855932,21.294374],"type":"Point"}
+}

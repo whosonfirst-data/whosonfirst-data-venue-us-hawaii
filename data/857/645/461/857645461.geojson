@@ -1,0 +1,71 @@
+{
+  "id": 857645461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.501427,20.89086,-156.501427,20.89086",
+    "geom:latitude":20.89086,
+    "geom:longitude":-156.501427,
+    "iso:country":"US",
+    "sg:address":"70 Kanoa St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7070",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eSYDOfHCPwqCBUKUlIjFh_20.890860_-156.501427@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205257,
+    "wof:geomhash":"a86f13e3a6b28a57e152434c260fca65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857645461
+        }
+    ],
+    "wof:id":857645461,
+    "wof:lastmodified":1464205257,
+    "wof:name":"Interstate Maui Realty Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.501427,
+    20.89086,
+    -156.501427,
+    20.89086
+],
+  "geometry": {"coordinates":[-156.50142700000001,20.89086],"type":"Point"}
+}

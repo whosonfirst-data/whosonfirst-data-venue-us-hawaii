@@ -1,0 +1,71 @@
+{
+  "id": 857664641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932222,21.351333,-157.932222,21.351333",
+    "geom:latitude":21.351333,
+    "geom:longitude":-157.932222,
+    "iso:country":"US",
+    "sg:address":"153 Bougainville Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 1778",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bPU1pi6xtMpHKEoQkJeG2_21.351333_-157.932222@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206109,
+    "wof:geomhash":"954e83ce1f35f2ac5dde174fac681f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857664641
+        }
+    ],
+    "wof:id":857664641,
+    "wof:lastmodified":1464206109,
+    "wof:name":"Navy Hale Keiki School Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.932222,
+    21.351333,
+    -157.932222,
+    21.351333
+],
+  "geometry": {"coordinates":[-157.932222,21.351333],"type":"Point"}
+}

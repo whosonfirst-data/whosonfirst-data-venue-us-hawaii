@@ -1,0 +1,75 @@
+{
+  "id": 857561381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.326611,20.914738,-156.326611,20.914738",
+    "geom:latitude":20.914738,
+    "geom:longitude":-156.326611,
+    "iso:country":"US",
+    "sg:address":"25 Koi Koi Pl",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 7812",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937689,
+        102085577,
+        85890097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A6oZ5ziQDbVno3hSpeiBb_20.914738_-156.326611@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203189,
+    "wof:geomhash":"8f4446fa457ad5472829c433aa4e3cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890097,
+            "region_id":85688671,
+            "venue_id":857561381
+        }
+    ],
+    "wof:id":857561381,
+    "wof:lastmodified":1464203189,
+    "wof:name":"Valley Isle Electric",
+    "wof:parent_id":85890097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.326611,
+    20.914738,
+    -156.326611,
+    20.914738
+],
+  "geometry": {"coordinates":[-156.32661100000001,20.914738],"type":"Point"}
+}

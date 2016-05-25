@@ -1,0 +1,73 @@
+{
+  "id": 857518063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.918542,21.37806,-157.918542,21.37806",
+    "geom:latitude":21.37806,
+    "geom:longitude":-157.918542,
+    "iso:country":"US",
+    "sg:address":"482 Iwaiwa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 2267",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DYKRz0HS3vRYgSoQ7uwWt_21.378060_-157.918542@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202309,
+    "wof:geomhash":"e00b2a56215d8a9c6caea3fcb047ac4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857518063
+        }
+    ],
+    "wof:id":857518063,
+    "wof:lastmodified":1464202309,
+    "wof:name":"Basic Plumbing",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.918542,
+    21.37806,
+    -157.918542,
+    21.37806
+],
+  "geometry": {"coordinates":[-157.918542,21.37806],"type":"Point"}
+}

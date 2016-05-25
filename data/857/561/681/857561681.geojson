@@ -1,0 +1,75 @@
+{
+  "id": 857561681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.527314,21.925489,-159.527314,21.925489",
+    "geom:latitude":21.925489,
+    "geom:longitude":-159.527314,
+    "iso:country":"US",
+    "sg:address":"4489 Papalina Rd",
+    "sg:city":"Kalaheo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 332 8523",
+    "sg:postcode":"96741",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937515,
+        102085457,
+        85890349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QYrRfP2J7vRLTOutMSfuY_21.925489_-159.527314@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203194,
+    "wof:geomhash":"86cfc6b5033760d98e6abf53c89df887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937515,
+            "neighbourhood_id":85890349,
+            "region_id":85688671,
+            "venue_id":857561681
+        }
+    ],
+    "wof:id":857561681,
+    "wof:lastmodified":1464203194,
+    "wof:name":"Kalaheo Clinic Inc",
+    "wof:parent_id":85890349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -159.527314,
+    21.925489,
+    -159.527314,
+    21.925489
+],
+  "geometry": {"coordinates":[-159.52731399999999,21.925489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857651945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971494,21.413016,-157.971494,21.413016",
+    "geom:latitude":21.413016,
+    "geom:longitude":-157.971494,
+    "iso:country":"US",
+    "sg:address":"1350 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 1295",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gt6I9MyX8aSJkcIzPtT0x_21.413016_-157.971494@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205545,
+    "wof:geomhash":"01b4d25c424373283e198f72534ac194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857651945
+        }
+    ],
+    "wof:id":857651945,
+    "wof:lastmodified":1464205545,
+    "wof:name":"Oahu Fire Protection",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -157.971494,
+    21.413016,
+    -157.971494,
+    21.413016
+],
+  "geometry": {"coordinates":[-157.97149400000001,21.413016],"type":"Point"}
+}

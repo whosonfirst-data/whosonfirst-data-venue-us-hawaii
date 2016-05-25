@@ -1,0 +1,69 @@
+{
+  "id": 857579819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.332141,21.990161,-159.332141,21.990161",
+    "geom:latitude":21.990161,
+    "geom:longitude":-159.332141,
+    "iso:country":"US",
+    "sg:address":"3130 Ahukini Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5092",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06H9wlea61ohl6Rq86bhG8_21.990161_-159.332141@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203549,
+    "wof:geomhash":"5bb7f87c34461ed2609a57d63a12ff42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857579819
+        }
+    ],
+    "wof:id":857579819,
+    "wof:lastmodified":1464203549,
+    "wof:name":"Lees Clifford Towing",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -159.332141,
+    21.990161,
+    -159.332141,
+    21.990161
+],
+  "geometry": {"coordinates":[-159.33214100000001,21.990161],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857542997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856027,21.299581,-157.856027,21.299581",
+    "geom:latitude":21.299581,
+    "geom:longitude":-157.856027,
+    "iso:country":"US",
+    "sg:address":"845 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 1001",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TguMt8rrVTjVxFfSg60kt_21.299581_-157.856027@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202801,
+    "wof:geomhash":"94721943fd67954b99ff256b0a665613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857542997
+        }
+    ],
+    "wof:id":857542997,
+    "wof:lastmodified":1464202801,
+    "wof:name":"Island Therapy",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.856027,
+    21.299581,
+    -157.856027,
+    21.299581
+],
+  "geometry": {"coordinates":[-157.85602700000001,21.299581],"type":"Point"}
+}

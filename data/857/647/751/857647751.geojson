@@ -1,0 +1,79 @@
+{
+  "id": 857647751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.202086,20.879513,-156.202086,20.879513",
+    "geom:latitude":20.879513,
+    "geom:longitude":-156.202086,
+    "iso:country":"US",
+    "sg:address":"35 State Hwy 360",
+    "sg:city":"Hana",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 248 8254",
+    "sg:postcode":"96713",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890095,
+        102085577,
+        85890109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_608q0BwnGZGjINpfdXwBiK_20.879513_-156.202086@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205368,
+    "wof:geomhash":"8b36b8b79aa26c946c4d1423e7bb7eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890095,
+            "region_id":85688671,
+            "venue_id":857647751
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890109,
+            "region_id":85688671,
+            "venue_id":857647751
+        }
+    ],
+    "wof:id":857647751,
+    "wof:lastmodified":1464205368,
+    "wof:name":"Public Works Dept Highway Div",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.202086,
+    20.879513,
+    -156.202086,
+    20.879513
+],
+  "geometry": {"coordinates":[-156.20208600000001,20.879513],"type":"Point"}
+}

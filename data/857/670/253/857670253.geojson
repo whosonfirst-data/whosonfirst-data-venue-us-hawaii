@@ -1,0 +1,71 @@
+{
+  "id": 857670253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86404,21.312388,-157.86404,21.312388",
+    "geom:latitude":21.312388,
+    "geom:longitude":-157.86404,
+    "iso:country":"US",
+    "sg:address":"106 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 548 0089",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22tCrX5Xoq85DlUntOLPnf_21.312388_-157.864040@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206349,
+    "wof:geomhash":"bb8914a43900d66ba01a621becb49fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857670253
+        }
+    ],
+    "wof:id":857670253,
+    "wof:lastmodified":1464206349,
+    "wof:name":"Akw Travel Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.86404,
+    21.312388,
+    -157.86404,
+    21.312388
+],
+  "geometry": {"coordinates":[-157.86403999999999,21.312388],"type":"Point"}
+}

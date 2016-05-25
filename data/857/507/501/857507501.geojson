@@ -1,0 +1,71 @@
+{
+  "id": 857507501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02113,21.396813,-158.02113,21.396813",
+    "geom:latitude":21.396813,
+    "geom:longitude":-158.02113,
+    "iso:country":"US",
+    "sg:address":"998 Kaaholo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 8010",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y7ukyZVWUUSmPOTaej9gJ_21.396813_-158.021130@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202096,
+    "wof:geomhash":"5bf257ec36eb971c1c7b054a67515940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857507501
+        }
+    ],
+    "wof:id":857507501,
+    "wof:lastmodified":1464202096,
+    "wof:name":"Jbs Landscape and Maint LLC",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.02113,
+    21.396813,
+    -158.02113,
+    21.396813
+],
+  "geometry": {"coordinates":[-158.02113,21.396813],"type":"Point"}
+}

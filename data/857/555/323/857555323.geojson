@@ -1,0 +1,79 @@
+{
+  "id": 857555323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.915836,21.336026,-157.915836,21.336026",
+    "geom:latitude":21.336026,
+    "geom:longitude":-157.915836,
+    "iso:country":"US",
+    "sg:address":"3375 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 4379",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "medical",
+        "local",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U4nappw940mkjmmVQyamQ_21.336026_-157.915836@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203039,
+    "wof:geomhash":"9d343f48aec0cf1ef1b20b797cf05e51",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857555323
+        }
+    ],
+    "wof:id":857555323,
+    "wof:lastmodified":1464203039,
+    "wof:name":"City & County Emrgncy Med Svc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "medical",
+        "local",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -157.915836,
+    21.336026,
+    -157.915836,
+    21.336026
+],
+  "geometry": {"coordinates":[-157.91583600000001,21.336026],"type":"Point"}
+}

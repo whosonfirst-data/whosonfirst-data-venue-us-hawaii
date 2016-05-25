@@ -1,0 +1,73 @@
+{
+  "id": 857681825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840587,21.297616,-157.840587,21.297616",
+    "geom:latitude":21.297616,
+    "geom:longitude":-157.840587,
+    "iso:country":"US",
+    "sg:address":"910 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/202788-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PijBM402F71Pd1o0O1P1Y_21.297629_-157.840670@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206808,
+    "wof:geomhash":"864faa86562d57203b9d07abc7d22b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681825
+        }
+    ],
+    "wof:id":857681825,
+    "wof:lastmodified":1464206808,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.840587,
+    21.297616,
+    -157.840587,
+    21.297616
+],
+  "geometry": {"coordinates":[-157.840587,21.297616],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857524441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.922319,21.389834,-157.922319,21.389834",
+    "geom:latitude":21.389834,
+    "geom:longitude":-157.922319,
+    "iso:country":"US",
+    "sg:address":"1148 Kaamilo St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 7939",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fjMnkmTtmK6BPrLDzlw5B_21.389834_-157.922319@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202438,
+    "wof:geomhash":"d54e6918b2b8902c1814130b2554ec3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857524441
+        }
+    ],
+    "wof:id":857524441,
+    "wof:lastmodified":1464202438,
+    "wof:name":"Spectrum Painting Inc",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.922319,
+    21.389834,
+    -157.922319,
+    21.389834
+],
+  "geometry": {"coordinates":[-157.92231899999999,21.389834],"type":"Point"}
+}

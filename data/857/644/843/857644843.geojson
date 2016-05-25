@@ -1,0 +1,71 @@
+{
+  "id": 857644843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.784926,21.276069,-157.784926,21.276069",
+    "geom:latitude":21.276069,
+    "geom:longitude":-157.784926,
+    "iso:country":"US",
+    "sg:address":"4614 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 738 5655",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ffHD74QdwGUhpmklECP27_21.276069_-157.784926@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205233,
+    "wof:geomhash":"ed7bf7cbe17125b6595326d2b7fa01c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857644843
+        }
+    ],
+    "wof:id":857644843,
+    "wof:lastmodified":1464205233,
+    "wof:name":"Ye Old Fox and Hounds",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -157.784926,
+    21.276069,
+    -157.784926,
+    21.276069
+],
+  "geometry": {"coordinates":[-157.78492600000001,21.276069],"type":"Point"}
+}

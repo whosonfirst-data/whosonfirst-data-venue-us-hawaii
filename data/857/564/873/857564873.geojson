@@ -1,0 +1,73 @@
+{
+  "id": 857564873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.093016,21.307153,-158.093016,21.307153",
+    "geom:latitude":21.307153,
+    "geom:longitude":-158.093016,
+    "iso:country":"US",
+    "sg:address":"312 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 4221",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plastic",
+        "container",
+        "cup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BnuvXYYKh2aL7PO0Cuir0_21.307153_-158.093016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203253,
+    "wof:geomhash":"7ae8deb68b6e0a241eb36563d0f14cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857564873
+        }
+    ],
+    "wof:id":857564873,
+    "wof:lastmodified":1464203253,
+    "wof:name":"Pacific Cup",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic",
+        "container",
+        "cup"
+    ]
+},
+  "bbox": [
+    -158.093016,
+    21.307153,
+    -158.093016,
+    21.307153
+],
+  "geometry": {"coordinates":[-158.09301600000001,21.307153],"type":"Point"}
+}

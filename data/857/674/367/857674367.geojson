@@ -1,0 +1,73 @@
+{
+  "id": 857674367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020059,21.376131,-158.020059,21.376131",
+    "geom:latitude":21.376131,
+    "geom:longitude":-158.020059,
+    "iso:country":"US",
+    "sg:address":"170 Leoleo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 5357",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I1XvU6qB6kcoengQPaU2k_21.376131_-158.020059@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206500,
+    "wof:geomhash":"68666e9e00939a71b327c8a60ae0d79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857674367
+        }
+    ],
+    "wof:id":857674367,
+    "wof:lastmodified":1464206500,
+    "wof:name":"D N Auto Body Repair",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -158.020059,
+    21.376131,
+    -158.020059,
+    21.376131
+],
+  "geometry": {"coordinates":[-158.020059,21.376131],"type":"Point"}
+}

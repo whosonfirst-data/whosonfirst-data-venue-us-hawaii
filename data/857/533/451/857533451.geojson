@@ -1,0 +1,85 @@
+{
+  "id": 857533451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911985,21.319616,-157.911985,21.319616",
+    "geom:latitude":21.319616,
+    "geom:longitude":-157.911985,
+    "iso:country":"US",
+    "sg:address":"135 Nakolo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 8300",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o2bB5DkO8qwDHwZrFofKa_21.319616_-157.911985@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202611,
+    "wof:geomhash":"453e25e12e4eaefd6f7364af89e38eb2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857533451
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857533451
+        }
+    ],
+    "wof:id":857533451,
+    "wof:lastmodified":1464202611,
+    "wof:name":"Flight Standards District Off",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.911985,
+    21.319616,
+    -157.911985,
+    21.319616
+],
+  "geometry": {"coordinates":[-157.91198499999999,21.319616],"type":"Point"}
+}

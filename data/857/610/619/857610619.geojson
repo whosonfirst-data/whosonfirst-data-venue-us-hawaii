@@ -1,0 +1,71 @@
+{
+  "id": 857610619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504836,20.891514,-156.504836,20.891514",
+    "geom:latitude":20.891514,
+    "geom:longitude":-156.504836,
+    "iso:country":"US",
+    "sg:address":"33 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5500",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EC69ZzbCfxcSoQrfxWRkS_20.891514_-156.504836@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204220,
+    "wof:geomhash":"097ec94523ffaf0cc514a14060629aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857610619
+        }
+    ],
+    "wof:id":857610619,
+    "wof:lastmodified":1464204220,
+    "wof:name":"George J Friedman PHD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -156.504836,
+    20.891514,
+    -156.504836,
+    20.891514
+],
+  "geometry": {"coordinates":[-156.50483600000001,20.891514],"type":"Point"}
+}

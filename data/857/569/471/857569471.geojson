@@ -1,0 +1,73 @@
+{
+  "id": 857569471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862735,21.309805,-157.862735,21.309805",
+    "geom:latitude":21.309805,
+    "geom:longitude":-157.862735,
+    "iso:country":"US",
+    "sg:address":"925 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 7692",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QrykDtREVFz6cQqUQim3s_21.309805_-157.862735@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203343,
+    "wof:geomhash":"86215ca4ff0bacc304d0a18d33d1f5d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857569471
+        }
+    ],
+    "wof:id":857569471,
+    "wof:lastmodified":1464203343,
+    "wof:name":"Tanimura & Associates Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.862735,
+    21.309805,
+    -157.862735,
+    21.309805
+],
+  "geometry": {"coordinates":[-157.86273499999999,21.309805],"type":"Point"}
+}

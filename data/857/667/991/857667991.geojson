@@ -1,0 +1,71 @@
+{
+  "id": 857667991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319375,22.065968,-159.319375,22.065968",
+    "geom:latitude":22.065968,
+    "geom:longitude":-159.319375,
+    "iso:country":"US",
+    "sg:address":"991 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 8000",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0waOoZkPGGQYnKG7y9gHQK_22.065968_-159.319375@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206258,
+    "wof:geomhash":"26516864deb76aefe1b6aee57c84eb39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857667991
+        }
+    ],
+    "wof:id":857667991,
+    "wof:lastmodified":1464206258,
+    "wof:name":"Bounty Music Kauai",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -159.319375,
+    22.065968,
+    -159.319375,
+    22.065968
+],
+  "geometry": {"coordinates":[-159.31937500000001,22.065968],"type":"Point"}
+}

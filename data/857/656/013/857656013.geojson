@@ -1,0 +1,73 @@
+{
+  "id": 857656013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025416,21.499773,-158.025416,21.499773",
+    "geom:latitude":21.499773,
+    "geom:longitude":-158.025416,
+    "iso:country":"US",
+    "sg:address":"916 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5042",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fw1EWgHJbo7diSt62yWyX_21.499773_-158.025416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205724,
+    "wof:geomhash":"d8ab5635c0c624092ae259d18f6af4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857656013
+        }
+    ],
+    "wof:id":857656013,
+    "wof:lastmodified":1464205724,
+    "wof:name":"Gildo S Soriano MD Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -158.025416,
+    21.499773,
+    -158.025416,
+    21.499773
+],
+  "geometry": {"coordinates":[-158.02541600000001,21.499773],"type":"Point"}
+}

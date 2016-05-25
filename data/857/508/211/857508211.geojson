@@ -1,0 +1,71 @@
+{
+  "id": 857508211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.503518,20.894937,-156.503518,20.894937",
+    "geom:latitude":20.894937,
+    "geom:longitude":-156.503518,
+    "iso:country":"US",
+    "sg:address":"1870 Mill St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3224",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OmNj178lryC9gF78D1aLW_20.894937_-156.503518@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202109,
+    "wof:geomhash":"c2e40605d67b96177dddc0d47d9c8207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857508211
+        }
+    ],
+    "wof:id":857508211,
+    "wof:lastmodified":1464202109,
+    "wof:name":"Island Hair Creations Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.503518,
+    20.894937,
+    -156.503518,
+    20.894937
+],
+  "geometry": {"coordinates":[-156.50351800000001,20.894937],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857678119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888724,21.329895,-157.888724,21.329895",
+    "geom:latitude":21.329895,
+    "geom:longitude":-157.888724,
+    "iso:country":"US",
+    "sg:address":"2230 Alahao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0093",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yilb5ULfV3qruilU9zZLs_21.329895_-157.888724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206659,
+    "wof:geomhash":"f75f401f9050b4245b06cceac623193a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857678119
+        }
+    ],
+    "wof:id":857678119,
+    "wof:lastmodified":1464206659,
+    "wof:name":"Island Sewing Inc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.888724,
+    21.329895,
+    -157.888724,
+    21.329895
+],
+  "geometry": {"coordinates":[-157.888724,21.329895],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857644707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.684629,20.893066,-156.684629,20.893066",
+    "geom:latitude":20.893066,
+    "geom:longitude":-156.684629,
+    "iso:country":"US",
+    "sg:address":"1350 Ainakea Rd",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 5775",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ctJxVMZAlcAXX0W5TN3Ln_20.893066_-156.684629@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205227,
+    "wof:geomhash":"97a57b3067c0392dce82d9c9db58304f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857644707
+        }
+    ],
+    "wof:id":857644707,
+    "wof:lastmodified":1464205227,
+    "wof:name":"Any KINE Maintenance",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.684629,
+    20.893066,
+    -156.684629,
+    20.893066
+],
+  "geometry": {"coordinates":[-156.684629,20.893066],"type":"Point"}
+}

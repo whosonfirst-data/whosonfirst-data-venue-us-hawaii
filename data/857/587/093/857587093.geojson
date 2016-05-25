@@ -1,0 +1,71 @@
+{
+  "id": 857587093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823462,21.288331,-157.823462,21.288331",
+    "geom:latitude":21.288331,
+    "geom:longitude":-157.823462,
+    "iso:country":"US",
+    "sg:address":"744 Kamoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 8808",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hsIPpSPv8dStLGE5JCeri_21.288331_-157.823462@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203696,
+    "wof:geomhash":"d05b1f929e58e7ad5d2fe8254aa57f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857587093
+        }
+    ],
+    "wof:id":857587093,
+    "wof:lastmodified":1464203696,
+    "wof:name":"Leilani's Cleaning Svc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -157.823462,
+    21.288331,
+    -157.823462,
+    21.288331
+],
+  "geometry": {"coordinates":[-157.82346200000001,21.288331],"type":"Point"}
+}

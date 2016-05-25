@@ -1,0 +1,72 @@
+{
+  "id": 857671743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.059327,21.654881,-158.059327,21.654881",
+    "geom:latitude":21.654881,
+    "geom:longitude":-158.059327,
+    "iso:country":"US",
+    "sg:address":"595 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 9887",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "sg:website":"www.surfnsea.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85854145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TsFo9gLPz1mRpsba6y2zv_21.654881_-158.059327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206400,
+    "wof:geomhash":"ca40271decdab93e63edad8bf9f34cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85854145,
+            "region_id":85688671,
+            "venue_id":857671743
+        }
+    ],
+    "wof:id":857671743,
+    "wof:lastmodified":1464206400,
+    "wof:name":"Surf N Sea",
+    "wof:parent_id":85854145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -158.059327,
+    21.654881,
+    -158.059327,
+    21.654881
+],
+  "geometry": {"coordinates":[-158.059327,21.654881],"type":"Point"}
+}

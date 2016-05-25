@@ -1,0 +1,71 @@
+{
+  "id": 857557817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.070094,21.335267,-158.070094,21.335267",
+    "geom:latitude":21.335267,
+    "geom:longitude":-158.070094,
+    "iso:country":"US",
+    "sg:address":"1048 Kumuiki St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 864 7107",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fSGNyXCPeGWMMfWy14x1c_21.335267_-158.070094@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203094,
+    "wof:geomhash":"e11e9df48f6eb6f349eabcba6e27a0e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857557817
+        }
+    ],
+    "wof:id":857557817,
+    "wof:lastmodified":1464203094,
+    "wof:name":"AS Electric",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.070094,
+    21.335267,
+    -158.070094,
+    21.335267
+],
+  "geometry": {"coordinates":[-158.07009400000001,21.335267],"type":"Point"}
+}

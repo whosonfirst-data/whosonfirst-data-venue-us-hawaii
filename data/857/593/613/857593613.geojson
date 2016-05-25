@@ -1,0 +1,71 @@
+{
+  "id": 857593613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.78467,19.939524,-155.78467,19.939524",
+    "geom:latitude":19.939524,
+    "geom:longitude":-155.78467,
+    "iso:country":"US",
+    "sg:address":"1857 Pau Nani St",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 883 2519",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marble",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HSggyELnjqBYWHD0uer91_19.939524_-155.784670@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203841,
+    "wof:geomhash":"1a3e37dc1475b78f2a3aa5b01c109e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857593613
+        }
+    ],
+    "wof:id":857593613,
+    "wof:lastmodified":1464203841,
+    "wof:name":"Waikoloa Tile",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marble",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.78467,
+    19.939524,
+    -155.78467,
+    19.939524
+],
+  "geometry": {"coordinates":[-155.78467000000001,19.939524],"type":"Point"}
+}

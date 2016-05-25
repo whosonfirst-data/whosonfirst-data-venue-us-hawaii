@@ -1,0 +1,71 @@
+{
+  "id": 857660395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874143,21.332254,-157.874143,21.332254",
+    "geom:latitude":21.332254,
+    "geom:longitude":-157.874143,
+    "iso:country":"US",
+    "sg:address":"1724 Beckley St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3575",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lR4NDhqLeuZWGazDzg72B_21.332254_-157.874143@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205928,
+    "wof:geomhash":"760a0cb4a45eee4264f4d454b7af5de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857660395
+        }
+    ],
+    "wof:id":857660395,
+    "wof:lastmodified":1464205928,
+    "wof:name":"BLK Products",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -157.874143,
+    21.332254,
+    -157.874143,
+    21.332254
+],
+  "geometry": {"coordinates":[-157.874143,21.332254],"type":"Point"}
+}

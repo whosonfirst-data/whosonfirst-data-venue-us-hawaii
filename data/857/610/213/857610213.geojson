@@ -1,0 +1,85 @@
+{
+  "id": 857610213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916302,21.316262,-157.916302,21.316262",
+    "geom:latitude":21.316262,
+    "geom:longitude":-157.916302,
+    "iso:country":"US",
+    "sg:address":"100 Pohakulana Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 861 8545",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sloXKHzRCj3SBIOkYVw7h_21.316262_-157.916302@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204213,
+    "wof:geomhash":"54d3de99beb120d2366ead6daca792c7",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857610213
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857610213
+        }
+    ],
+    "wof:id":857610213,
+    "wof:lastmodified":1464204213,
+    "wof:name":"National Aerospace Implementat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -157.916302,
+    21.316262,
+    -157.916302,
+    21.316262
+],
+  "geometry": {"coordinates":[-157.916302,21.316262],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857657663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997816,21.457307,-157.997816,21.457307",
+    "geom:latitude":21.457307,
+    "geom:longitude":-157.997816,
+    "iso:country":"US",
+    "sg:address":"1121 Leolani St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 2631",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4omDuckUnQQ4oGppUwEma5_21.457307_-157.997816@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205802,
+    "wof:geomhash":"c45620ceb3cf7ad98dedefcac2c07f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857657663
+        }
+    ],
+    "wof:id":857657663,
+    "wof:lastmodified":1464205802,
+    "wof:name":"Mililani Barber Shop",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.997816,
+    21.457307,
+    -157.997816,
+    21.457307
+],
+  "geometry": {"coordinates":[-157.997816,21.457307],"type":"Point"}
+}

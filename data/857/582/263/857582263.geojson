@@ -1,0 +1,66 @@
+{
+  "id": 857582263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853018,21.297032,-157.853018,21.297032",
+    "geom:latitude":21.297032,
+    "geom:longitude":-157.853018,
+    "iso:country":"US",
+    "sg:address":"961 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8201",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R7MWHkqtoIFdyuL3cebsX_21.297032_-157.853018@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203595,
+    "wof:geomhash":"df3f84079c909cb2a2591cc7cdeb0d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857582263
+        }
+    ],
+    "wof:id":857582263,
+    "wof:lastmodified":1464203595,
+    "wof:name":"Da Spirit Market",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.853018,
+    21.297032,
+    -157.853018,
+    21.297032
+],
+  "geometry": {"coordinates":[-157.85301799999999,21.297032],"type":"Point"}
+}

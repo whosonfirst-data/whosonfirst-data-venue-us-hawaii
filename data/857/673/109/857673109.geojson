@@ -1,0 +1,73 @@
+{
+  "id": 857673109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863011,21.310846,-157.863011,21.310846",
+    "geom:latitude":21.310846,
+    "geom:longitude":-157.863011,
+    "iso:country":"US",
+    "sg:address":"42 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 8757",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wear",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cD5EIiHXvL5YUM2hRUKU2_21.310846_-157.863011@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206456,
+    "wof:geomhash":"4f8bb52f3ae647ad61e1bdf297620868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857673109
+        }
+    ],
+    "wof:id":857673109,
+    "wof:lastmodified":1464206456,
+    "wof:name":"Local Design",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wear",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -157.863011,
+    21.310846,
+    -157.863011,
+    21.310846
+],
+  "geometry": {"coordinates":[-157.863011,21.310846],"type":"Point"}
+}

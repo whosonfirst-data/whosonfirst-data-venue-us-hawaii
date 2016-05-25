@@ -1,0 +1,73 @@
+{
+  "id": 857656715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.724321,21.37508,-157.724321,21.37508",
+    "geom:latitude":21.37508,
+    "geom:longitude":-157.724321,
+    "iso:country":"US",
+    "sg:address":"1225 Hele St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 2078",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dyUAaaB9ivXKyH0oJtdM0_21.375080_-157.724321@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205756,
+    "wof:geomhash":"a4897dafe51fbbc96e4b01e759783a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857656715
+        }
+    ],
+    "wof:id":857656715,
+    "wof:lastmodified":1464205756,
+    "wof:name":"Preston's Plumbing Repair",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.724321,
+    21.37508,
+    -157.724321,
+    21.37508
+],
+  "geometry": {"coordinates":[-157.724321,21.37508],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857681863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825841,21.279515,-157.825841,21.279515",
+    "geom:latitude":21.279515,
+    "geom:longitude":-157.825841,
+    "iso:country":"US",
+    "sg:address":"2310 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/180329-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 6350",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yzjRQVVShtJdRUmxayCsH_21.279329_-157.825871@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206810,
+    "wof:geomhash":"8fbc97f4460924720cfcc0667c47791f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681863
+        }
+    ],
+    "wof:id":857681863,
+    "wof:lastmodified":1464206810,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.825841,
+    21.279515,
+    -157.825841,
+    21.279515
+],
+  "geometry": {"coordinates":[-157.825841,21.279515],"type":"Point"}
+}

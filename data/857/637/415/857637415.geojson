@@ -1,0 +1,71 @@
+{
+  "id": 857637415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824471,21.27779,-157.824471,21.27779",
+    "geom:latitude":21.27779,
+    "geom:longitude":-157.824471,
+    "iso:country":"US",
+    "sg:address":"2370 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 3198",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q1eIBpxRgdekVuH0yE1nk_21.277790_-157.824471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204920,
+    "wof:geomhash":"bd6db77795498ae6640a558eefcdd215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857637415
+        }
+    ],
+    "wof:id":857637415,
+    "wof:lastmodified":1464204920,
+    "wof:name":"Pastry Deli",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.824471,
+    21.27779,
+    -157.824471,
+    21.27779
+],
+  "geometry": {"coordinates":[-157.82447099999999,21.27779],"type":"Point"}
+}

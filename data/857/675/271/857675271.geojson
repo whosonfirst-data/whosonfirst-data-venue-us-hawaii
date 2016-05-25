@@ -1,0 +1,71 @@
+{
+  "id": 857675271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821201,21.265383,-157.821201,21.265383",
+    "geom:latitude":21.265383,
+    "geom:longitude":-157.821201,
+    "iso:country":"US",
+    "sg:address":"2777 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 9741",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aquarium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DvQFIOrTEE9wYouNm81Xk_21.265383_-157.821201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206535,
+    "wof:geomhash":"4efb6c0df45ca265baccf7df56257c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857675271
+        }
+    ],
+    "wof:id":857675271,
+    "wof:lastmodified":1464206535,
+    "wof:name":"Waikiki Aquarium",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium"
+    ]
+},
+  "bbox": [
+    -157.821201,
+    21.265383,
+    -157.821201,
+    21.265383
+],
+  "geometry": {"coordinates":[-157.821201,21.265383],"type":"Point"}
+}

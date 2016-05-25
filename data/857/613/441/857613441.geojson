@@ -1,0 +1,73 @@
+{
+  "id": 857613441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882452,21.326594,-157.882452,21.326594",
+    "geom:latitude":21.326594,
+    "geom:longitude":-157.882452,
+    "iso:country":"US",
+    "sg:address":"1725 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0077",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sound",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wv8ujLDuHQvacpJt5G9WP_21.326594_-157.882452@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204291,
+    "wof:geomhash":"4d46ac97af91bf91afd218884ac37c89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857613441
+        }
+    ],
+    "wof:id":857613441,
+    "wof:lastmodified":1464204291,
+    "wof:name":"Hawaii Pro Sound Video Rentals",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "video"
+    ]
+},
+  "bbox": [
+    -157.882452,
+    21.326594,
+    -157.882452,
+    21.326594
+],
+  "geometry": {"coordinates":[-157.882452,21.326594],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857622049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863813,21.310843,-157.863813,21.310843",
+    "geom:latitude":21.310843,
+    "geom:longitude":-157.863813,
+    "iso:country":"US",
+    "sg:address":"10 Marin Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 2434",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting",
+        "electrical",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KjenwNnnhpSBk3Tw71eyn_21.310843_-157.863813@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204474,
+    "wof:geomhash":"843029853d2f9bdbb6a272670223b096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857622049
+        }
+    ],
+    "wof:id":857622049,
+    "wof:lastmodified":1464204474,
+    "wof:name":"Douglas Engineering Pacific",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "electrical",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -157.863813,
+    21.310843,
+    -157.863813,
+    21.310843
+],
+  "geometry": {"coordinates":[-157.86381299999999,21.310843],"type":"Point"}
+}

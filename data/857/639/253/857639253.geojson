@@ -1,0 +1,71 @@
+{
+  "id": 857639253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745672,21.290923,-157.745672,21.290923",
+    "geom:latitude":21.290923,
+    "geom:longitude":-157.745672,
+    "iso:country":"US",
+    "sg:address":"811 Moaniala St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 7327",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k8tafCUPebTdQB7xRUmBU_21.290923_-157.745672@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204993,
+    "wof:geomhash":"89e8bc994a9916f0e0c4bdfa303fa3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857639253
+        }
+    ],
+    "wof:id":857639253,
+    "wof:lastmodified":1464204993,
+    "wof:name":"Joana H Magno MD Facc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.745672,
+    21.290923,
+    -157.745672,
+    21.290923
+],
+  "geometry": {"coordinates":[-157.74567200000001,21.290923],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857516525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881334,21.332087,-157.881334,21.332087",
+    "geom:latitude":21.332087,
+    "geom:longitude":-157.881334,
+    "iso:country":"US",
+    "sg:address":"748 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8010",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AU3aDXDmMeQ5nRpgx03sM_21.332087_-157.881334@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202279,
+    "wof:geomhash":"6a8e23a7845fbbaadf85136b07459cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857516525
+        }
+    ],
+    "wof:id":857516525,
+    "wof:lastmodified":1464202279,
+    "wof:name":"Hawaii Mirror and Glass",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.881334,
+    21.332087,
+    -157.881334,
+    21.332087
+],
+  "geometry": {"coordinates":[-157.88133400000001,21.332087],"type":"Point"}
+}

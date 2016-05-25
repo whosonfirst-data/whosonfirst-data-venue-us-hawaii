@@ -1,0 +1,71 @@
+{
+  "id": 857679157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842576,21.299231,-157.842576,21.299231",
+    "geom:latitude":21.299231,
+    "geom:longitude":-157.842576,
+    "iso:country":"US",
+    "sg:address":"1275 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 1595",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fIpnCRIpXEgLU71C4EgnQ_21.299231_-157.842576@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206696,
+    "wof:geomhash":"c0c62351b06d7b4bcd13fc6ebc9959e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857679157
+        }
+    ],
+    "wof:id":857679157,
+    "wof:lastmodified":1464206696,
+    "wof:name":"A's Barber Shop Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.842576,
+    21.299231,
+    -157.842576,
+    21.299231
+],
+  "geometry": {"coordinates":[-157.84257600000001,21.299231],"type":"Point"}
+}

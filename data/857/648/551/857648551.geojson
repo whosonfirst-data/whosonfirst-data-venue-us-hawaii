@@ -1,0 +1,71 @@
+{
+  "id": 857648551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.740607,21.448228,-157.740607,21.448228",
+    "geom:latitude":21.448228,
+    "geom:longitude":-157.740607,
+    "iso:country":"US",
+    "sg:address":"2095 Elrod Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 8169",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "childcare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mbHqxMWVbYHERT6cgzpKO_21.448228_-157.740607@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205396,
+    "wof:geomhash":"efc092923b3cb9b12d967938fb2cf9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857648551
+        }
+    ],
+    "wof:id":857648551,
+    "wof:lastmodified":1464205396,
+    "wof:name":"Sunshine Day Care",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "childcare"
+    ]
+},
+  "bbox": [
+    -157.740607,
+    21.448228,
+    -157.740607,
+    21.448228
+],
+  "geometry": {"coordinates":[-157.74060700000001,21.448228],"type":"Point"}
+}

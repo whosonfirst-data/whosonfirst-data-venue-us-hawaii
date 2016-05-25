@@ -1,0 +1,71 @@
+{
+  "id": 857633477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.031435,21.332138,-158.031435,21.332138",
+    "geom:latitude":21.332138,
+    "geom:longitude":-158.031435,
+    "iso:country":"US",
+    "sg:address":"1000 Hooilo Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 685 0316",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YHdPQcbSKTncAe5EEAPz8_21.332138_-158.031435@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204773,
+    "wof:geomhash":"a32dd3b973e0ca4812f638b6c58a485c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857633477
+        }
+    ],
+    "wof:id":857633477,
+    "wof:lastmodified":1464204773,
+    "wof:name":"Photo Finish Video",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -158.031435,
+    21.332138,
+    -158.031435,
+    21.332138
+],
+  "geometry": {"coordinates":[-158.03143499999999,21.332138],"type":"Point"}
+}

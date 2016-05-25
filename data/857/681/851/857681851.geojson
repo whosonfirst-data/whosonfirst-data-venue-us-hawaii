@@ -1,0 +1,76 @@
+{
+  "id": 857681851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828403,21.281717,-157.828403,21.281717",
+    "geom:latitude":21.281717,
+    "geom:longitude":-157.828403,
+    "iso:country":"US",
+    "sg:address":"408 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/124451-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 3489",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wZX1uMPoWAIG3TF2eUrtg_21.281757_-157.828191@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206809,
+    "wof:geomhash":"2598d107751fc5fd2152cf621dd9fcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681851
+        }
+    ],
+    "wof:id":857681851,
+    "wof:lastmodified":1464206809,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.828403,
+    21.281717,
+    -157.828403,
+    21.281717
+],
+  "geometry": {"coordinates":[-157.82840300000001,21.281717],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857646417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.78117,21.375276,-157.78117,21.375276",
+    "geom:latitude":21.375276,
+    "geom:longitude":-157.78117,
+    "iso:country":"US",
+    "sg:address":"56 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5050",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seed",
+        "preserved"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z1SpSIk8OfKkPMm0MbQGE_21.375276_-157.781170@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205307,
+    "wof:geomhash":"73094e43122b444ac85998eea40ad18e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857646417
+        }
+    ],
+    "wof:id":857646417,
+    "wof:lastmodified":1464205307,
+    "wof:name":"Seeds 'n Things",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed",
+        "preserved"
+    ]
+},
+  "bbox": [
+    -157.78117,
+    21.375276,
+    -157.78117,
+    21.375276
+],
+  "geometry": {"coordinates":[-157.78117,21.375276],"type":"Point"}
+}

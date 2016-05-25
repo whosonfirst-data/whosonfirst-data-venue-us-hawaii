@@ -1,0 +1,77 @@
+{
+  "id": 857523859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82472,21.275252,-157.82472,21.275252",
+    "geom:latitude":21.275252,
+    "geom:longitude":-157.82472,
+    "iso:country":"US",
+    "sg:address":"2470 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 6400",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MJ4EROD8Uqr8ZEs6mVeE2_21.275252_-157.824720@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202427,
+    "wof:geomhash":"de78814c7e70fb8bd9bd3466688ff9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857523859
+        }
+    ],
+    "wof:id":857523859,
+    "wof:lastmodified":1464202427,
+    "wof:name":"Aston Waikiki Beach Tower",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.82472,
+    21.275252,
+    -157.82472,
+    21.275252
+],
+  "geometry": {"coordinates":[-157.82472000000001,21.275252],"type":"Point"}
+}

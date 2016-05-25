@@ -1,0 +1,71 @@
+{
+  "id": 857541505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.993787,21.385236,-157.993787,21.385236",
+    "geom:latitude":21.385236,
+    "geom:longitude":-157.993787,
+    "iso:country":"US",
+    "sg:address":"59 Waipio Point Access Rd",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 675 6050",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M1XIfbeg4sFZtoUML3rvy_21.385236_-157.993787@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202765,
+    "wof:geomhash":"acc6e2da087e8c775f2ec59f1482d3a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857541505
+        }
+    ],
+    "wof:id":857541505,
+    "wof:lastmodified":1464202765,
+    "wof:name":"Ted Makalena Golf Course",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -157.993787,
+    21.385236,
+    -157.993787,
+    21.385236
+],
+  "geometry": {"coordinates":[-157.993787,21.385236],"type":"Point"}
+}

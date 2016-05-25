@@ -1,0 +1,73 @@
+{
+  "id": 857521175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.963986,19.603751,-155.963986,19.603751",
+    "geom:latitude":19.603751,
+    "geom:longitude":-155.963986,
+    "iso:country":"US",
+    "sg:address":"6485 Maile St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 3189",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vfj2Sh6WSxN1CwXbigyzf_19.603751_-155.963986@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202375,
+    "wof:geomhash":"cbda978d0fc475b7ad8adad0d5d9ffe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890319,
+            "region_id":85688671,
+            "venue_id":857521175
+        }
+    ],
+    "wof:id":857521175,
+    "wof:lastmodified":1464202375,
+    "wof:name":"Foster Painting",
+    "wof:parent_id":85890319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -155.963986,
+    19.603751,
+    -155.963986,
+    19.603751
+],
+  "geometry": {"coordinates":[-155.96398600000001,19.603751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857564013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.770641,21.283908,-157.770641,21.283908",
+    "geom:latitude":21.283908,
+    "geom:longitude":-157.770641,
+    "iso:country":"US",
+    "sg:address":"1425 Kalaniiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 9305",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dQR75UUrkFV6blz1QEygn_21.283908_-157.770641@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203239,
+    "wof:geomhash":"9bab1e9c7d106e857f1893bdd97b6b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857564013
+        }
+    ],
+    "wof:id":857564013,
+    "wof:lastmodified":1464203239,
+    "wof:name":"Richard S Sasaki",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.770641,
+    21.283908,
+    -157.770641,
+    21.283908
+],
+  "geometry": {"coordinates":[-157.77064100000001,21.283908],"type":"Point"}
+}

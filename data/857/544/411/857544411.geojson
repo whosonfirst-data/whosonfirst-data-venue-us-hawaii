@@ -1,0 +1,75 @@
+{
+  "id": 857544411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801637,21.257495,-157.801637,21.257495",
+    "geom:latitude":21.257495,
+    "geom:longitude":-157.801637,
+    "iso:country":"US",
+    "sg:address":"3701 Diamond Head Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 7200",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dgKuMXaNXtrPwm4eJHfkH_21.257495_-157.801637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202828,
+    "wof:geomhash":"f8928987b2fffa273bf42400dd122a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857544411
+        }
+    ],
+    "wof:id":857544411,
+    "wof:lastmodified":1464202828,
+    "wof:name":"Pain Management Clinic",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.801637,
+    21.257495,
+    -157.801637,
+    21.257495
+],
+  "geometry": {"coordinates":[-157.801637,21.257495],"type":"Point"}
+}

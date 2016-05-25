@@ -1,0 +1,75 @@
+{
+  "id": 857576711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84044,21.298474,-157.84044,21.298474",
+    "geom:latitude":21.298474,
+    "geom:longitude":-157.84044,
+    "iso:country":"US",
+    "sg:address":"1375 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 0404",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P6RDt1uG8NH400EzIkGyO_21.298474_-157.840440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203484,
+    "wof:geomhash":"3a7739dfd702e6ac17c2d93e48263f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857576711
+        }
+    ],
+    "wof:id":857576711,
+    "wof:lastmodified":1464203484,
+    "wof:name":"Yajima Service Station",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.84044,
+    21.298474,
+    -157.84044,
+    21.298474
+],
+  "geometry": {"coordinates":[-157.84044,21.298474],"type":"Point"}
+}

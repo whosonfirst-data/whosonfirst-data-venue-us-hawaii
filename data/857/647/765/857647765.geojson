@@ -1,0 +1,73 @@
+{
+  "id": 857647765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824312,21.276773,-157.824312,21.276773",
+    "geom:latitude":21.276773,
+    "geom:longitude":-157.824312,
+    "iso:country":"US",
+    "sg:address":"2412 Prince Edward St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 1676",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marine",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_735Qp55joXx08xVcksqcEk_21.276773_-157.824312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205369,
+    "wof:geomhash":"502b88e6f97900ec67c07c9d28ffb586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857647765
+        }
+    ],
+    "wof:id":857647765,
+    "wof:lastmodified":1464205369,
+    "wof:name":"Investech Hawaii Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "electric"
+    ]
+},
+  "bbox": [
+    -157.824312,
+    21.276773,
+    -157.824312,
+    21.276773
+],
+  "geometry": {"coordinates":[-157.82431199999999,21.276773],"type":"Point"}
+}

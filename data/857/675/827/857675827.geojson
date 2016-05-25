@@ -1,0 +1,75 @@
+{
+  "id": 857675827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.706697,21.276977,-157.706697,21.276977",
+    "geom:latitude":21.276977,
+    "geom:longitude":-157.706697,
+    "iso:country":"US",
+    "sg:address":"7102 Pilaa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 1216",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YnWoRTa5aFkEF2X8CuHwQ_21.276977_-157.706697@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206568,
+    "wof:geomhash":"7d3bb7144a662e96ead5e5c695b2bd77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857675827
+        }
+    ],
+    "wof:id":857675827,
+    "wof:lastmodified":1464206568,
+    "wof:name":"Hotel Reservations",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -157.706697,
+    21.276977,
+    -157.706697,
+    21.276977
+],
+  "geometry": {"coordinates":[-157.70669699999999,21.276977],"type":"Point"}
+}

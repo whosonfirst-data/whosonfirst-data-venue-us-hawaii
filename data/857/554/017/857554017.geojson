@@ -1,0 +1,73 @@
+{
+  "id": 857554017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.466782,20.078714,-155.466782,20.078714",
+    "geom:latitude":20.078714,
+    "geom:longitude":-155.466782,
+    "iso:country":"US",
+    "sg:address":"3596 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7321",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transfer",
+        "express"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubJHNTE2wNeDZSnWZZna5_20.078714_-155.466782@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203007,
+    "wof:geomhash":"7dda84b4d05a291796772f908ed80449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857554017
+        }
+    ],
+    "wof:id":857554017,
+    "wof:lastmodified":1464203007,
+    "wof:name":"Coastline Express Inc",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transfer",
+        "express"
+    ]
+},
+  "bbox": [
+    -155.466782,
+    20.078714,
+    -155.466782,
+    20.078714
+],
+  "geometry": {"coordinates":[-155.46678199999999,20.078714],"type":"Point"}
+}

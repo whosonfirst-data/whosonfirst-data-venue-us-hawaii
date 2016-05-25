@@ -1,0 +1,73 @@
+{
+  "id": 857599445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954129,21.387782,-157.954129,21.387782",
+    "geom:latitude":21.387782,
+    "geom:longitude":-157.954129,
+    "iso:country":"US",
+    "sg:address":"1254 Kaahumanu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 2970",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4liMfnS4Q4CNrfbctIv6rc_21.387782_-157.954129@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203972,
+    "wof:geomhash":"af4460fe1a1e1091d4f7e3c18abc017e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857599445
+        }
+    ],
+    "wof:id":857599445,
+    "wof:lastmodified":1464203972,
+    "wof:name":"UPS Store",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -157.954129,
+    21.387782,
+    -157.954129,
+    21.387782
+],
+  "geometry": {"coordinates":[-157.95412899999999,21.387782],"type":"Point"}
+}

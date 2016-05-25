@@ -1,0 +1,73 @@
+{
+  "id": 857600923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.125859,21.578403,-158.125859,21.578403",
+    "geom:latitude":21.578403,
+    "geom:longitude":-158.125859,
+    "iso:country":"US",
+    "sg:address":"269 Kanalu St",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 392 6386",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BKGS0ymg3IJGysMjZ3Ec1_21.578403_-158.125859@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204006,
+    "wof:geomhash":"9b75374234c225c7648ecb3ef46b71cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857600923
+        }
+    ],
+    "wof:id":857600923,
+    "wof:lastmodified":1464204006,
+    "wof:name":"Gap Services",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.125859,
+    21.578403,
+    -158.125859,
+    21.578403
+],
+  "geometry": {"coordinates":[-158.12585899999999,21.578403],"type":"Point"}
+}

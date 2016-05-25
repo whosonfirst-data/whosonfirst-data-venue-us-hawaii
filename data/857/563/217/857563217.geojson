@@ -1,0 +1,77 @@
+{
+  "id": 857563217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853065,21.310879,-157.853065,21.310879",
+    "geom:latitude":21.310879,
+    "geom:longitude":-157.853065,
+    "iso:country":"US",
+    "sg:address":"1463 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 3580",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UqbPoO64SJI5TNjvJvAZo_21.310879_-157.853065@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203224,
+    "wof:geomhash":"57e2ebdb36c7ca3a9fa4910c8b54c95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857563217
+        }
+    ],
+    "wof:id":857563217,
+    "wof:lastmodified":1464203224,
+    "wof:name":"Drain N Rooter",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -157.853065,
+    21.310879,
+    -157.853065,
+    21.310879
+],
+  "geometry": {"coordinates":[-157.85306499999999,21.310879],"type":"Point"}
+}

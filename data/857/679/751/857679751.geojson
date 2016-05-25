@@ -1,0 +1,78 @@
+{
+  "id": 857679751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841677,21.299071,-157.841677,21.299071",
+    "geom:latitude":21.299071,
+    "geom:longitude":-157.841677,
+    "iso:country":"US",
+    "sg:address":"1350 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 9116",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DEP0OJVLMo8hxmaz3tyqL_21.299071_-157.841677@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206721,
+    "wof:geomhash":"81397f3b7b7e309bd9ddf2be41c222ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857679751
+        }
+    ],
+    "wof:id":857679751,
+    "wof:lastmodified":1464206721,
+    "wof:name":"Chrysalis Institute",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.841677,
+    21.299071,
+    -157.841677,
+    21.299071
+],
+  "geometry": {"coordinates":[-157.841677,21.299071],"type":"Point"}
+}

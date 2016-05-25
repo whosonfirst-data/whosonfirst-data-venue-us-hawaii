@@ -1,0 +1,71 @@
+{
+  "id": 857671289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884744,21.325762,-157.884744,21.325762",
+    "geom:latitude":21.325762,
+    "geom:longitude":-157.884744,
+    "iso:country":"US",
+    "sg:address":"2027 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 1500",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g1aEeirjo941P2yGjyWEb_21.325762_-157.884744@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206385,
+    "wof:geomhash":"6aa4dfb8cbcf3323006d82d17097b96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857671289
+        }
+    ],
+    "wof:id":857671289,
+    "wof:lastmodified":1464206385,
+    "wof:name":"Trinity Auto Sales",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -157.884744,
+    21.325762,
+    -157.884744,
+    21.325762
+],
+  "geometry": {"coordinates":[-157.88474400000001,21.325762],"type":"Point"}
+}

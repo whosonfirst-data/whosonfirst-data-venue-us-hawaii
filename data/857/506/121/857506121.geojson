@@ -1,0 +1,73 @@
+{
+  "id": 857506121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852068,21.298069,-157.852068,21.298069",
+    "geom:latitude":21.298069,
+    "geom:longitude":-157.852068,
+    "iso:country":"US",
+    "sg:address":"975 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 1616",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i6wnd8XQa2a54BXQiqCz3_21.298069_-157.852068@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202062,
+    "wof:geomhash":"0761093fe4630228120433db06eb2c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857506121
+        }
+    ],
+    "wof:id":857506121,
+    "wof:lastmodified":1464202062,
+    "wof:name":"Premier Financial Svc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -157.852068,
+    21.298069,
+    -157.852068,
+    21.298069
+],
+  "geometry": {"coordinates":[-157.852068,21.298069],"type":"Point"}
+}

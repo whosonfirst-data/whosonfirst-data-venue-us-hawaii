@@ -1,0 +1,71 @@
+{
+  "id": 857636261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856986,21.333663,-157.856986,21.333663",
+    "geom:latitude":21.333663,
+    "geom:longitude":-157.856986,
+    "iso:country":"US",
+    "sg:address":"1042 Ilima Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 8132",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xiNlZkar4qdRDczcUiwQd_21.333663_-157.856986@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204878,
+    "wof:geomhash":"f2d732eae630fa21df5adbcd77b275b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857636261
+        }
+    ],
+    "wof:id":857636261,
+    "wof:lastmodified":1464204878,
+    "wof:name":"Craigside Travel",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.856986,
+    21.333663,
+    -157.856986,
+    21.333663
+],
+  "geometry": {"coordinates":[-157.85698600000001,21.333663],"type":"Point"}
+}

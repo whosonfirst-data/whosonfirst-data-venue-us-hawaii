@@ -1,0 +1,76 @@
+{
+  "id": 857681573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858027,21.3228,-157.858027,21.3228",
+    "geom:latitude":21.3228,
+    "geom:longitude":-157.858027,
+    "iso:country":"US",
+    "sg:address":"1711 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/92312-l--l-hawaiian-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3210",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TKEzVgOJynfis5h1xIa0f_21.322800_-157.858027@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206789,
+    "wof:geomhash":"7d53ab7593a31ee02d485b894c5a9fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857681573
+        }
+    ],
+    "wof:id":857681573,
+    "wof:lastmodified":1464206789,
+    "wof:name":"L & L Hawaiian BBQ",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -157.858027,
+    21.3228,
+    -157.858027,
+    21.3228
+],
+  "geometry": {"coordinates":[-157.85802699999999,21.3228],"type":"Point"}
+}

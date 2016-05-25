@@ -1,0 +1,73 @@
+{
+  "id": 857590073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820378,21.272619,-157.820378,21.272619",
+    "geom:latitude":21.272619,
+    "geom:longitude":-157.820378,
+    "iso:country":"US",
+    "sg:address":"2550 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 7767",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tXF9bWPenIz8rmxqBmHVB_21.272619_-157.820378@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203760,
+    "wof:geomhash":"3dd3bcee882c542aeca17c61760b0eb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857590073
+        }
+    ],
+    "wof:id":857590073,
+    "wof:lastmodified":1464203760,
+    "wof:name":"Moon's Sales & Svc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "floor"
+    ]
+},
+  "bbox": [
+    -157.820378,
+    21.272619,
+    -157.820378,
+    21.272619
+],
+  "geometry": {"coordinates":[-157.82037800000001,21.272619],"type":"Point"}
+}

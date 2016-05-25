@@ -1,0 +1,73 @@
+{
+  "id": 857643603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.002239,21.449561,-158.002239,21.449561",
+    "geom:latitude":21.449561,
+    "geom:longitude":-158.002239,
+    "iso:country":"US",
+    "sg:address":"623 Makaimoimo St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 0306",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oEhpWf2vgBFnUXdHYMUHN_21.449561_-158.002239@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205178,
+    "wof:geomhash":"260ec7f0554ca74ccb6d1eecddf71d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857643603
+        }
+    ],
+    "wof:id":857643603,
+    "wof:lastmodified":1464205178,
+    "wof:name":"Mililani Painting Company",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.002239,
+    21.449561,
+    -158.002239,
+    21.449561
+],
+  "geometry": {"coordinates":[-158.002239,21.449561],"type":"Point"}
+}

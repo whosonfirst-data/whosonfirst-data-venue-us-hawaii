@@ -1,0 +1,71 @@
+{
+  "id": 857564031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793621,21.41465,-157.793621,21.41465",
+    "geom:latitude":21.41465,
+    "geom:longitude":-157.793621,
+    "iso:country":"US",
+    "sg:address":"150 Waikalua Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5346",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l0DBeQEKxYALMzuKd5CqH_21.414650_-157.793621@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203239,
+    "wof:geomhash":"4d334c8ef6c2887e623ee564a2837320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857564031
+        }
+    ],
+    "wof:id":857564031,
+    "wof:lastmodified":1464203239,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.793621,
+    21.41465,
+    -157.793621,
+    21.41465
+],
+  "geometry": {"coordinates":[-157.793621,21.41465],"type":"Point"}
+}

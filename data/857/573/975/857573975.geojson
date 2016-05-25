@@ -1,0 +1,71 @@
+{
+  "id": 857573975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.051814,21.645866,-158.051814,21.645866",
+    "geom:latitude":21.645866,
+    "geom:longitude":-158.051814,
+    "iso:country":"US",
+    "sg:address":"349 Pupukea Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 7200",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890115,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dXFr8Hq64Jp709q3BkKeI_21.645866_-158.051814@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203432,
+    "wof:geomhash":"017e01e9fad3b1a88918b10a12313bf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890115,
+            "region_id":85688671,
+            "venue_id":857573975
+        }
+    ],
+    "wof:id":857573975,
+    "wof:lastmodified":1464203432,
+    "wof:name":"Cowper Construction",
+    "wof:parent_id":85890115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -158.051814,
+    21.645866,
+    -158.051814,
+    21.645866
+],
+  "geometry": {"coordinates":[-158.05181400000001,21.645866],"type":"Point"}
+}

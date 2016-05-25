@@ -1,0 +1,75 @@
+{
+  "id": 857669181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.999238,19.646152,-155.999238,19.646152",
+    "geom:latitude":19.646152,
+    "geom:longitude":-155.999238,
+    "iso:country":"US",
+    "sg:address":"5605 Alapa St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 331 2000",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CLzJlBuyX2DFRsPefqAOh_19.646152_-155.999238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206309,
+    "wof:geomhash":"e52acaa39953a5dbf31ceebbb4e8b091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857669181
+        }
+    ],
+    "wof:id":857669181,
+    "wof:lastmodified":1464206309,
+    "wof:name":"Junior Music Academy",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -155.999238,
+    19.646152,
+    -155.999238,
+    19.646152
+],
+  "geometry": {"coordinates":[-155.99923799999999,19.646152],"type":"Point"}
+}

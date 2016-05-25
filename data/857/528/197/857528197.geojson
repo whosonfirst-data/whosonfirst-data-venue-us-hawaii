@@ -1,0 +1,71 @@
+{
+  "id": 857528197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020691,21.379063,-158.020691,21.379063",
+    "geom:latitude":21.379063,
+    "geom:longitude":-158.020691,
+    "iso:country":"US",
+    "sg:address":"245 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 680 9704",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BCn1xdlIp7Gcqxh5Rcjzh_21.379063_-158.020691@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202509,
+    "wof:geomhash":"6f527e4cb2da2462ef3297216cb68de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857528197
+        }
+    ],
+    "wof:id":857528197,
+    "wof:lastmodified":1464202509,
+    "wof:name":"Cutter Family Auto Ctrs",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.020691,
+    21.379063,
+    -158.020691,
+    21.379063
+],
+  "geometry": {"coordinates":[-158.020691,21.379063],"type":"Point"}
+}

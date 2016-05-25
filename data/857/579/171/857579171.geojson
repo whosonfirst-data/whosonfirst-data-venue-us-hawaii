@@ -1,0 +1,71 @@
+{
+  "id": 857579171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793268,21.27357,-157.793268,21.27357",
+    "geom:latitude":21.27357,
+    "geom:longitude":-157.793268,
+    "iso:country":"US",
+    "sg:address":"807 20th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 292 1830",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q29VSdVrOd8l3qoXfdGLk_21.273570_-157.793268@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203536,
+    "wof:geomhash":"2b4abb0122bb40244da7c8ff8f3c45ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857579171
+        }
+    ],
+    "wof:id":857579171,
+    "wof:lastmodified":1464203536,
+    "wof:name":"Better Bilt Construction",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.793268,
+    21.27357,
+    -157.793268,
+    21.27357
+],
+  "geometry": {"coordinates":[-157.79326800000001,21.27357],"type":"Point"}
+}

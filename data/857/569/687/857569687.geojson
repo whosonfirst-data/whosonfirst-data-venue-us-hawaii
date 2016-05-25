@@ -1,0 +1,84 @@
+{
+  "id": 857569687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.945538,21.381555,-157.945538,21.381555",
+    "geom:latitude":21.381555,
+    "geom:longitude":-157.945538,
+    "iso:country":"US",
+    "sg:address":"125 Lipoa Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 5030",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dry",
+        "pet",
+        "food",
+        "livestock",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17e4v4KZjbyRxKPMay0X43_21.381555_-157.945538@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203347,
+    "wof:geomhash":"6bf8713dcc33c1f07da8a7e60afc9605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857569687
+        }
+    ],
+    "wof:id":857569687,
+    "wof:lastmodified":1464203347,
+    "wof:name":"Tom's Pet Supply",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "pet",
+        "food",
+        "livestock",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.945538,
+    21.381555,
+    -157.945538,
+    21.381555
+],
+  "geometry": {"coordinates":[-157.945538,21.381555],"type":"Point"}
+}

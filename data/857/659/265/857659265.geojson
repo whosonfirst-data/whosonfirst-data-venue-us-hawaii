@@ -1,0 +1,71 @@
+{
+  "id": 857659265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821662,21.285933,-157.821662,21.285933",
+    "geom:latitude":21.285933,
+    "geom:longitude":-157.821662,
+    "iso:country":"US",
+    "sg:address":"2542 Date St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 7773",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2koPbiuQKKCk5LBEIrQwLY_21.285933_-157.821662@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205872,
+    "wof:geomhash":"8e088ce352a488e46d3646e5cad8f46a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857659265
+        }
+    ],
+    "wof:id":857659265,
+    "wof:lastmodified":1464205872,
+    "wof:name":"Andante USA Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -157.821662,
+    21.285933,
+    -157.821662,
+    21.285933
+],
+  "geometry": {"coordinates":[-157.821662,21.285933],"type":"Point"}
+}

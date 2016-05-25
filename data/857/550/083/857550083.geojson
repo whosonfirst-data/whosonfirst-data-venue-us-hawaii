@@ -1,0 +1,88 @@
+{
+  "id": 857550083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888335,21.323873,-157.888335,21.323873",
+    "geom:latitude":21.323873,
+    "geom:longitude":-157.888335,
+    "iso:country":"US",
+    "sg:address":"210 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 4811",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "control",
+        "linen",
+        "supply",
+        "uniform",
+        "environmental",
+        "dust",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1egguF4Vb2S2QrX1r5atAC_21.323873_-157.888335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202933,
+    "wof:geomhash":"2caa56ae1f42e8c0251e39e992a75a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857550083
+        }
+    ],
+    "wof:id":857550083,
+    "wof:lastmodified":1464202933,
+    "wof:name":"Clean Living Dust",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "linen",
+        "supply",
+        "uniform",
+        "environmental",
+        "dust",
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.888335,
+    21.323873,
+    -157.888335,
+    21.323873
+],
+  "geometry": {"coordinates":[-157.88833500000001,21.323873],"type":"Point"}
+}

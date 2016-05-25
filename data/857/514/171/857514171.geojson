@@ -1,0 +1,71 @@
+{
+  "id": 857514171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.453171,20.884972,-156.453171,20.884972",
+    "geom:latitude":20.884972,
+    "geom:longitude":-156.453171,
+    "iso:country":"US",
+    "sg:address":"395 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 8009",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u18F81Qqvk7twSpfpMBc2_20.884972_-156.453171@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202235,
+    "wof:geomhash":"74020e7542e6fe1d17985b506a5fc83d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857514171
+        }
+    ],
+    "wof:id":857514171,
+    "wof:lastmodified":1464202235,
+    "wof:name":"Maui's Quality Dry Cleaning",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -156.453171,
+    20.884972,
+    -156.453171,
+    20.884972
+],
+  "geometry": {"coordinates":[-156.453171,20.884972],"type":"Point"}
+}

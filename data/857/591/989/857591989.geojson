@@ -1,0 +1,73 @@
+{
+  "id": 857591989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863754,21.306859,-157.863754,21.306859",
+    "geom:latitude":21.306859,
+    "geom:longitude":-157.863754,
+    "iso:country":"US",
+    "sg:address":"191 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 525 8431",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04o5EGTvsVZiDy8PLcEgbj_21.306859_-157.863754@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203805,
+    "wof:geomhash":"ced208027e6e3a66fc2b98fa63a74af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857591989
+        }
+    ],
+    "wof:id":857591989,
+    "wof:lastmodified":1464203805,
+    "wof:name":"Hawaii Maritime Ctr Library",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -157.863754,
+    21.306859,
+    -157.863754,
+    21.306859
+],
+  "geometry": {"coordinates":[-157.863754,21.306859],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857541433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852634,21.332107,-157.852634,21.332107",
+    "geom:latitude":21.332107,
+    "geom:longitude":-157.852634,
+    "iso:country":"US",
+    "sg:address":"801 Alewa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 7711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dsH2sHjRic1YCmSy8fzYz_21.332107_-157.852634@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202764,
+    "wof:geomhash":"304e7e7f835b315d51cdd58ef2e5f298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857541433
+        }
+    ],
+    "wof:id":857541433,
+    "wof:lastmodified":1464202764,
+    "wof:name":"Queen Street Deli",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.852634,
+    21.332107,
+    -157.852634,
+    21.332107
+],
+  "geometry": {"coordinates":[-157.85263399999999,21.332107],"type":"Point"}
+}

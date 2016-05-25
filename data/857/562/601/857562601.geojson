@@ -1,0 +1,71 @@
+{
+  "id": 857562601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.03552,21.341939,-158.03552,21.341939",
+    "geom:latitude":21.341939,
+    "geom:longitude":-158.03552,
+    "iso:country":"US",
+    "sg:address":"1202 Renton Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 541 3228",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDYUHqMYY2RSLhM82AfPf_21.341939_-158.035520@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203213,
+    "wof:geomhash":"f7b55012cdbc0fd5f1407aa7222f4019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857562601
+        }
+    ],
+    "wof:id":857562601,
+    "wof:lastmodified":1464203213,
+    "wof:name":"Nesu",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -158.03552,
+    21.341939,
+    -158.03552,
+    21.341939
+],
+  "geometry": {"coordinates":[-158.03551999999999,21.341939],"type":"Point"}
+}

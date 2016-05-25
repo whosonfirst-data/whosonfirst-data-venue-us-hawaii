@@ -1,0 +1,71 @@
+{
+  "id": 857524507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.215064,21.466643,-158.215064,21.466643",
+    "geom:latitude":21.466643,
+    "geom:longitude":-158.215064,
+    "iso:country":"US",
+    "sg:address":"839 Fricke St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 2832",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gmOdAF6HicAWZSaJ3viUW_21.466643_-158.215064@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202439,
+    "wof:geomhash":"380dfe271ce9641bf389cc4de5133a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857524507
+        }
+    ],
+    "wof:id":857524507,
+    "wof:lastmodified":1464202439,
+    "wof:name":"Angels 24 Hour Towing",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.215064,
+    21.466643,
+    -158.215064,
+    21.466643
+],
+  "geometry": {"coordinates":[-158.21506400000001,21.466643],"type":"Point"}
+}

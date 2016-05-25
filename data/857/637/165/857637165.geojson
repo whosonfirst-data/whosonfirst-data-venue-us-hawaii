@@ -1,0 +1,71 @@
+{
+  "id": 857637165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829376,21.294698,-157.829376,21.294698",
+    "geom:latitude":21.294698,
+    "geom:longitude":-157.829376,
+    "iso:country":"US",
+    "sg:address":"2020 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1575",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sKw2wRexq1CBCfU6rDbKK_21.294698_-157.829376@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204910,
+    "wof:geomhash":"0763a043f48ae4067956c778525039a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857637165
+        }
+    ],
+    "wof:id":857637165,
+    "wof:lastmodified":1464204910,
+    "wof:name":"Hawaii Ishizuchi Jinja",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.829376,
+    21.294698,
+    -157.829376,
+    21.294698
+],
+  "geometry": {"coordinates":[-157.829376,21.294698],"type":"Point"}
+}

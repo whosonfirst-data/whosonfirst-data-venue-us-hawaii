@@ -1,0 +1,91 @@
+{
+  "id": 857586977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.940105,21.337164,-157.940105,21.337164",
+    "geom:latitude":21.337164,
+    "geom:longitude":-157.940105,
+    "iso:country":"US",
+    "sg:address":"470 Kuntz Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 4831",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "support",
+        "maintenance",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sBgerkwwIqBw4aII4CefJ_21.337164_-157.940105@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203694,
+    "wof:geomhash":"5390570c220ec2f2a6ffca83bf5d4703",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857586977
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857586977
+        }
+    ],
+    "wof:id":857586977,
+    "wof:lastmodified":1464203694,
+    "wof:name":"Del-Jen Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "support",
+        "maintenance",
+        "facility"
+    ]
+},
+  "bbox": [
+    -157.940105,
+    21.337164,
+    -157.940105,
+    21.337164
+],
+  "geometry": {"coordinates":[-157.94010499999999,21.337164],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857562167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.685131,21.302222,-157.685131,21.302222",
+    "geom:latitude":21.302222,
+    "geom:longitude":-157.685131,
+    "iso:country":"US",
+    "sg:address":"1078 Lunalilo Home Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 4273",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QUw1MmENW4hJ6x9jYZGwr_21.302222_-157.685131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203206,
+    "wof:geomhash":"10faa614235a20be6e6c8a09f99e5bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857562167
+        }
+    ],
+    "wof:id":857562167,
+    "wof:lastmodified":1464203206,
+    "wof:name":"Pipe Organ Building",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.685131,
+    21.302222,
+    -157.685131,
+    21.302222
+],
+  "geometry": {"coordinates":[-157.68513100000001,21.302222],"type":"Point"}
+}

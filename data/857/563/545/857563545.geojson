@@ -1,0 +1,72 @@
+{
+  "id": 857563545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831605,21.297459,-157.831605,21.297459",
+    "geom:latitude":21.297459,
+    "geom:longitude":-157.831605,
+    "iso:country":"US",
+    "sg:address":"1808 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 1900",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "sg:website":"www.hawaiinursinghomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V8tQhHjfoqhvDfoL1zjnm_21.297459_-157.831605@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203230,
+    "wof:geomhash":"874c74b0ac26ae8951f86b1bfc477f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857563545
+        }
+    ],
+    "wof:id":857563545,
+    "wof:lastmodified":1464203230,
+    "wof:name":"Oahu Care Facility",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -157.831605,
+    21.297459,
+    -157.831605,
+    21.297459
+],
+  "geometry": {"coordinates":[-157.831605,21.297459],"type":"Point"}
+}

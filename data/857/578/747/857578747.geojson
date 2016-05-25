@@ -1,0 +1,66 @@
+{
+  "id": 857578747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865005,21.330493,-157.865005,21.330493",
+    "geom:latitude":21.330493,
+    "geom:longitude":-157.865005,
+    "iso:country":"US",
+    "sg:address":"1242 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5649",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YQg8GaKzb1H3X8o8X9k8S_21.330493_-157.865005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203527,
+    "wof:geomhash":"53e718a8efa184437e6296aa7610631a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857578747
+        }
+    ],
+    "wof:id":857578747,
+    "wof:lastmodified":1464203527,
+    "wof:name":"Transworld Fashion",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.865005,
+    21.330493,
+    -157.865005,
+    21.330493
+],
+  "geometry": {"coordinates":[-157.865005,21.330493],"type":"Point"}
+}

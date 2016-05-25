@@ -1,0 +1,75 @@
+{
+  "id": 857567497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.176179,21.420139,-158.176179,21.420139",
+    "geom:latitude":21.420139,
+    "geom:longitude":-158.176179,
+    "iso:country":"US",
+    "sg:address":"137 Maliona St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 9424",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5PgXySWe6UGdt0m6Ule0_21.420139_-158.176179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203307,
+    "wof:geomhash":"251d543ce792ec2e1b2b9db481cc3dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857567497
+        }
+    ],
+    "wof:id":857567497,
+    "wof:lastmodified":1464203307,
+    "wof:name":"Medeiros Trucking",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.176179,
+    21.420139,
+    -158.176179,
+    21.420139
+],
+  "geometry": {"coordinates":[-158.17617899999999,21.420139],"type":"Point"}
+}

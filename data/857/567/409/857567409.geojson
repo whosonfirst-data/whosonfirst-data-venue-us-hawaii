@@ -1,0 +1,78 @@
+{
+  "id": 857567409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86274,21.311531,-157.86274,21.311531",
+    "geom:latitude":21.311531,
+    "geom:longitude":-157.86274,
+    "iso:country":"US",
+    "sg:address":"1033 Smith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 8232",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PrZ8RKzwSim6seo7a7opR_21.311531_-157.862740@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203305,
+    "wof:geomhash":"5ca7719cc602c41e3e26eaa16dd01e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857567409
+        }
+    ],
+    "wof:id":857567409,
+    "wof:lastmodified":1464203305,
+    "wof:name":"Digital World Systems LLC",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -157.86274,
+    21.311531,
+    -157.86274,
+    21.311531
+],
+  "geometry": {"coordinates":[-157.86274,21.311531],"type":"Point"}
+}

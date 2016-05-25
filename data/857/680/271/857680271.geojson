@@ -1,0 +1,71 @@
+{
+  "id": 857680271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.692513,21.294267,-157.692513,21.294267",
+    "geom:latitude":21.294267,
+    "geom:longitude":-157.692513,
+    "iso:country":"US",
+    "sg:address":"752 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 8811",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52LUfgyEYcmaLbNZMsE7ki_21.294267_-157.692513@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206738,
+    "wof:geomhash":"cc7a792748043b65f9cb6736ac36fa35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857680271
+        }
+    ],
+    "wof:id":857680271,
+    "wof:lastmodified":1464206738,
+    "wof:name":"Sealy Mattress Co",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -157.692513,
+    21.294267,
+    -157.692513,
+    21.294267
+],
+  "geometry": {"coordinates":[-157.69251299999999,21.294267],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857524547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.489052,20.899672,-156.489052,20.899672",
+    "geom:latitude":20.899672,
+    "geom:longitude":-156.489052,
+    "iso:country":"US",
+    "sg:address":"1010 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 8184",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ea0Ip9O9LjIw07GtxuO9T_20.899672_-156.489052@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202440,
+    "wof:geomhash":"56a90ffdf3fa12d8f1e07882c8689a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857524547
+        }
+    ],
+    "wof:id":857524547,
+    "wof:lastmodified":1464202440,
+    "wof:name":"Hot Rod Alley",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.489052,
+    20.899672,
+    -156.489052,
+    20.899672
+],
+  "geometry": {"coordinates":[-156.48905199999999,20.899672],"type":"Point"}
+}

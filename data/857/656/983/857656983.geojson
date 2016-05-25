@@ -1,0 +1,81 @@
+{
+  "id": 857656983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.715846,21.336381,-157.715846,21.336381",
+    "geom:latitude":21.336381,
+    "geom:longitude":-157.715846,
+    "iso:country":"US",
+    "sg:address":"650 Ahiki St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 8822",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hS5zvYZYbCzVltU1hL67W_21.336381_-157.715846@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205766,
+    "wof:geomhash":"7f245a06a14a392c84e743f0eb736e3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857656983
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857656983
+        }
+    ],
+    "wof:id":857656983,
+    "wof:lastmodified":1464205766,
+    "wof:name":"US Plant Protection Quarantine",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -157.715846,
+    21.336381,
+    -157.715846,
+    21.336381
+],
+  "geometry": {"coordinates":[-157.715846,21.336381],"type":"Point"}
+}

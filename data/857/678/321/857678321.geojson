@@ -1,0 +1,72 @@
+{
+  "id": 857678321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797344,21.319891,-157.797344,21.319891",
+    "geom:latitude":21.319891,
+    "geom:longitude":-157.797344,
+    "iso:country":"US",
+    "sg:address":"3697 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6121",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "programming"
+    ],
+    "sg:website":"www.smgames.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fju4CaecBXVRBMjEtCXNy_21.319891_-157.797344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206666,
+    "wof:geomhash":"8878a1ccbf3bd66b8f14490922720a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857678321
+        }
+    ],
+    "wof:id":857678321,
+    "wof:lastmodified":1464206666,
+    "wof:name":"Stick Man Games",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -157.797344,
+    21.319891,
+    -157.797344,
+    21.319891
+],
+  "geometry": {"coordinates":[-157.79734400000001,21.319891],"type":"Point"}
+}

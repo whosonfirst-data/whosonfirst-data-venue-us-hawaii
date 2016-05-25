@@ -1,0 +1,71 @@
+{
+  "id": 857679781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.467145,20.888152,-156.467145,20.888152",
+    "geom:latitude":20.888152,
+    "geom:longitude":-156.467145,
+    "iso:country":"US",
+    "sg:address":"25 W Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 7705",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K5ZNlI1ArzIOUmPi05KnU_20.888152_-156.467145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206722,
+    "wof:geomhash":"5e4b40247c92da84e026879784674db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857679781
+        }
+    ],
+    "wof:id":857679781,
+    "wof:lastmodified":1464206722,
+    "wof:name":"Kahului Federal Credit Union",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -156.467145,
+    20.888152,
+    -156.467145,
+    20.888152
+],
+  "geometry": {"coordinates":[-156.46714499999999,20.888152],"type":"Point"}
+}

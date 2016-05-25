@@ -1,0 +1,69 @@
+{
+  "id": 857561275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.786884,19.932619,-155.786884,19.932619",
+    "geom:latitude":19.932619,
+    "geom:longitude":-155.786884,
+    "iso:country":"US",
+    "sg:address":"1869 W Kaupapa Pl",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 883 8055",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07t9URUwVT5VcwRsoPlsDh_19.932619_-155.786884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203187,
+    "wof:geomhash":"ae677bd3880fcf3515006ba4901059a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857561275
+        }
+    ],
+    "wof:id":857561275,
+    "wof:lastmodified":1464203187,
+    "wof:name":"Cajun Construction Inc",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.786884,
+    19.932619,
+    -155.786884,
+    19.932619
+],
+  "geometry": {"coordinates":[-155.78688399999999,19.932619],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857637303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910255,21.344954,-157.910255,21.344954",
+    "geom:latitude":21.344954,
+    "geom:longitude":-157.910255,
+    "iso:country":"US",
+    "sg:address":"3161 Ala Ilima St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 9058",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jF7PhzhOhtYezwlcAQzEq_21.344954_-157.910255@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204915,
+    "wof:geomhash":"dbd1ac5f896a800ea2fd584ac179ad1e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857637303
+        }
+    ],
+    "wof:id":857637303,
+    "wof:lastmodified":1464204915,
+    "wof:name":"Century West",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.910255,
+    21.344954,
+    -157.910255,
+    21.344954
+],
+  "geometry": {"coordinates":[-157.91025500000001,21.344954],"type":"Point"}
+}

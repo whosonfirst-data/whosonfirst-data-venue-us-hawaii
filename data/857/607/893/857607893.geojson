@@ -1,0 +1,71 @@
+{
+  "id": 857607893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.795389,21.285037,-157.795389,21.285037",
+    "geom:latitude":21.285037,
+    "geom:longitude":-157.795389,
+    "iso:country":"US",
+    "sg:address":"1355 13th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 6961",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V5qMYwCJV1uouQiyYgGZc_21.285037_-157.795389@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204162,
+    "wof:geomhash":"3f5bb18b2d11094ef650dea4a35c64d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857607893
+        }
+    ],
+    "wof:id":857607893,
+    "wof:lastmodified":1464204162,
+    "wof:name":"Hawaii Motion Tour Trnsprttn",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.795389,
+    21.285037,
+    -157.795389,
+    21.285037
+],
+  "geometry": {"coordinates":[-157.795389,21.285037],"type":"Point"}
+}

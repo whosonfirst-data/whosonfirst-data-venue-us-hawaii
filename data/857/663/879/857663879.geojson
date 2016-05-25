@@ -1,0 +1,73 @@
+{
+  "id": 857663879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.948478,21.407813,-157.948478,21.407813",
+    "geom:latitude":21.407813,
+    "geom:longitude":-157.948478,
+    "iso:country":"US",
+    "sg:address":"1787 Kaahumanu St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 454 1524",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37BAwrW8tXPK2i0whwRyeJ_21.407813_-157.948478@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206081,
+    "wof:geomhash":"c114a98d8e9d5aabde62172f2ed7c420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857663879
+        }
+    ],
+    "wof:id":857663879,
+    "wof:lastmodified":1464206081,
+    "wof:name":"Service Group",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.948478,
+    21.407813,
+    -157.948478,
+    21.407813
+],
+  "geometry": {"coordinates":[-157.94847799999999,21.407813],"type":"Point"}
+}

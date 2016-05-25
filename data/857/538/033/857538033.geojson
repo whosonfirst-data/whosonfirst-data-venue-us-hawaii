@@ -1,0 +1,74 @@
+{
+  "id": 857538033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86004,21.31142,-157.86004,21.31142",
+    "geom:latitude":21.31142,
+    "geom:longitude":-157.86004,
+    "iso:country":"US",
+    "sg:address":"1183 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 1237",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "sg:website":"www.qlaser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dgtLaQNJK3inr7HRak7NC_21.311420_-157.860040@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202699,
+    "wof:geomhash":"2b97e3e331323f5aa9463419724ca477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857538033
+        }
+    ],
+    "wof:id":857538033,
+    "wof:lastmodified":1464202699,
+    "wof:name":"Q Laser Ctr",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -157.86004,
+    21.31142,
+    -157.86004,
+    21.31142
+],
+  "geometry": {"coordinates":[-157.86004,21.31142],"type":"Point"}
+}

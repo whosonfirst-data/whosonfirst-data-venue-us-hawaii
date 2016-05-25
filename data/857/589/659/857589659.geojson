@@ -1,0 +1,73 @@
+{
+  "id": 857589659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809618,21.26914,-157.809618,21.26914",
+    "geom:latitude":21.26914,
+    "geom:longitude":-157.809618,
+    "iso:country":"US",
+    "sg:address":"3232 Wauke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3449",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "asphalt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hrtWSLplzd4xRs4ZjbIkL_21.269140_-157.809618@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203752,
+    "wof:geomhash":"b3282f3046e1298eb9c6017af5f231d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857589659
+        }
+    ],
+    "wof:id":857589659,
+    "wof:lastmodified":1464203752,
+    "wof:name":"Malarkey Roofing Co",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asphalt",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.809618,
+    21.26914,
+    -157.809618,
+    21.26914
+],
+  "geometry": {"coordinates":[-157.809618,21.26914],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857512713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86261,21.310164,-157.86261,21.310164",
+    "geom:latitude":21.310164,
+    "geom:longitude":-157.86261,
+    "iso:country":"US",
+    "sg:address":"12 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 3312",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kQJAg3bjAePcyV61iENRX_21.310164_-157.862610@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202201,
+    "wof:geomhash":"f532d8b0215e24e2df5512ee9e314036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872737,
+            "region_id":85688671,
+            "venue_id":857512713
+        }
+    ],
+    "wof:id":857512713,
+    "wof:lastmodified":1464202201,
+    "wof:name":"Hawaii Piha",
+    "wof:parent_id":85872737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.86261,
+    21.310164,
+    -157.86261,
+    21.310164
+],
+  "geometry": {"coordinates":[-157.86260999999999,21.310164],"type":"Point"}
+}

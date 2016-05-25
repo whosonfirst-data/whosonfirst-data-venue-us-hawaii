@@ -1,0 +1,75 @@
+{
+  "id": 857658387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.673498,20.878672,-156.673498,20.878672",
+    "geom:latitude":20.878672,
+    "geom:longitude":-156.673498,
+    "iso:country":"US",
+    "sg:address":"788 Pauoa St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 2387",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GyaPWLdyXgyejcTTlbHoF_20.878672_-156.673498@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205836,
+    "wof:geomhash":"c6c5b7a15d4416a75042d41360e33fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890527,
+            "region_id":85688671,
+            "venue_id":857658387
+        }
+    ],
+    "wof:id":857658387,
+    "wof:lastmodified":1464205836,
+    "wof:name":"Maui County Office On Aging",
+    "wof:parent_id":85890527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -156.673498,
+    20.878672,
+    -156.673498,
+    20.878672
+],
+  "geometry": {"coordinates":[-156.673498,20.878672],"type":"Point"}
+}

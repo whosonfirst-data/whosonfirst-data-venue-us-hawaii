@@ -1,0 +1,74 @@
+{
+  "id": 857638265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861261,21.297108,-157.861261,21.297108",
+    "geom:latitude":21.297108,
+    "geom:longitude":-157.861261,
+    "iso:country":"US",
+    "sg:address":"704 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 1120",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.jacksonautogroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eNzUw1pDgTrmbW7Z2xWZH_21.297108_-157.861261@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204949,
+    "wof:geomhash":"dc42baf22a309dbfae1598ac7c0c6ac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857638265
+        }
+    ],
+    "wof:id":857638265,
+    "wof:lastmodified":1464204949,
+    "wof:name":"Jackson Volvo Svc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.861261,
+    21.297108,
+    -157.861261,
+    21.297108
+],
+  "geometry": {"coordinates":[-157.86126100000001,21.297108],"type":"Point"}
+}

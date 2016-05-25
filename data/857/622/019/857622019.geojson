@@ -1,0 +1,71 @@
+{
+  "id": 857622019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822228,21.287687,-157.822228,21.287687",
+    "geom:latitude":21.287687,
+    "geom:longitude":-157.822228,
+    "iso:country":"US",
+    "sg:address":"2512 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 4837",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TFdSXYn49z9Ej645heeg4_21.287687_-157.822228@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204474,
+    "wof:geomhash":"8b81991e4c78d7eb39b5bad848ce4325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857622019
+        }
+    ],
+    "wof:id":857622019,
+    "wof:lastmodified":1464204474,
+    "wof:name":"Air Ref Tech Appliance",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -157.822228,
+    21.287687,
+    -157.822228,
+    21.287687
+],
+  "geometry": {"coordinates":[-157.822228,21.287687],"type":"Point"}
+}

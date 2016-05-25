@@ -1,0 +1,71 @@
+{
+  "id": 857558837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.869722,21.326335,-157.869722,21.326335",
+    "geom:latitude":21.326335,
+    "geom:longitude":-157.869722,
+    "iso:country":"US",
+    "sg:address":"1029 Mao Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7611",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mXn9QtJQgXvbIDW9E0Hah_21.326335_-157.869722@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203124,
+    "wof:geomhash":"ae2951047f2e31d43a543bf2702bc1fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857558837
+        }
+    ],
+    "wof:id":857558837,
+    "wof:lastmodified":1464203124,
+    "wof:name":"Phil Hawaii Travel Agency",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.869722,
+    21.326335,
+    -157.869722,
+    21.326335
+],
+  "geometry": {"coordinates":[-157.869722,21.326335],"type":"Point"}
+}

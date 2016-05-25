@@ -1,0 +1,71 @@
+{
+  "id": 857666831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831871,21.295437,-157.831871,21.295437",
+    "geom:latitude":21.295437,
+    "geom:longitude":-157.831871,
+    "iso:country":"US",
+    "sg:address":"1811 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7851",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OqPMabbSnBlC7zh4JY3hM_21.295437_-157.831871@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206218,
+    "wof:geomhash":"69638ec70e72e751486515b7e8ce7ba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857666831
+        }
+    ],
+    "wof:id":857666831,
+    "wof:lastmodified":1464206218,
+    "wof:name":"Ronald M Nakamura DDS",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.831871,
+    21.295437,
+    -157.831871,
+    21.295437
+],
+  "geometry": {"coordinates":[-157.83187100000001,21.295437],"type":"Point"}
+}

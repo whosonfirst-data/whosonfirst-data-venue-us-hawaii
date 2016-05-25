@@ -1,0 +1,71 @@
+{
+  "id": 857575535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844887,21.300216,-157.844887,21.300216",
+    "geom:latitude":21.300216,
+    "geom:longitude":-157.844887,
+    "iso:country":"US",
+    "sg:address":"1150 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8027",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pacn0GPKXAgnJqryNbj8E_21.300216_-157.844887@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203462,
+    "wof:geomhash":"145550b5288c9bde7d10487179628d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857575535
+        }
+    ],
+    "wof:id":857575535,
+    "wof:lastmodified":1464203462,
+    "wof:name":"Y Miyashiro DDS",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.844887,
+    21.300216,
+    -157.844887,
+    21.300216
+],
+  "geometry": {"coordinates":[-157.844887,21.300216],"type":"Point"}
+}

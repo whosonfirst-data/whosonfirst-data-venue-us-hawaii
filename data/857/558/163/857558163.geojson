@@ -1,0 +1,73 @@
+{
+  "id": 857558163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813995,21.280325,-157.813995,21.280325",
+    "geom:latitude":21.280325,
+    "geom:longitude":-157.813995,
+    "iso:country":"US",
+    "sg:address":"707 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 1669",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nrht4WNVATAacQEBEw6ps_21.280325_-157.813995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203106,
+    "wof:geomhash":"465adf313a2716d6c800d07bcbce0602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857558163
+        }
+    ],
+    "wof:id":857558163,
+    "wof:lastmodified":1464203106,
+    "wof:name":"Tesoro",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.813995,
+    21.280325,
+    -157.813995,
+    21.280325
+],
+  "geometry": {"coordinates":[-157.81399500000001,21.280325],"type":"Point"}
+}

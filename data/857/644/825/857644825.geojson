@@ -1,0 +1,74 @@
+{
+  "id": 857644825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840251,21.325701,-157.840251,21.325701",
+    "geom:latitude":21.325701,
+    "geom:longitude":-157.840251,
+    "iso:country":"US",
+    "sg:address":"2670 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 1955",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.halehoaloha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WhkzAKwZBgrftvndgE2fN_21.325701_-157.840251@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205232,
+    "wof:geomhash":"454b03ec3d6d45a623e2503ce0373ac2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857644825
+        }
+    ],
+    "wof:id":857644825,
+    "wof:lastmodified":1464205232,
+    "wof:name":"Hale Ho Aloha ICF",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -157.840251,
+    21.325701,
+    -157.840251,
+    21.325701
+],
+  "geometry": {"coordinates":[-157.84025099999999,21.325701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857663907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02526,21.495525,-158.02526,21.495525",
+    "geom:latitude":21.495525,
+    "geom:longitude":-158.02526,
+    "iso:country":"US",
+    "sg:address":"872 Lemi St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 4004",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_100Miua7t7lrkvBp5bUzxz_21.495525_-158.025260@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206082,
+    "wof:geomhash":"95c02473eef97ed392698d1d0155c9d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857663907
+        }
+    ],
+    "wof:id":857663907,
+    "wof:lastmodified":1464206082,
+    "wof:name":"T's Towing LLC",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -158.02526,
+    21.495525,
+    -158.02526,
+    21.495525
+],
+  "geometry": {"coordinates":[-158.02526,21.495525],"type":"Point"}
+}

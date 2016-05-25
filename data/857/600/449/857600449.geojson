@@ -1,0 +1,75 @@
+{
+  "id": 857600449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853955,21.29706,-157.853955,21.29706",
+    "geom:latitude":21.29706,
+    "geom:longitude":-157.853955,
+    "iso:country":"US",
+    "sg:address":"977 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 1122",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hAuq3EGPu5IYjJtBZ8jM9_21.297060_-157.853955@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203996,
+    "wof:geomhash":"94c6b0a15e8421a8ff7b3e3ddbca84cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857600449
+        }
+    ],
+    "wof:id":857600449,
+    "wof:lastmodified":1464203996,
+    "wof:name":"Tropical Otto Parts",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.853955,
+    21.29706,
+    -157.853955,
+    21.29706
+],
+  "geometry": {"coordinates":[-157.85395500000001,21.29706],"type":"Point"}
+}

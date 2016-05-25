@@ -1,0 +1,71 @@
+{
+  "id": 857670537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799055,21.27365,-157.799055,21.27365",
+    "geom:latitude":21.27365,
+    "geom:longitude":-157.799055,
+    "iso:country":"US",
+    "sg:address":"747 15th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 1053",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74zDXIEksmpu77g79OqM3W_21.273650_-157.799055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206359,
+    "wof:geomhash":"a49fdf0c75d6df21828aa21b0de0466f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857670537
+        }
+    ],
+    "wof:id":857670537,
+    "wof:lastmodified":1464206359,
+    "wof:name":"Ring Cleaner & Jewelry Repr Co",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -157.799055,
+    21.27365,
+    -157.799055,
+    21.27365
+],
+  "geometry": {"coordinates":[-157.79905500000001,21.27365],"type":"Point"}
+}

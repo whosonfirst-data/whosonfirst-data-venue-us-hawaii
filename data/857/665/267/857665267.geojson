@@ -1,0 +1,73 @@
+{
+  "id": 857665267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879497,21.333852,-157.879497,21.333852",
+    "geom:latitude":21.333852,
+    "geom:longitude":-157.879497,
+    "iso:country":"US",
+    "sg:address":"908 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 4818",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33DK4FvkwS15fMAbWWd45I_21.333852_-157.879497@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206142,
+    "wof:geomhash":"c9be5caa06f940f0f34df5574406c17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857665267
+        }
+    ],
+    "wof:id":857665267,
+    "wof:lastmodified":1464206142,
+    "wof:name":"Moon Sewing",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.879497,
+    21.333852,
+    -157.879497,
+    21.333852
+],
+  "geometry": {"coordinates":[-157.87949699999999,21.333852],"type":"Point"}
+}

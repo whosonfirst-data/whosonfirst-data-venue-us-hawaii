@@ -1,0 +1,71 @@
+{
+  "id": 857511159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029665,21.38272,-158.029665,21.38272",
+    "geom:latitude":21.38272,
+    "geom:longitude":-158.029665,
+    "iso:country":"US",
+    "sg:address":"416 Kiau Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4774",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ncYpvwdyTc5F0XlNp6zcY_21.382720_-158.029665@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202170,
+    "wof:geomhash":"79199626456dcacdb99a4ff81abc5b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857511159
+        }
+    ],
+    "wof:id":857511159,
+    "wof:lastmodified":1464202170,
+    "wof:name":"Titanium",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -158.029665,
+    21.38272,
+    -158.029665,
+    21.38272
+],
+  "geometry": {"coordinates":[-158.02966499999999,21.38272],"type":"Point"}
+}

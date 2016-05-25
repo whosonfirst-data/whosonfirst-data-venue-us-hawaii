@@ -1,0 +1,73 @@
+{
+  "id": 857507901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.016258,21.378567,-158.016258,21.378567",
+    "geom:latitude":21.378567,
+    "geom:longitude":-158.016258,
+    "iso:country":"US",
+    "sg:address":"252 Pupuole St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 8121",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63o4aWa2woAfv6nMHITVOo_21.378567_-158.016258@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202103,
+    "wof:geomhash":"8bca115db486ea283cf21d70c779b2c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857507901
+        }
+    ],
+    "wof:id":857507901,
+    "wof:lastmodified":1464202103,
+    "wof:name":"B H Auto Body Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -158.016258,
+    21.378567,
+    -158.016258,
+    21.378567
+],
+  "geometry": {"coordinates":[-158.01625799999999,21.378567],"type":"Point"}
+}

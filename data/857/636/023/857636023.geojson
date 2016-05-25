@@ -1,0 +1,73 @@
+{
+  "id": 857636023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.746525,21.411384,-157.746525,21.411384",
+    "geom:latitude":21.411384,
+    "geom:longitude":-157.746525,
+    "iso:country":"US",
+    "sg:address":"148 Pukoa St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 5507",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineering",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ES2LkR2meKXZ892l6rkJY_21.411384_-157.746525@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204869,
+    "wof:geomhash":"ffe96178825869707c980c91ae2f3721",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857636023
+        }
+    ],
+    "wof:id":857636023,
+    "wof:lastmodified":1464204869,
+    "wof:name":"Pukoa Consulting Inc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -157.746525,
+    21.411384,
+    -157.746525,
+    21.411384
+],
+  "geometry": {"coordinates":[-157.74652499999999,21.411384],"type":"Point"}
+}

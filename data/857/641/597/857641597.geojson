@@ -1,0 +1,71 @@
+{
+  "id": 857641597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.07145,21.496458,-158.07145,21.496458",
+    "geom:latitude":21.496458,
+    "geom:longitude":-158.07145,
+    "iso:country":"US",
+    "sg:address":"1882 Noho Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 624 2300",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T5jNw5boMpC962yuenMkV_21.496458_-158.071450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205083,
+    "wof:geomhash":"b7691fa15b7b68984c274473da55bab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857641597
+        }
+    ],
+    "wof:id":857641597,
+    "wof:lastmodified":1464205083,
+    "wof:name":"Maria Victoria Rebollozo",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "day"
+    ]
+},
+  "bbox": [
+    -158.07145,
+    21.496458,
+    -158.07145,
+    21.496458
+],
+  "geometry": {"coordinates":[-158.07145,21.496458],"type":"Point"}
+}

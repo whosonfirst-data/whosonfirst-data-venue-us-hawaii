@@ -1,0 +1,71 @@
+{
+  "id": 857584041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972016,21.326298,-157.972016,21.326298",
+    "geom:latitude":21.326298,
+    "geom:longitude":-157.972016,
+    "iso:country":"US",
+    "sg:address":"6880 Iroquois Ave",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 499 1234",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3amyAmdrdGAm9Iv3zmHTpP_21.326298_-157.972016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203626,
+    "wof:geomhash":"9833e84fdc5aac960638bea38e728f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857584041
+        }
+    ],
+    "wof:id":857584041,
+    "wof:lastmodified":1464203626,
+    "wof:name":"Keiki Korner",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.972016,
+    21.326298,
+    -157.972016,
+    21.326298
+],
+  "geometry": {"coordinates":[-157.972016,21.326298],"type":"Point"}
+}

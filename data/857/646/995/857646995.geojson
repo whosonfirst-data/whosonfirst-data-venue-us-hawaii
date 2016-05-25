@@ -1,0 +1,68 @@
+{
+  "id": 857646995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.31336,20.85175,-156.31336,20.85175",
+    "geom:latitude":20.85175,
+    "geom:longitude":-156.31336,
+    "iso:country":"US",
+    "sg:address":"1075 Makawao Ave",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 0019",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937687,
+        102085577,
+        85890581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oOpjyDIgYn745vJjLNeMw_20.851750_-156.313360@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205337,
+    "wof:geomhash":"1da943ea61e031695d2b841eb5bd85d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937687,
+            "neighbourhood_id":85890581,
+            "region_id":85688671,
+            "venue_id":857646995
+        }
+    ],
+    "wof:id":857646995,
+    "wof:lastmodified":1464205337,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85890581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.31336,
+    20.85175,
+    -156.31336,
+    20.85175
+],
+  "geometry": {"coordinates":[-156.31335999999999,20.85175],"type":"Point"}
+}

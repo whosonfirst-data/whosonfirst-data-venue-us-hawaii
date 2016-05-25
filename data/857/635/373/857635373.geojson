@@ -1,0 +1,68 @@
+{
+  "id": 857635373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.682226,20.881463,-156.682226,20.881463",
+    "geom:latitude":20.881463,
+    "geom:longitude":-156.682226,
+    "iso:country":"US",
+    "sg:address":"843 Wainee St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 8339",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oQgS0pwaN04DVGWd9k4Ar_20.881463_-156.682226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204845,
+    "wof:geomhash":"2b8f4ed8ee966095759622cfc72ece57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857635373
+        }
+    ],
+    "wof:id":857635373,
+    "wof:lastmodified":1464204845,
+    "wof:name":"Lahaina Pharmacy",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.682226,
+    20.881463,
+    -156.682226,
+    20.881463
+],
+  "geometry": {"coordinates":[-156.68222600000001,20.881463],"type":"Point"}
+}

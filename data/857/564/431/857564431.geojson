@@ -1,0 +1,83 @@
+{
+  "id": 857564431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856379,21.297178,-157.856379,21.297178",
+    "geom:latitude":21.297178,
+    "geom:longitude":-157.856379,
+    "iso:country":"US",
+    "sg:address":"330 Kamani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 592 0233",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "specialty",
+        "supply"
+    ],
+    "sg:website":"www.fiddlers.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a0QBvUOahgNG2Gtw7dLi7_21.297178_-157.856379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203246,
+    "wof:geomhash":"9454d60acf7b041458968f30980a1f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857564431
+        }
+    ],
+    "wof:id":857564431,
+    "wof:lastmodified":1464203246,
+    "wof:name":"Fiddler's",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "specialty",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.856379,
+    21.297178,
+    -157.856379,
+    21.297178
+],
+  "geometry": {"coordinates":[-157.856379,21.297178],"type":"Point"}
+}

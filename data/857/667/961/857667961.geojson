@@ -1,0 +1,75 @@
+{
+  "id": 857667961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.926093,19.522796,-154.926093,19.522796",
+    "geom:latitude":19.522796,
+    "geom:longitude":-154.926093,
+    "iso:country":"US",
+    "sg:address":"966 Punawai St",
+    "sg:city":"Pahoa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 9882",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937457,
+        102085433,
+        85890629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QDxXQUHWcQ9mk2wl6Tbxp_19.522796_-154.926093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206258,
+    "wof:geomhash":"e51eeb70ea83ef442f7d8e5e512c3362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937457,
+            "neighbourhood_id":85890629,
+            "region_id":85688671,
+            "venue_id":857667961
+        }
+    ],
+    "wof:id":857667961,
+    "wof:lastmodified":1464206258,
+    "wof:name":"Miller & Lieb Water Co",
+    "wof:parent_id":85890629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -154.926093,
+    19.522796,
+    -154.926093,
+    19.522796
+],
+  "geometry": {"coordinates":[-154.92609300000001,19.522796],"type":"Point"}
+}

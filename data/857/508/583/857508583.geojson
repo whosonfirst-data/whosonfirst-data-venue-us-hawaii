@@ -1,0 +1,73 @@
+{
+  "id": 857508583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.349254,20.769377,-156.349254,20.769377",
+    "geom:latitude":20.769377,
+    "geom:longitude":-156.349254,
+    "iso:country":"US",
+    "sg:address":"199 Calasa Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 876 0044",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oezxuj2R3aNbfwJUPbSe3_20.769377_-156.349254@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202116,
+    "wof:geomhash":"a4151404cddb64173fa1905035fa0fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857508583
+        }
+    ],
+    "wof:id":857508583,
+    "wof:lastmodified":1464202116,
+    "wof:name":"Kula Fire Station",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -156.349254,
+    20.769377,
+    -156.349254,
+    20.769377
+],
+  "geometry": {"coordinates":[-156.349254,20.769377],"type":"Point"}
+}

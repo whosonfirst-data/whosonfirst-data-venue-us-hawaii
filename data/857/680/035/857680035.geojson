@@ -1,0 +1,73 @@
+{
+  "id": 857680035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848543,21.294583,-157.848543,21.294583",
+    "geom:latitude":21.294583,
+    "geom:longitude":-157.848543,
+    "iso:country":"US",
+    "sg:address":"1146 Kona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 9170",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ffscOTPmTJ6QrTvyGpM4z_21.294583_-157.848543@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206730,
+    "wof:geomhash":"690ec277aacb594aac695105c1b9662d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857680035
+        }
+    ],
+    "wof:id":857680035,
+    "wof:lastmodified":1464206730,
+    "wof:name":"Tanya Automotive Specialists",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.848543,
+    21.294583,
+    -157.848543,
+    21.294583
+],
+  "geometry": {"coordinates":[-157.84854300000001,21.294583],"type":"Point"}
+}

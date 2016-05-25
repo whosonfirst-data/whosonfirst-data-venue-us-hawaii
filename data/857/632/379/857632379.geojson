@@ -1,0 +1,71 @@
+{
+  "id": 857632379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844906,21.300063,-157.844906,21.300063",
+    "geom:latitude":21.300063,
+    "geom:longitude":-157.844906,
+    "iso:country":"US",
+    "sg:address":"1149 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 3261",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52YpzcLuarlzIKuikDc8i9_21.300063_-157.844906@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204729,
+    "wof:geomhash":"d7621ed1c942b515c261eadf6906c0f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857632379
+        }
+    ],
+    "wof:id":857632379,
+    "wof:lastmodified":1464204729,
+    "wof:name":"B-One Distributors",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -157.844906,
+    21.300063,
+    -157.844906,
+    21.300063
+],
+  "geometry": {"coordinates":[-157.84490600000001,21.300063],"type":"Point"}
+}

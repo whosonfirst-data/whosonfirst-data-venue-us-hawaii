@@ -1,0 +1,73 @@
+{
+  "id": 857616631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.920129,21.358898,-157.920129,21.358898",
+    "geom:latitude":21.358898,
+    "geom:longitude":-157.920129,
+    "iso:country":"US",
+    "sg:address":"1148 Vitex Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 2232",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hX3x1GNjJXrwbw6SpE26s_21.358898_-157.920129@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204351,
+    "wof:geomhash":"e5b06952ffd32d941fc228525957f818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857616631
+        }
+    ],
+    "wof:id":857616631,
+    "wof:lastmodified":1464204351,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -157.920129,
+    21.358898,
+    -157.920129,
+    21.358898
+],
+  "geometry": {"coordinates":[-157.920129,21.358898],"type":"Point"}
+}

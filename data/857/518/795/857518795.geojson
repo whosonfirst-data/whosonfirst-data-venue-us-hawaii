@@ -1,0 +1,71 @@
+{
+  "id": 857518795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821865,21.286108,-157.821865,21.286108",
+    "geom:latitude":21.286108,
+    "geom:longitude":-157.821865,
+    "iso:country":"US",
+    "sg:address":"2558 Date St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2838",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DKALVFQ13EOWJvgqYjKFu_21.286108_-157.821865@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202326,
+    "wof:geomhash":"007de65942438495b990401047c78db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857518795
+        }
+    ],
+    "wof:id":857518795,
+    "wof:lastmodified":1464202326,
+    "wof:name":"Jinhee Limousine Service",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.821865,
+    21.286108,
+    -157.821865,
+    21.286108
+],
+  "geometry": {"coordinates":[-157.821865,21.286108],"type":"Point"}
+}

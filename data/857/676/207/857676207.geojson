@@ -1,0 +1,78 @@
+{
+  "id": 857676207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8878,21.321902,-157.8878,21.321902",
+    "geom:latitude":21.321902,
+    "geom:longitude":-157.8878,
+    "iso:country":"US",
+    "sg:address":"1930 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 1661",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "commercial",
+        "family"
+    ],
+    "sg:website":"www.younglaundry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c0bCl0pgQOG17LVPZUycB_21.321902_-157.887800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206584,
+    "wof:geomhash":"97f5a766d8207b28b5677c0b65964f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857676207
+        }
+    ],
+    "wof:id":857676207,
+    "wof:lastmodified":1464206584,
+    "wof:name":"Young Laundry & Dry Cleaning",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "commercial",
+        "family"
+    ]
+},
+  "bbox": [
+    -157.8878,
+    21.321902,
+    -157.8878,
+    21.321902
+],
+  "geometry": {"coordinates":[-157.8878,21.321902],"type":"Point"}
+}

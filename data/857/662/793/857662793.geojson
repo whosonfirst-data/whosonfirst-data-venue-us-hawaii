@@ -1,0 +1,78 @@
+{
+  "id": 857662793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798411,21.258835,-157.798411,21.258835",
+    "geom:latitude":21.258835,
+    "geom:longitude":-157.798411,
+    "iso:country":"US",
+    "sg:address":"3787 Diamond Head Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3511",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instrument",
+        "surgeon",
+        "mfg",
+        "physician"
+    ],
+    "sg:website":"www.cloward.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RsCDfwz7a7mlffij6nYkE_21.258835_-157.798411@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206039,
+    "wof:geomhash":"2c2a030b796b0d844fd8098e76129512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857662793
+        }
+    ],
+    "wof:id":857662793,
+    "wof:lastmodified":1464206039,
+    "wof:name":"Cloward Instrument Corporation",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surgeon",
+        "mfg",
+        "physician"
+    ]
+},
+  "bbox": [
+    -157.798411,
+    21.258835,
+    -157.798411,
+    21.258835
+],
+  "geometry": {"coordinates":[-157.79841099999999,21.258835],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857569265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852978,21.35965,-157.852978,21.35965",
+    "geom:latitude":21.35965,
+    "geom:longitude":-157.852978,
+    "iso:country":"US",
+    "sg:address":"3185 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1019",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qffd5uIqNsRMl60lnb71M_21.359650_-157.852978@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203338,
+    "wof:geomhash":"261c70e4269550f3a1b5ab30025b6c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857569265
+        }
+    ],
+    "wof:id":857569265,
+    "wof:lastmodified":1464203338,
+    "wof:name":"Computer Analysis",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.852978,
+    21.35965,
+    -157.852978,
+    21.35965
+],
+  "geometry": {"coordinates":[-157.85297800000001,21.35965],"type":"Point"}
+}

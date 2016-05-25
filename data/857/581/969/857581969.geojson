@@ -1,0 +1,73 @@
+{
+  "id": 857581969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834114,21.300672,-157.834114,21.300672",
+    "geom:latitude":21.300672,
+    "geom:longitude":-157.834114,
+    "iso:country":"US",
+    "sg:address":"1212 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 6524",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gS8Oy1rYQ0LR579GqwmhW_21.300672_-157.834114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203585,
+    "wof:geomhash":"a5826c19cbc6eb4045d8272c8f45b77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857581969
+        }
+    ],
+    "wof:id":857581969,
+    "wof:lastmodified":1464203585,
+    "wof:name":"First Hawaii Title Corp",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -157.834114,
+    21.300672,
+    -157.834114,
+    21.300672
+],
+  "geometry": {"coordinates":[-157.834114,21.300672],"type":"Point"}
+}

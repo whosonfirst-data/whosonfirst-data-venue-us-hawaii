@@ -1,0 +1,75 @@
+{
+  "id": 857662141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861,21.298472,-157.861,21.298472",
+    "geom:latitude":21.298472,
+    "geom:longitude":-157.861,
+    "iso:country":"US",
+    "sg:address":"679 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 3848",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66JCLLFbmT1DJACWTpKpIJ_21.298472_-157.861000@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206017,
+    "wof:geomhash":"f5787ccf55ed4bfa13a0613ca3a6671b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857662141
+        }
+    ],
+    "wof:id":857662141,
+    "wof:lastmodified":1464206017,
+    "wof:name":"Premo's Piano Shop",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.861,
+    21.298472,
+    -157.861,
+    21.298472
+],
+  "geometry": {"coordinates":[-157.86099999999999,21.298472],"type":"Point"}
+}

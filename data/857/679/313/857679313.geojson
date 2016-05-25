@@ -1,0 +1,69 @@
+{
+  "id": 857679313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.36803,21.979519,-159.36803,21.979519",
+    "geom:latitude":21.979519,
+    "geom:longitude":-159.36803,
+    "iso:country":"US",
+    "sg:address":"3204 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5113",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wETum3ytHEfaYCO8hth6I_21.979519_-159.368030@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206703,
+    "wof:geomhash":"75c16b6a1d1d9d295adabea88666a95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857679313
+        }
+    ],
+    "wof:id":857679313,
+    "wof:lastmodified":1464206703,
+    "wof:name":"A Touch of Elegance Salon",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -159.36803,
+    21.979519,
+    -159.36803,
+    21.979519
+],
+  "geometry": {"coordinates":[-159.36803,21.979519],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857613865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.395554,21.96674,-159.395554,21.96674",
+    "geom:latitude":21.96674,
+    "geom:longitude":-159.395554,
+    "iso:country":"US",
+    "sg:address":"4490 Puhi Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 8828",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GAscTNPoDvTksstu7V3m7_21.966740_-159.395554@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204298,
+    "wof:geomhash":"dbd904c6e979b4d17b58f7b24778df72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857613865
+        }
+    ],
+    "wof:id":857613865,
+    "wof:lastmodified":1464204298,
+    "wof:name":"Puhi Paint",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -159.395554,
+    21.96674,
+    -159.395554,
+    21.96674
+],
+  "geometry": {"coordinates":[-159.395554,21.96674],"type":"Point"}
+}

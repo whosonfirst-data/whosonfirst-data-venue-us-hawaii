@@ -1,0 +1,74 @@
+{
+  "id": 857681555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861215,21.319795,-157.861215,21.319795",
+    "geom:latitude":21.319795,
+    "geom:longitude":-157.861215,
+    "iso:country":"US",
+    "sg:address":"1425 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/109805-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 4500",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X3wJw46ufW0f2yHZZkcY5_21.319795_-157.861215@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206788,
+    "wof:geomhash":"d0f0ac8421a0798f4a72f08bcbdbd32c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857681555
+        }
+    ],
+    "wof:id":857681555,
+    "wof:lastmodified":1464206788,
+    "wof:name":"Subway",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.861215,
+    21.319795,
+    -157.861215,
+    21.319795
+],
+  "geometry": {"coordinates":[-157.86121499999999,21.319795],"type":"Point"}
+}

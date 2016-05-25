@@ -1,0 +1,68 @@
+{
+  "id": 857541949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.948463,19.494994,-154.948463,19.494994",
+    "geom:latitude":19.494994,
+    "geom:longitude":-154.948463,
+    "iso:country":"US",
+    "sg:address":"333 Pahoa Rd",
+    "sg:city":"Pahoa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 7033",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937457,
+        102085433,
+        85890629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5paQTXP3x5chqf20nvxAdN_19.494994_-154.948463@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202773,
+    "wof:geomhash":"6482e243c99813dc461835b260ce4e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937457,
+            "neighbourhood_id":85890629,
+            "region_id":85688671,
+            "venue_id":857541949
+        }
+    ],
+    "wof:id":857541949,
+    "wof:lastmodified":1464202773,
+    "wof:name":"Paolo's Bistro",
+    "wof:parent_id":85890629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -154.948463,
+    19.494994,
+    -154.948463,
+    19.494994
+],
+  "geometry": {"coordinates":[-154.948463,19.494994],"type":"Point"}
+}

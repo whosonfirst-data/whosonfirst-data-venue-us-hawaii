@@ -1,0 +1,73 @@
+{
+  "id": 857668699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877829,21.305817,-157.877829,21.305817",
+    "geom:latitude":21.305817,
+    "geom:longitude":-157.877829,
+    "iso:country":"US",
+    "sg:address":"335 Hookela Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2579",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k2soF35gpR6NOHky1LI0C_21.305817_-157.877829@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206282,
+    "wof:geomhash":"ab71e56b4d44ccb51d819087aaa14744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857668699
+        }
+    ],
+    "wof:id":857668699,
+    "wof:lastmodified":1464206282,
+    "wof:name":"M & R Electrical Services",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.877829,
+    21.305817,
+    -157.877829,
+    21.305817
+],
+  "geometry": {"coordinates":[-157.87782899999999,21.305817],"type":"Point"}
+}

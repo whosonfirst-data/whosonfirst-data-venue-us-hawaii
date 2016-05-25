@@ -1,0 +1,80 @@
+{
+  "id": 857664947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866579,21.319263,-157.866579,21.319263",
+    "geom:latitude":21.319263,
+    "geom:longitude":-157.866579,
+    "iso:country":"US",
+    "sg:address":"949 Akepo Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3900",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "geophysical",
+        "survey",
+        "locating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oPM6N0PCc1c73w9h5lc6v_21.319263_-157.866579@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206120,
+    "wof:geomhash":"36bb9f5ca4b21d73e91e81457651c07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857664947
+        }
+    ],
+    "wof:id":857664947,
+    "wof:lastmodified":1464206120,
+    "wof:name":"Hawaii Geophysical Svcs LLC",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "geophysical",
+        "survey",
+        "locating"
+    ]
+},
+  "bbox": [
+    -157.866579,
+    21.319263,
+    -157.866579,
+    21.319263
+],
+  "geometry": {"coordinates":[-157.866579,21.319263],"type":"Point"}
+}

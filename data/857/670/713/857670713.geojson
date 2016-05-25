@@ -1,0 +1,71 @@
+{
+  "id": 857670713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.0061,21.384943,-158.0061,21.384943",
+    "geom:latitude":21.384943,
+    "geom:longitude":-158.0061,
+    "iso:country":"US",
+    "sg:address":"855 Kahuailani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 7709",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49IKn4hnx8nKuflYwuTJYV_21.384943_-158.006100@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206365,
+    "wof:geomhash":"992260642a407003773e9e2017ceac48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857670713
+        }
+    ],
+    "wof:id":857670713,
+    "wof:lastmodified":1464206365,
+    "wof:name":"Waianae Speed Wash",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -158.0061,
+    21.384943,
+    -158.0061,
+    21.384943
+],
+  "geometry": {"coordinates":[-158.0061,21.384943],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857654889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910346,21.376671,-157.910346,21.376671",
+    "geom:latitude":21.376671,
+    "geom:longitude":-157.910346,
+    "iso:country":"US",
+    "sg:address":"899 Iwaena St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 2895",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39LoJ7nZRkh7MAQ8kU9Yak_21.376671_-157.910346@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205676,
+    "wof:geomhash":"73d271444e8df26477738c200ea9435b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857654889
+        }
+    ],
+    "wof:id":857654889,
+    "wof:lastmodified":1464205676,
+    "wof:name":"Sandwich Isle Tree Care",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -157.910346,
+    21.376671,
+    -157.910346,
+    21.376671
+],
+  "geometry": {"coordinates":[-157.910346,21.376671],"type":"Point"}
+}

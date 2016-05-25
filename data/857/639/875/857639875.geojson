@@ -1,0 +1,73 @@
+{
+  "id": 857639875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.084215,19.717717,-155.084215,19.717717",
+    "geom:latitude":19.717717,
+    "geom:longitude":-155.084215,
+    "iso:country":"US",
+    "sg:address":"715 Kinoole St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 933 3030",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CMTVVr0BP8iojX6171NjH_19.717717_-155.084215@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205014,
+    "wof:geomhash":"3093683140b2ce478af9ddbec13375fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857639875
+        }
+    ],
+    "wof:id":857639875,
+    "wof:lastmodified":1464205014,
+    "wof:name":"Cost-U-Less",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -155.084215,
+    19.717717,
+    -155.084215,
+    19.717717
+],
+  "geometry": {"coordinates":[-155.084215,19.717717],"type":"Point"}
+}

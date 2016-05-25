@@ -1,0 +1,73 @@
+{
+  "id": 857548747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873839,21.340182,-157.873839,21.340182",
+    "geom:latitude":21.340182,
+    "geom:longitude":-157.873839,
+    "iso:country":"US",
+    "sg:address":"2229 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0404",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TlCw4UfeIKGMBkELaKy3Y_21.340182_-157.873839@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202907,
+    "wof:geomhash":"3ca67a1945c668107f7d2eff88762e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857548747
+        }
+    ],
+    "wof:id":857548747,
+    "wof:lastmodified":1464202907,
+    "wof:name":"Alii Dental Laboratory Inc",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -157.873839,
+    21.340182,
+    -157.873839,
+    21.340182
+],
+  "geometry": {"coordinates":[-157.873839,21.340182],"type":"Point"}
+}

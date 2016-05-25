@@ -1,0 +1,71 @@
+{
+  "id": 857653799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838801,21.300961,-157.838801,21.300961",
+    "geom:latitude":21.300961,
+    "geom:longitude":-157.838801,
+    "iso:country":"US",
+    "sg:address":"1433 Kinau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 6474",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKozNZZZ7cM1Sk3ceM6ga_21.300961_-157.838801@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205628,
+    "wof:geomhash":"4e30bdfc8593a91e2b72f1a3eb95467b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857653799
+        }
+    ],
+    "wof:id":857653799,
+    "wof:lastmodified":1464205628,
+    "wof:name":"Makiki Food Ctr Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.838801,
+    21.300961,
+    -157.838801,
+    21.300961
+],
+  "geometry": {"coordinates":[-157.83880099999999,21.300961],"type":"Point"}
+}

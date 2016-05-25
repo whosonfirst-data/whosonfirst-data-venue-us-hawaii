@@ -1,0 +1,73 @@
+{
+  "id": 857564205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814731,21.298475,-157.814731,21.298475",
+    "geom:latitude":21.298475,
+    "geom:longitude":-157.814731,
+    "iso:country":"US",
+    "sg:address":"1837 E West Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 6060",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e8Oot1tf4HRCsjjJM2nlB_21.298475_-157.814731@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"0a700d7fae224420a77829bec10361de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857564205
+        }
+    ],
+    "wof:id":857564205,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Hawaii University Hale Laulima",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.814731,
+    21.298475,
+    -157.814731,
+    21.298475
+],
+  "geometry": {"coordinates":[-157.81473099999999,21.298475],"type":"Point"}
+}

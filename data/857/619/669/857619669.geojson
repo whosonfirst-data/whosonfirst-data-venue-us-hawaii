@@ -1,0 +1,71 @@
+{
+  "id": 857619669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.177171,21.437012,-158.177171,21.437012",
+    "geom:latitude":21.437012,
+    "geom:longitude":-158.177171,
+    "iso:country":"US",
+    "sg:address":"312 Hokuaiaina Pl",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 697 8411",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jQOfbofLdnrxMweR6sLME_21.437012_-158.177171@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204425,
+    "wof:geomhash":"fc97b6d2e633ed4e61f4448140d7f7b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857619669
+        }
+    ],
+    "wof:id":857619669,
+    "wof:lastmodified":1464204425,
+    "wof:name":"West Oahu Construction",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.177171,
+    21.437012,
+    -158.177171,
+    21.437012
+],
+  "geometry": {"coordinates":[-158.17717099999999,21.437012],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857589553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83529,21.296802,-157.83529,21.296802",
+    "geom:latitude":21.296802,
+    "geom:longitude":-157.83529,
+    "iso:country":"US",
+    "sg:address":"1654 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 7565",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20TrHgUN2VcACmbK6QwzH0_21.296802_-157.835290@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203750,
+    "wof:geomhash":"8d579d196534f352bb5e342e4d8813b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857589553
+        }
+    ],
+    "wof:id":857589553,
+    "wof:lastmodified":1464203750,
+    "wof:name":"Financial Standards Group",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -157.83529,
+    21.296802,
+    -157.83529,
+    21.296802
+],
+  "geometry": {"coordinates":[-157.83528999999999,21.296802],"type":"Point"}
+}

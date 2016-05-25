@@ -1,0 +1,71 @@
+{
+  "id": 857611187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.955354,21.392213,-157.955354,21.392213",
+    "geom:latitude":21.392213,
+    "geom:longitude":-157.955354,
+    "iso:country":"US",
+    "sg:address":"723 Kuahao Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 0024",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZxbNaoPwhcC5NNjAvk8kx_21.392213_-157.955354@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204230,
+    "wof:geomhash":"993a706be4c19138514a2687f02a9de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857611187
+        }
+    ],
+    "wof:id":857611187,
+    "wof:lastmodified":1464204230,
+    "wof:name":"Surftech",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -157.955354,
+    21.392213,
+    -157.955354,
+    21.392213
+],
+  "geometry": {"coordinates":[-157.955354,21.392213],"type":"Point"}
+}

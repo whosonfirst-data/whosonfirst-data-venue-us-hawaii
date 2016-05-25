@@ -1,0 +1,73 @@
+{
+  "id": 857659299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.045481,19.639379,-155.045481,19.639379",
+    "geom:latitude":19.639379,
+    "geom:longitude":-155.045481,
+    "iso:country":"US",
+    "sg:address":"143 Wiliama St",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 9889",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tnGxetQ6pQcYfMXUFkw7l_19.639379_-155.045481@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205873,
+    "wof:geomhash":"707de8203974d02d28ae1caa74f508df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857659299
+        }
+    ],
+    "wof:id":857659299,
+    "wof:lastmodified":1464205873,
+    "wof:name":"Power Generation Svc",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -155.045481,
+    19.639379,
+    -155.045481,
+    19.639379
+],
+  "geometry": {"coordinates":[-155.045481,19.639379],"type":"Point"}
+}

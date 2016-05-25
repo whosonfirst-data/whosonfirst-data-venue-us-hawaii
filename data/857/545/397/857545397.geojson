@@ -1,0 +1,73 @@
+{
+  "id": 857545397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802839,21.309834,-157.802839,21.309834",
+    "geom:latitude":21.309834,
+    "geom:longitude":-157.802839,
+    "iso:country":"US",
+    "sg:address":"3116 Lanikaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 7910",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wU1Vnw8VeX0P0efqOH2Gf_21.309834_-157.802839@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202846,
+    "wof:geomhash":"2f19e20805a37944ede5a167b2e863eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857545397
+        }
+    ],
+    "wof:id":857545397,
+    "wof:lastmodified":1464202846,
+    "wof:name":"Acumen Builders",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -157.802839,
+    21.309834,
+    -157.802839,
+    21.309834
+],
+  "geometry": {"coordinates":[-157.80283900000001,21.309834],"type":"Point"}
+}

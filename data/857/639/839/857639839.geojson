@@ -1,0 +1,67 @@
+{
+  "id": 857639839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811049,21.313962,-157.811049,21.313962",
+    "geom:latitude":21.313962,
+    "geom:longitude":-157.811049,
+    "iso:country":"US",
+    "sg:address":"2907 Loomis St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3751",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:website":"www.abeleerealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L5BFKe73pn330pHggQX5M_21.313962_-157.811049@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205013,
+    "wof:geomhash":"9b1b9d7ff9993d2653f19631961056f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857639839
+        }
+    ],
+    "wof:id":857639839,
+    "wof:lastmodified":1464205013,
+    "wof:name":"Abe Lee Realty",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.811049,
+    21.313962,
+    -157.811049,
+    21.313962
+],
+  "geometry": {"coordinates":[-157.811049,21.313962],"type":"Point"}
+}

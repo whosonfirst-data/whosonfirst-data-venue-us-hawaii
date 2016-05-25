@@ -1,0 +1,69 @@
+{
+  "id": 857669285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.586306,21.911358,-159.586306,21.911358",
+    "geom:latitude":21.911358,
+    "geom:longitude":-159.586306,
+    "iso:country":"US",
+    "sg:address":"3815 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 3505",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aaYXdngeOmscB89lGqjLJ_21.911358_-159.586306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206313,
+    "wof:geomhash":"fd7b7e2479243eb1258e79b6ff069b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857669285
+        }
+    ],
+    "wof:id":857669285,
+    "wof:lastmodified":1464206313,
+    "wof:name":"Hanapepe Hawaiian Congregation",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -159.586306,
+    21.911358,
+    -159.586306,
+    21.911358
+],
+  "geometry": {"coordinates":[-159.58630600000001,21.911358],"type":"Point"}
+}

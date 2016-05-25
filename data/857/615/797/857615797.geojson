@@ -1,0 +1,73 @@
+{
+  "id": 857615797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.487804,20.906541,-156.487804,20.906541",
+    "geom:latitude":20.906541,
+    "geom:longitude":-156.487804,
+    "iso:country":"US",
+    "sg:address":"780 Alua St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7960",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x9ZchnRWg939cN8z44FVq_20.906541_-156.487804@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204336,
+    "wof:geomhash":"46990ef4cb8336b5458a88455b7a2537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857615797
+        }
+    ],
+    "wof:id":857615797,
+    "wof:lastmodified":1464204336,
+    "wof:name":"Windward Construction",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.487804,
+    20.906541,
+    -156.487804,
+    20.906541
+],
+  "geometry": {"coordinates":[-156.48780400000001,20.906541],"type":"Point"}
+}

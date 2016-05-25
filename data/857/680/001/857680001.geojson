@@ -1,0 +1,71 @@
+{
+  "id": 857680001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.709909,21.381637,-157.709909,21.381637",
+    "geom:latitude":21.381637,
+    "geom:longitude":-157.709909,
+    "iso:country":"US",
+    "sg:address":"1569 Aalapapa Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 7747",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_383vNAU7z9MnYpkB3neBVy_21.381637_-157.709909@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206729,
+    "wof:geomhash":"56c7d542647b4c1d5fe3f953942fffe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857680001
+        }
+    ],
+    "wof:id":857680001,
+    "wof:lastmodified":1464206729,
+    "wof:name":"Dixon Md Linda Harsh",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.709909,
+    21.381637,
+    -157.709909,
+    21.381637
+],
+  "geometry": {"coordinates":[-157.70990900000001,21.381637],"type":"Point"}
+}

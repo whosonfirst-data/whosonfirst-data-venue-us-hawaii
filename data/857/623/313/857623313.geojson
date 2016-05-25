@@ -1,0 +1,71 @@
+{
+  "id": 857623313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.089915,21.360706,-158.089915,21.360706",
+    "geom:latitude":21.360706,
+    "geom:longitude":-158.089915,
+    "iso:country":"US",
+    "sg:address":"7055 Kahea St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 9113",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gS8m4kXcWOj0TjbvvfwxP_21.360706_-158.089915@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204514,
+    "wof:geomhash":"7305e325e655ab8f1da2812e3dde9f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857623313
+        }
+    ],
+    "wof:id":857623313,
+    "wof:lastmodified":1464204514,
+    "wof:name":"Salon Cheveux",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.089915,
+    21.360706,
+    -158.089915,
+    21.360706
+],
+  "geometry": {"coordinates":[-158.08991499999999,21.360706],"type":"Point"}
+}

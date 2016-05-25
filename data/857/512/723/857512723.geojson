@@ -1,0 +1,71 @@
+{
+  "id": 857512723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813101,21.280704,-157.813101,21.280704",
+    "geom:latitude":21.280704,
+    "geom:longitude":-157.813101,
+    "iso:country":"US",
+    "sg:address":"3203 Winam Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 8944",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2scmpgiunajXbrTyqtfo1C_21.280704_-157.813101@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202201,
+    "wof:geomhash":"498346b9c8d0e95a1f7f5014ddf6c36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857512723
+        }
+    ],
+    "wof:id":857512723,
+    "wof:lastmodified":1464202201,
+    "wof:name":"Ali Limousine",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.813101,
+    21.280704,
+    -157.813101,
+    21.280704
+],
+  "geometry": {"coordinates":[-157.81310099999999,21.280704],"type":"Point"}
+}

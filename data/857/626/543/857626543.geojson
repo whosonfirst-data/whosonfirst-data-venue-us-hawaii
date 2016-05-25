@@ -1,0 +1,75 @@
+{
+  "id": 857626543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.085233,19.719027,-155.085233,19.719027",
+    "geom:latitude":19.719027,
+    "geom:longitude":-155.085233,
+    "iso:country":"US",
+    "sg:address":"524 Kinoole St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 0303",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XWrKYwQiC4HamNnG75eEf_19.719027_-155.085233@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204592,
+    "wof:geomhash":"0bbdafa8715913bb783054dd53b61b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857626543
+        }
+    ],
+    "wof:id":857626543,
+    "wof:lastmodified":1464204592,
+    "wof:name":"Sound Repairs",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -155.085233,
+    19.719027,
+    -155.085233,
+    19.719027
+],
+  "geometry": {"coordinates":[-155.08523299999999,19.719027],"type":"Point"}
+}

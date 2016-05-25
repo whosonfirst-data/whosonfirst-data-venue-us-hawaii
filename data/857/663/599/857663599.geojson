@@ -1,0 +1,75 @@
+{
+  "id": 857663599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.326685,20.914878,-156.326685,20.914878",
+    "geom:latitude":20.914878,
+    "geom:longitude":-156.326685,
+    "iso:country":"US",
+    "sg:address":"16 Koi Koi Pl",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 281 2492",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lunch",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937689,
+        102085577,
+        85890097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r0NqEJiV7G9AU1kM9O0z3_20.914878_-156.326685@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206071,
+    "wof:geomhash":"cf79e162707049c334bc9d8a9aecd09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890097,
+            "region_id":85688671,
+            "venue_id":857663599
+        }
+    ],
+    "wof:id":857663599,
+    "wof:lastmodified":1464206071,
+    "wof:name":"Chow Wagon",
+    "wof:parent_id":85890097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lunch",
+        "counter"
+    ]
+},
+  "bbox": [
+    -156.326685,
+    20.914878,
+    -156.326685,
+    20.914878
+],
+  "geometry": {"coordinates":[-156.326685,20.914878],"type":"Point"}
+}

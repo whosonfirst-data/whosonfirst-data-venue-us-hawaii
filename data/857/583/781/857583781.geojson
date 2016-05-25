@@ -1,0 +1,73 @@
+{
+  "id": 857583781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.037476,21.49292,-158.037476,21.49292",
+    "geom:latitude":21.49292,
+    "geom:longitude":-158.037476,
+    "iso:country":"US",
+    "sg:address":"23 Kaalalo Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 216 2948",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GN5waCFoSXwYEb5R7sWAW_21.492920_-158.037476@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203621,
+    "wof:geomhash":"86af719adb8b80638ed9ca001a93d759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857583781
+        }
+    ],
+    "wof:id":857583781,
+    "wof:lastmodified":1464203621,
+    "wof:name":"Nate's Pump Svc",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -158.037476,
+    21.49292,
+    -158.037476,
+    21.49292
+],
+  "geometry": {"coordinates":[-158.037476,21.49292],"type":"Point"}
+}

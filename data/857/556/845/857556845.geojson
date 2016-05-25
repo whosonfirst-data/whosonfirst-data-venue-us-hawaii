@@ -1,0 +1,71 @@
+{
+  "id": 857556845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838725,21.299003,-157.838725,21.299003",
+    "geom:latitude":21.299003,
+    "geom:longitude":-157.838725,
+    "iso:country":"US",
+    "sg:address":"1450 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 9598",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ejm7bilc6P7kN5O3U2lsk_21.299003_-157.838725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203069,
+    "wof:geomhash":"9b1682aed87ff489c4f2247a6bcc19c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857556845
+        }
+    ],
+    "wof:id":857556845,
+    "wof:lastmodified":1464203069,
+    "wof:name":"Jade Spring Tea & Gifts",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea"
+    ]
+},
+  "bbox": [
+    -157.838725,
+    21.299003,
+    -157.838725,
+    21.299003
+],
+  "geometry": {"coordinates":[-157.83872500000001,21.299003],"type":"Point"}
+}

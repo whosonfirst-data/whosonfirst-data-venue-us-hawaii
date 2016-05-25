@@ -1,0 +1,71 @@
+{
+  "id": 857669667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.473294,20.879557,-156.473294,20.879557",
+    "geom:latitude":20.879557,
+    "geom:longitude":-156.473294,
+    "iso:country":"US",
+    "sg:address":"403 Molokai Hema St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 4465",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KoXE9enDDdrA5OhH7LmCm_20.879557_-156.473294@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206329,
+    "wof:geomhash":"32ce9667d311ea93a089caeab4b6df84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857669667
+        }
+    ],
+    "wof:id":857669667,
+    "wof:lastmodified":1464206329,
+    "wof:name":"Maui Appliance",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -156.473294,
+    20.879557,
+    -156.473294,
+    20.879557
+],
+  "geometry": {"coordinates":[-156.47329400000001,20.879557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857665829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808006,21.281303,-157.808006,21.281303",
+    "geom:latitude":21.281303,
+    "geom:longitude":-157.808006,
+    "iso:country":"US",
+    "sg:address":"3344 Kaimuki Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7505",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZzzlkcLc8op3dKWm0ps99_21.281303_-157.808006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206166,
+    "wof:geomhash":"c0cedd99c7a86708f916328565defd03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857665829
+        }
+    ],
+    "wof:id":857665829,
+    "wof:lastmodified":1464206166,
+    "wof:name":"Tim Leong & Assoc Architects",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.808006,
+    21.281303,
+    -157.808006,
+    21.281303
+],
+  "geometry": {"coordinates":[-157.80800600000001,21.281303],"type":"Point"}
+}

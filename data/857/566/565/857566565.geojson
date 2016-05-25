@@ -1,0 +1,76 @@
+{
+  "id": 857566565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.67971,20.874977,-156.67971,20.874977",
+    "geom:latitude":20.874977,
+    "geom:longitude":-156.67971,
+    "iso:country":"US",
+    "sg:address":"640 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 662 0888",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "sg:website":"www.alohatoystore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k49jKMoyI7lOTrPAU6aWA_20.874977_-156.679710@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203288,
+    "wof:geomhash":"b0ede226946df341b7a4a8b249ae3f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890527,
+            "region_id":85688671,
+            "venue_id":857566565
+        }
+    ],
+    "wof:id":857566565,
+    "wof:lastmodified":1464203288,
+    "wof:name":"Aloha Toy Store Motorsports",
+    "wof:parent_id":85890527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -156.67971,
+    20.874977,
+    -156.67971,
+    20.874977
+],
+  "geometry": {"coordinates":[-156.67971,20.874977],"type":"Point"}
+}

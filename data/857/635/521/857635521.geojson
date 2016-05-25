@@ -1,0 +1,73 @@
+{
+  "id": 857635521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859745,21.293744,-157.859745,21.293744",
+    "geom:latitude":21.293744,
+    "geom:longitude":-157.859745,
+    "iso:country":"US",
+    "sg:address":"123 Ahui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 479 4894",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uoGmN4dAEpxPkmL3I4oDu_21.293744_-157.859745@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204850,
+    "wof:geomhash":"94b6f11ec7d9edfc97254c5601723d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857635521
+        }
+    ],
+    "wof:id":857635521,
+    "wof:lastmodified":1464204850,
+    "wof:name":"Marine Electrical Repair",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.859745,
+    21.293744,
+    -157.859745,
+    21.293744
+],
+  "geometry": {"coordinates":[-157.859745,21.293744],"type":"Point"}
+}

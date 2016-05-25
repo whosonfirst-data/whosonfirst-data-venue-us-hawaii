@@ -1,0 +1,71 @@
+{
+  "id": 857519593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.964798,21.391821,-157.964798,21.391821",
+    "geom:latitude":21.391821,
+    "geom:longitude":-157.964798,
+    "iso:country":"US",
+    "sg:address":"803 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 4496",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZMhrVMkyOmX2Dlb2SFQdd_21.391821_-157.964798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202342,
+    "wof:geomhash":"8f4bcbd17b83207ab029ba0ecdaca6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857519593
+        }
+    ],
+    "wof:id":857519593,
+    "wof:lastmodified":1464202342,
+    "wof:name":"Ola Hou Clinic",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -157.964798,
+    21.391821,
+    -157.964798,
+    21.391821
+],
+  "geometry": {"coordinates":[-157.964798,21.391821],"type":"Point"}
+}

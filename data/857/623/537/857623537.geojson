@@ -1,0 +1,75 @@
+{
+  "id": 857623537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816957,21.28184,-157.816957,21.28184",
+    "geom:latitude":21.28184,
+    "geom:longitude":-157.816957,
+    "iso:country":"US",
+    "sg:address":"2848 Date St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0555",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44oWlfWA66Z1M9SzvmZH1E_21.281840_-157.816957@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204520,
+    "wof:geomhash":"d6b67f59113011a2770a26aaa89b641f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857623537
+        }
+    ],
+    "wof:id":857623537,
+    "wof:lastmodified":1464204520,
+    "wof:name":"King Kalakaua Dental Lab",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.816957,
+    21.28184,
+    -157.816957,
+    21.28184
+],
+  "geometry": {"coordinates":[-157.816957,21.28184],"type":"Point"}
+}

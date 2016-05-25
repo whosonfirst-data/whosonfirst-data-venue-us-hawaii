@@ -1,0 +1,73 @@
+{
+  "id": 857539443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87166,21.327304,-157.87166,21.327304",
+    "geom:latitude":21.327304,
+    "geom:longitude":-157.87166,
+    "iso:country":"US",
+    "sg:address":"1310 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3019",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ucQfMQdOrz5DDiNHv8tb_21.327304_-157.871660@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202727,
+    "wof:geomhash":"eb8d80f95154348b2120db81422194d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857539443
+        }
+    ],
+    "wof:id":857539443,
+    "wof:lastmodified":1464202727,
+    "wof:name":"German Car Svc Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.87166,
+    21.327304,
+    -157.87166,
+    21.327304
+],
+  "geometry": {"coordinates":[-157.87165999999999,21.327304],"type":"Point"}
+}

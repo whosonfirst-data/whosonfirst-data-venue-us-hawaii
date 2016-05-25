@@ -1,0 +1,77 @@
+{
+  "id": 857608573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823571,21.275099,-157.823571,21.275099",
+    "geom:latitude":21.275099,
+    "geom:longitude":-157.823571,
+    "iso:country":"US",
+    "sg:address":"2446 Koa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 3631",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bkJUppZOqhidM0A9WB6MM_21.275099_-157.823571@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204178,
+    "wof:geomhash":"d0ad2af15d4b033f73b6a8bdc99b236f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857608573
+        }
+    ],
+    "wof:id":857608573,
+    "wof:lastmodified":1464204178,
+    "wof:name":"USA Video",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -157.823571,
+    21.275099,
+    -157.823571,
+    21.275099
+],
+  "geometry": {"coordinates":[-157.82357099999999,21.275099],"type":"Point"}
+}

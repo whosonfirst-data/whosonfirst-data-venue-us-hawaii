@@ -1,0 +1,73 @@
+{
+  "id": 857534131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818659,21.296797,-157.818659,21.296797",
+    "geom:latitude":21.296797,
+    "geom:longitude":-157.818659,
+    "iso:country":"US",
+    "sg:address":"2570 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 983 5300",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "scientific"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nNI7W2iYFHzIyBwr0z0nO_21.296797_-157.818659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202623,
+    "wof:geomhash":"46c2f6603bf616b608a2b1e0bf4c0849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857534131
+        }
+    ],
+    "wof:id":857534131,
+    "wof:lastmodified":1464202623,
+    "wof:name":"Natl Mar Fsheries Honolulu Lab",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "scientific"
+    ]
+},
+  "bbox": [
+    -157.818659,
+    21.296797,
+    -157.818659,
+    21.296797
+],
+  "geometry": {"coordinates":[-157.818659,21.296797],"type":"Point"}
+}

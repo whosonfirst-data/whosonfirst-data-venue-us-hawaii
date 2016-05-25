@@ -1,0 +1,73 @@
+{
+  "id": 857540589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.386964,20.9146,-156.386964,20.9146",
+    "geom:latitude":20.9146,
+    "geom:longitude":-156.386964,
+    "iso:country":"US",
+    "sg:address":"65 Hana Hwy",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 9115",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "sg:tags":[
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25w2Wycs9EkBYiOHBiicNn_20.914600_-156.386964@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202746,
+    "wof:geomhash":"9729243f90210d943df5c4b31d30ac1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857540589
+        }
+    ],
+    "wof:id":857540589,
+    "wof:lastmodified":1464202746,
+    "wof:name":"Charley's Juice Stand",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice"
+    ]
+},
+  "bbox": [
+    -156.386964,
+    20.9146,
+    -156.386964,
+    20.9146
+],
+  "geometry": {"coordinates":[-156.38696400000001,20.9146],"type":"Point"}
+}

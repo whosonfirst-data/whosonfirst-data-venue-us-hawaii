@@ -1,0 +1,75 @@
+{
+  "id": 857504759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885851,21.324921,-157.885851,21.324921",
+    "geom:latitude":21.324921,
+    "geom:longitude":-157.885851,
+    "iso:country":"US",
+    "sg:address":"2007 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 4646",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "specialty",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RtlkIpTTdLS11Wwi1QtUe_21.324921_-157.885851@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202023,
+    "wof:geomhash":"97cd28d27dcff5cdebc54c888fb54bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857504759
+        }
+    ],
+    "wof:id":857504759,
+    "wof:lastmodified":1464202023,
+    "wof:name":"Home Automation Hawaii LLC",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "specialty",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.885851,
+    21.324921,
+    -157.885851,
+    21.324921
+],
+  "geometry": {"coordinates":[-157.885851,21.324921],"type":"Point"}
+}

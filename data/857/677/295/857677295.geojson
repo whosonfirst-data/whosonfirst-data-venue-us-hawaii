@@ -1,0 +1,75 @@
+{
+  "id": 857677295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801581,21.317566,-157.801581,21.317566",
+    "geom:latitude":21.317566,
+    "geom:longitude":-157.801581,
+    "iso:country":"US",
+    "sg:address":"3580 Akaka Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 0525",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uv7Uy5de3AX6oAlkClWuK_21.317566_-157.801581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206625,
+    "wof:geomhash":"8e77b8f359d2f12ad637999aeba05481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857677295
+        }
+    ],
+    "wof:id":857677295,
+    "wof:lastmodified":1464206625,
+    "wof:name":"Service Master Co",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -157.801581,
+    21.317566,
+    -157.801581,
+    21.317566
+],
+  "geometry": {"coordinates":[-157.801581,21.317566],"type":"Point"}
+}

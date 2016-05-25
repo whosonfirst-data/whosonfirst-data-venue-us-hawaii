@@ -1,0 +1,75 @@
+{
+  "id": 857669875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.191166,21.449944,-158.191166,21.449944",
+    "geom:latitude":21.449944,
+    "geom:longitude":-158.191166,
+    "iso:country":"US",
+    "sg:address":"626 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 697 7121",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52K5UszOvbjyK3QxFfJH1Z_21.449944_-158.191166@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206336,
+    "wof:geomhash":"045bc31550e20ba5a36b16eb8c4e37df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857669875
+        }
+    ],
+    "wof:id":857669875,
+    "wof:lastmodified":1464206336,
+    "wof:name":"Waianae Intermediate School",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -158.191166,
+    21.449944,
+    -158.191166,
+    21.449944
+],
+  "geometry": {"coordinates":[-158.19116600000001,21.449944],"type":"Point"}
+}

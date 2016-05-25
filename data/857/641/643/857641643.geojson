@@ -1,0 +1,71 @@
+{
+  "id": 857641643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021465,21.499788,-158.021465,21.499788",
+    "geom:latitude":21.499788,
+    "geom:longitude":-158.021465,
+    "iso:country":"US",
+    "sg:address":"1136 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 6425",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZNgrBMptQFEzj5sNzuAxB_21.499788_-158.021465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205085,
+    "wof:geomhash":"2df906589e6e0d7f80ffb4df93f64ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857641643
+        }
+    ],
+    "wof:id":857641643,
+    "wof:lastmodified":1464205085,
+    "wof:name":"Education Dept",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -158.021465,
+    21.499788,
+    -158.021465,
+    21.499788
+],
+  "geometry": {"coordinates":[-158.02146500000001,21.499788],"type":"Point"}
+}

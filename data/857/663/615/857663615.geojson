@@ -1,0 +1,70 @@
+{
+  "id": 857663615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.1587,21.464865,-158.1587,21.464865",
+    "geom:latitude":21.464865,
+    "geom:longitude":-158.1587,
+    "iso:country":"US",
+    "sg:address":"1560 Haleahi Rd",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 7591",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.campwaianae.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rPWFk8ZoVQItw59PPRW2W_21.464865_-158.158700@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206072,
+    "wof:geomhash":"fbcab05e12f05efa3d3d0be06b52a46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857663615
+        }
+    ],
+    "wof:id":857663615,
+    "wof:lastmodified":1464206072,
+    "wof:name":"Camp Waianae",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -158.1587,
+    21.464865,
+    -158.1587,
+    21.464865
+],
+  "geometry": {"coordinates":[-158.15870000000001,21.464865],"type":"Point"}
+}

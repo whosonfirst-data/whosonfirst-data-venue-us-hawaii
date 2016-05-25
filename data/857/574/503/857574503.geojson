@@ -1,0 +1,71 @@
+{
+  "id": 857574503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020011,21.383621,-158.020011,21.383621",
+    "geom:latitude":21.383621,
+    "geom:longitude":-158.020011,
+    "iso:country":"US",
+    "sg:address":"303 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 8999",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kmmd2o9pe9hiqQHvRTIMz_21.383621_-158.020011@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203442,
+    "wof:geomhash":"ff7bd652abead178540e354317986e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857574503
+        }
+    ],
+    "wof:id":857574503,
+    "wof:lastmodified":1464203442,
+    "wof:name":"Ewa Repair Shop Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.020011,
+    21.383621,
+    -158.020011,
+    21.383621
+],
+  "geometry": {"coordinates":[-158.02001100000001,21.383621],"type":"Point"}
+}

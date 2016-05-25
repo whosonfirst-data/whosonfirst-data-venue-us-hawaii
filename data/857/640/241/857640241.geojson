@@ -1,0 +1,82 @@
+{
+  "id": 857640241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873444,21.321484,-157.873444,21.321484",
+    "geom:latitude":21.321484,
+    "geom:longitude":-157.873444,
+    "iso:country":"US",
+    "sg:address":"549 Kokea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3261",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "mfr",
+        "electric",
+        "rep"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32wXc2yVfC7RxhCdpN1pTU_21.321484_-157.873444@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205030,
+    "wof:geomhash":"950e8e27072d8ddb23501a5ff87a5e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857640241
+        }
+    ],
+    "wof:id":857640241,
+    "wof:lastmodified":1464205030,
+    "wof:name":"Clemco Pacific Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfr",
+        "electric",
+        "rep"
+    ]
+},
+  "bbox": [
+    -157.873444,
+    21.321484,
+    -157.873444,
+    21.321484
+],
+  "geometry": {"coordinates":[-157.87344400000001,21.321484],"type":"Point"}
+}

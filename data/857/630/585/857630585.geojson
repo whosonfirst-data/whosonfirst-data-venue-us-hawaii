@@ -1,0 +1,71 @@
+{
+  "id": 857630585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845038,21.300112,-157.845038,21.300112",
+    "geom:latitude":21.300112,
+    "geom:longitude":-157.845038,
+    "iso:country":"US",
+    "sg:address":"1157 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2777",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ms2dxgGHAS8ATdfwyPqmc_21.300112_-157.845038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204677,
+    "wof:geomhash":"d8b8cb349afc2d10d53129f77cff2db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857630585
+        }
+    ],
+    "wof:id":857630585,
+    "wof:lastmodified":1464204677,
+    "wof:name":"American Veterans Relief Fund",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -157.845038,
+    21.300112,
+    -157.845038,
+    21.300112
+],
+  "geometry": {"coordinates":[-157.84503799999999,21.300112],"type":"Point"}
+}

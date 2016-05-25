@@ -1,0 +1,77 @@
+{
+  "id": 857569775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859098,21.297881,-157.859098,21.297881",
+    "geom:latitude":21.297881,
+    "geom:longitude":-157.859098,
+    "iso:country":"US",
+    "sg:address":"443 Cooke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 1017",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pita",
+        "deli",
+        "food",
+        "bread"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYogfoszRd51zA5pdEC8H_21.297881_-157.859098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203348,
+    "wof:geomhash":"91472c48b9d74452a7b399f6761aa162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857569775
+        }
+    ],
+    "wof:id":857569775,
+    "wof:lastmodified":1464203348,
+    "wof:name":"Hawaiian Pita",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pita",
+        "deli",
+        "food",
+        "bread"
+    ]
+},
+  "bbox": [
+    -157.859098,
+    21.297881,
+    -157.859098,
+    21.297881
+],
+  "geometry": {"coordinates":[-157.85909799999999,21.297881],"type":"Point"}
+}

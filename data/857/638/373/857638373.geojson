@@ -1,0 +1,80 @@
+{
+  "id": 857638373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.928238,21.355351,-157.928238,21.355351",
+    "geom:latitude":21.355351,
+    "geom:longitude":-157.928238,
+    "iso:country":"US",
+    "sg:address":"4369 Lawehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 0059",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AI3oeAN8Bpj0l9JUsScN1_21.355351_-157.928238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204953,
+    "wof:geomhash":"fb0da0c5d3b151b07f11951352202189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857638373
+        }
+    ],
+    "wof:id":857638373,
+    "wof:lastmodified":1464204953,
+    "wof:name":"Larry's Wholesale Bakery",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.928238,
+    21.355351,
+    -157.928238,
+    21.355351
+],
+  "geometry": {"coordinates":[-157.92823799999999,21.355351],"type":"Point"}
+}

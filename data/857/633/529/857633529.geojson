@@ -1,0 +1,73 @@
+{
+  "id": 857633529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021532,21.433432,-158.021532,21.433432",
+    "geom:latitude":21.433432,
+    "geom:longitude":-158.021532,
+    "iso:country":"US",
+    "sg:address":"208 Kealohi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 1530",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dv8dR0QcyARopF1BjxHjW_21.433432_-158.021532@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204775,
+    "wof:geomhash":"3337bb946d51934ef1b942f4265bc1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857633529
+        }
+    ],
+    "wof:id":857633529,
+    "wof:lastmodified":1464204775,
+    "wof:name":"S & B Foods Hawaii Inc",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -158.021532,
+    21.433432,
+    -158.021532,
+    21.433432
+],
+  "geometry": {"coordinates":[-158.02153200000001,21.433432],"type":"Point"}
+}

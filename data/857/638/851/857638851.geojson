@@ -1,0 +1,71 @@
+{
+  "id": 857638851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.893111,21.350637,-157.893111,21.350637",
+    "geom:latitude":21.350637,
+    "geom:longitude":-157.893111,
+    "iso:country":"US",
+    "sg:address":"1289 Mahiole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 7850",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11imbaJDgJK8U7nHbMUo5F_21.350637_-157.893111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204977,
+    "wof:geomhash":"3a424f5a5ffe03746ccf10815d6310a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857638851
+        }
+    ],
+    "wof:id":857638851,
+    "wof:lastmodified":1464204977,
+    "wof:name":"Moanalua Intermediate School",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    -157.893111,
+    21.350637,
+    -157.893111,
+    21.350637
+],
+  "geometry": {"coordinates":[-157.893111,21.350637],"type":"Point"}
+}

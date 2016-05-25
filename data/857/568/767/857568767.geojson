@@ -1,0 +1,76 @@
+{
+  "id": 857568767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84246,21.308316,-157.84246,21.308316",
+    "geom:latitude":21.308316,
+    "geom:longitude":-157.84246,
+    "iso:country":"US",
+    "sg:address":"999 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 2994",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74JOpJXlesKl6Q13OftYur_21.308316_-157.842460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203329,
+    "wof:geomhash":"b2e4c0d9b97d8001ebea2d37e327a080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857568767
+        }
+    ],
+    "wof:id":857568767,
+    "wof:lastmodified":1464203329,
+    "wof:name":"999 Wilder",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.84246,
+    21.308316,
+    -157.84246,
+    21.308316
+],
+  "geometry": {"coordinates":[-157.84245999999999,21.308316],"type":"Point"}
+}

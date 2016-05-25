@@ -1,0 +1,71 @@
+{
+  "id": 857539277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882019,21.327508,-157.882019,21.327508",
+    "geom:latitude":21.327508,
+    "geom:longitude":-157.882019,
+    "iso:country":"US",
+    "sg:address":"514 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5415",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05zo5GMl2gyxmYyGaihUcI_21.327508_-157.882019@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202724,
+    "wof:geomhash":"10295163a108a140e751b1f62ebaf752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857539277
+        }
+    ],
+    "wof:id":857539277,
+    "wof:lastmodified":1464202724,
+    "wof:name":"Pentecostal Faith Assembly",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.882019,
+    21.327508,
+    -157.882019,
+    21.327508
+],
+  "geometry": {"coordinates":[-157.88201900000001,21.327508],"type":"Point"}
+}

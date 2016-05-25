@@ -1,0 +1,73 @@
+{
+  "id": 857603463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.51939,20.878618,-156.51939,20.878618",
+    "geom:latitude":20.878618,
+    "geom:longitude":-156.51939,
+    "iso:country":"US",
+    "sg:address":"258 S Alu Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3693",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4alHJWP0GCyunB9Zn3jMWR_20.878618_-156.519390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204061,
+    "wof:geomhash":"8ea4738f08396c0c0c08d6485e10de9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857603463
+        }
+    ],
+    "wof:id":857603463,
+    "wof:lastmodified":1464204061,
+    "wof:name":"John M Briley Jr MD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -156.51939,
+    20.878618,
+    -156.51939,
+    20.878618
+],
+  "geometry": {"coordinates":[-156.51938999999999,20.878618],"type":"Point"}
+}

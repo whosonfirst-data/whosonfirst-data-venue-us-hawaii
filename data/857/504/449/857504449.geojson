@@ -1,0 +1,78 @@
+{
+  "id": 857504449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822051,21.27291,-157.822051,21.27291",
+    "geom:latitude":21.27291,
+    "geom:longitude":-157.822051,
+    "iso:country":"US",
+    "sg:address":"2584 Lemon Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 1340",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation",
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_576743m9ZFioWKlCJk9FZr_21.272910_-157.822051@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202015,
+    "wof:geomhash":"a577896ac8ffaf34274c56a6341aac01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857504449
+        }
+    ],
+    "wof:id":857504449,
+    "wof:lastmodified":1464202015,
+    "wof:name":"Polynesian Hostel",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "hostel"
+    ]
+},
+  "bbox": [
+    -157.822051,
+    21.27291,
+    -157.822051,
+    21.27291
+],
+  "geometry": {"coordinates":[-157.82205099999999,21.27291],"type":"Point"}
+}

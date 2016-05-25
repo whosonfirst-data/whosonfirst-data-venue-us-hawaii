@@ -1,0 +1,73 @@
+{
+  "id": 857634785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.934027,21.661252,-157.934027,21.661252",
+    "geom:latitude":21.661252,
+    "geom:longitude":-157.934027,
+    "iso:country":"US",
+    "sg:address":"53 Kamehameha Hwy",
+    "sg:city":"Laie",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 4229",
+    "sg:postcode":"96762",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937579,
+        102085417,
+        85890543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2APIW3B7fQjeKhbPI1Ptas_21.661252_-157.934027@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204824,
+    "wof:geomhash":"2185514c8868ba422999d8fb3ced021d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937579,
+            "neighbourhood_id":85890543,
+            "region_id":85688671,
+            "venue_id":857634785
+        }
+    ],
+    "wof:id":857634785,
+    "wof:lastmodified":1464204824,
+    "wof:name":"Hookupono Program",
+    "wof:parent_id":85890543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -157.934027,
+    21.661252,
+    -157.934027,
+    21.661252
+],
+  "geometry": {"coordinates":[-157.93402699999999,21.661252],"type":"Point"}
+}

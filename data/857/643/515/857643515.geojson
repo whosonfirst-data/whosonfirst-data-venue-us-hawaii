@@ -1,0 +1,76 @@
+{
+  "id": 857643515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024945,21.499386,-158.024945,21.499386",
+    "geom:latitude":21.499386,
+    "geom:longitude":-158.024945,
+    "iso:country":"US",
+    "sg:address":"148 N Cane St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 3031",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4720WRaUliyNYThApUqhSS_21.499386_-158.024945@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205175,
+    "wof:geomhash":"0a289fac92471fbccc49706bae127ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857643515
+        }
+    ],
+    "wof:id":857643515,
+    "wof:lastmodified":1464205175,
+    "wof:name":"ESA Home Appliance Repair Shop",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -158.024945,
+    21.499386,
+    -158.024945,
+    21.499386
+],
+  "geometry": {"coordinates":[-158.024945,21.499386],"type":"Point"}
+}

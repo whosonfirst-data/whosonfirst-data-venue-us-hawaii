@@ -1,0 +1,75 @@
+{
+  "id": 857641361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822973,21.300236,-157.822973,21.300236",
+    "geom:latitude":21.300236,
+    "geom:longitude":-157.822973,
+    "iso:country":"US",
+    "sg:address":"2216 Seaview Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7792",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KpRthXjlVIP486Vr5sn01_21.300236_-157.822973@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205075,
+    "wof:geomhash":"c728d63242fc0dd6d54739196a97c0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857641361
+        }
+    ],
+    "wof:id":857641361,
+    "wof:lastmodified":1464205075,
+    "wof:name":"Brian Dangs Apartments",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -157.822973,
+    21.300236,
+    -157.822973,
+    21.300236
+],
+  "geometry": {"coordinates":[-157.82297299999999,21.300236],"type":"Point"}
+}

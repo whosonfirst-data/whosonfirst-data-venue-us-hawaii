@@ -1,0 +1,71 @@
+{
+  "id": 857664425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867432,21.339511,-157.867432,21.339511",
+    "geom:latitude":21.339511,
+    "geom:longitude":-157.867432,
+    "iso:country":"US",
+    "sg:address":"1912 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7577",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e17wiE9g2vOGrtterPpKL_21.339511_-157.867432@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206099,
+    "wof:geomhash":"cfa6541690b2e122de6b37bf023ebc9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857664425
+        }
+    ],
+    "wof:id":857664425,
+    "wof:lastmodified":1464206099,
+    "wof:name":"007 Market",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -157.867432,
+    21.339511,
+    -157.867432,
+    21.339511
+],
+  "geometry": {"coordinates":[-157.86743200000001,21.339511],"type":"Point"}
+}

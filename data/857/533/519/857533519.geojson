@@ -1,0 +1,80 @@
+{
+  "id": 857533519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.729628,21.342126,-157.729628,21.342126",
+    "geom:latitude":21.342126,
+    "geom:longitude":-157.729628,
+    "iso:country":"US",
+    "sg:address":"717 Kakaina St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 0100",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85890313,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68mHtwdhXNjkM9vi0nhrCb_21.342126_-157.729628@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202613,
+    "wof:geomhash":"6d822157d3fd9aeff7bcc68edcaa83c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85890313,
+            "region_id":85688671,
+            "venue_id":857533519
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857533519
+        }
+    ],
+    "wof:id":857533519,
+    "wof:lastmodified":1464202613,
+    "wof:name":"First Quality Building Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.729628,
+    21.342126,
+    -157.729628,
+    21.342126
+],
+  "geometry": {"coordinates":[-157.72962799999999,21.342126],"type":"Point"}
+}

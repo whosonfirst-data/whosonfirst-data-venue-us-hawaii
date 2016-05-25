@@ -1,0 +1,75 @@
+{
+  "id": 857662595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855978,21.299764,-157.855978,21.299764",
+    "geom:latitude":21.299764,
+    "geom:longitude":-157.855978,
+    "iso:country":"US",
+    "sg:address":"852 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8180",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44w4IRQJiyPtCU7gj4lX8P_21.299764_-157.855978@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206032,
+    "wof:geomhash":"01b2eae9166177cdc36a692ae1e9cb11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857662595
+        }
+    ],
+    "wof:id":857662595,
+    "wof:lastmodified":1464206032,
+    "wof:name":"Kakaako Auto Glass Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -157.855978,
+    21.299764,
+    -157.855978,
+    21.299764
+],
+  "geometry": {"coordinates":[-157.85597799999999,21.299764],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857649641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.675289,20.017649,-155.675289,20.017649",
+    "geom:latitude":20.017649,
+    "geom:longitude":-155.675289,
+    "iso:country":"US",
+    "sg:address":"1222 Ahuli Cir",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 3523",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "firm",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EQnnl45W0IygRUu6Ldw8q_20.017649_-155.675289@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205440,
+    "wof:geomhash":"be9255d2f2e5515846e7d81c689979af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857649641
+        }
+    ],
+    "wof:id":857649641,
+    "wof:lastmodified":1464205440,
+    "wof:name":"Otsuka Rentals",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -155.675289,
+    20.017649,
+    -155.675289,
+    20.017649
+],
+  "geometry": {"coordinates":[-155.67528899999999,20.017649],"type":"Point"}
+}

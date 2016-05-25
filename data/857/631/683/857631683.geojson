@@ -1,0 +1,68 @@
+{
+  "id": 857631683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895124,21.335192,-157.895124,21.335192",
+    "geom:latitude":21.335192,
+    "geom:longitude":-157.895124,
+    "iso:country":"US",
+    "sg:address":"2706 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 0061",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n65krK4STLN1C1jDIsii8_21.335192_-157.895124@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204703,
+    "wof:geomhash":"5d6b22312965e9bf738c98c4a013e14e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857631683
+        }
+    ],
+    "wof:id":857631683,
+    "wof:lastmodified":1464204703,
+    "wof:name":"Douglas Takata Equipment Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.895124,
+    21.335192,
+    -157.895124,
+    21.335192
+],
+  "geometry": {"coordinates":[-157.89512400000001,21.335192],"type":"Point"}
+}

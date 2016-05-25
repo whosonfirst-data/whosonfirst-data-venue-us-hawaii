@@ -1,0 +1,76 @@
+{
+  "id": 857681485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826988,21.279923,-157.826988,21.279923",
+    "geom:latitude":21.279923,
+    "geom:longitude":-157.826988,
+    "iso:country":"US",
+    "sg:address":"2255 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/135804-jamba-juice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 6260",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0raGEhom0mj8YuWudxDchJ_21.279923_-157.826988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206786,
+    "wof:geomhash":"7cc808e126e06f7939dfa9d823dc6e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681485
+        }
+    ],
+    "wof:id":857681485,
+    "wof:lastmodified":1464206786,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.826988,
+    21.279923,
+    -157.826988,
+    21.279923
+],
+  "geometry": {"coordinates":[-157.826988,21.279923],"type":"Point"}
+}

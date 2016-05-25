@@ -1,0 +1,80 @@
+{
+  "id": 857570263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804209,21.417683,-157.804209,21.417683",
+    "geom:latitude":21.417683,
+    "geom:longitude":-157.804209,
+    "iso:country":"US",
+    "sg:address":"163 Malina Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 8012",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfr",
+        "pork",
+        "sausage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lV0dhc3nAw9TmrkW111m0_21.417683_-157.804209@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203358,
+    "wof:geomhash":"c3455e2e80f3a91239e35e3a53eb5409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857570263
+        }
+    ],
+    "wof:id":857570263,
+    "wof:lastmodified":1464203358,
+    "wof:name":"Pnj Sausage Factory",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfr",
+        "pork",
+        "sausage"
+    ]
+},
+  "bbox": [
+    -157.804209,
+    21.417683,
+    -157.804209,
+    21.417683
+],
+  "geometry": {"coordinates":[-157.80420899999999,21.417683],"type":"Point"}
+}

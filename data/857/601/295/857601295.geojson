@@ -1,0 +1,77 @@
+{
+  "id": 857601295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.965487,21.392133,-157.965487,21.392133",
+    "geom:latitude":21.392133,
+    "geom:longitude":-157.965487,
+    "iso:country":"US",
+    "sg:address":"777 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 3711",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DmCM2X3DgmYQd01gewbPQ_21.392133_-157.965487@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204014,
+    "wof:geomhash":"546d7fe446bc323e4c56c709f8fbd9f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857601295
+        }
+    ],
+    "wof:id":857601295,
+    "wof:lastmodified":1464204014,
+    "wof:name":"Chevron",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -157.965487,
+    21.392133,
+    -157.965487,
+    21.392133
+],
+  "geometry": {"coordinates":[-157.965487,21.392133],"type":"Point"}
+}

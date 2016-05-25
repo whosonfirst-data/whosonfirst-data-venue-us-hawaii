@@ -1,0 +1,71 @@
+{
+  "id": 857510071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.985607,21.325295,-157.985607,21.325295",
+    "geom:latitude":21.325295,
+    "geom:longitude":-157.985607,
+    "iso:country":"US",
+    "sg:address":"5105 Iroquois Ave",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 441 9999",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oC9KQ1NJFxY7bQDyUIubj_21.325295_-157.985607@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202146,
+    "wof:geomhash":"47f704c107706f5048f0da58cc48e9e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857510071
+        }
+    ],
+    "wof:id":857510071,
+    "wof:lastmodified":1464202146,
+    "wof:name":"Iriquios Point Island Club",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.985607,
+    21.325295,
+    -157.985607,
+    21.325295
+],
+  "geometry": {"coordinates":[-157.98560699999999,21.325295],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857596929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.959703,21.389578,-157.959703,21.389578",
+    "geom:latitude":21.389578,
+    "geom:longitude":-157.959703,
+    "iso:country":"US",
+    "sg:address":"54 Kuleana Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 4200",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.mdyerandsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uXlciFd0aBaY01OIi2dLa_21.389578_-157.959703@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203922,
+    "wof:geomhash":"71941188214f01c1e12477fdc5f4a840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857596929
+        }
+    ],
+    "wof:id":857596929,
+    "wof:lastmodified":1464203922,
+    "wof:name":"M Dyer & Sons Inc",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -157.959703,
+    21.389578,
+    -157.959703,
+    21.389578
+],
+  "geometry": {"coordinates":[-157.95970299999999,21.389578],"type":"Point"}
+}

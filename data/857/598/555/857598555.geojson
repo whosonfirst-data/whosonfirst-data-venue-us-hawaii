@@ -1,0 +1,68 @@
+{
+  "id": 857598555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.659248,20.998705,-156.659248,20.998705",
+    "geom:latitude":20.998705,
+    "geom:longitude":-156.659248,
+    "iso:country":"US",
+    "sg:address":"900 Kapalua Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 8036",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937677,
+        102085577,
+        85890521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5II3o15kifWObGbbfDFTLx_20.998705_-156.659248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203952,
+    "wof:geomhash":"49b930fa63985c9a35488e131a3d8c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937677,
+            "neighbourhood_id":85890521,
+            "region_id":85688671,
+            "venue_id":857598555
+        }
+    ],
+    "wof:id":857598555,
+    "wof:lastmodified":1464203952,
+    "wof:name":"Kapalua Land Co",
+    "wof:parent_id":85890521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.659248,
+    20.998705,
+    -156.659248,
+    20.998705
+],
+  "geometry": {"coordinates":[-156.65924799999999,20.998705],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857597763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815861,21.273078,-157.815861,21.273078",
+    "geom:latitude":21.273078,
+    "geom:longitude":-157.815861,
+    "iso:country":"US",
+    "sg:address":"3430 Leahi Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 9003",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IwBgi3JyKz85fzBUtQtoy_21.273078_-157.815861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203937,
+    "wof:geomhash":"c78abd936304fdd12274ef1d99c4c68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857597763
+        }
+    ],
+    "wof:id":857597763,
+    "wof:lastmodified":1464203937,
+    "wof:name":"Test Development Section",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "educational"
+    ]
+},
+  "bbox": [
+    -157.815861,
+    21.273078,
+    -157.815861,
+    21.273078
+],
+  "geometry": {"coordinates":[-157.81586100000001,21.273078],"type":"Point"}
+}

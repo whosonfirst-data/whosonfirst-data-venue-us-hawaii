@@ -1,0 +1,73 @@
+{
+  "id": 857664833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803944,21.285372,-157.803944,21.285372",
+    "geom:latitude":21.285372,
+    "geom:longitude":-157.803944,
+    "iso:country":"US",
+    "sg:address":"3368 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 5677",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uT4wkoLieurMmyFSdrHlG_21.285372_-157.803944@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206116,
+    "wof:geomhash":"929a8181fe12d8dfa4a0f377ccaef514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857664833
+        }
+    ],
+    "wof:id":857664833,
+    "wof:lastmodified":1464206116,
+    "wof:name":"Eastern Garden Restaurant",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -157.803944,
+    21.285372,
+    -157.803944,
+    21.285372
+],
+  "geometry": {"coordinates":[-157.803944,21.285372],"type":"Point"}
+}

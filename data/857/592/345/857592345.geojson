@@ -1,0 +1,75 @@
+{
+  "id": 857592345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.760957,21.292462,-157.760957,21.292462",
+    "geom:latitude":21.292462,
+    "geom:longitude":-157.760957,
+    "iso:country":"US",
+    "sg:address":"2175 Hikino St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5106",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ju3L0bU8LIR9IwUv7zGsX_21.292462_-157.760957@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203812,
+    "wof:geomhash":"015b4943d901c111c945e476cc704064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857592345
+        }
+    ],
+    "wof:id":857592345,
+    "wof:lastmodified":1464203812,
+    "wof:name":"Wayne's Air Conditioning",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.760957,
+    21.292462,
+    -157.760957,
+    21.292462
+],
+  "geometry": {"coordinates":[-157.76095699999999,21.292462],"type":"Point"}
+}

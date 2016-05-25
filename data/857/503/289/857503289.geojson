@@ -1,0 +1,71 @@
+{
+  "id": 857503289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829334,21.288415,-157.829334,21.288415",
+    "geom:latitude":21.288415,
+    "geom:longitude":-157.829334,
+    "iso:country":"US",
+    "sg:address":"2241 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 983 4109",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l1ZMTlNNGOdI277EBq8SL_21.288415_-157.829334@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201991,
+    "wof:geomhash":"0aa4290199b76333d4063f4bbc28027a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857503289
+        }
+    ],
+    "wof:id":857503289,
+    "wof:lastmodified":1464201991,
+    "wof:name":"Hawaii Tokai Intl College",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -157.829334,
+    21.288415,
+    -157.829334,
+    21.288415
+],
+  "geometry": {"coordinates":[-157.82933399999999,21.288415],"type":"Point"}
+}

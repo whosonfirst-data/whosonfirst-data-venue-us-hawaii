@@ -1,0 +1,71 @@
+{
+  "id": 857503475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846902,21.305982,-157.846902,21.305982",
+    "geom:latitude":21.305982,
+    "geom:longitude":-157.846902,
+    "iso:country":"US",
+    "sg:address":"1415 Victoria St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4006",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LM38nUEvAHKLo5giWYuiH_21.305982_-157.846902@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201994,
+    "wof:geomhash":"7b97b2d5a5c8106259ba3e10f8cb873b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857503475
+        }
+    ],
+    "wof:id":857503475,
+    "wof:lastmodified":1464201994,
+    "wof:name":"Hawaii Health Publishers",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -157.846902,
+    21.305982,
+    -157.846902,
+    21.305982
+],
+  "geometry": {"coordinates":[-157.846902,21.305982],"type":"Point"}
+}

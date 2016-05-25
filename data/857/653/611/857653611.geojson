@@ -1,0 +1,73 @@
+{
+  "id": 857653611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868074,21.317308,-157.868074,21.317308",
+    "geom:latitude":21.317308,
+    "geom:longitude":-157.868074,
+    "iso:country":"US",
+    "sg:address":"828 Pine St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3956",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RWYUwbqTdSv6dX4bBwCIm_21.317308_-157.868074@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205621,
+    "wof:geomhash":"d72f2ad2e5eb4b19ca1a8b40cd5b1b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857653611
+        }
+    ],
+    "wof:id":857653611,
+    "wof:lastmodified":1464205621,
+    "wof:name":"T Bug Svc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.868074,
+    21.317308,
+    -157.868074,
+    21.317308
+],
+  "geometry": {"coordinates":[-157.86807400000001,21.317308],"type":"Point"}
+}

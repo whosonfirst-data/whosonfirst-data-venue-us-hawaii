@@ -1,0 +1,71 @@
+{
+  "id": 857582711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.126566,21.344483,-158.126566,21.344483",
+    "geom:latitude":21.344483,
+    "geom:longitude":-158.126566,
+    "iso:country":"US",
+    "sg:address":"1001 Aliinui Dr",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1277",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IFQhc81CuRG9cvq5CxkTk_21.344483_-158.126566@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203603,
+    "wof:geomhash":"ed7dddecf348b2e68a0dc9b15f335ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857582711
+        }
+    ],
+    "wof:id":857582711,
+    "wof:lastmodified":1464203603,
+    "wof:name":"Kaiolioli Inc",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -158.126566,
+    21.344483,
+    -158.126566,
+    21.344483
+],
+  "geometry": {"coordinates":[-158.126566,21.344483],"type":"Point"}
+}

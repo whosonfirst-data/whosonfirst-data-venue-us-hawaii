@@ -1,0 +1,73 @@
+{
+  "id": 857544229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.969016,21.396875,-157.969016,21.396875",
+    "geom:latitude":21.396875,
+    "geom:longitude":-157.969016,
+    "iso:country":"US",
+    "sg:address":"1174 Waimano Home Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 8090",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70GAu9pq5T88N2Lunh0hEH_21.396875_-157.969016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202825,
+    "wof:geomhash":"2c0c6e6283057af0986f53af50909309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857544229
+        }
+    ],
+    "wof:id":857544229,
+    "wof:lastmodified":1464202825,
+    "wof:name":"ARC",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.969016,
+    21.396875,
+    -157.969016,
+    21.396875
+],
+  "geometry": {"coordinates":[-157.96901600000001,21.396875],"type":"Point"}
+}

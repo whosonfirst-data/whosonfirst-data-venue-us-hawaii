@@ -1,0 +1,87 @@
+{
+  "id": 857625177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902859,21.334283,-157.902859,21.334283",
+    "geom:latitude":21.334283,
+    "geom:longitude":-157.902859,
+    "iso:country":"US",
+    "sg:address":"2957 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5633",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marble",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31e8CgSTHQgkwG7JkZ1hgH_21.334283_-157.902859@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204564,
+    "wof:geomhash":"5f83e6d79b39f82e0f4c7a2195fa375e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857625177
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857625177
+        }
+    ],
+    "wof:id":857625177,
+    "wof:lastmodified":1464204564,
+    "wof:name":"Marble Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marble",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.902859,
+    21.334283,
+    -157.902859,
+    21.334283
+],
+  "geometry": {"coordinates":[-157.90285900000001,21.334283],"type":"Point"}
+}

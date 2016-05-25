@@ -1,0 +1,71 @@
+{
+  "id": 857520367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85675,21.300618,-157.85675,21.300618",
+    "geom:latitude":21.300618,
+    "geom:longitude":-157.85675,
+    "iso:country":"US",
+    "sg:address":"708 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 366 1424",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1omnNIdqNwCpPFfJ2LOFpz_21.300618_-157.856750@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202360,
+    "wof:geomhash":"9cb1e38669c2601dc9eb0288e181cbc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857520367
+        }
+    ],
+    "wof:id":857520367,
+    "wof:lastmodified":1464202360,
+    "wof:name":"Hana Ho Painting Co",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.85675,
+    21.300618,
+    -157.85675,
+    21.300618
+],
+  "geometry": {"coordinates":[-157.85675000000001,21.300618],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857579709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880559,21.333198,-157.880559,21.333198",
+    "geom:latitude":21.333198,
+    "geom:longitude":-157.880559,
+    "iso:country":"US",
+    "sg:address":"828 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5566",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55xpQ5QXGh84PyHAKKhIDT_21.333198_-157.880559@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203547,
+    "wof:geomhash":"015c31f0e0a245acca329fc2f689cc2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857579709
+        }
+    ],
+    "wof:id":857579709,
+    "wof:lastmodified":1464203547,
+    "wof:name":"Rocks Custom Stone Works",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.880559,
+    21.333198,
+    -157.880559,
+    21.333198
+],
+  "geometry": {"coordinates":[-157.88055900000001,21.333198],"type":"Point"}
+}

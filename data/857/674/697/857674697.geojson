@@ -1,0 +1,75 @@
+{
+  "id": 857674697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881567,21.332593,-157.881567,21.332593",
+    "geom:latitude":21.332593,
+    "geom:longitude":-157.881567,
+    "iso:country":"US",
+    "sg:address":"756 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0721",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Di5kq6PK0xaZWrhcLjYWu_21.332593_-157.881567@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206513,
+    "wof:geomhash":"8b6f5575a204435bc23ee0625290ddab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857674697
+        }
+    ],
+    "wof:id":857674697,
+    "wof:lastmodified":1464206513,
+    "wof:name":"Olympic Electric",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.881567,
+    21.332593,
+    -157.881567,
+    21.332593
+],
+  "geometry": {"coordinates":[-157.88156699999999,21.332593],"type":"Point"}
+}

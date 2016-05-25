@@ -1,0 +1,73 @@
+{
+  "id": 857659125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.959596,21.425491,-157.959596,21.425491",
+    "geom:latitude":21.425491,
+    "geom:longitude":-157.959596,
+    "iso:country":"US",
+    "sg:address":"2177 Aupaka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 5422",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oOVLILLPZ3bSn642QDSFQ_21.425491_-157.959596@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205867,
+    "wof:geomhash":"e2aad71ced05bf5f1f390a160d026a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857659125
+        }
+    ],
+    "wof:id":857659125,
+    "wof:lastmodified":1464205867,
+    "wof:name":"Soares Truck Rental",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.959596,
+    21.425491,
+    -157.959596,
+    21.425491
+],
+  "geometry": {"coordinates":[-157.959596,21.425491],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857676395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.015297,21.44135,-158.015297,21.44135",
+    "geom:latitude":21.44135,
+    "geom:longitude":-158.015297,
+    "iso:country":"US",
+    "sg:address":"176 Kuahelani Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 9529",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgcQFZBGatqRkQ3CfYIJP_21.441350_-158.015297@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206591,
+    "wof:geomhash":"1c84f7df6756f2633f6e4deec064ab95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857676395
+        }
+    ],
+    "wof:id":857676395,
+    "wof:lastmodified":1464206591,
+    "wof:name":"Rusty's Club Repair",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -158.015297,
+    21.44135,
+    -158.015297,
+    21.44135
+],
+  "geometry": {"coordinates":[-158.015297,21.44135],"type":"Point"}
+}

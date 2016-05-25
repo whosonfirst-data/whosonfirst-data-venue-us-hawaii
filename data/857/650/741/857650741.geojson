@@ -1,0 +1,77 @@
+{
+  "id": 857650741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.019604,21.445172,-158.019604,21.445172",
+    "geom:latitude":21.445172,
+    "geom:longitude":-158.019604,
+    "iso:country":"US",
+    "sg:address":"350 Keaolani St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 5119",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "testing",
+        "electrical",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HIbscVdpBUjEcH8Vef8ZM_21.445172_-158.019604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205486,
+    "wof:geomhash":"14624124ee8776a3f3644f13a8e2ea0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857650741
+        }
+    ],
+    "wof:id":857650741,
+    "wof:lastmodified":1464205486,
+    "wof:name":"Electrical Equipment Testing",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "testing",
+        "electrical",
+        "power"
+    ]
+},
+  "bbox": [
+    -158.019604,
+    21.445172,
+    -158.019604,
+    21.445172
+],
+  "geometry": {"coordinates":[-158.01960399999999,21.445172],"type":"Point"}
+}

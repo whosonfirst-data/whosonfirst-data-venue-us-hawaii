@@ -1,0 +1,73 @@
+{
+  "id": 857572725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.695024,21.286967,-157.695024,21.286967",
+    "geom:latitude":21.286967,
+    "geom:longitude":-157.695024,
+    "iso:country":"US",
+    "sg:address":"623 Kapaia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 383 3974",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsyE2L8CPHS9jGvTDmI9s_21.286967_-157.695024@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203404,
+    "wof:geomhash":"cda81a846fd3a13c8d163c472e57d315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857572725
+        }
+    ],
+    "wof:id":857572725,
+    "wof:lastmodified":1464203404,
+    "wof:name":"Rucci Aamodt Piano Studio",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.695024,
+    21.286967,
+    -157.695024,
+    21.286967
+],
+  "geometry": {"coordinates":[-157.69502399999999,21.286967],"type":"Point"}
+}

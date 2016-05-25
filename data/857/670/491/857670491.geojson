@@ -1,0 +1,71 @@
+{
+  "id": 857670491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824929,21.294814,-157.824929,21.294814",
+    "geom:latitude":21.294814,
+    "geom:longitude":-157.824929,
+    "iso:country":"US",
+    "sg:address":"1110 Isenberg St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7898",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FWxvWXLMuLtqOZKrMSSbf_21.294814_-157.824929@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206357,
+    "wof:geomhash":"393cbddcef0ee8622d6b8fbb2b1c7e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857670491
+        }
+    ],
+    "wof:id":857670491,
+    "wof:lastmodified":1464206357,
+    "wof:name":"Printa-Quick",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.824929,
+    21.294814,
+    -157.824929,
+    21.294814
+],
+  "geometry": {"coordinates":[-157.824929,21.294814],"type":"Point"}
+}

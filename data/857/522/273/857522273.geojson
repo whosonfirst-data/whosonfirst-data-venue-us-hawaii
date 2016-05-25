@@ -1,0 +1,71 @@
+{
+  "id": 857522273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.697836,21.283654,-157.697836,21.283654",
+    "geom:latitude":21.283654,
+    "geom:longitude":-157.697836,
+    "iso:country":"US",
+    "sg:address":"480 Kekauluohi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 1262",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uYLqSnBCRTVuoVBlEVhq0_21.283654_-157.697836@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202395,
+    "wof:geomhash":"5a0ed28ed217257cbc1f6b347c719823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857522273
+        }
+    ],
+    "wof:id":857522273,
+    "wof:lastmodified":1464202395,
+    "wof:name":"Lokahi Services Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.697836,
+    21.283654,
+    -157.697836,
+    21.283654
+],
+  "geometry": {"coordinates":[-157.697836,21.283654],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857507315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.006428,21.383803,-158.006428,21.383803",
+    "geom:latitude":21.383803,
+    "geom:longitude":-158.006428,
+    "iso:country":"US",
+    "sg:address":"239 Waipahu Depot St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1000",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ERwEjiXfunnouBk79rp9_21.383803_-158.006428@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202087,
+    "wof:geomhash":"82c194aaddfe5bcbaa71fcdfb728805b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857507315
+        }
+    ],
+    "wof:id":857507315,
+    "wof:lastmodified":1464202087,
+    "wof:name":"Kam Diagnostic Radiology",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.006428,
+    21.383803,
+    -158.006428,
+    21.383803
+],
+  "geometry": {"coordinates":[-158.006428,21.383803],"type":"Point"}
+}

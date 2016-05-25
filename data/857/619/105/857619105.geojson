@@ -1,0 +1,71 @@
+{
+  "id": 857619105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898619,21.377011,-157.898619,21.377011",
+    "geom:latitude":21.377011,
+    "geom:longitude":-157.898619,
+    "iso:country":"US",
+    "sg:address":"1410 Koaha Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 5047",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "exterminating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FASVmyAhAW0RePfRFHnft_21.377011_-157.898619@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204404,
+    "wof:geomhash":"385a3c6b49509ebd448462d1c46b0ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857619105
+        }
+    ],
+    "wof:id":857619105,
+    "wof:lastmodified":1464204404,
+    "wof:name":"Terminix",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exterminating"
+    ]
+},
+  "bbox": [
+    -157.898619,
+    21.377011,
+    -157.898619,
+    21.377011
+],
+  "geometry": {"coordinates":[-157.898619,21.377011],"type":"Point"}
+}

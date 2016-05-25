@@ -1,0 +1,71 @@
+{
+  "id": 857609701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914816,21.619189,-157.914816,21.619189",
+    "geom:latitude":21.619189,
+    "geom:longitude":-157.914816,
+    "iso:country":"US",
+    "sg:address":"295 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 7799",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nTDORsEg9VI8AxHEUyFgG_21.619189_-157.914816@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204200,
+    "wof:geomhash":"8f7479fc2a879e9767691aed9a0ac4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857609701
+        }
+    ],
+    "wof:id":857609701,
+    "wof:lastmodified":1464204200,
+    "wof:name":"Masa Enterprise Inc",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.914816,
+    21.619189,
+    -157.914816,
+    21.619189
+],
+  "geometry": {"coordinates":[-157.914816,21.619189],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857606473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.459258,20.879202,-156.459258,20.879202",
+    "geom:latitude":20.879202,
+    "geom:longitude":-156.459258,
+    "iso:country":"US",
+    "sg:address":"104 Puukani St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 5200",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_170s9YWblpr9hPs6VEDZAj_20.879202_-156.459258@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204125,
+    "wof:geomhash":"fa4381846d8a7b146c15f37868b22712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857606473
+        }
+    ],
+    "wof:id":857606473,
+    "wof:lastmodified":1464204125,
+    "wof:name":"Bel-Aire West Intl",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -156.459258,
+    20.879202,
+    -156.459258,
+    20.879202
+],
+  "geometry": {"coordinates":[-156.45925800000001,20.879202],"type":"Point"}
+}

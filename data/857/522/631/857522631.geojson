@@ -1,0 +1,73 @@
+{
+  "id": 857522631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872827,21.32181,-157.872827,21.32181",
+    "geom:latitude":21.32181,
+    "geom:longitude":-157.872827,
+    "iso:country":"US",
+    "sg:address":"925 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4144",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OicfdjB228pLsuwwgnk8T_21.321810_-157.872827@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202401,
+    "wof:geomhash":"52b334cc227b11de4021be87dda4c04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857522631
+        }
+    ],
+    "wof:id":857522631,
+    "wof:lastmodified":1464202401,
+    "wof:name":"Sprint PCS",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -157.872827,
+    21.32181,
+    -157.872827,
+    21.32181
+],
+  "geometry": {"coordinates":[-157.872827,21.32181],"type":"Point"}
+}

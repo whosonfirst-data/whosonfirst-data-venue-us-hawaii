@@ -1,0 +1,73 @@
+{
+  "id": 857672853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797432,21.270406,-157.797432,21.270406",
+    "geom:latitude":21.270406,
+    "geom:longitude":-157.797432,
+    "iso:country":"US",
+    "sg:address":"631 18th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 4800",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sKE0uXFkVptLrA3oaAvMT_21.270406_-157.797432@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206447,
+    "wof:geomhash":"d9178af3d61fa958dee0200b1b16883e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857672853
+        }
+    ],
+    "wof:id":857672853,
+    "wof:lastmodified":1464206447,
+    "wof:name":"Kaimuki Intermediate School",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -157.797432,
+    21.270406,
+    -157.797432,
+    21.270406
+],
+  "geometry": {"coordinates":[-157.79743199999999,21.270406],"type":"Point"}
+}

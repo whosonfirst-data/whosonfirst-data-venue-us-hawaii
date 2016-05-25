@@ -1,0 +1,71 @@
+{
+  "id": 857592961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839239,21.29309,-157.839239,21.29309",
+    "geom:latitude":21.29309,
+    "geom:longitude":-157.839239,
+    "iso:country":"US",
+    "sg:address":"801 Kaheka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 4510",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xDASIHncMfmGTOFDMr1jR_21.293090_-157.839239@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203826,
+    "wof:geomhash":"ac53b3db3991e8c8e957fd06de2d29d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857592961
+        }
+    ],
+    "wof:id":857592961,
+    "wof:lastmodified":1464203826,
+    "wof:name":"Hakuyosha Hawaii Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -157.839239,
+    21.29309,
+    -157.839239,
+    21.29309
+],
+  "geometry": {"coordinates":[-157.83923899999999,21.29309],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857510461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.359515,21.969451,-159.359515,21.969451",
+    "geom:latitude":21.969451,
+    "geom:longitude":-159.359515,
+    "iso:country":"US",
+    "sg:address":"3050 Hoolako St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7741",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "leasing",
+        "franchising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Gxbml4TDTAc3FlnUOXPa_21.969451_-159.359515@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202154,
+    "wof:geomhash":"3f3bb51a34b7c8c624b4cea566dc5072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857510461
+        }
+    ],
+    "wof:id":857510461,
+    "wof:lastmodified":1464202154,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "leasing",
+        "franchising"
+    ]
+},
+  "bbox": [
+    -159.359515,
+    21.969451,
+    -159.359515,
+    21.969451
+],
+  "geometry": {"coordinates":[-159.35951499999999,21.969451],"type":"Point"}
+}

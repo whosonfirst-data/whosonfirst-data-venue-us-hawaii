@@ -1,0 +1,74 @@
+{
+  "id": 857680705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.728643,21.378661,-157.728643,21.378661",
+    "geom:latitude":21.378661,
+    "geom:longitude":-157.728643,
+    "iso:country":"US",
+    "sg:address":"1020 Keolu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/koolaupoko/75551-round-table-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 4644",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GCORjbP5BohlXjam6NeCL_21.378661_-157.728643@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206753,
+    "wof:geomhash":"b745df2788bf5382d4e4e649ffdbeba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857680705
+        }
+    ],
+    "wof:id":857680705,
+    "wof:lastmodified":1464206753,
+    "wof:name":"Round Table Pizza",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.728643,
+    21.378661,
+    -157.728643,
+    21.378661
+],
+  "geometry": {"coordinates":[-157.72864300000001,21.378661],"type":"Point"}
+}

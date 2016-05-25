@@ -1,0 +1,71 @@
+{
+  "id": 857514083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811194,21.31694,-157.811194,21.31694",
+    "geom:latitude":21.31694,
+    "geom:longitude":-157.811194,
+    "iso:country":"US",
+    "sg:address":"2507 Rainbow Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7820",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74glS14bRaCbxGl3OfB3qK_21.316940_-157.811194@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202232,
+    "wof:geomhash":"d66a3eac1c863b372938ed1a3b083e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857514083
+        }
+    ],
+    "wof:id":857514083,
+    "wof:lastmodified":1464202232,
+    "wof:name":"Aloha Discount Dental Supply",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.811194,
+    21.31694,
+    -157.811194,
+    21.31694
+],
+  "geometry": {"coordinates":[-157.811194,21.31694],"type":"Point"}
+}

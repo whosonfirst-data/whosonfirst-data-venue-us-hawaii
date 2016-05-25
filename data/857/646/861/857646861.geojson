@@ -1,0 +1,81 @@
+{
+  "id": 857646861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844394,21.300033,-157.844394,21.300033",
+    "geom:latitude":21.300033,
+    "geom:longitude":-157.844394,
+    "iso:country":"US",
+    "sg:address":"1120 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2095",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "appliance",
+        "direct",
+        "sales",
+        "other",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMhTPH7iC5DQiGCi3BNKX_21.300033_-157.844394@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205331,
+    "wof:geomhash":"061273190a77856f6323b474ef458ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857646861
+        }
+    ],
+    "wof:id":857646861,
+    "wof:lastmodified":1464205331,
+    "wof:name":"Acme Juicer",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "appliance",
+        "direct",
+        "sales",
+        "other",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -157.844394,
+    21.300033,
+    -157.844394,
+    21.300033
+],
+  "geometry": {"coordinates":[-157.84439399999999,21.300033],"type":"Point"}
+}

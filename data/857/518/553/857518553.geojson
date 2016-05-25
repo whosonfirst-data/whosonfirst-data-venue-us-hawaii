@@ -1,0 +1,73 @@
+{
+  "id": 857518553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.123732,19.701426,-155.123732,19.701426",
+    "geom:latitude":19.701426,
+    "geom:longitude":-155.123732,
+    "iso:country":"US",
+    "sg:address":"214 Hokulani St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 0331",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZ2Qtwqg0DdW7kPGhGSaE_19.701426_-155.123732@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202321,
+    "wof:geomhash":"129b60529f062c47d4ef13f5ffcfefea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890243,
+            "region_id":85688671,
+            "venue_id":857518553
+        }
+    ],
+    "wof:id":857518553,
+    "wof:lastmodified":1464202321,
+    "wof:name":"Kuhio Grille",
+    "wof:parent_id":85890243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -155.123732,
+    19.701426,
+    -155.123732,
+    19.701426
+],
+  "geometry": {"coordinates":[-155.12373199999999,19.701426],"type":"Point"}
+}

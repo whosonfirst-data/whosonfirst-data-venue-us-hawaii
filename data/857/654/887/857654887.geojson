@@ -1,0 +1,71 @@
+{
+  "id": 857654887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854853,21.298211,-157.854853,21.298211",
+    "geom:latitude":21.298211,
+    "geom:longitude":-157.854853,
+    "iso:country":"US",
+    "sg:address":"929 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 3171",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zrO6ZJXW0WpBJd9zXdcQN_21.298211_-157.854853@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205676,
+    "wof:geomhash":"4732431102aa681d0b1a15c8b5c85cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857654887
+        }
+    ],
+    "wof:id":857654887,
+    "wof:lastmodified":1464205676,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -157.854853,
+    21.298211,
+    -157.854853,
+    21.298211
+],
+  "geometry": {"coordinates":[-157.85485299999999,21.298211],"type":"Point"}
+}

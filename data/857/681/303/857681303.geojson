@@ -1,0 +1,71 @@
+{
+  "id": 857681303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852384,21.292649,-157.852384,21.292649",
+    "geom:latitude":21.292649,
+    "geom:longitude":-157.852384,
+    "iso:country":"US",
+    "sg:address":"1200 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/217677-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vSzkB1BJKgGLX2KObaU4E_21.292649_-157.852384@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206778,
+    "wof:geomhash":"4cf30daf02525cb8c98e6926847fc621",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681303
+        }
+    ],
+    "wof:id":857681303,
+    "wof:lastmodified":1464206778,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.852384,
+    21.292649,
+    -157.852384,
+    21.292649
+],
+  "geometry": {"coordinates":[-157.852384,21.292649],"type":"Point"}
+}

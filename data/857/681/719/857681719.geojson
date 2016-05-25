@@ -1,0 +1,72 @@
+{
+  "id": 857681719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835451,21.296995,-157.835451,21.296995",
+    "geom:latitude":21.296995,
+    "geom:longitude":-157.835451,
+    "iso:country":"US",
+    "sg:address":"1618 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/243090-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 7300",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kw2iAKJAVcVlam9dEIH5X_21.296995_-157.835451@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206799,
+    "wof:geomhash":"d8f6eeb814842785633aa99c51f5a599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857681719
+        }
+    ],
+    "wof:id":857681719,
+    "wof:lastmodified":1464206799,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.835451,
+    21.296995,
+    -157.835451,
+    21.296995
+],
+  "geometry": {"coordinates":[-157.83545100000001,21.296995],"type":"Point"}
+}

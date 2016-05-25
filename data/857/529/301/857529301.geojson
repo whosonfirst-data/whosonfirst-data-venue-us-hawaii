@@ -1,0 +1,75 @@
+{
+  "id": 857529301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846538,21.302701,-157.846538,21.302701",
+    "geom:latitude":21.302701,
+    "geom:longitude":-157.846538,
+    "iso:country":"US",
+    "sg:address":"1037 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 3456",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "school",
+        "maintenance",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QgLyz5JukvuTMWvGk3FKK_21.302701_-157.846538@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202530,
+    "wof:geomhash":"a9dfae4922d862686ec42e0c3b31c62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857529301
+        }
+    ],
+    "wof:id":857529301,
+    "wof:lastmodified":1464202530,
+    "wof:name":"Auxiliary Services",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "maintenance",
+        "facility"
+    ]
+},
+  "bbox": [
+    -157.846538,
+    21.302701,
+    -157.846538,
+    21.302701
+],
+  "geometry": {"coordinates":[-157.84653800000001,21.302701],"type":"Point"}
+}

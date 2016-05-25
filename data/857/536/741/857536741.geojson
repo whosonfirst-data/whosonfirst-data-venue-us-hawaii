@@ -1,0 +1,71 @@
+{
+  "id": 857536741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82192,21.290568,-157.82192,21.290568",
+    "geom:latitude":21.290568,
+    "geom:longitude":-157.82192,
+    "iso:country":"US",
+    "sg:address":"802 Kahuna Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 5500",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AdyMRVfRYOR0X6SNLqPsU_21.290568_-157.821920@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202676,
+    "wof:geomhash":"ff28121cb451b4c594787c8f1212f803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857536741
+        }
+    ],
+    "wof:id":857536741,
+    "wof:lastmodified":1464202676,
+    "wof:name":"Island Bail Bonds",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.82192,
+    21.290568,
+    -157.82192,
+    21.290568
+],
+  "geometry": {"coordinates":[-157.82192000000001,21.290568],"type":"Point"}
+}

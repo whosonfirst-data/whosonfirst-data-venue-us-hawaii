@@ -1,0 +1,72 @@
+{
+  "id": 857665123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.76744,21.414182,-157.76744,21.414182",
+    "geom:latitude":21.414182,
+    "geom:longitude":-157.76744,
+    "iso:country":"US",
+    "sg:address":"503 Kaneohe Bay Dr",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 4121",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "sg:website":"www.kaneoheyachtclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79RmWQhjMSaNeyOGXL3Z47_21.414182_-157.767440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206135,
+    "wof:geomhash":"c40cceebcac925c452b04b85ca5869ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857665123
+        }
+    ],
+    "wof:id":857665123,
+    "wof:lastmodified":1464206135,
+    "wof:name":"Kaneohe Yacht Club",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.76744,
+    21.414182,
+    -157.76744,
+    21.414182
+],
+  "geometry": {"coordinates":[-157.76743999999999,21.414182],"type":"Point"}
+}

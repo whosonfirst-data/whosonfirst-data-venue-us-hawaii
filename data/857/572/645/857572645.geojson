@@ -1,0 +1,71 @@
+{
+  "id": 857572645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.718739,21.288833,-157.718739,21.288833",
+    "geom:latitude":21.288833,
+    "geom:longitude":-157.718739,
+    "iso:country":"US",
+    "sg:address":"250 Kawaihae St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 0060",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ThjwgCRUxNSWn7CVYX2Pw_21.288833_-157.718739@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203402,
+    "wof:geomhash":"1001431f9c823a664cfcb041db67d144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857572645
+        }
+    ],
+    "wof:id":857572645,
+    "wof:lastmodified":1464203402,
+    "wof:name":"Mt Terrace",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.718739,
+    21.288833,
+    -157.718739,
+    21.288833
+],
+  "geometry": {"coordinates":[-157.718739,21.288833],"type":"Point"}
+}

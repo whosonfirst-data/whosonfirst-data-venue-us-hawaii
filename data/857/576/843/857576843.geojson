@@ -1,0 +1,75 @@
+{
+  "id": 857576843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.968301,21.408445,-157.968301,21.408445",
+    "geom:latitude":21.408445,
+    "geom:longitude":-157.968301,
+    "iso:country":"US",
+    "sg:address":"1664 Kalauipo St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 5016",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10MKD077qMmbfqKw2g637W_21.408445_-157.968301@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203486,
+    "wof:geomhash":"e87661329ef3888538ceea3b8b356526",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857576843
+        }
+    ],
+    "wof:id":857576843,
+    "wof:lastmodified":1464203486,
+    "wof:name":"Rivera's Painting",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.968301,
+    21.408445,
+    -157.968301,
+    21.408445
+],
+  "geometry": {"coordinates":[-157.968301,21.408445],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857659625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.934055,21.366572,-157.934055,21.366572",
+    "geom:latitude":21.366572,
+    "geom:longitude":-157.934055,
+    "iso:country":"US",
+    "sg:address":"108 Kalaloa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6772",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "commodity",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890053,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rfmQUg4j54TMKzBPvAtSL_21.366572_-157.934055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205890,
+    "wof:geomhash":"664d31f1717dd87c220c8269e073d8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890053,
+            "region_id":85688671,
+            "venue_id":857659625
+        }
+    ],
+    "wof:id":857659625,
+    "wof:lastmodified":1464205890,
+    "wof:name":"Lyns Commodities",
+    "wof:parent_id":85890053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commodity",
+        "contract"
+    ]
+},
+  "bbox": [
+    -157.934055,
+    21.366572,
+    -157.934055,
+    21.366572
+],
+  "geometry": {"coordinates":[-157.934055,21.366572],"type":"Point"}
+}

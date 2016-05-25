@@ -1,0 +1,72 @@
+{
+  "id": 857522505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8225,21.304539,-157.8225,21.304539",
+    "geom:latitude":21.304539,
+    "geom:longitude":-157.8225,
+    "iso:country":"US",
+    "sg:address":"2156 Lanihuli Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 0503",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.manoaseniorcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jLxlIWfnbEoR85IdW5G6U_21.304539_-157.822500@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202399,
+    "wof:geomhash":"46d7dee72f68d3fe41e219b99ba36f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857522505
+        }
+    ],
+    "wof:id":857522505,
+    "wof:lastmodified":1464202399,
+    "wof:name":"Manoa Senior Care",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -157.8225,
+    21.304539,
+    -157.8225,
+    21.304539
+],
+  "geometry": {"coordinates":[-157.82249999999999,21.304539],"type":"Point"}
+}

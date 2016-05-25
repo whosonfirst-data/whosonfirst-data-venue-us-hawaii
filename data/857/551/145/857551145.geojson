@@ -1,0 +1,71 @@
+{
+  "id": 857551145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847507,21.316608,-157.847507,21.316608",
+    "geom:latitude":21.316608,
+    "geom:longitude":-157.847507,
+    "iso:country":"US",
+    "sg:address":"1885 Puowaina Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 2857",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ziOahW35d2fqyH5OyL1lE_21.316608_-157.847507@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202951,
+    "wof:geomhash":"9f22047776d3c1a2938da2c85b063d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857551145
+        }
+    ],
+    "wof:id":857551145,
+    "wof:lastmodified":1464202951,
+    "wof:name":"Tbu International",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.847507,
+    21.316608,
+    -157.847507,
+    21.316608
+],
+  "geometry": {"coordinates":[-157.84750700000001,21.316608],"type":"Point"}
+}

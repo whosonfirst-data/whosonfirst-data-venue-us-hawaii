@@ -1,0 +1,73 @@
+{
+  "id": 857583029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831513,21.291619,-157.831513,21.291619",
+    "geom:latitude":21.291619,
+    "geom:longitude":-157.831513,
+    "iso:country":"US",
+    "sg:address":"764 Mc Cully St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7729",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hula",
+        "instructions"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o0YSy6sRe8f9nnRFejezD_21.291619_-157.831513@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203608,
+    "wof:geomhash":"bfb1fc21ab0b665a7633158185a27637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857583029
+        }
+    ],
+    "wof:id":857583029,
+    "wof:lastmodified":1464203608,
+    "wof:name":"Hauoli Hula Studio",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hula",
+        "instructions"
+    ]
+},
+  "bbox": [
+    -157.831513,
+    21.291619,
+    -157.831513,
+    21.291619
+],
+  "geometry": {"coordinates":[-157.831513,21.291619],"type":"Point"}
+}

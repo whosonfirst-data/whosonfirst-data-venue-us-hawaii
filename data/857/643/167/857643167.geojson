@@ -1,0 +1,71 @@
+{
+  "id": 857643167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802031,21.272141,-157.802031,21.272141",
+    "geom:latitude":21.272141,
+    "geom:longitude":-157.802031,
+    "iso:country":"US",
+    "sg:address":"3650 Maunalei Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 8080",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GEIKDRDuKw85g4q7nwTDW_21.272141_-157.802031@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205152,
+    "wof:geomhash":"ef75f5ee939c633470ea4a8b30823957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857643167
+        }
+    ],
+    "wof:id":857643167,
+    "wof:lastmodified":1464205152,
+    "wof:name":"Hale Mohalu Hospital",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.802031,
+    21.272141,
+    -157.802031,
+    21.272141
+],
+  "geometry": {"coordinates":[-157.802031,21.272141],"type":"Point"}
+}

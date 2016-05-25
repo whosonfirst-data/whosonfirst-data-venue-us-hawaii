@@ -1,0 +1,72 @@
+{
+  "id": 857637177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.377125,21.971207,-159.377125,21.971207",
+    "geom:latitude":21.971207,
+    "geom:longitude":-159.377125,
+    "iso:country":"US",
+    "sg:address":"4418 Kukui Grove St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5377",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pacificeyecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4myE22Bf2I3IGi0T7gPRpB_21.971207_-159.377125@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204911,
+    "wof:geomhash":"e0e428d826511aef5bc5f38b083984d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857637177
+        }
+    ],
+    "wof:id":857637177,
+    "wof:lastmodified":1464204911,
+    "wof:name":"Pacific Eyewear",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -159.377125,
+    21.971207,
+    -159.377125,
+    21.971207
+],
+  "geometry": {"coordinates":[-159.37712500000001,21.971207],"type":"Point"}
+}

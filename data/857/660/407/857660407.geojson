@@ -1,0 +1,71 @@
+{
+  "id": 857660407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887589,21.327665,-157.887589,21.327665",
+    "geom:latitude":21.327665,
+    "geom:longitude":-157.887589,
+    "iso:country":"US",
+    "sg:address":"315 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3246",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BUgZR13p7TMYzJrlMLwQK_21.327665_-157.887589@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205928,
+    "wof:geomhash":"c9b38f31c9606aac3aaba81ce7476ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857660407
+        }
+    ],
+    "wof:id":857660407,
+    "wof:lastmodified":1464205928,
+    "wof:name":"Raycom Media Inc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -157.887589,
+    21.327665,
+    -157.887589,
+    21.327665
+],
+  "geometry": {"coordinates":[-157.88758899999999,21.327665],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857576839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856835,21.322754,-157.856835,21.322754",
+    "geom:latitude":21.322754,
+    "geom:longitude":-157.856835,
+    "iso:country":"US",
+    "sg:address":"405 N Kuakini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 7995",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yWI94SMTtpf9ZRpppop8Z_21.322754_-157.856835@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203486,
+    "wof:geomhash":"84d1a7723176ad4c0c6ffdda5340472d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857576839
+        }
+    ],
+    "wof:id":857576839,
+    "wof:lastmodified":1464203486,
+    "wof:name":"Kenneth K H Lee MD",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.856835,
+    21.322754,
+    -157.856835,
+    21.322754
+],
+  "geometry": {"coordinates":[-157.85683499999999,21.322754],"type":"Point"}
+}

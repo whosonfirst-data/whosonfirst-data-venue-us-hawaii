@@ -1,0 +1,73 @@
+{
+  "id": 857595943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.693929,21.300257,-157.693929,21.300257",
+    "geom:latitude":21.300257,
+    "geom:longitude":-157.693929,
+    "iso:country":"US",
+    "sg:address":"6848 Niumalu Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3062",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RBcBNgLGoXH5uW6bS51bJ_21.300257_-157.693929@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203894,
+    "wof:geomhash":"fd64ca24654b3bef50f1458f7ce457b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857595943
+        }
+    ],
+    "wof:id":857595943,
+    "wof:lastmodified":1464203894,
+    "wof:name":"Mercedes Sales",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.693929,
+    21.300257,
+    -157.693929,
+    21.300257
+],
+  "geometry": {"coordinates":[-157.693929,21.300257],"type":"Point"}
+}

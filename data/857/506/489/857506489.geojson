@@ -1,0 +1,73 @@
+{
+  "id": 857506489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794746,21.405939,-157.794746,21.405939",
+    "geom:latitude":21.405939,
+    "geom:longitude":-157.794746,
+    "iso:country":"US",
+    "sg:address":"455 Ihilani St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 4884",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_261Ily8lKn6qf4WQzkp4Vf_21.405939_-157.794746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202069,
+    "wof:geomhash":"8c6d9fbd050609c136789774faa5e8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857506489
+        }
+    ],
+    "wof:id":857506489,
+    "wof:lastmodified":1464202069,
+    "wof:name":"Aumakua Electric",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.794746,
+    21.405939,
+    -157.794746,
+    21.405939
+],
+  "geometry": {"coordinates":[-157.794746,21.405939],"type":"Point"}
+}

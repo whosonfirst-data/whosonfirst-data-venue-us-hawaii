@@ -1,0 +1,71 @@
+{
+  "id": 857599307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.755807,21.285959,-157.755807,21.285959",
+    "geom:latitude":21.285959,
+    "geom:longitude":-157.755807,
+    "iso:country":"US",
+    "sg:address":"5238 Liwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 3237",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57fp5SQUMKyHfSIAZh8cuN_21.285959_-157.755807@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203969,
+    "wof:geomhash":"7502e8ecedbb217973dfadc9e16223ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857599307
+        }
+    ],
+    "wof:id":857599307,
+    "wof:lastmodified":1464203969,
+    "wof:name":"Suncore Construction Inc",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.755807,
+    21.285959,
+    -157.755807,
+    21.285959
+],
+  "geometry": {"coordinates":[-157.755807,21.285959],"type":"Point"}
+}

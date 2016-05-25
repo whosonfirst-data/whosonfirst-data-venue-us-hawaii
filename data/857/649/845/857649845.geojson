@@ -1,0 +1,71 @@
+{
+  "id": 857649845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.758955,21.277843,-157.758955,21.277843",
+    "geom:latitude":21.277843,
+    "geom:longitude":-157.758955,
+    "iso:country":"US",
+    "sg:address":"190 Kaai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 6997",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0unVWCv42n9LrWcmT4ajNv_21.277843_-157.758955@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205448,
+    "wof:geomhash":"99a401c5476573d12259706617b0f5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857649845
+        }
+    ],
+    "wof:id":857649845,
+    "wof:lastmodified":1464205448,
+    "wof:name":"New Century Mortgage Corp",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -157.758955,
+    21.277843,
+    -157.758955,
+    21.277843
+],
+  "geometry": {"coordinates":[-157.75895499999999,21.277843],"type":"Point"}
+}

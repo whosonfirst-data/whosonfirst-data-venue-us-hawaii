@@ -1,0 +1,75 @@
+{
+  "id": 857612921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799558,21.283791,-157.799558,21.283791",
+    "geom:latitude":21.283791,
+    "geom:longitude":-157.799558,
+    "iso:country":"US",
+    "sg:address":"3311 Sierra Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 2942",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "general",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vgSZ3ZcgH4zx5EXQmHqfb_21.283791_-157.799558@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204279,
+    "wof:geomhash":"dc8c2a954c219feea0d1e3f3e4930e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857612921
+        }
+    ],
+    "wof:id":857612921,
+    "wof:lastmodified":1464204279,
+    "wof:name":"Automotive Glass Center",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "general",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -157.799558,
+    21.283791,
+    -157.799558,
+    21.283791
+],
+  "geometry": {"coordinates":[-157.79955799999999,21.283791],"type":"Point"}
+}

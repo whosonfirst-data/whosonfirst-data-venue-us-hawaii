@@ -1,0 +1,75 @@
+{
+  "id": 857661205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868941,21.319484,-157.868941,21.319484",
+    "geom:latitude":21.319484,
+    "geom:longitude":-157.868941,
+    "iso:country":"US",
+    "sg:address":"801 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 7270",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FOPUJUEh7gngfYSPkM3Fw_21.319484_-157.868941@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205973,
+    "wof:geomhash":"25874085267f8ed3b9d36339e5ace5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857661205
+        }
+    ],
+    "wof:id":857661205,
+    "wof:lastmodified":1464205973,
+    "wof:name":"Health Dept Case Management",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -157.868941,
+    21.319484,
+    -157.868941,
+    21.319484
+],
+  "geometry": {"coordinates":[-157.86894100000001,21.319484],"type":"Point"}
+}

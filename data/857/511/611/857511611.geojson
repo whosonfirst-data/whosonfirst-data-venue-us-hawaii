@@ -1,0 +1,66 @@
+{
+  "id": 857511611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.775724,21.275407,-157.775724,21.275407",
+    "geom:latitude":21.275407,
+    "geom:longitude":-157.775724,
+    "iso:country":"US",
+    "sg:address":"1002 Waieli St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 382 7632",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NWcqbi3gqvoybT3S9JvuB_21.275407_-157.775724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202178,
+    "wof:geomhash":"ef05852e02ca18d5b6e78d7ed9d3adde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857511611
+        }
+    ],
+    "wof:id":857511611,
+    "wof:lastmodified":1464202178,
+    "wof:name":"Pacific Medical Concepts",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.775724,
+    21.275407,
+    -157.775724,
+    21.275407
+],
+  "geometry": {"coordinates":[-157.775724,21.275407],"type":"Point"}
+}

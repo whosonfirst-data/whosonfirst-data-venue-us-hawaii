@@ -1,0 +1,75 @@
+{
+  "id": 857653581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880678,21.328009,-157.880678,21.328009",
+    "geom:latitude":21.328009,
+    "geom:longitude":-157.880678,
+    "iso:country":"US",
+    "sg:address":"1748 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0880",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "pediatrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NuXY5QLFqAmt6uHavxHij_21.328009_-157.880678@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205620,
+    "wof:geomhash":"f45a31f3c97352540f25142b8e561d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857653581
+        }
+    ],
+    "wof:id":857653581,
+    "wof:lastmodified":1464205620,
+    "wof:name":"Edgar T De La Cruz MD Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "pediatrician"
+    ]
+},
+  "bbox": [
+    -157.880678,
+    21.328009,
+    -157.880678,
+    21.328009
+],
+  "geometry": {"coordinates":[-157.88067799999999,21.328009],"type":"Point"}
+}

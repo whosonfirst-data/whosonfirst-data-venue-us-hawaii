@@ -1,0 +1,69 @@
+{
+  "id": 857545813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020381,21.497008,-158.020381,21.497008",
+    "geom:latitude":21.497008,
+    "geom:longitude":-158.020381,
+    "iso:country":"US",
+    "sg:address":"12 Iho Iho Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1155",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19MdicAEm2y4EOSI56YeeP_21.497008_-158.020381@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202854,
+    "wof:geomhash":"cde88012908bd4d6491cd3e81be6b67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857545813
+        }
+    ],
+    "wof:id":857545813,
+    "wof:lastmodified":1464202854,
+    "wof:name":"Frank Masakr",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.020381,
+    21.497008,
+    -158.020381,
+    21.497008
+],
+  "geometry": {"coordinates":[-158.02038099999999,21.497008],"type":"Point"}
+}

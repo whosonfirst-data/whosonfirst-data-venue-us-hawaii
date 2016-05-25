@@ -1,0 +1,77 @@
+{
+  "id": 857632409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.84809,19.9673,-155.84809,19.9673",
+    "geom:latitude":19.9673,
+    "geom:longitude":-155.84809,
+    "iso:country":"US",
+    "sg:address":"1647 Puako Beach Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 882 7711",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment",
+        "real"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890365,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xTJtYJ3jPqI2xP5fg0g21_19.967300_-155.848090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204730,
+    "wof:geomhash":"95c8cd0e0784c684907474747dabea0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890365,
+            "region_id":85688671,
+            "venue_id":857632409
+        }
+    ],
+    "wof:id":857632409,
+    "wof:lastmodified":1464204730,
+    "wof:name":"Puako Beach Condominium",
+    "wof:parent_id":85890365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "operation",
+        "apartment",
+        "real"
+    ]
+},
+  "bbox": [
+    -155.84809,
+    19.9673,
+    -155.84809,
+    19.9673
+],
+  "geometry": {"coordinates":[-155.84809000000001,19.9673],"type":"Point"}
+}

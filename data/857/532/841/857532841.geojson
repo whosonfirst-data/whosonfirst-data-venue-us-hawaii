@@ -1,0 +1,71 @@
+{
+  "id": 857532841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.695382,21.29121,-157.695382,21.29121",
+    "geom:latitude":21.29121,
+    "geom:longitude":-157.695382,
+    "iso:country":"US",
+    "sg:address":"711 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 4000",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hoap61mOFuruDFKxxaJib_21.291210_-157.695382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202600,
+    "wof:geomhash":"d05f00a67c8f31a0816b3287cee24502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857532841
+        }
+    ],
+    "wof:id":857532841,
+    "wof:lastmodified":1464202600,
+    "wof:name":"Nta",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.695382,
+    21.29121,
+    -157.695382,
+    21.29121
+],
+  "geometry": {"coordinates":[-157.695382,21.29121],"type":"Point"}
+}

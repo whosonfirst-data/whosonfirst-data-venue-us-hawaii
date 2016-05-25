@@ -1,0 +1,71 @@
+{
+  "id": 857567967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820991,21.275498,-157.820991,21.275498",
+    "geom:latitude":21.275498,
+    "geom:longitude":-157.820991,
+    "iso:country":"US",
+    "sg:address":"314 Ohua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 1941",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D4jfZ2TYCfK2eKNvEpBt1_21.275498_-157.820991@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203315,
+    "wof:geomhash":"2e0edb027c570f057e87dfdac576706c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857567967
+        }
+    ],
+    "wof:id":857567967,
+    "wof:lastmodified":1464203315,
+    "wof:name":"Ohua Hale Apartments",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.820991,
+    21.275498,
+    -157.820991,
+    21.275498
+],
+  "geometry": {"coordinates":[-157.82099099999999,21.275498],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857650793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828493,21.313358,-157.828493,21.313358",
+    "geom:latitude":21.313358,
+    "geom:longitude":-157.828493,
+    "iso:country":"US",
+    "sg:address":"2316 Maunalaha Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 0038",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "screen",
+        "commercial",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lWgMiN7FRWcQzHe6egzXA_21.313358_-157.828493@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205488,
+    "wof:geomhash":"1ea6a03ed38fdc00748d69432dc03540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857650793
+        }
+    ],
+    "wof:id":857650793,
+    "wof:lastmodified":1464205488,
+    "wof:name":"Screen Designs",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "screen",
+        "commercial",
+        "window"
+    ]
+},
+  "bbox": [
+    -157.828493,
+    21.313358,
+    -157.828493,
+    21.313358
+],
+  "geometry": {"coordinates":[-157.82849300000001,21.313358],"type":"Point"}
+}

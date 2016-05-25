@@ -1,0 +1,84 @@
+{
+  "id": 857665307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835606,21.295103,-157.835606,21.295103",
+    "geom:latitude":21.295103,
+    "geom:longitude":-157.835606,
+    "iso:country":"US",
+    "sg:address":"1704 Waiola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4743",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club",
+        "youth",
+        "membership",
+        "center",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bBGym9tsskzhRv9Cz9WUV_21.295103_-157.835606@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206143,
+    "wof:geomhash":"e47a64f7f3dcfc727374f0642de29bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857665307
+        }
+    ],
+    "wof:id":857665307,
+    "wof:lastmodified":1464206143,
+    "wof:name":"Boys & Girls Club Of Honolulu",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "youth",
+        "membership",
+        "center",
+        "organization"
+    ]
+},
+  "bbox": [
+    -157.835606,
+    21.295103,
+    -157.835606,
+    21.295103
+],
+  "geometry": {"coordinates":[-157.83560600000001,21.295103],"type":"Point"}
+}

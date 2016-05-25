@@ -1,0 +1,90 @@
+{
+  "id": 857618663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900909,21.334189,-157.900909,21.334189",
+    "geom:latitude":21.334189,
+    "geom:longitude":-157.900909,
+    "iso:country":"US",
+    "sg:address":"2620 Waiwai Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 1114",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "window",
+        "mfg",
+        "covering"
+    ],
+    "sg:website":"www.windowworldhi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hDw5ApJr98uprnZjUUyYr_21.334189_-157.900909@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204393,
+    "wof:geomhash":"947c28745d7fc66ef78e95f5cd8c00e0",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857618663
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857618663
+        }
+    ],
+    "wof:id":857618663,
+    "wof:lastmodified":1464204393,
+    "wof:name":"Window World Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "mfg",
+        "covering"
+    ]
+},
+  "bbox": [
+    -157.900909,
+    21.334189,
+    -157.900909,
+    21.334189
+],
+  "geometry": {"coordinates":[-157.90090900000001,21.334189],"type":"Point"}
+}

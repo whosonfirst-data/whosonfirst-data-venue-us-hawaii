@@ -1,0 +1,71 @@
+{
+  "id": 857517501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842425,21.296343,-157.842425,21.296343",
+    "geom:latitude":21.296343,
+    "geom:longitude":-157.842425,
+    "iso:country":"US",
+    "sg:address":"730 Sheridan St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 0055",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WZaN05Tn9f3RbCfUaKx50_21.296343_-157.842425@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202299,
+    "wof:geomhash":"827008d96143da9df8973520e7599dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857517501
+        }
+    ],
+    "wof:id":857517501,
+    "wof:lastmodified":1464202299,
+    "wof:name":"Pearl Ridge Center",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -157.842425,
+    21.296343,
+    -157.842425,
+    21.296343
+],
+  "geometry": {"coordinates":[-157.84242499999999,21.296343],"type":"Point"}
+}

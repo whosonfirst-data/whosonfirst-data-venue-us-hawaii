@@ -1,0 +1,75 @@
+{
+  "id": 857518811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.444501,20.701133,-156.444501,20.701133",
+    "geom:latitude":20.701133,
+    "geom:longitude":-156.444501,
+    "iso:country":"US",
+    "sg:address":"3068 S Kihei Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 891 0001",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30kakWKIPw4XGNCHqan1Kd_20.701133_-156.444501@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202327,
+    "wof:geomhash":"fed015265da3b91e3022e18350e162a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857518811
+        }
+    ],
+    "wof:id":857518811,
+    "wof:lastmodified":1464202327,
+    "wof:name":"Beach Homes of Maui",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -156.444501,
+    20.701133,
+    -156.444501,
+    20.701133
+],
+  "geometry": {"coordinates":[-156.444501,20.701133],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857568659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898498,21.340123,-157.898498,21.340123",
+    "geom:latitude":21.340123,
+    "geom:longitude":-157.898498,
+    "iso:country":"US",
+    "sg:address":"2868 Kaihikapu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4742",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "tire",
+        "provides",
+        "road"
+    ],
+    "sg:website":"www.check.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cAxPtXS4zwV7BBBm8qMHn_21.340123_-157.898498@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203327,
+    "wof:geomhash":"e671213e73689bc6d557b6e816aa03dd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857568659
+        }
+    ],
+    "wof:id":857568659,
+    "wof:lastmodified":1464203327,
+    "wof:name":"American Tire Company",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire",
+        "provides",
+        "road"
+    ]
+},
+  "bbox": [
+    -157.898498,
+    21.340123,
+    -157.898498,
+    21.340123
+],
+  "geometry": {"coordinates":[-157.89849799999999,21.340123],"type":"Point"}
+}

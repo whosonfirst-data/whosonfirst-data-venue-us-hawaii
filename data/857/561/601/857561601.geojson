@@ -1,0 +1,73 @@
+{
+  "id": 857561601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797393,21.313216,-157.797393,21.313216",
+    "geom:latitude":21.313216,
+    "geom:longitude":-157.797393,
+    "iso:country":"US",
+    "sg:address":"3363 Anoai Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 341 1452",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wi9DmG65edZutR1Ftsdw2_21.313216_-157.797393@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203193,
+    "wof:geomhash":"f723d067cd6cb06f2a3d25998e56954f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857561601
+        }
+    ],
+    "wof:id":857561601,
+    "wof:lastmodified":1464203193,
+    "wof:name":"Good People Inc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.797393,
+    21.313216,
+    -157.797393,
+    21.313216
+],
+  "geometry": {"coordinates":[-157.797393,21.313216],"type":"Point"}
+}

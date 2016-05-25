@@ -1,0 +1,73 @@
+{
+  "id": 857645395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.34509,20.763863,-156.34509,20.763863",
+    "geom:latitude":20.763863,
+    "geom:longitude":-156.34509,
+    "iso:country":"US",
+    "sg:address":"30 Ahinahina Pl",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 876 1883",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cOnHmlhQ9wqA7BPbs0MES_20.763863_-156.345090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205253,
+    "wof:geomhash":"3fcaf8cea23267702dd620937dd2d160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857645395
+        }
+    ],
+    "wof:id":857645395,
+    "wof:lastmodified":1464205253,
+    "wof:name":"Tropical Vacations Travel",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -156.34509,
+    20.763863,
+    -156.34509,
+    20.763863
+],
+  "geometry": {"coordinates":[-156.34509,20.763863],"type":"Point"}
+}

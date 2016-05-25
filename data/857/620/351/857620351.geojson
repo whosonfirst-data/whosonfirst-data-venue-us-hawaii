@@ -1,0 +1,71 @@
+{
+  "id": 857620351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801797,21.399791,-157.801797,21.399791",
+    "geom:latitude":21.399791,
+    "geom:longitude":-157.801797,
+    "iso:country":"US",
+    "sg:address":"525 Luluku Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5881",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UNLpHekddAvMOZKTvw7hm_21.399791_-157.801797@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204440,
+    "wof:geomhash":"3306557b4d9e171ad67060bdecc44f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857620351
+        }
+    ],
+    "wof:id":857620351,
+    "wof:lastmodified":1464204440,
+    "wof:name":"RFD Publications",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.801797,
+    21.399791,
+    -157.801797,
+    21.399791
+],
+  "geometry": {"coordinates":[-157.80179699999999,21.399791],"type":"Point"}
+}

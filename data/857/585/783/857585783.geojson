@@ -1,0 +1,73 @@
+{
+  "id": 857585783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.766879,21.283663,-157.766879,21.283663",
+    "geom:latitude":21.283663,
+    "geom:longitude":-157.766879,
+    "iso:country":"US",
+    "sg:address":"1673 Laukahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 0740",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "cleanup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QPvlhJQguVvLnyVhpSq6j_21.283663_-157.766879@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203667,
+    "wof:geomhash":"5506254773d4b0db318151796b2e59fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857585783
+        }
+    ],
+    "wof:id":857585783,
+    "wof:lastmodified":1464203667,
+    "wof:name":"Environmental Science Intl LLC",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "cleanup"
+    ]
+},
+  "bbox": [
+    -157.766879,
+    21.283663,
+    -157.766879,
+    21.283663
+],
+  "geometry": {"coordinates":[-157.76687899999999,21.283663],"type":"Point"}
+}

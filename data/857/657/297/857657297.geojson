@@ -1,0 +1,73 @@
+{
+  "id": 857657297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.316664,22.077853,-159.316664,22.077853",
+    "geom:latitude":22.077853,
+    "geom:longitude":-159.316664,
+    "iso:country":"US",
+    "sg:address":"1461 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 4333",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ixnZQ3q4vdJwuZI4vvQM7_22.077853_-159.316664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205782,
+    "wof:geomhash":"338fe5d8b6e2a725e516fb3651c9617a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857657297
+        }
+    ],
+    "wof:id":857657297,
+    "wof:lastmodified":1464205782,
+    "wof:name":"Kapaa Family Physicians",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -159.316664,
+    22.077853,
+    -159.316664,
+    22.077853
+],
+  "geometry": {"coordinates":[-159.316664,22.077853],"type":"Point"}
+}

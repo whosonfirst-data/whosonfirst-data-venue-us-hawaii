@@ -1,0 +1,75 @@
+{
+  "id": 857556389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826432,21.29079,-157.826432,21.29079",
+    "geom:latitude":21.29079,
+    "geom:longitude":-157.826432,
+    "iso:country":"US",
+    "sg:address":"803 Isenberg St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4233",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "owner",
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ppbqOKWqUhYlgT9QkJyNw_21.290790_-157.826432@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203060,
+    "wof:geomhash":"4ace522cb0d7c60e4cb7ba00c34d2785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857556389
+        }
+    ],
+    "wof:id":857556389,
+    "wof:lastmodified":1464203060,
+    "wof:name":"Takemoto Apartments",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -157.826432,
+    21.29079,
+    -157.826432,
+    21.29079
+],
+  "geometry": {"coordinates":[-157.82643200000001,21.29079],"type":"Point"}
+}

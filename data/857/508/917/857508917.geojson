@@ -1,0 +1,82 @@
+{
+  "id": 857508917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815204,21.27565,-157.815204,21.27565",
+    "geom:latitude":21.27565,
+    "geom:longitude":-157.815204,
+    "iso:country":"US",
+    "sg:address":"449 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 2252",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "video",
+        "rent",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x7j1zI6SONrH3dHUyCpqF_21.275650_-157.815204@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202123,
+    "wof:geomhash":"216196f89a5283eff1fb902b7afb05f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857508917
+        }
+    ],
+    "wof:id":857508917,
+    "wof:lastmodified":1464202123,
+    "wof:name":"Video Land Hawaii Inc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video",
+        "rent",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.815204,
+    21.27565,
+    -157.815204,
+    21.27565
+],
+  "geometry": {"coordinates":[-157.81520399999999,21.27565],"type":"Point"}
+}

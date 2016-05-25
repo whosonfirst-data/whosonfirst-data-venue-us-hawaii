@@ -1,0 +1,73 @@
+{
+  "id": 857553929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819298,21.307118,-157.819298,21.307118",
+    "geom:latitude":21.307118,
+    "geom:longitude":-157.819298,
+    "iso:country":"US",
+    "sg:address":"2115 Armstrong St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 3609",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3niBsl8XXE7AFr32YmfamC_21.307118_-157.819298@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203005,
+    "wof:geomhash":"3c121567242885cc07843501eeae4325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857553929
+        }
+    ],
+    "wof:id":857553929,
+    "wof:lastmodified":1464203005,
+    "wof:name":"Hawaii Alcohol & Drug Safety",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -157.819298,
+    21.307118,
+    -157.819298,
+    21.307118
+],
+  "geometry": {"coordinates":[-157.819298,21.307118],"type":"Point"}
+}

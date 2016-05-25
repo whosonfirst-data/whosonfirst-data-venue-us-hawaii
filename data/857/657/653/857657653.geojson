@@ -1,0 +1,75 @@
+{
+  "id": 857657653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.079373,19.716841,-155.079373,19.716841",
+    "geom:latitude":19.716841,
+    "geom:longitude":-155.079373,
+    "iso:country":"US",
+    "sg:address":"740 Kilauea Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 5255",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WKm0G1YAUlS2iAOSnrGph_19.716841_-155.079373@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205802,
+    "wof:geomhash":"952325b34b3da5de94a7320343fa0e39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857657653
+        }
+    ],
+    "wof:id":857657653,
+    "wof:lastmodified":1464205802,
+    "wof:name":"Big Island Physcl Therapy Care",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -155.079373,
+    19.716841,
+    -155.079373,
+    19.716841
+],
+  "geometry": {"coordinates":[-155.079373,19.716841],"type":"Point"}
+}

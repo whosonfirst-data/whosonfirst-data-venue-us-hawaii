@@ -1,0 +1,87 @@
+{
+  "id": 857551409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900825,21.328438,-157.900825,21.328438",
+    "geom:latitude":21.328438,
+    "geom:longitude":-157.900825,
+    "iso:country":"US",
+    "sg:address":"443 Kalewa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 3391",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NVmex8x1gWDGZFdI0Tbsv_21.328438_-157.900825@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202959,
+    "wof:geomhash":"d346202450000007c5315dbd96ec303a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857551409
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857551409
+        }
+    ],
+    "wof:id":857551409,
+    "wof:lastmodified":1464202959,
+    "wof:name":"VIP Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.900825,
+    21.328438,
+    -157.900825,
+    21.328438
+],
+  "geometry": {"coordinates":[-157.900825,21.328438],"type":"Point"}
+}

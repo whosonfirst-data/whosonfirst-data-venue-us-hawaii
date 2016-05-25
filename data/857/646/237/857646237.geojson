@@ -1,0 +1,75 @@
+{
+  "id": 857646237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.683336,20.886718,-156.683336,20.886718",
+    "geom:latitude":20.886718,
+    "geom:longitude":-156.683336,
+    "iso:country":"US",
+    "sg:address":"130 Kupuohi St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 7827",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cy1eO78nKHoIdpWMdcOPu_20.886718_-156.683336@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205296,
+    "wof:geomhash":"456ce5736a94f1f07deb275ef9da655b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857646237
+        }
+    ],
+    "wof:id":857646237,
+    "wof:lastmodified":1464205296,
+    "wof:name":"Lahaina Plumbing Co",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.683336,
+    20.886718,
+    -156.683336,
+    20.886718
+],
+  "geometry": {"coordinates":[-156.683336,20.886718],"type":"Point"}
+}

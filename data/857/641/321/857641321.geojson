@@ -1,0 +1,73 @@
+{
+  "id": 857641321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.970079,21.391655,-157.970079,21.391655",
+    "geom:latitude":21.391655,
+    "geom:longitude":-157.970079,
+    "iso:country":"US",
+    "sg:address":"800 3rd St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 0368",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KvwZwa7vl2wcToRetaOI7_21.391655_-157.970079@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205073,
+    "wof:geomhash":"62dd5be3231b945afc122e1079c2ce09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857641321
+        }
+    ],
+    "wof:id":857641321,
+    "wof:lastmodified":1464205073,
+    "wof:name":"Hale Mohalu Senior Apartments",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.970079,
+    21.391655,
+    -157.970079,
+    21.391655
+],
+  "geometry": {"coordinates":[-157.970079,21.391655],"type":"Point"}
+}

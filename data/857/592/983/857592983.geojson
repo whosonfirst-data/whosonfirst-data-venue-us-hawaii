@@ -1,0 +1,73 @@
+{
+  "id": 857592983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874066,21.301399,-157.874066,21.301399",
+    "geom:latitude":21.301399,
+    "geom:longitude":-157.874066,
+    "iso:country":"US",
+    "sg:address":"51 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1211",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "steamship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S8oF96oiPacrP49BnF1QF_21.301399_-157.874066@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203827,
+    "wof:geomhash":"c3c42c246de5f2efaf207961f9f44b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857592983
+        }
+    ],
+    "wof:id":857592983,
+    "wof:lastmodified":1464203827,
+    "wof:name":"Matson Navigation Co",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "steamship"
+    ]
+},
+  "bbox": [
+    -157.874066,
+    21.301399,
+    -157.874066,
+    21.301399
+],
+  "geometry": {"coordinates":[-157.874066,21.301399],"type":"Point"}
+}

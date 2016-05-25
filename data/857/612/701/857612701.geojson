@@ -1,0 +1,73 @@
+{
+  "id": 857612701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883803,21.328746,-157.883803,21.328746",
+    "geom:latitude":21.328746,
+    "geom:longitude":-157.883803,
+    "iso:country":"US",
+    "sg:address":"411 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 1009",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XyDhXe7HlaMuUdrOv3P7e_21.328746_-157.883803@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204276,
+    "wof:geomhash":"dcf38fa4c2559848274beab4c619ceb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857612701
+        }
+    ],
+    "wof:id":857612701,
+    "wof:lastmodified":1464204276,
+    "wof:name":"Sum's General Auto Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.883803,
+    21.328746,
+    -157.883803,
+    21.328746
+],
+  "geometry": {"coordinates":[-157.883803,21.328746],"type":"Point"}
+}

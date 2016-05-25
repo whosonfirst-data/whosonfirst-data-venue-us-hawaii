@@ -1,0 +1,71 @@
+{
+  "id": 857553961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850908,21.295285,-157.850908,21.295285",
+    "geom:latitude":21.295285,
+    "geom:longitude":-157.850908,
+    "iso:country":"US",
+    "sg:address":"438 Kamakee St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 9877",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NfVjAEN9yRdFuZ9UrZrz_21.295285_-157.850908@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203006,
+    "wof:geomhash":"cc1a3b48dc194d41b0f203edad3c34e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857553961
+        }
+    ],
+    "wof:id":857553961,
+    "wof:lastmodified":1464203006,
+    "wof:name":"Kyles Service",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.850908,
+    21.295285,
+    -157.850908,
+    21.295285
+],
+  "geometry": {"coordinates":[-157.850908,21.295285],"type":"Point"}
+}

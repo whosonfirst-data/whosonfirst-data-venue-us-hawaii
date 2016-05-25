@@ -1,0 +1,71 @@
+{
+  "id": 857664277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.786217,21.28172,-157.786217,21.28172",
+    "geom:latitude":21.28172,
+    "geom:longitude":-157.786217,
+    "iso:country":"US",
+    "sg:address":"1449 Hunakai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7559",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "valet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ui67naxBf3HowJpp3Dtf1_21.281720_-157.786217@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206094,
+    "wof:geomhash":"3ca602ff6916735fc45c46c26fde70d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857664277
+        }
+    ],
+    "wof:id":857664277,
+    "wof:lastmodified":1464206094,
+    "wof:name":"Elite Valet/Car Care",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valet"
+    ]
+},
+  "bbox": [
+    -157.786217,
+    21.28172,
+    -157.786217,
+    21.28172
+],
+  "geometry": {"coordinates":[-157.78621699999999,21.28172],"type":"Point"}
+}

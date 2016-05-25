@@ -1,0 +1,75 @@
+{
+  "id": 857668723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843548,21.292615,-157.843548,21.292615",
+    "geom:latitude":21.292615,
+    "geom:longitude":-157.843548,
+    "iso:country":"US",
+    "sg:address":"1438 Kona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8700",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "diamond",
+        "gold",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GXI8F08BE6ovs12XhTV9Z_21.292615_-157.843548@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206283,
+    "wof:geomhash":"6eff3c24a17a0928c75448d7cd9457b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857668723
+        }
+    ],
+    "wof:id":857668723,
+    "wof:lastmodified":1464206283,
+    "wof:name":"Ala Moana Jewelry Mart",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond",
+        "gold",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.843548,
+    21.292615,
+    -157.843548,
+    21.292615
+],
+  "geometry": {"coordinates":[-157.843548,21.292615],"type":"Point"}
+}

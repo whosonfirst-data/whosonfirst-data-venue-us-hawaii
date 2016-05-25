@@ -1,0 +1,71 @@
+{
+  "id": 857611087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862913,21.307412,-157.862913,21.307412",
+    "geom:latitude":21.307412,
+    "geom:longitude":-157.862913,
+    "iso:country":"US",
+    "sg:address":"735 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3773",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EYCtiehXNMGveAy3Qbf8H_21.307412_-157.862913@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204228,
+    "wof:geomhash":"2f9fd70714f4db77e66a0485bd8af8dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857611087
+        }
+    ],
+    "wof:id":857611087,
+    "wof:lastmodified":1464204228,
+    "wof:name":"Coral King & Associates",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.862913,
+    21.307412,
+    -157.862913,
+    21.307412
+],
+  "geometry": {"coordinates":[-157.86291299999999,21.307412],"type":"Point"}
+}

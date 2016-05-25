@@ -1,0 +1,71 @@
+{
+  "id": 857634665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.70652,20.026174,-155.70652,20.026174",
+    "geom:latitude":20.026174,
+    "geom:longitude":-155.70652,
+    "iso:country":"US",
+    "sg:address":"1780 Alaneo St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 7380",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "waste",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890367,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LynVeO7g2xYdDHchPKrxS_20.026174_-155.706520@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204820,
+    "wof:geomhash":"d87953b17839e389682e2e552cc4e8c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890367,
+            "region_id":85688671,
+            "venue_id":857634665
+        }
+    ],
+    "wof:id":857634665,
+    "wof:lastmodified":1464204820,
+    "wof:name":"Alawiki Disposal",
+    "wof:parent_id":85890367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "container"
+    ]
+},
+  "bbox": [
+    -155.70652,
+    20.026174,
+    -155.70652,
+    20.026174
+],
+  "geometry": {"coordinates":[-155.70652000000001,20.026174],"type":"Point"}
+}

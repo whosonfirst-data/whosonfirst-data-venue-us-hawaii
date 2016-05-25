@@ -1,0 +1,71 @@
+{
+  "id": 857651291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86431,21.329023,-157.86431,21.329023",
+    "geom:latitude":21.329023,
+    "geom:longitude":-157.86431,
+    "iso:country":"US",
+    "sg:address":"1015 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2130",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HEGqyprk1mvMmsTJX5zjG_21.329023_-157.864310@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205510,
+    "wof:geomhash":"b02f629891087cab030c1ecccf76591c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857651291
+        }
+    ],
+    "wof:id":857651291,
+    "wof:lastmodified":1464205510,
+    "wof:name":"Kapuna One",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.86431,
+    21.329023,
+    -157.86431,
+    21.329023
+],
+  "geometry": {"coordinates":[-157.86430999999999,21.329023],"type":"Point"}
+}

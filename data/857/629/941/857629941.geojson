@@ -1,0 +1,75 @@
+{
+  "id": 857629941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901822,21.326974,-157.901822,21.326974",
+    "geom:latitude":21.326974,
+    "geom:longitude":-157.901822,
+    "iso:country":"US",
+    "sg:address":"417 Lele St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 5524",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56PTwdT1Gg63vRdsI48zR0_21.326974_-157.901822@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204659,
+    "wof:geomhash":"eb9e1bb7f9ef167241d00e40fd3dcbe3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857629941
+        }
+    ],
+    "wof:id":857629941,
+    "wof:lastmodified":1464204659,
+    "wof:name":"Avis Rent A Car Systems Inc",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.901822,
+    21.326974,
+    -157.901822,
+    21.326974
+],
+  "geometry": {"coordinates":[-157.90182200000001,21.326974],"type":"Point"}
+}

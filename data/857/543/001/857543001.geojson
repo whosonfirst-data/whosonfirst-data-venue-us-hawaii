@@ -1,0 +1,74 @@
+{
+  "id": 857543001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.367017,21.979716,-159.367017,21.979716",
+    "geom:latitude":21.979716,
+    "geom:longitude":-159.367017,
+    "iso:country":"US",
+    "sg:address":"3225 Akahi St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 0136",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ],
+    "sg:website":"www.safariair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PbxoEdezRvvRyjsF33fbe_21.979716_-159.367017@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202801,
+    "wof:geomhash":"f46e539f3d004135456d7ed19b11e349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857543001
+        }
+    ],
+    "wof:id":857543001,
+    "wof:lastmodified":1464202801,
+    "wof:name":"Safari Helicopter Tours",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ]
+},
+  "bbox": [
+    -159.367017,
+    21.979716,
+    -159.367017,
+    21.979716
+],
+  "geometry": {"coordinates":[-159.367017,21.979716],"type":"Point"}
+}

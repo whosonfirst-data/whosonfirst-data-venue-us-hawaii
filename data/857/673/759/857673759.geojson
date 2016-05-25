@@ -1,0 +1,73 @@
+{
+  "id": 857673759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829013,21.305352,-157.829013,21.305352",
+    "geom:latitude":21.305352,
+    "geom:longitude":-157.829013,
+    "iso:country":"US",
+    "sg:address":"1944 Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1788",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SnQPehOFeej2HyvJse7eJ_21.305352_-157.829013@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206478,
+    "wof:geomhash":"469bb5988ced1895bd808b4109104380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857673759
+        }
+    ],
+    "wof:id":857673759,
+    "wof:lastmodified":1464206478,
+    "wof:name":"Db Cellular One",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -157.829013,
+    21.305352,
+    -157.829013,
+    21.305352
+],
+  "geometry": {"coordinates":[-157.829013,21.305352],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857661011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.686951,20.894683,-156.686951,20.894683",
+    "geom:latitude":20.894683,
+    "geom:longitude":-156.686951,
+    "iso:country":"US",
+    "sg:address":"1760 Honoapiilani Hwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 000 1111",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79sazZFjLS2YH1mPVXNnfp_20.894683_-156.686951@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205961,
+    "wof:geomhash":"735ac0617e853b2286d46f9bde90e166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857661011
+        }
+    ],
+    "wof:id":857661011,
+    "wof:lastmodified":1464205961,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.686951,
+    20.894683,
+    -156.686951,
+    20.894683
+],
+  "geometry": {"coordinates":[-156.68695099999999,20.894683],"type":"Point"}
+}

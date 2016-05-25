@@ -1,0 +1,73 @@
+{
+  "id": 857643517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898547,21.378343,-157.898547,21.378343",
+    "geom:latitude":21.378343,
+    "geom:longitude":-157.898547,
+    "iso:country":"US",
+    "sg:address":"1305 Koaha Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8758",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04HCIIxbIlGhhsNjkuur68_21.378343_-157.898547@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205175,
+    "wof:geomhash":"f1c0e489fd8ed8058e24c052bb7b4b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857643517
+        }
+    ],
+    "wof:id":857643517,
+    "wof:lastmodified":1464205175,
+    "wof:name":"Kamaaina Distribution",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.898547,
+    21.378343,
+    -157.898547,
+    21.378343
+],
+  "geometry": {"coordinates":[-157.89854700000001,21.378343],"type":"Point"}
+}

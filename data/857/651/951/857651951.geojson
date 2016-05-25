@@ -1,0 +1,73 @@
+{
+  "id": 857651951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850633,21.33182,-157.850633,21.33182",
+    "geom:latitude":21.33182,
+    "geom:longitude":-157.850633,
+    "iso:country":"US",
+    "sg:address":"511 Analu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7129",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "piano",
+        "tuning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KjRzX2TRLt183Q4vliXqO_21.331820_-157.850633@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205545,
+    "wof:geomhash":"84c171006be2127ea4c352630fcbfd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857651951
+        }
+    ],
+    "wof:id":857651951,
+    "wof:lastmodified":1464205545,
+    "wof:name":"Artisan Piano Service",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "tuning"
+    ]
+},
+  "bbox": [
+    -157.850633,
+    21.33182,
+    -157.850633,
+    21.33182
+],
+  "geometry": {"coordinates":[-157.85063299999999,21.33182],"type":"Point"}
+}

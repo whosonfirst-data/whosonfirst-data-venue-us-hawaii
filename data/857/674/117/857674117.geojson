@@ -1,0 +1,71 @@
+{
+  "id": 857674117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860793,21.306992,-157.860793,21.306992",
+    "geom:latitude":21.306992,
+    "geom:longitude":-157.860793,
+    "iso:country":"US",
+    "sg:address":"222 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4968",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62zoiZuIQlLmjNmVnqV9o0_21.306992_-157.860793@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206491,
+    "wof:geomhash":"a05c87ae6489941be5cc5952404ac596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857674117
+        }
+    ],
+    "wof:id":857674117,
+    "wof:lastmodified":1464206491,
+    "wof:name":"Stephen Y Lau Law Office",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.860793,
+    21.306992,
+    -157.860793,
+    21.306992
+],
+  "geometry": {"coordinates":[-157.860793,21.306992],"type":"Point"}
+}

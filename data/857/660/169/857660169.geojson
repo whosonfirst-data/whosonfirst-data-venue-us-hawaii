@@ -1,0 +1,75 @@
+{
+  "id": 857660169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828826,21.29531,-157.828826,21.29531",
+    "geom:latitude":21.29531,
+    "geom:longitude":-157.828826,
+    "iso:country":"US",
+    "sg:address":"2051 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2882",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "box",
+        "safe",
+        "deposit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54tXjR5nDGsapS7KabSqjp_21.295310_-157.828826@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205914,
+    "wof:geomhash":"e94f3b37ca57c75af66e9e7ec2bb19c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857660169
+        }
+    ],
+    "wof:id":857660169,
+    "wof:lastmodified":1464205914,
+    "wof:name":"Hawaiian Depository Co",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "safe",
+        "deposit"
+    ]
+},
+  "bbox": [
+    -157.828826,
+    21.29531,
+    -157.828826,
+    21.29531
+],
+  "geometry": {"coordinates":[-157.82882599999999,21.29531],"type":"Point"}
+}

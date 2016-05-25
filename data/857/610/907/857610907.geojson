@@ -1,0 +1,71 @@
+{
+  "id": 857610907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.097591,21.308509,-158.097591,21.308509",
+    "geom:latitude":21.308509,
+    "geom:longitude":-158.097591,
+    "iso:country":"US",
+    "sg:address":"301 Kauhi St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 0975",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34tHIvhuOFUQnbPtNeYtWf_21.308509_-158.097591@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204225,
+    "wof:geomhash":"d9b9af76438316080a1255a97a79ddb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857610907
+        }
+    ],
+    "wof:id":857610907,
+    "wof:lastmodified":1464204225,
+    "wof:name":"Oahu Seal Coating and Pav LLC",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.097591,
+    21.308509,
+    -158.097591,
+    21.308509
+],
+  "geometry": {"coordinates":[-158.09759099999999,21.308509],"type":"Point"}
+}

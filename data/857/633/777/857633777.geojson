@@ -1,0 +1,73 @@
+{
+  "id": 857633777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.356793,21.967415,-159.356793,21.967415",
+    "geom:latitude":21.967415,
+    "geom:longitude":-159.356793,
+    "iso:country":"US",
+    "sg:address":"2956 Aukele St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3941",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CcDWfZZMy6EHlb6aBPj6N_21.967415_-159.356793@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204784,
+    "wof:geomhash":"420edf7f79feeedb81b28e26770b0cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857633777
+        }
+    ],
+    "wof:id":857633777,
+    "wof:lastmodified":1464204784,
+    "wof:name":"Lihue Appliance Sales & Svc",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.356793,
+    21.967415,
+    -159.356793,
+    21.967415
+],
+  "geometry": {"coordinates":[-159.35679300000001,21.967415],"type":"Point"}
+}

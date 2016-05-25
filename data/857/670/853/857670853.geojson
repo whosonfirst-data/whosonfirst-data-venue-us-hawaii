@@ -1,0 +1,71 @@
+{
+  "id": 857670853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842465,21.299349,-157.842465,21.299349",
+    "geom:latitude":21.299349,
+    "geom:longitude":-157.842465,
+    "iso:country":"US",
+    "sg:address":"1254 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8122",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MhFjMOQC8DuqX5UHj9jxb_21.299349_-157.842465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206370,
+    "wof:geomhash":"df18e16f6aaab9ce4d9915e8b40ab9c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857670853
+        }
+    ],
+    "wof:id":857670853,
+    "wof:lastmodified":1464206370,
+    "wof:name":"Carats & Karats",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -157.842465,
+    21.299349,
+    -157.842465,
+    21.299349
+],
+  "geometry": {"coordinates":[-157.842465,21.299349],"type":"Point"}
+}

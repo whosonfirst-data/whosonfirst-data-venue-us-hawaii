@@ -1,0 +1,75 @@
+{
+  "id": 857661231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.781864,21.310816,-157.781864,21.310816",
+    "geom:latitude":21.310816,
+    "geom:longitude":-157.781864,
+    "iso:country":"US",
+    "sg:address":"2702 Waiomao Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 8863",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AA2Jo4RsBKbJEjN2rxIYY_21.310816_-157.781864@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205975,
+    "wof:geomhash":"7d1b4346b9dc7b700a11c406a805d8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857661231
+        }
+    ],
+    "wof:id":857661231,
+    "wof:lastmodified":1464205975,
+    "wof:name":"Alfred's Piano Svc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.781864,
+    21.310816,
+    -157.781864,
+    21.310816
+],
+  "geometry": {"coordinates":[-157.78186400000001,21.310816],"type":"Point"}
+}

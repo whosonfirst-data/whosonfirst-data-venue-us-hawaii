@@ -1,0 +1,77 @@
+{
+  "id": 857640777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.967101,21.410622,-157.967101,21.410622",
+    "geom:latitude":21.410622,
+    "geom:longitude":-157.967101,
+    "iso:country":"US",
+    "sg:address":"1808 Kuahaka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 4680",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32N88UDmyZGVoqEWXlnG7O_21.410622_-157.967101@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205054,
+    "wof:geomhash":"c6c888daeb6b0d4e41a6cac35ddf572b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857640777
+        }
+    ],
+    "wof:id":857640777,
+    "wof:lastmodified":1464205054,
+    "wof:name":"Rural Plumbing",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -157.967101,
+    21.410622,
+    -157.967101,
+    21.410622
+],
+  "geometry": {"coordinates":[-157.96710100000001,21.410622],"type":"Point"}
+}

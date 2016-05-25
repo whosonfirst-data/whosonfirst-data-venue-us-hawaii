@@ -1,0 +1,74 @@
+{
+  "id": 857681157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.032859,21.387722,-158.032859,21.387722",
+    "geom:latitude":21.387722,
+    "geom:longitude":-158.032859,
+    "iso:country":"US",
+    "sg:address":"94-673 Kupuohi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/124707-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 0333",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UF7tOeLOz38T1oYT7j1Nl_21.387722_-158.032859@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"f1fde49714a98a474608bd374b1ba103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857681157
+        }
+    ],
+    "wof:id":857681157,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -158.032859,
+    21.387722,
+    -158.032859,
+    21.387722
+],
+  "geometry": {"coordinates":[-158.032859,21.387722],"type":"Point"}
+}

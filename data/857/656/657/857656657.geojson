@@ -1,0 +1,71 @@
+{
+  "id": 857656657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.922767,20.830293,-156.922767,20.830293",
+    "geom:latitude":20.830293,
+    "geom:longitude":-156.922767,
+    "iso:country":"US",
+    "sg:address":"437 6th St",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 7438",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aKtUARfFQC4okfOusjORR_20.830293_-156.922767@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205753,
+    "wof:geomhash":"dfd1218ee7e32458b3eb37bd0354d4e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857656657
+        }
+    ],
+    "wof:id":857656657,
+    "wof:lastmodified":1464205753,
+    "wof:name":"Mj Express",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -156.922767,
+    20.830293,
+    -156.922767,
+    20.830293
+],
+  "geometry": {"coordinates":[-156.92276699999999,20.830293],"type":"Point"}
+}

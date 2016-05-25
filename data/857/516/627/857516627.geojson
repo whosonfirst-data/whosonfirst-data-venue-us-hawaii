@@ -1,0 +1,73 @@
+{
+  "id": 857516627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003128,21.384515,-158.003128,21.384515",
+    "geom:latitude":21.384515,
+    "geom:longitude":-158.003128,
+    "iso:country":"US",
+    "sg:address":"806 Moloalo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1751",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yKZcuQ75G3e6mjQ1ct9lK_21.384515_-158.003128@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202282,
+    "wof:geomhash":"06237ba15ce70a6c34ffbe7a9229a5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857516627
+        }
+    ],
+    "wof:id":857516627,
+    "wof:lastmodified":1464202282,
+    "wof:name":"Animal Clinic Waipahu",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -158.003128,
+    21.384515,
+    -158.003128,
+    21.384515
+],
+  "geometry": {"coordinates":[-158.003128,21.384515],"type":"Point"}
+}

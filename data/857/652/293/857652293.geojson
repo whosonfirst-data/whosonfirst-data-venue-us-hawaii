@@ -1,0 +1,71 @@
+{
+  "id": 857652293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798954,21.423966,-157.798954,21.423966",
+    "geom:latitude":21.423966,
+    "geom:longitude":-157.798954,
+    "iso:country":"US",
+    "sg:address":"189 Nakao Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 5594",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hoist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nuuMIWqbQGFjatDJP4GkH_21.423966_-157.798954@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205558,
+    "wof:geomhash":"53d8229195d584a9fea3bbc673d1ab89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857652293
+        }
+    ],
+    "wof:id":857652293,
+    "wof:lastmodified":1464205558,
+    "wof:name":"Putnam Installation Co Inc",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hoist"
+    ]
+},
+  "bbox": [
+    -157.798954,
+    21.423966,
+    -157.798954,
+    21.423966
+],
+  "geometry": {"coordinates":[-157.79895400000001,21.423966],"type":"Point"}
+}

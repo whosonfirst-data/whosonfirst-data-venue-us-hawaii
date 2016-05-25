@@ -1,0 +1,71 @@
+{
+  "id": 857641915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.912515,21.346615,-157.912515,21.346615",
+    "geom:latitude":21.346615,
+    "geom:longitude":-157.912515,
+    "iso:country":"US",
+    "sg:address":"909 Ala Lilikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5788",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BNzIvVKS9wqxCtBKlYCiC_21.346615_-157.912515@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205096,
+    "wof:geomhash":"1f4fb5c4c94bf46ad470966c17ae7290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857641915
+        }
+    ],
+    "wof:id":857641915,
+    "wof:lastmodified":1464205096,
+    "wof:name":"Lilikoi",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.912515,
+    21.346615,
+    -157.912515,
+    21.346615
+],
+  "geometry": {"coordinates":[-157.91251500000001,21.346615],"type":"Point"}
+}

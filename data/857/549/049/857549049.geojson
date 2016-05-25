@@ -1,0 +1,73 @@
+{
+  "id": 857549049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815891,21.274656,-157.815891,21.274656",
+    "geom:latitude":21.274656,
+    "geom:longitude":-157.815891,
+    "iso:country":"US",
+    "sg:address":"404 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 7381",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "course",
+        "municipal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TiGSFMXNG93TTRp1DVKxD_21.274656_-157.815891@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202913,
+    "wof:geomhash":"c0110478f7c323b3072d29c0b0d9f104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857549049
+        }
+    ],
+    "wof:id":857549049,
+    "wof:lastmodified":1464202913,
+    "wof:name":"Ala Wai Golf Course",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "municipal"
+    ]
+},
+  "bbox": [
+    -157.815891,
+    21.274656,
+    -157.815891,
+    21.274656
+],
+  "geometry": {"coordinates":[-157.81589099999999,21.274656],"type":"Point"}
+}

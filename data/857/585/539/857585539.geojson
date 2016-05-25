@@ -1,0 +1,73 @@
+{
+  "id": 857585539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813617,21.281211,-157.813617,21.281211",
+    "geom:latitude":21.281211,
+    "geom:longitude":-157.813617,
+    "iso:country":"US",
+    "sg:address":"3131 Winam Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 2320",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XCXkOG48aO6Pt9eSBqsb9_21.281211_-157.813617@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203657,
+    "wof:geomhash":"d1208029090f8875c7e86b60378e5149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857585539
+        }
+    ],
+    "wof:id":857585539,
+    "wof:lastmodified":1464203657,
+    "wof:name":"Pacific Tour Directors Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.813617,
+    21.281211,
+    -157.813617,
+    21.281211
+],
+  "geometry": {"coordinates":[-157.81361699999999,21.281211],"type":"Point"}
+}

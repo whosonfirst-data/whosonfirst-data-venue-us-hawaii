@@ -1,0 +1,73 @@
+{
+  "id": 857578413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870435,21.327327,-157.870435,21.327327",
+    "geom:latitude":21.327327,
+    "geom:longitude":-157.870435,
+    "iso:country":"US",
+    "sg:address":"1270 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1147",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_624knP83XxIw0cPwWSY0zz_21.327327_-157.870435@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203518,
+    "wof:geomhash":"fec75fc06ea9421c4d8165c97f0b5bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857578413
+        }
+    ],
+    "wof:id":857578413,
+    "wof:lastmodified":1464203518,
+    "wof:name":"Club Chatter Box",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.870435,
+    21.327327,
+    -157.870435,
+    21.327327
+],
+  "geometry": {"coordinates":[-157.87043499999999,21.327327],"type":"Point"}
+}

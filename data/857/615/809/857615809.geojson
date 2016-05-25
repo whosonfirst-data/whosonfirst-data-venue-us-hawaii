@@ -1,0 +1,73 @@
+{
+  "id": 857615809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88414,21.323439,-157.88414,21.323439",
+    "geom:latitude":21.323439,
+    "geom:longitude":-157.88414,
+    "iso:country":"US",
+    "sg:address":"1819 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8280",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dpBEweETBYGARbnluoXra_21.323439_-157.884140@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204336,
+    "wof:geomhash":"1e420e9563c1023fc592000ea2230e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857615809
+        }
+    ],
+    "wof:id":857615809,
+    "wof:lastmodified":1464204336,
+    "wof:name":"H & H Builders Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.88414,
+    21.323439,
+    -157.88414,
+    21.323439
+],
+  "geometry": {"coordinates":[-157.88414,21.323439],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857502551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839701,21.298239,-157.839701,21.298239",
+    "geom:latitude":21.298239,
+    "geom:longitude":-157.839701,
+    "iso:country":"US",
+    "sg:address":"1467 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2251",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73w9DVRtjPo596GwoawGvH_21.298239_-157.839701@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201971,
+    "wof:geomhash":"1c8960bc782e4c96531001351a3bb3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857502551
+        }
+    ],
+    "wof:id":857502551,
+    "wof:lastmodified":1464201971,
+    "wof:name":"Cookie's Crackseed Store",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -157.839701,
+    21.298239,
+    -157.839701,
+    21.298239
+],
+  "geometry": {"coordinates":[-157.83970099999999,21.298239],"type":"Point"}
+}

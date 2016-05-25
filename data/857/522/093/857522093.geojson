@@ -1,0 +1,73 @@
+{
+  "id": 857522093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880761,21.327122,-157.880761,21.327122",
+    "geom:latitude":21.327122,
+    "geom:longitude":-157.880761,
+    "iso:country":"US",
+    "sg:address":"1804 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8083",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dVVcNpmrhcPZHYggaoJxL_21.327122_-157.880761@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202392,
+    "wof:geomhash":"45471aa4948089945f2c43bc32dd1ca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857522093
+        }
+    ],
+    "wof:id":857522093,
+    "wof:lastmodified":1464202392,
+    "wof:name":"Pacific Water Conservation Co",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.880761,
+    21.327122,
+    -157.880761,
+    21.327122
+],
+  "geometry": {"coordinates":[-157.88076100000001,21.327122],"type":"Point"}
+}

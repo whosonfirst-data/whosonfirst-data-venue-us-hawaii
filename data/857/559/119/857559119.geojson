@@ -1,0 +1,73 @@
+{
+  "id": 857559119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831491,21.29626,-157.831491,21.29626",
+    "geom:latitude":21.29626,
+    "geom:longitude":-157.831491,
+    "iso:country":"US",
+    "sg:address":"1825 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 2981",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKtPGlm6TE5Y95R72MxQ5_21.296260_-157.831491@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203131,
+    "wof:geomhash":"d890705461b8bd9ea31c2769eb649c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857559119
+        }
+    ],
+    "wof:id":857559119,
+    "wof:lastmodified":1464203131,
+    "wof:name":"Larry's Electric Svc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.831491,
+    21.29626,
+    -157.831491,
+    21.29626
+],
+  "geometry": {"coordinates":[-157.831491,21.29626],"type":"Point"}
+}

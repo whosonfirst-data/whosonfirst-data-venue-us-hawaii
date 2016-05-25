@@ -1,0 +1,73 @@
+{
+  "id": 857510917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833471,21.307578,-157.833471,21.307578",
+    "geom:latitude":21.307578,
+    "geom:longitude":-157.833471,
+    "iso:country":"US",
+    "sg:address":"1822 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 1111",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "presbyterian",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ZFFtLQqrNxJ8B1Bas6uT_21.307578_-157.833471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202166,
+    "wof:geomhash":"2df9d3a50c2d9b955006a9441191487c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857510917
+        }
+    ],
+    "wof:id":857510917,
+    "wof:lastmodified":1464202166,
+    "wof:name":"First Presbt Church Honolulu",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "presbyterian",
+        "church"
+    ]
+},
+  "bbox": [
+    -157.833471,
+    21.307578,
+    -157.833471,
+    21.307578
+],
+  "geometry": {"coordinates":[-157.833471,21.307578],"type":"Point"}
+}

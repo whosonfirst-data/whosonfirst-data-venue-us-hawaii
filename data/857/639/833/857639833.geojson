@@ -1,0 +1,73 @@
+{
+  "id": 857639833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.776261,21.278084,-157.776261,21.278084",
+    "geom:latitude":21.278084,
+    "geom:longitude":-157.776261,
+    "iso:country":"US",
+    "sg:address":"1288 Kalaniiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5820",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zzPn6OedgLte15vI3Ux2A_21.278084_-157.776261@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205013,
+    "wof:geomhash":"a518f1bba8de8a75631e0fcf8604d77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857639833
+        }
+    ],
+    "wof:id":857639833,
+    "wof:lastmodified":1464205013,
+    "wof:name":"Ans Electrical",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.776261,
+    21.278084,
+    -157.776261,
+    21.278084
+],
+  "geometry": {"coordinates":[-157.77626100000001,21.278084],"type":"Point"}
+}

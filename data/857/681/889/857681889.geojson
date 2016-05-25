@@ -1,0 +1,74 @@
+{
+  "id": 857681889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865382,21.318134,-157.865382,21.318134",
+    "geom:latitude":21.318134,
+    "geom:longitude":-157.865382,
+    "iso:country":"US",
+    "sg:address":"535 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/180338-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3837",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13IptB6e1Wdqv6eRDEaQQ3_21.318311_-157.865739@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206811,
+    "wof:geomhash":"dbb858208494ac807dfae1f9c6c3b624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857681889
+        }
+    ],
+    "wof:id":857681889,
+    "wof:lastmodified":1464206811,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.865382,
+    21.318134,
+    -157.865382,
+    21.318134
+],
+  "geometry": {"coordinates":[-157.86538200000001,21.318134],"type":"Point"}
+}

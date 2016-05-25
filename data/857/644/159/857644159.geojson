@@ -1,0 +1,73 @@
+{
+  "id": 857644159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.32973,20.790817,-156.32973,20.790817",
+    "geom:latitude":20.790817,
+    "geom:longitude":-156.32973,
+    "iso:country":"US",
+    "sg:address":"333 Naele Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 2088",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ccbg0WICBCBUe1Bg2RCEE_20.790817_-156.329730@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205200,
+    "wof:geomhash":"c203e51ef235ffad097bcc7fc6fa201d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857644159
+        }
+    ],
+    "wof:id":857644159,
+    "wof:lastmodified":1464205200,
+    "wof:name":"Mauka Physical Therapy Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -156.32973,
+    20.790817,
+    -156.32973,
+    20.790817
+],
+  "geometry": {"coordinates":[-156.32973000000001,20.790817],"type":"Point"}
+}

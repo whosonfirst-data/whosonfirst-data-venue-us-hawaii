@@ -1,0 +1,75 @@
+{
+  "id": 857678459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.464594,20.873062,-156.464594,20.873062",
+    "geom:latitude":20.873062,
+    "geom:longitude":-156.464594,
+    "iso:country":"US",
+    "sg:address":"703 S Kei Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 276 0549",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w9bNkGu2lzFGCXbBpPfma_20.873062_-156.464594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206671,
+    "wof:geomhash":"b320d1e01720860f5dc67f9022a8a263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857678459
+        }
+    ],
+    "wof:id":857678459,
+    "wof:lastmodified":1464206671,
+    "wof:name":"Performance Auto Body & Paint",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -156.464594,
+    20.873062,
+    -156.464594,
+    20.873062
+],
+  "geometry": {"coordinates":[-156.46459400000001,20.873062],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857561851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.09818,21.305297,-158.09818,21.305297",
+    "geom:latitude":21.305297,
+    "geom:longitude":-158.09818,
+    "iso:country":"US",
+    "sg:address":"202 Kalaeloa Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 0812",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "spring",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i21qtx1HGK9e8TOUsC2si_21.305297_-158.098180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203199,
+    "wof:geomhash":"2847bf9c259b5d0510973f793d092457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857561851
+        }
+    ],
+    "wof:id":857561851,
+    "wof:lastmodified":1464203199,
+    "wof:name":"Weaver Springs",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spring",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.09818,
+    21.305297,
+    -158.09818,
+    21.305297
+],
+  "geometry": {"coordinates":[-158.09818000000001,21.305297],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857593317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870656,21.312984,-157.870656,21.312984",
+    "geom:latitude":21.312984,
+    "geom:longitude":-157.870656,
+    "iso:country":"US",
+    "sg:address":"705 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 7715",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w58uZM906zxPkw8H4xcgk_21.312984_-157.870656@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203834,
+    "wof:geomhash":"c35b45d5112d17a0d8b59a7ff739015f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857593317
+        }
+    ],
+    "wof:id":857593317,
+    "wof:lastmodified":1464203834,
+    "wof:name":"Pier 21 Lunchroom",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.870656,
+    21.312984,
+    -157.870656,
+    21.312984
+],
+  "geometry": {"coordinates":[-157.870656,21.312984],"type":"Point"}
+}

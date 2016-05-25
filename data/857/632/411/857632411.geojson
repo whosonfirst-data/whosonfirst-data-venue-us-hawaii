@@ -1,0 +1,73 @@
+{
+  "id": 857632411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.114179,21.574155,-158.114179,21.574155",
+    "geom:latitude":21.574155,
+    "geom:longitude":-158.114179,
+    "iso:country":"US",
+    "sg:address":"152 Kaamooloa Rd",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 5384",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qK71mq8sfvklW9leDgxmE_21.574155_-158.114179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204730,
+    "wof:geomhash":"da81dddcece2b7850e4960476008dbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857632411
+        }
+    ],
+    "wof:id":857632411,
+    "wof:lastmodified":1464204730,
+    "wof:name":"Uncle Willie's Lock & Key Svc",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -158.114179,
+    21.574155,
+    -158.114179,
+    21.574155
+],
+  "geometry": {"coordinates":[-158.11417900000001,21.574155],"type":"Point"}
+}

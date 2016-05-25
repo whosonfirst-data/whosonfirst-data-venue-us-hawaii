@@ -1,0 +1,73 @@
+{
+  "id": 857538769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842581,21.299311,-157.842581,21.299311",
+    "geom:latitude":21.299311,
+    "geom:longitude":-157.842581,
+    "iso:country":"US",
+    "sg:address":"1279 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 1055",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "collectible",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JzNmY7EsqUur2FUxQlC6V_21.299311_-157.842581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202712,
+    "wof:geomhash":"283d1c32c2756d917b2fd8b7035b2f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857538769
+        }
+    ],
+    "wof:id":857538769,
+    "wof:lastmodified":1464202712,
+    "wof:name":"Mystery Cat",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collectible",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -157.842581,
+    21.299311,
+    -157.842581,
+    21.299311
+],
+  "geometry": {"coordinates":[-157.842581,21.299311],"type":"Point"}
+}

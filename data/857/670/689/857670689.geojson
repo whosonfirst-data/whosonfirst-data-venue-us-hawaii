@@ -1,0 +1,80 @@
+{
+  "id": 857670689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.994542,21.411612,-157.994542,21.411612",
+    "geom:latitude":21.411612,
+    "geom:longitude":-157.994542,
+    "iso:country":"US",
+    "sg:address":"842 Penakii Way",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 3482",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tMqUPNO3tYZcje15WltcJ_21.411612_-157.994542@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206364,
+    "wof:geomhash":"e0ec8af112fcd221b5e57eccad21b684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857670689
+        }
+    ],
+    "wof:id":857670689,
+    "wof:lastmodified":1464206364,
+    "wof:name":"T's Electrical Wiring",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.994542,
+    21.411612,
+    -157.994542,
+    21.411612
+],
+  "geometry": {"coordinates":[-157.994542,21.411612],"type":"Point"}
+}

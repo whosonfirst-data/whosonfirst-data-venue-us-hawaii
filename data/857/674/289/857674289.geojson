@@ -1,0 +1,78 @@
+{
+  "id": 857674289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.330918,20.924253,-156.330918,20.924253",
+    "geom:latitude":20.924253,
+    "geom:longitude":-156.330918,
+    "iso:country":"US",
+    "sg:address":"2310 Umi Pl",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 2328",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937689,
+        102085577,
+        85890097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SzPc1ogqIPLLYOUDcKVRy_20.924253_-156.330918@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206497,
+    "wof:geomhash":"64ce0477c5ec373de00a868c2021bb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890097,
+            "region_id":85688671,
+            "venue_id":857674289
+        }
+    ],
+    "wof:id":857674289,
+    "wof:lastmodified":1464206497,
+    "wof:name":"Maui East West Clinic",
+    "wof:parent_id":85890097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -156.330918,
+    20.924253,
+    -156.330918,
+    20.924253
+],
+  "geometry": {"coordinates":[-156.330918,20.924253],"type":"Point"}
+}

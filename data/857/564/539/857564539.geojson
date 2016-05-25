@@ -1,0 +1,66 @@
+{
+  "id": 857564539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.891559,21.321185,-157.891559,21.321185",
+    "geom:latitude":21.321185,
+    "geom:longitude":-157.891559,
+    "iso:country":"US",
+    "sg:address":"62 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 8414",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JCiJPtYwdbONdrKPeisfD_21.321185_-157.891559@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203247,
+    "wof:geomhash":"570cb3f1473b03e565d5a8cc2237faa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857564539
+        }
+    ],
+    "wof:id":857564539,
+    "wof:lastmodified":1464203247,
+    "wof:name":"Friends Hokulea & Hawaiiloa",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.891559,
+    21.321185,
+    -157.891559,
+    21.321185
+],
+  "geometry": {"coordinates":[-157.891559,21.321185],"type":"Point"}
+}

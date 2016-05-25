@@ -1,0 +1,77 @@
+{
+  "id": 857655777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.455391,20.881812,-156.455391,20.881812",
+    "geom:latitude":20.881812,
+    "geom:longitude":-156.455391,
+    "iso:country":"US",
+    "sg:address":"181 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3300",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "used",
+        "car",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ifw4N3wYD1h2CSaymB3fo_20.881812_-156.455391@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205714,
+    "wof:geomhash":"0fb71edd08567873e666216bd56eae26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857655777
+        }
+    ],
+    "wof:id":857655777,
+    "wof:lastmodified":1464205714,
+    "wof:name":"Maui Car Rentals Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "used",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.455391,
+    20.881812,
+    -156.455391,
+    20.881812
+],
+  "geometry": {"coordinates":[-156.45539099999999,20.881812],"type":"Point"}
+}

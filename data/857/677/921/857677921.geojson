@@ -1,0 +1,71 @@
+{
+  "id": 857677921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876768,21.329732,-157.876768,21.329732",
+    "geom:latitude":21.329732,
+    "geom:longitude":-157.876768,
+    "iso:country":"US",
+    "sg:address":"821 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 3130",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "middle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NZFcrFP7n2z6f1OUgjfmR_21.329732_-157.876768@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206652,
+    "wof:geomhash":"cd3e09498a4a69a4120c8e5a415034ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857677921
+        }
+    ],
+    "wof:id":857677921,
+    "wof:lastmodified":1464206652,
+    "wof:name":"Kalaukaua Intermediate School",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -157.876768,
+    21.329732,
+    -157.876768,
+    21.329732
+],
+  "geometry": {"coordinates":[-157.876768,21.329732],"type":"Point"}
+}

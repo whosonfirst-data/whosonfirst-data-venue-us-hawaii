@@ -1,0 +1,71 @@
+{
+  "id": 857545841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876228,21.306362,-157.876228,21.306362",
+    "geom:latitude":21.306362,
+    "geom:longitude":-157.876228,
+    "iso:country":"US",
+    "sg:address":"1350 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8359",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g1bKMqIHMe1bWhv7UkXT7_21.306362_-157.876228@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202854,
+    "wof:geomhash":"ca72db1b47bc64feed26119ef4b6c0d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857545841
+        }
+    ],
+    "wof:id":857545841,
+    "wof:lastmodified":1464202854,
+    "wof:name":"City and County of Honolulu",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -157.876228,
+    21.306362,
+    -157.876228,
+    21.306362
+],
+  "geometry": {"coordinates":[-157.876228,21.306362],"type":"Point"}
+}

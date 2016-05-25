@@ -1,0 +1,71 @@
+{
+  "id": 857604709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.689979,21.293396,-157.689979,21.293396",
+    "geom:latitude":21.293396,
+    "geom:longitude":-157.689979,
+    "iso:country":"US",
+    "sg:address":"835 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 6961",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OKP12jbD1fN7SgOrpDWXZ_21.293396_-157.689979@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204090,
+    "wof:geomhash":"6da3b854745ca328051ead652b7bbfb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857604709
+        }
+    ],
+    "wof:id":857604709,
+    "wof:lastmodified":1464204090,
+    "wof:name":"Progressive Plumbing Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.689979,
+    21.293396,
+    -157.689979,
+    21.293396
+],
+  "geometry": {"coordinates":[-157.68997899999999,21.293396],"type":"Point"}
+}

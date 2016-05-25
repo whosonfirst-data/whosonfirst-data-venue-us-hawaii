@@ -1,0 +1,71 @@
+{
+  "id": 857598191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852416,21.305221,-157.852416,21.305221",
+    "geom:latitude":21.305221,
+    "geom:longitude":-157.852416,
+    "iso:country":"US",
+    "sg:address":"1221 Alapai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9543",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hZUHUp6nyP9eVv4MLGacp_21.305221_-157.852416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203945,
+    "wof:geomhash":"40616ae0cdb42e1b25dedffa7dc70056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857598191
+        }
+    ],
+    "wof:id":857598191,
+    "wof:lastmodified":1464203945,
+    "wof:name":"Seoul Dook Bae Ki",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.852416,
+    21.305221,
+    -157.852416,
+    21.305221
+],
+  "geometry": {"coordinates":[-157.85241600000001,21.305221],"type":"Point"}
+}

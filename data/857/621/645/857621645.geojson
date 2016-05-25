@@ -1,0 +1,71 @@
+{
+  "id": 857621645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.468644,20.082389,-155.468644,20.082389",
+    "geom:latitude":20.082389,
+    "geom:longitude":-155.468644,
+    "iso:country":"US",
+    "sg:address":"487 Lehua St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 0220",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cllj5zJ58UojFngj0eM24_20.082389_-155.468644@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204465,
+    "wof:geomhash":"46aeccaa760eedeeace0a8fd5093a197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857621645
+        }
+    ],
+    "wof:id":857621645,
+    "wof:lastmodified":1464204465,
+    "wof:name":"Nobrigas Auto Body & Repair",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -155.468644,
+    20.082389,
+    -155.468644,
+    20.082389
+],
+  "geometry": {"coordinates":[-155.46864400000001,20.082389],"type":"Point"}
+}

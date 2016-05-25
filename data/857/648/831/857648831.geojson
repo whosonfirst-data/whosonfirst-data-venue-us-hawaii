@@ -1,0 +1,73 @@
+{
+  "id": 857648831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.490563,20.882597,-156.490563,20.882597",
+    "geom:latitude":20.882597,
+    "geom:longitude":-156.490563,
+    "iso:country":"US",
+    "sg:address":"351 Palama Dr",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 870 4827",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5218ahUi9sdkZ86Fr2zEI0_20.882597_-156.490563@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205407,
+    "wof:geomhash":"a5b48952f35474832f1dba9b39f5675c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857648831
+        }
+    ],
+    "wof:id":857648831,
+    "wof:lastmodified":1464205407,
+    "wof:name":"S F Masonry",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.490563,
+    20.882597,
+    -156.490563,
+    20.882597
+],
+  "geometry": {"coordinates":[-156.49056300000001,20.882597],"type":"Point"}
+}

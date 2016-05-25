@@ -1,0 +1,73 @@
+{
+  "id": 857624343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81019,21.31355,-157.81019,21.31355",
+    "geom:latitude":21.31355,
+    "geom:longitude":-157.81019,
+    "iso:country":"US",
+    "sg:address":"2721 Kaaipu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6868",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_469HzRyhs6OLkM4hBiMUWR_21.313550_-157.810190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204549,
+    "wof:geomhash":"7e5d9201fa80901c24c20e9dfec8549a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857624343
+        }
+    ],
+    "wof:id":857624343,
+    "wof:lastmodified":1464204549,
+    "wof:name":"Manoa Valley Swimming Pool",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -157.81019,
+    21.31355,
+    -157.81019,
+    21.31355
+],
+  "geometry": {"coordinates":[-157.81019000000001,21.31355],"type":"Point"}
+}

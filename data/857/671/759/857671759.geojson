@@ -1,0 +1,71 @@
+{
+  "id": 857671759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.982695,21.396259,-157.982695,21.396259",
+    "geom:latitude":21.396259,
+    "geom:longitude":-157.982695,
+    "iso:country":"US",
+    "sg:address":"138 Farrington Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 7979",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YpoxPnCXLbwRQNU2V7Xqz_21.396259_-157.982695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206401,
+    "wof:geomhash":"63301503d83b36bd5ac8d9bda380b720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857671759
+        }
+    ],
+    "wof:id":857671759,
+    "wof:lastmodified":1464206401,
+    "wof:name":"Hawaii Lbrers Training Program",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training"
+    ]
+},
+  "bbox": [
+    -157.982695,
+    21.396259,
+    -157.982695,
+    21.396259
+],
+  "geometry": {"coordinates":[-157.98269500000001,21.396259],"type":"Point"}
+}

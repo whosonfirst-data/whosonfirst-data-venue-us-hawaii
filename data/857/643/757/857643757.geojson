@@ -1,0 +1,71 @@
+{
+  "id": 857643757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504696,20.891572,-156.504696,20.891572",
+    "geom:latitude":20.891572,
+    "geom:longitude":-156.504696,
+    "iso:country":"US",
+    "sg:address":"32 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 0096",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3At6BvvnYPbboPhT6QKz8j_20.891572_-156.504696@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205183,
+    "wof:geomhash":"839f97af2e557f87ee146f23adb002db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857643757
+        }
+    ],
+    "wof:id":857643757,
+    "wof:lastmodified":1464205183,
+    "wof:name":"Stephanie's Beauty Salon",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.504696,
+    20.891572,
+    -156.504696,
+    20.891572
+],
+  "geometry": {"coordinates":[-156.504696,20.891572],"type":"Point"}
+}

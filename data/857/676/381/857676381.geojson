@@ -1,0 +1,66 @@
+{
+  "id": 857676381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.915082,21.619507,-157.915082,21.619507",
+    "geom:latitude":21.619507,
+    "geom:longitude":-157.915082,
+    "iso:country":"US",
+    "sg:address":"316 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 5057",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I3w9GRmBCl6S0VJOiJdSV_21.619507_-157.915082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206590,
+    "wof:geomhash":"84e0c6bc6bc87204fa8108514e3a64c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857676381
+        }
+    ],
+    "wof:id":857676381,
+    "wof:lastmodified":1464206590,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.915082,
+    21.619507,
+    -157.915082,
+    21.619507
+],
+  "geometry": {"coordinates":[-157.91508200000001,21.619507],"type":"Point"}
+}

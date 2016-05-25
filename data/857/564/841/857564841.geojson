@@ -1,0 +1,71 @@
+{
+  "id": 857564841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880998,21.576153,-157.880998,21.576153",
+    "geom:latitude":21.576153,
+    "geom:longitude":-157.880998,
+    "iso:country":"US",
+    "sg:address":"304 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 1195",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937557,
+        102085417,
+        85843279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sqe29WashINfIw7UUF83m_21.576153_-157.880998@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203253,
+    "wof:geomhash":"9dddf7d6e734e4cd7134f75bec37c8d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937557,
+            "neighbourhood_id":85843279,
+            "region_id":85688671,
+            "venue_id":857564841
+        }
+    ],
+    "wof:id":857564841,
+    "wof:lastmodified":1464203253,
+    "wof:name":"TESORO Gas Express",
+    "wof:parent_id":85843279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.880998,
+    21.576153,
+    -157.880998,
+    21.576153
+],
+  "geometry": {"coordinates":[-157.88099800000001,21.576153],"type":"Point"}
+}

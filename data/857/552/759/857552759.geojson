@@ -1,0 +1,71 @@
+{
+  "id": 857552759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880123,21.324935,-157.880123,21.324935",
+    "geom:latitude":21.324935,
+    "geom:longitude":-157.880123,
+    "iso:country":"US",
+    "sg:address":"1585 Hau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 5777",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31hUQF4sD9r0aynnFQlohB_21.324935_-157.880123@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202984,
+    "wof:geomhash":"ca0e82222923c6484b3ce857f399a684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857552759
+        }
+    ],
+    "wof:id":857552759,
+    "wof:lastmodified":1464202984,
+    "wof:name":"Hale KOA Construction",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.880123,
+    21.324935,
+    -157.880123,
+    21.324935
+],
+  "geometry": {"coordinates":[-157.880123,21.324935],"type":"Point"}
+}

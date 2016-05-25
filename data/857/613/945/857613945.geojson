@@ -1,0 +1,71 @@
+{
+  "id": 857613945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02424,21.35506,-158.02424,21.35506",
+    "geom:latitude":21.35506,
+    "geom:longitude":-158.02424,
+    "iso:country":"US",
+    "sg:address":"1155 Hamana St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 5736",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nFeVwkvsXG95TnrSSgXkK_21.355060_-158.024240@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204300,
+    "wof:geomhash":"c9eeff5f60f1cec04767772c6ddd89de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857613945
+        }
+    ],
+    "wof:id":857613945,
+    "wof:lastmodified":1464204300,
+    "wof:name":"Tong Tork Repair",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -158.02424,
+    21.35506,
+    -158.02424,
+    21.35506
+],
+  "geometry": {"coordinates":[-158.02423999999999,21.35506],"type":"Point"}
+}

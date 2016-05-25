@@ -1,0 +1,71 @@
+{
+  "id": 857541081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877051,21.322948,-157.877051,21.322948",
+    "geom:latitude":21.322948,
+    "geom:longitude":-157.877051,
+    "iso:country":"US",
+    "sg:address":"420 Waiakamilo Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 8400",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KNgz8PtpZvgmpouF7GlBh_21.322948_-157.877051@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202758,
+    "wof:geomhash":"366648455161ceb53a629f51b0c321ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857541081
+        }
+    ],
+    "wof:id":857541081,
+    "wof:lastmodified":1464202758,
+    "wof:name":"Macys",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -157.877051,
+    21.322948,
+    -157.877051,
+    21.322948
+],
+  "geometry": {"coordinates":[-157.87705099999999,21.322948],"type":"Point"}
+}

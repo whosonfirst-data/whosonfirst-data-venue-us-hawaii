@@ -1,0 +1,73 @@
+{
+  "id": 857548061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867672,21.315788,-157.867672,21.315788",
+    "geom:latitude":21.315788,
+    "geom:longitude":-157.867672,
+    "iso:country":"US",
+    "sg:address":"322 Sumner St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 522 8400",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJqN4KkwIJidrEQq66BqB_21.315788_-157.867672@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202894,
+    "wof:geomhash":"1b776f53eb9d19a07bf61ce5ad60afdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857548061
+        }
+    ],
+    "wof:id":857548061,
+    "wof:lastmodified":1464202894,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.867672,
+    21.315788,
+    -157.867672,
+    21.315788
+],
+  "geometry": {"coordinates":[-157.867672,21.315788],"type":"Point"}
+}

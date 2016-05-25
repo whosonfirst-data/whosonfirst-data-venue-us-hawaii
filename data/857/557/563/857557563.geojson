@@ -1,0 +1,75 @@
+{
+  "id": 857557563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.924192,21.369354,-157.924192,21.369354",
+    "geom:latitude":21.369354,
+    "geom:longitude":-157.924192,
+    "iso:country":"US",
+    "sg:address":"403 Manani Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 864 2086",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ALK7MAwKkXcVUIZcbIZwk_21.369354_-157.924192@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203088,
+    "wof:geomhash":"1b98dc211a5daf1e80c9b292937d4277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857557563
+        }
+    ],
+    "wof:id":857557563,
+    "wof:lastmodified":1464203088,
+    "wof:name":"Got Shine Auto Detailing",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -157.924192,
+    21.369354,
+    -157.924192,
+    21.369354
+],
+  "geometry": {"coordinates":[-157.92419200000001,21.369354],"type":"Point"}
+}

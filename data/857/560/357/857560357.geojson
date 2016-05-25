@@ -1,0 +1,73 @@
+{
+  "id": 857560357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822449,21.277792,-157.822449,21.277792",
+    "geom:latitude":21.277792,
+    "geom:longitude":-157.822449,
+    "iso:country":"US",
+    "sg:address":"2442 Tusitala St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 0040",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R6mJVS1iB3SNQD7G67TSL_21.277792_-157.822449@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203162,
+    "wof:geomhash":"53d23332ead00aa590ffbbb874a2a46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857560357
+        }
+    ],
+    "wof:id":857560357,
+    "wof:lastmodified":1464203162,
+    "wof:name":"Dynasty Apartments",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -157.822449,
+    21.277792,
+    -157.822449,
+    21.277792
+],
+  "geometry": {"coordinates":[-157.82244900000001,21.277792],"type":"Point"}
+}

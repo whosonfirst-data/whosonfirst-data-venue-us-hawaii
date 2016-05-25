@@ -1,0 +1,80 @@
+{
+  "id": 857641925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.01018,21.506228,-158.01018,21.506228",
+    "geom:latitude":21.506228,
+    "geom:longitude":-158.01018,
+    "iso:country":"US",
+    "sg:address":"210 Turner St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0066",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39zh5S4nHzC7QJQPP917PK_21.506228_-158.010180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205096,
+    "wof:geomhash":"8699cb7b834147e1a369d6b6f8eb8fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857641925
+        }
+    ],
+    "wof:id":857641925,
+    "wof:lastmodified":1464205096,
+    "wof:name":"Jerry S Auto Glass",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -158.01018,
+    21.506228,
+    -158.01018,
+    21.506228
+],
+  "geometry": {"coordinates":[-158.01017999999999,21.506228],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857562753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841723,21.32445,-157.841723,21.32445",
+    "geom:latitude":21.32445,
+    "geom:longitude":-157.841723,
+    "iso:country":"US",
+    "sg:address":"2768 Laniloa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7256",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4syuewGy5mXkq496l45WDc_21.324450_-157.841723@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203216,
+    "wof:geomhash":"d07517e87f951de74e4ffe6f518caabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857562753
+        }
+    ],
+    "wof:id":857562753,
+    "wof:lastmodified":1464203216,
+    "wof:name":"Mss Travel Perks",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.841723,
+    21.32445,
+    -157.841723,
+    21.32445
+],
+  "geometry": {"coordinates":[-157.841723,21.32445],"type":"Point"}
+}

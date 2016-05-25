@@ -1,0 +1,71 @@
+{
+  "id": 857672333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873383,21.339473,-157.873383,21.339473",
+    "geom:latitude":21.339473,
+    "geom:longitude":-157.873383,
+    "iso:country":"US",
+    "sg:address":"2161 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1644",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10iSuFaUfeWsqQS1v3iBgL_21.339473_-157.873383@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206428,
+    "wof:geomhash":"9dfd6b142743d221f6b5722baaeb9339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857672333
+        }
+    ],
+    "wof:id":857672333,
+    "wof:lastmodified":1464206428,
+    "wof:name":"Dot's Grocery & Liquor Store",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.873383,
+    21.339473,
+    -157.873383,
+    21.339473
+],
+  "geometry": {"coordinates":[-157.87338299999999,21.339473],"type":"Point"}
+}

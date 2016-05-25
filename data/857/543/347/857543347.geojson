@@ -1,0 +1,71 @@
+{
+  "id": 857543347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839151,21.286251,-157.839151,21.286251",
+    "geom:latitude":21.286251,
+    "geom:longitude":-157.839151,
+    "iso:country":"US",
+    "sg:address":"1652 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 6650",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DmscKkKR6pJ31bpX3BRpt_21.286251_-157.839151@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202808,
+    "wof:geomhash":"316853e2e7b38dba33164969a2d79845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857543347
+        }
+    ],
+    "wof:id":857543347,
+    "wof:lastmodified":1464202808,
+    "wof:name":"All Pacific Surveys LTD",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -157.839151,
+    21.286251,
+    -157.839151,
+    21.286251
+],
+  "geometry": {"coordinates":[-157.83915099999999,21.286251],"type":"Point"}
+}

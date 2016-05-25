@@ -1,0 +1,74 @@
+{
+  "id": 857602319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907759,21.322286,-157.907759,21.322286",
+    "geom:latitude":21.322286,
+    "geom:longitude":-157.907759,
+    "iso:country":"US",
+    "sg:address":"89 Iolana Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5557",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company"
+    ],
+    "sg:website":"www.trans-air.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oEkD0bGeTiQdDc49AyjMg_21.322286_-157.907759@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204035,
+    "wof:geomhash":"cb9fe9d987ee68b5e44236d69490822d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857602319
+        }
+    ],
+    "wof:id":857602319,
+    "wof:lastmodified":1464204035,
+    "wof:name":"Trans Air",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -157.907759,
+    21.322286,
+    -157.907759,
+    21.322286
+],
+  "geometry": {"coordinates":[-157.907759,21.322286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857522423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.695969,21.279556,-157.695969,21.279556",
+    "geom:latitude":21.279556,
+    "geom:longitude":-157.695969,
+    "iso:country":"US",
+    "sg:address":"502 Kekupua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 4067",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YeBcujEoetGwDLKbvsatr_21.279556_-157.695969@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202398,
+    "wof:geomhash":"e1e3dac2f17cd3a03618b77e33a77c7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857522423
+        }
+    ],
+    "wof:id":857522423,
+    "wof:lastmodified":1464202398,
+    "wof:name":"Planters Prof Ldscp Svcs",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.695969,
+    21.279556,
+    -157.695969,
+    21.279556
+],
+  "geometry": {"coordinates":[-157.69596899999999,21.279556],"type":"Point"}
+}

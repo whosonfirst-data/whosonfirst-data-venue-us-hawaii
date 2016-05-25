@@ -1,0 +1,71 @@
+{
+  "id": 857628771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.354254,21.994801,-159.354254,21.994801",
+    "geom:latitude":21.994801,
+    "geom:longitude":-159.354254,
+    "iso:country":"US",
+    "sg:address":"4203 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 1010",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tsblhi1g4KBSjmJzMHEUd_21.994801_-159.354254@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204638,
+    "wof:geomhash":"edc6dee6ab15066323e9a73d93d0c615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857628771
+        }
+    ],
+    "wof:id":857628771,
+    "wof:lastmodified":1464204638,
+    "wof:name":"Robert Conrad MD",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -159.354254,
+    21.994801,
+    -159.354254,
+    21.994801
+],
+  "geometry": {"coordinates":[-159.354254,21.994801],"type":"Point"}
+}

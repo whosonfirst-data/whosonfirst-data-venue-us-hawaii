@@ -1,0 +1,71 @@
+{
+  "id": 857605939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506087,20.893462,-156.506087,20.893462",
+    "geom:latitude":20.893462,
+    "geom:longitude":-156.506087,
+    "iso:country":"US",
+    "sg:address":"167 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 8999",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XoaHooy0bmWPfD4cn59iC_20.893462_-156.506087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204115,
+    "wof:geomhash":"e4ea0566164eb5079d1bdae2680d8bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857605939
+        }
+    ],
+    "wof:id":857605939,
+    "wof:lastmodified":1464204115,
+    "wof:name":"Northshore Inn Hostel",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -156.506087,
+    20.893462,
+    -156.506087,
+    20.893462
+],
+  "geometry": {"coordinates":[-156.50608700000001,20.893462],"type":"Point"}
+}

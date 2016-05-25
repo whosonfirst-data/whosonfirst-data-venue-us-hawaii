@@ -1,0 +1,71 @@
+{
+  "id": 857583829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864115,21.312538,-157.864115,21.312538",
+    "geom:latitude":21.312538,
+    "geom:longitude":-157.864115,
+    "iso:country":"US",
+    "sg:address":"177 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4332",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x39WjGjaaePfn6xeXGUt5_21.312538_-157.864115@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203622,
+    "wof:geomhash":"7be4dafd8fc880b40b7f0aa7ce898ce6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857583829
+        }
+    ],
+    "wof:id":857583829,
+    "wof:lastmodified":1464203622,
+    "wof:name":"Kim Son Hawaii",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.864115,
+    21.312538,
+    -157.864115,
+    21.312538
+],
+  "geometry": {"coordinates":[-157.864115,21.312538],"type":"Point"}
+}

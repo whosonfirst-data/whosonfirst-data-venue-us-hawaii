@@ -1,0 +1,74 @@
+{
+  "id": 857680593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.086971,21.32892,-158.086971,21.32892",
+    "geom:latitude":21.32892,
+    "geom:longitude":-158.086971,
+    "iso:country":"US",
+    "sg:address":"338 Kamokila Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/135822-jamba-juice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 2752",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vbe44PNllyf4YfYOJR9xA_21.328920_-158.086971@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"42308d11b7a5c17024f024e99f0f3a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680593
+        }
+    ],
+    "wof:id":857680593,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.086971,
+    21.32892,
+    -158.086971,
+    21.32892
+],
+  "geometry": {"coordinates":[-158.08697100000001,21.32892],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857602587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102643,21.306308,-158.102643,21.306308",
+    "geom:latitude":21.306308,
+    "geom:longitude":-158.102643,
+    "iso:country":"US",
+    "sg:address":"227 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 690 1222",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truss"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KuAkVBIJQtf5dZ0Z39KdC_21.306308_-158.102643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204040,
+    "wof:geomhash":"079d432c319e50b633e62e79cce9eb74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857602587
+        }
+    ],
+    "wof:id":857602587,
+    "wof:lastmodified":1464204040,
+    "wof:name":"Precision Building Components",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truss"
+    ]
+},
+  "bbox": [
+    -158.102643,
+    21.306308,
+    -158.102643,
+    21.306308
+],
+  "geometry": {"coordinates":[-158.102643,21.306308],"type":"Point"}
+}

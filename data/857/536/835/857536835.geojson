@@ -1,0 +1,76 @@
+{
+  "id": 857536835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.685612,21.305645,-157.685612,21.305645",
+    "geom:latitude":21.305645,
+    "geom:longitude":-157.685612,
+    "iso:country":"US",
+    "sg:address":"1172 Wainiha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 8522",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M7ifumMKaPoByx22al2RY_21.305645_-157.685612@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202678,
+    "wof:geomhash":"034f050252383f1bed8e15276e008db1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857536835
+        }
+    ],
+    "wof:id":857536835,
+    "wof:lastmodified":1464202678,
+    "wof:name":"Mariners Village III",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.685612,
+    21.305645,
+    -157.685612,
+    21.305645
+],
+  "geometry": {"coordinates":[-157.68561199999999,21.305645],"type":"Point"}
+}

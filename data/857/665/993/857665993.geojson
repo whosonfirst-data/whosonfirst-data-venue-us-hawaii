@@ -1,0 +1,71 @@
+{
+  "id": 857665993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.087025,21.354741,-158.087025,21.354741",
+    "geom:latitude":21.354741,
+    "geom:longitude":-158.087025,
+    "iso:country":"US",
+    "sg:address":"900 Makakilo Dr",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 5968",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fUt09kdUBXs7IFSY3c23c_21.354741_-158.087025@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206182,
+    "wof:geomhash":"3c1822cae6fefd80baed529f6ef89f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857665993
+        }
+    ],
+    "wof:id":857665993,
+    "wof:lastmodified":1464206182,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.087025,
+    21.354741,
+    -158.087025,
+    21.354741
+],
+  "geometry": {"coordinates":[-158.08702500000001,21.354741],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857670859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024168,21.381675,-158.024168,21.381675",
+    "geom:latitude":21.381675,
+    "geom:longitude":-158.024168,
+    "iso:country":"US",
+    "sg:address":"214 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 0151",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychiatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tlyU4fg8B03Gz7qluLOLk_21.381675_-158.024168@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206370,
+    "wof:geomhash":"26cf44b8d1936d7c634212ae8e86e359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857670859
+        }
+    ],
+    "wof:id":857670859,
+    "wof:lastmodified":1464206370,
+    "wof:name":"Kahi Mohala",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatric"
+    ]
+},
+  "bbox": [
+    -158.024168,
+    21.381675,
+    -158.024168,
+    21.381675
+],
+  "geometry": {"coordinates":[-158.024168,21.381675],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857681691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.707628,21.283629,-157.707628,21.283629",
+    "geom:latitude":21.283629,
+    "geom:longitude":-157.707628,
+    "iso:country":"US",
+    "sg:address":"377 Keahole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/92316-l--l-hawaiian-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 3885",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xwtXwZFOkRrEAZ4S4deU9_21.283629_-157.707628@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206792,
+    "wof:geomhash":"8620a9ad52eb30417d305fb5fb96c862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857681691
+        }
+    ],
+    "wof:id":857681691,
+    "wof:lastmodified":1464206792,
+    "wof:name":"L & L Hawaiian BBQ",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -157.707628,
+    21.283629,
+    -157.707628,
+    21.283629
+],
+  "geometry": {"coordinates":[-157.707628,21.283629],"type":"Point"}
+}

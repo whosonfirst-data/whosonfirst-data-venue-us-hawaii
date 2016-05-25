@@ -1,0 +1,71 @@
+{
+  "id": 857642721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.805258,21.321107,-157.805258,21.321107",
+    "geom:latitude":21.321107,
+    "geom:longitude":-157.805258,
+    "iso:country":"US",
+    "sg:address":"3380 Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3216",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59sBDT3Lq2gtjKK7aNG37j_21.321107_-157.805258@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205125,
+    "wof:geomhash":"9f56f60daf643ca929863db0051adf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857642721
+        }
+    ],
+    "wof:id":857642721,
+    "wof:lastmodified":1464205125,
+    "wof:name":"Chun's Acupuncture & Herbs",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -157.805258,
+    21.321107,
+    -157.805258,
+    21.321107
+],
+  "geometry": {"coordinates":[-157.80525800000001,21.321107],"type":"Point"}
+}

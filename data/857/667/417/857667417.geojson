@@ -1,0 +1,84 @@
+{
+  "id": 857667417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.06576,19.72119,-155.06576,19.72119",
+    "geom:latitude":19.72119,
+    "geom:longitude":-155.06576,
+    "iso:country":"US",
+    "sg:address":"199 Kalanikoa St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 6378",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "feed",
+        "mfg",
+        "merchandise",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z7jqCW2dE3F4InzYXijKb_19.721190_-155.065760@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206239,
+    "wof:geomhash":"6405d31c9703652bfec36c3b29184e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857667417
+        }
+    ],
+    "wof:id":857667417,
+    "wof:lastmodified":1464206239,
+    "wof:name":"Del's Farm Supply Inc",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "mfg",
+        "merchandise",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -155.06576,
+    19.72119,
+    -155.06576,
+    19.72119
+],
+  "geometry": {"coordinates":[-155.06576000000001,19.72119],"type":"Point"}
+}

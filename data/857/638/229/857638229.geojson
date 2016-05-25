@@ -1,0 +1,71 @@
+{
+  "id": 857638229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827932,21.278318,-157.827932,21.278318",
+    "geom:latitude":21.278318,
+    "geom:longitude":-157.827932,
+    "iso:country":"US",
+    "sg:address":"2270 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 2951",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rlU8cvkPDtDXk26YilqbV_21.278318_-157.827932@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204948,
+    "wof:geomhash":"02feb8f17c59df7303cc3c04f6d0f82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857638229
+        }
+    ],
+    "wof:id":857638229,
+    "wof:lastmodified":1464204948,
+    "wof:name":"Tour Operator",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.827932,
+    21.278318,
+    -157.827932,
+    21.278318
+],
+  "geometry": {"coordinates":[-157.827932,21.278318],"type":"Point"}
+}

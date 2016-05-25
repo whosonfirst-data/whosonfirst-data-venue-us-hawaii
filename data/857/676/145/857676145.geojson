@@ -1,0 +1,75 @@
+{
+  "id": 857676145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.064089,19.705262,-155.064089,19.705262",
+    "geom:latitude":19.705262,
+    "geom:longitude":-155.064089,
+    "iso:country":"US",
+    "sg:address":"411 E Kawili St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 3767",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parts",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1to8aJnyy4hbb5qTiwq40S_19.705262_-155.064089@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206582,
+    "wof:geomhash":"640ff3943e1598911017b17b35037b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857676145
+        }
+    ],
+    "wof:id":857676145,
+    "wof:lastmodified":1464206582,
+    "wof:name":"Automotive Supply Center Ltd",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -155.064089,
+    19.705262,
+    -155.064089,
+    19.705262
+],
+  "geometry": {"coordinates":[-155.064089,19.705262],"type":"Point"}
+}

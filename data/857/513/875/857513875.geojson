@@ -1,0 +1,71 @@
+{
+  "id": 857513875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.46709,20.078852,-155.46709,20.078852",
+    "geom:latitude":20.078852,
+    "geom:longitude":-155.46709,
+    "iso:country":"US",
+    "sg:address":"3620 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 9921",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kijSs9F3YszpTLN733CgE_20.078852_-155.467090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202227,
+    "wof:geomhash":"57edf88997b0b12c8f1c25c3ac399c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857513875
+        }
+    ],
+    "wof:id":857513875,
+    "wof:lastmodified":1464202227,
+    "wof:name":"Douglas Fine Jewelry",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -155.46709,
+    20.078852,
+    -155.46709,
+    20.078852
+],
+  "geometry": {"coordinates":[-155.46709000000001,20.078852],"type":"Point"}
+}

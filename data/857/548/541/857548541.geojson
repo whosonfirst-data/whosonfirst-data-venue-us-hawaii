@@ -1,0 +1,71 @@
+{
+  "id": 857548541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.000219,21.50837,-158.000219,21.50837",
+    "geom:latitude":21.50837,
+    "geom:longitude":-158.000219,
+    "iso:country":"US",
+    "sg:address":"105 Nakeke Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 284 6132",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S4EQ2nHsvjuDXNPPEVnKJ_21.508370_-158.000219@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202903,
+    "wof:geomhash":"5554d9ab227cf546a5fc29322d489dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857548541
+        }
+    ],
+    "wof:id":857548541,
+    "wof:lastmodified":1464202903,
+    "wof:name":"Aed Medical Direction LLC",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.000219,
+    21.50837,
+    -158.000219,
+    21.50837
+],
+  "geometry": {"coordinates":[-158.00021899999999,21.50837],"type":"Point"}
+}

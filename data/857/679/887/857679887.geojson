@@ -1,0 +1,71 @@
+{
+  "id": 857679887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83073,21.293161,-157.83073,21.293161",
+    "geom:latitude":21.293161,
+    "geom:longitude":-157.83073,
+    "iso:country":"US",
+    "sg:address":"845 Mc Cully St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8651",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JDbFkPST7Yiy7TiD4gIa4_21.293161_-157.830730@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206725,
+    "wof:geomhash":"47c5862f9ae5d41bdd08986104b783b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857679887
+        }
+    ],
+    "wof:id":857679887,
+    "wof:lastmodified":1464206725,
+    "wof:name":"Mc Cully Market Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.83073,
+    21.293161,
+    -157.83073,
+    21.293161
+],
+  "geometry": {"coordinates":[-157.83072999999999,21.293161],"type":"Point"}
+}

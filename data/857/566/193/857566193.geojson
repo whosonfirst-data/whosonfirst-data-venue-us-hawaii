@@ -1,0 +1,71 @@
+{
+  "id": 857566193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.817181,21.265502,-157.817181,21.265502",
+    "geom:latitude":21.265502,
+    "geom:longitude":-157.817181,
+    "iso:country":"US",
+    "sg:address":"3840 Paki Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 971 2525",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_525BzD0TZxQ1myMfHG5FUb_21.265502_-157.817181@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203276,
+    "wof:geomhash":"396a1d0e3c44a9000f5f8b340d74450c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857566193
+        }
+    ],
+    "wof:id":857566193,
+    "wof:lastmodified":1464203276,
+    "wof:name":"Honolulu City Kapiolani Park",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.817181,
+    21.265502,
+    -157.817181,
+    21.265502
+],
+  "geometry": {"coordinates":[-157.81718100000001,21.265502],"type":"Point"}
+}

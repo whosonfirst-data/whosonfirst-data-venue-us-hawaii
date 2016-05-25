@@ -1,0 +1,71 @@
+{
+  "id": 857566659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884094,21.328208,-157.884094,21.328208",
+    "geom:latitude":21.328208,
+    "geom:longitude":-157.884094,
+    "iso:country":"US",
+    "sg:address":"1918 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 2121",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Px5U71svAE7T1IROpl5Xq_21.328208_-157.884094@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203290,
+    "wof:geomhash":"817a58f07c20a534d5d369a61321818b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857566659
+        }
+    ],
+    "wof:id":857566659,
+    "wof:lastmodified":1464203290,
+    "wof:name":"City Taxi",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.884094,
+    21.328208,
+    -157.884094,
+    21.328208
+],
+  "geometry": {"coordinates":[-157.884094,21.328208],"type":"Point"}
+}

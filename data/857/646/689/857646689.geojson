@@ -1,0 +1,71 @@
+{
+  "id": 857646689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50611,20.893529,-156.50611,20.893529",
+    "geom:latitude":20.893529,
+    "geom:longitude":-156.50611,
+    "iso:country":"US",
+    "sg:address":"197 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 4100",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mdYAaQBAvAz9o8RgYWYF_20.893529_-156.506110@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205322,
+    "wof:geomhash":"c2e95f08a747659cc26c507575496ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857646689
+        }
+    ],
+    "wof:id":857646689,
+    "wof:lastmodified":1464205322,
+    "wof:name":"Molinas Bar",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -156.50611,
+    20.893529,
+    -156.50611,
+    20.893529
+],
+  "geometry": {"coordinates":[-156.50611000000001,20.893529],"type":"Point"}
+}

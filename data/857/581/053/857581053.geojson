@@ -1,0 +1,75 @@
+{
+  "id": 857581053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.792623,21.268074,-157.792623,21.268074",
+    "geom:latitude":21.268074,
+    "geom:longitude":-157.792623,
+    "iso:country":"US",
+    "sg:address":"657 Hunalewa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7766",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "contractor",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kv0xyilzRAOyRKxwGVxBr_21.268074_-157.792623@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203572,
+    "wof:geomhash":"ccecaa11bcce73f9f16bdbee86507071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857581053
+        }
+    ],
+    "wof:id":857581053,
+    "wof:lastmodified":1464203572,
+    "wof:name":"Town and Country Builders",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.792623,
+    21.268074,
+    -157.792623,
+    21.268074
+],
+  "geometry": {"coordinates":[-157.79262299999999,21.268074],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857505431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007649,21.450231,-158.007649,21.450231",
+    "geom:latitude":21.450231,
+    "geom:longitude":-158.007649,
+    "iso:country":"US",
+    "sg:address":"498 Mahuli St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6427",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dQvqSCs8HFGkwY3vlcjsU_21.450231_-158.007649@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202047,
+    "wof:geomhash":"113067421b2daaf27b29622f04c014bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857505431
+        }
+    ],
+    "wof:id":857505431,
+    "wof:lastmodified":1464202047,
+    "wof:name":"Teeter and Drake LLC",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.007649,
+    21.450231,
+    -158.007649,
+    21.450231
+],
+  "geometry": {"coordinates":[-158.00764899999999,21.450231],"type":"Point"}
+}

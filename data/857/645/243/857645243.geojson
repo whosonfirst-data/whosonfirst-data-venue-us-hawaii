@@ -1,0 +1,66 @@
+{
+  "id": 857645243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.091075,21.362355,-158.091075,21.362355",
+    "geom:latitude":21.362355,
+    "geom:longitude":-158.091075,
+    "iso:country":"US",
+    "sg:address":"1242 Palahia St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 8282",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w8YhwOr7Y8dyVFb5ZHX9v_21.362355_-158.091075@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205248,
+    "wof:geomhash":"f928d80162cd2e4828ccd703bf2efa02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857645243
+        }
+    ],
+    "wof:id":857645243,
+    "wof:lastmodified":1464205248,
+    "wof:name":"T & T Llana Cleaning Svcs",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.091075,
+    21.362355,
+    -158.091075,
+    21.362355
+],
+  "geometry": {"coordinates":[-158.09107499999999,21.362355],"type":"Point"}
+}

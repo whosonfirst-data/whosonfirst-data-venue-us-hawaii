@@ -1,0 +1,68 @@
+{
+  "id": 857639643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.912996,19.539191,-154.912996,19.539191",
+    "geom:latitude":19.539191,
+    "geom:longitude":-154.912996,
+    "iso:country":"US",
+    "sg:address":"2717 Ina St",
+    "sg:city":"Pahoa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 6360",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937457,
+        102085433,
+        85890629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kcvbqUtF9H6ibOphdcxmh_19.539191_-154.912996@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205006,
+    "wof:geomhash":"5193d7126525511b692e9cfb97f83a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937457,
+            "neighbourhood_id":85890629,
+            "region_id":85688671,
+            "venue_id":857639643
+        }
+    ],
+    "wof:id":857639643,
+    "wof:lastmodified":1464205006,
+    "wof:name":"Mike Bean",
+    "wof:parent_id":85890629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -154.912996,
+    19.539191,
+    -154.912996,
+    19.539191
+],
+  "geometry": {"coordinates":[-154.91299599999999,19.539191],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857643999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021809,21.378645,-158.021809,21.378645",
+    "geom:latitude":21.378645,
+    "geom:longitude":-158.021809,
+    "iso:country":"US",
+    "sg:address":"144 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 9844",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fCpa90ZKq0A8N2XjnT5vC_21.378645_-158.021809@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205194,
+    "wof:geomhash":"8681eba463a4125eeab961105777d800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857643999
+        }
+    ],
+    "wof:id":857643999,
+    "wof:lastmodified":1464205194,
+    "wof:name":"Fast Print",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -158.021809,
+    21.378645,
+    -158.021809,
+    21.378645
+],
+  "geometry": {"coordinates":[-158.02180899999999,21.378645],"type":"Point"}
+}

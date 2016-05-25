@@ -1,0 +1,66 @@
+{
+  "id": 857672765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844127,21.299783,-157.844127,21.299783",
+    "geom:latitude":21.299783,
+    "geom:longitude":-157.844127,
+    "iso:country":"US",
+    "sg:address":"1103 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8033",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kVT1ECRynNR9wcNTrDmnm_21.299783_-157.844127@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206443,
+    "wof:geomhash":"0e95d345db5bda805c7aefc218f4d559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857672765
+        }
+    ],
+    "wof:id":857672765,
+    "wof:lastmodified":1464206443,
+    "wof:name":"Ichi-Ryu Noodles House",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.844127,
+    21.299783,
+    -157.844127,
+    21.299783
+],
+  "geometry": {"coordinates":[-157.84412699999999,21.299783],"type":"Point"}
+}

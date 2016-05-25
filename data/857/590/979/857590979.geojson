@@ -1,0 +1,73 @@
+{
+  "id": 857590979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886937,21.324944,-157.886937,21.324944",
+    "geom:latitude":21.324944,
+    "geom:longitude":-157.886937,
+    "iso:country":"US",
+    "sg:address":"1931 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4615",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16D25xv0SweSkmdkTi2nOf_21.324944_-157.886937@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203784,
+    "wof:geomhash":"47f847ba65489d591f4eb8d0286625ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857590979
+        }
+    ],
+    "wof:id":857590979,
+    "wof:lastmodified":1464203784,
+    "wof:name":"Auntie Nalani's Cookies",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -157.886937,
+    21.324944,
+    -157.886937,
+    21.324944
+],
+  "geometry": {"coordinates":[-157.88693699999999,21.324944],"type":"Point"}
+}

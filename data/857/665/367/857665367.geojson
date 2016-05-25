@@ -1,0 +1,71 @@
+{
+  "id": 857665367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018931,21.446749,-158.018931,21.446749",
+    "geom:latitude":21.446749,
+    "geom:longitude":-158.018931,
+    "iso:country":"US",
+    "sg:address":"15 Kuahelani Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 1627",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TSKM5sQJ6SZ0weUMXysnC_21.446749_-158.018931@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206146,
+    "wof:geomhash":"b4024e90e79e02cd879b1498bd157805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857665367
+        }
+    ],
+    "wof:id":857665367,
+    "wof:lastmodified":1464206146,
+    "wof:name":"Nahoa Condominium",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -158.018931,
+    21.446749,
+    -158.018931,
+    21.446749
+],
+  "geometry": {"coordinates":[-158.01893100000001,21.446749],"type":"Point"}
+}

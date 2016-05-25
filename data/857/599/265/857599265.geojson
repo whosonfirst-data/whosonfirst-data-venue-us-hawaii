@@ -1,0 +1,82 @@
+{
+  "id": 857599265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8833,21.330852,-157.8833,21.330852",
+    "geom:latitude":21.330852,
+    "geom:longitude":-157.8833,
+    "iso:country":"US",
+    "sg:address":"2123 Eluwene St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1100",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "garment",
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bXzYM2kTE7HMbJgwkrd6h_21.330852_-157.883300@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203966,
+    "wof:geomhash":"284ba3fc8616f48941fec7487eda4f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857599265
+        }
+    ],
+    "wof:id":857599265,
+    "wof:lastmodified":1464203966,
+    "wof:name":"High Speed 4000 Garments Prod",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "garment",
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.8833,
+    21.330852,
+    -157.8833,
+    21.330852
+],
+  "geometry": {"coordinates":[-157.88329999999999,21.330852],"type":"Point"}
+}

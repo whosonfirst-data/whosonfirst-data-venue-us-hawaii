@@ -1,0 +1,71 @@
+{
+  "id": 857665299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.996494,21.415734,-157.996494,21.415734",
+    "geom:latitude":21.415734,
+    "geom:longitude":-157.996494,
+    "iso:country":"US",
+    "sg:address":"1151 Mopua Loop",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 8255",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KKzZRbHflaLy1TgZW3Pjh_21.415734_-157.996494@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206143,
+    "wof:geomhash":"e4a182f824caefc9ad6bdc5db34d96ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857665299
+        }
+    ],
+    "wof:id":857665299,
+    "wof:lastmodified":1464206143,
+    "wof:name":"AK Appliance Service",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.996494,
+    21.415734,
+    -157.996494,
+    21.415734
+],
+  "geometry": {"coordinates":[-157.99649400000001,21.415734],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857661295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932798,21.365712,-157.932798,21.365712",
+    "geom:latitude":21.365712,
+    "geom:longitude":-157.932798,
+    "iso:country":"US",
+    "sg:address":"529 Opukea St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 1761",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890053,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IcwQ7qVuskguJKIKpr9yN_21.365712_-157.932798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205980,
+    "wof:geomhash":"35b14eeda756570e74f35c9ded76eb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890053,
+            "region_id":85688671,
+            "venue_id":857661295
+        }
+    ],
+    "wof:id":857661295,
+    "wof:lastmodified":1464205980,
+    "wof:name":"Gao's Towing Svc",
+    "wof:parent_id":85890053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.932798,
+    21.365712,
+    -157.932798,
+    21.365712
+],
+  "geometry": {"coordinates":[-157.93279799999999,21.365712],"type":"Point"}
+}

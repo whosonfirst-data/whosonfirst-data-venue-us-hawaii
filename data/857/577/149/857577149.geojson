@@ -1,0 +1,69 @@
+{
+  "id": 857577149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.31868,22.075125,-159.31868,22.075125",
+    "geom:latitude":22.075125,
+    "geom:longitude":-159.31868,
+    "iso:country":"US",
+    "sg:address":"1328 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 2345",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JaWUEC1SfD7CdBuJn2aAv_22.075125_-159.318680@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203495,
+    "wof:geomhash":"122adc5dcc0edf3371a69f4690364a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857577149
+        }
+    ],
+    "wof:id":857577149,
+    "wof:lastmodified":1464203495,
+    "wof:name":"Privilege Collection",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -159.31868,
+    22.075125,
+    -159.31868,
+    22.075125
+],
+  "geometry": {"coordinates":[-159.31868,22.075125],"type":"Point"}
+}

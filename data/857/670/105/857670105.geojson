@@ -1,0 +1,71 @@
+{
+  "id": 857670105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971344,21.390007,-157.971344,21.390007",
+    "geom:latitude":21.390007,
+    "geom:longitude":-157.971344,
+    "iso:country":"US",
+    "sg:address":"880 1st St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 1077",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01be3YC65S6YLe2axwToNc_21.390007_-157.971344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206344,
+    "wof:geomhash":"08e490828c8f246e409f866d66186e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857670105
+        }
+    ],
+    "wof:id":857670105,
+    "wof:lastmodified":1464206344,
+    "wof:name":"Kam Diagnostic Radiology",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.971344,
+    21.390007,
+    -157.971344,
+    21.390007
+],
+  "geometry": {"coordinates":[-157.97134399999999,21.390007],"type":"Point"}
+}

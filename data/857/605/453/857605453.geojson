@@ -1,0 +1,68 @@
+{
+  "id": 857605453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.44532,20.889223,-156.44532,20.889223",
+    "geom:latitude":20.889223,
+    "geom:longitude":-156.44532,
+    "iso:country":"US",
+    "sg:address":"70 Kuleana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 8578",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532929,
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MpvcD3qlca3rcPbNWS3KJ_20.889223_-156.445320@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204106,
+    "wof:geomhash":"aafee9684d7213ddaa4788ba889d6fef",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532929,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857605453
+        }
+    ],
+    "wof:id":857605453,
+    "wof:lastmodified":1464204106,
+    "wof:name":"By Book Inc",
+    "wof:parent_id":102532929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.44532,
+    20.889223,
+    -156.44532,
+    20.889223
+],
+  "geometry": {"coordinates":[-156.44532000000001,20.889223],"type":"Point"}
+}

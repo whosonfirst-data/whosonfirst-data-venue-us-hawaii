@@ -1,0 +1,71 @@
+{
+  "id": 857675613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863606,21.311918,-157.863606,21.311918",
+    "geom:latitude":21.311918,
+    "geom:longitude":-157.863606,
+    "iso:country":"US",
+    "sg:address":"135 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 9888",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "noodle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RqVmYSFKThsmIGNhv1lNd_21.311918_-157.863606@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206557,
+    "wof:geomhash":"47137d15ce3725406583bfc6056019b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857675613
+        }
+    ],
+    "wof:id":857675613,
+    "wof:lastmodified":1464206557,
+    "wof:name":"Hometown Noodle Factory",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "noodle"
+    ]
+},
+  "bbox": [
+    -157.863606,
+    21.311918,
+    -157.863606,
+    21.311918
+],
+  "geometry": {"coordinates":[-157.863606,21.311918],"type":"Point"}
+}

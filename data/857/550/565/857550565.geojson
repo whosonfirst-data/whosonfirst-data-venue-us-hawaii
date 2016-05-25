@@ -1,0 +1,75 @@
+{
+  "id": 857550565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858491,21.297381,-157.858491,21.297381",
+    "geom:latitude":21.297381,
+    "geom:longitude":-157.858491,
+    "iso:country":"US",
+    "sg:address":"437 Koula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8211",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UrYiuMSjjZzY0MyXfiwS8_21.297381_-157.858491@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202941,
+    "wof:geomhash":"01426adf629693360b7c658299ee3abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857550565
+        }
+    ],
+    "wof:id":857550565,
+    "wof:lastmodified":1464202941,
+    "wof:name":"Ricky's Auto Body & Paint",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.858491,
+    21.297381,
+    -157.858491,
+    21.297381
+],
+  "geometry": {"coordinates":[-157.85849099999999,21.297381],"type":"Point"}
+}

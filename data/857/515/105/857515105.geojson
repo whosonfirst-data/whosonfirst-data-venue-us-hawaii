@@ -1,0 +1,71 @@
+{
+  "id": 857515105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.299881,20.88799,-156.299881,20.88799",
+    "geom:latitude":20.88799,
+    "geom:longitude":-156.299881,
+    "iso:country":"US",
+    "sg:address":"1655 W Kuiaha Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 875 0949",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UXQnsCZSSEDRCwed3Jt3d_20.887990_-156.299881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202253,
+    "wof:geomhash":"663b7ce180f7e9265f7f1bc12a4e8c68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857515105
+        }
+    ],
+    "wof:id":857515105,
+    "wof:lastmodified":1464202253,
+    "wof:name":"Robins Nest of Tropical",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    -156.299881,
+    20.88799,
+    -156.299881,
+    20.88799
+],
+  "geometry": {"coordinates":[-156.299881,20.88799],"type":"Point"}
+}

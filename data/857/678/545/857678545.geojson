@@ -1,0 +1,85 @@
+{
+  "id": 857678545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902801,21.334281,-157.902801,21.334281",
+    "geom:latitude":21.334281,
+    "geom:longitude":-157.902801,
+    "iso:country":"US",
+    "sg:address":"2959 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 6836",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gzOGY8G3mFKwxpxbcYDPk_21.334281_-157.902801@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206675,
+    "wof:geomhash":"02e532a1d94beae29ebea3808f84fba1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857678545
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857678545
+        }
+    ],
+    "wof:id":857678545,
+    "wof:lastmodified":1464206675,
+    "wof:name":"Praise Chapel-Honolulu",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.902801,
+    21.334281,
+    -157.902801,
+    21.334281
+],
+  "geometry": {"coordinates":[-157.90280100000001,21.334281],"type":"Point"}
+}

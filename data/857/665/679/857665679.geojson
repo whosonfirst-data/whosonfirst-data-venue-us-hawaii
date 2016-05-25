@@ -1,0 +1,71 @@
+{
+  "id": 857665679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318565,22.075994,-159.318565,22.075994",
+    "geom:latitude":22.075994,
+    "geom:longitude":-159.318565,
+    "iso:country":"US",
+    "sg:address":"1359 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 0081",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ztrFGileZLdbqOczjzrUm_22.075994_-159.318565@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206158,
+    "wof:geomhash":"1000d34d6cc98935926556201e5d2143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857665679
+        }
+    ],
+    "wof:id":857665679,
+    "wof:lastmodified":1464206158,
+    "wof:name":"ABC Discount Store",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -159.318565,
+    22.075994,
+    -159.318565,
+    22.075994
+],
+  "geometry": {"coordinates":[-159.31856500000001,22.075994],"type":"Point"}
+}

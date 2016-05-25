@@ -1,0 +1,75 @@
+{
+  "id": 857610595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.035626,21.490406,-158.035626,21.490406",
+    "geom:latitude":21.490406,
+    "geom:longitude":-158.035626,
+    "iso:country":"US",
+    "sg:address":"199 Lakeview Cir",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 3052",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ZZkZ3eUsEgYobKZzghx9_21.490406_-158.035626@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204220,
+    "wof:geomhash":"850c84b79e84854daf4573c7643bb91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857610595
+        }
+    ],
+    "wof:id":857610595,
+    "wof:lastmodified":1464204220,
+    "wof:name":"Speedy Rubber Stamps",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.035626,
+    21.490406,
+    -158.035626,
+    21.490406
+],
+  "geometry": {"coordinates":[-158.03562600000001,21.490406],"type":"Point"}
+}

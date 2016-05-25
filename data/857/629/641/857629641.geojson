@@ -1,0 +1,69 @@
+{
+  "id": 857629641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.039432,21.527503,-158.039432,21.527503",
+    "geom:latitude":21.527503,
+    "geom:longitude":-158.039432,
+    "iso:country":"US",
+    "sg:address":"1550 Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8818",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HrQrjQ3DVtKZRigIz7Ojj_21.527503_-158.039432@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204654,
+    "wof:geomhash":"7d978d8c5f58e78d4d84ad83da0abdf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857629641
+        }
+    ],
+    "wof:id":857629641,
+    "wof:lastmodified":1464204654,
+    "wof:name":"Woodys Espresso & Hot Dogs",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.039432,
+    21.527503,
+    -158.039432,
+    21.527503
+],
+  "geometry": {"coordinates":[-158.03943200000001,21.527503],"type":"Point"}
+}

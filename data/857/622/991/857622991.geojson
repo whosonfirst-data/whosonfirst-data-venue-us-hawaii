@@ -1,0 +1,66 @@
+{
+  "id": 857622991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003899,21.475746,-158.003899,21.475746",
+    "geom:latitude":21.475746,
+    "geom:longitude":-158.003899,
+    "iso:country":"US",
+    "sg:address":"1041 Koolani Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 8009",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GfWAA3bHruC7C7fQDaCi8_21.475746_-158.003899@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204508,
+    "wof:geomhash":"be2ca39dafe9cb45ebaf6242d103986c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857622991
+        }
+    ],
+    "wof:id":857622991,
+    "wof:lastmodified":1464204508,
+    "wof:name":"AMP Distributors LLC",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.003899,
+    21.475746,
+    -158.003899,
+    21.475746
+],
+  "geometry": {"coordinates":[-158.00389899999999,21.475746],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857561363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.781344,21.282367,-157.781344,21.282367",
+    "geom:latitude":21.282367,
+    "geom:longitude":-157.781344,
+    "iso:country":"US",
+    "sg:address":"1493 Halekoa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 8805",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "membership",
+        "cl"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DhU1Lp0KY8ovRAAquEcqv_21.282367_-157.781344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203189,
+    "wof:geomhash":"80fe80dc847c9e0cf8e4f6c411fff6c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857561363
+        }
+    ],
+    "wof:id":857561363,
+    "wof:lastmodified":1464203189,
+    "wof:name":"Hawaii Senior Olympics",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "cl"
+    ]
+},
+  "bbox": [
+    -157.781344,
+    21.282367,
+    -157.781344,
+    21.282367
+],
+  "geometry": {"coordinates":[-157.78134399999999,21.282367],"type":"Point"}
+}

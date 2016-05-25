@@ -1,0 +1,71 @@
+{
+  "id": 857606775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.449083,20.776166,-156.449083,20.776166",
+    "geom:latitude":20.776166,
+    "geom:longitude":-156.449083,
+    "iso:country":"US",
+    "sg:address":"241 Noe St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 6858",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67hcyt0Mkp8Omxc3PJUf86_20.776166_-156.449083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204130,
+    "wof:geomhash":"4b10de59305f8f1d10e663704c359e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857606775
+        }
+    ],
+    "wof:id":857606775,
+    "wof:lastmodified":1464204130,
+    "wof:name":"Elite Cleaning Svc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -156.449083,
+    20.776166,
+    -156.449083,
+    20.776166
+],
+  "geometry": {"coordinates":[-156.449083,20.776166],"type":"Point"}
+}

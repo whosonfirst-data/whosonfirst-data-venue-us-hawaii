@@ -1,0 +1,71 @@
+{
+  "id": 857680007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801116,21.301156,-157.801116,21.301156",
+    "geom:latitude":21.301156,
+    "geom:longitude":-157.801116,
+    "iso:country":"US",
+    "sg:address":"2401 Saint Louis Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 738 9526",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OA0BT6GT5xsq7RyYORQ2c_21.301156_-157.801116@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206729,
+    "wof:geomhash":"6dc4a8003de7bf314e963cfe1551a287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857680007
+        }
+    ],
+    "wof:id":857680007,
+    "wof:lastmodified":1464206729,
+    "wof:name":"Kristie A Lee",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.801116,
+    21.301156,
+    -157.801116,
+    21.301156
+],
+  "geometry": {"coordinates":[-157.80111600000001,21.301156],"type":"Point"}
+}

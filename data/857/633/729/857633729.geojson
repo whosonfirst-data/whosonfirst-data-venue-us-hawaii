@@ -1,0 +1,71 @@
+{
+  "id": 857633729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.83046,19.973229,-155.83046,19.973229",
+    "geom:latitude":19.973229,
+    "geom:longitude":-155.83046,
+    "iso:country":"US",
+    "sg:address":"2 Puako Beach Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 882 1055",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "retreat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890365,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zlZ2qvAX70FoqL4AnFA3z_19.973229_-155.830460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204782,
+    "wof:geomhash":"7bd07e4c29118f28302a73f874678d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890365,
+            "region_id":85688671,
+            "venue_id":857633729
+        }
+    ],
+    "wof:id":857633729,
+    "wof:lastmodified":1464204782,
+    "wof:name":"Honuala'i",
+    "wof:parent_id":85890365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "retreat"
+    ]
+},
+  "bbox": [
+    -155.83046,
+    19.973229,
+    -155.83046,
+    19.973229
+],
+  "geometry": {"coordinates":[-155.83045999999999,19.973229],"type":"Point"}
+}

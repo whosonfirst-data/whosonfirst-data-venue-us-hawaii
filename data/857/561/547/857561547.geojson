@@ -1,0 +1,71 @@
+{
+  "id": 857561547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.724786,21.298091,-157.724786,21.298091",
+    "geom:latitude":21.298091,
+    "geom:longitude":-157.724786,
+    "iso:country":"US",
+    "sg:address":"480 Kuliouou Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 0970",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Hcq2bre0WJaE5gfz5YJJ_21.298091_-157.724786@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203192,
+    "wof:geomhash":"81616f1a716c2b8cde52a77ac194ebb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857561547
+        }
+    ],
+    "wof:id":857561547,
+    "wof:lastmodified":1464203192,
+    "wof:name":"Waikiki Limousine Svc",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.724786,
+    21.298091,
+    -157.724786,
+    21.298091
+],
+  "geometry": {"coordinates":[-157.72478599999999,21.298091],"type":"Point"}
+}

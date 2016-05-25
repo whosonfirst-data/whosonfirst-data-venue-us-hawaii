@@ -1,0 +1,71 @@
+{
+  "id": 857673575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.361178,21.992674,-159.361178,21.992674",
+    "geom:latitude":21.992674,
+    "geom:longitude":-159.361178,
+    "iso:country":"US",
+    "sg:address":"4741 Pohina St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3745",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Fcus10CiU9PW1irlSZEVE_21.992674_-159.361178@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206472,
+    "wof:geomhash":"88d1a119cab58cfe01598c9902f6ba62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857673575
+        }
+    ],
+    "wof:id":857673575,
+    "wof:lastmodified":1464206472,
+    "wof:name":"Pauly's Mobile Svc",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -159.361178,
+    21.992674,
+    -159.361178,
+    21.992674
+],
+  "geometry": {"coordinates":[-159.361178,21.992674],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857506515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.710363,21.383458,-157.710363,21.383458",
+    "geom:latitude":21.383458,
+    "geom:longitude":-157.710363,
+    "iso:country":"US",
+    "sg:address":"122 Lanipo Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 2262",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "heavy",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VW7aqwicn2d4SydIxaYYR_21.383458_-157.710363@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202070,
+    "wof:geomhash":"e85b176c65502ef40ba16506fdabe44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857506515
+        }
+    ],
+    "wof:id":857506515,
+    "wof:lastmodified":1464202070,
+    "wof:name":"C M C Construction Inc",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.710363,
+    21.383458,
+    -157.710363,
+    21.383458
+],
+  "geometry": {"coordinates":[-157.710363,21.383458],"type":"Point"}
+}

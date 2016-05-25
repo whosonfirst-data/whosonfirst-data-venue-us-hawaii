@@ -1,0 +1,77 @@
+{
+  "id": 857645141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.355044,21.968655,-159.355044,21.968655",
+    "geom:latitude":21.968655,
+    "geom:longitude":-159.355044,
+    "iso:country":"US",
+    "sg:address":"3073 Aukele St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5636",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102528943,
+        85890567,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85688671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VaffuOrZqWZcGDUVPzuYs_21.968655_-159.355044@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205244,
+    "wof:geomhash":"425a160de574abb0c169d6e030c1a261",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528943,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857645141
+        }
+    ],
+    "wof:id":857645141,
+    "wof:lastmodified":1464205244,
+    "wof:name":"National Car Rental",
+    "wof:parent_id":102528943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -159.355044,
+    21.968655,
+    -159.355044,
+    21.968655
+],
+  "geometry": {"coordinates":[-159.35504399999999,21.968655],"type":"Point"}
+}

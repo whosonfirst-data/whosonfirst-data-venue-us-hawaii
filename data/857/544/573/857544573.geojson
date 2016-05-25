@@ -1,0 +1,73 @@
+{
+  "id": 857544573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88026,21.332767,-157.88026,21.332767",
+    "geom:latitude":21.332767,
+    "geom:longitude":-157.88026,
+    "iso:country":"US",
+    "sg:address":"824 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1123",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fish",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z4fsDFyFDHLuNSF7pAVmO_21.332767_-157.880260@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202831,
+    "wof:geomhash":"578e0b5e6491dcf5a73d7bec74315d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857544573
+        }
+    ],
+    "wof:id":857544573,
+    "wof:lastmodified":1464202831,
+    "wof:name":"Honolulu Fish Co",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fish",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.88026,
+    21.332767,
+    -157.88026,
+    21.332767
+],
+  "geometry": {"coordinates":[-157.88025999999999,21.332767],"type":"Point"}
+}

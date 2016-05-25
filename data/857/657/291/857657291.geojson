@@ -1,0 +1,73 @@
+{
+  "id": 857657291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834963,21.298508,-157.834963,21.298508",
+    "geom:latitude":21.298508,
+    "geom:longitude":-157.834963,
+    "iso:country":"US",
+    "sg:address":"1727 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 1060",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0koVYsQrUu9IxA68tHz7g9_21.298508_-157.834963@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205782,
+    "wof:geomhash":"7c5233ba3c5676fa1984b834c1688941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857657291
+        }
+    ],
+    "wof:id":857657291,
+    "wof:lastmodified":1464205782,
+    "wof:name":"South Bay Carpet",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -157.834963,
+    21.298508,
+    -157.834963,
+    21.298508
+],
+  "geometry": {"coordinates":[-157.83496299999999,21.298508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857637285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.364441,21.971964,-159.364441,21.971964",
+    "geom:latitude":21.971964,
+    "geom:longitude":-159.364441,
+    "iso:country":"US",
+    "sg:address":"4253 Rice St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3135",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z56S251Xrh8qhVtdaVjwA_21.971964_-159.364441@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204915,
+    "wof:geomhash":"a9647f57d7fcec75aebbb75982a47b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857637285
+        }
+    ],
+    "wof:id":857637285,
+    "wof:lastmodified":1464204915,
+    "wof:name":"Clay R Hiramoto DDS",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -159.364441,
+    21.971964,
+    -159.364441,
+    21.971964
+],
+  "geometry": {"coordinates":[-159.364441,21.971964],"type":"Point"}
+}

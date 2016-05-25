@@ -1,0 +1,77 @@
+{
+  "id": 857596723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899412,21.342047,-157.899412,21.342047",
+    "geom:latitude":21.342047,
+    "geom:longitude":-157.899412,
+    "iso:country":"US",
+    "sg:address":"830 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2721",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50UY0xFVSylor8g7vOxgs8_21.342047_-157.899412@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203917,
+    "wof:geomhash":"cec0b15794ac6486580c5dd31ff53e62",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857596723
+        }
+    ],
+    "wof:id":857596723,
+    "wof:lastmodified":1464203917,
+    "wof:name":"Hawaii Mobil Air",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.899412,
+    21.342047,
+    -157.899412,
+    21.342047
+],
+  "geometry": {"coordinates":[-157.89941200000001,21.342047],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857672193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023624,21.501211,-158.023624,21.501211",
+    "geom:latitude":21.501211,
+    "geom:longitude":-158.023624,
+    "iso:country":"US",
+    "sg:address":"232 Koa St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 2273",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mwDqWu5WtZbaXxlQGeYrv_21.501211_-158.023624@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206417,
+    "wof:geomhash":"e60cf5eafa40a4b4160ee7ca1d73c408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857672193
+        }
+    ],
+    "wof:id":857672193,
+    "wof:lastmodified":1464206417,
+    "wof:name":"Garry's Auto Repair Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ]
+},
+  "bbox": [
+    -158.023624,
+    21.501211,
+    -158.023624,
+    21.501211
+],
+  "geometry": {"coordinates":[-158.02362400000001,21.501211],"type":"Point"}
+}

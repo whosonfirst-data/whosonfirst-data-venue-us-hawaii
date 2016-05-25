@@ -1,0 +1,70 @@
+{
+  "id": 857609715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.098351,21.306387,-158.098351,21.306387",
+    "geom:latitude":21.306387,
+    "geom:longitude":-158.098351,
+    "iso:country":"US",
+    "sg:address":"220 Kalaeloa Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5099",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.metropainting.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rsvqe9TfUiHCdt8Vayiks_21.306387_-158.098351@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204201,
+    "wof:geomhash":"3c41277474e4e672d6278cc2bf46148e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857609715
+        }
+    ],
+    "wof:id":857609715,
+    "wof:lastmodified":1464204201,
+    "wof:name":"Metropolitan Painting",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -158.098351,
+    21.306387,
+    -158.098351,
+    21.306387
+],
+  "geometry": {"coordinates":[-158.09835100000001,21.306387],"type":"Point"}
+}

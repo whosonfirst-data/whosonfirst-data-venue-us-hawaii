@@ -1,0 +1,71 @@
+{
+  "id": 857578811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.890557,21.319384,-157.890557,21.319384",
+    "geom:latitude":21.319384,
+    "geom:longitude":-157.890557,
+    "iso:country":"US",
+    "sg:address":"1 Pier",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 4423",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AH2PHVacJyhoQg4Amn3IB_21.319384_-157.890557@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203528,
+    "wof:geomhash":"eb5cee13f6bd6664e70a0ce396a4b9e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857578811
+        }
+    ],
+    "wof:id":857578811,
+    "wof:lastmodified":1464203528,
+    "wof:name":"Honolulu Terminals Co LTD",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.890557,
+    21.319384,
+    -157.890557,
+    21.319384
+],
+  "geometry": {"coordinates":[-157.890557,21.319384],"type":"Point"}
+}

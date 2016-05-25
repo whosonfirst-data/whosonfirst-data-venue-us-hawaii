@@ -1,0 +1,71 @@
+{
+  "id": 857595163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.93014,21.379364,-157.93014,21.379364",
+    "geom:latitude":21.379364,
+    "geom:longitude":-157.93014,
+    "iso:country":"US",
+    "sg:address":"128 Aiea Heights Dr",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 7938",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUFkCyINeX1zUHjxxwxfc_21.379364_-157.930140@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203876,
+    "wof:geomhash":"5b8c129d29a14377382e5928f4813eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857595163
+        }
+    ],
+    "wof:id":857595163,
+    "wof:lastmodified":1464203876,
+    "wof:name":"William K Wong & Assoc Inc",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.93014,
+    21.379364,
+    -157.93014,
+    21.379364
+],
+  "geometry": {"coordinates":[-157.93013999999999,21.379364],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857560475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827561,21.288799,-157.827561,21.288799",
+    "geom:latitude":21.288799,
+    "geom:longitude":-157.827561,
+    "iso:country":"US",
+    "sg:address":"2318 Lime St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 6668",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30WI7UTqFTlzNsetSAS8wf_21.288799_-157.827561@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203167,
+    "wof:geomhash":"c643a788abc4e2b4a15ff6b7d3a78e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857560475
+        }
+    ],
+    "wof:id":857560475,
+    "wof:lastmodified":1464203167,
+    "wof:name":"Johnny Cheng Airport Taxi",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.827561,
+    21.288799,
+    -157.827561,
+    21.288799
+],
+  "geometry": {"coordinates":[-157.827561,21.288799],"type":"Point"}
+}

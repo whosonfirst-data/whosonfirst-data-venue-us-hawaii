@@ -1,0 +1,75 @@
+{
+  "id": 857654609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825288,21.293917,-157.825288,21.293917",
+    "geom:latitude":21.293917,
+    "geom:longitude":-157.825288,
+    "iso:country":"US",
+    "sg:address":"1020 Isenberg St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 391 7777",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor",
+        "janitorial",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tV5qC9qbgdVWY0D5OtguC_21.293917_-157.825288@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205659,
+    "wof:geomhash":"433039359c71b8b4785a46f8deeb7a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857654609
+        }
+    ],
+    "wof:id":857654609,
+    "wof:lastmodified":1464205659,
+    "wof:name":"B Clean",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "janitorial",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.825288,
+    21.293917,
+    -157.825288,
+    21.293917
+],
+  "geometry": {"coordinates":[-157.825288,21.293917],"type":"Point"}
+}

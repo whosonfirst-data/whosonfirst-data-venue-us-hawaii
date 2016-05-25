@@ -1,0 +1,71 @@
+{
+  "id": 857616871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.016507,21.378246,-158.016507,21.378246",
+    "geom:latitude":21.378246,
+    "geom:longitude":-158.016507,
+    "iso:country":"US",
+    "sg:address":"263 Pupuole St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4098",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uz9cptetGEPnDWCk5SjM1_21.378246_-158.016507@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204356,
+    "wof:geomhash":"ac8331726ec141a9b8e8018786204044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857616871
+        }
+    ],
+    "wof:id":857616871,
+    "wof:lastmodified":1464204356,
+    "wof:name":"Kiwi Car Repair",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -158.016507,
+    21.378246,
+    -158.016507,
+    21.378246
+],
+  "geometry": {"coordinates":[-158.01650699999999,21.378246],"type":"Point"}
+}

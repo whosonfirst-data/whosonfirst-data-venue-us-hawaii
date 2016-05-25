@@ -1,0 +1,73 @@
+{
+  "id": 857643859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.963276,21.408434,-157.963276,21.408434",
+    "geom:latitude":21.408434,
+    "geom:longitude":-157.963276,
+    "iso:country":"US",
+    "sg:address":"1768 Hoolana St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 5235",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HD2sma91BJDyhNn99N8zk_21.408434_-157.963276@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205189,
+    "wof:geomhash":"bd056d86f66f398c88e7d978fa1cd77e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857643859
+        }
+    ],
+    "wof:id":857643859,
+    "wof:lastmodified":1464205189,
+    "wof:name":"Keakas Painting",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.963276,
+    21.408434,
+    -157.963276,
+    21.408434
+],
+  "geometry": {"coordinates":[-157.96327600000001,21.408434],"type":"Point"}
+}

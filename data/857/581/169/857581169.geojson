@@ -1,0 +1,75 @@
+{
+  "id": 857581169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.03907,19.622919,-155.03907,19.622919",
+    "geom:latitude":19.622919,
+    "geom:longitude":-155.03907,
+    "iso:country":"US",
+    "sg:address":"550 Old Volcano Rd",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 4853",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4doYBjzL472EMI3fxTV7sx_19.622919_-155.039070@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203574,
+    "wof:geomhash":"09ffd6a1edbc113f811a17e63913a39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857581169
+        }
+    ],
+    "wof:id":857581169,
+    "wof:lastmodified":1464203574,
+    "wof:name":"Keaau Village Market",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -155.03907,
+    19.622919,
+    -155.03907,
+    19.622919
+],
+  "geometry": {"coordinates":[-155.03907000000001,19.622919],"type":"Point"}
+}

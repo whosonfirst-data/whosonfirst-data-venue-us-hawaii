@@ -1,0 +1,71 @@
+{
+  "id": 857633565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802242,21.279443,-157.802242,21.279443",
+    "geom:latitude":21.279443,
+    "geom:longitude":-157.802242,
+    "iso:country":"US",
+    "sg:address":"942 11th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 5510",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wBCqv20u0IY20yvkNwZQm_21.279443_-157.802242@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204776,
+    "wof:geomhash":"26f53d707cdab34e9e818420c8228f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857633565
+        }
+    ],
+    "wof:id":857633565,
+    "wof:lastmodified":1464204776,
+    "wof:name":"King Builders Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.802242,
+    21.279443,
+    -157.802242,
+    21.279443
+],
+  "geometry": {"coordinates":[-157.80224200000001,21.279443],"type":"Point"}
+}

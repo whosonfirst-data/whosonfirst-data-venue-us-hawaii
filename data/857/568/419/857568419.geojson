@@ -1,0 +1,76 @@
+{
+  "id": 857568419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864223,21.31079,-157.864223,21.31079",
+    "geom:latitude":21.31079,
+    "geom:longitude":-157.864223,
+    "iso:country":"US",
+    "sg:address":"918 Smith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 7272",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oiKXYGcQhXlpnzWghyh4L_21.310790_-157.864223@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203323,
+    "wof:geomhash":"32f575eeb8cbccea33cf00f34c55db1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857568419
+        }
+    ],
+    "wof:id":857568419,
+    "wof:lastmodified":1464203323,
+    "wof:name":"Super 7 Mini Mart",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -157.864223,
+    21.31079,
+    -157.864223,
+    21.31079
+],
+  "geometry": {"coordinates":[-157.86422300000001,21.31079],"type":"Point"}
+}

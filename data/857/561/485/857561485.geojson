@@ -1,0 +1,69 @@
+{
+  "id": 857561485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.587864,21.924468,-159.587864,21.924468",
+    "geom:latitude":21.924468,
+    "geom:longitude":-159.587864,
+    "iso:country":"US",
+    "sg:address":"5117 Kaunaloa St",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 5895",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYebuO8tOwAoJE6XrYW5q_21.924468_-159.587864@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203191,
+    "wof:geomhash":"056a463862b0a6dc2fee9dafe2db4786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857561485
+        }
+    ],
+    "wof:id":857561485,
+    "wof:lastmodified":1464203191,
+    "wof:name":"Kakuda Construction Inc",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.587864,
+    21.924468,
+    -159.587864,
+    21.924468
+],
+  "geometry": {"coordinates":[-159.587864,21.924468],"type":"Point"}
+}

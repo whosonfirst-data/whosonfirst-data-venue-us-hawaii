@@ -1,0 +1,72 @@
+{
+  "id": 857543027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752907,21.278154,-157.752907,21.278154",
+    "geom:latitude":21.278154,
+    "geom:longitude":-157.752907,
+    "iso:country":"US",
+    "sg:address":"5286 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 2131",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.holynativity-hi.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RHzKjQepRhEVxFwUjg2BC_21.278154_-157.752907@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202802,
+    "wof:geomhash":"e19a574209bc27b93bc50ec598d7d39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857543027
+        }
+    ],
+    "wof:id":857543027,
+    "wof:lastmodified":1464202802,
+    "wof:name":"Church Of The Holy Nativity",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.752907,
+    21.278154,
+    -157.752907,
+    21.278154
+],
+  "geometry": {"coordinates":[-157.75290699999999,21.278154],"type":"Point"}
+}

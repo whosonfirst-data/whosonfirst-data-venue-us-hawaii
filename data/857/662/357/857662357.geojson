@@ -1,0 +1,71 @@
+{
+  "id": 857662357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997262,21.422645,-157.997262,21.422645",
+    "geom:latitude":21.422645,
+    "geom:longitude":-157.997262,
+    "iso:country":"US",
+    "sg:address":"1420 Moaniani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4611",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gvPj98ak6isFnGS5ppcB5_21.422645_-157.997262@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206024,
+    "wof:geomhash":"50a4a116b7f4468d8e01358f125dfc12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857662357
+        }
+    ],
+    "wof:id":857662357,
+    "wof:lastmodified":1464206024,
+    "wof:name":"Roadway Express Inc",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.997262,
+    21.422645,
+    -157.997262,
+    21.422645
+],
+  "geometry": {"coordinates":[-157.99726200000001,21.422645],"type":"Point"}
+}

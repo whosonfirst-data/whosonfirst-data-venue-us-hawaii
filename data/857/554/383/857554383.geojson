@@ -1,0 +1,71 @@
+{
+  "id": 857554383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029185,21.498256,-158.029185,21.498256",
+    "geom:latitude":21.498256,
+    "geom:longitude":-158.029185,
+    "iso:country":"US",
+    "sg:address":"656 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0111",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26A5CNEHGwvaRGVhgA38SJ_21.498256_-158.029185@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203015,
+    "wof:geomhash":"44b3a21e5ac7be9974510b9b87fc206a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857554383
+        }
+    ],
+    "wof:id":857554383,
+    "wof:lastmodified":1464203015,
+    "wof:name":"Hayashi Auto Repair",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.029185,
+    21.498256,
+    -158.029185,
+    21.498256
+],
+  "geometry": {"coordinates":[-158.02918500000001,21.498256],"type":"Point"}
+}

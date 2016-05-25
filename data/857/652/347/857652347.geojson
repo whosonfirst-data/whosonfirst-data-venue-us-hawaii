@@ -1,0 +1,71 @@
+{
+  "id": 857652347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79922,21.28277,-157.79922,21.28277",
+    "geom:latitude":21.28277,
+    "geom:longitude":-157.79922,
+    "iso:country":"US",
+    "sg:address":"3553 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 738 8666",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M2fsci88Vli8vPMlYNLlF_21.282770_-157.799220@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205560,
+    "wof:geomhash":"2129279d93a72b48e60965f38fa38cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857652347
+        }
+    ],
+    "wof:id":857652347,
+    "wof:lastmodified":1464205560,
+    "wof:name":"Happy Day",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.79922,
+    21.28277,
+    -157.79922,
+    21.28277
+],
+  "geometry": {"coordinates":[-157.79921999999999,21.28277],"type":"Point"}
+}

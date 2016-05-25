@@ -1,0 +1,71 @@
+{
+  "id": 857562347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87027,21.325205,-157.87027,21.325205",
+    "geom:latitude":21.325205,
+    "geom:longitude":-157.87027,
+    "iso:country":"US",
+    "sg:address":"1231 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5677",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OLsagS7LaDtfOv7sWMOlV_21.325205_-157.870270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203209,
+    "wof:geomhash":"366c168ea84bdf98c875dc7d600f4f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857562347
+        }
+    ],
+    "wof:id":857562347,
+    "wof:lastmodified":1464203209,
+    "wof:name":"Hawaii Supply LLC",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -157.87027,
+    21.325205,
+    -157.87027,
+    21.325205
+],
+  "geometry": {"coordinates":[-157.87027,21.325205],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857556553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.999838,21.411581,-157.999838,21.411581",
+    "geom:latitude":21.411581,
+    "geom:longitude":-157.999838,
+    "iso:country":"US",
+    "sg:address":"826 Ukee St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 4088",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58wL5bvQ3pE7jNIRlxCgXs_21.411581_-157.999838@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203062,
+    "wof:geomhash":"f81d5c5bd4221a48fb0642eec292da42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857556553
+        }
+    ],
+    "wof:id":857556553,
+    "wof:lastmodified":1464203062,
+    "wof:name":"Island Mini Mart 1050",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.999838,
+    21.411581,
+    -157.999838,
+    21.411581
+],
+  "geometry": {"coordinates":[-157.99983800000001,21.411581],"type":"Point"}
+}

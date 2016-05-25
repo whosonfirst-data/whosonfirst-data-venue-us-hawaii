@@ -1,0 +1,73 @@
+{
+  "id": 857650541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896786,21.343891,-157.896786,21.343891",
+    "geom:latitude":21.343891,
+    "geom:longitude":-157.896786,
+    "iso:country":"US",
+    "sg:address":"2850 Pukoloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 0466",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cHmSYYrQxhy3Nfq7UHh4r_21.343891_-157.896786@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205479,
+    "wof:geomhash":"9c2c2cf23e6b6124d0fa662c67d7c366",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857650541
+        }
+    ],
+    "wof:id":857650541,
+    "wof:lastmodified":1464205479,
+    "wof:name":"Service Lease Co",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.896786,
+    21.343891,
+    -157.896786,
+    21.343891
+],
+  "geometry": {"coordinates":[-157.89678599999999,21.343891],"type":"Point"}
+}

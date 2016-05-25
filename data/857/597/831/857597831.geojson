@@ -1,0 +1,80 @@
+{
+  "id": 857597831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901159,21.33423,-157.901159,21.33423",
+    "geom:latitude":21.33423,
+    "geom:longitude":-157.901159,
+    "iso:country":"US",
+    "sg:address":"2612 Waiwai Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 7335",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tu3UtfoaUeRzi1IejU7PJ_21.334230_-157.901159@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203939,
+    "wof:geomhash":"27fe46e69b9bb7d7711feb137fe95757",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857597831
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857597831
+        }
+    ],
+    "wof:id":857597831,
+    "wof:lastmodified":1464203939,
+    "wof:name":"Local Fever",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.901159,
+    21.33423,
+    -157.901159,
+    21.33423
+],
+  "geometry": {"coordinates":[-157.90115900000001,21.33423],"type":"Point"}
+}

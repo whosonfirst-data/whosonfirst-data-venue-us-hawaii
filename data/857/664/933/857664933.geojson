@@ -1,0 +1,72 @@
+{
+  "id": 857664933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.91281,21.350836,-157.91281,21.350836",
+    "geom:latitude":21.350836,
+    "geom:longitude":-157.91281,
+    "iso:country":"US",
+    "sg:address":"1131 Ala Lilikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 7870",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.saltlake.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x4R1KVIh8ElkTtlXyDcH8_21.350836_-157.912810@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206119,
+    "wof:geomhash":"a25de3992c9ec7ce830dfcecf4bc3071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857664933
+        }
+    ],
+    "wof:id":857664933,
+    "wof:lastmodified":1464206119,
+    "wof:name":"Salt Lake Elementary School",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.91281,
+    21.350836,
+    -157.91281,
+    21.350836
+],
+  "geometry": {"coordinates":[-157.91281000000001,21.350836],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857610525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875335,21.329776,-157.875335,21.329776",
+    "geom:latitude":21.329776,
+    "geom:longitude":-157.875335,
+    "iso:country":"US",
+    "sg:address":"1555 Haka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 0804",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pdY4GzQVuGRodXX6c5evx_21.329776_-157.875335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204218,
+    "wof:geomhash":"89b616a276f4ef4846389f63ae5f2bbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857610525
+        }
+    ],
+    "wof:id":857610525,
+    "wof:lastmodified":1464204218,
+    "wof:name":"Honolulu Community Action Prog",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.875335,
+    21.329776,
+    -157.875335,
+    21.329776
+],
+  "geometry": {"coordinates":[-157.87533500000001,21.329776],"type":"Point"}
+}

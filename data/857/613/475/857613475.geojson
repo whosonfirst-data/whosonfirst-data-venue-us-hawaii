@@ -1,0 +1,71 @@
+{
+  "id": 857613475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81738,21.28813,-157.81738,21.28813",
+    "geom:latitude":21.28813,
+    "geom:longitude":-157.81738,
+    "iso:country":"US",
+    "sg:address":"2755 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 3689",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sPf6CEdMP5VaLGKRP5qwa_21.288130_-157.817380@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204292,
+    "wof:geomhash":"e0de4b1b01dc2c81923e46a383869165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857613475
+        }
+    ],
+    "wof:id":857613475,
+    "wof:lastmodified":1464204292,
+    "wof:name":"Kapiolani Palms",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.81738,
+    21.28813,
+    -157.81738,
+    21.28813
+],
+  "geometry": {"coordinates":[-157.81738000000001,21.28813],"type":"Point"}
+}

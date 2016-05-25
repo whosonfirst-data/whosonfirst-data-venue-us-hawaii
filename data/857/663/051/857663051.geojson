@@ -1,0 +1,71 @@
+{
+  "id": 857663051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826354,21.294571,-157.826354,21.294571",
+    "geom:latitude":21.294571,
+    "geom:longitude":-157.826354,
+    "iso:country":"US",
+    "sg:address":"2218 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7431",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6URyqfijTQExsp6GEfW3x9_21.294571_-157.826354@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206051,
+    "wof:geomhash":"fb8830fc4c8f340adc37dedbdeecda3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857663051
+        }
+    ],
+    "wof:id":857663051,
+    "wof:lastmodified":1464206051,
+    "wof:name":"Honolulu Chnese Aliance Church",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -157.826354,
+    21.294571,
+    -157.826354,
+    21.294571
+],
+  "geometry": {"coordinates":[-157.82635400000001,21.294571],"type":"Point"}
+}

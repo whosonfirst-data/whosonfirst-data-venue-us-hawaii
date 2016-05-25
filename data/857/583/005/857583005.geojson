@@ -1,0 +1,75 @@
+{
+  "id": 857583005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87411,21.301423,-157.87411,21.301423",
+    "geom:latitude":21.301423,
+    "geom:longitude":-157.87411,
+    "iso:country":"US",
+    "sg:address":"5 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5787",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "liquor",
+        "rectifier",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ytMK8SAY9XK78LkmBqpKE_21.301423_-157.874110@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203608,
+    "wof:geomhash":"ed87df130f3a77c32a18490791e5dffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857583005
+        }
+    ],
+    "wof:id":857583005,
+    "wof:lastmodified":1464203608,
+    "wof:name":"Kona Traders",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "rectifier",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -157.87411,
+    21.301423,
+    -157.87411,
+    21.301423
+],
+  "geometry": {"coordinates":[-157.87411,21.301423],"type":"Point"}
+}

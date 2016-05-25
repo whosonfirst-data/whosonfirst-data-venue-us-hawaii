@@ -1,0 +1,73 @@
+{
+  "id": 857539219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802221,21.29906,-157.802221,21.29906",
+    "geom:latitude":21.29906,
+    "geom:longitude":-157.802221,
+    "iso:country":"US",
+    "sg:address":"2250 Saint Louis Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 3376",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P4w8099pQ7ubMCjYZtb5w_21.299060_-157.802221@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202723,
+    "wof:geomhash":"724fe3ce021dd79a481382f1f657ffff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857539219
+        }
+    ],
+    "wof:id":857539219,
+    "wof:lastmodified":1464202723,
+    "wof:name":"J T Capital",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -157.802221,
+    21.29906,
+    -157.802221,
+    21.29906
+],
+  "geometry": {"coordinates":[-157.802221,21.29906],"type":"Point"}
+}

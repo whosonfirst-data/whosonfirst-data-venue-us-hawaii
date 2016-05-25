@@ -1,0 +1,71 @@
+{
+  "id": 857583553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.740183,21.426968,-157.740183,21.426968",
+    "geom:latitude":21.426968,
+    "geom:longitude":-157.740183,
+    "iso:country":"US",
+    "sg:address":"649 Ilikai St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 3159",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07P8QcJDcpMdoKdbmzB37w_21.426968_-157.740183@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203618,
+    "wof:geomhash":"494b5c4dc327a8ba0d60db2246a79a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857583553
+        }
+    ],
+    "wof:id":857583553,
+    "wof:lastmodified":1464203618,
+    "wof:name":"Oahu Home Inspection Svc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -157.740183,
+    21.426968,
+    -157.740183,
+    21.426968
+],
+  "geometry": {"coordinates":[-157.740183,21.426968],"type":"Point"}
+}

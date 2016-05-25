@@ -1,0 +1,71 @@
+{
+  "id": 857542235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.950362,21.385461,-157.950362,21.385461",
+    "geom:latitude":21.385461,
+    "geom:longitude":-157.950362,
+    "iso:country":"US",
+    "sg:address":"44 Kamehameha Hwy",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 1223",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nDHmTrMg3dYiYhJOGIeQ3_21.385461_-157.950362@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202785,
+    "wof:geomhash":"ba0cfbba227df24b41f77d72b86f1bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857542235
+        }
+    ],
+    "wof:id":857542235,
+    "wof:lastmodified":1464202785,
+    "wof:name":"Styles Unlimited",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.950362,
+    21.385461,
+    -157.950362,
+    21.385461
+],
+  "geometry": {"coordinates":[-157.95036200000001,21.385461],"type":"Point"}
+}

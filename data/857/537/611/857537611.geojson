@@ -1,0 +1,73 @@
+{
+  "id": 857537611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.098075,21.299668,-158.098075,21.299668",
+    "geom:latitude":21.299668,
+    "geom:longitude":-158.098075,
+    "iso:country":"US",
+    "sg:address":"269 Olai St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 0726",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fOYxntnghkWc8O1aP7FXS_21.299668_-158.098075@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202691,
+    "wof:geomhash":"b4aaaae73cd342d1ffde1dba65dcce5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857537611
+        }
+    ],
+    "wof:id":857537611,
+    "wof:lastmodified":1464202691,
+    "wof:name":"Island Pumping & Svc Inc",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.098075,
+    21.299668,
+    -158.098075,
+    21.299668
+],
+  "geometry": {"coordinates":[-158.09807499999999,21.299668],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857643749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881226,21.335084,-157.881226,21.335084",
+    "geom:latitude":21.335084,
+    "geom:longitude":-157.881226,
+    "iso:country":"US",
+    "sg:address":"2295 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7126",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M7I8RT528AkArYGHfT94z_21.335084_-157.881226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205183,
+    "wof:geomhash":"c1e4c1f6ffcdbdd56378f31b80aeacab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857643749
+        }
+    ],
+    "wof:id":857643749,
+    "wof:lastmodified":1464205183,
+    "wof:name":"Kalihi Family Medical Clinic",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.881226,
+    21.335084,
+    -157.881226,
+    21.335084
+],
+  "geometry": {"coordinates":[-157.881226,21.335084],"type":"Point"}
+}

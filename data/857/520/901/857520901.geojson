@@ -1,0 +1,71 @@
+{
+  "id": 857520901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.893791,21.356173,-157.893791,21.356173",
+    "geom:latitude":21.356173,
+    "geom:longitude":-157.893791,
+    "iso:country":"US",
+    "sg:address":"1 Jarrett White Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 433 5716",
+    "sg:postcode":"96859",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hK0dNNI3Sssq2EtbwT7Rn_21.356173_-157.893791@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202370,
+    "wof:geomhash":"3383841d53e780074731fc84dfb27d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857520901
+        }
+    ],
+    "wof:id":857520901,
+    "wof:lastmodified":1464202370,
+    "wof:name":"USA Triple Armymed Ctr",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.893791,
+    21.356173,
+    -157.893791,
+    21.356173
+],
+  "geometry": {"coordinates":[-157.89379099999999,21.356173],"type":"Point"}
+}

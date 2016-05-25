@@ -1,0 +1,71 @@
+{
+  "id": 857669367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018181,21.376127,-158.018181,21.376127",
+    "geom:latitude":21.376127,
+    "geom:longitude":-158.018181,
+    "iso:country":"US",
+    "sg:address":"147 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 8805",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47QrtFg7fojvFq0HfgX4Cq_21.376127_-158.018181@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206316,
+    "wof:geomhash":"67b09f795c667848c73691ce6df983da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857669367
+        }
+    ],
+    "wof:id":857669367,
+    "wof:lastmodified":1464206316,
+    "wof:name":"Scoopers",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.018181,
+    21.376127,
+    -158.018181,
+    21.376127
+],
+  "geometry": {"coordinates":[-158.018181,21.376127],"type":"Point"}
+}

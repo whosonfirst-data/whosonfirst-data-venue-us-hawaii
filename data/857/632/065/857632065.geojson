@@ -1,0 +1,68 @@
+{
+  "id": 857632065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.376743,20.908784,-156.376743,20.908784",
+    "geom:latitude":20.908784,
+    "geom:longitude":-156.376743,
+    "iso:country":"US",
+    "sg:address":"30 Baldwin Ave",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 8021",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HyHBfioANelJgdDvENgiT_20.908784_-156.376743@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204716,
+    "wof:geomhash":"c64a58dc4bb122b73a1fd5fa4a5a4968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857632065
+        }
+    ],
+    "wof:id":857632065,
+    "wof:lastmodified":1464204716,
+    "wof:name":"Cafe Mambo",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.376743,
+    20.908784,
+    -156.376743,
+    20.908784
+],
+  "geometry": {"coordinates":[-156.376743,20.908784],"type":"Point"}
+}

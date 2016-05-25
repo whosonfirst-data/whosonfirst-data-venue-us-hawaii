@@ -1,0 +1,78 @@
+{
+  "id": 857545193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.446018,20.894531,-156.446018,20.894531",
+    "geom:latitude":20.894531,
+    "geom:longitude":-156.446018,
+    "iso:country":"US",
+    "sg:address":"687 Kahale St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 7781",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delivery",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JRnBKmSQaJ4aRuwB846aS_20.894531_-156.446018@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202843,
+    "wof:geomhash":"e7087179822843c4963af68d2eb87324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857545193
+        }
+    ],
+    "wof:id":857545193,
+    "wof:lastmodified":1464202843,
+    "wof:name":"T Sniffen & Sons",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -156.446018,
+    20.894531,
+    -156.446018,
+    20.894531
+],
+  "geometry": {"coordinates":[-156.44601800000001,20.894531],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857608753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.18268,21.430869,-158.18268,21.430869",
+    "geom:latitude":21.430869,
+    "geom:longitude":-158.18268,
+    "iso:country":"US",
+    "sg:address":"220 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 3421",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eRlmOD0lLwdlXNxeoKOmA_21.430869_-158.182680@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204181,
+    "wof:geomhash":"12ef8bcb319399bd5bb690ef5b26b321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857608753
+        }
+    ],
+    "wof:id":857608753,
+    "wof:lastmodified":1464204181,
+    "wof:name":"Road Maintenance Div",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -158.18268,
+    21.430869,
+    -158.18268,
+    21.430869
+],
+  "geometry": {"coordinates":[-158.18268,21.430869],"type":"Point"}
+}

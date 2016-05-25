@@ -1,0 +1,68 @@
+{
+  "id": 857642865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.363745,21.976191,-159.363745,21.976191",
+    "geom:latitude":21.976191,
+    "geom:longitude":-159.363745,
+    "iso:country":"US",
+    "sg:address":"4344 Hardy St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 241 3222",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wp8ial1HypStZxirbcQpc_21.976191_-159.363745@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205133,
+    "wof:geomhash":"d5c5ac239b580cbd476fa51a16bd3782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857642865
+        }
+    ],
+    "wof:id":857642865,
+    "wof:lastmodified":1464205133,
+    "wof:name":"Lihue Public Library",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.363745,
+    21.976191,
+    -159.363745,
+    21.976191
+],
+  "geometry": {"coordinates":[-159.36374499999999,21.976191],"type":"Point"}
+}

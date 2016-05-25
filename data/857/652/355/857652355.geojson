@@ -1,0 +1,80 @@
+{
+  "id": 857652355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.449298,20.889035,-156.449298,20.889035",
+    "geom:latitude":20.889035,
+    "geom:longitude":-156.449298,
+    "iso:country":"US",
+    "sg:address":"874 Keolani Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 7477",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MYQE3jiOpQt2IwsSXkVZS_20.889035_-156.449298@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205560,
+    "wof:geomhash":"12552153eb8914353c19dd6c2bdd8b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857652355
+        }
+    ],
+    "wof:id":857652355,
+    "wof:lastmodified":1464205560,
+    "wof:name":"Hankyu Express USA Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -156.449298,
+    20.889035,
+    -156.449298,
+    20.889035
+],
+  "geometry": {"coordinates":[-156.449298,20.889035],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857576735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907525,21.333419,-157.907525,21.333419",
+    "geom:latitude":21.333419,
+    "geom:longitude":-157.907525,
+    "iso:country":"US",
+    "sg:address":"2815 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 0654",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tOVaUFGF7snEzzs33n8DU_21.333419_-157.907525@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203484,
+    "wof:geomhash":"be65ef7ad14a433942e9f8d0b2cf04a6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857576735
+        }
+    ],
+    "wof:id":857576735,
+    "wof:lastmodified":1464203484,
+    "wof:name":"Lims Auto Service",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.907525,
+    21.333419,
+    -157.907525,
+    21.333419
+],
+  "geometry": {"coordinates":[-157.90752499999999,21.333419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857675891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831655,21.289399,-157.831655,21.289399",
+    "geom:latitude":21.289399,
+    "geom:longitude":-157.831655,
+    "iso:country":"US",
+    "sg:address":"2048 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 6740",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gg9m345xHsebLhBKmvpmV_21.289399_-157.831655@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206573,
+    "wof:geomhash":"6276133502b02326ee3980a54d3c6e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857675891
+        }
+    ],
+    "wof:id":857675891,
+    "wof:lastmodified":1464206573,
+    "wof:name":"Waikiki Holiday Apartment",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.831655,
+    21.289399,
+    -157.831655,
+    21.289399
+],
+  "geometry": {"coordinates":[-157.83165500000001,21.289399],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857538461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.68513,21.293512,-157.68513,21.293512",
+    "geom:latitude":21.293512,
+    "geom:longitude":-157.68513,
+    "iso:country":"US",
+    "sg:address":"7788 Hawaii Kai Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 397 5800",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.kamiloiki.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z0TqMFTrcNwLde40Snzjx_21.293512_-157.685130@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202707,
+    "wof:geomhash":"3743481b6682b1d429825b7882844a8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857538461
+        }
+    ],
+    "wof:id":857538461,
+    "wof:lastmodified":1464202707,
+    "wof:name":"Kamiloiki Elementary School",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.68513,
+    21.293512,
+    -157.68513,
+    21.293512
+],
+  "geometry": {"coordinates":[-157.68512999999999,21.293512],"type":"Point"}
+}

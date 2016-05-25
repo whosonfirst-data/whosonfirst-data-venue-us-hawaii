@@ -1,0 +1,71 @@
+{
+  "id": 857614751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00672,21.500925,-158.00672,21.500925",
+    "geom:latitude":21.500925,
+    "geom:longitude":-158.00672,
+    "iso:country":"US",
+    "sg:address":"1725 Walea St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 2215",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nxXEQHQ8lrZPHW2mDtPts_21.500925_-158.006720@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204315,
+    "wof:geomhash":"a745563d72fb2d911cca279196d825f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857614751
+        }
+    ],
+    "wof:id":857614751,
+    "wof:lastmodified":1464204315,
+    "wof:name":"PMI",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.00672,
+    21.500925,
+    -158.00672,
+    21.500925
+],
+  "geometry": {"coordinates":[-158.00672,21.500925],"type":"Point"}
+}

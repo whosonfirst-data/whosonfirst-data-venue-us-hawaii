@@ -1,0 +1,73 @@
+{
+  "id": 857679951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.924018,21.359808,-157.924018,21.359808",
+    "geom:latitude":21.359808,
+    "geom:longitude":-157.924018,
+    "iso:country":"US",
+    "sg:address":"1118 Kukila Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 428 2308",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e1SZHhcGQ50eTVVfj6nr3_21.359808_-157.924018@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206727,
+    "wof:geomhash":"19a715bb4d3e162fd1c03cd0c0083c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857679951
+        }
+    ],
+    "wof:id":857679951,
+    "wof:lastmodified":1464206727,
+    "wof:name":"Roys Electrical",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.924018,
+    21.359808,
+    -157.924018,
+    21.359808
+],
+  "geometry": {"coordinates":[-157.92401799999999,21.359808],"type":"Point"}
+}

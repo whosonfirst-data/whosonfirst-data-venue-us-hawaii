@@ -1,0 +1,71 @@
+{
+  "id": 857599693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838166,21.300499,-157.838166,21.300499",
+    "geom:latitude":21.300499,
+    "geom:longitude":-157.838166,
+    "iso:country":"US",
+    "sg:address":"1227 Makiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7809",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vo0sSl0gG9B3bywnXuCYx_21.300499_-157.838166@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203977,
+    "wof:geomhash":"006a9d434cecede40d0f124c70525995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857599693
+        }
+    ],
+    "wof:id":857599693,
+    "wof:lastmodified":1464203977,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -157.838166,
+    21.300499,
+    -157.838166,
+    21.300499
+],
+  "geometry": {"coordinates":[-157.838166,21.300499],"type":"Point"}
+}

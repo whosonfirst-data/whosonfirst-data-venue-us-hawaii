@@ -1,0 +1,73 @@
+{
+  "id": 857560503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.000033,21.453581,-158.000033,21.453581",
+    "geom:latitude":21.453581,
+    "geom:longitude":-158.000033,
+    "iso:country":"US",
+    "sg:address":"736 Lanipaa St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 3186",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fG7cjP8UtdEir9ALCn6Fp_21.453581_-158.000033@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203169,
+    "wof:geomhash":"1edab03a2e1f0cbed99d9bc42cd9900b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857560503
+        }
+    ],
+    "wof:id":857560503,
+    "wof:lastmodified":1464203169,
+    "wof:name":"Ed Oshita Roofing",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.000033,
+    21.453581,
+    -158.000033,
+    21.453581
+],
+  "geometry": {"coordinates":[-158.000033,21.453581],"type":"Point"}
+}

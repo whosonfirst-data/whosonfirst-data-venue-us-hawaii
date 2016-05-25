@@ -1,0 +1,66 @@
+{
+  "id": 857626331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820746,21.291167,-157.820746,21.291167",
+    "geom:latitude":21.291167,
+    "geom:longitude":-157.820746,
+    "iso:country":"US",
+    "sg:address":"2737 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8648",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UzQbTpREuscUIZFaD6R1R_21.291167_-157.820746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204589,
+    "wof:geomhash":"6af2139bc003b6ecd53815affb9db2f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857626331
+        }
+    ],
+    "wof:id":857626331,
+    "wof:lastmodified":1464204589,
+    "wof:name":"Moiliili Sundries & Grocery",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.820746,
+    21.291167,
+    -157.820746,
+    21.291167
+],
+  "geometry": {"coordinates":[-157.82074600000001,21.291167],"type":"Point"}
+}

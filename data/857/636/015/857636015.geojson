@@ -1,0 +1,69 @@
+{
+  "id": 857636015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.37449,22.102167,-159.37449,22.102167",
+    "geom:latitude":22.102167,
+    "geom:longitude":-159.37449,
+    "iso:country":"US",
+    "sg:address":"1737 Hulu Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3290",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gc9Kvyjx9TfmgjPsPHpRQ_22.102167_-159.374490@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204868,
+    "wof:geomhash":"c6fe8468a2399dc29840404f25c43794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857636015
+        }
+    ],
+    "wof:id":857636015,
+    "wof:lastmodified":1464204868,
+    "wof:name":"Stan's Horseshoeing",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -159.37449,
+    22.102167,
+    -159.37449,
+    22.102167
+],
+  "geometry": {"coordinates":[-159.37449000000001,22.102167],"type":"Point"}
+}

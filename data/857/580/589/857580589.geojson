@@ -1,0 +1,71 @@
+{
+  "id": 857580589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.103343,21.593308,-158.103343,21.593308",
+    "geom:latitude":21.593308,
+    "geom:longitude":-158.103343,
+    "iso:country":"US",
+    "sg:address":"24 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 8207",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ieRWGPgUn5X6r8PKp2m9_21.593308_-158.103343@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203564,
+    "wof:geomhash":"81a9654ac1c3d27222f499181da23858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857580589
+        }
+    ],
+    "wof:id":857580589,
+    "wof:lastmodified":1464203564,
+    "wof:name":"Ted's Bakery",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -158.103343,
+    21.593308,
+    -158.103343,
+    21.593308
+],
+  "geometry": {"coordinates":[-158.103343,21.593308],"type":"Point"}
+}

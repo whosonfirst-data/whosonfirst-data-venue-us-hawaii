@@ -1,0 +1,73 @@
+{
+  "id": 857533931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832604,21.279141,-157.832604,21.279141",
+    "geom:latitude":21.279141,
+    "geom:longitude":-157.832604,
+    "iso:country":"US",
+    "sg:address":"2169 Kalia Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 3111",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zEUzpCCBsdTDCdAp8SIbM_21.279141_-157.832604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202620,
+    "wof:geomhash":"0f1a36fb0f0ea84d60a9b07e0bd7fce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857533931
+        }
+    ],
+    "wof:id":857533931,
+    "wof:lastmodified":1464202620,
+    "wof:name":"Budget Rent-A-Car",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.832604,
+    21.279141,
+    -157.832604,
+    21.279141
+],
+  "geometry": {"coordinates":[-157.832604,21.279141],"type":"Point"}
+}

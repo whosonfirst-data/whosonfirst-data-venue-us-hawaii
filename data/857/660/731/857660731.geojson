@@ -1,0 +1,74 @@
+{
+  "id": 857660731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88003,21.326332,-157.88003,21.326332",
+    "geom:latitude":21.326332,
+    "geom:longitude":-157.88003,
+    "iso:country":"US",
+    "sg:address":"1553 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7800",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "telecommunication"
+    ],
+    "sg:website":"www.ccsi-solutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UqhMB0ZnKket7gSzdUASs_21.326332_-157.880030@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205941,
+    "wof:geomhash":"0c769dc93ae721380dce27fbee486de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857660731
+        }
+    ],
+    "wof:id":857660731,
+    "wof:lastmodified":1464205941,
+    "wof:name":"Communication Consulting Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -157.88003,
+    21.326332,
+    -157.88003,
+    21.326332
+],
+  "geometry": {"coordinates":[-157.88003,21.326332],"type":"Point"}
+}

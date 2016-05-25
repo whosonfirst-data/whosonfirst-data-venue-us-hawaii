@@ -1,0 +1,82 @@
+{
+  "id": 857657101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898869,21.337821,-157.898869,21.337821",
+    "geom:latitude":21.337821,
+    "geom:longitude":-157.898869,
+    "iso:country":"US",
+    "sg:address":"2847 Awaawaloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 7700",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vGtMAc7KubMyRg4bKa7bq_21.337821_-157.898869@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205772,
+    "wof:geomhash":"a4731f3b3aa787e5c240f22e31dc264e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857657101
+        }
+    ],
+    "wof:id":857657101,
+    "wof:lastmodified":1464205772,
+    "wof:name":"A-1 Body & Fender Shop",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.898869,
+    21.337821,
+    -157.898869,
+    21.337821
+],
+  "geometry": {"coordinates":[-157.89886899999999,21.337821],"type":"Point"}
+}

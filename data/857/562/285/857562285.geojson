@@ -1,0 +1,75 @@
+{
+  "id": 857562285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.331352,20.924478,-156.331352,20.924478",
+    "geom:latitude":20.924478,
+    "geom:longitude":-156.331352,
+    "iso:country":"US",
+    "sg:address":"400 Waiama Way",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 2725",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937689,
+        102085577,
+        85890097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kqMfpshvHrEAHZiWO8rOh_20.924478_-156.331352@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203208,
+    "wof:geomhash":"0a8bc5de4154f5aa1d92290bc3043ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890097,
+            "region_id":85688671,
+            "venue_id":857562285
+        }
+    ],
+    "wof:id":857562285,
+    "wof:lastmodified":1464203208,
+    "wof:name":"Maui Mayco Pump Svc",
+    "wof:parent_id":85890097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -156.331352,
+    20.924478,
+    -156.331352,
+    20.924478
+],
+  "geometry": {"coordinates":[-156.33135200000001,20.924478],"type":"Point"}
+}

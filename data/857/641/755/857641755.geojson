@@ -1,0 +1,75 @@
+{
+  "id": 857641755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859806,21.309631,-157.859806,21.309631",
+    "geom:latitude":21.309631,
+    "geom:longitude":-157.859806,
+    "iso:country":"US",
+    "sg:address":"1111 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 2326",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0edR13jlYATO3TWV8Gt2ut_21.309631_-157.859806@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205090,
+    "wof:geomhash":"d4214367d2df556351107edb56b23d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857641755
+        }
+    ],
+    "wof:id":857641755,
+    "wof:lastmodified":1464205090,
+    "wof:name":"Coffee Expressions",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.859806,
+    21.309631,
+    -157.859806,
+    21.309631
+],
+  "geometry": {"coordinates":[-157.85980599999999,21.309631],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857507573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.067752,19.701939,-155.067752,19.701939",
+    "geom:latitude":19.701939,
+    "geom:longitude":-155.067752,
+    "iso:country":"US",
+    "sg:address":"240 Makaala St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 0543",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H6DN4xwsJm4ueltY9dJe6_19.701939_-155.067752@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202097,
+    "wof:geomhash":"7d061eb2855c29e2c0bc4c5a389eac47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857507573
+        }
+    ],
+    "wof:id":857507573,
+    "wof:lastmodified":1464202097,
+    "wof:name":"Pacific Macadamia Nut Corp",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -155.067752,
+    19.701939,
+    -155.067752,
+    19.701939
+],
+  "geometry": {"coordinates":[-155.06775200000001,19.701939],"type":"Point"}
+}

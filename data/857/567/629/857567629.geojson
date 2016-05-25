@@ -1,0 +1,73 @@
+{
+  "id": 857567629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.751211,21.282637,-157.751211,21.282637",
+    "geom:latitude":21.282637,
+    "geom:longitude":-157.751211,
+    "iso:country":"US",
+    "sg:address":"5403 Opihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 2029",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hv5ycH1eqaaJKqQt6qgBs_21.282637_-157.751211@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203309,
+    "wof:geomhash":"f01480e461ab95a1f9ee3293f58d34b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857567629
+        }
+    ],
+    "wof:id":857567629,
+    "wof:lastmodified":1464203309,
+    "wof:name":"Pacific Central Electric",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.751211,
+    21.282637,
+    -157.751211,
+    21.282637
+],
+  "geometry": {"coordinates":[-157.75121100000001,21.282637],"type":"Point"}
+}

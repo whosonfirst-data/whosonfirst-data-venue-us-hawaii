@@ -1,0 +1,73 @@
+{
+  "id": 857667373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848027,21.331969,-157.848027,21.331969",
+    "geom:latitude":21.331969,
+    "geom:longitude":-157.848027,
+    "iso:country":"US",
+    "sg:address":"2411 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6132",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ujZF4LJrVsJ4MAe5G4lDB_21.331969_-157.848027@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206237,
+    "wof:geomhash":"516140e12a2230d0875330d5ab42c6b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857667373
+        }
+    ],
+    "wof:id":857667373,
+    "wof:lastmodified":1464206237,
+    "wof:name":"Anamizu Electric",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.848027,
+    21.331969,
+    -157.848027,
+    21.331969
+],
+  "geometry": {"coordinates":[-157.848027,21.331969],"type":"Point"}
+}

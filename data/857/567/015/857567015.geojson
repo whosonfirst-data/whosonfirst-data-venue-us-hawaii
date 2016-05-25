@@ -1,0 +1,71 @@
+{
+  "id": 857567015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821871,21.288887,-157.821871,21.288887",
+    "geom:latitude":21.288887,
+    "geom:longitude":-157.821871,
+    "iso:country":"US",
+    "sg:address":"2714 Kahoaloha Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 3656",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h8ZzBcHaOk2dPK0ZQO8l0_21.288887_-157.821871@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203298,
+    "wof:geomhash":"a17c297c2764aa595197c3871db3d950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857567015
+        }
+    ],
+    "wof:id":857567015,
+    "wof:lastmodified":1464203298,
+    "wof:name":"Tech Service Co",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.821871,
+    21.288887,
+    -157.821871,
+    21.288887
+],
+  "geometry": {"coordinates":[-157.82187099999999,21.288887],"type":"Point"}
+}

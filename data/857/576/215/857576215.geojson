@@ -1,0 +1,71 @@
+{
+  "id": 857576215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.507017,20.895459,-156.507017,20.895459",
+    "geom:latitude":20.895459,
+    "geom:longitude":-156.507017,
+    "iso:country":"US",
+    "sg:address":"332 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 879 2497",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGszyOQoDhM9UNkzmXaaw_20.895459_-156.507017@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203474,
+    "wof:geomhash":"e2ad5af83022a0c260d30d5be11e9937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857576215
+        }
+    ],
+    "wof:id":857576215,
+    "wof:lastmodified":1464203474,
+    "wof:name":"Happy Valley Hale Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -156.507017,
+    20.895459,
+    -156.507017,
+    20.895459
+],
+  "geometry": {"coordinates":[-156.50701699999999,20.895459],"type":"Point"}
+}

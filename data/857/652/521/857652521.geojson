@@ -1,0 +1,73 @@
+{
+  "id": 857652521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.359207,21.967644,-159.359207,21.967644",
+    "geom:latitude":21.967644,
+    "geom:longitude":-159.359207,
+    "iso:country":"US",
+    "sg:address":"2979 Ohiohi St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 3227",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l1CFdXgomaMgJ7D5Qa1ZK_21.967644_-159.359207@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205566,
+    "wof:geomhash":"d2fe9ca8bb9d6c9ef6ee81d60ea52433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857652521
+        }
+    ],
+    "wof:id":857652521,
+    "wof:lastmodified":1464205566,
+    "wof:name":"City Cab",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -159.359207,
+    21.967644,
+    -159.359207,
+    21.967644
+],
+  "geometry": {"coordinates":[-159.359207,21.967644],"type":"Point"}
+}

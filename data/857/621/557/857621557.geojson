@@ -1,0 +1,71 @@
+{
+  "id": 857621557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.765181,21.414091,-157.765181,21.414091",
+    "geom:latitude":21.414091,
+    "geom:longitude":-157.765181,
+    "iso:country":"US",
+    "sg:address":"137 Kauinohea Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 234 7828",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aN10y5Mpmkn9TNbFho5mB_21.414091_-157.765181@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204464,
+    "wof:geomhash":"ee1b58fb8d5cb60ef2a5cccd75c57e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857621557
+        }
+    ],
+    "wof:id":857621557,
+    "wof:lastmodified":1464204464,
+    "wof:name":"Darryl Monceaux",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -157.765181,
+    21.414091,
+    -157.765181,
+    21.414091
+],
+  "geometry": {"coordinates":[-157.76518100000001,21.414091],"type":"Point"}
+}

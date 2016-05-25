@@ -1,0 +1,78 @@
+{
+  "id": 857641543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.673291,21.3008,-157.673291,21.3008",
+    "geom:latitude":21.3008,
+    "geom:longitude":-157.673291,
+    "iso:country":"US",
+    "sg:address":"7534 Muolea Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 4341",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tennis",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B6zvw6luix0wd75ZJeoDb_21.300800_-157.673291@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205081,
+    "wof:geomhash":"040bc7b7dc43ab3d11256f1208f2179c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857641543
+        }
+    ],
+    "wof:id":857641543,
+    "wof:lastmodified":1464205081,
+    "wof:name":"Alan's Tennis Etc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -157.673291,
+    21.3008,
+    -157.673291,
+    21.3008
+],
+  "geometry": {"coordinates":[-157.67329100000001,21.3008],"type":"Point"}
+}

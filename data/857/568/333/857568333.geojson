@@ -1,0 +1,73 @@
+{
+  "id": 857568333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823028,21.292253,-157.823028,21.292253",
+    "geom:latitude":21.292253,
+    "geom:longitude":-157.823028,
+    "iso:country":"US",
+    "sg:address":"2525 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6665",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oCgeJagFVNZwx1M5gA6X3_21.292253_-157.823028@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203321,
+    "wof:geomhash":"4e44e653e1e5ae873eda99bfe8addf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857568333
+        }
+    ],
+    "wof:id":857568333,
+    "wof:lastmodified":1464203321,
+    "wof:name":"T Fukumura MD",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.823028,
+    21.292253,
+    -157.823028,
+    21.292253
+],
+  "geometry": {"coordinates":[-157.82302799999999,21.292253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857575379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.078679,19.719252,-155.078679,19.719252",
+    "geom:latitude":19.719252,
+    "geom:longitude":-155.078679,
+    "iso:country":"US",
+    "sg:address":"25 Aupuni St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 8310",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zNUDaP4maECPF1D7eRtW7_19.719252_-155.078679@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203459,
+    "wof:geomhash":"f73fd5de5946f2d087a099b220d7ae70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857575379
+        }
+    ],
+    "wof:id":857575379,
+    "wof:lastmodified":1464203459,
+    "wof:name":"Adminstration Office",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -155.078679,
+    19.719252,
+    -155.078679,
+    19.719252
+],
+  "geometry": {"coordinates":[-155.07867899999999,19.719252],"type":"Point"}
+}

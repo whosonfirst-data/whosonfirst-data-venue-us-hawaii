@@ -1,0 +1,69 @@
+{
+  "id": 857636867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.094881,21.29997,-158.094881,21.29997",
+    "geom:latitude":21.29997,
+    "geom:longitude":-158.094881,
+    "iso:country":"US",
+    "sg:address":"222 Olai St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 0612",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M8AX8LdK72GzfZF73oHNd_21.299970_-158.094881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204899,
+    "wof:geomhash":"d1ae3511080f487328c75689f8732845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857636867
+        }
+    ],
+    "wof:id":857636867,
+    "wof:lastmodified":1464204899,
+    "wof:name":"Family Towing",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -158.094881,
+    21.29997,
+    -158.094881,
+    21.29997
+],
+  "geometry": {"coordinates":[-158.09488099999999,21.29997],"type":"Point"}
+}

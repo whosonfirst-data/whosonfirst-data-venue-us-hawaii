@@ -1,0 +1,71 @@
+{
+  "id": 857583795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889087,21.316561,-157.889087,21.316561",
+    "geom:latitude":21.316561,
+    "geom:longitude":-157.889087,
+    "iso:country":"US",
+    "sg:address":"5 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5787",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "distiller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d0IGDZbjazLUfHbewNbSV_21.316561_-157.889087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203622,
+    "wof:geomhash":"97eae842ec2198223b0a1fdbdc513525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857583795
+        }
+    ],
+    "wof:id":857583795,
+    "wof:lastmodified":1464203622,
+    "wof:name":"Aloha Distillers",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distiller"
+    ]
+},
+  "bbox": [
+    -157.889087,
+    21.316561,
+    -157.889087,
+    21.316561
+],
+  "geometry": {"coordinates":[-157.88908699999999,21.316561],"type":"Point"}
+}

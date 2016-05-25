@@ -1,0 +1,73 @@
+{
+  "id": 857635943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.713748,21.28603,-157.713748,21.28603",
+    "geom:latitude":21.28603,
+    "geom:longitude":-157.713748,
+    "iso:country":"US",
+    "sg:address":"202 Opihikao Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 1424",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EOSsN1iVOhWH624JH2yjP_21.286030_-157.713748@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204866,
+    "wof:geomhash":"60a48b6785372405ec83445a42dc790c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857635943
+        }
+    ],
+    "wof:id":857635943,
+    "wof:lastmodified":1464204866,
+    "wof:name":"Pacific Tech Construction",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.713748,
+    21.28603,
+    -157.713748,
+    21.28603
+],
+  "geometry": {"coordinates":[-157.71374800000001,21.28603],"type":"Point"}
+}

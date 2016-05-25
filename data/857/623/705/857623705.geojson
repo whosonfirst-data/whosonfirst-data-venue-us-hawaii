@@ -1,0 +1,71 @@
+{
+  "id": 857623705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.946038,21.388284,-157.946038,21.388284",
+    "geom:latitude":21.388284,
+    "geom:longitude":-157.946038,
+    "iso:country":"US",
+    "sg:address":"943 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6817",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_763x0DeYmC4SITpJDx1Mqv_21.388284_-157.946038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204526,
+    "wof:geomhash":"97a6ccd2a98adb22ea5779f0e09ff7dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857623705
+        }
+    ],
+    "wof:id":857623705,
+    "wof:lastmodified":1464204526,
+    "wof:name":"Harbor Pointe",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.946038,
+    21.388284,
+    -157.946038,
+    21.388284
+],
+  "geometry": {"coordinates":[-157.94603799999999,21.388284],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857642041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.67088,20.02301,-155.67088,20.02301",
+    "geom:latitude":20.02301,
+    "geom:longitude":-155.67088,
+    "iso:country":"US",
+    "sg:address":"1267 Lindsey Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 887 6440",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msMCYACuRqmdzYRbTVckj_20.023010_-155.670880@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205100,
+    "wof:geomhash":"b6161e77259f09201672cfb92abd1b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857642041
+        }
+    ],
+    "wof:id":857642041,
+    "wof:lastmodified":1464205100,
+    "wof:name":"Ho'Onani Place",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -155.67088,
+    20.02301,
+    -155.67088,
+    20.02301
+],
+  "geometry": {"coordinates":[-155.67088000000001,20.02301],"type":"Point"}
+}

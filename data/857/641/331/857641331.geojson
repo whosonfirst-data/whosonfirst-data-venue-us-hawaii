@@ -1,0 +1,71 @@
+{
+  "id": 857641331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826352,21.326841,-157.826352,21.326841",
+    "geom:latitude":21.326841,
+    "geom:longitude":-157.826352,
+    "iso:country":"US",
+    "sg:address":"3653 Tantalus Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 7442",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TZE86ixI7uyDZtQxWnOJF_21.326841_-157.826352@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205073,
+    "wof:geomhash":"fb0789a9c6325e88880dd777181ec6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857641331
+        }
+    ],
+    "wof:id":857641331,
+    "wof:lastmodified":1464205073,
+    "wof:name":"Center For Global Nonviolence",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [
+    -157.826352,
+    21.326841,
+    -157.826352,
+    21.326841
+],
+  "geometry": {"coordinates":[-157.82635200000001,21.326841],"type":"Point"}
+}

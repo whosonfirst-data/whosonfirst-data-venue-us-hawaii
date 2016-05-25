@@ -1,0 +1,71 @@
+{
+  "id": 857661589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836908,21.297311,-157.836908,21.297311",
+    "geom:latitude":21.297311,
+    "geom:longitude":-157.836908,
+    "iso:country":"US",
+    "sg:address":"1541 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 7263",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S91csDtozrJzqgAbmcSKz_21.297311_-157.836908@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205997,
+    "wof:geomhash":"a5e44ccf79ef2d28bfc46ed760b55f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857661589
+        }
+    ],
+    "wof:id":857661589,
+    "wof:lastmodified":1464205997,
+    "wof:name":"Makua Alii Senior Ctr",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -157.836908,
+    21.297311,
+    -157.836908,
+    21.297311
+],
+  "geometry": {"coordinates":[-157.83690799999999,21.297311],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857519427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007674,21.383761,-158.007674,21.383761",
+    "geom:latitude":21.383761,
+    "geom:longitude":-158.007674,
+    "iso:country":"US",
+    "sg:address":"223 Hanawai Cir",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 5979",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "towing",
+        "wrecker",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VwyYbHcleshw9ycRvzcXz_21.383761_-158.007674@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202339,
+    "wof:geomhash":"fc6bdc999ee65a87d1cf35630ad34b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857519427
+        }
+    ],
+    "wof:id":857519427,
+    "wof:lastmodified":1464202339,
+    "wof:name":"Off Peak Towing Corp",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -158.007674,
+    21.383761,
+    -158.007674,
+    21.383761
+],
+  "geometry": {"coordinates":[-158.00767400000001,21.383761],"type":"Point"}
+}

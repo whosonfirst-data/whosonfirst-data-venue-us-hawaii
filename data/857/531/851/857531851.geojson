@@ -1,0 +1,71 @@
+{
+  "id": 857531851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.993762,21.385208,-157.993762,21.385208",
+    "geom:latitude":21.385208,
+    "geom:longitude":-157.993762,
+    "iso:country":"US",
+    "sg:address":"61 Waipio Point Access Rd",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 8777",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v7LqgImybOLLj8raq1rWD_21.385208_-157.993762@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202583,
+    "wof:geomhash":"9d1ec6cb374e3f89e0b3ca8418577794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857531851
+        }
+    ],
+    "wof:id":857531851,
+    "wof:lastmodified":1464202583,
+    "wof:name":"Honolulu Parks & Recreation",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.993762,
+    21.385208,
+    -157.993762,
+    21.385208
+],
+  "geometry": {"coordinates":[-157.993762,21.385208],"type":"Point"}
+}

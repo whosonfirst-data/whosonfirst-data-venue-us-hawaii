@@ -1,0 +1,80 @@
+{
+  "id": 857633243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8878,21.321902,-157.8878,21.321902",
+    "geom:latitude":21.321902,
+    "geom:longitude":-157.8878,
+    "iso:country":"US",
+    "sg:address":"1930 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5600",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PyV2f1XS7BCe9oao5f574_21.321902_-157.887800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204765,
+    "wof:geomhash":"97f5a766d8207b28b5677c0b65964f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857633243
+        }
+    ],
+    "wof:id":857633243,
+    "wof:lastmodified":1464204765,
+    "wof:name":"Hawaii Pacific Plumbing Sup Co",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.8878,
+    21.321902,
+    -157.8878,
+    21.321902
+],
+  "geometry": {"coordinates":[-157.8878,21.321902],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857563915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506842,20.895115,-156.506842,20.895115",
+    "geom:latitude":20.895115,
+    "geom:longitude":-156.506842,
+    "iso:country":"US",
+    "sg:address":"310 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5090",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qgIJmr7PHe4t8uC0FHUwf_20.895115_-156.506842@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203237,
+    "wof:geomhash":"a0a4a94f17c34109cfda862a90f4d89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857563915
+        }
+    ],
+    "wof:id":857563915,
+    "wof:lastmodified":1464203237,
+    "wof:name":"Banana Bungalow",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "agency"
+    ]
+},
+  "bbox": [
+    -156.506842,
+    20.895115,
+    -156.506842,
+    20.895115
+],
+  "geometry": {"coordinates":[-156.50684200000001,20.895115],"type":"Point"}
+}

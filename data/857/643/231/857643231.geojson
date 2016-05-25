@@ -1,0 +1,73 @@
+{
+  "id": 857643231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954554,21.410526,-157.954554,21.410526",
+    "geom:latitude":21.410526,
+    "geom:longitude":-157.954554,
+    "iso:country":"US",
+    "sg:address":"2105 Hoohai St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 4301",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gv3tiCAi5JFEg2Ln76Hcp_21.410526_-157.954554@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205157,
+    "wof:geomhash":"e803cebd7738649ddd91c653ca495dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857643231
+        }
+    ],
+    "wof:id":857643231,
+    "wof:lastmodified":1464205157,
+    "wof:name":"Wally's Tours",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.954554,
+    21.410526,
+    -157.954554,
+    21.410526
+],
+  "geometry": {"coordinates":[-157.954554,21.410526],"type":"Point"}
+}

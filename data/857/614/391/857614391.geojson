@@ -1,0 +1,71 @@
+{
+  "id": 857614391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879331,21.330291,-157.879331,21.330291",
+    "geom:latitude":21.330291,
+    "geom:longitude":-157.879331,
+    "iso:country":"US",
+    "sg:address":"728 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3024",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bht9jBeVCBuchzF158uRO_21.330291_-157.879331@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204308,
+    "wof:geomhash":"aec25cfa88574dae02eadc33648394b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857614391
+        }
+    ],
+    "wof:id":857614391,
+    "wof:lastmodified":1464204308,
+    "wof:name":"Fishing Vessel Red Diamond",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fishing"
+    ]
+},
+  "bbox": [
+    -157.879331,
+    21.330291,
+    -157.879331,
+    21.330291
+],
+  "geometry": {"coordinates":[-157.87933100000001,21.330291],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857590077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818114,21.296631,-157.818114,21.296631",
+    "geom:latitude":21.296631,
+    "geom:longitude":-157.818114,
+    "iso:country":"US",
+    "sg:address":"2571 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 6282",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5npiiz12NmY2B1EOX1KMWq_21.296631_-157.818114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203760,
+    "wof:geomhash":"5bacf8f33927ed5979c2fab04e3ffd8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857590077
+        }
+    ],
+    "wof:id":857590077,
+    "wof:lastmodified":1464203760,
+    "wof:name":"Hawaii University Hale Aloha",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.818114,
+    21.296631,
+    -157.818114,
+    21.296631
+],
+  "geometry": {"coordinates":[-157.81811400000001,21.296631],"type":"Point"}
+}

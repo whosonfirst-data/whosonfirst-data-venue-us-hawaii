@@ -1,0 +1,71 @@
+{
+  "id": 857646359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799663,21.279074,-157.799663,21.279074",
+    "geom:latitude":21.279074,
+    "geom:longitude":-157.799663,
+    "iso:country":"US",
+    "sg:address":"3634 Pahoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 3731",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKAYhuHNGRLM3yT34j9H2_21.279074_-157.799663@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205302,
+    "wof:geomhash":"5d3ded0a66ed954f94c32395bd93ba5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857646359
+        }
+    ],
+    "wof:id":857646359,
+    "wof:lastmodified":1464205302,
+    "wof:name":"Wing Loy Chinese Food Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.799663,
+    21.279074,
+    -157.799663,
+    21.279074
+],
+  "geometry": {"coordinates":[-157.79966300000001,21.279074],"type":"Point"}
+}

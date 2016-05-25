@@ -1,0 +1,73 @@
+{
+  "id": 857666905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870381,21.320332,-157.870381,21.320332",
+    "geom:latitude":21.320332,
+    "geom:longitude":-157.870381,
+    "iso:country":"US",
+    "sg:address":"1095 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2900",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zqszeA3Jd371F0QOe6NDb_21.320332_-157.870381@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206221,
+    "wof:geomhash":"747897cc11b9ed78199bf732e8fddb25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857666905
+        }
+    ],
+    "wof:id":857666905,
+    "wof:lastmodified":1464206221,
+    "wof:name":"Tahoe",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.870381,
+    21.320332,
+    -157.870381,
+    21.320332
+],
+  "geometry": {"coordinates":[-157.87038100000001,21.320332],"type":"Point"}
+}

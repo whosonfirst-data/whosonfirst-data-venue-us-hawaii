@@ -1,0 +1,73 @@
+{
+  "id": 857528783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886275,21.32279,-157.886275,21.32279",
+    "geom:latitude":21.32279,
+    "geom:longitude":-157.886275,
+    "iso:country":"US",
+    "sg:address":"1708 Hoe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0787",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fsJhvwOyS7mNfLsfrK7Ww_21.322790_-157.886275@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202520,
+    "wof:geomhash":"6626fef63d287789b8b90cf3ea132e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857528783
+        }
+    ],
+    "wof:id":857528783,
+    "wof:lastmodified":1464202520,
+    "wof:name":"Propellar Services",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -157.886275,
+    21.32279,
+    -157.886275,
+    21.32279
+],
+  "geometry": {"coordinates":[-157.88627500000001,21.32279],"type":"Point"}
+}

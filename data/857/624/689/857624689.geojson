@@ -1,0 +1,71 @@
+{
+  "id": 857624689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842871,21.289524,-157.842871,21.289524",
+    "geom:latitude":21.289524,
+    "geom:longitude":-157.842871,
+    "iso:country":"US",
+    "sg:address":"1330 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 0889",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CmjEhqTLvYZJDCi51zxrd_21.289524_-157.842871@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204556,
+    "wof:geomhash":"7a9debf0654b304c4951d1c43b0a25a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857624689
+        }
+    ],
+    "wof:id":857624689,
+    "wof:lastmodified":1464204556,
+    "wof:name":"Won Chaekal Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.842871,
+    21.289524,
+    -157.842871,
+    21.289524
+],
+  "geometry": {"coordinates":[-157.842871,21.289524],"type":"Point"}
+}

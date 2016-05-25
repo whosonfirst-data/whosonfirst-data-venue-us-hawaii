@@ -1,0 +1,71 @@
+{
+  "id": 857650555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.933772,21.366579,-157.933772,21.366579",
+    "geom:latitude":21.366579,
+    "geom:longitude":-157.933772,
+    "iso:country":"US",
+    "sg:address":"102 Kalaloa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6834",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890053,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GDoo06q9FGeUWGdzmvEe7_21.366579_-157.933772@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205479,
+    "wof:geomhash":"f38ed5a1e2a6033f9448218c93d55585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890053,
+            "region_id":85688671,
+            "venue_id":857650555
+        }
+    ],
+    "wof:id":857650555,
+    "wof:lastmodified":1464205479,
+    "wof:name":"Honolulu Community Action Prog",
+    "wof:parent_id":85890053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.933772,
+    21.366579,
+    -157.933772,
+    21.366579
+],
+  "geometry": {"coordinates":[-157.933772,21.366579],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857669033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828278,21.295101,-157.828278,21.295101",
+    "geom:latitude":21.295101,
+    "geom:longitude":-157.828278,
+    "iso:country":"US",
+    "sg:address":"2023 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 1322",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DJ1yD8RGBuW63L7nEX2oK_21.295101_-157.828278@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206303,
+    "wof:geomhash":"b6825a44d1b9709e9f7b321c7463c8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857669033
+        }
+    ],
+    "wof:id":857669033,
+    "wof:lastmodified":1464206303,
+    "wof:name":"Adasa Hawaii",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.828278,
+    21.295101,
+    -157.828278,
+    21.295101
+],
+  "geometry": {"coordinates":[-157.82827800000001,21.295101],"type":"Point"}
+}

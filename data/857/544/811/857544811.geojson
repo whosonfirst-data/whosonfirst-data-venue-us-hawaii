@@ -1,0 +1,73 @@
+{
+  "id": 857544811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840882,21.30947,-157.840882,21.30947",
+    "geom:latitude":21.30947,
+    "geom:longitude":-157.840882,
+    "iso:country":"US",
+    "sg:address":"1201 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 4080",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fGGRQfnoG3p73V5JPGlUx_21.309470_-157.840882@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202836,
+    "wof:geomhash":"8acfd16f7091e30d3f0ea53c16f3b39f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857544811
+        }
+    ],
+    "wof:id":857544811,
+    "wof:lastmodified":1464202836,
+    "wof:name":"Education Dept-Workers Comp",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.840882,
+    21.30947,
+    -157.840882,
+    21.30947
+],
+  "geometry": {"coordinates":[-157.84088199999999,21.30947],"type":"Point"}
+}

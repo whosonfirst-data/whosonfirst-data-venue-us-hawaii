@@ -1,0 +1,75 @@
+{
+  "id": 857656439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879557,21.331954,-157.879557,21.331954",
+    "geom:latitude":21.331954,
+    "geom:longitude":-157.879557,
+    "iso:country":"US",
+    "sg:address":"808 Factory St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8800",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C4JcrtrZCLI6J1JWnJ0OR_21.331954_-157.879557@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205743,
+    "wof:geomhash":"23a744691bf97d5d3ebbca185e823415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857656439
+        }
+    ],
+    "wof:id":857656439,
+    "wof:lastmodified":1464205743,
+    "wof:name":"Earl's Painting & Wallcovering",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.879557,
+    21.331954,
+    -157.879557,
+    21.331954
+],
+  "geometry": {"coordinates":[-157.87955700000001,21.331954],"type":"Point"}
+}

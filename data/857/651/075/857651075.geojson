@@ -1,0 +1,73 @@
+{
+  "id": 857651075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.673947,21.300126,-157.673947,21.300126",
+    "geom:latitude":21.300126,
+    "geom:longitude":-157.673947,
+    "iso:country":"US",
+    "sg:address":"7524 Huialoha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 4215",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ldAIJEIt916rNrMzr3w24_21.300126_-157.673947@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205498,
+    "wof:geomhash":"8707cfccdd4d7491203ae42a2ab7e98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857651075
+        }
+    ],
+    "wof:id":857651075,
+    "wof:lastmodified":1464205498,
+    "wof:name":"Naka's Electrical Svc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.673947,
+    21.300126,
+    -157.673947,
+    21.300126
+],
+  "geometry": {"coordinates":[-157.673947,21.300126],"type":"Point"}
+}

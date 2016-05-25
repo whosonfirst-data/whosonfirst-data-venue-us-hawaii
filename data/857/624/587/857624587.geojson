@@ -1,0 +1,73 @@
+{
+  "id": 857624587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803443,21.285024,-157.803443,21.285024",
+    "geom:latitude":21.285024,
+    "geom:longitude":-157.803443,
+    "iso:country":"US",
+    "sg:address":"3450 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 3991",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o1Zl9a9gKYewNJdQZGgKh_21.285024_-157.803443@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204554,
+    "wof:geomhash":"0646d3e69390f77dfda8f3861f01cbc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857624587
+        }
+    ],
+    "wof:id":857624587,
+    "wof:lastmodified":1464204554,
+    "wof:name":"Hawaii National Bank",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.803443,
+    21.285024,
+    -157.803443,
+    21.285024
+],
+  "geometry": {"coordinates":[-157.80344299999999,21.285024],"type":"Point"}
+}

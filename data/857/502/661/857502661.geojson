@@ -1,0 +1,71 @@
+{
+  "id": 857502661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884673,21.3259,-157.884673,21.3259",
+    "geom:latitude":21.3259,
+    "geom:longitude":-157.884673,
+    "iso:country":"US",
+    "sg:address":"2022 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 2276",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pxgMJkC4kUHiLwqBdI7Yi_21.325900_-157.884673@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201976,
+    "wof:geomhash":"831e83e923eef8317a570081b7562fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857502661
+        }
+    ],
+    "wof:id":857502661,
+    "wof:lastmodified":1464201976,
+    "wof:name":"Holiday Auto Sales",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -157.884673,
+    21.3259,
+    -157.884673,
+    21.3259
+],
+  "geometry": {"coordinates":[-157.88467299999999,21.3259],"type":"Point"}
+}

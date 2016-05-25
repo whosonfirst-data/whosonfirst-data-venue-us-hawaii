@@ -1,0 +1,73 @@
+{
+  "id": 857645949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.589725,21.910024,-159.589725,21.910024",
+    "geom:latitude":21.910024,
+    "geom:longitude":-159.589725,
+    "iso:country":"US",
+    "sg:address":"3746 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 5330",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7msiPUPMXh0WiQeXzvthwc_21.910024_-159.589725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205275,
+    "wof:geomhash":"4e8292bd870f45025ebd53c33e9d0bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857645949
+        }
+    ],
+    "wof:id":857645949,
+    "wof:lastmodified":1464205275,
+    "wof:name":"Leonard's Auto Body",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -159.589725,
+    21.910024,
+    -159.589725,
+    21.910024
+],
+  "geometry": {"coordinates":[-159.58972499999999,21.910024],"type":"Point"}
+}

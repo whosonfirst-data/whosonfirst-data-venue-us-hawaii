@@ -1,0 +1,69 @@
+{
+  "id": 857548051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.596938,20.03506,-155.596938,20.03506",
+    "geom:latitude":20.03506,
+    "geom:longitude":-155.596938,
+    "iso:country":"US",
+    "sg:address":"204 Wailani Pl",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 4771",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sdSsxbGPjqSA6l2Rfk2p9_20.035060_-155.596938@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202894,
+    "wof:geomhash":"bc71303641568d3bcdbcbb504e07f8ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857548051
+        }
+    ],
+    "wof:id":857548051,
+    "wof:lastmodified":1464202894,
+    "wof:name":"Alpha Star Taxi",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -155.596938,
+    20.03506,
+    -155.596938,
+    20.03506
+],
+  "geometry": {"coordinates":[-155.59693799999999,20.03506],"type":"Point"}
+}

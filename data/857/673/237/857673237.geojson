@@ -1,0 +1,71 @@
+{
+  "id": 857673237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888045,21.327084,-157.888045,21.327084",
+    "geom:latitude":21.327084,
+    "geom:longitude":-157.888045,
+    "iso:country":"US",
+    "sg:address":"255 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2287",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63xjoDllDvsUYA07wfdcdI_21.327084_-157.888045@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206460,
+    "wof:geomhash":"00c9dfd86d97d72b1dd98672e83fe9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857673237
+        }
+    ],
+    "wof:id":857673237,
+    "wof:lastmodified":1464206460,
+    "wof:name":"C T & E Environmental Svc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.888045,
+    21.327084,
+    -157.888045,
+    21.327084
+],
+  "geometry": {"coordinates":[-157.88804500000001,21.327084],"type":"Point"}
+}

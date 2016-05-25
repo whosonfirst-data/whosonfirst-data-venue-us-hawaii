@@ -1,0 +1,68 @@
+{
+  "id": 857642555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.078649,19.72132,-155.078649,19.72132",
+    "geom:latitude":19.72132,
+    "geom:longitude":-155.078649,
+    "iso:country":"US",
+    "sg:address":"100 Pauahi St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 0441",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zDPNRDPbsyn0cmisMYaCh_19.721320_-155.078649@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205118,
+    "wof:geomhash":"933f4c7a6a3ddce560c47ba100b885e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857642555
+        }
+    ],
+    "wof:id":857642555,
+    "wof:lastmodified":1464205118,
+    "wof:name":"Alan Uyeda",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.078649,
+    19.72132,
+    -155.078649,
+    19.72132
+],
+  "geometry": {"coordinates":[-155.07864900000001,19.72132],"type":"Point"}
+}

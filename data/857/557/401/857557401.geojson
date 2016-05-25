@@ -1,0 +1,73 @@
+{
+  "id": 857557401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.45055,20.892726,-156.45055,20.892726",
+    "geom:latitude":20.892726,
+    "geom:longitude":-156.45055,
+    "iso:country":"US",
+    "sg:address":"650 Palapala Dr",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 3535",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fp9VZFzpRVULUdnYVt0f7_20.892726_-156.450550@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203079,
+    "wof:geomhash":"ef5aa1adb6bb5cd74449b81c2d922030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857557401
+        }
+    ],
+    "wof:id":857557401,
+    "wof:lastmodified":1464203079,
+    "wof:name":"Highways Div",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.45055,
+    20.892726,
+    -156.45055,
+    20.892726
+],
+  "geometry": {"coordinates":[-156.45054999999999,20.892726],"type":"Point"}
+}

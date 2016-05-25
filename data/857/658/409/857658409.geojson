@@ -1,0 +1,71 @@
+{
+  "id": 857658409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88245,21.332078,-157.88245,21.332078",
+    "geom:latitude":21.332078,
+    "geom:longitude":-157.88245,
+    "iso:country":"US",
+    "sg:address":"680 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 1606",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7klD6VfVMEkGGaSPLKUKKF_21.332078_-157.882450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205836,
+    "wof:geomhash":"52246c1ddafd2327bb435c40737806eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857658409
+        }
+    ],
+    "wof:id":857658409,
+    "wof:lastmodified":1464205836,
+    "wof:name":"Ace Body Paint Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -157.88245,
+    21.332078,
+    -157.88245,
+    21.332078
+],
+  "geometry": {"coordinates":[-157.88245000000001,21.332078],"type":"Point"}
+}

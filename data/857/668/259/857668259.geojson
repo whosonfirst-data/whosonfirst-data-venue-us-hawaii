@@ -1,0 +1,69 @@
+{
+  "id": 857668259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826983,21.437922,-157.826983,21.437922",
+    "geom:latitude":21.437922,
+    "geom:longitude":-157.826983,
+    "iso:country":"US",
+    "sg:address":"367 Hui Iwa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 9737",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85869059,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k1LzcauTOpu68ciCtPWqJ_21.437922_-157.826983@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206267,
+    "wof:geomhash":"1ddd35b7407db3c02d80d4957bdd6039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85869059,
+            "region_id":85688671,
+            "venue_id":857668259
+        }
+    ],
+    "wof:id":857668259,
+    "wof:lastmodified":1464206267,
+    "wof:name":"Holoholo Taxi & Shuttle",
+    "wof:parent_id":85869059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.826983,
+    21.437922,
+    -157.826983,
+    21.437922
+],
+  "geometry": {"coordinates":[-157.82698300000001,21.437922],"type":"Point"}
+}

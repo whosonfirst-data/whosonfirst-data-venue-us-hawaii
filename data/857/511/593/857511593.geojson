@@ -1,0 +1,75 @@
+{
+  "id": 857511593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.6832,20.886785,-156.6832,20.886785",
+    "geom:latitude":20.886785,
+    "geom:longitude":-156.6832,
+    "iso:country":"US",
+    "sg:address":"135 Kupuohi St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 5066",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_043jFb0Im8ok04W3CVizLg_20.886785_-156.683200@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202178,
+    "wof:geomhash":"85b3b5c55dd95c46fe258c044033e13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857511593
+        }
+    ],
+    "wof:id":857511593,
+    "wof:lastmodified":1464202178,
+    "wof:name":"Harvest Linen Svc",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -156.6832,
+    20.886785,
+    -156.6832,
+    20.886785
+],
+  "geometry": {"coordinates":[-156.6832,20.886785],"type":"Point"}
+}

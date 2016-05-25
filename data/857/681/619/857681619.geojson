@@ -1,0 +1,78 @@
+{
+  "id": 857681619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901562,21.336156,-157.901562,21.336156",
+    "geom:latitude":21.336156,
+    "geom:longitude":-157.901562,
+    "iso:country":"US",
+    "sg:address":"630 Puuloa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/180859-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 6248",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Igw9lyaeEgaAcrC0bzJ4A_21.336156_-157.901562@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"c6254421af93023ad96e5537a723dfdb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857681619
+        }
+    ],
+    "wof:id":857681619,
+    "wof:lastmodified":1464206790,
+    "wof:name":"Wendy's",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -157.901562,
+    21.336156,
+    -157.901562,
+    21.336156
+],
+  "geometry": {"coordinates":[-157.90156200000001,21.336156],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857621921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884932,21.321264,-157.884932,21.321264",
+    "geom:latitude":21.321264,
+    "geom:longitude":-157.884932,
+    "iso:country":"US",
+    "sg:address":"1640 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0521",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Sq4TPp0TxUILbMvqynJk_21.321264_-157.884932@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204472,
+    "wof:geomhash":"a0d5ce4cf24ad7e31e93f5a2815244b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857621921
+        }
+    ],
+    "wof:id":857621921,
+    "wof:lastmodified":1464204472,
+    "wof:name":"Pacific Refuse & Disposal Co",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -157.884932,
+    21.321264,
+    -157.884932,
+    21.321264
+],
+  "geometry": {"coordinates":[-157.88493199999999,21.321264],"type":"Point"}
+}

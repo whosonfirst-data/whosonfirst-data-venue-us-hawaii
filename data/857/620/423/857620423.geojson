@@ -1,0 +1,71 @@
+{
+  "id": 857620423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.78212,21.281079,-157.78212,21.281079",
+    "geom:latitude":21.281079,
+    "geom:longitude":-157.78212,
+    "iso:country":"US",
+    "sg:address":"4466 Alakoa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 6956",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FTZac3rnJPPpZzG33ExWr_21.281079_-157.782120@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204441,
+    "wof:geomhash":"dbb521be5c6bea8a831129ef9b256fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857620423
+        }
+    ],
+    "wof:id":857620423,
+    "wof:lastmodified":1464204441,
+    "wof:name":"Cobra Towing & Tire",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.78212,
+    21.281079,
+    -157.78212,
+    21.281079
+],
+  "geometry": {"coordinates":[-157.78211999999999,21.281079],"type":"Point"}
+}

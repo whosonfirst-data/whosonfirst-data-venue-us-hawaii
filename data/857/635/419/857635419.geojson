@@ -1,0 +1,69 @@
+{
+  "id": 857635419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.446231,22.223592,-159.446231,22.223592",
+    "geom:latitude":22.223592,
+    "geom:longitude":-159.446231,
+    "iso:country":"US",
+    "sg:address":"3903 Anini Rd",
+    "sg:city":"Kilauea",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 828 0273",
+    "sg:postcode":"96754",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890655,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35T9OyhfqGNqJtM1x6c29P_22.223592_-159.446231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204847,
+    "wof:geomhash":"a6b8f3f0741ce21998c0a6907aff516e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890655,
+            "region_id":85688671,
+            "venue_id":857635419
+        }
+    ],
+    "wof:id":857635419,
+    "wof:lastmodified":1464204847,
+    "wof:name":"Kauai Polo Club",
+    "wof:parent_id":85890655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -159.446231,
+    22.223592,
+    -159.446231,
+    22.223592
+],
+  "geometry": {"coordinates":[-159.44623100000001,22.223592],"type":"Point"}
+}

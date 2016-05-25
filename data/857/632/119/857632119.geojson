@@ -1,0 +1,85 @@
+{
+  "id": 857632119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900881,21.328655,-157.900881,21.328655",
+    "geom:latitude":21.328655,
+    "geom:longitude":-157.900881,
+    "iso:country":"US",
+    "sg:address":"439 Kalewa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 2222",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065,
+        102526539,
+        85937603,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_451nhfSmNZ1jUDSyL6mysv_21.328655_-157.900881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204718,
+    "wof:geomhash":"3a942b5011389c9fd550e81b3a3bae96",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857632119
+        },
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857632119
+        }
+    ],
+    "wof:id":857632119,
+    "wof:lastmodified":1464204718,
+    "wof:name":"Leeward Airport Shuttle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.900881,
+    21.328655,
+    -157.900881,
+    21.328655
+],
+  "geometry": {"coordinates":[-157.900881,21.328655],"type":"Point"}
+}

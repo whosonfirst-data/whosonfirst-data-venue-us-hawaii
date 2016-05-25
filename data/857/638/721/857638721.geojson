@@ -1,0 +1,73 @@
+{
+  "id": 857638721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886663,21.325718,-157.886663,21.325718",
+    "geom:latitude":21.325718,
+    "geom:longitude":-157.886663,
+    "iso:country":"US",
+    "sg:address":"279 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8288",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EVWkGGID7Z4eJUldmjsrv_21.325718_-157.886663@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204971,
+    "wof:geomhash":"1b62d3c395de5fbfcd3f35b14d123b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857638721
+        }
+    ],
+    "wof:id":857638721,
+    "wof:lastmodified":1464204971,
+    "wof:name":"Andy's Auto Repair",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.886663,
+    21.325718,
+    -157.886663,
+    21.325718
+],
+  "geometry": {"coordinates":[-157.886663,21.325718],"type":"Point"}
+}

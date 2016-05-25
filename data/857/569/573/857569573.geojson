@@ -1,0 +1,71 @@
+{
+  "id": 857569573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799258,21.282004,-157.799258,21.282004",
+    "geom:latitude":21.282004,
+    "geom:longitude":-157.799258,
+    "iso:country":"US",
+    "sg:address":"1142 12th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 4600",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mbt4OfYJKOaev5amARp3O_21.282004_-157.799258@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203344,
+    "wof:geomhash":"a38db5607ae0f7b23fe1617a9b625216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857569573
+        }
+    ],
+    "wof:id":857569573,
+    "wof:lastmodified":1464203344,
+    "wof:name":"Covenant Books & Coffee",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.799258,
+    21.282004,
+    -157.799258,
+    21.282004
+],
+  "geometry": {"coordinates":[-157.79925800000001,21.282004],"type":"Point"}
+}

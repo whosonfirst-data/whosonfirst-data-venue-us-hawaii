@@ -1,0 +1,69 @@
+{
+  "id": 857638525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02692,21.497489,-158.02692,21.497489",
+    "geom:latitude":21.497489,
+    "geom:longitude":-158.02692,
+    "iso:country":"US",
+    "sg:address":"129 Lehua St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8411",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r7dUCoYmYMvEoH4bMyVky_21.497489_-158.026920@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204960,
+    "wof:geomhash":"d8772a61243dca176dbc17523eb70913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857638525
+        }
+    ],
+    "wof:id":857638525,
+    "wof:lastmodified":1464204960,
+    "wof:name":"Wahiawa General Hospital",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.02692,
+    21.497489,
+    -158.02692,
+    21.497489
+],
+  "geometry": {"coordinates":[-158.02691999999999,21.497489],"type":"Point"}
+}

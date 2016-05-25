@@ -1,0 +1,89 @@
+{
+  "id": 857545015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902131,21.332807,-157.902131,21.332807",
+    "geom:latitude":21.332807,
+    "geom:longitude":-157.902131,
+    "iso:country":"US",
+    "sg:address":"2989 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 7806",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05K6dzz1JZTdZQeGzXkvcm_21.332807_-157.902131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202840,
+    "wof:geomhash":"8686a93312d5c39f8d1dfb145a982e90",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857545015
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857545015
+        }
+    ],
+    "wof:id":857545015,
+    "wof:lastmodified":1464202840,
+    "wof:name":"Makaii Air Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.902131,
+    21.332807,
+    -157.902131,
+    21.332807
+],
+  "geometry": {"coordinates":[-157.902131,21.332807],"type":"Point"}
+}

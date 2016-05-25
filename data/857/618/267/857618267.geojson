@@ -1,0 +1,73 @@
+{
+  "id": 857618267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888562,21.348393,-157.888562,21.348393",
+    "geom:latitude":21.348393,
+    "geom:longitude":-157.888562,
+    "iso:country":"US",
+    "sg:address":"1451 Ala Amoamo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 9993",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wYC0aT3ndS5nRk8JMa6Uf_21.348393_-157.888562@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204383,
+    "wof:geomhash":"6533d8aadd053d2dfed7b8f2d5569b46",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857618267
+        }
+    ],
+    "wof:id":857618267,
+    "wof:lastmodified":1464204383,
+    "wof:name":"Hawaii Care Case Management",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -157.888562,
+    21.348393,
+    -157.888562,
+    21.348393
+],
+  "geometry": {"coordinates":[-157.88856200000001,21.348393],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857633257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.725966,21.337397,-157.725966,21.337397",
+    "geom:latitude":21.337397,
+    "geom:longitude":-157.725966,
+    "iso:country":"US",
+    "sg:address":"639 Kaulukanu St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 6595",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "sg:website":"www.mulkernlandscaping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mqjbw2bQE4a9qwd5BOPA5_21.337397_-157.725966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204765,
+    "wof:geomhash":"41584a22424f19f8cac7aa945463eb6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857633257
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857633257
+        }
+    ],
+    "wof:id":857633257,
+    "wof:lastmodified":1464204765,
+    "wof:name":"Kevin J Mulkern Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.725966,
+    21.337397,
+    -157.725966,
+    21.337397
+],
+  "geometry": {"coordinates":[-157.725966,21.337397],"type":"Point"}
+}

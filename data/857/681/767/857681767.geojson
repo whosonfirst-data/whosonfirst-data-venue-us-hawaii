@@ -1,0 +1,74 @@
+{
+  "id": 857681767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800439,21.414365,-157.800439,21.414365",
+    "geom:latitude":21.414365,
+    "geom:longitude":-157.800439,
+    "iso:country":"US",
+    "sg:address":"45-960 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/koolaupoko/180341-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 1766",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JmxlxMV6vcB6etk0JzqRA_21.414012_-157.800384@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206806,
+    "wof:geomhash":"91dc995a33784ec26fddc409b18d4137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857681767
+        }
+    ],
+    "wof:id":857681767,
+    "wof:lastmodified":1464206806,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.800439,
+    21.414365,
+    -157.800439,
+    21.414365
+],
+  "geometry": {"coordinates":[-157.80043900000001,21.414365],"type":"Point"}
+}

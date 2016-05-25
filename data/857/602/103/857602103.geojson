@@ -1,0 +1,71 @@
+{
+  "id": 857602103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.736604,21.450043,-157.736604,21.450043",
+    "geom:latitude":21.450043,
+    "geom:longitude":-157.736604,
+    "iso:country":"US",
+    "sg:address":"2655 Connor Loop",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 9643",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "daycare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ylrZHL4ivkhlZeTKVnvZr_21.450043_-157.736604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204031,
+    "wof:geomhash":"5947f45f4538c7360528ce89f61d2642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857602103
+        }
+    ],
+    "wof:id":857602103,
+    "wof:lastmodified":1464204031,
+    "wof:name":"Janette Poulson",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "daycare"
+    ]
+},
+  "bbox": [
+    -157.736604,
+    21.450043,
+    -157.736604,
+    21.450043
+],
+  "geometry": {"coordinates":[-157.736604,21.450043],"type":"Point"}
+}

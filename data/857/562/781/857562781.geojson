@@ -1,0 +1,73 @@
+{
+  "id": 857562781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825701,21.290581,-157.825701,21.290581",
+    "geom:latitude":21.290581,
+    "geom:longitude":-157.825701,
+    "iso:country":"US",
+    "sg:address":"914 Coolidge St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8000",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_687TuKG72YhJCE2zErOTcz_21.290581_-157.825701@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203217,
+    "wof:geomhash":"d720e757235902a935944023f99c4c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857562781
+        }
+    ],
+    "wof:id":857562781,
+    "wof:lastmodified":1464203217,
+    "wof:name":"Progressive Marketing Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.825701,
+    21.290581,
+    -157.825701,
+    21.290581
+],
+  "geometry": {"coordinates":[-157.82570100000001,21.290581],"type":"Point"}
+}

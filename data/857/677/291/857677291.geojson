@@ -1,0 +1,73 @@
+{
+  "id": 857677291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821301,21.306312,-157.821301,21.306312",
+    "geom:latitude":21.306312,
+    "geom:longitude":-157.821301,
+    "iso:country":"US",
+    "sg:address":"2353 Beckwith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 4369",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GqEDpKK0cFdBEUuwtiMsB_21.306312_-157.821301@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206624,
+    "wof:geomhash":"6eb6fa7fa7b9d49fc421d7e0d7c4469a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857677291
+        }
+    ],
+    "wof:id":857677291,
+    "wof:lastmodified":1464206624,
+    "wof:name":"Tricon Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.821301,
+    21.306312,
+    -157.821301,
+    21.306312
+],
+  "geometry": {"coordinates":[-157.82130100000001,21.306312],"type":"Point"}
+}

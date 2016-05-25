@@ -1,0 +1,71 @@
+{
+  "id": 857571443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841953,21.299089,-157.841953,21.299089",
+    "geom:latitude":21.299089,
+    "geom:longitude":-157.841953,
+    "iso:country":"US",
+    "sg:address":"1281 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 2535",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jqlz3P2cuoCNXbXt2q2lb_21.299089_-157.841953@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203379,
+    "wof:geomhash":"8b92d0df681462ebe66d01e7cc5fc107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857571443
+        }
+    ],
+    "wof:id":857571443,
+    "wof:lastmodified":1464203379,
+    "wof:name":"Tommy Jewelry",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.841953,
+    21.299089,
+    -157.841953,
+    21.299089
+],
+  "geometry": {"coordinates":[-157.84195299999999,21.299089],"type":"Point"}
+}

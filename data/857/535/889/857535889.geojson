@@ -1,0 +1,71 @@
+{
+  "id": 857535889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.775513,21.410913,-157.775513,21.410913",
+    "geom:latitude":21.410913,
+    "geom:longitude":-157.775513,
+    "iso:country":"US",
+    "sg:address":"740 Kaneohe Bay Dr",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 0997",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rW56al4c8MJ9m3bmjNLkT_21.410913_-157.775513@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202661,
+    "wof:geomhash":"6e21afb9dad2c90bf16c1f65e56e4055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857535889
+        }
+    ],
+    "wof:id":857535889,
+    "wof:lastmodified":1464202661,
+    "wof:name":"Bay Drive Market",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.775513,
+    21.410913,
+    -157.775513,
+    21.410913
+],
+  "geometry": {"coordinates":[-157.77551299999999,21.410913],"type":"Point"}
+}

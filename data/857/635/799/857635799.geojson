@@ -1,0 +1,73 @@
+{
+  "id": 857635799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852301,21.45515,-157.852301,21.45515",
+    "geom:latitude":21.45515,
+    "geom:longitude":-157.852301,
+    "iso:country":"US",
+    "sg:address":"419 Waihee Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 7899",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937593,
+        102085417,
+        85890297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DpKDHsIBcZFUflPRh6F4v_21.455150_-157.852301@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204861,
+    "wof:geomhash":"479931711ff14ed8f9b88c13a5f740a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937593,
+            "neighbourhood_id":85890297,
+            "region_id":85688671,
+            "venue_id":857635799
+        }
+    ],
+    "wof:id":857635799,
+    "wof:lastmodified":1464204861,
+    "wof:name":"Law Printing of Hawaii",
+    "wof:parent_id":85890297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.852301,
+    21.45515,
+    -157.852301,
+    21.45515
+],
+  "geometry": {"coordinates":[-157.85230100000001,21.45515],"type":"Point"}
+}

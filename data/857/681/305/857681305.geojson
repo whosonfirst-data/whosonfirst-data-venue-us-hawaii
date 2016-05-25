@@ -1,0 +1,73 @@
+{
+  "id": 857681305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856043,21.296255,-157.856043,21.296255",
+    "geom:latitude":21.296255,
+    "geom:longitude":-157.856043,
+    "iso:country":"US",
+    "sg:address":"333 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/202779-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3kB4tiqYn8Hf4xVy3t6L_21.296255_-157.856043@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206779,
+    "wof:geomhash":"6eaa508cf1e4a1ffef13f73e4c6db47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681305
+        }
+    ],
+    "wof:id":857681305,
+    "wof:lastmodified":1464206779,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.856043,
+    21.296255,
+    -157.856043,
+    21.296255
+],
+  "geometry": {"coordinates":[-157.856043,21.296255],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857656671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50304,20.892965,-156.50304,20.892965",
+    "geom:latitude":20.892965,
+    "geom:longitude":-156.50304,
+    "iso:country":"US",
+    "sg:address":"54 Central Ave",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 2382",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11cbrdXjnEEbPNWruvlCfn_20.892965_-156.503040@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205754,
+    "wof:geomhash":"f9a8b5d3bd7458955a9c4ec576cf21bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857656671
+        }
+    ],
+    "wof:id":857656671,
+    "wof:lastmodified":1464205754,
+    "wof:name":"Vegas Hair Hairdresser Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.50304,
+    20.892965,
+    -156.50304,
+    20.892965
+],
+  "geometry": {"coordinates":[-156.50304,20.892965],"type":"Point"}
+}

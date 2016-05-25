@@ -1,0 +1,71 @@
+{
+  "id": 857678279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813265,21.290745,-157.813265,21.290745",
+    "geom:latitude":21.290745,
+    "geom:longitude":-157.813265,
+    "iso:country":"US",
+    "sg:address":"2940 Kamakini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 4789",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zyO2sDKRGOP5FUK9f3f0t_21.290745_-157.813265@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206665,
+    "wof:geomhash":"317bdafb9f14c0c4ac9c518c9fc571b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857678279
+        }
+    ],
+    "wof:id":857678279,
+    "wof:lastmodified":1464206665,
+    "wof:name":"Hokulani Elementary School",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.813265,
+    21.290745,
+    -157.813265,
+    21.290745
+],
+  "geometry": {"coordinates":[-157.813265,21.290745],"type":"Point"}
+}

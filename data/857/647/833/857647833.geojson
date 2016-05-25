@@ -1,0 +1,73 @@
+{
+  "id": 857647833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794243,21.258825,-157.794243,21.258825",
+    "geom:latitude":21.258825,
+    "geom:longitude":-157.794243,
+    "iso:country":"US",
+    "sg:address":"4231 Papu Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 5297",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "international",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l26Eh0sdRWrFndorBEPPG_21.258825_-157.794243@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205371,
+    "wof:geomhash":"0621a13250fd659188360f7b8d6f1232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857647833
+        }
+    ],
+    "wof:id":857647833,
+    "wof:lastmodified":1464205371,
+    "wof:name":"Consulate Of Switzerland",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "international",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -157.794243,
+    21.258825,
+    -157.794243,
+    21.258825
+],
+  "geometry": {"coordinates":[-157.79424299999999,21.258825],"type":"Point"}
+}

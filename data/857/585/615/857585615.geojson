@@ -1,0 +1,73 @@
+{
+  "id": 857585615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853359,21.319195,-157.853359,21.319195",
+    "geom:latitude":21.319195,
+    "geom:longitude":-157.853359,
+    "iso:country":"US",
+    "sg:address":"1741 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 0448",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uGNXpz3rH3s4Z487C4kuV_21.319195_-157.853359@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203664,
+    "wof:geomhash":"9c9faf31c17665cdf4aadc5329d8d052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857585615
+        }
+    ],
+    "wof:id":857585615,
+    "wof:lastmodified":1464203664,
+    "wof:name":"Wahiawa Family Practice Clinic",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.853359,
+    21.319195,
+    -157.853359,
+    21.319195
+],
+  "geometry": {"coordinates":[-157.85335900000001,21.319195],"type":"Point"}
+}

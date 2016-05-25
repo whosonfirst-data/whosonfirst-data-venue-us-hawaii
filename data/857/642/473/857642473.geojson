@@ -1,0 +1,71 @@
+{
+  "id": 857642473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863226,21.310933,-157.863226,21.310933",
+    "geom:latitude":21.310933,
+    "geom:longitude":-157.863226,
+    "iso:country":"US",
+    "sg:address":"25 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9797",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54q6BCaxNdqb35kcADRaGM_21.310933_-157.863226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205116,
+    "wof:geomhash":"9187e8fb9eef540f002c3a26dec2a51a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857642473
+        }
+    ],
+    "wof:id":857642473,
+    "wof:lastmodified":1464205116,
+    "wof:name":"Image Beauty Emporium & Salon",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.863226,
+    21.310933,
+    -157.863226,
+    21.310933
+],
+  "geometry": {"coordinates":[-157.863226,21.310933],"type":"Point"}
+}

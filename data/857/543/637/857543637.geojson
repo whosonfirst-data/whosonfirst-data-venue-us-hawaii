@@ -1,0 +1,73 @@
+{
+  "id": 857543637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.963107,21.391057,-157.963107,21.391057",
+    "geom:latitude":21.391057,
+    "geom:longitude":-157.963107,
+    "iso:country":"US",
+    "sg:address":"683 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 4514",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zARGBtGtv3iOmXLs4hrPO_21.391057_-157.963107@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202814,
+    "wof:geomhash":"52119a3c9ed93ea78c2eb1cba3314711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857543637
+        }
+    ],
+    "wof:id":857543637,
+    "wof:lastmodified":1464202814,
+    "wof:name":"Ace Builders",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.963107,
+    21.391057,
+    -157.963107,
+    21.391057
+],
+  "geometry": {"coordinates":[-157.96310700000001,21.391057],"type":"Point"}
+}

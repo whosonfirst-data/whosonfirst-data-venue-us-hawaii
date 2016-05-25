@@ -1,0 +1,71 @@
+{
+  "id": 857676967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856449,21.300282,-157.856449,21.300282",
+    "geom:latitude":21.300282,
+    "geom:longitude":-157.856449,
+    "iso:country":"US",
+    "sg:address":"894 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 7678",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XMR2pQphqJK18iRufr1tx_21.300282_-157.856449@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206613,
+    "wof:geomhash":"0748b8ca560b9748dde74af4a11a6b48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857676967
+        }
+    ],
+    "wof:id":857676967,
+    "wof:lastmodified":1464206613,
+    "wof:name":"Postcard Software",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -157.856449,
+    21.300282,
+    -157.856449,
+    21.300282
+],
+  "geometry": {"coordinates":[-157.856449,21.300282],"type":"Point"}
+}

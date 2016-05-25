@@ -1,0 +1,66 @@
+{
+  "id": 857628337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8454,21.301474,-157.8454,21.301474",
+    "geom:latitude":21.301474,
+    "geom:longitude":-157.8454,
+    "iso:country":"US",
+    "sg:address":"1112 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4447",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lrKjhwRlmj9kZFj7LRQoj_21.301474_-157.845400@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204630,
+    "wof:geomhash":"c076a4aa3cb3f66d3b74ec151acd82c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857628337
+        }
+    ],
+    "wof:id":857628337,
+    "wof:lastmodified":1464204630,
+    "wof:name":"Cookie Bouquet",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.8454,
+    21.301474,
+    -157.8454,
+    21.301474
+],
+  "geometry": {"coordinates":[-157.84540000000001,21.301474],"type":"Point"}
+}

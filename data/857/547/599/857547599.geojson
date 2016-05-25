@@ -1,0 +1,75 @@
+{
+  "id": 857547599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00558,21.446814,-158.00558,21.446814",
+    "geom:latitude":21.446814,
+    "geom:longitude":-158.00558,
+    "iso:country":"US",
+    "sg:address":"1507 Lanikuhana Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 680 0000",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shuttle",
+        "port",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67lnVpIpvagbJo38ZUHYn8_21.446814_-158.005580@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202885,
+    "wof:geomhash":"0cefdfb02a3eb367099fcee86bc289fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857547599
+        }
+    ],
+    "wof:id":857547599,
+    "wof:lastmodified":1464202885,
+    "wof:name":"Shuttle Company The",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "port",
+        "air"
+    ]
+},
+  "bbox": [
+    -158.00558,
+    21.446814,
+    -158.00558,
+    21.446814
+],
+  "geometry": {"coordinates":[-158.00558000000001,21.446814],"type":"Point"}
+}

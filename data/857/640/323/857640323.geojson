@@ -1,0 +1,73 @@
+{
+  "id": 857640323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.729322,21.398236,-157.729322,21.398236",
+    "geom:latitude":21.398236,
+    "geom:longitude":-157.729322,
+    "iso:country":"US",
+    "sg:address":"99 Kailua Rd",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 236 7766",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xZmNux4r4RocUn7qLYFIz_21.398236_-157.729322@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205033,
+    "wof:geomhash":"c6f00fc0f5666f9f92de5b5a684827e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857640323
+        }
+    ],
+    "wof:id":857640323,
+    "wof:lastmodified":1464205033,
+    "wof:name":"Hike Oahu",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.729322,
+    21.398236,
+    -157.729322,
+    21.398236
+],
+  "geometry": {"coordinates":[-157.729322,21.398236],"type":"Point"}
+}

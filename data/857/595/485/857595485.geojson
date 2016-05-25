@@ -1,0 +1,76 @@
+{
+  "id": 857595485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835028,21.285305,-157.835028,21.285305",
+    "geom:latitude":21.285305,
+    "geom:longitude":-157.835028,
+    "iso:country":"US",
+    "sg:address":"1956 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 7275",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "operation",
+        "nonresidential"
+    ],
+    "sg:website":"www.alana-doubletree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iIOuLIMO9uOd1N4baKFdn_21.285305_-157.835028@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203883,
+    "wof:geomhash":"812c3a502c02d9fa2c06f2c273ed11ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857595485
+        }
+    ],
+    "wof:id":857595485,
+    "wof:lastmodified":1464203883,
+    "wof:name":"Doubletree Alana Waikiki Hotel",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operation",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.835028,
+    21.285305,
+    -157.835028,
+    21.285305
+],
+  "geometry": {"coordinates":[-157.83502799999999,21.285305],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857603441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.486625,20.90538,-156.486625,20.90538",
+    "geom:latitude":20.90538,
+    "geom:longitude":-156.486625,
+    "iso:country":"US",
+    "sg:address":"880 Kolu St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 6652",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jkhPI9KPCsIPMlz0nLOYS_20.905380_-156.486625@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204061,
+    "wof:geomhash":"81dd930439b8203bc234e2be462619a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857603441
+        }
+    ],
+    "wof:id":857603441,
+    "wof:lastmodified":1464204061,
+    "wof:name":"Dani's Catering",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer",
+        "catering"
+    ]
+},
+  "bbox": [
+    -156.486625,
+    20.90538,
+    -156.486625,
+    20.90538
+],
+  "geometry": {"coordinates":[-156.486625,20.90538],"type":"Point"}
+}

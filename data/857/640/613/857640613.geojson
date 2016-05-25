@@ -1,0 +1,75 @@
+{
+  "id": 857640613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.111503,21.587763,-158.111503,21.587763",
+    "geom:latitude":21.587763,
+    "geom:longitude":-158.111503,
+    "iso:country":"US",
+    "sg:address":"377 Haleiwa Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4485",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l810ZohhlWPWFe2Z6jjj1_21.587763_-158.111503@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205049,
+    "wof:geomhash":"ec77f8ac508adf71a3f2e915f31754d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857640613
+        }
+    ],
+    "wof:id":857640613,
+    "wof:lastmodified":1464205049,
+    "wof:name":"Ray's Refrigeration AC & Appl",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -158.111503,
+    21.587763,
+    -158.111503,
+    21.587763
+],
+  "geometry": {"coordinates":[-158.111503,21.587763],"type":"Point"}
+}

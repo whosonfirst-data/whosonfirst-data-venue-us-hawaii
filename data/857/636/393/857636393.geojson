@@ -1,0 +1,75 @@
+{
+  "id": 857636393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971735,21.412573,-157.971735,21.412573",
+    "geom:latitude":21.412573,
+    "geom:longitude":-157.971735,
+    "iso:country":"US",
+    "sg:address":"1362 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 9300",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n4BWaMp7FnSCJarg3Jbxv_21.412573_-157.971735@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204882,
+    "wof:geomhash":"e202de95be14cca025abdc23be25d438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857636393
+        }
+    ],
+    "wof:id":857636393,
+    "wof:lastmodified":1464204882,
+    "wof:name":"Cornair Remodeling",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.971735,
+    21.412573,
+    -157.971735,
+    21.412573
+],
+  "geometry": {"coordinates":[-157.971735,21.412573],"type":"Point"}
+}

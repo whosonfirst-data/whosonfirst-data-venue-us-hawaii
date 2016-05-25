@@ -1,0 +1,80 @@
+{
+  "id": 857592331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807215,21.286944,-157.807215,21.286944",
+    "geom:latitude":21.286944,
+    "geom:longitude":-157.807215,
+    "iso:country":"US",
+    "sg:address":"3165 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9099",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "builder",
+        "manager",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tzTgW0OvDarqqpYmjLg3S_21.286944_-157.807215@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203811,
+    "wof:geomhash":"292f277711aa3ec7476a741b9ce7ad6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857592331
+        }
+    ],
+    "wof:id":857592331,
+    "wof:lastmodified":1464203811,
+    "wof:name":"Mark Development Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "manager",
+        "operative"
+    ]
+},
+  "bbox": [
+    -157.807215,
+    21.286944,
+    -157.807215,
+    21.286944
+],
+  "geometry": {"coordinates":[-157.80721500000001,21.286944],"type":"Point"}
+}

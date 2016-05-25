@@ -1,0 +1,73 @@
+{
+  "id": 857670277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028665,21.491513,-158.028665,21.491513",
+    "geom:latitude":21.491513,
+    "geom:longitude":-158.028665,
+    "iso:country":"US",
+    "sg:address":"230 Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 6328",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06svM4nBm57CvN0qBKd8VJ_21.491513_-158.028665@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206350,
+    "wof:geomhash":"2fc3cdce49bb32e490ff59d891eb1d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857670277
+        }
+    ],
+    "wof:id":857670277,
+    "wof:lastmodified":1464206350,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -158.028665,
+    21.491513,
+    -158.028665,
+    21.491513
+],
+  "geometry": {"coordinates":[-158.02866499999999,21.491513],"type":"Point"}
+}

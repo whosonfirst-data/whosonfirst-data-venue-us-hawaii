@@ -1,0 +1,73 @@
+{
+  "id": 857585017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798128,21.272171,-157.798128,21.272171",
+    "geom:latitude":21.272171,
+    "geom:longitude":-157.798128,
+    "iso:country":"US",
+    "sg:address":"3850 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 4938",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CcsEV9UtoWATe6I5Vr4gf_21.272171_-157.798128@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203645,
+    "wof:geomhash":"851c2f926e873333bc19dc127f83f210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857585017
+        }
+    ],
+    "wof:id":857585017,
+    "wof:lastmodified":1464203645,
+    "wof:name":"Fast Rooter Plumbing",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.798128,
+    21.272171,
+    -157.798128,
+    21.272171
+],
+  "geometry": {"coordinates":[-157.79812799999999,21.272171],"type":"Point"}
+}

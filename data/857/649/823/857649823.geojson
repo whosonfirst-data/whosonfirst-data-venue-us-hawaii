@@ -1,0 +1,71 @@
+{
+  "id": 857649823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.934539,21.400555,-157.934539,21.400555",
+    "geom:latitude":21.400555,
+    "geom:longitude":-157.934539,
+    "iso:country":"US",
+    "sg:address":"777 Naalii St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 8377",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wHzfy53XXC0ktBvyZyBiK_21.400555_-157.934539@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205448,
+    "wof:geomhash":"eb2def1d92bd42c228a7f1e6d309446a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857649823
+        }
+    ],
+    "wof:id":857649823,
+    "wof:lastmodified":1464205448,
+    "wof:name":"Mikor Travel",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.934539,
+    21.400555,
+    -157.934539,
+    21.400555
+],
+  "geometry": {"coordinates":[-157.934539,21.400555],"type":"Point"}
+}

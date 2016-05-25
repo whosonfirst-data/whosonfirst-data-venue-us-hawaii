@@ -1,0 +1,73 @@
+{
+  "id": 857669885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997408,21.389559,-157.997408,21.389559",
+    "geom:latitude":21.389559,
+    "geom:longitude":-157.997408,
+    "iso:country":"US",
+    "sg:address":"1128 Kahuamo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 1029",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zARGyUtkYdGuTOe6ohwNN_21.389559_-157.997408@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206337,
+    "wof:geomhash":"f2a73d11462fb92760096d1510a5d1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857669885
+        }
+    ],
+    "wof:id":857669885,
+    "wof:lastmodified":1464206337,
+    "wof:name":"Farrington Physical Therapy SE",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -157.997408,
+    21.389559,
+    -157.997408,
+    21.389559
+],
+  "geometry": {"coordinates":[-157.99740800000001,21.389559],"type":"Point"}
+}

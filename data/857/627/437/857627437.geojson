@@ -1,0 +1,73 @@
+{
+  "id": 857627437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883158,21.326324,-157.883158,21.326324",
+    "geom:latitude":21.326324,
+    "geom:longitude":-157.883158,
+    "iso:country":"US",
+    "sg:address":"345 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 1506",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EhZtaZ14N9D4rP0gTLKJA_21.326324_-157.883158@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204612,
+    "wof:geomhash":"f99f0893003b3d485bcdaedd7dbde1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857627437
+        }
+    ],
+    "wof:id":857627437,
+    "wof:lastmodified":1464204612,
+    "wof:name":"Seril Automotive Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.883158,
+    21.326324,
+    -157.883158,
+    21.326324
+],
+  "geometry": {"coordinates":[-157.88315800000001,21.326324],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857681311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850952,21.292601,-157.850952,21.292601",
+    "geom:latitude":21.292601,
+    "geom:longitude":-157.850952,
+    "iso:country":"US",
+    "sg:address":"1288 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108559-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2891",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gA0GZqHWJqoDQjZxA1J2S_21.292601_-157.850952@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206779,
+    "wof:geomhash":"f6a87b54cf41eaa250d57319541f4a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681311
+        }
+    ],
+    "wof:id":857681311,
+    "wof:lastmodified":1464206779,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.850952,
+    21.292601,
+    -157.850952,
+    21.292601
+],
+  "geometry": {"coordinates":[-157.85095200000001,21.292601],"type":"Point"}
+}

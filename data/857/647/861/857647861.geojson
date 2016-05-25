@@ -1,0 +1,71 @@
+{
+  "id": 857647861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504654,20.891506,-156.504654,20.891506",
+    "geom:latitude":20.891506,
+    "geom:longitude":-156.504654,
+    "iso:country":"US",
+    "sg:address":"28 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 0852",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o0lCG9WJv71Bas7DtKEUp_20.891506_-156.504654@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205372,
+    "wof:geomhash":"24f8867228182d5b74b5919e26696625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857647861
+        }
+    ],
+    "wof:id":857647861,
+    "wof:lastmodified":1464205372,
+    "wof:name":"Cafe Marc Aurel",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -156.504654,
+    20.891506,
+    -156.504654,
+    20.891506
+],
+  "geometry": {"coordinates":[-156.50465399999999,20.891506],"type":"Point"}
+}

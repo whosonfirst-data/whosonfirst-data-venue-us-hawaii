@@ -1,0 +1,71 @@
+{
+  "id": 857606401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840317,21.30053,-157.840317,21.30053",
+    "geom:latitude":21.30053,
+    "geom:longitude":-157.840317,
+    "iso:country":"US",
+    "sg:address":"1299 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8323",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lt848ZbMpK2xFg10xw7t9_21.300530_-157.840317@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204123,
+    "wof:geomhash":"a293f6e0cf8cec9e692ce97bb750ed2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857606401
+        }
+    ],
+    "wof:id":857606401,
+    "wof:lastmodified":1464204123,
+    "wof:name":"Sato & Yamamoto",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -157.840317,
+    21.30053,
+    -157.840317,
+    21.30053
+],
+  "geometry": {"coordinates":[-157.840317,21.30053],"type":"Point"}
+}

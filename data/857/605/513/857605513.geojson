@@ -1,0 +1,73 @@
+{
+  "id": 857605513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866048,21.331631,-157.866048,21.331631",
+    "geom:latitude":21.331631,
+    "geom:longitude":-157.866048,
+    "iso:country":"US",
+    "sg:address":"1339 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5831",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xGIjU3eNuavM7hvtgIhr7_21.331631_-157.866048@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204107,
+    "wof:geomhash":"1d3a50ec93e5214828effc263129415b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857605513
+        }
+    ],
+    "wof:id":857605513,
+    "wof:lastmodified":1464204107,
+    "wof:name":"Kamehameha Bakery Inc",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.866048,
+    21.331631,
+    -157.866048,
+    21.331631
+],
+  "geometry": {"coordinates":[-157.86604800000001,21.331631],"type":"Point"}
+}

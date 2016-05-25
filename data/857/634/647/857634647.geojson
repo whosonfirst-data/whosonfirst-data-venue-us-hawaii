@@ -1,0 +1,71 @@
+{
+  "id": 857634647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874274,21.317565,-157.874274,21.317565",
+    "geom:latitude":21.317565,
+    "geom:longitude":-157.874274,
+    "iso:country":"US",
+    "sg:address":"500 Alakawa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3744",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cbyykhEaVW45mKOOP32IO_21.317565_-157.874274@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204820,
+    "wof:geomhash":"fbdfc78206312bd4e4022cbb8a2a15a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857634647
+        }
+    ],
+    "wof:id":857634647,
+    "wof:lastmodified":1464204820,
+    "wof:name":"W L Manufacturing Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment"
+    ]
+},
+  "bbox": [
+    -157.874274,
+    21.317565,
+    -157.874274,
+    21.317565
+],
+  "geometry": {"coordinates":[-157.87427400000001,21.317565],"type":"Point"}
+}

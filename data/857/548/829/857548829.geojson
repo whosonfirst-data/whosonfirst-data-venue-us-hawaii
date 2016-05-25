@@ -1,0 +1,78 @@
+{
+  "id": 857548829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813447,21.305575,-157.813447,21.305575",
+    "geom:latitude":21.305575,
+    "geom:longitude":-157.813447,
+    "iso:country":"US",
+    "sg:address":"2715 Pamoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 5678",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n17lRnMkle4p922zlTmJN_21.305575_-157.813447@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202908,
+    "wof:geomhash":"11e8ae0aa2f0badded65a21b4c653a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857548829
+        }
+    ],
+    "wof:id":857548829,
+    "wof:lastmodified":1464202908,
+    "wof:name":"Franciscan Adult Day Center",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -157.813447,
+    21.305575,
+    -157.813447,
+    21.305575
+],
+  "geometry": {"coordinates":[-157.813447,21.305575],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857640535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794287,21.27384,-157.794287,21.27384",
+    "geom:latitude":21.27384,
+    "geom:longitude":-157.794287,
+    "iso:country":"US",
+    "sg:address":"819 19th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 8676",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DHPL10iDOJ5A68lBZYI6O_21.273840_-157.794287@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205046,
+    "wof:geomhash":"5cf4081769138964aa9c39dbbec4e979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857640535
+        }
+    ],
+    "wof:id":857640535,
+    "wof:lastmodified":1464205046,
+    "wof:name":"Kikuta Painting Corporation",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.794287,
+    21.27384,
+    -157.794287,
+    21.27384
+],
+  "geometry": {"coordinates":[-157.794287,21.27384],"type":"Point"}
+}

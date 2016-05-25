@@ -1,0 +1,71 @@
+{
+  "id": 857517717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.502083,20.895992,-156.502083,20.895992",
+    "geom:latitude":20.895992,
+    "geom:longitude":-156.502083,
+    "iso:country":"US",
+    "sg:address":"1721 Wili Pa Loop",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 986 8118",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10VtEhnN4NJZdTmskpd3Ls_20.895992_-156.502083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202303,
+    "wof:geomhash":"c083a325d50b26cf1aed97bef27bd24e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857517717
+        }
+    ],
+    "wof:id":857517717,
+    "wof:lastmodified":1464202303,
+    "wof:name":"Home Managers LLC",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -156.502083,
+    20.895992,
+    -156.502083,
+    20.895992
+],
+  "geometry": {"coordinates":[-156.502083,20.895992],"type":"Point"}
+}

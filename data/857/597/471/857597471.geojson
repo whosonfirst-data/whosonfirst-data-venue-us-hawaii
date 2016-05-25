@@ -1,0 +1,71 @@
+{
+  "id": 857597471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.462225,20.893965,-156.462225,20.893965",
+    "geom:latitude":20.893965,
+    "geom:longitude":-156.462225,
+    "iso:country":"US",
+    "sg:address":"140 Hobron Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 4644",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dCxaQnOLUZVN4etziE7A_20.893965_-156.462225@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203931,
+    "wof:geomhash":"1cfef78f7535e9b961f63bd4dcbe398d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857597471
+        }
+    ],
+    "wof:id":857597471,
+    "wof:lastmodified":1464203931,
+    "wof:name":"Meo Transportation Maint Sp",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -156.462225,
+    20.893965,
+    -156.462225,
+    20.893965
+],
+  "geometry": {"coordinates":[-156.46222499999999,20.893965],"type":"Point"}
+}

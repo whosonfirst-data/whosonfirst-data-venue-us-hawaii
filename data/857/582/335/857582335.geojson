@@ -1,0 +1,75 @@
+{
+  "id": 857582335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835299,21.31908,-157.835299,21.31908",
+    "geom:latitude":21.31908,
+    "geom:longitude":-157.835299,
+    "iso:country":"US",
+    "sg:address":"2261 Kaululaau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 1218",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "diving",
+        "tours",
+        "scuba"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q5MZk3jYSe2f4HJM6PoGG_21.319080_-157.835299@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203596,
+    "wof:geomhash":"c1ebd45e52b2bd6caf5789d95cf58fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857582335
+        }
+    ],
+    "wof:id":857582335,
+    "wof:lastmodified":1464203596,
+    "wof:name":"Grand Blue",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "tours",
+        "scuba"
+    ]
+},
+  "bbox": [
+    -157.835299,
+    21.31908,
+    -157.835299,
+    21.31908
+],
+  "geometry": {"coordinates":[-157.83529899999999,21.31908],"type":"Point"}
+}

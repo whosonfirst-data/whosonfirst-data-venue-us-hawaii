@@ -1,0 +1,73 @@
+{
+  "id": 857514585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.756488,21.288184,-157.756488,21.288184",
+    "geom:latitude":21.288184,
+    "geom:longitude":-157.756488,
+    "iso:country":"US",
+    "sg:address":"555 Kiholo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 5747",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fFEHBlUNbeFoe2Y1Y482X_21.288184_-157.756488@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202244,
+    "wof:geomhash":"95b27ec4bb346badc79c299777d40dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857514585
+        }
+    ],
+    "wof:id":857514585,
+    "wof:lastmodified":1464202244,
+    "wof:name":"Commercial Laundry Equipment",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "washing"
+    ]
+},
+  "bbox": [
+    -157.756488,
+    21.288184,
+    -157.756488,
+    21.288184
+],
+  "geometry": {"coordinates":[-157.75648799999999,21.288184],"type":"Point"}
+}

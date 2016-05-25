@@ -1,0 +1,73 @@
+{
+  "id": 857605291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877701,21.325253,-157.877701,21.325253",
+    "geom:latitude":21.325253,
+    "geom:longitude":-157.877701,
+    "iso:country":"US",
+    "sg:address":"1427 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 6800",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m32WRNubbgChO6u38WAdE_21.325253_-157.877701@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204102,
+    "wof:geomhash":"b3ce3f26dc26a823ae622b9c288092f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857605291
+        }
+    ],
+    "wof:id":857605291,
+    "wof:lastmodified":1464204102,
+    "wof:name":"Gateway Travel & Allied Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.877701,
+    21.325253,
+    -157.877701,
+    21.325253
+],
+  "geometry": {"coordinates":[-157.877701,21.325253],"type":"Point"}
+}

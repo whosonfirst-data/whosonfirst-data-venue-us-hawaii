@@ -1,0 +1,73 @@
+{
+  "id": 857600677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.97393,21.403589,-157.97393,21.403589",
+    "geom:latitude":21.403589,
+    "geom:longitude":-157.97393,
+    "iso:country":"US",
+    "sg:address":"1216 Kuokoa St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 6675",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "breeding",
+        "bird"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36GHI4cBtUPEvx6CqKMTQG_21.403589_-157.973930@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204000,
+    "wof:geomhash":"c79fe0bea0e1243d0fe0117170438ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857600677
+        }
+    ],
+    "wof:id":857600677,
+    "wof:lastmodified":1464204000,
+    "wof:name":"Kimico",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeding",
+        "bird"
+    ]
+},
+  "bbox": [
+    -157.97393,
+    21.403589,
+    -157.97393,
+    21.403589
+],
+  "geometry": {"coordinates":[-157.97393,21.403589],"type":"Point"}
+}

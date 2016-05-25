@@ -1,0 +1,72 @@
+{
+  "id": 857681565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868353,21.336301,-157.868353,21.336301",
+    "geom:latitude":21.336301,
+    "geom:longitude":-157.868353,
+    "iso:country":"US",
+    "sg:address":"1620 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108561-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 1430",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gLv7cAfz9CxmWRqlkL23R_21.336301_-157.868353@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206788,
+    "wof:geomhash":"6210e321a4873135107553a578b2be1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857681565
+        }
+    ],
+    "wof:id":857681565,
+    "wof:lastmodified":1464206788,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.868353,
+    21.336301,
+    -157.868353,
+    21.336301
+],
+  "geometry": {"coordinates":[-157.86835300000001,21.336301],"type":"Point"}
+}

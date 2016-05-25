@@ -1,0 +1,73 @@
+{
+  "id": 857592427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836486,21.456319,-157.836486,21.456319",
+    "geom:latitude":21.456319,
+    "geom:longitude":-157.836486,
+    "iso:country":"US",
+    "sg:address":"521 Lulani St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 8361",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08WzVgmXX24Ci2RvSyeIvS_21.456319_-157.836486@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203813,
+    "wof:geomhash":"c32180bee7df03f90692a29cc8e488be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857592427
+        }
+    ],
+    "wof:id":857592427,
+    "wof:lastmodified":1464203813,
+    "wof:name":"Steve's Garage On Wheels",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.836486,
+    21.456319,
+    -157.836486,
+    21.456319
+],
+  "geometry": {"coordinates":[-157.83648600000001,21.456319],"type":"Point"}
+}

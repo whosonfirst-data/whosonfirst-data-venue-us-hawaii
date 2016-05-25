@@ -1,0 +1,85 @@
+{
+  "id": 857607177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902705,21.333031,-157.902705,21.333031",
+    "geom:latitude":21.333031,
+    "geom:longitude":-157.902705,
+    "iso:country":"US",
+    "sg:address":"2968 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1135",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EZmUW3jFmUcJPylCfNnld_21.333031_-157.902705@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204138,
+    "wof:geomhash":"390734c5a9c3cc7734c4281ffe7728a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857607177
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857607177
+        }
+    ],
+    "wof:id":857607177,
+    "wof:lastmodified":1464204138,
+    "wof:name":"R G Auto Body & Paint Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -157.902705,
+    21.333031,
+    -157.902705,
+    21.333031
+],
+  "geometry": {"coordinates":[-157.902705,21.333031],"type":"Point"}
+}

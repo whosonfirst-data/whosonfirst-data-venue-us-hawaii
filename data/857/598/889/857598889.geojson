@@ -1,0 +1,73 @@
+{
+  "id": 857598889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.986592,19.675247,-155.986592,19.675247",
+    "geom:latitude":19.675247,
+    "geom:longitude":-155.986592,
+    "iso:country":"US",
+    "sg:address":"978 Manawalea St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 0700",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937431,
+        102085433,
+        85890335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WixeMrfaKjFQFHDgDYFwz_19.675247_-155.986592@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203959,
+    "wof:geomhash":"0e4a1162dc63eba3c6a1516bb83d0068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937431,
+            "neighbourhood_id":85890335,
+            "region_id":85688671,
+            "venue_id":857598889
+        }
+    ],
+    "wof:id":857598889,
+    "wof:lastmodified":1464203959,
+    "wof:name":"Kona Montessori School",
+    "wof:parent_id":85890335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -155.986592,
+    19.675247,
+    -155.986592,
+    19.675247
+],
+  "geometry": {"coordinates":[-155.986592,19.675247],"type":"Point"}
+}

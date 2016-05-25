@@ -1,0 +1,73 @@
+{
+  "id": 857628785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830014,21.28034,-157.830014,21.28034",
+    "geom:latitude":21.28034,
+    "geom:longitude":-157.830014,
+    "iso:country":"US",
+    "sg:address":"2155 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 3900",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fRUpqPkDvatJ5Y1WxIGgx_21.280340_-157.830014@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204638,
+    "wof:geomhash":"8d087b12c2cc3cd77e8407c2e6eec36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857628785
+        }
+    ],
+    "wof:id":857628785,
+    "wof:lastmodified":1464204638,
+    "wof:name":"Marie's Health Foods-Organic",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -157.830014,
+    21.28034,
+    -157.830014,
+    21.28034
+],
+  "geometry": {"coordinates":[-157.83001400000001,21.28034],"type":"Point"}
+}

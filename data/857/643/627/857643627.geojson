@@ -1,0 +1,79 @@
+{
+  "id": 857643627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853939,21.297699,-157.853939,21.297699",
+    "geom:latitude":21.297699,
+    "geom:longitude":-157.853939,
+    "iso:country":"US",
+    "sg:address":"515 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8205",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "mill",
+        "oil",
+        "soybean",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uuOwdoFR3dSmoTxI3MMbo_21.297699_-157.853939@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205179,
+    "wof:geomhash":"a00a609178b2736984d39fd8d52cfb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857643627
+        }
+    ],
+    "wof:id":857643627,
+    "wof:lastmodified":1464205179,
+    "wof:name":"Kanai Tofu Factory",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mill",
+        "oil",
+        "soybean",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.853939,
+    21.297699,
+    -157.853939,
+    21.297699
+],
+  "geometry": {"coordinates":[-157.853939,21.297699],"type":"Point"}
+}

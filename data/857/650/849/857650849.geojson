@@ -1,0 +1,73 @@
+{
+  "id": 857650849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.99927,19.646001,-155.99927,19.646001",
+    "geom:latitude":19.646001,
+    "geom:longitude":-155.99927,
+    "iso:country":"US",
+    "sg:address":"5600 Alapa St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 3965",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26dPyl5fjDh9RRarE5InyY_19.646001_-155.999270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205489,
+    "wof:geomhash":"82d022d51b11bca284ff5bfed60301fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857650849
+        }
+    ],
+    "wof:id":857650849,
+    "wof:lastmodified":1464205489,
+    "wof:name":"Cantor Brothers Transport Svc",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -155.99927,
+    19.646001,
+    -155.99927,
+    19.646001
+],
+  "geometry": {"coordinates":[-155.99927,19.646001],"type":"Point"}
+}

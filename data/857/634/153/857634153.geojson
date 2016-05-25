@@ -1,0 +1,83 @@
+{
+  "id": 857634153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850787,21.320448,-157.850787,21.320448",
+    "geom:latitude":21.320448,
+    "geom:longitude":-157.850787,
+    "iso:country":"US",
+    "sg:address":"2024 Ohai Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 2266",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photography",
+        "fine",
+        "gallery",
+        "dealer"
+    ],
+    "sg:website":"www.kastnerdesign.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1smMAuV17TSVwRVcoYDq9j_21.320448_-157.850787@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204803,
+    "wof:geomhash":"cd63d37769b8a936991ce656b004bf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857634153
+        }
+    ],
+    "wof:id":857634153,
+    "wof:lastmodified":1464204803,
+    "wof:name":"Kastner Design Associates",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "fine",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.850787,
+    21.320448,
+    -157.850787,
+    21.320448
+],
+  "geometry": {"coordinates":[-157.850787,21.320448],"type":"Point"}
+}

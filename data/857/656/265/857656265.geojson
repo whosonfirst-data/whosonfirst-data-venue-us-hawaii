@@ -1,0 +1,73 @@
+{
+  "id": 857656265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831526,21.285621,-157.831526,21.285621",
+    "geom:latitude":21.285621,
+    "geom:longitude":-157.831526,
+    "iso:country":"US",
+    "sg:address":"439 Keoniana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 5085",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_239xuRdPukNRriRSl7g3b8_21.285621_-157.831526@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205736,
+    "wof:geomhash":"6ede68b98851679e139d685991a351c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857656265
+        }
+    ],
+    "wof:id":857656265,
+    "wof:lastmodified":1464205736,
+    "wof:name":"Island Travel",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.831526,
+    21.285621,
+    -157.831526,
+    21.285621
+],
+  "geometry": {"coordinates":[-157.831526,21.285621],"type":"Point"}
+}

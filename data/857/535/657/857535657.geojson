@@ -1,0 +1,73 @@
+{
+  "id": 857535657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723732,21.373572,-157.723732,21.373572",
+    "geom:latitude":21.373572,
+    "geom:longitude":-157.723732,
+    "iso:country":"US",
+    "sg:address":"1338 Lekeona St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 8891",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nu0uyx9vXEIEg1o4UYEym_21.373572_-157.723732@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202655,
+    "wof:geomhash":"6ddfae68179f56f26ecb2e068161ca6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857535657
+        }
+    ],
+    "wof:id":857535657,
+    "wof:lastmodified":1464202655,
+    "wof:name":"Yum's Contracting",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.723732,
+    21.373572,
+    -157.723732,
+    21.373572
+],
+  "geometry": {"coordinates":[-157.72373200000001,21.373572],"type":"Point"}
+}

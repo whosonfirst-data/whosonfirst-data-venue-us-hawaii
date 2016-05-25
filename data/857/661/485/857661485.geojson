@@ -1,0 +1,73 @@
+{
+  "id": 857661485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834372,21.288059,-157.834372,21.288059",
+    "geom:latitude":21.288059,
+    "geom:longitude":-157.834372,
+    "iso:country":"US",
+    "sg:address":"1833 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5588",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pLyIkYnyZLOJVcXe8ECgG_21.288059_-157.834372@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205992,
+    "wof:geomhash":"f1b126aacf809392848113c6b9dbdee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857661485
+        }
+    ],
+    "wof:id":857661485,
+    "wof:lastmodified":1464205992,
+    "wof:name":"Dental Ceramics Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -157.834372,
+    21.288059,
+    -157.834372,
+    21.288059
+],
+  "geometry": {"coordinates":[-157.834372,21.288059],"type":"Point"}
+}

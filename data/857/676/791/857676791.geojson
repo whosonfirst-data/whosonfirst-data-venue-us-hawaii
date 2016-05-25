@@ -1,0 +1,71 @@
+{
+  "id": 857676791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.728747,21.376895,-157.728747,21.376895",
+    "geom:latitude":21.376895,
+    "geom:longitude":-157.728747,
+    "iso:country":"US",
+    "sg:address":"1090 Keolu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 8575",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aoe1gONcx2P042R0dManh_21.376895_-157.728747@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206605,
+    "wof:geomhash":"b49602f42413ae37eae95868604e37a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857676791
+        }
+    ],
+    "wof:id":857676791,
+    "wof:lastmodified":1464206605,
+    "wof:name":"Kailua City Hall",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -157.728747,
+    21.376895,
+    -157.728747,
+    21.376895
+],
+  "geometry": {"coordinates":[-157.728747,21.376895],"type":"Point"}
+}

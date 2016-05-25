@@ -1,0 +1,73 @@
+{
+  "id": 857681255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860962,21.309856,-157.860962,21.309856",
+    "geom:latitude":21.309856,
+    "geom:longitude":-157.860962,
+    "iso:country":"US",
+    "sg:address":"1101 Fort Street Mall",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/202769-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35xUjkol2y3f76Cl2LAQf2_21.309856_-157.860962@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206777,
+    "wof:geomhash":"03e0bf45f41f725f58a5b02efe6f586e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857681255
+        }
+    ],
+    "wof:id":857681255,
+    "wof:lastmodified":1464206777,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.860962,
+    21.309856,
+    -157.860962,
+    21.309856
+],
+  "geometry": {"coordinates":[-157.860962,21.309856],"type":"Point"}
+}

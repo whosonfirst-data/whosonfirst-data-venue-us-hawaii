@@ -1,0 +1,74 @@
+{
+  "id": 857550441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819613,21.301159,-157.819613,21.301159",
+    "geom:latitude":21.301159,
+    "geom:longitude":-157.819613,
+    "iso:country":"US",
+    "sg:address":"2404 Maile Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 6286",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "sg:website":"www.hawaii.edu/pbcp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00nITEaPxThB4ZgLR4nl9C_21.301159_-157.819613@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202939,
+    "wof:geomhash":"cf3216ea60b188643980aac00ac8d944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857550441
+        }
+    ],
+    "wof:id":857550441,
+    "wof:lastmodified":1464202939,
+    "wof:name":"Pacific Business Ctr Program",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -157.819613,
+    21.301159,
+    -157.819613,
+    21.301159
+],
+  "geometry": {"coordinates":[-157.819613,21.301159],"type":"Point"}
+}

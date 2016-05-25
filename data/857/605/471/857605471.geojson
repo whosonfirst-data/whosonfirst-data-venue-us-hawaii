@@ -1,0 +1,73 @@
+{
+  "id": 857605471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830256,21.3099,-157.830256,21.3099",
+    "geom:latitude":21.3099,
+    "geom:longitude":-157.830256,
+    "iso:country":"US",
+    "sg:address":"2198 Round Top Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 7966",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sg08IB10VkTv8vr3TGpoB_21.309900_-157.830256@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204106,
+    "wof:geomhash":"5843840f2f8f17f0d06dd999e89f6573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857605471
+        }
+    ],
+    "wof:id":857605471,
+    "wof:lastmodified":1464204106,
+    "wof:name":"Douglas P Hagen Inc",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.830256,
+    21.3099,
+    -157.830256,
+    21.3099
+],
+  "geometry": {"coordinates":[-157.83025599999999,21.3099],"type":"Point"}
+}

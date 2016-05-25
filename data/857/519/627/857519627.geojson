@@ -1,0 +1,73 @@
+{
+  "id": 857519627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813205,21.27652,-157.813205,21.27652",
+    "geom:latitude":21.27652,
+    "geom:longitude":-157.813205,
+    "iso:country":"US",
+    "sg:address":"3111 Castle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 7387",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hospital",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdYqrHEZlltDOmRmXHeCu_21.276520_-157.813205@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202343,
+    "wof:geomhash":"d733561be597afa60245ee393c60ddeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857519627
+        }
+    ],
+    "wof:id":857519627,
+    "wof:lastmodified":1464202343,
+    "wof:name":"Animal Hospital Of Hawaii",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -157.813205,
+    21.27652,
+    -157.813205,
+    21.27652
+],
+  "geometry": {"coordinates":[-157.81320500000001,21.27652],"type":"Point"}
+}

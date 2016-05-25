@@ -1,0 +1,71 @@
+{
+  "id": 857562461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881493,21.332462,-157.881493,21.332462",
+    "geom:latitude":21.332462,
+    "geom:longitude":-157.881493,
+    "iso:country":"US",
+    "sg:address":"753 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6046",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tz9D4fSVK0LBGfUuxywxv_21.332462_-157.881493@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203211,
+    "wof:geomhash":"bcfc69b7acc83a024ceb7bde4d03e3a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857562461
+        }
+    ],
+    "wof:id":857562461,
+    "wof:lastmodified":1464203211,
+    "wof:name":"Rolands Electronics & Auto Acc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.881493,
+    21.332462,
+    -157.881493,
+    21.332462
+],
+  "geometry": {"coordinates":[-157.88149300000001,21.332462],"type":"Point"}
+}

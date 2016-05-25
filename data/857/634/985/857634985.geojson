@@ -1,0 +1,71 @@
+{
+  "id": 857634985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861083,21.313457,-157.861083,21.313457",
+    "geom:latitude":21.313457,
+    "geom:longitude":-157.861083,
+    "iso:country":"US",
+    "sg:address":"1290 Maunakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 6300",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MWs75TOufbGwCLEAi4VjU_21.313457_-157.861083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204831,
+    "wof:geomhash":"86fc6e2dbb49b1644ee0463e5b13fcc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857634985
+        }
+    ],
+    "wof:id":857634985,
+    "wof:lastmodified":1464204831,
+    "wof:name":"Cheung Chau Store",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.861083,
+    21.313457,
+    -157.861083,
+    21.313457
+],
+  "geometry": {"coordinates":[-157.86108300000001,21.313457],"type":"Point"}
+}

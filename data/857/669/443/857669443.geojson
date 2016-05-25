@@ -1,0 +1,73 @@
+{
+  "id": 857669443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.485108,20.903088,-156.485108,20.903088",
+    "geom:latitude":20.903088,
+    "geom:longitude":-156.485108,
+    "iso:country":"US",
+    "sg:address":"758 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5222",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "confectionery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EkcDehQTaUE5jLQupg7CS_20.903088_-156.485108@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206318,
+    "wof:geomhash":"fe23ff9141eaf0d8b43e09e9ee727e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857669443
+        }
+    ],
+    "wof:id":857669443,
+    "wof:lastmodified":1464206318,
+    "wof:name":"Shishido Manju Shop Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.485108,
+    20.903088,
+    -156.485108,
+    20.903088
+],
+  "geometry": {"coordinates":[-156.485108,20.903088],"type":"Point"}
+}

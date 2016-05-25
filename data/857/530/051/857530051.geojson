@@ -1,0 +1,73 @@
+{
+  "id": 857530051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.753187,21.414925,-157.753187,21.414925",
+    "geom:latitude":21.414925,
+    "geom:longitude":-157.753187,
+    "iso:country":"US",
+    "sg:address":"542 Ilimano St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 2117",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SM7FNqmwehSl53QwEntk8_21.414925_-157.753187@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202544,
+    "wof:geomhash":"8b81867ea622255ee4db381b0c271dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857530051
+        }
+    ],
+    "wof:id":857530051,
+    "wof:lastmodified":1464202544,
+    "wof:name":"Modern Electric Inc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.753187,
+    21.414925,
+    -157.753187,
+    21.414925
+],
+  "geometry": {"coordinates":[-157.753187,21.414925],"type":"Point"}
+}

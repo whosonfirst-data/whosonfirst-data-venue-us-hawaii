@@ -1,0 +1,71 @@
+{
+  "id": 857568325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008605,21.439668,-158.008605,21.439668",
+    "geom:latitude":21.439668,
+    "geom:longitude":-158.008605,
+    "iso:country":"US",
+    "sg:address":"515 Anania Ct",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8855",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VLZMgkRjnqLGzJ9Snv8Gq_21.439668_-158.008605@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203321,
+    "wof:geomhash":"c113c38fe37c77d0ccf7abdb20968e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857568325
+        }
+    ],
+    "wof:id":857568325,
+    "wof:lastmodified":1464203321,
+    "wof:name":"Airport Isle & Shuttle",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -158.008605,
+    21.439668,
+    -158.008605,
+    21.439668
+],
+  "geometry": {"coordinates":[-158.00860499999999,21.439668],"type":"Point"}
+}

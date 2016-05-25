@@ -1,0 +1,72 @@
+{
+  "id": 857644993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007576,21.455167,-158.007576,21.455167",
+    "geom:latitude":21.455167,
+    "geom:longitude":-158.007576,
+    "iso:country":"US",
+    "sg:address":"1249 Meheula Pkwy",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 7888",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.hawaiifamilydental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qXn9IZvUZkrS1CTKwvyyK_21.455167_-158.007576@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205238,
+    "wof:geomhash":"ce0cb552213c7606178239d204a40129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857644993
+        }
+    ],
+    "wof:id":857644993,
+    "wof:lastmodified":1464205238,
+    "wof:name":"Hawaii Family Dental Ctr",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -158.007576,
+    21.455167,
+    -158.007576,
+    21.455167
+],
+  "geometry": {"coordinates":[-158.007576,21.455167],"type":"Point"}
+}

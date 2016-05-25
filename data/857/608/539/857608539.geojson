@@ -1,0 +1,71 @@
+{
+  "id": 857608539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851161,21.319909,-157.851161,21.319909",
+    "geom:latitude":21.319909,
+    "geom:longitude":-157.851161,
+    "iso:country":"US",
+    "sg:address":"49 Funchal St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 4430",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "secondary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOP3OXgahVv2RoHputKaP_21.319909_-157.851161@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204177,
+    "wof:geomhash":"26fa3c61921cf699d4215e7c560198fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857608539
+        }
+    ],
+    "wof:id":857608539,
+    "wof:lastmodified":1464204177,
+    "wof:name":"Kawananakoa Middle School",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    -157.851161,
+    21.319909,
+    -157.851161,
+    21.319909
+],
+  "geometry": {"coordinates":[-157.85116099999999,21.319909],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857643253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901999,21.348383,-157.901999,21.348383",
+    "geom:latitude":21.348383,
+    "geom:longitude":-157.901999,
+    "iso:country":"US",
+    "sg:address":"1147 Ala Napunani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 0337",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TMSuf5lqaL8dEhxGGcqGV_21.348383_-157.901999@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205158,
+    "wof:geomhash":"959c637bed4370586ce4c1345810019c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857643253
+        }
+    ],
+    "wof:id":857643253,
+    "wof:lastmodified":1464205158,
+    "wof:name":"Lakecrest Condominium",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.901999,
+    21.348383,
+    -157.901999,
+    21.348383
+],
+  "geometry": {"coordinates":[-157.90199899999999,21.348383],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857679765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.490504,20.888121,-156.490504,20.888121",
+    "geom:latitude":20.888121,
+    "geom:longitude":-156.490504,
+    "iso:country":"US",
+    "sg:address":"100 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 6868",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UpFigrA7QDkcXBEkxoo0N_20.888121_-156.490504@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206721,
+    "wof:geomhash":"ec7a91fc9bf92870e2b476f673a9b765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857679765
+        }
+    ],
+    "wof:id":857679765,
+    "wof:lastmodified":1464206721,
+    "wof:name":"Maui Bulletin",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -156.490504,
+    20.888121,
+    -156.490504,
+    20.888121
+],
+  "geometry": {"coordinates":[-156.49050399999999,20.888121],"type":"Point"}
+}

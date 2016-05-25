@@ -1,0 +1,73 @@
+{
+  "id": 857568991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821397,21.300124,-157.821397,21.300124",
+    "geom:latitude":21.300124,
+    "geom:longitude":-157.821397,
+    "iso:country":"US",
+    "sg:address":"2318 Seaview Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 3624",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NGohCe3DpAdHDC4EXxdGD_21.300124_-157.821397@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203333,
+    "wof:geomhash":"c2dc3efa10dd71399d55f9afccbb5d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857568991
+        }
+    ],
+    "wof:id":857568991,
+    "wof:lastmodified":1464203333,
+    "wof:name":"Patricia Josephine",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.821397,
+    21.300124,
+    -157.821397,
+    21.300124
+],
+  "geometry": {"coordinates":[-157.82139699999999,21.300124],"type":"Point"}
+}

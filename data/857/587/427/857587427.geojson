@@ -1,0 +1,73 @@
+{
+  "id": 857587427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.086078,19.720402,-155.086078,19.720402",
+    "geom:latitude":19.720402,
+    "geom:longitude":-155.086078,
+    "iso:country":"US",
+    "sg:address":"466 Kinoole St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 8336",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SN4d3DlwbfWdkajSH4m62_19.720402_-155.086078@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203702,
+    "wof:geomhash":"fbdb0c5df329183534f038571f06dd94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857587427
+        }
+    ],
+    "wof:id":857587427,
+    "wof:lastmodified":1464203702,
+    "wof:name":"Fire Department of Hawaai",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -155.086078,
+    19.720402,
+    -155.086078,
+    19.720402
+],
+  "geometry": {"coordinates":[-155.08607799999999,19.720402],"type":"Point"}
+}

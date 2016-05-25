@@ -1,0 +1,71 @@
+{
+  "id": 857569443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026082,21.448348,-158.026082,21.448348",
+    "geom:latitude":21.448348,
+    "geom:longitude":-158.026082,
+    "iso:country":"US",
+    "sg:address":"553 Poiki Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 1800",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59azLtavFLK37bCaktC1KC_21.448348_-158.026082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203342,
+    "wof:geomhash":"7086ae88cc4edc0b15598aa25400f5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857569443
+        }
+    ],
+    "wof:id":857569443,
+    "wof:lastmodified":1464203342,
+    "wof:name":"Professional Home Inspection",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -158.026082,
+    21.448348,
+    -158.026082,
+    21.448348
+],
+  "geometry": {"coordinates":[-158.026082,21.448348],"type":"Point"}
+}

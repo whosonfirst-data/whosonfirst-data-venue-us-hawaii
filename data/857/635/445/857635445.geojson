@@ -1,0 +1,71 @@
+{
+  "id": 857635445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846929,21.32681,-157.846929,21.32681",
+    "geom:latitude":21.32681,
+    "geom:longitude":-157.846929,
+    "iso:country":"US",
+    "sg:address":"2313 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 7624",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6syMCFhjuJsfis543bOQwE_21.326810_-157.846929@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204848,
+    "wof:geomhash":"66be4501f6ff4710fbd7a9ec0117932d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857635445
+        }
+    ],
+    "wof:id":857635445,
+    "wof:lastmodified":1464204848,
+    "wof:name":"Little Friends Learning Center",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.846929,
+    21.32681,
+    -157.846929,
+    21.32681
+],
+  "geometry": {"coordinates":[-157.84692899999999,21.32681],"type":"Point"}
+}

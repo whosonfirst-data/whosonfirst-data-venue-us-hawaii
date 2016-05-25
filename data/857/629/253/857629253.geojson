@@ -1,0 +1,73 @@
+{
+  "id": 857629253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827021,21.290177,-157.827021,21.290177",
+    "geom:latitude":21.290177,
+    "geom:longitude":-157.827021,
+    "iso:country":"US",
+    "sg:address":"2211 Date St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 3920",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51vySycaq8ELuAI0X3nGq8_21.290177_-157.827021@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204647,
+    "wof:geomhash":"6572e79eaa0927dc17eb8aec8d81707c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857629253
+        }
+    ],
+    "wof:id":857629253,
+    "wof:lastmodified":1464204647,
+    "wof:name":"Kadomatsu Plumbing",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.827021,
+    21.290177,
+    -157.827021,
+    21.290177
+],
+  "geometry": {"coordinates":[-157.827021,21.290177],"type":"Point"}
+}

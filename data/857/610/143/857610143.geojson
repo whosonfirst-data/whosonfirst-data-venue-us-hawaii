@@ -1,0 +1,73 @@
+{
+  "id": 857610143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821852,21.291875,-157.821852,21.291875",
+    "geom:latitude":21.291875,
+    "geom:longitude":-157.821852,
+    "iso:country":"US",
+    "sg:address":"931 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2225",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GtwUpWct7raKvkUyQHbc5_21.291875_-157.821852@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204212,
+    "wof:geomhash":"5c69abb2c066b6b0e90866542ef2ff6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857610143
+        }
+    ],
+    "wof:id":857610143,
+    "wof:lastmodified":1464204212,
+    "wof:name":"Pamela's European Facials",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -157.821852,
+    21.291875,
+    -157.821852,
+    21.291875
+],
+  "geometry": {"coordinates":[-157.82185200000001,21.291875],"type":"Point"}
+}

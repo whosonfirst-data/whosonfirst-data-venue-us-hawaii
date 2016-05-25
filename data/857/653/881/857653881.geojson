@@ -1,0 +1,71 @@
+{
+  "id": 857653881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.763879,21.277455,-157.763879,21.277455",
+    "geom:latitude":21.277455,
+    "geom:longitude":-157.763879,
+    "iso:country":"US",
+    "sg:address":"4916 Waa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 4662",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "valet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7miuOq3ZR1wUM21ykCeLxd_21.277455_-157.763879@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205631,
+    "wof:geomhash":"dcbd7a295ddd21ee9119ef993171abba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857653881
+        }
+    ],
+    "wof:id":857653881,
+    "wof:lastmodified":1464205631,
+    "wof:name":"Courtesy Valet",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valet"
+    ]
+},
+  "bbox": [
+    -157.763879,
+    21.277455,
+    -157.763879,
+    21.277455
+],
+  "geometry": {"coordinates":[-157.763879,21.277455],"type":"Point"}
+}

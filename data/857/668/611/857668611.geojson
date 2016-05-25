@@ -1,0 +1,66 @@
+{
+  "id": 857668611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504133,20.896029,-156.504133,20.896029",
+    "geom:latitude":20.896029,
+    "geom:longitude":-156.504133,
+    "iso:country":"US",
+    "sg:address":"1797 Wili Pa Loop",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3929",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qKZeiGjV61Z4JTQ9kLCcc_20.896029_-156.504133@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206279,
+    "wof:geomhash":"75c75c533c10a0ac6d8b076cc01bb12c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857668611
+        }
+    ],
+    "wof:id":857668611,
+    "wof:lastmodified":1464206279,
+    "wof:name":"Accu-Pest and Trmt Ctrl Svcs",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.504133,
+    20.896029,
+    -156.504133,
+    20.896029
+],
+  "geometry": {"coordinates":[-156.504133,20.896029],"type":"Point"}
+}

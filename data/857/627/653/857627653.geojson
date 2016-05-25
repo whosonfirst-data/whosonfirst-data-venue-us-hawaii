@@ -1,0 +1,71 @@
+{
+  "id": 857627653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79411,21.259803,-157.79411,21.259803",
+    "geom:latitude":21.259803,
+    "geom:longitude":-157.79411,
+    "iso:country":"US",
+    "sg:address":"4220 Kahala Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9400",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41fqGDcqAtlOa1w2wKEgZ2_21.259803_-157.794110@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204616,
+    "wof:geomhash":"ed334fa9bf7ae3765fa341406cac1820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857627653
+        }
+    ],
+    "wof:id":857627653,
+    "wof:lastmodified":1464204616,
+    "wof:name":"Fo Walter SO Phd",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -157.79411,
+    21.259803,
+    -157.79411,
+    21.259803
+],
+  "geometry": {"coordinates":[-157.79410999999999,21.259803],"type":"Point"}
+}

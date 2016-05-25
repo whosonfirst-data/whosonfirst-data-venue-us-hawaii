@@ -1,0 +1,71 @@
+{
+  "id": 857656027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.355579,20.790354,-156.355579,20.790354",
+    "geom:latitude":20.790354,
+    "geom:longitude":-156.355579,
+    "iso:country":"US",
+    "sg:address":"775 Pulehu Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Berry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 876 0080",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hu4VF9F07iMgqtp8CUHD1_20.790354_-156.355579@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205726,
+    "wof:geomhash":"f659e37cd2b3179c09188788a2e5a22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857656027
+        }
+    ],
+    "wof:id":857656027,
+    "wof:lastmodified":1464205726,
+    "wof:name":"Hamamura Farms Corp",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop"
+    ]
+},
+  "bbox": [
+    -156.355579,
+    20.790354,
+    -156.355579,
+    20.790354
+],
+  "geometry": {"coordinates":[-156.35557900000001,20.790354],"type":"Point"}
+}

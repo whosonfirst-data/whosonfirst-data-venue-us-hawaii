@@ -1,0 +1,71 @@
+{
+  "id": 857551485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847664,21.319117,-157.847664,21.319117",
+    "geom:latitude":21.319117,
+    "geom:longitude":-157.847664,
+    "iso:country":"US",
+    "sg:address":"2124 Pauoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 6980",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oXnopy02ugvhZvhdbglYP_21.319117_-157.847664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202961,
+    "wof:geomhash":"28c7d7260924df7e0d0e1d1ff2628360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857551485
+        }
+    ],
+    "wof:id":857551485,
+    "wof:lastmodified":1464202961,
+    "wof:name":"Blessed Sacrament Church",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.847664,
+    21.319117,
+    -157.847664,
+    21.319117
+],
+  "geometry": {"coordinates":[-157.84766400000001,21.319117],"type":"Point"}
+}

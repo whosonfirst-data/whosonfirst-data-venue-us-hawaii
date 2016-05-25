@@ -1,0 +1,71 @@
+{
+  "id": 857668315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.962581,21.402415,-157.962581,21.402415",
+    "geom:latitude":21.402415,
+    "geom:longitude":-157.962581,
+    "iso:country":"US",
+    "sg:address":"785 Hoomaemae St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 7558",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kfo5EmMxigalwpmWZU8vD_21.402415_-157.962581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206269,
+    "wof:geomhash":"7ff2db3901c074e3df281286d72ea59c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857668315
+        }
+    ],
+    "wof:id":857668315,
+    "wof:lastmodified":1464206269,
+    "wof:name":"Honolulu City Pearl City Park",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.962581,
+    21.402415,
+    -157.962581,
+    21.402415
+],
+  "geometry": {"coordinates":[-157.962581,21.402415],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857662055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804825,21.416599,-157.804825,21.416599",
+    "geom:latitude":21.416599,
+    "geom:longitude":-157.804825,
+    "iso:country":"US",
+    "sg:address":"148 Kahuhipa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 236 0832",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oN2VvM8FpSbj6fA6g0yel_21.416599_-157.804825@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206013,
+    "wof:geomhash":"faf10031682575dcf7077e151da7c90b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857662055
+        }
+    ],
+    "wof:id":857662055,
+    "wof:lastmodified":1464206013,
+    "wof:name":"Auto Care Kaneohe",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.804825,
+    21.416599,
+    -157.804825,
+    21.416599
+],
+  "geometry": {"coordinates":[-157.80482499999999,21.416599],"type":"Point"}
+}

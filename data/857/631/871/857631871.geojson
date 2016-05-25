@@ -1,0 +1,71 @@
+{
+  "id": 857631871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859677,21.321714,-157.859677,21.321714",
+    "geom:latitude":21.321714,
+    "geom:longitude":-157.859677,
+    "iso:country":"US",
+    "sg:address":"1657 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 6100",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DO98k287p5zkcEJlBD0tZ_21.321714_-157.859677@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204709,
+    "wof:geomhash":"db1fc498f69c25253e44f3a6d110ce51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857631871
+        }
+    ],
+    "wof:id":857631871,
+    "wof:lastmodified":1464204709,
+    "wof:name":"Hi Tech Golf",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.859677,
+    21.321714,
+    -157.859677,
+    21.321714
+],
+  "geometry": {"coordinates":[-157.859677,21.321714],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857650695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020016,21.391538,-158.020016,21.391538",
+    "geom:latitude":21.391538,
+    "geom:longitude":-158.020016,
+    "iso:country":"US",
+    "sg:address":"104 Hoikaika Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1020",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WP7PfowgVIxwMoOHTTuBr_21.391538_-158.020016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205484,
+    "wof:geomhash":"8c780799bd5b9f1a87b1ef960969e7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857650695
+        }
+    ],
+    "wof:id":857650695,
+    "wof:lastmodified":1464205484,
+    "wof:name":"Paloma Electric",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.020016,
+    21.391538,
+    -158.020016,
+    21.391538
+],
+  "geometry": {"coordinates":[-158.020016,21.391538],"type":"Point"}
+}

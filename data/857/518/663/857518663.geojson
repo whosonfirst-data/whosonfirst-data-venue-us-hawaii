@@ -1,0 +1,75 @@
+{
+  "id": 857518663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.322112,20.84403,-156.322112,20.84403",
+    "geom:latitude":20.84403,
+    "geom:longitude":-156.322112,
+    "iso:country":"US",
+    "sg:address":"500 Laie Dr",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 276 0873",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mQX0Bv9mfUfYDyD8587jR_20.844030_-156.322112@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202323,
+    "wof:geomhash":"3d449d7a524b00092eb57d152327206d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857518663
+        }
+    ],
+    "wof:id":857518663,
+    "wof:lastmodified":1464202323,
+    "wof:name":"Green Island Gardening",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.322112,
+    20.84403,
+    -156.322112,
+    20.84403
+],
+  "geometry": {"coordinates":[-156.322112,20.84403],"type":"Point"}
+}

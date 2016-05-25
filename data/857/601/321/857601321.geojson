@@ -1,0 +1,75 @@
+{
+  "id": 857601321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804093,21.329105,-157.804093,21.329105",
+    "geom:latitude":21.329105,
+    "geom:longitude":-157.804093,
+    "iso:country":"US",
+    "sg:address":"3745 Kumukoa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 4397",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "datum",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HSHHgQ1j7ep4qMbKq4cj7_21.329105_-157.804093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204014,
+    "wof:geomhash":"354d05603d875a623519dcbf05559bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857601321
+        }
+    ],
+    "wof:id":857601321,
+    "wof:lastmodified":1464204014,
+    "wof:name":"Spiced Com",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "datum",
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.804093,
+    21.329105,
+    -157.804093,
+    21.329105
+],
+  "geometry": {"coordinates":[-157.80409299999999,21.329105],"type":"Point"}
+}

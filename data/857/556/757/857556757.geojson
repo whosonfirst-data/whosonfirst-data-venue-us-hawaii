@@ -1,0 +1,71 @@
+{
+  "id": 857556757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.908637,21.379362,-157.908637,21.379362",
+    "geom:latitude":21.379362,
+    "geom:longitude":-157.908637,
+    "iso:country":"US",
+    "sg:address":"1173 Iwaena St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 9166",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41wWqNsg565zrmKDpohYGP_21.379362_-157.908637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203067,
+    "wof:geomhash":"69b47178a1c61e4ac8a285b343a3a7ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857556757
+        }
+    ],
+    "wof:id":857556757,
+    "wof:lastmodified":1464203067,
+    "wof:name":"Glenn Tanaka",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.908637,
+    21.379362,
+    -157.908637,
+    21.379362
+],
+  "geometry": {"coordinates":[-157.908637,21.379362],"type":"Point"}
+}

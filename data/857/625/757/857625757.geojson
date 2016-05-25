@@ -1,0 +1,71 @@
+{
+  "id": 857625757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797909,21.282093,-157.797909,21.282093",
+    "geom:latitude":21.282093,
+    "geom:longitude":-157.797909,
+    "iso:country":"US",
+    "sg:address":"3633 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 4680",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kxXnFu7dmbFGvVY06XC7q_21.282093_-157.797909@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204578,
+    "wof:geomhash":"062403a3061bdef2b231c707c4e1492a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857625757
+        }
+    ],
+    "wof:id":857625757,
+    "wof:lastmodified":1464204578,
+    "wof:name":"Liliuokalani Elementary School",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.797909,
+    21.282093,
+    -157.797909,
+    21.282093
+],
+  "geometry": {"coordinates":[-157.797909,21.282093],"type":"Point"}
+}

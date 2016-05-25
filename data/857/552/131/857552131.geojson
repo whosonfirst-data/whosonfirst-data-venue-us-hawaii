@@ -1,0 +1,75 @@
+{
+  "id": 857552131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84225,21.296577,-157.84225,21.296577",
+    "geom:latitude":21.296577,
+    "geom:longitude":-157.84225,
+    "iso:country":"US",
+    "sg:address":"706 Sheridan St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 951 0100",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OqAJRxBtwg1ElazAJ15jz_21.296577_-157.842250@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202973,
+    "wof:geomhash":"692cef3ea3b442434341f92d66a7187c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857552131
+        }
+    ],
+    "wof:id":857552131,
+    "wof:lastmodified":1464202973,
+    "wof:name":"Club Junko",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.84225,
+    21.296577,
+    -157.84225,
+    21.296577
+],
+  "geometry": {"coordinates":[-157.84225000000001,21.296577],"type":"Point"}
+}

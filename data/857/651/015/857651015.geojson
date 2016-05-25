@@ -1,0 +1,71 @@
+{
+  "id": 857651015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.019885,21.385311,-158.019885,21.385311",
+    "geom:latitude":21.385311,
+    "geom:longitude":-158.019885,
+    "iso:country":"US",
+    "sg:address":"354 Honowai St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 9813",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gm0aS8EajSSGHcYFsDlYQ_21.385311_-158.019885@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205496,
+    "wof:geomhash":"9eb86709547f31321ae02f193721bb35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857651015
+        }
+    ],
+    "wof:id":857651015,
+    "wof:lastmodified":1464205496,
+    "wof:name":"Affordable Plumbing Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.019885,
+    21.385311,
+    -158.019885,
+    21.385311
+],
+  "geometry": {"coordinates":[-158.01988499999999,21.385311],"type":"Point"}
+}

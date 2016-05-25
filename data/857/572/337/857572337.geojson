@@ -1,0 +1,75 @@
+{
+  "id": 857572337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.693009,21.28953,-157.693009,21.28953",
+    "geom:latitude":21.28953,
+    "geom:longitude":-157.693009,
+    "iso:country":"US",
+    "sg:address":"640 Waikanaloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 6177",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer",
+        "laser",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4egev29YRuQiSummEImXgc_21.289530_-157.693009@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203394,
+    "wof:geomhash":"6d5e276fbc9a1635ee483eec404dc5a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857572337
+        }
+    ],
+    "wof:id":857572337,
+    "wof:lastmodified":1464203394,
+    "wof:name":"Laser Prtr Crtrdge Spclsts Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "laser",
+        "sales"
+    ]
+},
+  "bbox": [
+    -157.693009,
+    21.28953,
+    -157.693009,
+    21.28953
+],
+  "geometry": {"coordinates":[-157.69300899999999,21.28953],"type":"Point"}
+}

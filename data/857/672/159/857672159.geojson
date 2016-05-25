@@ -1,0 +1,71 @@
+{
+  "id": 857672159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318866,22.074318,-159.318866,22.074318",
+    "geom:latitude":22.074318,
+    "geom:longitude":-159.318866,
+    "iso:country":"US",
+    "sg:address":"1298 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 6994",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hzJeoNWv08h4bG3lXEHoD_22.074318_-159.318866@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206416,
+    "wof:geomhash":"5d52291389e2482b88a8ef7b38374d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857672159
+        }
+    ],
+    "wof:id":857672159,
+    "wof:lastmodified":1464206416,
+    "wof:name":"Like Inc Pono Cleaners",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -159.318866,
+    22.074318,
+    -159.318866,
+    22.074318
+],
+  "geometry": {"coordinates":[-159.31886600000001,22.074318],"type":"Point"}
+}

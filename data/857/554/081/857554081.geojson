@@ -1,0 +1,90 @@
+{
+  "id": 857554081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.634777,20.848425,-156.634777,20.848425",
+    "geom:latitude":20.848425,
+    "geom:longitude":-156.634777,
+    "iso:country":"US",
+    "sg:address":"701 Kai Hele Ku St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0779",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937615,
+        102085577,
+        85890513,
+        85890531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRl7quJyYVLPVNaua9mRL_20.848425_-156.634777@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203008,
+    "wof:geomhash":"fa81f372be806869759a7736e7bc7286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937615,
+            "neighbourhood_id":85890513,
+            "region_id":85688671,
+            "venue_id":857554081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937615,
+            "neighbourhood_id":85890531,
+            "region_id":85688671,
+            "venue_id":857554081
+        }
+    ],
+    "wof:id":857554081,
+    "wof:lastmodified":1464203008,
+    "wof:name":"Cherokee Construction Consulti",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "construction"
+    ]
+},
+  "bbox": [
+    -156.634777,
+    20.848425,
+    -156.634777,
+    20.848425
+],
+  "geometry": {"coordinates":[-156.63477700000001,20.848425],"type":"Point"}
+}

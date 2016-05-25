@@ -1,0 +1,73 @@
+{
+  "id": 857657419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.06257,19.65942,-155.06257,19.65942",
+    "geom:latitude":19.65942,
+    "geom:longitude":-155.06257,
+    "iso:country":"US",
+    "sg:address":"811 Kealakai St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 959 3535",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FVzsU3OAMsyXIX4AiGQe9_19.659420_-155.062570@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205788,
+    "wof:geomhash":"3f9b7d8a43d4c2e06d8553050bcd5a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857657419
+        }
+    ],
+    "wof:id":857657419,
+    "wof:lastmodified":1464205788,
+    "wof:name":"Green Point Nurseries",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -155.06257,
+    19.65942,
+    -155.06257,
+    19.65942
+],
+  "geometry": {"coordinates":[-155.06256999999999,19.65942],"type":"Point"}
+}

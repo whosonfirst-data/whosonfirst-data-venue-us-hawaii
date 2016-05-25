@@ -1,0 +1,75 @@
+{
+  "id": 857503039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.769087,21.279575,-157.769087,21.279575",
+    "geom:latitude":21.279575,
+    "geom:longitude":-157.769087,
+    "iso:country":"US",
+    "sg:address":"1533 Kamole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 497 3367",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "system",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MSpDIQmM2qTSigXFjOPxx_21.279575_-157.769087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201986,
+    "wof:geomhash":"79d81b5481bd5e7deca7ca16961ebb41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857503039
+        }
+    ],
+    "wof:id":857503039,
+    "wof:lastmodified":1464201986,
+    "wof:name":"Systems Engineering Alliance",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "system",
+        "sales"
+    ]
+},
+  "bbox": [
+    -157.769087,
+    21.279575,
+    -157.769087,
+    21.279575
+],
+  "geometry": {"coordinates":[-157.76908700000001,21.279575],"type":"Point"}
+}

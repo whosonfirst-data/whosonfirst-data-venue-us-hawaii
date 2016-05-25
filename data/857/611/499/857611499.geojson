@@ -1,0 +1,69 @@
+{
+  "id": 857611499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.454126,20.072347,-155.454126,20.072347",
+    "geom:latitude":20.072347,
+    "geom:longitude":-155.454126,
+    "iso:country":"US",
+    "sg:address":"3248 Ohia St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 1409",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890261,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2saLLpXVxMrUlRpAhf1khy_20.072347_-155.454126@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204243,
+    "wof:geomhash":"3f16aafb509947d780d24d6f9116eacc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890261,
+            "region_id":85688671,
+            "venue_id":857611499
+        }
+    ],
+    "wof:id":857611499,
+    "wof:lastmodified":1464204243,
+    "wof:name":"Dela Rosa Home Care",
+    "wof:parent_id":85890261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -155.454126,
+    20.072347,
+    -155.454126,
+    20.072347
+],
+  "geometry": {"coordinates":[-155.454126,20.072347],"type":"Point"}
+}

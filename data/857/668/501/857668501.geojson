@@ -1,0 +1,71 @@
+{
+  "id": 857668501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.790424,21.260452,-157.790424,21.260452",
+    "geom:latitude":21.260452,
+    "geom:longitude":-157.790424,
+    "iso:country":"US",
+    "sg:address":"4559 Kahala Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7737",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mmOiZ1zjq5DdfSObS2q9r_21.260452_-157.790424@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206275,
+    "wof:geomhash":"3cd67afe39e71f708df3b0ab4e59e766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857668501
+        }
+    ],
+    "wof:id":857668501,
+    "wof:lastmodified":1464206275,
+    "wof:name":"Kathleen Kane",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -157.790424,
+    21.260452,
+    -157.790424,
+    21.260452
+],
+  "geometry": {"coordinates":[-157.790424,21.260452],"type":"Point"}
+}

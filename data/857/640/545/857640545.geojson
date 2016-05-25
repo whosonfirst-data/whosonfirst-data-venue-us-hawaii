@@ -1,0 +1,71 @@
+{
+  "id": 857640545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.667621,20.889487,-156.667621,20.889487",
+    "geom:latitude":20.889487,
+    "geom:longitude":-156.667621,
+    "iso:country":"US",
+    "sg:address":"882 Laalo St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 4470",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890535,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYbWGy69rkkk1ZOv65Z6k_20.889487_-156.667621@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205046,
+    "wof:geomhash":"697809fda5e4b00557f8e7a0f0810db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890535,
+            "region_id":85688671,
+            "venue_id":857640545
+        }
+    ],
+    "wof:id":857640545,
+    "wof:lastmodified":1464205046,
+    "wof:name":"Steady Stream",
+    "wof:parent_id":85890535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -156.667621,
+    20.889487,
+    -156.667621,
+    20.889487
+],
+  "geometry": {"coordinates":[-156.667621,20.889487],"type":"Point"}
+}

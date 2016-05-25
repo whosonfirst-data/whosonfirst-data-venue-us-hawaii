@@ -1,0 +1,74 @@
+{
+  "id": 857561705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.354297,21.958581,-159.354297,21.958581",
+    "geom:latitude":21.958581,
+    "geom:longitude":-159.354297,
+    "iso:country":"US",
+    "sg:address":"3445 Wilcox Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7227",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation"
+    ],
+    "sg:website":"www.gardenislandinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76I6i2inucrcSASb5Tfgti_21.958581_-159.354297@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203195,
+    "wof:geomhash":"305a353ef5e381763ac5a92e7d307571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857561705
+        }
+    ],
+    "wof:id":857561705,
+    "wof:lastmodified":1464203195,
+    "wof:name":"Garden Island Inn",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -159.354297,
+    21.958581,
+    -159.354297,
+    21.958581
+],
+  "geometry": {"coordinates":[-159.354297,21.958581],"type":"Point"}
+}

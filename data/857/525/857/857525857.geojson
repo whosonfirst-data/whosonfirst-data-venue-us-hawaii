@@ -1,0 +1,67 @@
+{
+  "id": 857525857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83058,21.27847,-157.83058,21.27847",
+    "geom:latitude":21.27847,
+    "geom:longitude":-157.83058,
+    "iso:country":"US",
+    "sg:address":"2233 Helumoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 7272",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.waikikiparchotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNG0FOhmhOqmmVoWwasXd_21.278470_-157.830580@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202466,
+    "wof:geomhash":"fd6620cdaa18d7365e14afe1db31d6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857525857
+        }
+    ],
+    "wof:id":857525857,
+    "wof:lastmodified":1464202466,
+    "wof:name":"Waikiki Parc Hotel",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.83058,
+    21.27847,
+    -157.83058,
+    21.27847
+],
+  "geometry": {"coordinates":[-157.83058,21.27847],"type":"Point"}
+}

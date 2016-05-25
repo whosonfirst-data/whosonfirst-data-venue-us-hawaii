@@ -1,0 +1,71 @@
+{
+  "id": 857632795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.96623,21.406023,-157.96623,21.406023",
+    "geom:latitude":21.406023,
+    "geom:longitude":-157.96623,
+    "iso:country":"US",
+    "sg:address":"1509 Kaleilani Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 4912",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tJ2OHfo4mTRToQQDYD4AM_21.406023_-157.966230@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204748,
+    "wof:geomhash":"74950ebe180a1545d5a3df73d80f376e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857632795
+        }
+    ],
+    "wof:id":857632795,
+    "wof:lastmodified":1464204748,
+    "wof:name":"ABC Keiki Center",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.96623,
+    21.406023,
+    -157.96623,
+    21.406023
+],
+  "geometry": {"coordinates":[-157.96623,21.406023],"type":"Point"}
+}

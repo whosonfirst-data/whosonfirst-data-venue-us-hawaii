@@ -1,0 +1,73 @@
+{
+  "id": 857655683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.757238,21.291596,-157.757238,21.291596",
+    "geom:latitude":21.291596,
+    "geom:longitude":-157.757238,
+    "iso:country":"US",
+    "sg:address":"914 Ahuwale St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 4138",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zcVL1pVNJ5iy2jS9ETMov_21.291596_-157.757238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205709,
+    "wof:geomhash":"ba1f81d6a368e7bc4218939dd43de31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857655683
+        }
+    ],
+    "wof:id":857655683,
+    "wof:lastmodified":1464205709,
+    "wof:name":"Plumbers Inc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.757238,
+    21.291596,
+    -157.757238,
+    21.291596
+],
+  "geometry": {"coordinates":[-157.757238,21.291596],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857579105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.962697,21.342844,-157.962697,21.342844",
+    "geom:latitude":21.342844,
+    "geom:longitude":-157.962697,
+    "iso:country":"US",
+    "sg:address":"825 Manzelman Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 421 4148",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pLQguSkkybiP2Ye1R3u0U_21.342844_-157.962697@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203534,
+    "wof:geomhash":"992d753e1a7aca851a4a54ad57e2e85c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857579105
+        }
+    ],
+    "wof:id":857579105,
+    "wof:lastmodified":1464203534,
+    "wof:name":"Horrace Meek Hickam Elem Schl",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.962697,
+    21.342844,
+    -157.962697,
+    21.342844
+],
+  "geometry": {"coordinates":[-157.96269699999999,21.342844],"type":"Point"}
+}

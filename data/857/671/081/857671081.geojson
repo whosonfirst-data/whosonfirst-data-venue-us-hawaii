@@ -1,0 +1,71 @@
+{
+  "id": 857671081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.363864,20.810431,-156.363864,20.810431",
+    "geom:latitude":20.810431,
+    "geom:longitude":-156.363864,
+    "iso:country":"US",
+    "sg:address":"2846 Omaopio Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 3267",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wRycCcfFIqWvB7dFiwARZ_20.810431_-156.363864@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206378,
+    "wof:geomhash":"b38b9102ba093b9b9c632deb271d6a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857671081
+        }
+    ],
+    "wof:id":857671081,
+    "wof:lastmodified":1464206378,
+    "wof:name":"Alternative Health Care",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -156.363864,
+    20.810431,
+    -156.363864,
+    20.810431
+],
+  "geometry": {"coordinates":[-156.36386400000001,20.810431],"type":"Point"}
+}

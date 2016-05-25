@@ -1,0 +1,73 @@
+{
+  "id": 857564459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861686,21.31194,-157.861686,21.31194",
+    "geom:latitude":21.31194,
+    "geom:longitude":-157.861686,
+    "iso:country":"US",
+    "sg:address":"15 N Pauahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 8993",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iPwC33Hhxfsk1U0wCdiSL_21.311940_-157.861686@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203246,
+    "wof:geomhash":"d5dab6ae46446c63e244ae7a6dbc9763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857564459
+        }
+    ],
+    "wof:id":857564459,
+    "wof:lastmodified":1464203246,
+    "wof:name":"Union Electronics",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -157.861686,
+    21.31194,
+    -157.861686,
+    21.31194
+],
+  "geometry": {"coordinates":[-157.86168599999999,21.31194],"type":"Point"}
+}

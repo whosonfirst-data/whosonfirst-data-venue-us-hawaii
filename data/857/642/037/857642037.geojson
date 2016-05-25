@@ -1,0 +1,76 @@
+{
+  "id": 857642037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81369,21.272299,-157.81369,21.272299",
+    "geom:latitude":21.272299,
+    "geom:longitude":-157.81369,
+    "iso:country":"US",
+    "sg:address":"3472 Kanaina Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 4622",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "disabled",
+        "person",
+        "supply"
+    ],
+    "sg:website":"www.isghawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65Sb6LbzDZ43sKR3KnfrxK_21.272299_-157.813690@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205100,
+    "wof:geomhash":"50358f31addbc14db3ee39411f7ebacb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857642037
+        }
+    ],
+    "wof:id":857642037,
+    "wof:lastmodified":1464205100,
+    "wof:name":"Island Skill Gathering",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disabled",
+        "person",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.81369,
+    21.272299,
+    -157.81369,
+    21.272299
+],
+  "geometry": {"coordinates":[-157.81369000000001,21.272299],"type":"Point"}
+}

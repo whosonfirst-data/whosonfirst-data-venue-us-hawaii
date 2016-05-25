@@ -1,0 +1,73 @@
+{
+  "id": 857658319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.680248,20.875525,-156.680248,20.875525",
+    "geom:latitude":20.875525,
+    "geom:longitude":-156.680248,
+    "iso:country":"US",
+    "sg:address":"672 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 1700",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qpoXkOdADIOzXW4d1tjBX_20.875525_-156.680248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205833,
+    "wof:geomhash":"9497dc0073ec6b9e5fc22c8f701e4809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890527,
+            "region_id":85688671,
+            "venue_id":857658319
+        }
+    ],
+    "wof:id":857658319,
+    "wof:lastmodified":1464205833,
+    "wof:name":"Maui Gallery",
+    "wof:parent_id":85890527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -156.680248,
+    20.875525,
+    -156.680248,
+    20.875525
+],
+  "geometry": {"coordinates":[-156.68024800000001,20.875525],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857517925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.470922,20.884572,-156.470922,20.884572",
+    "geom:latitude":20.884572,
+    "geom:longitude":-156.470922,
+    "iso:country":"US",
+    "sg:address":"253 W Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 5681",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68w9MCh6kTPCKGpbg3WToZ_20.884572_-156.470922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202307,
+    "wof:geomhash":"718a8dea6bc106e00d6ab9338f47e7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857517925
+        }
+    ],
+    "wof:id":857517925,
+    "wof:lastmodified":1464202307,
+    "wof:name":"Kahului Taxi Service",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cab"
+    ]
+},
+  "bbox": [
+    -156.470922,
+    20.884572,
+    -156.470922,
+    20.884572
+],
+  "geometry": {"coordinates":[-156.470922,20.884572],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857576701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.092989,21.30695,-158.092989,21.30695",
+    "geom:latitude":21.30695,
+    "geom:longitude":-158.092989,
+    "iso:country":"US",
+    "sg:address":"316 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2466",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "toilet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lyw7AXqjbwhj2csLvjrhV_21.306950_-158.092989@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203483,
+    "wof:geomhash":"025a8355940c7ce0d5e8173241a74bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857576701
+        }
+    ],
+    "wof:id":857576701,
+    "wof:lastmodified":1464203483,
+    "wof:name":"Chemi-Toi",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet"
+    ]
+},
+  "bbox": [
+    -158.092989,
+    21.30695,
+    -158.092989,
+    21.30695
+],
+  "geometry": {"coordinates":[-158.09298899999999,21.30695],"type":"Point"}
+}

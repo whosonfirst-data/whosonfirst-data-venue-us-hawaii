@@ -1,0 +1,83 @@
+{
+  "id": 857638671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887225,21.325198,-157.887225,21.325198",
+    "geom:latitude":21.325198,
+    "geom:longitude":-157.887225,
+    "iso:country":"US",
+    "sg:address":"124 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4011",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "heavy",
+        "automotive",
+        "hauling",
+        "equipment",
+        "towing",
+        "t",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTFHxN9RjA39NSIolM8yw_21.325198_-157.887225@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204969,
+    "wof:geomhash":"a5e6f1eb7d4c603cf580143940e42d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857638671
+        }
+    ],
+    "wof:id":857638671,
+    "wof:lastmodified":1464204969,
+    "wof:name":"Island Wide Towing Service",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "automotive",
+        "hauling",
+        "equipment",
+        "towing",
+        "t",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.887225,
+    21.325198,
+    -157.887225,
+    21.325198
+],
+  "geometry": {"coordinates":[-157.887225,21.325198],"type":"Point"}
+}

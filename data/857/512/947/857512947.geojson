@@ -1,0 +1,75 @@
+{
+  "id": 857512947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.94355,19.56945,-155.94355,19.56945",
+    "geom:latitude":19.56945,
+    "geom:longitude":-155.94355,
+    "iso:country":"US",
+    "sg:address":"7062 Kuakini Hwy",
+    "sg:city":"Keauhou",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 322 3469",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937435,
+        102085433,
+        85890295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CHcKnY9sJsT76JZhMXM2p_19.569450_-155.943550@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202206,
+    "wof:geomhash":"765c0d3b051a3a17af6ba6bd3745e897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937435,
+            "neighbourhood_id":85890295,
+            "region_id":85688671,
+            "venue_id":857512947
+        }
+    ],
+    "wof:id":857512947,
+    "wof:lastmodified":1464202206,
+    "wof:name":"Kona Coast Veterinary Hospital",
+    "wof:parent_id":85890295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -155.94355,
+    19.56945,
+    -155.94355,
+    19.56945
+],
+  "geometry": {"coordinates":[-155.94354999999999,19.56945],"type":"Point"}
+}

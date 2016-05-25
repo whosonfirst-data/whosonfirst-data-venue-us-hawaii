@@ -1,0 +1,73 @@
+{
+  "id": 857632091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.66731,20.888769,-156.66731,20.888769",
+    "geom:latitude":20.888769,
+    "geom:longitude":-156.66731,
+    "iso:country":"US",
+    "sg:address":"871 Laalo St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 4389",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56l9vOeuUYAVybStq4Pf4u_20.888769_-156.667310@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204716,
+    "wof:geomhash":"fd01915d1b573208c7a1daa96bfacf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857632091
+        }
+    ],
+    "wof:id":857632091,
+    "wof:lastmodified":1464204716,
+    "wof:name":"24 Hour Laundry",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -156.66731,
+    20.888769,
+    -156.66731,
+    20.888769
+],
+  "geometry": {"coordinates":[-156.66730999999999,20.888769],"type":"Point"}
+}

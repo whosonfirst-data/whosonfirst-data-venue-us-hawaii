@@ -1,0 +1,73 @@
+{
+  "id": 857612995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873434,21.303546,-157.873434,21.303546",
+    "geom:latitude":21.303546,
+    "geom:longitude":-157.873434,
+    "iso:country":"US",
+    "sg:address":"1083 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0772",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KEfdnsnDEVYxu1o2a81iA_21.303546_-157.873434@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204281,
+    "wof:geomhash":"a6c6c8ff66900437900dbcb1e7242fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857612995
+        }
+    ],
+    "wof:id":857612995,
+    "wof:lastmodified":1464204281,
+    "wof:name":"IPAC Electric Co",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.873434,
+    21.303546,
+    -157.873434,
+    21.303546
+],
+  "geometry": {"coordinates":[-157.873434,21.303546],"type":"Point"}
+}

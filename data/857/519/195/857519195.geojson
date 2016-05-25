@@ -1,0 +1,66 @@
+{
+  "id": 857519195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825256,21.276891,-157.825256,21.276891",
+    "geom:latitude":21.276891,
+    "geom:longitude":-157.825256,
+    "iso:country":"US",
+    "sg:address":"2432 Koa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 2799",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WWT2wGVNG6ozyFMPI4amX_21.276891_-157.825256@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202334,
+    "wof:geomhash":"5e6c3635ab2945de325c965c5b5adc49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857519195
+        }
+    ],
+    "wof:id":857519195,
+    "wof:lastmodified":1464202334,
+    "wof:name":"ABC Discount Store",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.825256,
+    21.276891,
+    -157.825256,
+    21.276891
+],
+  "geometry": {"coordinates":[-157.825256,21.276891],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857511049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832346,21.295613,-157.832346,21.295613",
+    "geom:latitude":21.295613,
+    "geom:longitude":-157.832346,
+    "iso:country":"US",
+    "sg:address":"931 Hauoli St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2775",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bakery",
+        "retail",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SXoLRIyWb0ON4VD209AIq_21.295613_-157.832346@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202168,
+    "wof:geomhash":"178778433f99ef047bc4d349aca917ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857511049
+        }
+    ],
+    "wof:id":857511049,
+    "wof:lastmodified":1464202168,
+    "wof:name":"Ohta Wafer Factory",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "retail",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.832346,
+    21.295613,
+    -157.832346,
+    21.295613
+],
+  "geometry": {"coordinates":[-157.832346,21.295613],"type":"Point"}
+}

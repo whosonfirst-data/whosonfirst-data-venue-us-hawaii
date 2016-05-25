@@ -1,0 +1,78 @@
+{
+  "id": 857634547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.955399,21.392365,-157.955399,21.392365",
+    "geom:latitude":21.392365,
+    "geom:longitude":-157.955399,
+    "iso:country":"US",
+    "sg:address":"720 Kuahao Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 0178",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z8q70c0UqGN8RwXfhDefN_21.392365_-157.955399@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204816,
+    "wof:geomhash":"7a49d51a21f953aa7c3f751121dcfaac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857634547
+        }
+    ],
+    "wof:id":857634547,
+    "wof:lastmodified":1464204816,
+    "wof:name":"Apria Healthcare Inc",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.955399,
+    21.392365,
+    -157.955399,
+    21.392365
+],
+  "geometry": {"coordinates":[-157.955399,21.392365],"type":"Point"}
+}

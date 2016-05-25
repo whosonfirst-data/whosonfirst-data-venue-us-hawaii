@@ -1,0 +1,73 @@
+{
+  "id": 857634037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83293,21.301589,-157.83293,21.301589",
+    "geom:latitude":21.301589,
+    "geom:longitude":-157.83293,
+    "iso:country":"US",
+    "sg:address":"1645 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 6124",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R8x2UuyZoQy4AIE1B6kW6_21.301589_-157.832930@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204799,
+    "wof:geomhash":"3079a6ff50261aa9460ff5acf11f2886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857634037
+        }
+    ],
+    "wof:id":857634037,
+    "wof:lastmodified":1464204799,
+    "wof:name":"L N Sales Co",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -157.83293,
+    21.301589,
+    -157.83293,
+    21.301589
+],
+  "geometry": {"coordinates":[-157.83293,21.301589],"type":"Point"}
+}

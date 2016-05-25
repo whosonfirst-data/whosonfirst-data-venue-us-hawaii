@@ -1,0 +1,71 @@
+{
+  "id": 857606465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83374,21.286928,-157.83374,21.286928",
+    "geom:latitude":21.286928,
+    "geom:longitude":-157.83374,
+    "iso:country":"US",
+    "sg:address":"1925 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 3077",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26mTw6sllROCWEKvxTjRqY_21.286928_-157.833740@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204125,
+    "wof:geomhash":"d43bf0603410203d2ee5327eea4cd2c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857606465
+        }
+    ],
+    "wof:id":857606465,
+    "wof:lastmodified":1464204125,
+    "wof:name":"Pavilion",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.83374,
+    21.286928,
+    -157.83374,
+    21.286928
+],
+  "geometry": {"coordinates":[-157.83374000000001,21.286928],"type":"Point"}
+}

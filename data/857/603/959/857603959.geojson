@@ -1,0 +1,71 @@
+{
+  "id": 857603959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839558,21.292675,-157.839558,21.292675",
+    "geom:latitude":21.292675,
+    "geom:longitude":-157.839558,
+    "iso:country":"US",
+    "sg:address":"826 Kaheka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4606",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TwjCEJlsuFV2ejViwmSIb_21.292675_-157.839558@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204075,
+    "wof:geomhash":"4c9b9fe66a34697e24efe634859a6a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857603959
+        }
+    ],
+    "wof:id":857603959,
+    "wof:lastmodified":1464204075,
+    "wof:name":"Triangle Club Of Hawaii",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -157.839558,
+    21.292675,
+    -157.839558,
+    21.292675
+],
+  "geometry": {"coordinates":[-157.83955800000001,21.292675],"type":"Point"}
+}

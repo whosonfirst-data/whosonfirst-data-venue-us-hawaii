@@ -1,0 +1,73 @@
+{
+  "id": 857652539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.469768,20.889554,-156.469768,20.889554",
+    "geom:latitude":20.889554,
+    "geom:longitude":-156.469768,
+    "iso:country":"US",
+    "sg:address":"33 Lono Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 7406",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ik2JCr1pyYMeMInT4BU8w_20.889554_-156.469768@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205567,
+    "wof:geomhash":"297d5ae30b8e34776e7f61f17d259090",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857652539
+        }
+    ],
+    "wof:id":857652539,
+    "wof:lastmodified":1464205567,
+    "wof:name":"Precision Dental Technik LLC",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -156.469768,
+    20.889554,
+    -156.469768,
+    20.889554
+],
+  "geometry": {"coordinates":[-156.46976799999999,20.889554],"type":"Point"}
+}

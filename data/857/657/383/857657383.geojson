@@ -1,0 +1,68 @@
+{
+  "id": 857657383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.969179,19.678624,-155.969179,19.678624",
+    "geom:latitude":19.678624,
+    "geom:longitude":-155.969179,
+    "iso:country":"US",
+    "sg:address":"4977 Mamalahoa Hwy",
+    "sg:city":"Holualoa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 0090",
+    "sg:postcode":"96725",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lu80wNevN57tBxlRk7J72_19.678624_-155.969179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205787,
+    "wof:geomhash":"9e89a1f32964ad56dd644f00a33a29c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890333,
+            "region_id":85688671,
+            "venue_id":857657383
+        }
+    ],
+    "wof:id":857657383,
+    "wof:lastmodified":1464205787,
+    "wof:name":"Aki's Cafe",
+    "wof:parent_id":85890333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.969179,
+    19.678624,
+    -155.969179,
+    19.678624
+],
+  "geometry": {"coordinates":[-155.969179,19.678624],"type":"Point"}
+}

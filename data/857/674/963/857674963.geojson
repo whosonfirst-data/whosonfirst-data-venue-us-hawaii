@@ -1,0 +1,71 @@
+{
+  "id": 857674963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.791762,19.949209,-155.791762,19.949209",
+    "geom:latitude":19.949209,
+    "geom:longitude":-155.791762,
+    "iso:country":"US",
+    "sg:address":"3576 W Makuahine St",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 3871",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2104kMCWbVGxWGPRFKhL2A_19.949209_-155.791762@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206523,
+    "wof:geomhash":"cbfe0ff5904cecfda9d735ec143ca592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857674963
+        }
+    ],
+    "wof:id":857674963,
+    "wof:lastmodified":1464206523,
+    "wof:name":"Pacific Electro Mechanical Inc",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -155.791762,
+    19.949209,
+    -155.791762,
+    19.949209
+],
+  "geometry": {"coordinates":[-155.79176200000001,19.949209],"type":"Point"}
+}

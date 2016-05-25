@@ -1,0 +1,73 @@
+{
+  "id": 857667351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826249,21.299275,-157.826249,21.299275",
+    "geom:latitude":21.299275,
+    "geom:longitude":-157.826249,
+    "iso:country":"US",
+    "sg:address":"2040 Clement St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 951 4520",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wKHI8J6RNpJGtm66NNtLa_21.299275_-157.826249@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206236,
+    "wof:geomhash":"8729739e871bd075e195194ee5baea4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857667351
+        }
+    ],
+    "wof:id":857667351,
+    "wof:lastmodified":1464206236,
+    "wof:name":"Kimura Custom Construction",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.826249,
+    21.299275,
+    -157.826249,
+    21.299275
+],
+  "geometry": {"coordinates":[-157.82624899999999,21.299275],"type":"Point"}
+}

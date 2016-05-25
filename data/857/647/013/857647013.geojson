@@ -1,0 +1,77 @@
+{
+  "id": 857647013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.477745,20.885284,-156.477745,20.885284",
+    "geom:latitude":20.885284,
+    "geom:longitude":-156.477745,
+    "iso:country":"US",
+    "sg:address":"115 S Wakea Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 3100",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N4x7D7E4LUm787nZ8dW3a_20.885284_-156.477745@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205338,
+    "wof:geomhash":"a09956a95160169d4e7dcf0f3d8e95a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857647013
+        }
+    ],
+    "wof:id":857647013,
+    "wof:lastmodified":1464205338,
+    "wof:name":"Paradise Video",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -156.477745,
+    20.885284,
+    -156.477745,
+    20.885284
+],
+  "geometry": {"coordinates":[-156.477745,20.885284],"type":"Point"}
+}

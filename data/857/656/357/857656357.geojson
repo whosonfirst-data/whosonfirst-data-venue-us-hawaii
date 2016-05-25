@@ -1,0 +1,75 @@
+{
+  "id": 857656357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889368,21.325417,-157.889368,21.325417",
+    "geom:latitude":21.325417,
+    "geom:longitude":-157.889368,
+    "iso:country":"US",
+    "sg:address":"231 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0344",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Th2fgCIjkQjrwcxWsEB4p_21.325417_-157.889368@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205739,
+    "wof:geomhash":"5c68cf42e7c8060e386c1b746d12ff59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857656357
+        }
+    ],
+    "wof:id":857656357,
+    "wof:lastmodified":1464205739,
+    "wof:name":"Global Auto Repair",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.889368,
+    21.325417,
+    -157.889368,
+    21.325417
+],
+  "geometry": {"coordinates":[-157.88936799999999,21.325417],"type":"Point"}
+}

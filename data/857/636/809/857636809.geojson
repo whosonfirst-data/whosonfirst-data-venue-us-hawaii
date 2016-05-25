@@ -1,0 +1,73 @@
+{
+  "id": 857636809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.182434,21.441317,-158.182434,21.441317",
+    "geom:latitude":21.441317,
+    "geom:longitude":-158.182434,
+    "iso:country":"US",
+    "sg:address":"215 Kawili St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 2830",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H0WTB3OdatWRy4bdcvOpx_21.441317_-158.182434@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204897,
+    "wof:geomhash":"cb79eb97a7a6a1a2ea116916e4a98f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857636809
+        }
+    ],
+    "wof:id":857636809,
+    "wof:lastmodified":1464204897,
+    "wof:name":"E 3 Electrical",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.182434,
+    21.441317,
+    -158.182434,
+    21.441317
+],
+  "geometry": {"coordinates":[-158.182434,21.441317],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857552777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820709,21.277124,-157.820709,21.277124",
+    "geom:latitude":21.277124,
+    "geom:longitude":-157.820709,
+    "iso:country":"US",
+    "sg:address":"320 Liliuokalani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 4766",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fSvMYkjPxeM7XyPxCNF27_21.277124_-157.820709@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202985,
+    "wof:geomhash":"63e6b94bedda702a5b31b251bf0bb99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857552777
+        }
+    ],
+    "wof:id":857552777,
+    "wof:lastmodified":1464202985,
+    "wof:name":"Monte Vista",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.820709,
+    21.277124,
+    -157.820709,
+    21.277124
+],
+  "geometry": {"coordinates":[-157.82070899999999,21.277124],"type":"Point"}
+}

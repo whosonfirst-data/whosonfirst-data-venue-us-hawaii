@@ -1,0 +1,69 @@
+{
+  "id": 857525693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.015944,21.497622,-158.015944,21.497622",
+    "geom:latitude":21.497622,
+    "geom:longitude":-158.015944,
+    "iso:country":"US",
+    "sg:address":"1347 Loko Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 7486",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manager"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qZ7FUAy5OJXKDvhWKwUtd_21.497622_-158.015944@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202463,
+    "wof:geomhash":"be22554366da42aa8023140f7eb72cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857525693
+        }
+    ],
+    "wof:id":857525693,
+    "wof:lastmodified":1464202463,
+    "wof:name":"Koba Associates",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager"
+    ]
+},
+  "bbox": [
+    -158.015944,
+    21.497622,
+    -158.015944,
+    21.497622
+],
+  "geometry": {"coordinates":[-158.01594399999999,21.497622],"type":"Point"}
+}

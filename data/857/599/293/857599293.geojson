@@ -1,0 +1,71 @@
+{
+  "id": 857599293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50532,20.888997,-156.50532,20.888997",
+    "geom:latitude":20.888997,
+    "geom:longitude":-156.50532,
+    "iso:country":"US",
+    "sg:address":"60 S Church St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 5130",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jz2DFvqURSUl3jXheLT2z_20.888997_-156.505320@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203969,
+    "wof:geomhash":"c06776bcff69c38b507bb4654f05321d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857599293
+        }
+    ],
+    "wof:id":857599293,
+    "wof:lastmodified":1464203969,
+    "wof:name":"Borizon Hawai",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -156.50532,
+    20.888997,
+    -156.50532,
+    20.888997
+],
+  "geometry": {"coordinates":[-156.50532000000001,20.888997],"type":"Point"}
+}

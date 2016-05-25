@@ -1,0 +1,71 @@
+{
+  "id": 857598013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972586,21.411165,-157.972586,21.411165",
+    "geom:latitude":21.411165,
+    "geom:longitude":-157.972586,
+    "iso:country":"US",
+    "sg:address":"1414 Waihona Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 9026",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ry1jT8ruyXbPhNt3xBIiH_21.411165_-157.972586@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203942,
+    "wof:geomhash":"0d61ec8488a4816f8650a9544e2882fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857598013
+        }
+    ],
+    "wof:id":857598013,
+    "wof:lastmodified":1464203942,
+    "wof:name":"RHS Lee Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.972586,
+    21.411165,
+    -157.972586,
+    21.411165
+],
+  "geometry": {"coordinates":[-157.97258600000001,21.411165],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857545095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.926203,21.383679,-157.926203,21.383679",
+    "geom:latitude":21.383679,
+    "geom:longitude":-157.926203,
+    "iso:country":"US",
+    "sg:address":"403 Honohono St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 1675",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SoY20S3Ds3F7OuzYJhG9a_21.383679_-157.926203@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202841,
+    "wof:geomhash":"9078ddf51caffcbee1bc9d7c1d50991e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857545095
+        }
+    ],
+    "wof:id":857545095,
+    "wof:lastmodified":1464202841,
+    "wof:name":"Okano's Plumbing",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.926203,
+    21.383679,
+    -157.926203,
+    21.383679
+],
+  "geometry": {"coordinates":[-157.92620299999999,21.383679],"type":"Point"}
+}

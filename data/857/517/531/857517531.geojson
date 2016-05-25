@@ -1,0 +1,73 @@
+{
+  "id": 857517531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832301,21.289469,-157.832301,21.289469",
+    "geom:latitude":21.289469,
+    "geom:longitude":-157.832301,
+    "iso:country":"US",
+    "sg:address":"1901 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 7457",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sLGseagU8VWtgNtkHT0WP_21.289469_-157.832301@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202300,
+    "wof:geomhash":"067f1a63a739a1511a5e8008194174d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857517531
+        }
+    ],
+    "wof:id":857517531,
+    "wof:lastmodified":1464202300,
+    "wof:name":"Oriental Relaxation Therapy",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.832301,
+    21.289469,
+    -157.832301,
+    21.289469
+],
+  "geometry": {"coordinates":[-157.832301,21.289469],"type":"Point"}
+}

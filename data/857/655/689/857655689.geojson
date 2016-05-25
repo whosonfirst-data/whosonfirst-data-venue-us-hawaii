@@ -1,0 +1,73 @@
+{
+  "id": 857655689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.67648,20.02281,-155.67648,20.02281",
+    "geom:latitude":20.02281,
+    "geom:longitude":-155.67648,
+    "iso:country":"US",
+    "sg:address":"1235 Opelo Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 5600",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46GggNhhj5ASruQDkRNIy0_20.022810_-155.676480@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205710,
+    "wof:geomhash":"c0d6c78b0cc145735eac2ad2514177e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857655689
+        }
+    ],
+    "wof:id":857655689,
+    "wof:lastmodified":1464205710,
+    "wof:name":"Ajb Co",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.67648,
+    20.02281,
+    -155.67648,
+    20.02281
+],
+  "geometry": {"coordinates":[-155.67648,20.02281],"type":"Point"}
+}

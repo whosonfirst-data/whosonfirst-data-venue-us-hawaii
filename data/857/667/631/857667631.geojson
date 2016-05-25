@@ -1,0 +1,71 @@
+{
+  "id": 857667631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881535,21.324934,-157.881535,21.324934",
+    "geom:latitude":21.324934,
+    "geom:longitude":-157.881535,
+    "iso:country":"US",
+    "sg:address":"322 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2322",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zu3FK4gTUPH6SQswmLlFc_21.324934_-157.881535@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206247,
+    "wof:geomhash":"783fbf6088a00c2c3bc19932acd14ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857667631
+        }
+    ],
+    "wof:id":857667631,
+    "wof:lastmodified":1464206247,
+    "wof:name":"Driver's Diner",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.881535,
+    21.324934,
+    -157.881535,
+    21.324934
+],
+  "geometry": {"coordinates":[-157.88153500000001,21.324934],"type":"Point"}
+}

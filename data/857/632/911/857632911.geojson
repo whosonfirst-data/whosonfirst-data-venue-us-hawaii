@@ -1,0 +1,73 @@
+{
+  "id": 857632911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.755254,21.278645,-157.755254,21.278645",
+    "geom:latitude":21.278645,
+    "geom:longitude":-157.755254,
+    "iso:country":"US",
+    "sg:address":"850 W Hind Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 7489",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RcKi13jOgnbnIDOL8BBhu_21.278645_-157.755254@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204753,
+    "wof:geomhash":"cf10376130c83e77278b0b4e852c681f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857632911
+        }
+    ],
+    "wof:id":857632911,
+    "wof:lastmodified":1464204753,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -157.755254,
+    21.278645,
+    -157.755254,
+    21.278645
+],
+  "geometry": {"coordinates":[-157.75525400000001,21.278645],"type":"Point"}
+}

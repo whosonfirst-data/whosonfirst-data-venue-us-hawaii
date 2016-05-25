@@ -1,0 +1,73 @@
+{
+  "id": 857530365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.501502,20.89342,-156.501502,20.89342",
+    "geom:latitude":20.89342,
+    "geom:longitude":-156.501502,
+    "iso:country":"US",
+    "sg:address":"50 Kaniela St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7975",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yWPVk18cztFy6gTIzTmws_20.893420_-156.501502@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202551,
+    "wof:geomhash":"82aaa96c212cd1503257815c4dacf442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857530365
+        }
+    ],
+    "wof:id":857530365,
+    "wof:lastmodified":1464202551,
+    "wof:name":"Lite Electric",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.501502,
+    20.89342,
+    -156.501502,
+    20.89342
+],
+  "geometry": {"coordinates":[-156.50150199999999,20.89342],"type":"Point"}
+}

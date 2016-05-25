@@ -1,0 +1,81 @@
+{
+  "id": 857675161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.90685,21.395885,-157.90685,21.395885",
+    "geom:latitude":21.395885,
+    "geom:longitude":-157.90685,
+    "iso:country":"US",
+    "sg:address":"1609 Analio Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 1766",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890055,
+        102085417,
+        85937671,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C2zEp2NuEgWl3lGlAC6Dy_21.395885_-157.906850@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206531,
+    "wof:geomhash":"d77fb0d2e01fdd963e879857b958ad18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890055,
+            "region_id":85688671,
+            "venue_id":857675161
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857675161
+        }
+    ],
+    "wof:id":857675161,
+    "wof:lastmodified":1464206531,
+    "wof:name":"Miya's Masonry Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.90685,
+    21.395885,
+    -157.90685,
+    21.395885
+],
+  "geometry": {"coordinates":[-157.90684999999999,21.395885],"type":"Point"}
+}

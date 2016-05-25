@@ -1,0 +1,71 @@
+{
+  "id": 857546561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843385,21.319175,-157.843385,21.319175",
+    "geom:latitude":21.319175,
+    "geom:longitude":-157.843385,
+    "iso:country":"US",
+    "sg:address":"355 Kapaloala Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6708",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdNUVrX8k0oQqcDRhGwQ6_21.319175_-157.843385@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202866,
+    "wof:geomhash":"07ae34a5f95c04cf270fb2b75b941ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857546561
+        }
+    ],
+    "wof:id":857546561,
+    "wof:lastmodified":1464202866,
+    "wof:name":"Save-Mor Upholstery",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -157.843385,
+    21.319175,
+    -157.843385,
+    21.319175
+],
+  "geometry": {"coordinates":[-157.84338500000001,21.319175],"type":"Point"}
+}

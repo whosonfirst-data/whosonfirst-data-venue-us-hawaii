@@ -1,0 +1,83 @@
+{
+  "id": 857538581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865176,21.330484,-157.865176,21.330484",
+    "geom:latitude":21.330484,
+    "geom:longitude":-157.865176,
+    "iso:country":"US",
+    "sg:address":"1237 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0917",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "private",
+        "music",
+        "cottage",
+        "lesson",
+        "voice",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dmvICybqTkBh0yOqvxvUD_21.330484_-157.865176@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202709,
+    "wof:geomhash":"25ef7579f08fee916c2bd89f925d2558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857538581
+        }
+    ],
+    "wof:id":857538581,
+    "wof:lastmodified":1464202709,
+    "wof:name":"Shimidu Voice Studio",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "private",
+        "music",
+        "cottage",
+        "lesson",
+        "voice",
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.865176,
+    21.330484,
+    -157.865176,
+    21.330484
+],
+  "geometry": {"coordinates":[-157.86517599999999,21.330484],"type":"Point"}
+}

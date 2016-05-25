@@ -1,0 +1,79 @@
+{
+  "id": 857589707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.018171,19.684941,-156.018171,19.684941",
+    "geom:latitude":19.684941,
+    "geom:longitude":-156.018171,
+    "iso:country":"US",
+    "sg:address":"5570 Lawehana St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 327 4400",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937431,
+        102085433,
+        85890335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HHP2ifzo2A8PhSKeykK8Q_19.684941_-156.018171@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203753,
+    "wof:geomhash":"3ad31d1e8083785bc628c9160ab47cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937431,
+            "neighbourhood_id":85890335,
+            "region_id":85688671,
+            "venue_id":857589707
+        }
+    ],
+    "wof:id":857589707,
+    "wof:lastmodified":1464203753,
+    "wof:name":"Ferguson",
+    "wof:parent_id":85890335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -156.018171,
+    19.684941,
+    -156.018171,
+    19.684941
+],
+  "geometry": {"coordinates":[-156.018171,19.684941],"type":"Point"}
+}

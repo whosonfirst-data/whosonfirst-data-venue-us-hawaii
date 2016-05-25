@@ -1,0 +1,66 @@
+{
+  "id": 857565015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083162,21.361436,-158.083162,21.361436",
+    "geom:latitude":21.361436,
+    "geom:longitude":-158.083162,
+    "iso:country":"US",
+    "sg:address":"1145 Hame St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 5177",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LwME8s0pgpStu6AXs8gX9_21.361436_-158.083162@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203256,
+    "wof:geomhash":"d6e7ef770d375cfeeaa7dab58647352f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857565015
+        }
+    ],
+    "wof:id":857565015,
+    "wof:lastmodified":1464203256,
+    "wof:name":"Downtown Stop",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.083162,
+    21.361436,
+    -158.083162,
+    21.361436
+],
+  "geometry": {"coordinates":[-158.08316199999999,21.361436],"type":"Point"}
+}

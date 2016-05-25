@@ -1,0 +1,71 @@
+{
+  "id": 857656851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804222,21.323894,-157.804222,21.323894",
+    "geom:latitude":21.323894,
+    "geom:longitude":-157.804222,
+    "iso:country":"US",
+    "sg:address":"3585 Loulu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 2423",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_038nLTe5jCGyMxN4md5hwV_21.323894_-157.804222@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205760,
+    "wof:geomhash":"ab682ea0637139f66aa382b4955b87b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857656851
+        }
+    ],
+    "wof:id":857656851,
+    "wof:lastmodified":1464205760,
+    "wof:name":"Crown Liquor Store Inc",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -157.804222,
+    21.323894,
+    -157.804222,
+    21.323894
+],
+  "geometry": {"coordinates":[-157.80422200000001,21.323894],"type":"Point"}
+}

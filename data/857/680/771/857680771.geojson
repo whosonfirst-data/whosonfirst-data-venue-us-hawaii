@@ -1,0 +1,76 @@
+{
+  "id": 857680771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.989016,19.646129,-155.989016,19.646129",
+    "geom:latitude":19.646129,
+    "geom:longitude":-155.989016,
+    "iso:country":"US",
+    "sg:address":"75-1015 Henry St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/north-kona/202800-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 334 0848",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JeyAUZHx3m2U89xvo5SHb_19.646129_-155.989016@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206755,
+    "wof:geomhash":"d01e41ef4f980f54275c138344d8b79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857680771
+        }
+    ],
+    "wof:id":857680771,
+    "wof:lastmodified":1464206755,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.989016,
+    19.646129,
+    -155.989016,
+    19.646129
+],
+  "geometry": {"coordinates":[-155.98901599999999,19.646129],"type":"Point"}
+}

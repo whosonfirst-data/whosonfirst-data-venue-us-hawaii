@@ -1,0 +1,73 @@
+{
+  "id": 857657707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.505019,20.89096,-156.505019,20.89096",
+    "geom:latitude":20.89096,
+    "geom:longitude":-156.505019,
+    "iso:country":"US",
+    "sg:address":"2026 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 8661",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1laXPgEkPwtCSTshRTR64n_20.890960_-156.505019@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205805,
+    "wof:geomhash":"4d0aca26efa5ab6a4bb1f614595ff544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857657707
+        }
+    ],
+    "wof:id":857657707,
+    "wof:lastmodified":1464205805,
+    "wof:name":"Main St Promenade",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -156.505019,
+    20.89096,
+    -156.505019,
+    20.89096
+],
+  "geometry": {"coordinates":[-156.505019,20.89096],"type":"Point"}
+}

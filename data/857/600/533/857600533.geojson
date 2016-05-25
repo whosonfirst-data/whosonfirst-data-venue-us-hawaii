@@ -1,0 +1,75 @@
+{
+  "id": 857600533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004159,21.502255,-158.004159,21.502255",
+    "geom:latitude":21.502255,
+    "geom:longitude":-158.004159,
+    "iso:country":"US",
+    "sg:address":"1809 Kalie Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 630 8933",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DoWg1PeCt5SjOzA8uAoCg_21.502255_-158.004159@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203997,
+    "wof:geomhash":"0251850fa0e490f48630bf5266f4e6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857600533
+        }
+    ],
+    "wof:id":857600533,
+    "wof:lastmodified":1464203997,
+    "wof:name":"Bryant's Pressure Washing Svc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -158.004159,
+    21.502255,
+    -158.004159,
+    21.502255
+],
+  "geometry": {"coordinates":[-158.00415899999999,21.502255],"type":"Point"}
+}

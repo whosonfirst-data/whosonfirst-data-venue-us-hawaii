@@ -1,0 +1,69 @@
+{
+  "id": 857598339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020368,21.377001,-158.020368,21.377001",
+    "geom:latitude":21.377001,
+    "geom:longitude":-158.020368,
+    "iso:country":"US",
+    "sg:address":"137 Leoleo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 6945",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GHi0KcHv6NXJWZf5WtagI_21.377001_-158.020368@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203947,
+    "wof:geomhash":"0403eb66d6a75daeec92309ba85b151a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857598339
+        }
+    ],
+    "wof:id":857598339,
+    "wof:lastmodified":1464203947,
+    "wof:name":"Aloha Bottling Co LLC",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -158.020368,
+    21.377001,
+    -158.020368,
+    21.377001
+],
+  "geometry": {"coordinates":[-158.02036799999999,21.377001],"type":"Point"}
+}

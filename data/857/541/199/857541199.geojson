@@ -1,0 +1,73 @@
+{
+  "id": 857541199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860707,21.306934,-157.860707,21.306934",
+    "geom:latitude":21.306934,
+    "geom:longitude":-157.860707,
+    "iso:country":"US",
+    "sg:address":"212 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 7999",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lrjrflfjNoKRPmhBUEAfx_21.306934_-157.860707@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202760,
+    "wof:geomhash":"a6a12d8031a2ce8dfb81b556b65410e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857541199
+        }
+    ],
+    "wof:id":857541199,
+    "wof:lastmodified":1464202760,
+    "wof:name":"Digital Video Source",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -157.860707,
+    21.306934,
+    -157.860707,
+    21.306934
+],
+  "geometry": {"coordinates":[-157.86070699999999,21.306934],"type":"Point"}
+}

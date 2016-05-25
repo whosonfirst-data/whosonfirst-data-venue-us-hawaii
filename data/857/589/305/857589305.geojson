@@ -1,0 +1,85 @@
+{
+  "id": 857589305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902181,21.334218,-157.902181,21.334218",
+    "geom:latitude":21.334218,
+    "geom:longitude":-157.902181,
+    "iso:country":"US",
+    "sg:address":"2979 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2979",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MeTQo5TxNWfKHUZq41eK0_21.334218_-157.902181@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203745,
+    "wof:geomhash":"2ab6f77ff27664e5a78d06bdc9d986f2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857589305
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857589305
+        }
+    ],
+    "wof:id":857589305,
+    "wof:lastmodified":1464203745,
+    "wof:name":"Selective Stone LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -157.902181,
+    21.334218,
+    -157.902181,
+    21.334218
+],
+  "geometry": {"coordinates":[-157.90218100000001,21.334218],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857681965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001111,21.45,-158.001111,21.45",
+    "geom:latitude":21.45,
+    "geom:longitude":-158.001111,
+    "iso:country":"US",
+    "sg:address":"P.O. Box 893877",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 220 2402",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church",
+        "church-management",
+        "church-software",
+        "attendance",
+        "contributions"
+    ],
+    "sg:website":"http://www.churchofficeonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e47O5WwRvzpS8Ubbmgaou_21.450000_-158.001111@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464206814,
+    "wof:geomhash":"2fb6161284176d04dca281293d9afd55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857681965
+        }
+    ],
+    "wof:id":857681965,
+    "wof:lastmodified":1464206814,
+    "wof:name":"Church Office Online",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church",
+        "church-management",
+        "church-software",
+        "attendance",
+        "contributions"
+    ]
+},
+  "bbox": [
+    -158.001111,
+    21.45,
+    -158.001111,
+    21.45
+],
+  "geometry": {"coordinates":[-158.00111100000001,21.45],"type":"Point"}
+}

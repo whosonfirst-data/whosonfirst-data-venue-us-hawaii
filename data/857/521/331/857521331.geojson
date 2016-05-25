@@ -1,0 +1,66 @@
+{
+  "id": 857521331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829199,21.279334,-157.829199,21.279334",
+    "geom:latitude":21.279334,
+    "geom:longitude":-157.829199,
+    "iso:country":"US",
+    "sg:address":"2201 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 3888",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hPePj9NZE2ZQEdyAevh5H_21.279334_-157.829199@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202378,
+    "wof:geomhash":"00ae56724767251988b54b600e3290ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857521331
+        }
+    ],
+    "wof:id":857521331,
+    "wof:lastmodified":1464202378,
+    "wof:name":"Coco's Clothing",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.829199,
+    21.279334,
+    -157.829199,
+    21.279334
+],
+  "geometry": {"coordinates":[-157.82919899999999,21.279334],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857674619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.682741,20.881062,-156.682741,20.881062",
+    "geom:latitude":20.881062,
+    "geom:longitude":-156.682741,
+    "iso:country":"US",
+    "sg:address":"170 Papalaua St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 5111",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RmqFa6cDqoDjTDkATZ5jb_20.881062_-156.682741@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206510,
+    "wof:geomhash":"b31d57c1d6744d65c494d45841680985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857674619
+        }
+    ],
+    "wof:id":857674619,
+    "wof:lastmodified":1464206510,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.682741,
+    20.881062,
+    -156.682741,
+    20.881062
+],
+  "geometry": {"coordinates":[-156.68274099999999,20.881062],"type":"Point"}
+}

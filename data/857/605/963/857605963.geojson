@@ -1,0 +1,71 @@
+{
+  "id": 857605963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028719,21.492838,-158.028719,21.492838",
+    "geom:latitude":21.492838,
+    "geom:longitude":-158.028719,
+    "iso:country":"US",
+    "sg:address":"227 Ohai St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 2886",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_116BeLXZ9eEm2nWjq7BYas_21.492838_-158.028719@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204115,
+    "wof:geomhash":"239518743256fb0de05e9b5893840ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857605963
+        }
+    ],
+    "wof:id":857605963,
+    "wof:lastmodified":1464204115,
+    "wof:name":"Pacific Island Auto Sales",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -158.028719,
+    21.492838,
+    -158.028719,
+    21.492838
+],
+  "geometry": {"coordinates":[-158.028719,21.492838],"type":"Point"}
+}

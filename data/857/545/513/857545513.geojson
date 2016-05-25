@@ -1,0 +1,71 @@
+{
+  "id": 857545513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.364744,21.99204,-159.364744,21.99204",
+    "geom:latitude":21.99204,
+    "geom:longitude":-159.364744,
+    "iso:country":"US",
+    "sg:address":"3675 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 2253",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VnKMbCxPsQGebIxzeNU9N_21.992040_-159.364744@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202848,
+    "wof:geomhash":"38138a5a64221ab70ab89f0878b616b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857545513
+        }
+    ],
+    "wof:id":857545513,
+    "wof:lastmodified":1464202848,
+    "wof:name":"Dixon Service Inc",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -159.364744,
+    21.99204,
+    -159.364744,
+    21.99204
+],
+  "geometry": {"coordinates":[-159.364744,21.99204],"type":"Point"}
+}

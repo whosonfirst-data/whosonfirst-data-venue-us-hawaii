@@ -1,0 +1,73 @@
+{
+  "id": 857632477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.462944,20.079579,-155.462944,20.079579",
+    "geom:latitude":20.079579,
+    "geom:longitude":-155.462944,
+    "iso:country":"US",
+    "sg:address":"493 Ilima St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7258",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7892nOgjbsdRecIPyR8Qic_20.079579_-155.462944@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204732,
+    "wof:geomhash":"40d472b292db8204af4db825b60c5d16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857632477
+        }
+    ],
+    "wof:id":857632477,
+    "wof:lastmodified":1464204732,
+    "wof:name":"Waimea Medical Assoc",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -155.462944,
+    20.079579,
+    -155.462944,
+    20.079579
+],
+  "geometry": {"coordinates":[-155.46294399999999,20.079579],"type":"Point"}
+}

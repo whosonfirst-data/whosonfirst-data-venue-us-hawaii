@@ -1,0 +1,75 @@
+{
+  "id": 857678739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.117776,21.320703,-158.117776,21.320703",
+    "geom:latitude":21.320703,
+    "geom:longitude":-158.117776,
+    "iso:country":"US",
+    "sg:address":"650 Malakole St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 4113",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s6uPXUesnRyAsu42YPtnF_21.320703_-158.117776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206681,
+    "wof:geomhash":"a3dccd3881a2e46dd6cebe1cafe6c93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857678739
+        }
+    ],
+    "wof:id":857678739,
+    "wof:lastmodified":1464206681,
+    "wof:name":"AES Kalaeloa Venture LLC",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ]
+},
+  "bbox": [
+    -158.117776,
+    21.320703,
+    -158.117776,
+    21.320703
+],
+  "geometry": {"coordinates":[-158.11777599999999,21.320703],"type":"Point"}
+}

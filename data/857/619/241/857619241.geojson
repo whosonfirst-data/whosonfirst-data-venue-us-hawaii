@@ -1,0 +1,71 @@
+{
+  "id": 857619241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.716366,21.292776,-157.716366,21.292776",
+    "geom:latitude":21.292776,
+    "geom:longitude":-157.716366,
+    "iso:country":"US",
+    "sg:address":"428 Kawaihae St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 497 2552",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KPWRgXP63YdeTtiBSkso2_21.292776_-157.716366@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204410,
+    "wof:geomhash":"ed41c2f156c1f7dfa3752a2dd232e06d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857619241
+        }
+    ],
+    "wof:id":857619241,
+    "wof:lastmodified":1464204410,
+    "wof:name":"Colson & Colson Construction",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.716366,
+    21.292776,
+    -157.716366,
+    21.292776
+],
+  "geometry": {"coordinates":[-157.71636599999999,21.292776],"type":"Point"}
+}

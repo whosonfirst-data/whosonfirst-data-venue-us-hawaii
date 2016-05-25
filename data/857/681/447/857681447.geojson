@@ -1,0 +1,72 @@
+{
+  "id": 857681447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823295,21.272509,-157.823295,21.272509",
+    "geom:latitude":21.272509,
+    "geom:longitude":-157.823295,
+    "iso:country":"US",
+    "sg:address":"2552 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3362-arancino-di-mare/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 931 6273",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n0g5ghSD7a2mHEXyuofNs_21.272509_-157.823295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206784,
+    "wof:geomhash":"5dcddcf0a46bbf06c35198c24baf4804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681447
+        }
+    ],
+    "wof:id":857681447,
+    "wof:lastmodified":1464206784,
+    "wof:name":"Arancino di Mare",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -157.823295,
+    21.272509,
+    -157.823295,
+    21.272509
+],
+  "geometry": {"coordinates":[-157.823295,21.272509],"type":"Point"}
+}

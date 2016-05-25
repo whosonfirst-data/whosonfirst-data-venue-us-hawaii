@@ -1,0 +1,69 @@
+{
+  "id": 857576309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.061675,21.33264,-158.061675,21.33264",
+    "geom:latitude":21.33264,
+    "geom:longitude":-158.061675,
+    "iso:country":"US",
+    "sg:address":"205 Aukahi Pl",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 8601",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cTvrJTQLjEXrhoSoDnxMj_21.332640_-158.061675@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203476,
+    "wof:geomhash":"02f9e6ad216820648b42e1f997d59b96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857576309
+        }
+    ],
+    "wof:id":857576309,
+    "wof:lastmodified":1464203476,
+    "wof:name":"Transcend Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -158.061675,
+    21.33264,
+    -158.061675,
+    21.33264
+],
+  "geometry": {"coordinates":[-158.06167500000001,21.33264],"type":"Point"}
+}

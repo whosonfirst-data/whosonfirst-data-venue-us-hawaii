@@ -1,0 +1,75 @@
+{
+  "id": 857577135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852842,21.296496,-157.852842,21.296496",
+    "geom:latitude":21.296496,
+    "geom:longitude":-157.852842,
+    "iso:country":"US",
+    "sg:address":"508 Cummins St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 6666",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "radiator",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wLdfND9WNEa0EvPpSlYBG_21.296496_-157.852842@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203495,
+    "wof:geomhash":"edb9f651d794bffd2895bb7f4f58051b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857577135
+        }
+    ],
+    "wof:id":857577135,
+    "wof:lastmodified":1464203495,
+    "wof:name":"Als Auto Glass & Radiator Repr",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "radiator",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -157.852842,
+    21.296496,
+    -157.852842,
+    21.296496
+],
+  "geometry": {"coordinates":[-157.85284200000001,21.296496],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857546807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848066,21.307318,-157.848066,21.307318",
+    "geom:latitude":21.307318,
+    "geom:longitude":-157.848066,
+    "iso:country":"US",
+    "sg:address":"1440 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4048",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zn3NCeEc3ZeIfdAr8BTvd_21.307318_-157.848066@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202871,
+    "wof:geomhash":"78b416d0e903828138db4d9022b1d8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857546807
+        }
+    ],
+    "wof:id":857546807,
+    "wof:lastmodified":1464202871,
+    "wof:name":"Aoao Ward Villa",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.848066,
+    21.307318,
+    -157.848066,
+    21.307318
+],
+  "geometry": {"coordinates":[-157.84806599999999,21.307318],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857560951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.77364,21.409687,-157.77364,21.409687",
+    "geom:latitude":21.409687,
+    "geom:longitude":-157.77364,
+    "iso:country":"US",
+    "sg:address":"123 Mikiola Dr",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 234 2841",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ag9gA66i8y6OneBVKWxFR_21.409687_-157.773640@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203181,
+    "wof:geomhash":"412f2dec8581b5d35e15fe0255a0fe0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857560951
+        }
+    ],
+    "wof:id":857560951,
+    "wof:lastmodified":1464203181,
+    "wof:name":"Saboe Sirkka",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "family"
+    ]
+},
+  "bbox": [
+    -157.77364,
+    21.409687,
+    -157.77364,
+    21.409687
+],
+  "geometry": {"coordinates":[-157.77364,21.409687],"type":"Point"}
+}

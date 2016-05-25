@@ -1,0 +1,71 @@
+{
+  "id": 857503321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972625,21.409782,-157.972625,21.409782",
+    "geom:latitude":21.409782,
+    "geom:longitude":-157.972625,
+    "iso:country":"US",
+    "sg:address":"1439 Kaweloka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 351 8054",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hnSLxN9LdQjm7Uzuptj64_21.409782_-157.972625@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201991,
+    "wof:geomhash":"0a5cb4f11028cc8cfdd1213738b04ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857503321
+        }
+    ],
+    "wof:id":857503321,
+    "wof:lastmodified":1464201991,
+    "wof:name":"Wesley Imamoto",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.972625,
+    21.409782,
+    -157.972625,
+    21.409782
+],
+  "geometry": {"coordinates":[-157.97262499999999,21.409782],"type":"Point"}
+}

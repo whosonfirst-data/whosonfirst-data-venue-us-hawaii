@@ -1,0 +1,73 @@
+{
+  "id": 857635547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927569,21.344954,-157.927569,21.344954",
+    "geom:latitude":21.344954,
+    "geom:longitude":-157.927569,
+    "iso:country":"US",
+    "sg:address":"1014 Valkenburgh St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 8629",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gzfwDL6qnsBvjriaojjBG_21.344954_-157.927569@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204851,
+    "wof:geomhash":"4ab8bb7642389113a1522e177190409f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857635547
+        }
+    ],
+    "wof:id":857635547,
+    "wof:lastmodified":1464204851,
+    "wof:name":"Long John Silvers",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.927569,
+    21.344954,
+    -157.927569,
+    21.344954
+],
+  "geometry": {"coordinates":[-157.92756900000001,21.344954],"type":"Point"}
+}

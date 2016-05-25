@@ -1,0 +1,71 @@
+{
+  "id": 857623153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811941,21.28256,-157.811941,21.28256",
+    "geom:latitude":21.28256,
+    "geom:longitude":-157.811941,
+    "iso:country":"US",
+    "sg:address":"3108 Olu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 5573",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43mLs28YBgrZD7bxQ5muLX_21.282560_-157.811941@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204511,
+    "wof:geomhash":"90928a84907469a70fd12594d6f94e55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857623153
+        }
+    ],
+    "wof:id":857623153,
+    "wof:lastmodified":1464204511,
+    "wof:name":"Izakaya Nonbei",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -157.811941,
+    21.28256,
+    -157.811941,
+    21.28256
+],
+  "geometry": {"coordinates":[-157.81194099999999,21.28256],"type":"Point"}
+}

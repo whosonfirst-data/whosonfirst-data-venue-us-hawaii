@@ -1,0 +1,71 @@
+{
+  "id": 857648681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.589792,21.910049,-159.589792,21.910049",
+    "geom:latitude":21.910049,
+    "geom:longitude":-159.589792,
+    "iso:country":"US",
+    "sg:address":"3720 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 0254",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VdDEFzPvqCaBhkWjc2wPt_21.910049_-159.589792@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205401,
+    "wof:geomhash":"3a90d0fae6bd8a051f1312f8067ed427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857648681
+        }
+    ],
+    "wof:id":857648681,
+    "wof:lastmodified":1464205401,
+    "wof:name":"West Power Electric Inc",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.589792,
+    21.910049,
+    -159.589792,
+    21.910049
+],
+  "geometry": {"coordinates":[-159.58979199999999,21.910049],"type":"Point"}
+}

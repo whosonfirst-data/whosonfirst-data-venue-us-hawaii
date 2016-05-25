@@ -1,0 +1,73 @@
+{
+  "id": 857677335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.201852,21.457553,-158.201852,21.457553",
+    "geom:latitude":21.457553,
+    "geom:longitude":-158.201852,
+    "iso:country":"US",
+    "sg:address":"175 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 721 0400",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E1Wn6DMhKp9zitVHW7Kwz_21.457553_-158.201852@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206626,
+    "wof:geomhash":"4ea66bb930dad588936c3d395fb9a05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857677335
+        }
+    ],
+    "wof:id":857677335,
+    "wof:lastmodified":1464206626,
+    "wof:name":"John's Used Auto Parts",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -158.201852,
+    21.457553,
+    -158.201852,
+    21.457553
+],
+  "geometry": {"coordinates":[-158.201852,21.457553],"type":"Point"}
+}

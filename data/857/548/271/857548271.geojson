@@ -1,0 +1,73 @@
+{
+  "id": 857548271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.75463,21.295945,-157.75463,21.295945",
+    "geom:latitude":21.295945,
+    "geom:longitude":-157.75463,
+    "iso:country":"US",
+    "sg:address":"801 Kainoa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 0049",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A8gI7f3x327WuS2KUYhIP_21.295945_-157.754630@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202898,
+    "wof:geomhash":"0b7709c4b8fdbaa2142e8e532f9e34c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857548271
+        }
+    ],
+    "wof:id":857548271,
+    "wof:lastmodified":1464202898,
+    "wof:name":"Crowning Touch A Dental Lab",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -157.75463,
+    21.295945,
+    -157.75463,
+    21.295945
+],
+  "geometry": {"coordinates":[-157.75462999999999,21.295945],"type":"Point"}
+}

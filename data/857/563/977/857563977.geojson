@@ -1,0 +1,73 @@
+{
+  "id": 857563977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907702,21.334321,-157.907702,21.334321",
+    "geom:latitude":21.334321,
+    "geom:longitude":-157.907702,
+    "iso:country":"US",
+    "sg:address":"531 Ohohia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 432 4800",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3egBGrpcQfWO18Egk9dAve_21.334321_-157.907702@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203238,
+    "wof:geomhash":"466bf1f8a5fac1d0b8103248250a5697",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857563977
+        }
+    ],
+    "wof:id":857563977,
+    "wof:lastmodified":1464203238,
+    "wof:name":"Kaiser Permanence",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.907702,
+    21.334321,
+    -157.907702,
+    21.334321
+],
+  "geometry": {"coordinates":[-157.907702,21.334321],"type":"Point"}
+}

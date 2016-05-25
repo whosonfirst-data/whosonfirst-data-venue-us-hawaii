@@ -1,0 +1,71 @@
+{
+  "id": 857634907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.309454,20.902762,-156.309454,20.902762",
+    "geom:latitude":20.902762,
+    "geom:longitude":-156.309454,
+    "iso:country":"US",
+    "sg:address":"1355 Hog Back Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 1655",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "project"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44dufBs1JpOEFazbrYii8d_20.902762_-156.309454@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204829,
+    "wof:geomhash":"75433d104498894ef21c34507bfbaa4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857634907
+        }
+    ],
+    "wof:id":857634907,
+    "wof:lastmodified":1464204829,
+    "wof:name":"Ben Fischer Construction",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "project"
+    ]
+},
+  "bbox": [
+    -156.309454,
+    20.902762,
+    -156.309454,
+    20.902762
+],
+  "geometry": {"coordinates":[-156.30945399999999,20.902762],"type":"Point"}
+}

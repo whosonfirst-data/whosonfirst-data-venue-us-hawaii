@@ -1,0 +1,73 @@
+{
+  "id": 857591069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822055,21.296912,-157.822055,21.296912",
+    "geom:latitude":21.296912,
+    "geom:longitude":-157.822055,
+    "iso:country":"US",
+    "sg:address":"2350 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 1999",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "regulation",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Erb8MSAew4XAPRR0XvdH5_21.296912_-157.822055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203786,
+    "wof:geomhash":"7b58098b94db5e5a617cdd0b8016f20c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857591069
+        }
+    ],
+    "wof:id":857591069,
+    "wof:lastmodified":1464203786,
+    "wof:name":"Hawaii Public Brdcstg Auth",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "regulation",
+        "business"
+    ]
+},
+  "bbox": [
+    -157.822055,
+    21.296912,
+    -157.822055,
+    21.296912
+],
+  "geometry": {"coordinates":[-157.82205500000001,21.296912],"type":"Point"}
+}

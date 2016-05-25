@@ -1,0 +1,69 @@
+{
+  "id": 857677519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319636,22.064143,-159.319636,22.064143",
+    "geom:latitude":22.064143,
+    "geom:longitude":-159.319636,
+    "iso:country":"US",
+    "sg:address":"928 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 1522",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oc0dsXKUWhDIdALIx03Zi_22.064143_-159.319636@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206633,
+    "wof:geomhash":"668e325fb28c394070fcd97072fbdfec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857677519
+        }
+    ],
+    "wof:id":857677519,
+    "wof:lastmodified":1464206633,
+    "wof:name":"Kapaa Legal Clinic",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -159.319636,
+    22.064143,
+    -159.319636,
+    22.064143
+],
+  "geometry": {"coordinates":[-159.319636,22.064143],"type":"Point"}
+}

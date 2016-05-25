@@ -1,0 +1,73 @@
+{
+  "id": 857638397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848915,21.295881,-157.848915,21.295881",
+    "geom:latitude":21.295881,
+    "geom:longitude":-157.848915,
+    "iso:country":"US",
+    "sg:address":"1181 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 9711",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W1hvwmWzEy6wVPFHZwb0o_21.295881_-157.848915@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204954,
+    "wof:geomhash":"3c1622432a65ad011896a6c15278d32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857638397
+        }
+    ],
+    "wof:id":857638397,
+    "wof:lastmodified":1464204954,
+    "wof:name":"Bargain Auto Ctr",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.848915,
+    21.295881,
+    -157.848915,
+    21.295881
+],
+  "geometry": {"coordinates":[-157.84891500000001,21.295881],"type":"Point"}
+}

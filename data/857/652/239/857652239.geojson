@@ -1,0 +1,71 @@
+{
+  "id": 857652239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.009705,21.383923,-158.009705,21.383923",
+    "geom:latitude":21.383923,
+    "geom:longitude":-158.009705,
+    "iso:country":"US",
+    "sg:address":"208 Makamaka Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1666",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mrjn10WsWwYqI5krO82u3_21.383923_-158.009705@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205556,
+    "wof:geomhash":"67966ce06479fe3384c3d1479151b297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857652239
+        }
+    ],
+    "wof:id":857652239,
+    "wof:lastmodified":1464205556,
+    "wof:name":"United Cab",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -158.009705,
+    21.383923,
+    -158.009705,
+    21.383923
+],
+  "geometry": {"coordinates":[-158.009705,21.383923],"type":"Point"}
+}

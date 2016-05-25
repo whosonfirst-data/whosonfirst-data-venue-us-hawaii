@@ -1,0 +1,71 @@
+{
+  "id": 857656385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.674505,21.297398,-157.674505,21.297398",
+    "geom:latitude":21.297398,
+    "geom:longitude":-157.674505,
+    "iso:country":"US",
+    "sg:address":"1036 Kamaole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 2931",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mbrSjRG4ztF6MPXn5QCNr_21.297398_-157.674505@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205741,
+    "wof:geomhash":"257cbe71fc182ea557772ee87ea58f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857656385
+        }
+    ],
+    "wof:id":857656385,
+    "wof:lastmodified":1464205741,
+    "wof:name":"Windocs Window Cleaning Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -157.674505,
+    21.297398,
+    -157.674505,
+    21.297398
+],
+  "geometry": {"coordinates":[-157.67450500000001,21.297398],"type":"Point"}
+}

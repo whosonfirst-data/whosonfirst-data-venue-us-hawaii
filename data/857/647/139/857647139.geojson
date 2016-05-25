@@ -1,0 +1,70 @@
+{
+  "id": 857647139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026312,21.368754,-158.026312,21.368754",
+    "geom:latitude":21.368754,
+    "geom:longitude":-158.026312,
+    "iso:country":"US",
+    "sg:address":"2137 Fort Weaver Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 3042",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.saintfrancismedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQHJKOwBeQYp1P2wbor6L_21.368754_-158.026312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205342,
+    "wof:geomhash":"848a73df8e02aae0ef737b0a73667ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857647139
+        }
+    ],
+    "wof:id":857647139,
+    "wof:lastmodified":1464205342,
+    "wof:name":"Leeward Dialysis",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -158.026312,
+    21.368754,
+    -158.026312,
+    21.368754
+],
+  "geometry": {"coordinates":[-158.02631199999999,21.368754],"type":"Point"}
+}

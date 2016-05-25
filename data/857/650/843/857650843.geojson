@@ -1,0 +1,77 @@
+{
+  "id": 857650843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.498562,20.915512,-156.498562,20.915512",
+    "geom:latitude":20.915512,
+    "geom:longitude":-156.498562,
+    "iso:country":"US",
+    "sg:address":"837 Makiki St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 6792",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937633,
+        102085577,
+        85890685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XD26etxsBwdIJd3lrxJl1_20.915512_-156.498562@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205489,
+    "wof:geomhash":"53ac48dbcabe23732f90c616b2005a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937633,
+            "neighbourhood_id":85890685,
+            "region_id":85688671,
+            "venue_id":857650843
+        }
+    ],
+    "wof:id":857650843,
+    "wof:lastmodified":1464205489,
+    "wof:name":"Rodney's Electric",
+    "wof:parent_id":85890685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.498562,
+    20.915512,
+    -156.498562,
+    20.915512
+],
+  "geometry": {"coordinates":[-156.49856199999999,20.915512],"type":"Point"}
+}

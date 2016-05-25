@@ -1,0 +1,71 @@
+{
+  "id": 857623589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.335792,22.089666,-159.335792,22.089666",
+    "geom:latitude":22.089666,
+    "geom:longitude":-159.335792,
+    "iso:country":"US",
+    "sg:address":"5477 Kaehulua Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 0239",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grower",
+        "orchid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35LAl6I7vn3uZa5HB7f09V_22.089666_-159.335792@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204522,
+    "wof:geomhash":"31ace76ccccffd8d4ff281d3ba993dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857623589
+        }
+    ],
+    "wof:id":857623589,
+    "wof:lastmodified":1464204522,
+    "wof:name":"Hanalei Orchids",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grower",
+        "orchid"
+    ]
+},
+  "bbox": [
+    -159.335792,
+    22.089666,
+    -159.335792,
+    22.089666
+],
+  "geometry": {"coordinates":[-159.335792,22.089666],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857511955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.938416,21.401716,-157.938416,21.401716",
+    "geom:latitude":21.401716,
+    "geom:longitude":-157.938416,
+    "iso:country":"US",
+    "sg:address":"693 Kapukapu Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 7075",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QVtgxLCVgaTSLuVdUdJx0_21.401716_-157.938416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202184,
+    "wof:geomhash":"7d6c5437a619429ecb8ffccbaf10bcd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857511955
+        }
+    ],
+    "wof:id":857511955,
+    "wof:lastmodified":1464202184,
+    "wof:name":"Honda Construction",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.938416,
+    21.401716,
+    -157.938416,
+    21.401716
+],
+  "geometry": {"coordinates":[-157.93841599999999,21.401716],"type":"Point"}
+}

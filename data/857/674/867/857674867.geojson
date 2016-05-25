@@ -1,0 +1,74 @@
+{
+  "id": 857674867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.309147,20.891579,-156.309147,20.891579",
+    "geom:latitude":20.891579,
+    "geom:longitude":-156.309147,
+    "iso:country":"US",
+    "sg:address":"1800 Kauhikoa Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 4999",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.mauiconnection.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35HhpIijd2Xnvk1kuo9XGq_20.891579_-156.309147@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206519,
+    "wof:geomhash":"5f2056bac554593f684c580934e68d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857674867
+        }
+    ],
+    "wof:id":857674867,
+    "wof:lastmodified":1464206519,
+    "wof:name":"Maui Connections",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -156.309147,
+    20.891579,
+    -156.309147,
+    20.891579
+],
+  "geometry": {"coordinates":[-156.309147,20.891579],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857673595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788025,21.2895,-157.788025,21.2895",
+    "geom:latitude":21.2895,
+    "geom:longitude":-157.788025,
+    "iso:country":"US",
+    "sg:address":"1741 Paula Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 227 2455",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Rpc5aAbr3decZrlbLapg_21.289500_-157.788025@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206473,
+    "wof:geomhash":"27eb30c5f82835400c48b0f901f9404b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857673595
+        }
+    ],
+    "wof:id":857673595,
+    "wof:lastmodified":1464206473,
+    "wof:name":"A-A Awesome Imaging",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -157.788025,
+    21.2895,
+    -157.788025,
+    21.2895
+],
+  "geometry": {"coordinates":[-157.788025,21.2895],"type":"Point"}
+}

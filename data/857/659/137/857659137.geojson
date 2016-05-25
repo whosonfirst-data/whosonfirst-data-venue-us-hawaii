@@ -1,0 +1,71 @@
+{
+  "id": 857659137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.307943,20.888122,-156.307943,20.888122",
+    "geom:latitude":20.888122,
+    "geom:longitude":-156.307943,
+    "iso:country":"US",
+    "sg:address":"2145 Kauhikoa Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 5555",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J9oFC2ouhPU73jR6SKBQF_20.888122_-156.307943@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205867,
+    "wof:geomhash":"35677dc3003910b02603c2a72138e961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857659137
+        }
+    ],
+    "wof:id":857659137,
+    "wof:lastmodified":1464205867,
+    "wof:name":"Kazuma Surfboards Hawaii",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -156.307943,
+    20.888122,
+    -156.307943,
+    20.888122
+],
+  "geometry": {"coordinates":[-156.30794299999999,20.888122],"type":"Point"}
+}

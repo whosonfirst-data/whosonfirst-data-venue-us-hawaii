@@ -1,0 +1,73 @@
+{
+  "id": 857676615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850564,21.361801,-157.850564,21.361801",
+    "geom:latitude":21.361801,
+    "geom:longitude":-157.850564,
+    "iso:country":"US",
+    "sg:address":"3398 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0788",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iAbonf0MWvnpUhkkQQ2Fa_21.361801_-157.850564@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206599,
+    "wof:geomhash":"4c314571178a914667af81f23c9e247c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857676615
+        }
+    ],
+    "wof:id":857676615,
+    "wof:lastmodified":1464206599,
+    "wof:name":"M Miyamura Inc",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.850564,
+    21.361801,
+    -157.850564,
+    21.361801
+],
+  "geometry": {"coordinates":[-157.85056399999999,21.361801],"type":"Point"}
+}

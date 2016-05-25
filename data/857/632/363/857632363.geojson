@@ -1,0 +1,77 @@
+{
+  "id": 857632363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843381,21.299571,-157.843381,21.299571",
+    "geom:latitude":21.299571,
+    "geom:longitude":-157.843381,
+    "iso:country":"US",
+    "sg:address":"902 Alder St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2581",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "state",
+        "juvenile",
+        "detention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OiIsDNHiNqdGSug0qMsK6_21.299571_-157.843381@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204728,
+    "wof:geomhash":"257c31c4c3f7dc957e91f476dbc2a0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857632363
+        }
+    ],
+    "wof:id":857632363,
+    "wof:lastmodified":1464204728,
+    "wof:name":"Home Maluhia",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "state",
+        "juvenile",
+        "detention"
+    ]
+},
+  "bbox": [
+    -157.843381,
+    21.299571,
+    -157.843381,
+    21.299571
+],
+  "geometry": {"coordinates":[-157.84338099999999,21.299571],"type":"Point"}
+}

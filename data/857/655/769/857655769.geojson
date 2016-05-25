@@ -1,0 +1,75 @@
+{
+  "id": 857655769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823044,21.279273,-157.823044,21.279273",
+    "geom:latitude":21.279273,
+    "geom:longitude":-157.823044,
+    "iso:country":"US",
+    "sg:address":"2355 Ala Wai Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 1719",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vBO6kbbeGFiVV6KzJF9pu_21.279273_-157.823044@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205713,
+    "wof:geomhash":"0e28910a2b91f8bdd5f08d30494f13a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857655769
+        }
+    ],
+    "wof:id":857655769,
+    "wof:lastmodified":1464205713,
+    "wof:name":"Ali'i Court Reporting-Hawaii",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -157.823044,
+    21.279273,
+    -157.823044,
+    21.279273
+],
+  "geometry": {"coordinates":[-157.82304400000001,21.279273],"type":"Point"}
+}

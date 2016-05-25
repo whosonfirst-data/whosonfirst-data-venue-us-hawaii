@@ -1,0 +1,69 @@
+{
+  "id": 857663157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.027374,21.385414,-158.027374,21.385414",
+    "geom:latitude":21.385414,
+    "geom:longitude":-158.027374,
+    "iso:country":"US",
+    "sg:address":"547 Kipou St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 8556",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eJTrwAefBWfEHj0BKWgYb_21.385414_-158.027374@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206056,
+    "wof:geomhash":"76464a93dd3dd1219fa8841e3f9ce0aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857663157
+        }
+    ],
+    "wof:id":857663157,
+    "wof:lastmodified":1464206056,
+    "wof:name":"Euro Painting",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -158.027374,
+    21.385414,
+    -158.027374,
+    21.385414
+],
+  "geometry": {"coordinates":[-158.02737400000001,21.385414],"type":"Point"}
+}

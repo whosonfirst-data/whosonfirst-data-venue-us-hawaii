@@ -1,0 +1,71 @@
+{
+  "id": 857655517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930195,21.376493,-157.930195,21.376493",
+    "geom:latitude":21.376493,
+    "geom:longitude":-157.930195,
+    "iso:country":"US",
+    "sg:address":"312 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 2414",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAormB7nmcbniUIeziIGN_21.376493_-157.930195@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205703,
+    "wof:geomhash":"427ebfbcc48af41adeea7c54cd1dc4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857655517
+        }
+    ],
+    "wof:id":857655517,
+    "wof:lastmodified":1464205703,
+    "wof:name":"Aiea-Saint Elizabeth",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.930195,
+    21.376493,
+    -157.930195,
+    21.376493
+],
+  "geometry": {"coordinates":[-157.930195,21.376493],"type":"Point"}
+}

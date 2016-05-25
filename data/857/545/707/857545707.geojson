@@ -1,0 +1,71 @@
+{
+  "id": 857545707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864626,21.317964,-157.864626,21.317964",
+    "geom:latitude":21.317964,
+    "geom:longitude":-157.864626,
+    "iso:country":"US",
+    "sg:address":"401 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 342 7112",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QofmGj4UjLI7VfSic3mT6_21.317964_-157.864626@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202852,
+    "wof:geomhash":"028c0543a3e9051b409a97981196c511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857545707
+        }
+    ],
+    "wof:id":857545707,
+    "wof:lastmodified":1464202852,
+    "wof:name":"Center Of Deliverance Church",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.864626,
+    21.317964,
+    -157.864626,
+    21.317964
+],
+  "geometry": {"coordinates":[-157.86462599999999,21.317964],"type":"Point"}
+}

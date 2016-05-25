@@ -1,0 +1,71 @@
+{
+  "id": 857664169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018743,21.380031,-158.018743,21.380031",
+    "geom:latitude":21.380031,
+    "geom:longitude":-158.018743,
+    "iso:country":"US",
+    "sg:address":"307 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 2230",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nBXG2TuxIVL9sqT4RPs0V_21.380031_-158.018743@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206090,
+    "wof:geomhash":"f13a62182a8794a7016159ba8ce9503b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857664169
+        }
+    ],
+    "wof:id":857664169,
+    "wof:lastmodified":1464206090,
+    "wof:name":"Waipahu Town Pharmacy",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -158.018743,
+    21.380031,
+    -158.018743,
+    21.380031
+],
+  "geometry": {"coordinates":[-158.018743,21.380031],"type":"Point"}
+}

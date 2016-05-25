@@ -1,0 +1,71 @@
+{
+  "id": 857646001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839916,21.313461,-157.839916,21.313461",
+    "geom:latitude":21.313461,
+    "geom:longitude":-157.839916,
+    "iso:country":"US",
+    "sg:address":"615 Auwaiolimu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 4480",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sk6k7tLrrWX2g4IA9dIGL_21.313461_-157.839916@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205277,
+    "wof:geomhash":"69117f94724dc90c2922d78130bc1e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857646001
+        }
+    ],
+    "wof:id":857646001,
+    "wof:lastmodified":1464205277,
+    "wof:name":"Lincoln Elementary School",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.839916,
+    21.313461,
+    -157.839916,
+    21.313461
+],
+  "geometry": {"coordinates":[-157.83991599999999,21.313461],"type":"Point"}
+}

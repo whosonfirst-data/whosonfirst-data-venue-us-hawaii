@@ -1,0 +1,73 @@
+{
+  "id": 857583395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.943046,19.569719,-155.943046,19.569719",
+    "geom:latitude":19.569719,
+    "geom:longitude":-155.943046,
+    "iso:country":"US",
+    "sg:address":"6742 Mamalahoa Hwy",
+    "sg:city":"Holualoa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 331 1101",
+    "sg:postcode":"96725",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937435,
+        102085433,
+        85890295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xM93SrstNR8nXbqK319oB_19.569719_-155.943046@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203615,
+    "wof:geomhash":"fe2b4d7a92a22f668ec7d449cbd4a28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937435,
+            "neighbourhood_id":85890295,
+            "region_id":85688671,
+            "venue_id":857583395
+        }
+    ],
+    "wof:id":857583395,
+    "wof:lastmodified":1464203615,
+    "wof:name":"JTS Jobiz Towing Svc",
+    "wof:parent_id":85890295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -155.943046,
+    19.569719,
+    -155.943046,
+    19.569719
+],
+  "geometry": {"coordinates":[-155.94304600000001,19.569719],"type":"Point"}
+}

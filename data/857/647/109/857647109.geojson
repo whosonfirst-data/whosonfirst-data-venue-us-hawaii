@@ -1,0 +1,77 @@
+{
+  "id": 857647109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.039563,21.67204,-158.039563,21.67204",
+    "geom:latitude":21.67204,
+    "geom:longitude":-158.039563,
+    "iso:country":"US",
+    "sg:address":"124 Paumalu Pl",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 9424",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85851545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a2W73ofYECQzxHMv1SHiv_21.672040_-158.039563@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205341,
+    "wof:geomhash":"13d355b2f646d7e6f71096f07d88a395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85851545,
+            "region_id":85688671,
+            "venue_id":857647109
+        }
+    ],
+    "wof:id":857647109,
+    "wof:lastmodified":1464205341,
+    "wof:name":"Northshore Plumbing",
+    "wof:parent_id":85851545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -158.039563,
+    21.67204,
+    -158.039563,
+    21.67204
+],
+  "geometry": {"coordinates":[-158.03956299999999,21.67204],"type":"Point"}
+}

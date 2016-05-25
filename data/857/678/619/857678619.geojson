@@ -1,0 +1,73 @@
+{
+  "id": 857678619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.092974,21.313694,-158.092974,21.313694",
+    "geom:latitude":21.313694,
+    "geom:longitude":-158.092974,
+    "iso:country":"US",
+    "sg:address":"29 Malakole St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 8211",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SDLOx7rD7oS9ZfHp6YA18_21.313694_-158.092974@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206677,
+    "wof:geomhash":"e0fd389a4f05d0354a07d67d7acb88eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857678619
+        }
+    ],
+    "wof:id":857678619,
+    "wof:lastmodified":1464206677,
+    "wof:name":"Sunvan Hawaii Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.092974,
+    21.313694,
+    -158.092974,
+    21.313694
+],
+  "geometry": {"coordinates":[-158.092974,21.313694],"type":"Point"}
+}

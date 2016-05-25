@@ -1,0 +1,73 @@
+{
+  "id": 857670391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.984129,19.672917,-155.984129,19.672917",
+    "geom:latitude":19.672917,
+    "geom:longitude":-155.984129,
+    "iso:country":"US",
+    "sg:address":"5060 Kealakaa St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 326 3246",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qDWcE6m7KZrfEqabOyp57_19.672917_-155.984129@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206354,
+    "wof:geomhash":"14100dde6e7ec8a4c83915494e9c1bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890333,
+            "region_id":85688671,
+            "venue_id":857670391
+        }
+    ],
+    "wof:id":857670391,
+    "wof:lastmodified":1464206354,
+    "wof:name":"Oahu Building Maintenance",
+    "wof:parent_id":85890333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -155.984129,
+    19.672917,
+    -155.984129,
+    19.672917
+],
+  "geometry": {"coordinates":[-155.984129,19.672917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857584279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836922,21.298273,-157.836922,21.298273",
+    "geom:latitude":21.298273,
+    "geom:longitude":-157.836922,
+    "iso:country":"US",
+    "sg:address":"1305 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4247",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qmV6l4FU5U5SPzSsnHcGS_21.298273_-157.836922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203630,
+    "wof:geomhash":"eea578f1325475879bf04f8f8c8ffe84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857584279
+        }
+    ],
+    "wof:id":857584279,
+    "wof:lastmodified":1464203630,
+    "wof:name":"Hairworks",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.836922,
+    21.298273,
+    -157.836922,
+    21.298273
+],
+  "geometry": {"coordinates":[-157.83692199999999,21.298273],"type":"Point"}
+}

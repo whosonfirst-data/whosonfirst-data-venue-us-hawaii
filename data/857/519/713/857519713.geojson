@@ -1,0 +1,71 @@
+{
+  "id": 857519713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.869817,21.32647,-157.869817,21.32647",
+    "geom:latitude":21.32647,
+    "geom:longitude":-157.869817,
+    "iso:country":"US",
+    "sg:address":"1222 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 7070",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iKa51KHOUeEji7U9XZLQ3_21.326470_-157.869817@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202344,
+    "wof:geomhash":"b4803e0ca89dbd7107cd8cc08763fe0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857519713
+        }
+    ],
+    "wof:id":857519713,
+    "wof:lastmodified":1464202344,
+    "wof:name":"K C Cleaners",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -157.869817,
+    21.32647,
+    -157.869817,
+    21.32647
+],
+  "geometry": {"coordinates":[-157.86981700000001,21.32647],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857657109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.670647,21.299357,-157.670647,21.299357",
+    "geom:latitude":21.299357,
+    "geom:longitude":-157.670647,
+    "iso:country":"US",
+    "sg:address":"1174 Honokahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5781",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s85PFCbKl2UuPsN3eX1EY_21.299357_-157.670647@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205772,
+    "wof:geomhash":"c52f613eb7814fbcebee101968efa106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857657109
+        }
+    ],
+    "wof:id":857657109,
+    "wof:lastmodified":1464205772,
+    "wof:name":"Hawaii Mortgage Brokers Corp",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.670647,
+    21.299357,
+    -157.670647,
+    21.299357
+],
+  "geometry": {"coordinates":[-157.670647,21.299357],"type":"Point"}
+}

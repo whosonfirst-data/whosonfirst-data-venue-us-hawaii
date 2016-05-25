@@ -1,0 +1,74 @@
+{
+  "id": 857589089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.456231,20.882876,-156.456231,20.882876",
+    "geom:latitude":20.882876,
+    "geom:longitude":-156.456231,
+    "iso:country":"US",
+    "sg:address":"190 Papa Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 4477",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.aloharentacar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pc2hRwLPa3tR7ZAWdj0cT_20.882876_-156.456231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203742,
+    "wof:geomhash":"12ffeae5ec5da7d73a485a12c56e3500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857589089
+        }
+    ],
+    "wof:id":857589089,
+    "wof:lastmodified":1464203742,
+    "wof:name":"Aloha Rent A Car",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.456231,
+    20.882876,
+    -156.456231,
+    20.882876
+],
+  "geometry": {"coordinates":[-156.456231,20.882876],"type":"Point"}
+}

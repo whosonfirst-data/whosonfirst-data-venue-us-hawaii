@@ -1,0 +1,71 @@
+{
+  "id": 857618445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.959327,21.42421,-157.959327,21.42421",
+    "geom:latitude":21.42421,
+    "geom:longitude":-157.959327,
+    "iso:country":"US",
+    "sg:address":"2157 Komo Mai Dr",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 3123",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1co91WQzLluDm719TRisxB_21.424210_-157.959327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204387,
+    "wof:geomhash":"01e5cf89bf06fb73c125f541914eb28a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857618445
+        }
+    ],
+    "wof:id":857618445,
+    "wof:lastmodified":1464204387,
+    "wof:name":"Duty Free Shoppers",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -157.959327,
+    21.42421,
+    -157.959327,
+    21.42421
+],
+  "geometry": {"coordinates":[-157.959327,21.42421],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857556375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857082,21.295612,-157.857082,21.295612",
+    "geom:latitude":21.295612,
+    "geom:longitude":-157.857082,
+    "iso:country":"US",
+    "sg:address":"210 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 1149",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3of9HysMr1oFsjBPqrTSIZ_21.295612_-157.857082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203059,
+    "wof:geomhash":"46101cec4e222c302ba836fcd9c52b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857556375
+        }
+    ],
+    "wof:id":857556375,
+    "wof:lastmodified":1464203059,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -157.857082,
+    21.295612,
+    -157.857082,
+    21.295612
+],
+  "geometry": {"coordinates":[-157.85708199999999,21.295612],"type":"Point"}
+}

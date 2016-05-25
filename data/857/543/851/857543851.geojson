@@ -1,0 +1,74 @@
+{
+  "id": 857543851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003391,21.42237,-158.003391,21.42237",
+    "geom:latitude":21.42237,
+    "geom:longitude":-158.003391,
+    "iso:country":"US",
+    "sg:address":"518 Puahi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 1941",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.kurodaautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LVaBCCMFiZxtKV1g9GHRj_21.422370_-158.003391@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202818,
+    "wof:geomhash":"84fb33e20b51f0703b5472fb301724f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857543851
+        }
+    ],
+    "wof:id":857543851,
+    "wof:lastmodified":1464202818,
+    "wof:name":"Kuroda Auto Body Inc",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -158.003391,
+    21.42237,
+    -158.003391,
+    21.42237
+],
+  "geometry": {"coordinates":[-158.00339099999999,21.42237],"type":"Point"}
+}

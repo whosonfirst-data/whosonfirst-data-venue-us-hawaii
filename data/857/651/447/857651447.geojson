@@ -1,0 +1,77 @@
+{
+  "id": 857651447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.175465,21.405529,-158.175465,21.405529",
+    "geom:latitude":21.405529,
+    "geom:longitude":-158.175465,
+    "iso:country":"US",
+    "sg:address":"139 Hookele St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 5876",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69MX33GVTKt9RC6kSPFdiK_21.405529_-158.175465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205519,
+    "wof:geomhash":"e3242adfc0b5f835d6d97418f4e0b190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857651447
+        }
+    ],
+    "wof:id":857651447,
+    "wof:lastmodified":1464205519,
+    "wof:name":"Drain Opener",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -158.175465,
+    21.405529,
+    -158.175465,
+    21.405529
+],
+  "geometry": {"coordinates":[-158.175465,21.405529],"type":"Point"}
+}

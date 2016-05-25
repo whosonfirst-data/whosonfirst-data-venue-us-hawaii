@@ -1,0 +1,71 @@
+{
+  "id": 857604979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030813,21.492746,-158.030813,21.492746",
+    "geom:latitude":21.492746,
+    "geom:longitude":-158.030813,
+    "iso:country":"US",
+    "sg:address":"141 Milikana Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 3854",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LZcjbMr0qbO74VnjX7ugE_21.492746_-158.030813@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204096,
+    "wof:geomhash":"5706b3b820770d465ae1a631e874aca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857604979
+        }
+    ],
+    "wof:id":857604979,
+    "wof:lastmodified":1464204096,
+    "wof:name":"JC Snack",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.030813,
+    21.492746,
+    -158.030813,
+    21.492746
+],
+  "geometry": {"coordinates":[-158.03081299999999,21.492746],"type":"Point"}
+}

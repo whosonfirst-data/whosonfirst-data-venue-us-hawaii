@@ -1,0 +1,71 @@
+{
+  "id": 857626409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873555,21.324101,-157.873555,21.324101",
+    "geom:latitude":21.324101,
+    "geom:longitude":-157.873555,
+    "iso:country":"US",
+    "sg:address":"818 Moowaa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0138",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YJHbz9LonaR3ffYc9lidi_21.324101_-157.873555@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204590,
+    "wof:geomhash":"ac38d7806f43f5e5ec937a8d493a7e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857626409
+        }
+    ],
+    "wof:id":857626409,
+    "wof:lastmodified":1464204590,
+    "wof:name":"Okada Trucking Co LTD",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.873555,
+    21.324101,
+    -157.873555,
+    21.324101
+],
+  "geometry": {"coordinates":[-157.87355500000001,21.324101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857596557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833765,21.285702,-157.833765,21.285702",
+    "geom:latitude":21.285702,
+    "geom:longitude":-157.833765,
+    "iso:country":"US",
+    "sg:address":"1910 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 9748",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AGFoEio3VAzkAN3ru8ulb_21.285702_-157.833765@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203907,
+    "wof:geomhash":"d01acb516874b806047796575c4523dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857596557
+        }
+    ],
+    "wof:id":857596557,
+    "wof:lastmodified":1464203907,
+    "wof:name":"Dolphin Communications",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -157.833765,
+    21.285702,
+    -157.833765,
+    21.285702
+],
+  "geometry": {"coordinates":[-157.833765,21.285702],"type":"Point"}
+}

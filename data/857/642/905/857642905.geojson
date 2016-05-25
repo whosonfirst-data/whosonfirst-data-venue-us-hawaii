@@ -1,0 +1,71 @@
+{
+  "id": 857642905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018177,21.432328,-158.018177,21.432328",
+    "geom:latitude":21.432328,
+    "geom:longitude":-158.018177,
+    "iso:country":"US",
+    "sg:address":"233 Makapipipi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8211",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59p7SzIXPlvKaCfVL0yQ43_21.432328_-158.018177@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205136,
+    "wof:geomhash":"92e597a0f2d8c16c68ca357b112ac2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857642905
+        }
+    ],
+    "wof:id":857642905,
+    "wof:lastmodified":1464205136,
+    "wof:name":"Mililani Town Assn",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -158.018177,
+    21.432328,
+    -158.018177,
+    21.432328
+],
+  "geometry": {"coordinates":[-158.01817700000001,21.432328],"type":"Point"}
+}

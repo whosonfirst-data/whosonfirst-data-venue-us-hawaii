@@ -1,0 +1,82 @@
+{
+  "id": 857620239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.712929,21.308553,-157.712929,21.308553",
+    "geom:latitude":21.308553,
+    "geom:longitude":-157.712929,
+    "iso:country":"US",
+    "sg:address":"974 Kahena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 0388",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y2EgwNfscnd0O2xiKs3Wh_21.308553_-157.712929@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204438,
+    "wof:geomhash":"e908fb18022c96e90b29c1dcbca2b729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857620239
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857620239
+        }
+    ],
+    "wof:id":857620239,
+    "wof:lastmodified":1464204438,
+    "wof:name":"Hi-Pac LTD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.712929,
+    21.308553,
+    -157.712929,
+    21.308553
+],
+  "geometry": {"coordinates":[-157.712929,21.308553],"type":"Point"}
+}

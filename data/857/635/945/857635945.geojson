@@ -1,0 +1,78 @@
+{
+  "id": 857635945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818076,21.292348,-157.818076,21.292348",
+    "geom:latitude":21.292348,
+    "geom:longitude":-157.818076,
+    "iso:country":"US",
+    "sg:address":"2823 Varsity Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2645",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MnkMWy9upyUr6raQ6Ryni_21.292348_-157.818076@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204866,
+    "wof:geomhash":"a119c3cc0fce466c791347fd072ff4e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857635945
+        }
+    ],
+    "wof:id":857635945,
+    "wof:lastmodified":1464204866,
+    "wof:name":"Fred's Therapeutic Massage Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.818076,
+    21.292348,
+    -157.818076,
+    21.292348
+],
+  "geometry": {"coordinates":[-157.81807599999999,21.292348],"type":"Point"}
+}

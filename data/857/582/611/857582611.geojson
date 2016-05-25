@@ -1,0 +1,71 @@
+{
+  "id": 857582611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.167881,21.57744,-158.167881,21.57744",
+    "geom:latitude":21.57744,
+    "geom:longitude":-158.167881,
+    "iso:country":"US",
+    "sg:address":"540 Farrington Hwy",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 6688",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937563,
+        102085417,
+        85890589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ynjkub2VbPbVyFB0QSrGL_21.577440_-158.167881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203602,
+    "wof:geomhash":"a7ae9a3434dd00b341508a2352cccd07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937563,
+            "neighbourhood_id":85890589,
+            "region_id":85688671,
+            "venue_id":857582611
+        }
+    ],
+    "wof:id":857582611,
+    "wof:lastmodified":1464203602,
+    "wof:name":"Hawaii International Polo Club",
+    "wof:parent_id":85890589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -158.167881,
+    21.57744,
+    -158.167881,
+    21.57744
+],
+  "geometry": {"coordinates":[-158.16788099999999,21.57744],"type":"Point"}
+}

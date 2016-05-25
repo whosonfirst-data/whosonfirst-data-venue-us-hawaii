@@ -1,0 +1,73 @@
+{
+  "id": 857549381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839273,21.309776,-157.839273,21.309776",
+    "geom:latitude":21.309776,
+    "geom:longitude":-157.839273,
+    "iso:country":"US",
+    "sg:address":"1661 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 9961",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fTPtmAPghs5256kKlqi6o_21.309776_-157.839273@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202919,
+    "wof:geomhash":"75efd8040ac13404178df280c1c28b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857549381
+        }
+    ],
+    "wof:id":857549381,
+    "wof:lastmodified":1464202919,
+    "wof:name":"Ema Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.839273,
+    21.309776,
+    -157.839273,
+    21.309776
+],
+  "geometry": {"coordinates":[-157.83927299999999,21.309776],"type":"Point"}
+}

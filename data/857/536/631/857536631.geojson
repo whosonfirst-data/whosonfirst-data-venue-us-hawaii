@@ -1,0 +1,73 @@
+{
+  "id": 857536631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.456075,20.880765,-156.456075,20.880765",
+    "geom:latitude":20.880765,
+    "geom:longitude":-156.456075,
+    "iso:country":"US",
+    "sg:address":"270 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0632",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72yuI9fpomwAJivHH8iuBl_20.880765_-156.456075@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202674,
+    "wof:geomhash":"b353c41e16d015e9c040dee6fd8540dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857536631
+        }
+    ],
+    "wof:id":857536631,
+    "wof:lastmodified":1464202674,
+    "wof:name":"Pictures Plus",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -156.456075,
+    20.880765,
+    -156.456075,
+    20.880765
+],
+  "geometry": {"coordinates":[-156.456075,20.880765],"type":"Point"}
+}

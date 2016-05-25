@@ -1,0 +1,73 @@
+{
+  "id": 857587561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723719,21.377352,-157.723719,21.377352",
+    "geom:latitude":21.377352,
+    "geom:longitude":-157.723719,
+    "iso:country":"US",
+    "sg:address":"1238 Kupau St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 6935",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "testing",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VPIhcYRyFfHeTZMoMj0dq_21.377352_-157.723719@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203705,
+    "wof:geomhash":"ff72d59cdd30a9247d8c98a8c8b69985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857587561
+        }
+    ],
+    "wof:id":857587561,
+    "wof:lastmodified":1464203705,
+    "wof:name":"Stephen R Blotzke",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -157.723719,
+    21.377352,
+    -157.723719,
+    21.377352
+],
+  "geometry": {"coordinates":[-157.72371899999999,21.377352],"type":"Point"}
+}

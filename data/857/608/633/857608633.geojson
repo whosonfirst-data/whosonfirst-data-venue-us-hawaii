@@ -1,0 +1,71 @@
+{
+  "id": 857608633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.918633,21.618097,-157.918633,21.618097",
+    "geom:latitude":21.618097,
+    "geom:longitude":-157.918633,
+    "iso:country":"US",
+    "sg:address":"178 Kawaipuna St",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 2211",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rQFFp3Kwq86E0CqqN9FRF_21.618097_-157.918633@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204179,
+    "wof:geomhash":"e1ed367e8c2cad515873a8042375e1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857608633
+        }
+    ],
+    "wof:id":857608633,
+    "wof:lastmodified":1464204179,
+    "wof:name":"Alapa Plumbing",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.918633,
+    21.618097,
+    -157.918633,
+    21.618097
+],
+  "geometry": {"coordinates":[-157.918633,21.618097],"type":"Point"}
+}

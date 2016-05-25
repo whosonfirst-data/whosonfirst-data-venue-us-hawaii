@@ -1,0 +1,71 @@
+{
+  "id": 857626609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862322,21.310962,-157.862322,21.310962",
+    "geom:latitude":21.310962,
+    "geom:longitude":-157.862322,
+    "iso:country":"US",
+    "sg:address":"1028 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 4803",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xleVO5S7TUENp5g39CbZa_21.310962_-157.862322@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204594,
+    "wof:geomhash":"a72ed574168d48cd98e3c71770bc3b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857626609
+        }
+    ],
+    "wof:id":857626609,
+    "wof:lastmodified":1464204594,
+    "wof:name":"Krung Thai Restaurant",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.862322,
+    21.310962,
+    -157.862322,
+    21.310962
+],
+  "geometry": {"coordinates":[-157.86232200000001,21.310962],"type":"Point"}
+}

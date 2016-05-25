@@ -1,0 +1,71 @@
+{
+  "id": 857588277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831204,21.29715,-157.831204,21.29715",
+    "geom:latitude":21.29715,
+    "geom:longitude":-157.831204,
+    "iso:country":"US",
+    "sg:address":"1833 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 2275",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23riqJwQhyfefiPd7b8SYu_21.297150_-157.831204@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203720,
+    "wof:geomhash":"62b84651df4d18324857808449900054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857588277
+        }
+    ],
+    "wof:id":857588277,
+    "wof:lastmodified":1464203720,
+    "wof:name":"Clyde S Umaki Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.831204,
+    21.29715,
+    -157.831204,
+    21.29715
+],
+  "geometry": {"coordinates":[-157.83120400000001,21.29715],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857624867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00708,21.385747,-158.00708,21.385747",
+    "geom:latitude":21.385747,
+    "geom:longitude":-158.00708,
+    "iso:country":"US",
+    "sg:address":"889 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1250",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ywCBp8ZdmAO6NQncIF6H_21.385747_-158.007080@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204559,
+    "wof:geomhash":"58ffb8a3d857809d15724eeed4076b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857624867
+        }
+    ],
+    "wof:id":857624867,
+    "wof:lastmodified":1464204559,
+    "wof:name":"PS Lounge",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.00708,
+    21.385747,
+    -158.00708,
+    21.385747
+],
+  "geometry": {"coordinates":[-158.00708,21.385747],"type":"Point"}
+}

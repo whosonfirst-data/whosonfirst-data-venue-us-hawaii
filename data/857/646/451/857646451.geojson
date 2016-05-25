@@ -1,0 +1,75 @@
+{
+  "id": 857646451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.050015,21.494483,-158.050015,21.494483",
+    "geom:latitude":21.494483,
+    "geom:longitude":-158.050015,
+    "iso:country":"US",
+    "sg:address":"1718 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 0447",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05o2SxwLHc7NQzkmU1b0B4_21.494483_-158.050015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205309,
+    "wof:geomhash":"cce1787c42286147dbd74d405f76da8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857646451
+        }
+    ],
+    "wof:id":857646451,
+    "wof:lastmodified":1464205309,
+    "wof:name":"Cash In Advance",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -158.050015,
+    21.494483,
+    -158.050015,
+    21.494483
+],
+  "geometry": {"coordinates":[-158.050015,21.494483],"type":"Point"}
+}

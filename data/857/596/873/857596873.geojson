@@ -1,0 +1,71 @@
+{
+  "id": 857596873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88609,21.324438,-157.88609,21.324438",
+    "geom:latitude":21.324438,
+    "geom:longitude":-157.88609,
+    "iso:country":"US",
+    "sg:address":"2020 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1311",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jJjPR4cxHRByajMZap73V_21.324438_-157.886090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203921,
+    "wof:geomhash":"521fff7685677d7f8c5353dfef5ee915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857596873
+        }
+    ],
+    "wof:id":857596873,
+    "wof:lastmodified":1464203921,
+    "wof:name":"Pizza Supply Co/Sav-On-Foods",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.88609,
+    21.324438,
+    -157.88609,
+    21.324438
+],
+  "geometry": {"coordinates":[-157.88609,21.324438],"type":"Point"}
+}

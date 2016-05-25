@@ -1,0 +1,74 @@
+{
+  "id": 857574749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884041,21.337087,-157.884041,21.337087",
+    "geom:latitude":21.337087,
+    "geom:longitude":-157.884041,
+    "iso:country":"US",
+    "sg:address":"2363 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4265",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "supply"
+    ],
+    "sg:website":"www.hawaiiscientific.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xlHdMBqv6EeoZB73XVqxO_21.337087_-157.884041@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203446,
+    "wof:geomhash":"359c14feb28232ca976b033382989d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857574749
+        }
+    ],
+    "wof:id":857574749,
+    "wof:lastmodified":1464203446,
+    "wof:name":"Hawaii Chemical & Scientific",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.884041,
+    21.337087,
+    -157.884041,
+    21.337087
+],
+  "geometry": {"coordinates":[-157.884041,21.337087],"type":"Point"}
+}

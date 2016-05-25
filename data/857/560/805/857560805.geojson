@@ -1,0 +1,73 @@
+{
+  "id": 857560805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895518,21.341959,-157.895518,21.341959",
+    "geom:latitude":21.341959,
+    "geom:longitude":-157.895518,
+    "iso:country":"US",
+    "sg:address":"960 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 3797",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pj0rhiIdknQp4n79QCfgP_21.341959_-157.895518@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203176,
+    "wof:geomhash":"5b6dc3bab9151ea02b7f07f3271ac76c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857560805
+        }
+    ],
+    "wof:id":857560805,
+    "wof:lastmodified":1464203176,
+    "wof:name":"Battery Bill's LLC",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -157.895518,
+    21.341959,
+    -157.895518,
+    21.341959
+],
+  "geometry": {"coordinates":[-157.89551800000001,21.341959],"type":"Point"}
+}

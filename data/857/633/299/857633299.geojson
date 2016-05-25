@@ -1,0 +1,73 @@
+{
+  "id": 857633299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023487,21.498391,-158.023487,21.498391",
+    "geom:latitude":21.498391,
+    "geom:longitude":-158.023487,
+    "iso:country":"US",
+    "sg:address":"1011 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1678",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CtoSDsvj0GQZITHxGoVRd_21.498391_-158.023487@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204767,
+    "wof:geomhash":"0a9c221fe95b31d01a900cb2ee47ad06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857633299
+        }
+    ],
+    "wof:id":857633299,
+    "wof:lastmodified":1464204767,
+    "wof:name":"Chevron",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -158.023487,
+    21.498391,
+    -158.023487,
+    21.498391
+],
+  "geometry": {"coordinates":[-158.02348699999999,21.498391],"type":"Point"}
+}

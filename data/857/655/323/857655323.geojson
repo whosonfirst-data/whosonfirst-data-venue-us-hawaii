@@ -1,0 +1,85 @@
+{
+  "id": 857655323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901776,21.332842,-157.901776,21.332842",
+    "geom:latitude":21.332842,
+    "geom:longitude":-157.901776,
+    "iso:country":"US",
+    "sg:address":"500 Lagoon Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 3663",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AzZKkKWWewtmF3huOuBw6_21.332842_-157.901776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205696,
+    "wof:geomhash":"43377fde8a46719214519bea7ab91a90",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857655323
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857655323
+        }
+    ],
+    "wof:id":857655323,
+    "wof:lastmodified":1464205696,
+    "wof:name":"Club Foxy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.901776,
+    21.332842,
+    -157.901776,
+    21.332842
+],
+  "geometry": {"coordinates":[-157.90177600000001,21.332842],"type":"Point"}
+}

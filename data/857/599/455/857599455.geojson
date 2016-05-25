@@ -1,0 +1,71 @@
+{
+  "id": 857599455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825195,21.287568,-157.825195,21.287568",
+    "geom:latitude":21.287568,
+    "geom:longitude":-157.825195,
+    "iso:country":"US",
+    "sg:address":"2474 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1934",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48o0mYr8sgCWMCc7bvyupJ_21.287568_-157.825195@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203972,
+    "wof:geomhash":"4b45d95db76e14ff8d7cb58139bc4005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857599455
+        }
+    ],
+    "wof:id":857599455,
+    "wof:lastmodified":1464203972,
+    "wof:name":"Kapiolani Royale",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.825195,
+    21.287568,
+    -157.825195,
+    21.287568
+],
+  "geometry": {"coordinates":[-157.82519500000001,21.287568],"type":"Point"}
+}

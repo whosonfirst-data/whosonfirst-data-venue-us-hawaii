@@ -1,0 +1,73 @@
+{
+  "id": 857640227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878573,21.332601,-157.878573,21.332601",
+    "geom:latitude":21.332601,
+    "geom:longitude":-157.878573,
+    "iso:country":"US",
+    "sg:address":"2024 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2248",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVwj7ZgkXztUlfeMqIDV9_21.332601_-157.878573@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205029,
+    "wof:geomhash":"7b78f57dbd96d91f8a8680eb8f0a4a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857640227
+        }
+    ],
+    "wof:id":857640227,
+    "wof:lastmodified":1464205029,
+    "wof:name":"PI Express Services Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -157.878573,
+    21.332601,
+    -157.878573,
+    21.332601
+],
+  "geometry": {"coordinates":[-157.87857299999999,21.332601],"type":"Point"}
+}

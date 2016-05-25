@@ -1,0 +1,78 @@
+{
+  "id": 857639053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845195,21.455595,-157.845195,21.455595",
+    "geom:latitude":21.455595,
+    "geom:longitude":-157.845195,
+    "iso:country":"US",
+    "sg:address":"563 Ahilama Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 8077",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937593,
+        102085417,
+        85890297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BcbP9e4D8MwPCqbTGjDqS_21.455595_-157.845195@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204985,
+    "wof:geomhash":"653f79dbceb0fc22f38817978e98fbd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937593,
+            "neighbourhood_id":85890297,
+            "region_id":85688671,
+            "venue_id":857639053
+        }
+    ],
+    "wof:id":857639053,
+    "wof:lastmodified":1464204985,
+    "wof:name":"Aikane Pumping Svc",
+    "wof:parent_id":85890297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.845195,
+    21.455595,
+    -157.845195,
+    21.455595
+],
+  "geometry": {"coordinates":[-157.84519499999999,21.455595],"type":"Point"}
+}

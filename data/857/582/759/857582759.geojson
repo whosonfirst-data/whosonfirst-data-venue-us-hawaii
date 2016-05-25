@@ -1,0 +1,68 @@
+{
+  "id": 857582759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.445581,20.714079,-156.445581,20.714079",
+    "geom:latitude":20.714079,
+    "geom:longitude":-156.445581,
+    "iso:country":"US",
+    "sg:address":"2695 S Kihei Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 875 1984",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50QWAuzWc7RibKIlUqFCxj_20.714079_-156.445581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203604,
+    "wof:geomhash":"656191b378f1cc68b763eb03b3b7ecd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857582759
+        }
+    ],
+    "wof:id":857582759,
+    "wof:lastmodified":1464203604,
+    "wof:name":"Seattle Police Relief Assn",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.445581,
+    20.714079,
+    -156.445581,
+    20.714079
+],
+  "geometry": {"coordinates":[-156.445581,20.714079],"type":"Point"}
+}

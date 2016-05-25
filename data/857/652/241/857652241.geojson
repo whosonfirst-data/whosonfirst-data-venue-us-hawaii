@@ -1,0 +1,73 @@
+{
+  "id": 857652241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.937757,21.383942,-157.937757,21.383942",
+    "geom:latitude":21.383942,
+    "geom:longitude":-157.937757,
+    "iso:country":"US",
+    "sg:address":"1079 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 2224",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O7keIPciamt9AD9qlu0cD_21.383942_-157.937757@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205556,
+    "wof:geomhash":"73a26e29ef72ff71f15a3c2fbbe2d2e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857652241
+        }
+    ],
+    "wof:id":857652241,
+    "wof:lastmodified":1464205556,
+    "wof:name":"Mark A Morisaki MD",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.937757,
+    21.383942,
+    -157.937757,
+    21.383942
+],
+  "geometry": {"coordinates":[-157.937757,21.383942],"type":"Point"}
+}

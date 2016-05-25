@@ -1,0 +1,73 @@
+{
+  "id": 857623915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.123788,21.34627,-158.123788,21.34627",
+    "geom:latitude":21.34627,
+    "geom:longitude":-158.123788,
+    "iso:country":"US",
+    "sg:address":"599 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 4477",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sundries",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W6yDwfO7gi47nWpAMvw95_21.346270_-158.123788@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204535,
+    "wof:geomhash":"a24817da3a36c69363fb8852305fed4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857623915
+        }
+    ],
+    "wof:id":857623915,
+    "wof:lastmodified":1464204535,
+    "wof:name":"Mina Pharmacy",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sundries",
+        "drug"
+    ]
+},
+  "bbox": [
+    -158.123788,
+    21.34627,
+    -158.123788,
+    21.34627
+],
+  "geometry": {"coordinates":[-158.12378799999999,21.34627],"type":"Point"}
+}

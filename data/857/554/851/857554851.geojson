@@ -1,0 +1,73 @@
+{
+  "id": 857554851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801533,21.284128,-157.801533,21.284128",
+    "geom:latitude":21.284128,
+    "geom:longitude":-157.801533,
+    "iso:country":"US",
+    "sg:address":"3470 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2695",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zbY08d4zHGIxB7sgHbU8_21.284128_-157.801533@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203025,
+    "wof:geomhash":"45004f3ec7c15eac1227a262400dad20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857554851
+        }
+    ],
+    "wof:id":857554851,
+    "wof:lastmodified":1464203025,
+    "wof:name":"Mondoy Music Studio",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.801533,
+    21.284128,
+    -157.801533,
+    21.284128
+],
+  "geometry": {"coordinates":[-157.80153300000001,21.284128],"type":"Point"}
+}

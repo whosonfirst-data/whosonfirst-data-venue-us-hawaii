@@ -1,0 +1,71 @@
+{
+  "id": 857666183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87678,21.302645,-157.87678,21.302645",
+    "geom:latitude":21.302645,
+    "geom:longitude":-157.87678,
+    "iso:country":"US",
+    "sg:address":"48 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 3845",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nRNtSa7FA2COruzNN6ztu_21.302645_-157.876780@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206192,
+    "wof:geomhash":"af515b2f07bc17e75538951572850417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857666183
+        }
+    ],
+    "wof:id":857666183,
+    "wof:lastmodified":1464206192,
+    "wof:name":"Harbor Maintenance Facility",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.87678,
+    21.302645,
+    -157.87678,
+    21.302645
+],
+  "geometry": {"coordinates":[-157.87678,21.302645],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857671719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.751669,21.411341,-157.751669,21.411341",
+    "geom:latitude":21.411341,
+    "geom:longitude":-157.751669,
+    "iso:country":"US",
+    "sg:address":"937 Kainui Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 4260",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17KbELDXFOkLoJr68f0xiX_21.411341_-157.751669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206399,
+    "wof:geomhash":"0751e69fc9c6166daba025919d91c7ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857671719
+        }
+    ],
+    "wof:id":857671719,
+    "wof:lastmodified":1464206399,
+    "wof:name":"Pobanz Piano Svc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.751669,
+    21.411341,
+    -157.751669,
+    21.411341
+],
+  "geometry": {"coordinates":[-157.75166899999999,21.411341],"type":"Point"}
+}

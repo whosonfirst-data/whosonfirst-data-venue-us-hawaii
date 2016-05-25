@@ -1,0 +1,79 @@
+{
+  "id": 857552335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8246,21.294776,-157.8246,21.294776",
+    "geom:latitude":21.294776,
+    "geom:longitude":-157.8246,
+    "iso:country":"US",
+    "sg:address":"2454 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 6758",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "sg:website":"www.marianscatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TK5VRVLO3FWrTIB68GWLE_21.294776_-157.824600@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202977,
+    "wof:geomhash":"f38dc17c880b06f5387b44be1bf9be99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857552335
+        }
+    ],
+    "wof:id":857552335,
+    "wof:lastmodified":1464202977,
+    "wof:name":"Manoa Grand Ballroom",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -157.8246,
+    21.294776,
+    -157.8246,
+    21.294776
+],
+  "geometry": {"coordinates":[-157.8246,21.294776],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857633215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.947924,21.408776,-157.947924,21.408776",
+    "geom:latitude":21.408776,
+    "geom:longitude":-157.947924,
+    "iso:country":"US",
+    "sg:address":"1731 Kaahumanu St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2133",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26IEEDK9jUrLzRK3k1AS5n_21.408776_-157.947924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204764,
+    "wof:geomhash":"d64e5c60d5a7565bb5f341ea5d42965a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857633215
+        }
+    ],
+    "wof:id":857633215,
+    "wof:lastmodified":1464204764,
+    "wof:name":"Dukes Golf Supply",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.947924,
+    21.408776,
+    -157.947924,
+    21.408776
+],
+  "geometry": {"coordinates":[-157.947924,21.408776],"type":"Point"}
+}

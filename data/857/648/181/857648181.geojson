@@ -1,0 +1,71 @@
+{
+  "id": 857648181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814154,21.291648,-157.814154,21.291648",
+    "geom:latitude":21.291648,
+    "geom:longitude":-157.814154,
+    "iso:country":"US",
+    "sg:address":"2971 Koali Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3877",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Gt62UwrQG4AjS4R9eQ99_21.291648_-157.814154@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205383,
+    "wof:geomhash":"d80546fd68293db69bbb170e42e20ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857648181
+        }
+    ],
+    "wof:id":857648181,
+    "wof:lastmodified":1464205383,
+    "wof:name":"Pacific Teleprompter",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio"
+    ]
+},
+  "bbox": [
+    -157.814154,
+    21.291648,
+    -157.814154,
+    21.291648
+],
+  "geometry": {"coordinates":[-157.814154,21.291648],"type":"Point"}
+}

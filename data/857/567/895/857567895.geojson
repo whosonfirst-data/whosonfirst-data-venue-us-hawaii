@@ -1,0 +1,71 @@
+{
+  "id": 857567895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023323,21.50047,-158.023323,21.50047",
+    "geom:latitude":21.50047,
+    "geom:longitude":-158.023323,
+    "iso:country":"US",
+    "sg:address":"1139 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0857",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uRDjKI5WdtFEd2DUwtSGV_21.500470_-158.023323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203314,
+    "wof:geomhash":"6aef967f9c1127ae3c21ffe4d9dd3f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857567895
+        }
+    ],
+    "wof:id":857567895,
+    "wof:lastmodified":1464203314,
+    "wof:name":"Wahiawa Swimming Pool",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -158.023323,
+    21.50047,
+    -158.023323,
+    21.50047
+],
+  "geometry": {"coordinates":[-158.023323,21.50047],"type":"Point"}
+}

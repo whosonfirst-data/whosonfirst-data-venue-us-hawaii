@@ -1,0 +1,73 @@
+{
+  "id": 857560449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.736938,21.283299,-157.736938,21.283299",
+    "geom:latitude":21.283299,
+    "geom:longitude":-157.736938,
+    "iso:country":"US",
+    "sg:address":"5713 Haleola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 4189",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XhKmTO9WZaqOYhzxNCVu5_21.283299_-157.736938@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203166,
+    "wof:geomhash":"e6cd4126ecdf7ece9d7308c074e36301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857560449
+        }
+    ],
+    "wof:id":857560449,
+    "wof:lastmodified":1464203166,
+    "wof:name":"Contemporary Landscaping",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.736938,
+    21.283299,
+    -157.736938,
+    21.283299
+],
+  "geometry": {"coordinates":[-157.73693800000001,21.283299],"type":"Point"}
+}

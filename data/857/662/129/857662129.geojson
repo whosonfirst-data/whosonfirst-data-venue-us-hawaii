@@ -1,0 +1,69 @@
+{
+  "id": 857662129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.6215,20.036707,-155.6215,20.036707",
+    "geom:latitude":20.036707,
+    "geom:longitude":-155.6215,
+    "iso:country":"US",
+    "sg:address":"5230 White Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 4376",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j1JHBHHABoDqSWz8FGVr6_20.036707_-155.621500@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206016,
+    "wof:geomhash":"07310cefeabd5725eb4bd8c3c4cbb5c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857662129
+        }
+    ],
+    "wof:id":857662129,
+    "wof:lastmodified":1464206016,
+    "wof:name":"Shermichelle Inc",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -155.6215,
+    20.036707,
+    -155.6215,
+    20.036707
+],
+  "geometry": {"coordinates":[-155.6215,20.036707],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857673739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798452,21.288283,-157.798452,21.288283",
+    "geom:latitude":21.288283,
+    "geom:longitude":-157.798452,
+    "iso:country":"US",
+    "sg:address":"1451 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 7676",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38IwLvz5ojeI6CIl14L0cH_21.288283_-157.798452@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206478,
+    "wof:geomhash":"fa1a472cd29323cb62b68483b36a30d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857673739
+        }
+    ],
+    "wof:id":857673739,
+    "wof:lastmodified":1464206478,
+    "wof:name":"Island Mini-Mart",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.798452,
+    21.288283,
+    -157.798452,
+    21.288283
+],
+  "geometry": {"coordinates":[-157.798452,21.288283],"type":"Point"}
+}

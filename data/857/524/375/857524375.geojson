@@ -1,0 +1,71 @@
+{
+  "id": 857524375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821711,21.278011,-157.821711,21.278011",
+    "geom:latitude":21.278011,
+    "geom:longitude":-157.821711,
+    "iso:country":"US",
+    "sg:address":"2457 Ala Wai Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 5770",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JUS8W3kjncaUqDqKp6XYG_21.278011_-157.821711@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202437,
+    "wof:geomhash":"dd1c956c3416c403ad5d2ded2eb006b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857524375
+        }
+    ],
+    "wof:id":857524375,
+    "wof:lastmodified":1464202437,
+    "wof:name":"Pacific Investment Group",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -157.821711,
+    21.278011,
+    -157.821711,
+    21.278011
+],
+  "geometry": {"coordinates":[-157.82171099999999,21.278011],"type":"Point"}
+}

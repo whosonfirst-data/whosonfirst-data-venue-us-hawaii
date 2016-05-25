@@ -1,0 +1,74 @@
+{
+  "id": 857502793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.483054,20.902196,-156.483054,20.902196",
+    "geom:latitude":20.902196,
+    "geom:longitude":-156.483054,
+    "iso:country":"US",
+    "sg:address":"200 Waiehu Beach Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 243 7447",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "sg:website":"www.hawaiiexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38Ju24ZOXqrz53xWL9Oumy_20.902196_-156.483054@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201980,
+    "wof:geomhash":"aa6b4d2caaed052e8c971a9a879a2409",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857502793
+        }
+    ],
+    "wof:id":857502793,
+    "wof:lastmodified":1464201980,
+    "wof:name":"Hawaii Express Moving Svc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -156.483054,
+    20.902196,
+    -156.483054,
+    20.902196
+],
+  "geometry": {"coordinates":[-156.48305400000001,20.902196],"type":"Point"}
+}

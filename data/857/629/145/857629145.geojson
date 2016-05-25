@@ -1,0 +1,82 @@
+{
+  "id": 857629145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88963,21.325355,-157.88963,21.325355",
+    "geom:latitude":21.325355,
+    "geom:longitude":-157.88963,
+    "iso:country":"US",
+    "sg:address":"238 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0102",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "operation",
+        "management",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jFq4mtVGpAiRB3b7IhKTv_21.325355_-157.889630@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204645,
+    "wof:geomhash":"e8e04833adf9f60c0d6c07199fd9c683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857629145
+        }
+    ],
+    "wof:id":857629145,
+    "wof:lastmodified":1464204645,
+    "wof:name":"Grapac Properties",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operation",
+        "management",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.88963,
+    21.325355,
+    -157.88963,
+    21.325355
+],
+  "geometry": {"coordinates":[-157.88963000000001,21.325355],"type":"Point"}
+}

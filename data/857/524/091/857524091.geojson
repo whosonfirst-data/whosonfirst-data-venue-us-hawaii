@@ -1,0 +1,71 @@
+{
+  "id": 857524091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88316,21.330063,-157.88316,21.330063",
+    "geom:latitude":21.330063,
+    "geom:longitude":-157.88316,
+    "iso:country":"US",
+    "sg:address":"2188 Kamehameha Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3625",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xam5OUOp8THdNwkt5h9y3_21.330063_-157.883160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202432,
+    "wof:geomhash":"ca18ee97353b5efd9d4e105891f9fcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857524091
+        }
+    ],
+    "wof:id":857524091,
+    "wof:lastmodified":1464202432,
+    "wof:name":"Hirota Painting Co Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.88316,
+    21.330063,
+    -157.88316,
+    21.330063
+],
+  "geometry": {"coordinates":[-157.88316,21.330063],"type":"Point"}
+}

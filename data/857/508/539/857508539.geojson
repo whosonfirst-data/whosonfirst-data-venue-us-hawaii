@@ -1,0 +1,68 @@
+{
+  "id": 857508539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.138845,19.716368,-155.138845,19.716368",
+    "geom:latitude":19.716368,
+    "geom:longitude":-155.138845,
+    "iso:country":"US",
+    "sg:address":"2133 Waianuenue Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 6708",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cPtsw3abrJ7b4punPy8yp_19.716368_-155.138845@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202115,
+    "wof:geomhash":"93e49bb8bccda0ed8f32561185f41edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890243,
+            "region_id":85688671,
+            "venue_id":857508539
+        }
+    ],
+    "wof:id":857508539,
+    "wof:lastmodified":1464202115,
+    "wof:name":"Hilo Child Development Ctr",
+    "wof:parent_id":85890243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.138845,
+    19.716368,
+    -155.138845,
+    19.716368
+],
+  "geometry": {"coordinates":[-155.138845,19.716368],"type":"Point"}
+}

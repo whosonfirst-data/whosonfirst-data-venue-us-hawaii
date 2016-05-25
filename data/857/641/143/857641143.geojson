@@ -1,0 +1,71 @@
+{
+  "id": 857641143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843311,21.3016,-157.843311,21.3016",
+    "geom:latitude":21.3016,
+    "geom:longitude":-157.843311,
+    "iso:country":"US",
+    "sg:address":"1102 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 1561",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GHiw0sdMPrwjYQgpJWinx_21.301600_-157.843311@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205067,
+    "wof:geomhash":"f8f9ce890a8838062c3f7ab77a2d4f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857641143
+        }
+    ],
+    "wof:id":857641143,
+    "wof:lastmodified":1464205067,
+    "wof:name":"Quinteros Quinteros",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.843311,
+    21.3016,
+    -157.843311,
+    21.3016
+],
+  "geometry": {"coordinates":[-157.843311,21.3016],"type":"Point"}
+}

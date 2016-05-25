@@ -1,0 +1,66 @@
+{
+  "id": 857592797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.946591,21.383709,-157.946591,21.383709",
+    "geom:latitude":21.383709,
+    "geom:longitude":-157.946591,
+    "iso:country":"US",
+    "sg:address":"64 Kamehameha Hwy",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 5688",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TLio1qAuJFSWMHqS37PN2_21.383709_-157.946591@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203823,
+    "wof:geomhash":"b90c564795ecbea029deb86b9a9681e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857592797
+        }
+    ],
+    "wof:id":857592797,
+    "wof:lastmodified":1464203823,
+    "wof:name":"Angela's Mini Mart",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.946591,
+    21.383709,
+    -157.946591,
+    21.383709
+],
+  "geometry": {"coordinates":[-157.94659100000001,21.383709],"type":"Point"}
+}

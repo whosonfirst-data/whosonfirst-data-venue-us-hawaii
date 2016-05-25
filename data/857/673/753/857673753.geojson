@@ -1,0 +1,75 @@
+{
+  "id": 857673753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.909323,21.344754,-157.909323,21.344754",
+    "geom:latitude":21.344754,
+    "geom:longitude":-157.909323,
+    "iso:country":"US",
+    "sg:address":"3121 Ala Ilima St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 8179",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eciiXqKJeud0poY9baPnY_21.344754_-157.909323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206478,
+    "wof:geomhash":"c3237e77d94d84d8540e0dbc200af8c5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857673753
+        }
+    ],
+    "wof:id":857673753,
+    "wof:lastmodified":1464206478,
+    "wof:name":"Ilima West",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.909323,
+    21.344754,
+    -157.909323,
+    21.344754
+],
+  "geometry": {"coordinates":[-157.909323,21.344754],"type":"Point"}
+}

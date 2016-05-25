@@ -1,0 +1,71 @@
+{
+  "id": 857513257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.21288,21.464213,-158.21288,21.464213",
+    "geom:latitude":21.464213,
+    "geom:longitude":-158.21288,
+    "iso:country":"US",
+    "sg:address":"888 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 3716",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N2BaG8zxzWz8JuJLkfn3Q_21.464213_-158.212880@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202215,
+    "wof:geomhash":"c8e58da7080f178b7e79882424ba5eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857513257
+        }
+    ],
+    "wof:id":857513257,
+    "wof:lastmodified":1464202215,
+    "wof:name":"Hui Hana Pono",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -158.21288,
+    21.464213,
+    -158.21288,
+    21.464213
+],
+  "geometry": {"coordinates":[-158.21288000000001,21.464213],"type":"Point"}
+}

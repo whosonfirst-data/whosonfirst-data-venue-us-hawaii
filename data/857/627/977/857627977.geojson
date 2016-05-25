@@ -1,0 +1,71 @@
+{
+  "id": 857627977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879335,21.333546,-157.879335,21.333546",
+    "geom:latitude":21.333546,
+    "geom:longitude":-157.879335,
+    "iso:country":"US",
+    "sg:address":"2119 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7441",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sIsxblahIN1LaBtuoHSvz_21.333546_-157.879335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204622,
+    "wof:geomhash":"26628d0cf191697b0efe219b962f6e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857627977
+        }
+    ],
+    "wof:id":857627977,
+    "wof:lastmodified":1464204622,
+    "wof:name":"Merle's Beauty Salon",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.879335,
+    21.333546,
+    -157.879335,
+    21.333546
+],
+  "geometry": {"coordinates":[-157.879335,21.333546],"type":"Point"}
+}

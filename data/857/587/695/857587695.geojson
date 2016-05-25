@@ -1,0 +1,77 @@
+{
+  "id": 857587695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.117596,19.566871,-155.117596,19.566871",
+    "geom:latitude":19.566871,
+    "geom:longitude":-155.117596,
+    "iso:country":"US",
+    "sg:address":"2006 Ana Rd",
+    "sg:city":"Mountain View",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 968 8497",
+    "sg:postcode":"96771",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937413,
+        102085433,
+        85890597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19wt0f2VtqAVnXkgSVHShB_19.566871_-155.117596@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203707,
+    "wof:geomhash":"4cd19137d474e5e036fbe1a4be73d463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937413,
+            "neighbourhood_id":85890597,
+            "region_id":85688671,
+            "venue_id":857587695
+        }
+    ],
+    "wof:id":857587695,
+    "wof:lastmodified":1464203707,
+    "wof:name":"All Creature Comforts",
+    "wof:parent_id":85890597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -155.117596,
+    19.566871,
+    -155.117596,
+    19.566871
+],
+  "geometry": {"coordinates":[-155.11759599999999,19.566871],"type":"Point"}
+}

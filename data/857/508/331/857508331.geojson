@@ -1,0 +1,71 @@
+{
+  "id": 857508331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.2156,21.472161,-158.2156,21.472161",
+    "geom:latitude":21.472161,
+    "geom:longitude":-158.2156,
+    "iso:country":"US",
+    "sg:address":"610 Lahaina St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 695 8911",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Um3qwJTaSvqaoHo19VIgg_21.472161_-158.215600@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202111,
+    "wof:geomhash":"a346852a95831e97d54d5914bc4260ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857508331
+        }
+    ],
+    "wof:id":857508331,
+    "wof:lastmodified":1464202111,
+    "wof:name":"Nichiren Shoshu Of America",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.2156,
+    21.472161,
+    -158.2156,
+    21.472161
+],
+  "geometry": {"coordinates":[-158.21559999999999,21.472161],"type":"Point"}
+}

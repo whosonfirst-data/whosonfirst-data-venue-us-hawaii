@@ -1,0 +1,71 @@
+{
+  "id": 857680249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.457403,20.884736,-156.457403,20.884736",
+    "geom:latitude":20.884736,
+    "geom:longitude":-156.457403,
+    "iso:country":"US",
+    "sg:address":"231 Lalo St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 8406",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r20x2kbjg9zSC8ZISfxQp_20.884736_-156.457403@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206737,
+    "wof:geomhash":"bfc5ca06d0dc4a752f31f3545dab90a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680249
+        }
+    ],
+    "wof:id":857680249,
+    "wof:lastmodified":1464206737,
+    "wof:name":"Southern Wine & Spirits Hawaii",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.457403,
+    20.884736,
+    -156.457403,
+    20.884736
+],
+  "geometry": {"coordinates":[-156.457403,20.884736],"type":"Point"}
+}

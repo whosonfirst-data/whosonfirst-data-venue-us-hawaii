@@ -1,0 +1,71 @@
+{
+  "id": 857591081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826899,21.295569,-157.826899,21.295569",
+    "geom:latitude":21.295569,
+    "geom:longitude":-157.826899,
+    "iso:country":"US",
+    "sg:address":"2115 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 3055",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8SUwvnsNfYb3oVBNSiet_21.295569_-157.826899@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203786,
+    "wof:geomhash":"6e4f14021fa0ab6df79378e2a6bf5aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857591081
+        }
+    ],
+    "wof:id":857591081,
+    "wof:lastmodified":1464203786,
+    "wof:name":"Patisserie Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery"
+    ]
+},
+  "bbox": [
+    -157.826899,
+    21.295569,
+    -157.826899,
+    21.295569
+],
+  "geometry": {"coordinates":[-157.826899,21.295569],"type":"Point"}
+}

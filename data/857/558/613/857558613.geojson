@@ -1,0 +1,71 @@
+{
+  "id": 857558613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.949762,21.428515,-157.949762,21.428515",
+    "geom:latitude":21.428515,
+    "geom:longitude":-157.949762,
+    "iso:country":"US",
+    "sg:address":"2534 Akepa St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 0929",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M265QvHeWWSKc5kmvS8Zh_21.428515_-157.949762@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203120,
+    "wof:geomhash":"37a269031c5d42f1b69d120cd0c22c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857558613
+        }
+    ],
+    "wof:id":857558613,
+    "wof:lastmodified":1464203120,
+    "wof:name":"Ken Kajiwara Architects",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.949762,
+    21.428515,
+    -157.949762,
+    21.428515
+],
+  "geometry": {"coordinates":[-157.94976199999999,21.428515],"type":"Point"}
+}

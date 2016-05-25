@@ -1,0 +1,71 @@
+{
+  "id": 857661685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858564,21.318257,-157.858564,21.318257",
+    "geom:latitude":21.318257,
+    "geom:longitude":-157.858564,
+    "iso:country":"US",
+    "sg:address":"1465 Aala St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4582",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yM7MHyzpyR16R7lwcUiBG_21.318257_-157.858564@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206001,
+    "wof:geomhash":"ca65efa782aa37a1e5f92ffcf5100751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857661685
+        }
+    ],
+    "wof:id":857661685,
+    "wof:lastmodified":1464206001,
+    "wof:name":"Keola Hoonanea",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.858564,
+    21.318257,
+    -157.858564,
+    21.318257
+],
+  "geometry": {"coordinates":[-157.858564,21.318257],"type":"Point"}
+}

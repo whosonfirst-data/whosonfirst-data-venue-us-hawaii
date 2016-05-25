@@ -1,0 +1,71 @@
+{
+  "id": 857564041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.027889,21.493221,-158.027889,21.493221",
+    "geom:latitude":21.493221,
+    "geom:longitude":-158.027889,
+    "iso:country":"US",
+    "sg:address":"535 Avocado St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 5687",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RQJDo5FWEAzyliFuHjOKG_21.493221_-158.027889@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203239,
+    "wof:geomhash":"beac4f93da1cd8542bc856bb0c52cbf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857564041
+        }
+    ],
+    "wof:id":857564041,
+    "wof:lastmodified":1464203239,
+    "wof:name":"Lone Star Motorsports",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.027889,
+    21.493221,
+    -158.027889,
+    21.493221
+],
+  "geometry": {"coordinates":[-158.02788899999999,21.493221],"type":"Point"}
+}

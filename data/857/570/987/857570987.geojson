@@ -1,0 +1,78 @@
+{
+  "id": 857570987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971247,21.404221,-157.971247,21.404221",
+    "geom:latitude":21.404221,
+    "geom:longitude":-157.971247,
+    "iso:country":"US",
+    "sg:address":"1043 Kaweloka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 6834",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36iAQKHhRSTNDIDfxDBRcz_21.404221_-157.971247@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203371,
+    "wof:geomhash":"4c3cad22344c492e0281c440d2a283cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857570987
+        }
+    ],
+    "wof:id":857570987,
+    "wof:lastmodified":1464203371,
+    "wof:name":"L & C Custom Cabinets",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -157.971247,
+    21.404221,
+    -157.971247,
+    21.404221
+],
+  "geometry": {"coordinates":[-157.97124700000001,21.404221],"type":"Point"}
+}

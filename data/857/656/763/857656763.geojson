@@ -1,0 +1,73 @@
+{
+  "id": 857656763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.326005,20.852258,-156.326005,20.852258",
+    "geom:latitude":20.852258,
+    "geom:longitude":-156.326005,
+    "iso:country":"US",
+    "sg:address":"241 Hoomaha Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 0620",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dtKIPJNfixXR6x3jOpL6S_20.852258_-156.326005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205757,
+    "wof:geomhash":"3d008fca7d087a639c7d535b86ce70c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857656763
+        }
+    ],
+    "wof:id":857656763,
+    "wof:lastmodified":1464205757,
+    "wof:name":"Gd Auto Body",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -156.326005,
+    20.852258,
+    -156.326005,
+    20.852258
+],
+  "geometry": {"coordinates":[-156.32600500000001,20.852258],"type":"Point"}
+}

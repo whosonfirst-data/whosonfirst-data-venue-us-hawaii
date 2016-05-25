@@ -1,0 +1,71 @@
+{
+  "id": 857518181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.784921,21.278455,-157.784921,21.278455",
+    "geom:latitude":21.278455,
+    "geom:longitude":-157.784921,
+    "iso:country":"US",
+    "sg:address":"4218 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 2510",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cA6nbpYglb773qJVhrOzA_21.278455_-157.784921@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202312,
+    "wof:geomhash":"2dd5206a16ba498723b1b1da035de157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857518181
+        }
+    ],
+    "wof:id":857518181,
+    "wof:lastmodified":1464202312,
+    "wof:name":"Clinical Laboratories-Hi LLP",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.784921,
+    21.278455,
+    -157.784921,
+    21.278455
+],
+  "geometry": {"coordinates":[-157.784921,21.278455],"type":"Point"}
+}

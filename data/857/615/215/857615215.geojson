@@ -1,0 +1,73 @@
+{
+  "id": 857615215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813231,21.277345,-157.813231,21.277345",
+    "geom:latitude":21.277345,
+    "geom:longitude":-157.813231,
+    "iso:country":"US",
+    "sg:address":"3302 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 3971",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bFEzPbu07azSHcyGbtzEa_21.277345_-157.813231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204326,
+    "wof:geomhash":"6dd489286e78e85b28136f99b9f4198d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857615215
+        }
+    ],
+    "wof:id":857615215,
+    "wof:lastmodified":1464204326,
+    "wof:name":"Kapahulu Video & Stereo",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.813231,
+    21.277345,
+    -157.813231,
+    21.277345
+],
+  "geometry": {"coordinates":[-157.813231,21.277345],"type":"Point"}
+}

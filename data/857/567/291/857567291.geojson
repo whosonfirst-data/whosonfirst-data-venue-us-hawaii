@@ -1,0 +1,73 @@
+{
+  "id": 857567291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003201,21.382131,-158.003201,21.382131",
+    "geom:latitude":21.382131,
+    "geom:longitude":-158.003201,
+    "iso:country":"US",
+    "sg:address":"136 Mokukaua St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 8101",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WZy4Lgo3kjS8iCeaazdrp_21.382131_-158.003201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203303,
+    "wof:geomhash":"57689e4a0cdd4cfebb720121f86fadb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857567291
+        }
+    ],
+    "wof:id":857567291,
+    "wof:lastmodified":1464203303,
+    "wof:name":"Discovery Roofing",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.003201,
+    21.382131,
+    -158.003201,
+    21.382131
+],
+  "geometry": {"coordinates":[-158.00320099999999,21.382131],"type":"Point"}
+}

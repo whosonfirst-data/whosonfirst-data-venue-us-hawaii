@@ -1,0 +1,73 @@
+{
+  "id": 857534473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026267,21.331342,-158.026267,21.331342",
+    "geom:latitude":21.331342,
+    "geom:longitude":-158.026267,
+    "iso:country":"US",
+    "sg:address":"937 Kuaeewa Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 0552",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gU0yWyeGrQjXkAkooLWbX_21.331342_-158.026267@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202629,
+    "wof:geomhash":"fd94cdec373c354150c4522e2fa4ccb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857534473
+        }
+    ],
+    "wof:id":857534473,
+    "wof:lastmodified":1464202629,
+    "wof:name":"New Age Auto Repair LLC",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -158.026267,
+    21.331342,
+    -158.026267,
+    21.331342
+],
+  "geometry": {"coordinates":[-158.02626699999999,21.331342],"type":"Point"}
+}

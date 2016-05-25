@@ -1,0 +1,71 @@
+{
+  "id": 857588113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.700164,21.290781,-157.700164,21.290781",
+    "geom:latitude":21.290781,
+    "geom:longitude":-157.700164,
+    "iso:country":"US",
+    "sg:address":"7083 Hawaii Kai Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 0014",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5toOStqy5W5x3cOD86zrls_21.290781_-157.700164@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203717,
+    "wof:geomhash":"34c3c2dd9e98e37d46ee049b6983d892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857588113
+        }
+    ],
+    "wof:id":857588113,
+    "wof:lastmodified":1464203717,
+    "wof:name":"Oahu Welding and Fabrications",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -157.700164,
+    21.290781,
+    -157.700164,
+    21.290781
+],
+  "geometry": {"coordinates":[-157.700164,21.290781],"type":"Point"}
+}

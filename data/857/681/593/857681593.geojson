@@ -1,0 +1,74 @@
+{
+  "id": 857681593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875797,21.324619,-157.875797,21.324619",
+    "geom:latitude":21.324619,
+    "geom:longitude":-157.875797,
+    "iso:country":"US",
+    "sg:address":"1414 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/239222-the-original-pancake-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1496",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BiX56H46MKTW2kXH2DyRv_21.324619_-157.875797@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206789,
+    "wof:geomhash":"be747328059d27472cfa4e81b664e34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857681593
+        }
+    ],
+    "wof:id":857681593,
+    "wof:lastmodified":1464206789,
+    "wof:name":"The Original Pancake House",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -157.875797,
+    21.324619,
+    -157.875797,
+    21.324619
+],
+  "geometry": {"coordinates":[-157.87579700000001,21.324619],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857553681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787736,21.278719,-157.787736,21.278719",
+    "geom:latitude":21.278719,
+    "geom:longitude":-157.787736,
+    "iso:country":"US",
+    "sg:address":"4346 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 5919",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KMq00NKVkR2UlehfWxd4I_21.278719_-157.787736@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"0b1e639c4cff7c57569ee0d625b19e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857553681
+        }
+    ],
+    "wof:id":857553681,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Chevron",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -157.787736,
+    21.278719,
+    -157.787736,
+    21.278719
+],
+  "geometry": {"coordinates":[-157.787736,21.278719],"type":"Point"}
+}

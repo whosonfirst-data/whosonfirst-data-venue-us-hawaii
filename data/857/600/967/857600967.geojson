@@ -1,0 +1,71 @@
+{
+  "id": 857600967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02579,21.510017,-158.02579,21.510017",
+    "geom:latitude":21.510017,
+    "geom:longitude":-158.02579,
+    "iso:country":"US",
+    "sg:address":"102 Uakaniko'o Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6841",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oR5e47ar7LxIQpVmbr6DW_21.510017_-158.025790@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204007,
+    "wof:geomhash":"ab3b540f2b47798c25c7d7de82075696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857600967
+        }
+    ],
+    "wof:id":857600967,
+    "wof:lastmodified":1464204007,
+    "wof:name":"Artisan Construction",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -158.02579,
+    21.510017,
+    -158.02579,
+    21.510017
+],
+  "geometry": {"coordinates":[-158.02579,21.510017],"type":"Point"}
+}

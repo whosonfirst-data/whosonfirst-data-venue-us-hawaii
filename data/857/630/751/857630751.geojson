@@ -1,0 +1,71 @@
+{
+  "id": 857630751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02678,21.497543,-158.02678,21.497543",
+    "geom:latitude":21.497543,
+    "geom:longitude":-158.02678,
+    "iso:country":"US",
+    "sg:address":"128 Lehua St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 4120",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WRQZAkGdEl0Y1zjEs1cpJ_21.497543_-158.026780@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"1842f5465717e72847ded8a2902fffe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857630751
+        }
+    ],
+    "wof:id":857630751,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Myles Suehiro Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.02678,
+    21.497543,
+    -158.02678,
+    21.497543
+],
+  "geometry": {"coordinates":[-158.02678,21.497543],"type":"Point"}
+}

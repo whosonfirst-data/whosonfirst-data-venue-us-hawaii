@@ -1,0 +1,73 @@
+{
+  "id": 857524241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878673,21.341901,-157.878673,21.341901",
+    "geom:latitude":21.341901,
+    "geom:longitude":-157.878673,
+    "iso:country":"US",
+    "sg:address":"1425 Middle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1414",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19lgcwInzxLE8shO5ytQ6u_21.341901_-157.878673@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202434,
+    "wof:geomhash":"fb153eba57d96f8339c5c57745f2810a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857524241
+        }
+    ],
+    "wof:id":857524241,
+    "wof:lastmodified":1464202434,
+    "wof:name":"All Island Automotive Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.878673,
+    21.341901,
+    -157.878673,
+    21.341901
+],
+  "geometry": {"coordinates":[-157.87867299999999,21.341901],"type":"Point"}
+}

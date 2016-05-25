@@ -1,0 +1,73 @@
+{
+  "id": 857677637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880884,21.331529,-157.880884,21.331529",
+    "geom:latitude":21.331529,
+    "geom:longitude":-157.880884,
+    "iso:country":"US",
+    "sg:address":"749 Kopke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 2463",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ozkfyRX7qjVEdiArrswgH_21.331529_-157.880884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206638,
+    "wof:geomhash":"6494f4ea193f3ccda176def5188edb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857677637
+        }
+    ],
+    "wof:id":857677637,
+    "wof:lastmodified":1464206638,
+    "wof:name":"Oriental Kitchen",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.880884,
+    21.331529,
+    -157.880884,
+    21.331529
+],
+  "geometry": {"coordinates":[-157.88088400000001,21.331529],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857597993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.027237,21.360232,-158.027237,21.360232",
+    "geom:latitude":21.360232,
+    "geom:longitude":-158.027237,
+    "iso:country":"US",
+    "sg:address":"1190 Makaaloa St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 5181",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A034qyU6shOWBSEn3jvsX_21.360232_-158.027237@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203941,
+    "wof:geomhash":"c4234ce679ae2b18fee3a7fbd3154e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857597993
+        }
+    ],
+    "wof:id":857597993,
+    "wof:lastmodified":1464203941,
+    "wof:name":"Tanaka Auto Repair",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.027237,
+    21.360232,
+    -158.027237,
+    21.360232
+],
+  "geometry": {"coordinates":[-158.02723700000001,21.360232],"type":"Point"}
+}

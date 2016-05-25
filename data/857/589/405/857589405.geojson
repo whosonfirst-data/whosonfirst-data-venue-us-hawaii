@@ -1,0 +1,73 @@
+{
+  "id": 857589405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875353,21.341449,-157.875353,21.341449",
+    "geom:latitude":21.341449,
+    "geom:longitude":-157.875353,
+    "iso:country":"US",
+    "sg:address":"1552 Kamehameha IV Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0709",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62TBkERJVHx6fjABEihqlb_21.341449_-157.875353@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203747,
+    "wof:geomhash":"eb766447cf838d56d89288a029a4ef23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857589405
+        }
+    ],
+    "wof:id":857589405,
+    "wof:lastmodified":1464203747,
+    "wof:name":"CN Electric Maint Serv",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.875353,
+    21.341449,
+    -157.875353,
+    21.341449
+],
+  "geometry": {"coordinates":[-157.87535299999999,21.341449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857654953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461883,20.884416,-156.461883,20.884416",
+    "geom:latitude":20.884416,
+    "geom:longitude":-156.461883,
+    "iso:country":"US",
+    "sg:address":"360 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 875 2535",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DP5UyhfQL4nHLBWBsmDLS_20.884416_-156.461883@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205679,
+    "wof:geomhash":"62064b63a29229636eb71f25e4849421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857654953
+        }
+    ],
+    "wof:id":857654953,
+    "wof:lastmodified":1464205679,
+    "wof:name":"Maui Net Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -156.461883,
+    20.884416,
+    -156.461883,
+    20.884416
+],
+  "geometry": {"coordinates":[-156.461883,20.884416],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857533197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.524674,21.93696,-159.524674,21.93696",
+    "geom:latitude":21.93696,
+    "geom:longitude":-159.524674,
+    "iso:country":"US",
+    "sg:address":"2521 Poohiwi Rd",
+    "sg:city":"Kalaheo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 332 8339",
+    "sg:postcode":"96741",
+    "sg:province":"HI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cCETyhRknFeZZWJ59wtLC_21.936960_-159.524674@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202607,
+    "wof:geomhash":"efa1e7ee31bb9ee93d75409fa67d4dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857533197
+        }
+    ],
+    "wof:id":857533197,
+    "wof:lastmodified":1464202607,
+    "wof:name":"Rita's Equipment Rental",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.524674,
+    21.93696,
+    -159.524674,
+    21.93696
+],
+  "geometry": {"coordinates":[-159.524674,21.93696],"type":"Point"}
+}

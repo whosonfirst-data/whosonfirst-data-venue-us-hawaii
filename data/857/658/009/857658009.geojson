@@ -1,0 +1,71 @@
+{
+  "id": 857658009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816515,21.264486,-157.816515,21.264486",
+    "geom:latitude":21.264486,
+    "geom:longitude":-157.816515,
+    "iso:country":"US",
+    "sg:address":"3003 Noela St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 3003",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7310Cb3y9xseo0C6ndqUWo_21.264486_-157.816515@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205816,
+    "wof:geomhash":"ab2407f3f4afb6e250316fdbdc8219c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857658009
+        }
+    ],
+    "wof:id":857658009,
+    "wof:lastmodified":1464205816,
+    "wof:name":"Fukumura Investment Hawaii",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -157.816515,
+    21.264486,
+    -157.816515,
+    21.264486
+],
+  "geometry": {"coordinates":[-157.81651500000001,21.264486],"type":"Point"}
+}

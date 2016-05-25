@@ -1,0 +1,71 @@
+{
+  "id": 857593339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787628,21.295636,-157.787628,21.295636",
+    "geom:latitude":21.295636,
+    "geom:longitude":-157.787628,
+    "iso:country":"US",
+    "sg:address":"4807 Matsonia Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 8779",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OqdYczdz0kL6pVah2M0Nl_21.295636_-157.787628@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203835,
+    "wof:geomhash":"10e0ead389a8014e2d854400df60fe9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857593339
+        }
+    ],
+    "wof:id":857593339,
+    "wof:lastmodified":1464203835,
+    "wof:name":"Clean Windows",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -157.787628,
+    21.295636,
+    -157.787628,
+    21.295636
+],
+  "geometry": {"coordinates":[-157.78762800000001,21.295636],"type":"Point"}
+}

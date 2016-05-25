@@ -1,0 +1,75 @@
+{
+  "id": 857665499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.072584,19.710354,-155.072584,19.710354",
+    "geom:latitude":19.710354,
+    "geom:longitude":-155.072584,
+    "iso:country":"US",
+    "sg:address":"831 Iolani St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 2886",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QYDxylFtecUjmtwLXcXxV_19.710354_-155.072584@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206152,
+    "wof:geomhash":"5c22d8bead7753f244dc2ce002a4beac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857665499
+        }
+    ],
+    "wof:id":857665499,
+    "wof:lastmodified":1464206152,
+    "wof:name":"Affordable Auto Ctr",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -155.072584,
+    19.710354,
+    -155.072584,
+    19.710354
+],
+  "geometry": {"coordinates":[-155.07258400000001,19.710354],"type":"Point"}
+}

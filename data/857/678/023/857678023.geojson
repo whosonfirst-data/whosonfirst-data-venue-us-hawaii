@@ -1,0 +1,69 @@
+{
+  "id": 857678023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.541475,22.211891,-159.541475,22.211891",
+    "geom:latitude":22.211891,
+    "geom:longitude":-159.541475,
+    "iso:country":"US",
+    "sg:address":"4560 Ananalu Rd",
+    "sg:city":"Hanalei",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 826 9571",
+    "sg:postcode":"96714",
+    "sg:province":"HI",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890175,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xY66G5AXllepFnEUyRdp8_22.211891_-159.541475@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206656,
+    "wof:geomhash":"98e56a188e5fb591fd1e436930dfcc4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890175,
+            "region_id":85688671,
+            "venue_id":857678023
+        }
+    ],
+    "wof:id":857678023,
+    "wof:lastmodified":1464206656,
+    "wof:name":"Laura Beemer",
+    "wof:parent_id":85890175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -159.541475,
+    22.211891,
+    -159.541475,
+    22.211891
+],
+  "geometry": {"coordinates":[-159.54147499999999,22.211891],"type":"Point"}
+}

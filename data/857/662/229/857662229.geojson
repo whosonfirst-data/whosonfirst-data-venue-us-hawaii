@@ -1,0 +1,71 @@
+{
+  "id": 857662229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.174536,21.414655,-158.174536,21.414655",
+    "geom:latitude":21.414655,
+    "geom:longitude":-158.174536,
+    "iso:country":"US",
+    "sg:address":"161 Manuoioi Pl",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 6311",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rnysjqZnVtZI9CuUEeS7x_21.414655_-158.174536@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206019,
+    "wof:geomhash":"8fc9dee60a652f01c76118a4a31226ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857662229
+        }
+    ],
+    "wof:id":857662229,
+    "wof:lastmodified":1464206019,
+    "wof:name":"Stone Shine MBL Auto Detailing",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.174536,
+    21.414655,
+    -158.174536,
+    21.414655
+],
+  "geometry": {"coordinates":[-158.17453599999999,21.414655],"type":"Point"}
+}

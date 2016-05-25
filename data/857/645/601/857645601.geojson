@@ -1,0 +1,75 @@
+{
+  "id": 857645601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.345995,20.805541,-156.345995,20.805541",
+    "geom:latitude":20.805541,
+    "geom:longitude":-156.345995,
+    "iso:country":"US",
+    "sg:address":"1835 Omaopio Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 3464",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A5NwRSNkAecgjYKYBgsfH_20.805541_-156.345995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205263,
+    "wof:geomhash":"7a26b96bd77d4a85680e0fa48966d339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857645601
+        }
+    ],
+    "wof:id":857645601,
+    "wof:lastmodified":1464205263,
+    "wof:name":"Upcountry Machine Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.345995,
+    20.805541,
+    -156.345995,
+    20.805541
+],
+  "geometry": {"coordinates":[-156.34599499999999,20.805541],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857651405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932584,21.381153,-157.932584,21.381153",
+    "geom:latitude":21.381153,
+    "geom:longitude":-157.932584,
+    "iso:country":"US",
+    "sg:address":"98 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8688",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57MTe4tbWKFXYfVkD5NDvz_21.381153_-157.932584@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205518,
+    "wof:geomhash":"dbc6a8b8dc900cbd2557a17e0432b540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857651405
+        }
+    ],
+    "wof:id":857651405,
+    "wof:lastmodified":1464205518,
+    "wof:name":"Photo Trend",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.932584,
+    21.381153,
+    -157.932584,
+    21.381153
+],
+  "geometry": {"coordinates":[-157.93258399999999,21.381153],"type":"Point"}
+}

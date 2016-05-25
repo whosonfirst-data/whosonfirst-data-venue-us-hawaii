@@ -1,0 +1,75 @@
+{
+  "id": 857550611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814894,21.288702,-157.814894,21.288702",
+    "geom:latitude":21.288702,
+    "geom:longitude":-157.814894,
+    "iso:country":"US",
+    "sg:address":"2969 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8543",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jWmwHpic1UclBHuDSKUjQ_21.288702_-157.814894@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202942,
+    "wof:geomhash":"9d95345fade6f1e1a103a8d4526b8c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857550611
+        }
+    ],
+    "wof:id":857550611,
+    "wof:lastmodified":1464202942,
+    "wof:name":"Mel's Sunrise Chevron",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.814894,
+    21.288702,
+    -157.814894,
+    21.288702
+],
+  "geometry": {"coordinates":[-157.81489400000001,21.288702],"type":"Point"}
+}

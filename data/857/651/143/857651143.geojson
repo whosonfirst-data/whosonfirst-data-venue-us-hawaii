@@ -1,0 +1,71 @@
+{
+  "id": 857651143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.501993,20.883478,-156.501993,20.883478",
+    "geom:latitude":20.883478,
+    "geom:longitude":-156.501993,
+    "iso:country":"US",
+    "sg:address":"485 Waiale Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 6900",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sEoVwK06vV8wzfmULFM8f_20.883478_-156.501993@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205500,
+    "wof:geomhash":"75eafc6b3934f1c872c567184b01bea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857651143
+        }
+    ],
+    "wof:id":857651143,
+    "wof:lastmodified":1464205500,
+    "wof:name":"D & D Towing",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -156.501993,
+    20.883478,
+    -156.501993,
+    20.883478
+],
+  "geometry": {"coordinates":[-156.501993,20.883478],"type":"Point"}
+}

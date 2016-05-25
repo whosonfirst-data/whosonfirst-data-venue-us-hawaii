@@ -1,0 +1,73 @@
+{
+  "id": 857675495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8618,21.306391,-157.8618,21.306391",
+    "geom:latitude":21.306391,
+    "geom:longitude":-157.8618,
+    "iso:country":"US",
+    "sg:address":"235 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 5866",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carrier",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DDebj9Lti7DpPSVuJ489j_21.306391_-157.861800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206549,
+    "wof:geomhash":"ac5215933269c5db90a063ce79114097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857675495
+        }
+    ],
+    "wof:id":857675495,
+    "wof:lastmodified":1464206549,
+    "wof:name":"Total Gaurantee of Hawaii",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "title"
+    ]
+},
+  "bbox": [
+    -157.8618,
+    21.306391,
+    -157.8618,
+    21.306391
+],
+  "geometry": {"coordinates":[-157.86179999999999,21.306391],"type":"Point"}
+}

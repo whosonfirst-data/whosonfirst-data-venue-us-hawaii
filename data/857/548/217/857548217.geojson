@@ -1,0 +1,76 @@
+{
+  "id": 857548217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86912,21.325198,-157.86912,21.325198",
+    "geom:latitude":21.325198,
+    "geom:longitude":-157.86912,
+    "iso:country":"US",
+    "sg:address":"1153 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0546",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20wP8TFARhnYUsoiyPszls_21.325198_-157.869120@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202897,
+    "wof:geomhash":"3473c559d8b5cd7dea6ae18e99397469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857548217
+        }
+    ],
+    "wof:id":857548217,
+    "wof:lastmodified":1464202897,
+    "wof:name":"Griffin Gear Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -157.86912,
+    21.325198,
+    -157.86912,
+    21.325198
+],
+  "geometry": {"coordinates":[-157.86912000000001,21.325198],"type":"Point"}
+}

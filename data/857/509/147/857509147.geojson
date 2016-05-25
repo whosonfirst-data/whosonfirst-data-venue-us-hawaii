@@ -1,0 +1,71 @@
+{
+  "id": 857509147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02946,21.494859,-158.02946,21.494859",
+    "geom:latitude":21.494859,
+    "geom:longitude":-158.02946,
+    "iso:country":"US",
+    "sg:address":"71 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 4600",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zWdgtZM8ksxo9ZIeJLnBD_21.494859_-158.029460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202127,
+    "wof:geomhash":"c046cf3b913c013692d358058810a706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857509147
+        }
+    ],
+    "wof:id":857509147,
+    "wof:lastmodified":1464202127,
+    "wof:name":"Wahiawa Massage",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -158.02946,
+    21.494859,
+    -158.02946,
+    21.494859
+],
+  "geometry": {"coordinates":[-158.02946,21.494859],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857507245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820814,21.277255,-157.820814,21.277255",
+    "geom:latitude":21.277255,
+    "geom:longitude":-157.820814,
+    "iso:country":"US",
+    "sg:address":"2411 Ala Wai Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 8381",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KX581TBF0OMB8xmfCw6ld_21.277255_-157.820814@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202086,
+    "wof:geomhash":"306a71de8dc0a994a052bcf83a379507",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857507245
+        }
+    ],
+    "wof:id":857507245,
+    "wof:lastmodified":1464202086,
+    "wof:name":"Edmunds Hotel Apartments",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.820814,
+    21.277255,
+    -157.820814,
+    21.277255
+],
+  "geometry": {"coordinates":[-157.82081400000001,21.277255],"type":"Point"}
+}

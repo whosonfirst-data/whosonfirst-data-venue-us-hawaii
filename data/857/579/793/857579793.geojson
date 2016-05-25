@@ -1,0 +1,75 @@
+{
+  "id": 857579793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030861,21.490777,-158.030861,21.490777",
+    "geom:latitude":21.490777,
+    "geom:longitude":-158.030861,
+    "iso:country":"US",
+    "sg:address":"190 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 2458",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xDlclTW4sB1CbiLUYKMYX_21.490777_-158.030861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203549,
+    "wof:geomhash":"0aba6632e4c30bf212f33f5348aff281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857579793
+        }
+    ],
+    "wof:id":857579793,
+    "wof:lastmodified":1464203549,
+    "wof:name":"Cox's Auto Sales",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.030861,
+    21.490777,
+    -158.030861,
+    21.490777
+],
+  "geometry": {"coordinates":[-158.03086099999999,21.490777],"type":"Point"}
+}

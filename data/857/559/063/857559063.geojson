@@ -1,0 +1,75 @@
+{
+  "id": 857559063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862109,21.325129,-157.862109,21.325129",
+    "geom:latitude":21.325129,
+    "geom:longitude":-157.862109,
+    "iso:country":"US",
+    "sg:address":"821 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 285 4427",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fGBpOZ29wG3xsDMuaMdES_21.325129_-157.862109@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203129,
+    "wof:geomhash":"722c76d184d0826c11dbfbe17b37c118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857559063
+        }
+    ],
+    "wof:id":857559063,
+    "wof:lastmodified":1464203129,
+    "wof:name":"Daniel's Yard Svc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -157.862109,
+    21.325129,
+    -157.862109,
+    21.325129
+],
+  "geometry": {"coordinates":[-157.862109,21.325129],"type":"Point"}
+}

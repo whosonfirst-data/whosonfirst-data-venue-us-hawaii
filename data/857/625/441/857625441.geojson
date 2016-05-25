@@ -1,0 +1,73 @@
+{
+  "id": 857625441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.716769,21.291204,-157.716769,21.291204",
+    "geom:latitude":21.291204,
+    "geom:longitude":-157.716769,
+    "iso:country":"US",
+    "sg:address":"350 Awini Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 6866",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AQSa1gfk5bC2YP4NanZt6_21.291204_-157.716769@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204571,
+    "wof:geomhash":"25eaa521d2756c2ccb3151cc8eae3ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857625441
+        }
+    ],
+    "wof:id":857625441,
+    "wof:lastmodified":1464204571,
+    "wof:name":"Woo's Electrical Svc",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.716769,
+    21.291204,
+    -157.716769,
+    21.291204
+],
+  "geometry": {"coordinates":[-157.716769,21.291204],"type":"Point"}
+}

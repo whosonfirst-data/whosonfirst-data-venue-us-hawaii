@@ -1,0 +1,73 @@
+{
+  "id": 857540797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872829,21.327227,-157.872829,21.327227",
+    "geom:latitude":21.327227,
+    "geom:longitude":-157.872829,
+    "iso:country":"US",
+    "sg:address":"918 Waiakamilo Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6110",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yTqW1PSnn6guA4P1fukTJ_21.327227_-157.872829@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202750,
+    "wof:geomhash":"b687f55b608f586f9ae84495832d9b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857540797
+        }
+    ],
+    "wof:id":857540797,
+    "wof:lastmodified":1464202750,
+    "wof:name":"Redline Automotive",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "parts"
+    ]
+},
+  "bbox": [
+    -157.872829,
+    21.327227,
+    -157.872829,
+    21.327227
+],
+  "geometry": {"coordinates":[-157.872829,21.327227],"type":"Point"}
+}

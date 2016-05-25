@@ -1,0 +1,66 @@
+{
+  "id": 857531761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.933519,21.378239,-157.933519,21.378239",
+    "geom:latitude":21.378239,
+    "geom:longitude":-157.933519,
+    "iso:country":"US",
+    "sg:address":"40 Kauhale St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 0111",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hIBh76UA6dEB2ewXswSTq_21.378239_-157.933519@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202581,
+    "wof:geomhash":"d802e5ea3f89e91f67099a419aabf3db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857531761
+        }
+    ],
+    "wof:id":857531761,
+    "wof:lastmodified":1464202581,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.933519,
+    21.378239,
+    -157.933519,
+    21.378239
+],
+  "geometry": {"coordinates":[-157.93351899999999,21.378239],"type":"Point"}
+}

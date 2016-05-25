@@ -1,0 +1,73 @@
+{
+  "id": 857672607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.451128,20.744601,-156.451128,20.744601",
+    "geom:latitude":20.744601,
+    "geom:longitude":-156.451128,
+    "iso:country":"US",
+    "sg:address":"96 Kio Loop",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 879 7257",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X9SSuMPyxPX9TPL1dw7AR_20.744601_-156.451128@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206438,
+    "wof:geomhash":"e6be643c4addc99e99fce9acfb74109e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857672607
+        }
+    ],
+    "wof:id":857672607,
+    "wof:lastmodified":1464206438,
+    "wof:name":"Kihei Rent A Car",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rent"
+    ]
+},
+  "bbox": [
+    -156.451128,
+    20.744601,
+    -156.451128,
+    20.744601
+],
+  "geometry": {"coordinates":[-156.45112800000001,20.744601],"type":"Point"}
+}

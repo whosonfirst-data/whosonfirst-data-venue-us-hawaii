@@ -1,0 +1,77 @@
+{
+  "id": 857645247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.908208,21.373271,-157.908208,21.373271",
+    "geom:latitude":21.373271,
+    "geom:longitude":-157.908208,
+    "iso:country":"US",
+    "sg:address":"941 Halawa Valley St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 7111",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agriculture",
+        "regulation",
+        "agency",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_441SnQK0PZuA1P5WRWHYPA_21.373271_-157.908208@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205248,
+    "wof:geomhash":"426bfa50c62d6ca5f670a7e3ba30bbc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857645247
+        }
+    ],
+    "wof:id":857645247,
+    "wof:lastmodified":1464205248,
+    "wof:name":"Agriculture Hawaii Department",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agriculture",
+        "regulation",
+        "agency",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -157.908208,
+    21.373271,
+    -157.908208,
+    21.373271
+],
+  "geometry": {"coordinates":[-157.908208,21.373271],"type":"Point"}
+}

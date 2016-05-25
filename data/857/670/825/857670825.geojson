@@ -1,0 +1,71 @@
+{
+  "id": 857670825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930348,21.354814,-157.930348,21.354814",
+    "geom:latitude":21.354814,
+    "geom:longitude":-157.930348,
+    "iso:country":"US",
+    "sg:address":"4429 Malaai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1155",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h3Mh1ZUiMss1oIjdvMNSV_21.354814_-157.930348@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206369,
+    "wof:geomhash":"0f075815776406fcf020f51debbd28f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857670825
+        }
+    ],
+    "wof:id":857670825,
+    "wof:lastmodified":1464206369,
+    "wof:name":"Pacific Family Dental Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.930348,
+    21.354814,
+    -157.930348,
+    21.354814
+],
+  "geometry": {"coordinates":[-157.93034800000001,21.354814],"type":"Point"}
+}

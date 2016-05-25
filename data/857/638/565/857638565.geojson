@@ -1,0 +1,73 @@
+{
+  "id": 857638565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840686,21.292406,-157.840686,21.292406",
+    "geom:latitude":21.292406,
+    "geom:longitude":-157.840686,
+    "iso:country":"US",
+    "sg:address":"1500 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 7741",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xkTX9bFoVkAAPtWZoYyTl_21.292406_-157.840686@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204962,
+    "wof:geomhash":"94089c6f3f3230e5dc556b29950a237e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857638565
+        }
+    ],
+    "wof:id":857638565,
+    "wof:lastmodified":1464204962,
+    "wof:name":"Nevada Bobs Golf",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf"
+    ]
+},
+  "bbox": [
+    -157.840686,
+    21.292406,
+    -157.840686,
+    21.292406
+],
+  "geometry": {"coordinates":[-157.84068600000001,21.292406],"type":"Point"}
+}

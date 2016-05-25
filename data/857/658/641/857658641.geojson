@@ -1,0 +1,67 @@
+{
+  "id": 857658641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87376,21.31765,-157.87376,21.31765",
+    "geom:latitude":21.31765,
+    "geom:longitude":-157.87376,
+    "iso:country":"US",
+    "sg:address":"421 Alakawa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7355",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EALWAY5QTGHh0WvF15CZp_21.317650_-157.873760@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205844,
+    "wof:geomhash":"8549ec7ddba4e9331ac2a109def5a66b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857658641
+        }
+    ],
+    "wof:id":857658641,
+    "wof:lastmodified":1464205844,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.87376,
+    21.31765,
+    -157.87376,
+    21.31765
+],
+  "geometry": {"coordinates":[-157.87376,21.31765],"type":"Point"}
+}

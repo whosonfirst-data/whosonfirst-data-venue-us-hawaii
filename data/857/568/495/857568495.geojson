@@ -1,0 +1,71 @@
+{
+  "id": 857568495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835886,21.29497,-157.835886,21.29497",
+    "geom:latitude":21.29497,
+    "geom:longitude":-157.835886,
+    "iso:country":"US",
+    "sg:address":"1605 Philip St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 2555",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U4gd3yp0yekD7JsgkqkBI_21.294970_-157.835886@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203324,
+    "wof:geomhash":"113660cdedfab5598e2bd2b75ed48c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857568495
+        }
+    ],
+    "wof:id":857568495,
+    "wof:lastmodified":1464203324,
+    "wof:name":"Philip Street Elderly Housing",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.835886,
+    21.29497,
+    -157.835886,
+    21.29497
+],
+  "geometry": {"coordinates":[-157.83588599999999,21.29497],"type":"Point"}
+}

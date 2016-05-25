@@ -1,0 +1,75 @@
+{
+  "id": 857554723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.970007,21.405814,-157.970007,21.405814",
+    "geom:latitude":21.405814,
+    "geom:longitude":-157.970007,
+    "iso:country":"US",
+    "sg:address":"1423 Kalauipo St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 8298",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hK5JpKgOpLrgnLrzsaGW5_21.405814_-157.970007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203022,
+    "wof:geomhash":"5f1b9f101832ceba239643e6cad8dfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857554723
+        }
+    ],
+    "wof:id":857554723,
+    "wof:lastmodified":1464203022,
+    "wof:name":"Jojis Trucking Company",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.970007,
+    21.405814,
+    -157.970007,
+    21.405814
+],
+  "geometry": {"coordinates":[-157.97000700000001,21.405814],"type":"Point"}
+}

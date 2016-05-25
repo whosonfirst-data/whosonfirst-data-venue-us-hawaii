@@ -1,0 +1,66 @@
+{
+  "id": 857675137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874225,21.340629,-157.874225,21.340629",
+    "geom:latitude":21.340629,
+    "geom:longitude":-157.874225,
+    "iso:country":"US",
+    "sg:address":"2215 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8788",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EnKsWTTx6qI7M4mpsw6hP_21.340629_-157.874225@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206530,
+    "wof:geomhash":"8264b808dfd0b7f8e086950ecfba898a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857675137
+        }
+    ],
+    "wof:id":857675137,
+    "wof:lastmodified":1464206530,
+    "wof:name":"Sunny Mart",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.874225,
+    21.340629,
+    -157.874225,
+    21.340629
+],
+  "geometry": {"coordinates":[-157.874225,21.340629],"type":"Point"}
+}

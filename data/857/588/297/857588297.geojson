@@ -1,0 +1,75 @@
+{
+  "id": 857588297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.919643,20.825541,-156.919643,20.825541",
+    "geom:latitude":20.825541,
+    "geom:longitude":-156.919643,
+    "iso:country":"US",
+    "sg:address":"1001 Lanai Ave",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 6196",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937657,
+        102085577,
+        85890551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DTq49ldkez4cBnizNMyEf_20.825541_-156.919643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203721,
+    "wof:geomhash":"61241feb2340ac017f16bec7ed6e45ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890551,
+            "region_id":85688671,
+            "venue_id":857588297
+        }
+    ],
+    "wof:id":857588297,
+    "wof:lastmodified":1464203721,
+    "wof:name":"C & C Auto Body",
+    "wof:parent_id":85890551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.919643,
+    20.825541,
+    -156.919643,
+    20.825541
+],
+  "geometry": {"coordinates":[-156.91964300000001,20.825541],"type":"Point"}
+}

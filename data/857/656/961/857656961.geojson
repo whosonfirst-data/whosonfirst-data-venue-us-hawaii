@@ -1,0 +1,71 @@
+{
+  "id": 857656961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021452,21.438806,-158.021452,21.438806",
+    "geom:latitude":21.438806,
+    "geom:longitude":-158.021452,
+    "iso:country":"US",
+    "sg:address":"290 Kikiula Loop",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 1364",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DFz3FTVJosN2TQtAUNbJZ_21.438806_-158.021452@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205765,
+    "wof:geomhash":"57bc7b34d7799875769830f63079883e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857656961
+        }
+    ],
+    "wof:id":857656961,
+    "wof:lastmodified":1464205765,
+    "wof:name":"Master AC Refridgeration Svcs",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -158.021452,
+    21.438806,
+    -158.021452,
+    21.438806
+],
+  "geometry": {"coordinates":[-158.02145200000001,21.438806],"type":"Point"}
+}

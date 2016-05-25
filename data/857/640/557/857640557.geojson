@@ -1,0 +1,71 @@
+{
+  "id": 857640557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813843,21.30654,-157.813843,21.30654",
+    "geom:latitude":21.30654,
+    "geom:longitude":-157.813843,
+    "iso:country":"US",
+    "sg:address":"2655 Pamoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3531",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EgRuuzWwe89xvhT6TvvOs_21.306540_-157.813843@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205047,
+    "wof:geomhash":"87d8de37c8c709e4dc8e1a7e4c6a297c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857640557
+        }
+    ],
+    "wof:id":857640557,
+    "wof:lastmodified":1464205047,
+    "wof:name":"Morita Store Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor"
+    ]
+},
+  "bbox": [
+    -157.813843,
+    21.30654,
+    -157.813843,
+    21.30654
+],
+  "geometry": {"coordinates":[-157.81384299999999,21.30654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857544919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856393,21.296085,-157.856393,21.296085",
+    "geom:latitude":21.296085,
+    "geom:longitude":-157.856393,
+    "iso:country":"US",
+    "sg:address":"350 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 9313",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mLMyZfGOA2PV9QwJqazsi_21.296085_-157.856393@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202838,
+    "wof:geomhash":"c644d81f9d31f69148b55106c76964d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857544919
+        }
+    ],
+    "wof:id":857544919,
+    "wof:lastmodified":1464202838,
+    "wof:name":"Grand Valet Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant"
+    ]
+},
+  "bbox": [
+    -157.856393,
+    21.296085,
+    -157.856393,
+    21.296085
+],
+  "geometry": {"coordinates":[-157.856393,21.296085],"type":"Point"}
+}

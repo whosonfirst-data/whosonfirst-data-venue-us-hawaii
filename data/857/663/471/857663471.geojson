@@ -1,0 +1,73 @@
+{
+  "id": 857663471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872233,21.327593,-157.872233,21.327593",
+    "geom:latitude":21.327593,
+    "geom:longitude":-157.872233,
+    "iso:country":"US",
+    "sg:address":"1361 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3311",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J2qCLk8qg19mux5YJFj3m_21.327593_-157.872233@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206067,
+    "wof:geomhash":"a03d6281b9b47acbb5885eb80c229c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857663471
+        }
+    ],
+    "wof:id":857663471,
+    "wof:lastmodified":1464206067,
+    "wof:name":"Loess Spa",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -157.872233,
+    21.327593,
+    -157.872233,
+    21.327593
+],
+  "geometry": {"coordinates":[-157.87223299999999,21.327593],"type":"Point"}
+}

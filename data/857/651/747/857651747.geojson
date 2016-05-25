@@ -1,0 +1,73 @@
+{
+  "id": 857651747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997667,21.421563,-157.997667,21.421563",
+    "geom:latitude":21.421563,
+    "geom:longitude":-157.997667,
+    "iso:country":"US",
+    "sg:address":"1402 Kolea St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 3891",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "auto",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09pNqIabKMpk5MwN5vew2N_21.421563_-157.997667@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205532,
+    "wof:geomhash":"03cd22c834742cb3967f3cc66999fe62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857651747
+        }
+    ],
+    "wof:id":857651747,
+    "wof:lastmodified":1464205532,
+    "wof:name":"Barrettos Repair",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -157.997667,
+    21.421563,
+    -157.997667,
+    21.421563
+],
+  "geometry": {"coordinates":[-157.99766700000001,21.421563],"type":"Point"}
+}

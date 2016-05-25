@@ -1,0 +1,72 @@
+{
+  "id": 857678325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.080508,21.622432,-158.080508,21.622432",
+    "geom:latitude":21.622432,
+    "geom:longitude":-158.080508,
+    "iso:country":"US",
+    "sg:address":"457 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 6106",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85827833,
+        102085417,
+        85890119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62wv7v3QpQbbHQumZ4aOT3_21.622432_-158.080508@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206666,
+    "wof:geomhash":"3afc752a8560d7671255bc06135bff98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85827833,
+            "region_id":85688671,
+            "venue_id":857678325
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890119,
+            "region_id":85688671,
+            "venue_id":857678325
+        }
+    ],
+    "wof:id":857678325,
+    "wof:lastmodified":1464206666,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.080508,
+    21.622432,
+    -158.080508,
+    21.622432
+],
+  "geometry": {"coordinates":[-158.08050800000001,21.622432],"type":"Point"}
+}

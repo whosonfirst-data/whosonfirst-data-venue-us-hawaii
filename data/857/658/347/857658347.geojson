@@ -1,0 +1,71 @@
+{
+  "id": 857658347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.680984,21.300245,-157.680984,21.300245",
+    "geom:latitude":21.300245,
+    "geom:longitude":-157.680984,
+    "iso:country":"US",
+    "sg:address":"112 Waihili Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 5759",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QMOHBy9xXxWkZAsUjHV2a_21.300245_-157.680984@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205834,
+    "wof:geomhash":"64d6f39aa85f056883d9a81e9fa858e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857658347
+        }
+    ],
+    "wof:id":857658347,
+    "wof:lastmodified":1464205834,
+    "wof:name":"Rodwin L Wong",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.680984,
+    21.300245,
+    -157.680984,
+    21.300245
+],
+  "geometry": {"coordinates":[-157.680984,21.300245],"type":"Point"}
+}

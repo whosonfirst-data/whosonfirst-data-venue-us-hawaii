@@ -1,0 +1,71 @@
+{
+  "id": 857622881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.78627,19.941699,-155.78627,19.941699",
+    "geom:latitude":19.941699,
+    "geom:longitude":-155.78627,
+    "iso:country":"US",
+    "sg:address":"1804 Uala St",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 883 3800",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YZIof1E2gHZnpUYlTavVp_19.941699_-155.786270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204505,
+    "wof:geomhash":"9b6f34b9b136be81304623d90d6cb758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857622881
+        }
+    ],
+    "wof:id":857622881,
+    "wof:lastmodified":1464204505,
+    "wof:name":"L & R Enterprise",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -155.78627,
+    19.941699,
+    -155.78627,
+    19.941699
+],
+  "geometry": {"coordinates":[-155.78627,19.941699],"type":"Point"}
+}

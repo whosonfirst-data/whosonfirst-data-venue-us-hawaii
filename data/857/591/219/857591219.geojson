@@ -1,0 +1,73 @@
+{
+  "id": 857591219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461883,20.884416,-156.461883,20.884416",
+    "geom:latitude":20.884416,
+    "geom:longitude":-156.461883,
+    "iso:country":"US",
+    "sg:address":"360 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 8371",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76riGtdwmrqnpui510Wawy_20.884416_-156.461883@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203788,
+    "wof:geomhash":"62064b63a29229636eb71f25e4849421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857591219
+        }
+    ],
+    "wof:id":857591219,
+    "wof:lastmodified":1464203788,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -156.461883,
+    20.884416,
+    -156.461883,
+    20.884416
+],
+  "geometry": {"coordinates":[-156.461883,20.884416],"type":"Point"}
+}

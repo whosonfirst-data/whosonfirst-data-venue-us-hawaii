@@ -1,0 +1,71 @@
+{
+  "id": 857665091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.490924,20.88763,-156.490924,20.88763",
+    "geom:latitude":20.88763,
+    "geom:longitude":-156.490924,
+    "iso:country":"US",
+    "sg:address":"80 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 243 6000",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BoMmsKxE7XEGqmHwKXnxB_20.887630_-156.490924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206131,
+    "wof:geomhash":"1eddd83b3372c98348816259036cd75c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857665091
+        }
+    ],
+    "wof:id":857665091,
+    "wof:lastmodified":1464206131,
+    "wof:name":"Hawaii Permanente Med Group",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.490924,
+    20.88763,
+    -156.490924,
+    20.88763
+],
+  "geometry": {"coordinates":[-156.49092400000001,20.88763],"type":"Point"}
+}

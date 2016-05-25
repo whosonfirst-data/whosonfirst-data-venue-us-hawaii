@@ -1,0 +1,71 @@
+{
+  "id": 857663185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.03144,21.49799,-158.03144,21.49799",
+    "geom:latitude":21.49799,
+    "geom:longitude":-158.03144,
+    "iso:country":"US",
+    "sg:address":"310 Pakauwili Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 7078",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contracting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R8Uro9jG6mQSKCaaWrVDW_21.497990_-158.031440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206057,
+    "wof:geomhash":"2ccb995035407729f87dde0aa3933849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857663185
+        }
+    ],
+    "wof:id":857663185,
+    "wof:lastmodified":1464206057,
+    "wof:name":"Kurashige Construction",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "general"
+    ]
+},
+  "bbox": [
+    -158.03144,
+    21.49799,
+    -158.03144,
+    21.49799
+],
+  "geometry": {"coordinates":[-158.03144,21.49799],"type":"Point"}
+}

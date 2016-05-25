@@ -1,0 +1,71 @@
+{
+  "id": 857502899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.956695,21.402049,-157.956695,21.402049",
+    "geom:latitude":21.402049,
+    "geom:longitude":-157.956695,
+    "iso:country":"US",
+    "sg:address":"1723 Hooheke St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 8115",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20IqMpOlEhPLFx6AEbw6Bi_21.402049_-157.956695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201983,
+    "wof:geomhash":"938f64a737186f414f295ad34089f070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857502899
+        }
+    ],
+    "wof:id":857502899,
+    "wof:lastmodified":1464201983,
+    "wof:name":"Morita & Son General Contg LLC",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.956695,
+    21.402049,
+    -157.956695,
+    21.402049
+],
+  "geometry": {"coordinates":[-157.956695,21.402049],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857577799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862038,21.311045,-157.862038,21.311045",
+    "geom:latitude":21.311045,
+    "geom:longitude":-157.862038,
+    "iso:country":"US",
+    "sg:address":"49 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 550 8168",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i0RNsc3oVUEpgIEcUXa8L_21.311045_-157.862038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203507,
+    "wof:geomhash":"026995bb984645bd349e85b35e326151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872737,
+            "region_id":85688671,
+            "venue_id":857577799
+        }
+    ],
+    "wof:id":857577799,
+    "wof:lastmodified":1464203507,
+    "wof:name":"Amy's Place",
+    "wof:parent_id":85872737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.862038,
+    21.311045,
+    -157.862038,
+    21.311045
+],
+  "geometry": {"coordinates":[-157.86203800000001,21.311045],"type":"Point"}
+}

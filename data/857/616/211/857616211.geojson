@@ -1,0 +1,73 @@
+{
+  "id": 857616211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.446816,20.887987,-156.446816,20.887987",
+    "geom:latitude":20.887987,
+    "geom:longitude":-156.446816,
+    "iso:country":"US",
+    "sg:address":"590 Haleakala Hwy",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7728",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532929,
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K7VG3ZFbpv90SBSH9xQ7f_20.887987_-156.446816@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204343,
+    "wof:geomhash":"7cb3bd695b9cb94457044fd340f5c2ad",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532929,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857616211
+        }
+    ],
+    "wof:id":857616211,
+    "wof:lastmodified":1464204343,
+    "wof:name":"Ding Kings",
+    "wof:parent_id":102532929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.446816,
+    20.887987,
+    -156.446816,
+    20.887987
+],
+  "geometry": {"coordinates":[-156.44681600000001,20.887987],"type":"Point"}
+}

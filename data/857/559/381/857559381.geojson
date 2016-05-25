@@ -1,0 +1,75 @@
+{
+  "id": 857559381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.496752,20.885562,-156.496752,20.885562",
+    "geom:latitude":20.885562,
+    "geom:longitude":-156.496752,
+    "iso:country":"US",
+    "sg:address":"160 Nakoa Dr",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 0059",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u1jzxi1GFByPyCkFwzg8z_20.885562_-156.496752@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203136,
+    "wof:geomhash":"f60a36feaf44220304c329ed2babfe23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857559381
+        }
+    ],
+    "wof:id":857559381,
+    "wof:lastmodified":1464203136,
+    "wof:name":"B C Rock",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -156.496752,
+    20.885562,
+    -156.496752,
+    20.885562
+],
+  "geometry": {"coordinates":[-156.49675199999999,20.885562],"type":"Point"}
+}

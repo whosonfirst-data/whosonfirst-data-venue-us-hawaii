@@ -1,0 +1,66 @@
+{
+  "id": 857665583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.761439,21.278188,-157.761439,21.278188",
+    "geom:latitude":21.278188,
+    "geom:longitude":-157.761439,
+    "iso:country":"US",
+    "sg:address":"4972 Poola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 0035",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zXtGFE7ss0zahLZoUjNOK_21.278188_-157.761439@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206155,
+    "wof:geomhash":"a90c027a5fde66b910f996b5108a0856",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857665583
+        }
+    ],
+    "wof:id":857665583,
+    "wof:lastmodified":1464206155,
+    "wof:name":"Kalakaua Flower and Lei Shop",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.761439,
+    21.278188,
+    -157.761439,
+    21.278188
+],
+  "geometry": {"coordinates":[-157.761439,21.278188],"type":"Point"}
+}

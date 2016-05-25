@@ -1,0 +1,73 @@
+{
+  "id": 857554953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.891296,21.323045,-157.891296,21.323045",
+    "geom:latitude":21.323045,
+    "geom:longitude":-157.891296,
+    "iso:country":"US",
+    "sg:address":"2101 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7717",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EUN3jpU8LkqxwkWeiJLr3_21.323045_-157.891296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203026,
+    "wof:geomhash":"535bc75ec95c5b5f768704779752d1fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857554953
+        }
+    ],
+    "wof:id":857554953,
+    "wof:lastmodified":1464203026,
+    "wof:name":"Jobbers Auto Warehouse Supply",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.891296,
+    21.323045,
+    -157.891296,
+    21.323045
+],
+  "geometry": {"coordinates":[-157.89129600000001,21.323045],"type":"Point"}
+}

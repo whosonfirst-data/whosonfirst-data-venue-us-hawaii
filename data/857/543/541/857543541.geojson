@@ -1,0 +1,73 @@
+{
+  "id": 857543541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020783,21.510866,-158.020783,21.510866",
+    "geom:latitude":21.510866,
+    "geom:longitude":-158.020783,
+    "iso:country":"US",
+    "sg:address":"1116 Whitmore Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 3219",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "canned",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17VgB9nDyASTucD0sCG358_21.510866_-158.020783@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202812,
+    "wof:geomhash":"afd9c5fe5dfab236d524002e0ccc06fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857543541
+        }
+    ],
+    "wof:id":857543541,
+    "wof:lastmodified":1464202812,
+    "wof:name":"Dole Food",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "canned",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -158.020783,
+    21.510866,
+    -158.020783,
+    21.510866
+],
+  "geometry": {"coordinates":[-158.02078299999999,21.510866],"type":"Point"}
+}

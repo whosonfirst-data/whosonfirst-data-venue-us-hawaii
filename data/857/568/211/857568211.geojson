@@ -1,0 +1,71 @@
+{
+  "id": 857568211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.796305,21.281425,-157.796305,21.281425",
+    "geom:latitude":21.281425,
+    "geom:longitude":-157.796305,
+    "iso:country":"US",
+    "sg:address":"3702 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 6400",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3omG08OyYlsVeep0qTD25F_21.281425_-157.796305@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203319,
+    "wof:geomhash":"5783d941ec27498be355d8807343e363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857568211
+        }
+    ],
+    "wof:id":857568211,
+    "wof:lastmodified":1464203319,
+    "wof:name":"Dynamic Business Management",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -157.796305,
+    21.281425,
+    -157.796305,
+    21.281425
+],
+  "geometry": {"coordinates":[-157.79630499999999,21.281425],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857654635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815812,21.307944,-157.815812,21.307944",
+    "geom:latitude":21.307944,
+    "geom:longitude":-157.815812,
+    "iso:country":"US",
+    "sg:address":"2621 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 9214",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "adoption"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rxp8S7iiVC6DTfycaje4S_21.307944_-157.815812@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205661,
+    "wof:geomhash":"4b7987de56d777ce27841c95ae86ba01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857654635
+        }
+    ],
+    "wof:id":857654635,
+    "wof:lastmodified":1464205661,
+    "wof:name":"Lee Slater Adoption Svc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "adoption"
+    ]
+},
+  "bbox": [
+    -157.815812,
+    21.307944,
+    -157.815812,
+    21.307944
+],
+  "geometry": {"coordinates":[-157.81581199999999,21.307944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857632249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880893,21.331705,-157.880893,21.331705",
+    "geom:latitude":21.331705,
+    "geom:longitude":-157.880893,
+    "iso:country":"US",
+    "sg:address":"740 Kopke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8211",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cfh6V3L31AJcAzhlu20fE_21.331705_-157.880893@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204722,
+    "wof:geomhash":"3898149d2b78feaed9a9c55471ef4c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857632249
+        }
+    ],
+    "wof:id":857632249,
+    "wof:lastmodified":1464204722,
+    "wof:name":"Gourmet Foods Hawaii",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.880893,
+    21.331705,
+    -157.880893,
+    21.331705
+],
+  "geometry": {"coordinates":[-157.88089299999999,21.331705],"type":"Point"}
+}

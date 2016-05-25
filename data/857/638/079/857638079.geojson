@@ -1,0 +1,80 @@
+{
+  "id": 857638079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910881,21.392252,-157.910881,21.392252",
+    "geom:latitude":21.392252,
+    "geom:longitude":-157.910881,
+    "iso:country":"US",
+    "sg:address":"127 Heen Way",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 0430",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.technimagic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890055,
+        102085417,
+        85937671,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dHG7wiWHC9GDau0q37OiC_21.392252_-157.910881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204943,
+    "wof:geomhash":"239900c5940b36deb5026872ee81349f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890055,
+            "region_id":85688671,
+            "venue_id":857638079
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857638079
+        }
+    ],
+    "wof:id":857638079,
+    "wof:lastmodified":1464204943,
+    "wof:name":"Technimagic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.910881,
+    21.392252,
+    -157.910881,
+    21.392252
+],
+  "geometry": {"coordinates":[-157.91088099999999,21.392252],"type":"Point"}
+}

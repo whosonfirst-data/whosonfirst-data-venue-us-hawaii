@@ -1,0 +1,71 @@
+{
+  "id": 857660371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.032095,21.494921,-158.032095,21.494921",
+    "geom:latitude":21.494921,
+    "geom:longitude":-158.032095,
+    "iso:country":"US",
+    "sg:address":"277 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8998",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HnNPlvI2wq0ovgl0Wi7x2_21.494921_-158.032095@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205927,
+    "wof:geomhash":"0efb709f5e4a11ad034ea836cbc0cc52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857660371
+        }
+    ],
+    "wof:id":857660371,
+    "wof:lastmodified":1464205927,
+    "wof:name":"Lee Apartment Hotel",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -158.032095,
+    21.494921,
+    -158.032095,
+    21.494921
+],
+  "geometry": {"coordinates":[-158.032095,21.494921],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857525439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87337,21.335873,-157.87337,21.335873",
+    "geom:latitude":21.335873,
+    "geom:longitude":-157.87337,
+    "iso:country":"US",
+    "sg:address":"2035 Uhu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 0473",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eHajW9fkAAapSWDDevITM_21.335873_-157.873370@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202459,
+    "wof:geomhash":"c519f82ce38377a8cd4518b57f019628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857525439
+        }
+    ],
+    "wof:id":857525439,
+    "wof:lastmodified":1464202459,
+    "wof:name":"ABC Intl Travel Svc",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -157.87337,
+    21.335873,
+    -157.87337,
+    21.335873
+],
+  "geometry": {"coordinates":[-157.87336999999999,21.335873],"type":"Point"}
+}

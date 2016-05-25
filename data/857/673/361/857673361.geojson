@@ -1,0 +1,73 @@
+{
+  "id": 857673361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954917,21.415598,-157.954917,21.415598",
+    "geom:latitude":21.415598,
+    "geom:longitude":-157.954917,
+    "iso:country":"US",
+    "sg:address":"2385 Waimano Home Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 1400",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58FBLHhujUkVQpRImZUfxS_21.415598_-157.954917@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206465,
+    "wof:geomhash":"ce40794324302d93789723ed48d052b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857673361
+        }
+    ],
+    "wof:id":857673361,
+    "wof:lastmodified":1464206465,
+    "wof:name":"Special Education Ctr-Hawaii",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -157.954917,
+    21.415598,
+    -157.954917,
+    21.415598
+],
+  "geometry": {"coordinates":[-157.95491699999999,21.415598],"type":"Point"}
+}

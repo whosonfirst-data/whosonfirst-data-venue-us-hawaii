@@ -1,0 +1,82 @@
+{
+  "id": 857639683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877701,21.325253,-157.877701,21.325253",
+    "geom:latitude":21.325253,
+    "geom:longitude":-157.877701,
+    "iso:country":"US",
+    "sg:address":"1427 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 6838",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tape",
+        "video",
+        "disc",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n6fFLhzgZekY3iJJIn3HX_21.325253_-157.877701@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205007,
+    "wof:geomhash":"b3ce3f26dc26a823ae622b9c288092f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857639683
+        }
+    ],
+    "wof:id":857639683,
+    "wof:lastmodified":1464205007,
+    "wof:name":"Sampaguita Video",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape",
+        "video",
+        "disc",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.877701,
+    21.325253,
+    -157.877701,
+    21.325253
+],
+  "geometry": {"coordinates":[-157.877701,21.325253],"type":"Point"}
+}

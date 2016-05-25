@@ -1,0 +1,66 @@
+{
+  "id": 857640425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801407,21.416595,-157.801407,21.416595",
+    "geom:latitude":21.416595,
+    "geom:longitude":-157.801407,
+    "iso:country":"US",
+    "sg:address":"1144 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5113",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kaeidV9zBTmppmNYm5MZ9_21.416595_-157.801407@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205037,
+    "wof:geomhash":"94b4c77f729cd2bf30f4b07f9c8dc437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857640425
+        }
+    ],
+    "wof:id":857640425,
+    "wof:lastmodified":1464205037,
+    "wof:name":"Guthrie Family Chiropractic",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.801407,
+    21.416595,
+    -157.801407,
+    21.416595
+],
+  "geometry": {"coordinates":[-157.80140700000001,21.416595],"type":"Point"}
+}

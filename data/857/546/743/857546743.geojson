@@ -1,0 +1,73 @@
+{
+  "id": 857546743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860587,21.298106,-157.860587,21.298106",
+    "geom:latitude":21.298106,
+    "geom:longitude":-157.860587,
+    "iso:country":"US",
+    "sg:address":"661 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 0264",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eWkm7shjWbM04hTIA8P0R_21.298106_-157.860587@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202870,
+    "wof:geomhash":"7af64eadb315519eba72995f19cf7532",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857546743
+        }
+    ],
+    "wof:id":857546743,
+    "wof:lastmodified":1464202870,
+    "wof:name":"Dream To Dance",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.860587,
+    21.298106,
+    -157.860587,
+    21.298106
+],
+  "geometry": {"coordinates":[-157.86058700000001,21.298106],"type":"Point"}
+}

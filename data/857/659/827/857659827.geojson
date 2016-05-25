@@ -1,0 +1,66 @@
+{
+  "id": 857659827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800414,21.293961,-157.800414,21.293961",
+    "geom:latitude":21.293961,
+    "geom:longitude":-157.800414,
+    "iso:country":"US",
+    "sg:address":"1720 Palolo Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 0133",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B21YX6MTsacddLmgT1eFT_21.293961_-157.800414@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205897,
+    "wof:geomhash":"703a4cd4f4253c2f0de9cc0bd888c998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857659827
+        }
+    ],
+    "wof:id":857659827,
+    "wof:lastmodified":1464205897,
+    "wof:name":"Rainbow Market",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.800414,
+    21.293961,
+    -157.800414,
+    21.293961
+],
+  "geometry": {"coordinates":[-157.80041399999999,21.293961],"type":"Point"}
+}

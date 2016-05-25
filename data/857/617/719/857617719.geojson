@@ -1,0 +1,73 @@
+{
+  "id": 857617719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.175588,21.417696,-158.175588,21.417696",
+    "geom:latitude":21.417696,
+    "geom:longitude":-158.175588,
+    "iso:country":"US",
+    "sg:address":"128 Palakamana St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 4522",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FJyf3SAFt7eQOYbLAHBCW_21.417696_-158.175588@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204371,
+    "wof:geomhash":"58e34a84d4785bb33ce1ab36365d5cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857617719
+        }
+    ],
+    "wof:id":857617719,
+    "wof:lastmodified":1464204371,
+    "wof:name":"Ko's Party Rentals",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -158.175588,
+    21.417696,
+    -158.175588,
+    21.417696
+],
+  "geometry": {"coordinates":[-158.175588,21.417696],"type":"Point"}
+}

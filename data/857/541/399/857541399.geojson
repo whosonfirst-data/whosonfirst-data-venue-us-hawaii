@@ -1,0 +1,71 @@
+{
+  "id": 857541399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.363863,21.990869,-159.363863,21.990869",
+    "geom:latitude":21.990869,
+    "geom:longitude":-159.363863,
+    "iso:country":"US",
+    "sg:address":"4453 Kapaia Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 2400",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "charitable",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jtEalGWy07G0RJZeqdFxz_21.990869_-159.363863@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202764,
+    "wof:geomhash":"6f63af77ee206ee8cdce9b2503160343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857541399
+        }
+    ],
+    "wof:id":857541399,
+    "wof:lastmodified":1464202764,
+    "wof:name":"Catholic Charities Community",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "institution"
+    ]
+},
+  "bbox": [
+    -159.363863,
+    21.990869,
+    -159.363863,
+    21.990869
+],
+  "geometry": {"coordinates":[-159.36386300000001,21.990869],"type":"Point"}
+}

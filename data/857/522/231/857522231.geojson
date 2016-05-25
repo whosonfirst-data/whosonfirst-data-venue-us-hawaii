@@ -1,0 +1,71 @@
+{
+  "id": 857522231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.488474,20.889778,-156.488474,20.889778",
+    "geom:latitude":20.889778,
+    "geom:longitude":-156.488474,
+    "iso:country":"US",
+    "sg:address":"221 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 2228",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D8pXQdhU0dq66bSMIZdIa_20.889778_-156.488474@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202394,
+    "wof:geomhash":"180c499856783c15b2a27f831dcbf1c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857522231
+        }
+    ],
+    "wof:id":857522231,
+    "wof:lastmodified":1464202394,
+    "wof:name":"Pulmonary Lab",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.488474,
+    20.889778,
+    -156.488474,
+    20.889778
+],
+  "geometry": {"coordinates":[-156.488474,20.889778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857636725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.718055,21.29053,-157.718055,21.29053",
+    "geom:latitude":21.29053,
+    "geom:longitude":-157.718055,
+    "iso:country":"US",
+    "sg:address":"375 Kawaihae St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 371 3601",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dBO2ZWrgEMdUmEyryJvHY_21.290530_-157.718055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204895,
+    "wof:geomhash":"f0df8eaf9d84e3b133b54fedbff54ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857636725
+        }
+    ],
+    "wof:id":857636725,
+    "wof:lastmodified":1464204895,
+    "wof:name":"Home Funds Direct",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.718055,
+    21.29053,
+    -157.718055,
+    21.29053
+],
+  "geometry": {"coordinates":[-157.71805499999999,21.29053],"type":"Point"}
+}

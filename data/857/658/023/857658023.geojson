@@ -1,0 +1,77 @@
+{
+  "id": 857658023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896895,21.339192,-157.896895,21.339192",
+    "geom:latitude":21.339192,
+    "geom:longitude":-157.896895,
+    "iso:country":"US",
+    "sg:address":"709 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 1693",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ScnwHbocYwc4u2wubRjTo_21.339192_-157.896895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205817,
+    "wof:geomhash":"93b97aaedd293ab015a41cebeb3d2e92",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857658023
+        }
+    ],
+    "wof:id":857658023,
+    "wof:lastmodified":1464205817,
+    "wof:name":"C K Auto Body Shop",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.896895,
+    21.339192,
+    -157.896895,
+    21.339192
+],
+  "geometry": {"coordinates":[-157.896895,21.339192],"type":"Point"}
+}

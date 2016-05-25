@@ -1,0 +1,71 @@
+{
+  "id": 857642981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003231,21.381011,-158.003231,21.381011",
+    "geom:latitude":21.381011,
+    "geom:longitude":-158.003231,
+    "iso:country":"US",
+    "sg:address":"819 Awanei St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1354",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZzyHkFn6P5YgB3T1YOHWL_21.381011_-158.003231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205139,
+    "wof:geomhash":"154b2925d0ef37b3115ea566f15ad021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857642981
+        }
+    ],
+    "wof:id":857642981,
+    "wof:lastmodified":1464205139,
+    "wof:name":"GISC Heavy Equipment Corp",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.003231,
+    21.381011,
+    -158.003231,
+    21.381011
+],
+  "geometry": {"coordinates":[-158.003231,21.381011],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857638219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.067201,19.703385,-155.067201,19.703385",
+    "geom:latitude":19.703385,
+    "geom:longitude":-155.067201,
+    "iso:country":"US",
+    "sg:address":"70 Pookela St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 6988",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "transmission",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62qoyhLqa0rpAr2lT9yKOD_19.703385_-155.067201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204948,
+    "wof:geomhash":"a89ef5b92d912937156340452a3024b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857638219
+        }
+    ],
+    "wof:id":857638219,
+    "wof:lastmodified":1464204948,
+    "wof:name":"Antonio's Auto Repair",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "transmission",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -155.067201,
+    19.703385,
+    -155.067201,
+    19.703385
+],
+  "geometry": {"coordinates":[-155.06720100000001,19.703385],"type":"Point"}
+}

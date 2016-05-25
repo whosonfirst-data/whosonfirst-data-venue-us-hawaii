@@ -1,0 +1,73 @@
+{
+  "id": 857674307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888628,21.334241,-157.888628,21.334241",
+    "geom:latitude":21.334241,
+    "geom:longitude":-157.888628,
+    "iso:country":"US",
+    "sg:address":"611 Middle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 4500",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JODnzq6MZKzxpXlfZUe52_21.334241_-157.888628@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206498,
+    "wof:geomhash":"79cf8bc77084aefb8eddc96a487b4c55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857674307
+        }
+    ],
+    "wof:id":857674307,
+    "wof:lastmodified":1464206498,
+    "wof:name":"Stoneridge Recoveries LLC",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -157.888628,
+    21.334241,
+    -157.888628,
+    21.334241
+],
+  "geometry": {"coordinates":[-157.88862800000001,21.334241],"type":"Point"}
+}

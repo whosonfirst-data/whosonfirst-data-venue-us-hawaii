@@ -1,0 +1,73 @@
+{
+  "id": 857663675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886635,21.325593,-157.886635,21.325593",
+    "geom:latitude":21.325593,
+    "geom:longitude":-157.886635,
+    "iso:country":"US",
+    "sg:address":"1911 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2975",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ewdDeYtFFStRpESazSvZY_21.325593_-157.886635@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206073,
+    "wof:geomhash":"27942178d4a9ab47029a16bac5514328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857663675
+        }
+    ],
+    "wof:id":857663675,
+    "wof:lastmodified":1464206073,
+    "wof:name":"Salcedo Roofing Co",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.886635,
+    21.325593,
+    -157.886635,
+    21.325593
+],
+  "geometry": {"coordinates":[-157.88663500000001,21.325593],"type":"Point"}
+}

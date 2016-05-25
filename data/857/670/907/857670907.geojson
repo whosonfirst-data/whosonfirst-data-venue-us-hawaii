@@ -1,0 +1,75 @@
+{
+  "id": 857670907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.332404,20.834624,-156.332404,20.834624",
+    "geom:latitude":20.834624,
+    "geom:longitude":-156.332404,
+    "iso:country":"US",
+    "sg:address":"134 Makawao Ave",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 9160",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "county",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r4hEE5q8e2Ru71lHCjeQa_20.834624_-156.332404@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206372,
+    "wof:geomhash":"fc1c1c73f60b1d8f179dcc67e78a27d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857670907
+        }
+    ],
+    "wof:id":857670907,
+    "wof:lastmodified":1464206372,
+    "wof:name":"Makawao Fire Dept",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "protection"
+    ]
+},
+  "bbox": [
+    -156.332404,
+    20.834624,
+    -156.332404,
+    20.834624
+],
+  "geometry": {"coordinates":[-156.332404,20.834624],"type":"Point"}
+}

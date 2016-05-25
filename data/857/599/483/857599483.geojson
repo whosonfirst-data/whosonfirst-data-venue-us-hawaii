@@ -1,0 +1,71 @@
+{
+  "id": 857599483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.920966,21.351533,-157.920966,21.351533",
+    "geom:latitude":21.351533,
+    "geom:longitude":-157.920966,
+    "iso:country":"US",
+    "sg:address":"4612 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 4338",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fu5Fshq8Z6vldQf5C22Mt_21.351533_-157.920966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203972,
+    "wof:geomhash":"07b7e6fdd42a32c61ac7d36dd6a17229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857599483
+        }
+    ],
+    "wof:id":857599483,
+    "wof:lastmodified":1464203972,
+    "wof:name":"Miura & Associates Inc",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.920966,
+    21.351533,
+    -157.920966,
+    21.351533
+],
+  "geometry": {"coordinates":[-157.92096599999999,21.351533],"type":"Point"}
+}

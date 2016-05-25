@@ -1,0 +1,73 @@
+{
+  "id": 857662617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854562,21.316781,-157.854562,21.316781",
+    "geom:latitude":21.316781,
+    "geom:longitude":-157.854562,
+    "iso:country":"US",
+    "sg:address":"57 Hialoa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 1124",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PqQB399Nn2T00OEF7UzZ5_21.316781_-157.854562@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206033,
+    "wof:geomhash":"76d6946a797f610bba2e30dbd5a77808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857662617
+        }
+    ],
+    "wof:id":857662617,
+    "wof:lastmodified":1464206033,
+    "wof:name":"Hawaii Marine Sales & Svc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -157.854562,
+    21.316781,
+    -157.854562,
+    21.316781
+],
+  "geometry": {"coordinates":[-157.85456199999999,21.316781],"type":"Point"}
+}

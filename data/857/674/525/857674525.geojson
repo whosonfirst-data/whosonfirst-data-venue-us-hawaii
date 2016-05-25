@@ -1,0 +1,80 @@
+{
+  "id": 857674525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.454068,20.775353,-156.454068,20.775353",
+    "geom:latitude":20.775353,
+    "geom:longitude":-156.454068,
+    "iso:country":"US",
+    "sg:address":"316 Ohukai Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 6785",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "ice",
+        "merchandise",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CPvwzCe8dantxJEonJ5jN_20.775353_-156.454068@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206506,
+    "wof:geomhash":"bc028fd6434cd6b8ac105d4b0a3c48c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857674525
+        }
+    ],
+    "wof:id":857674525,
+    "wof:lastmodified":1464206506,
+    "wof:name":"Kihei Ice Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice",
+        "merchandise",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.454068,
+    20.775353,
+    -156.454068,
+    20.775353
+],
+  "geometry": {"coordinates":[-156.45406800000001,20.775353],"type":"Point"}
+}

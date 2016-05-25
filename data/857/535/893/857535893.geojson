@@ -1,0 +1,71 @@
+{
+  "id": 857535893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826365,21.295376,-157.826365,21.295376",
+    "geom:latitude":21.295376,
+    "geom:longitude":-157.826365,
+    "iso:country":"US",
+    "sg:address":"2203 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 5985",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWYsoBuecGCfRLI0Q4Bay_21.295376_-157.826365@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202661,
+    "wof:geomhash":"0fee2222c113b2a0ba3828cdcd340d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857535893
+        }
+    ],
+    "wof:id":857535893,
+    "wof:lastmodified":1464202661,
+    "wof:name":"AC PC Computers",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.826365,
+    21.295376,
+    -157.826365,
+    21.295376
+],
+  "geometry": {"coordinates":[-157.82636500000001,21.295376],"type":"Point"}
+}

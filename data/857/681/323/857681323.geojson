@@ -1,0 +1,74 @@
+{
+  "id": 857681323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855875,21.294715,-157.855875,21.294715",
+    "geom:latitude":21.294715,
+    "geom:longitude":-157.855875,
+    "iso:country":"US",
+    "sg:address":"1050 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/109793-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 4450",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pkZ8CD2KP2N5j2n7qJ7gi_21.294715_-157.855875@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206779,
+    "wof:geomhash":"7e172c2d87691a6008e9da8187d503c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681323
+        }
+    ],
+    "wof:id":857681323,
+    "wof:lastmodified":1464206779,
+    "wof:name":"Subway",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.855875,
+    21.294715,
+    -157.855875,
+    21.294715
+],
+  "geometry": {"coordinates":[-157.855875,21.294715],"type":"Point"}
+}

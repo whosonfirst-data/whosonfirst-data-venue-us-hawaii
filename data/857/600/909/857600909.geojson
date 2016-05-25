@@ -1,0 +1,73 @@
+{
+  "id": 857600909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830327,21.294874,-157.830327,21.294874",
+    "geom:latitude":21.294874,
+    "geom:longitude":-157.830327,
+    "iso:country":"US",
+    "sg:address":"1917 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6431",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cEfAYGyiJqqfkw9w6RWEm_21.294874_-157.830327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204006,
+    "wof:geomhash":"2c266d531c99c51bdcce85597d43ee1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857600909
+        }
+    ],
+    "wof:id":857600909,
+    "wof:lastmodified":1464204006,
+    "wof:name":"Kamaaina Maintenance",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.830327,
+    21.294874,
+    -157.830327,
+    21.294874
+],
+  "geometry": {"coordinates":[-157.83032700000001,21.294874],"type":"Point"}
+}

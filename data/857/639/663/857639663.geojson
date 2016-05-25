@@ -1,0 +1,66 @@
+{
+  "id": 857639663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840334,21.288439,-157.840334,21.288439",
+    "geom:latitude":21.288439,
+    "geom:longitude":-157.840334,
+    "iso:country":"US",
+    "sg:address":"1540 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 0553",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YUVYDHJWEI5LBJTXzyqix_21.288439_-157.840334@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205007,
+    "wof:geomhash":"a1e3baed7436480f7ac3d74c554d43aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857639663
+        }
+    ],
+    "wof:id":857639663,
+    "wof:lastmodified":1464205007,
+    "wof:name":"Wet Seal Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.840334,
+    21.288439,
+    -157.840334,
+    21.288439
+],
+  "geometry": {"coordinates":[-157.84033400000001,21.288439],"type":"Point"}
+}

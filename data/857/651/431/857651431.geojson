@@ -1,0 +1,73 @@
+{
+  "id": 857651431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.730498,21.384846,-157.730498,21.384846",
+    "geom:latitude":21.384846,
+    "geom:longitude":-157.730498,
+    "iso:country":"US",
+    "sg:address":"547 Palawiki St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 2296",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agricultural",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ly2FNfhUGD85eHmOvntdH_21.384846_-157.730498@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205519,
+    "wof:geomhash":"45ce91f1f79a08164fadfdf18512bebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857651431
+        }
+    ],
+    "wof:id":857651431,
+    "wof:lastmodified":1464205519,
+    "wof:name":"Dow Agrosciences LLC",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.730498,
+    21.384846,
+    -157.730498,
+    21.384846
+],
+  "geometry": {"coordinates":[-157.73049800000001,21.384846],"type":"Point"}
+}

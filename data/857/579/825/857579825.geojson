@@ -1,0 +1,78 @@
+{
+  "id": 857579825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873085,21.326846,-157.873085,21.326846",
+    "geom:latitude":21.326846,
+    "geom:longitude":-157.873085,
+    "iso:country":"US",
+    "sg:address":"727 Waiakamilo Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 1717",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "material",
+        "flooring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NHB1R7IoiXBoFXy4JPqMG_21.326846_-157.873085@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203549,
+    "wof:geomhash":"95ab0249e6ce7f729870a61093b9e259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857579825
+        }
+    ],
+    "wof:id":857579825,
+    "wof:lastmodified":1464203549,
+    "wof:name":"Maru Flooring Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "flooring"
+    ]
+},
+  "bbox": [
+    -157.873085,
+    21.326846,
+    -157.873085,
+    21.326846
+],
+  "geometry": {"coordinates":[-157.873085,21.326846],"type":"Point"}
+}

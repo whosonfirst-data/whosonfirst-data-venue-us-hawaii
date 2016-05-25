@@ -1,0 +1,71 @@
+{
+  "id": 857533679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857189,21.296647,-157.857189,21.296647",
+    "geom:latitude":21.296647,
+    "geom:longitude":-157.857189,
+    "iso:country":"US",
+    "sg:address":"841 Pohukaina St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 1771",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wl0zEV0zel0eYPeUMrjpz_21.296647_-157.857189@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202615,
+    "wof:geomhash":"f20c695b29dd8ffeb0343a476f80c235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857533679
+        }
+    ],
+    "wof:id":857533679,
+    "wof:lastmodified":1464202615,
+    "wof:name":"Lions Cleaning & Maintenane",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.857189,
+    21.296647,
+    -157.857189,
+    21.296647
+],
+  "geometry": {"coordinates":[-157.85718900000001,21.296647],"type":"Point"}
+}

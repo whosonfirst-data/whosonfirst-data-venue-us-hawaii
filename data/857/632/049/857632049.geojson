@@ -1,0 +1,71 @@
+{
+  "id": 857632049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880158,21.327331,-157.880158,21.327331",
+    "geom:latitude":21.327331,
+    "geom:longitude":-157.880158,
+    "iso:country":"US",
+    "sg:address":"1825 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4798",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VQnTGYjuZgNLMT329N4Za_21.327331_-157.880158@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204715,
+    "wof:geomhash":"251f06b86dc528242e3f88f27930859c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857632049
+        }
+    ],
+    "wof:id":857632049,
+    "wof:lastmodified":1464204715,
+    "wof:name":"Salon De Manila",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.880158,
+    21.327331,
+    -157.880158,
+    21.327331
+],
+  "geometry": {"coordinates":[-157.88015799999999,21.327331],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857598679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028469,21.358206,-158.028469,21.358206",
+    "geom:latitude":21.358206,
+    "geom:longitude":-158.028469,
+    "iso:country":"US",
+    "sg:address":"1105 Makaaloa St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 5681",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5603OgB5vOg5moHVtqaHI0_21.358206_-158.028469@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203955,
+    "wof:geomhash":"7e9311ad0049c6fa38c2a9583a09e4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857598679
+        }
+    ],
+    "wof:id":857598679,
+    "wof:lastmodified":1464203955,
+    "wof:name":"Eldredge Athletics Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -158.028469,
+    21.358206,
+    -158.028469,
+    21.358206
+],
+  "geometry": {"coordinates":[-158.028469,21.358206],"type":"Point"}
+}

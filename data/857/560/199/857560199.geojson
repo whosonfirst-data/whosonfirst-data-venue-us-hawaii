@@ -1,0 +1,71 @@
+{
+  "id": 857560199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858403,21.312762,-157.858403,21.312762",
+    "geom:latitude":21.312762,
+    "geom:longitude":-157.858403,
+    "iso:country":"US",
+    "sg:address":"55 S Kukui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 2950",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "personal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KuBfdENiynWs5SH1g8mos_21.312762_-157.858403@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203156,
+    "wof:geomhash":"7b7251ba3c500d681a6e9940b0a51d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857560199
+        }
+    ],
+    "wof:id":857560199,
+    "wof:lastmodified":1464203156,
+    "wof:name":"Tay W Perry Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal"
+    ]
+},
+  "bbox": [
+    -157.858403,
+    21.312762,
+    -157.858403,
+    21.312762
+],
+  "geometry": {"coordinates":[-157.85840300000001,21.312762],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857654179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854453,21.323631,-157.854453,21.323631",
+    "geom:latitude":21.323631,
+    "geom:longitude":-157.854453,
+    "iso:country":"US",
+    "sg:address":"1809 Bachelot St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 0555",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contract",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cn62pje9H9N1AO1ZErKj2_21.323631_-157.854453@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205643,
+    "wof:geomhash":"1cd1e714eb7589f16e6ada3ff84ff6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857654179
+        }
+    ],
+    "wof:id":857654179,
+    "wof:lastmodified":1464205643,
+    "wof:name":"Lanakila Crafts",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contract",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -157.854453,
+    21.323631,
+    -157.854453,
+    21.323631
+],
+  "geometry": {"coordinates":[-157.85445300000001,21.323631],"type":"Point"}
+}

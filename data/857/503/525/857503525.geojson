@@ -1,0 +1,71 @@
+{
+  "id": 857503525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857952,21.312334,-157.857952,21.312334",
+    "geom:latitude":21.312334,
+    "geom:longitude":-157.857952,
+    "iso:country":"US",
+    "sg:address":"20 S Kukui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 6207",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vNDo806fl73A3s9eEMqlQ_21.312334_-157.857952@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201995,
+    "wof:geomhash":"1953ae5dfc910b416aa96f07d0e3ee7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857503525
+        }
+    ],
+    "wof:id":857503525,
+    "wof:lastmodified":1464201995,
+    "wof:name":"Mililani Downtown Mortuary",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -157.857952,
+    21.312334,
+    -157.857952,
+    21.312334
+],
+  "geometry": {"coordinates":[-157.85795200000001,21.312334],"type":"Point"}
+}

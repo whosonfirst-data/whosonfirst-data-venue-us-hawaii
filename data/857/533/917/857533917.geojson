@@ -1,0 +1,73 @@
+{
+  "id": 857533917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.457975,20.883873,-156.457975,20.883873",
+    "geom:latitude":20.883873,
+    "geom:longitude":-156.457975,
+    "iso:country":"US",
+    "sg:address":"261 Lalo St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0650",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4waDmCvYV0ISiBt926okJx_20.883873_-156.457975@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202620,
+    "wof:geomhash":"2b9ef95b303e17fc4bd2913f492812c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857533917
+        }
+    ],
+    "wof:id":857533917,
+    "wof:lastmodified":1464202620,
+    "wof:name":"Latitudes",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -156.457975,
+    20.883873,
+    -156.457975,
+    20.883873
+],
+  "geometry": {"coordinates":[-156.457975,20.883873],"type":"Point"}
+}

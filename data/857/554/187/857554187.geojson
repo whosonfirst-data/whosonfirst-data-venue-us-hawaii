@@ -1,0 +1,71 @@
+{
+  "id": 857554187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828161,21.294256,-157.828161,21.294256",
+    "geom:latitude":21.294256,
+    "geom:longitude":-157.828161,
+    "iso:country":"US",
+    "sg:address":"2062 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4655",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ifw04V7dCCzHrJ79n1DVS_21.294256_-157.828161@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203012,
+    "wof:geomhash":"29f49433d3028128f6b70b4ec8a8668a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857554187
+        }
+    ],
+    "wof:id":857554187,
+    "wof:lastmodified":1464203012,
+    "wof:name":"Saint Marys Episcopal Church",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.828161,
+    21.294256,
+    -157.828161,
+    21.294256
+],
+  "geometry": {"coordinates":[-157.82816099999999,21.294256],"type":"Point"}
+}

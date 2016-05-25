@@ -1,0 +1,71 @@
+{
+  "id": 857532403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84663,21.294173,-157.84663,21.294173",
+    "geom:latitude":21.294173,
+    "geom:longitude":-157.84663,
+    "iso:country":"US",
+    "sg:address":"506 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8253",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14y4gGtltLXEzyDlseEnR0_21.294173_-157.846630@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202592,
+    "wof:geomhash":"a6b37a49c39ed0b608466a24a70e192c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857532403
+        }
+    ],
+    "wof:id":857532403,
+    "wof:lastmodified":1464202592,
+    "wof:name":"Brenda's Hair Salon",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.84663,
+    21.294173,
+    -157.84663,
+    21.294173
+],
+  "geometry": {"coordinates":[-157.84663,21.294173],"type":"Point"}
+}

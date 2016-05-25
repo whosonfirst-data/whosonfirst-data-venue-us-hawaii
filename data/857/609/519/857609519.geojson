@@ -1,0 +1,71 @@
+{
+  "id": 857609519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880393,21.330266,-157.880393,21.330266",
+    "geom:latitude":21.330266,
+    "geom:longitude":-157.880393,
+    "iso:country":"US",
+    "sg:address":"2011 Ahuula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0618",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13mFoPbLfxKN1VfqIyvZTW_21.330266_-157.880393@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204197,
+    "wof:geomhash":"6250dde25d26cd989eb02101f25d0844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857609519
+        }
+    ],
+    "wof:id":857609519,
+    "wof:lastmodified":1464204197,
+    "wof:name":"Ben T Gudoy",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.880393,
+    21.330266,
+    -157.880393,
+    21.330266
+],
+  "geometry": {"coordinates":[-157.880393,21.330266],"type":"Point"}
+}

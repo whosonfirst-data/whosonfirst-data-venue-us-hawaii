@@ -1,0 +1,69 @@
+{
+  "id": 857540755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028985,21.386757,-158.028985,21.386757",
+    "geom:latitude":21.386757,
+    "geom:longitude":-158.028985,
+    "iso:country":"US",
+    "sg:address":"197 Kaima Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4744",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eib6dUPBZLxxbU2Xp9oyD_21.386757_-158.028985@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202749,
+    "wof:geomhash":"b9e167ce3c03da31bcf1c111ea7c9164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857540755
+        }
+    ],
+    "wof:id":857540755,
+    "wof:lastmodified":1464202749,
+    "wof:name":"John M Yin Maintenance",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.028985,
+    21.386757,
+    -158.028985,
+    21.386757
+],
+  "geometry": {"coordinates":[-158.02898500000001,21.386757],"type":"Point"}
+}

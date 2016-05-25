@@ -1,0 +1,73 @@
+{
+  "id": 857625547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910296,21.347839,-157.910296,21.347839",
+    "geom:latitude":21.347839,
+    "geom:longitude":-157.910296,
+    "iso:country":"US",
+    "sg:address":"5095 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 722 9323",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RDHzrIFWNIcjeChJL9v2k_21.347839_-157.910296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204573,
+    "wof:geomhash":"8805f3546b540fc64bd891ad0602d676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857625547
+        }
+    ],
+    "wof:id":857625547,
+    "wof:lastmodified":1464204573,
+    "wof:name":"Sgm Maintenance/Cleaning Svcs",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.910296,
+    21.347839,
+    -157.910296,
+    21.347839
+],
+  "geometry": {"coordinates":[-157.91029599999999,21.347839],"type":"Point"}
+}

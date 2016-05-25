@@ -1,0 +1,68 @@
+{
+  "id": 857592043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.909379,21.321609,-157.909379,21.321609",
+    "geom:latitude":21.321609,
+    "geom:longitude":-157.909379,
+    "iso:country":"US",
+    "sg:address":"100 Kaulele Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 8018",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ms7V2FiEr614X6ArjRZTP_21.321609_-157.909379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203806,
+    "wof:geomhash":"d805dfaad16aee354ba35f0eac443683",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857592043
+        }
+    ],
+    "wof:id":857592043,
+    "wof:lastmodified":1464203806,
+    "wof:name":"Dauphin Aero",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.909379,
+    21.321609,
+    -157.909379,
+    21.321609
+],
+  "geometry": {"coordinates":[-157.909379,21.321609],"type":"Point"}
+}

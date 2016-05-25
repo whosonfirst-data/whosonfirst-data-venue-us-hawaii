@@ -1,0 +1,85 @@
+{
+  "id": 857639983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.936101,21.341968,-157.936101,21.341968",
+    "geom:latitude":21.341968,
+    "geom:longitude":-157.936101,
+    "iso:country":"US",
+    "sg:address":"511 Main St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1572",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OflfYDwSmUFlXkOENVMX2_21.341968_-157.936101@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205018,
+    "wof:geomhash":"a20efd48c88cf6a9f21fafe7891dc026",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857639983
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857639983
+        }
+    ],
+    "wof:id":857639983,
+    "wof:lastmodified":1464205018,
+    "wof:name":"Project Respect",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.936101,
+    21.341968,
+    -157.936101,
+    21.341968
+],
+  "geometry": {"coordinates":[-157.93610100000001,21.341968],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857548401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788918,21.305036,-157.788918,21.305036",
+    "geom:latitude":21.305036,
+    "geom:longitude":-157.788918,
+    "iso:country":"US",
+    "sg:address":"2450 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 3918",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hPMBd5SZ9UySpWsAwqfZs_21.305036_-157.788918@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202901,
+    "wof:geomhash":"e4360b694ef659d0412689ea86828c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890275,
+            "region_id":85688671,
+            "venue_id":857548401
+        }
+    ],
+    "wof:id":857548401,
+    "wof:lastmodified":1464202901,
+    "wof:name":"Contemporary Tile Works",
+    "wof:parent_id":85890275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "installation"
+    ]
+},
+  "bbox": [
+    -157.788918,
+    21.305036,
+    -157.788918,
+    21.305036
+],
+  "geometry": {"coordinates":[-157.788918,21.305036],"type":"Point"}
+}

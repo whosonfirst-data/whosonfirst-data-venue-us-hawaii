@@ -1,0 +1,71 @@
+{
+  "id": 857632565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506013,20.887904,-156.506013,20.887904",
+    "geom:latitude":20.887904,
+    "geom:longitude":-156.506013,
+    "iso:country":"US",
+    "sg:address":"251 Napua St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 1608",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ICmWupnxEIN4EQlptzkSr_20.887904_-156.506013@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204735,
+    "wof:geomhash":"9dae441b65b262311ab5affd22e78f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857632565
+        }
+    ],
+    "wof:id":857632565,
+    "wof:lastmodified":1464204735,
+    "wof:name":"Good Beginnings Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -156.506013,
+    20.887904,
+    -156.506013,
+    20.887904
+],
+  "geometry": {"coordinates":[-156.506013,20.887904],"type":"Point"}
+}

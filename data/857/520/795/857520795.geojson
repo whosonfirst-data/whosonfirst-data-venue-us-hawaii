@@ -1,0 +1,80 @@
+{
+  "id": 857520795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83461,21.296558,-157.83461,21.296558",
+    "geom:latitude":21.296558,
+    "geom:longitude":-157.83461,
+    "iso:country":"US",
+    "sg:address":"1610 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 5059",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "repair",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_319uxuYwgUjCTCqQjzXib9_21.296558_-157.834610@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202368,
+    "wof:geomhash":"527ec4d041b2bb475f5c454ea11dfd2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857520795
+        }
+    ],
+    "wof:id":857520795,
+    "wof:lastmodified":1464202368,
+    "wof:name":"Pacific Business Machines Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "repair",
+        "business"
+    ]
+},
+  "bbox": [
+    -157.83461,
+    21.296558,
+    -157.83461,
+    21.296558
+],
+  "geometry": {"coordinates":[-157.83461,21.296558],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857510967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.763084,21.293818,-157.763084,21.293818",
+    "geom:latitude":21.293818,
+    "geom:longitude":-157.763084,
+    "iso:country":"US",
+    "sg:address":"2263 Nuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 9799",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36RwTaPQNYXGuNwwRxaaXJ_21.293818_-157.763084@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202167,
+    "wof:geomhash":"eca9d022cfbf629d68b60a09bc9f7b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857510967
+        }
+    ],
+    "wof:id":857510967,
+    "wof:lastmodified":1464202167,
+    "wof:name":"Jaimes Martin Inc",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.763084,
+    21.293818,
+    -157.763084,
+    21.293818
+],
+  "geometry": {"coordinates":[-157.76308399999999,21.293818],"type":"Point"}
+}

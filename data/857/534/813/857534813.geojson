@@ -1,0 +1,68 @@
+{
+  "id": 857534813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.33186,20.835165,-156.33186,20.835165",
+    "geom:latitude":20.835165,
+    "geom:longitude":-156.33186,
+    "iso:country":"US",
+    "sg:address":"55 Makawao Ave",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 0986",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26E8mGxGzfkdqCO9r3weCK_20.835165_-156.331860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202635,
+    "wof:geomhash":"01a46f4fbc10ee5f11efaf8853715d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857534813
+        }
+    ],
+    "wof:id":857534813,
+    "wof:lastmodified":1464202635,
+    "wof:name":"Ryan Chiropractic Offices",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.33186,
+    20.835165,
+    -156.33186,
+    20.835165
+],
+  "geometry": {"coordinates":[-156.33186000000001,20.835165],"type":"Point"}
+}

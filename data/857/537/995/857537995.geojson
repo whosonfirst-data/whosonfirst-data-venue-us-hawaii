@@ -1,0 +1,90 @@
+{
+  "id": 857537995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.909379,21.321609,-157.909379,21.321609",
+    "geom:latitude":21.321609,
+    "geom:longitude":-157.909379,
+    "iso:country":"US",
+    "sg:address":"100 Kaulele Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5899",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "training",
+        "leasing",
+        "school",
+        "charter",
+        "aircraft",
+        "freight",
+        "aviation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20i8RDisjrRUlG86iuSrOV_21.321609_-157.909379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202698,
+    "wof:geomhash":"d805dfaad16aee354ba35f0eac443683",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857537995
+        }
+    ],
+    "wof:id":857537995,
+    "wof:lastmodified":1464202698,
+    "wof:name":"Anderson Aviation Inc",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "leasing",
+        "school",
+        "charter",
+        "aircraft",
+        "freight",
+        "aviation"
+    ]
+},
+  "bbox": [
+    -157.909379,
+    21.321609,
+    -157.909379,
+    21.321609
+],
+  "geometry": {"coordinates":[-157.909379,21.321609],"type":"Point"}
+}

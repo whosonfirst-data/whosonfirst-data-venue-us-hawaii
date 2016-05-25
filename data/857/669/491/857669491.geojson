@@ -1,0 +1,75 @@
+{
+  "id": 857669491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.507245,20.89572,-156.507245,20.89572",
+    "geom:latitude":20.89572,
+    "geom:longitude":-156.507245,
+    "iso:country":"US",
+    "sg:address":"350 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 7260",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NYW7SVmuF5QS2jsCZNzwS_20.895720_-156.507245@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206320,
+    "wof:geomhash":"feeff0cdd582495ba9bffe92acb4b5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857669491
+        }
+    ],
+    "wof:id":857669491,
+    "wof:lastmodified":1464206320,
+    "wof:name":"Keystone II Auto Body & Paint",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -156.507245,
+    20.89572,
+    -156.507245,
+    20.89572
+],
+  "geometry": {"coordinates":[-156.50724500000001,20.89572],"type":"Point"}
+}

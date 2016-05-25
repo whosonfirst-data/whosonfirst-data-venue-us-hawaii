@@ -1,0 +1,73 @@
+{
+  "id": 857656239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.90221,19.463581,-154.90221,19.463581",
+    "geom:latitude":19.463581,
+    "geom:longitude":-154.90221,
+    "iso:country":"US",
+    "sg:address":"810 Leilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8281",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "dentistry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937415,
+        102085433,
+        85890623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35DYt1tr8TqdF9UqtJy29L_19.463581_-154.902210@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205735,
+    "wof:geomhash":"2be2092d8566eb042e824627dbf95147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937415,
+            "neighbourhood_id":85890623,
+            "region_id":85688671,
+            "venue_id":857656239
+        }
+    ],
+    "wof:id":857656239,
+    "wof:lastmodified":1464205735,
+    "wof:name":"Kenny S Ishihara DDS Inc",
+    "wof:parent_id":85890623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "dentistry"
+    ]
+},
+  "bbox": [
+    -154.90221,
+    19.463581,
+    -154.90221,
+    19.463581
+],
+  "geometry": {"coordinates":[-154.90221,19.463581],"type":"Point"}
+}

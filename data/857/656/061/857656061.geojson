@@ -1,0 +1,79 @@
+{
+  "id": 857656061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872589,21.303332,-157.872589,21.303332",
+    "geom:latitude":21.303332,
+    "geom:longitude":-157.872589,
+    "iso:country":"US",
+    "sg:address":"1051 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7246",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking",
+        "cargo",
+        "container",
+        "rental",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57sBgXSn8R73d3obJ0L22C_21.303332_-157.872589@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205727,
+    "wof:geomhash":"6b234a857ec142111f81aa3a71b36119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857656061
+        }
+    ],
+    "wof:id":857656061,
+    "wof:lastmodified":1464205727,
+    "wof:name":"Honolulu Transfer & Storage",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "cargo",
+        "container",
+        "rental",
+        "local"
+    ]
+},
+  "bbox": [
+    -157.872589,
+    21.303332,
+    -157.872589,
+    21.303332
+],
+  "geometry": {"coordinates":[-157.872589,21.303332],"type":"Point"}
+}

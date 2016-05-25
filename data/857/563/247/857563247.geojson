@@ -1,0 +1,73 @@
+{
+  "id": 857563247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855834,21.298402,-157.855834,21.298402",
+    "geom:latitude":21.298402,
+    "geom:longitude":-157.855834,
+    "iso:country":"US",
+    "sg:address":"754 Ilaniwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8500",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QHR0u2fOAQS23tAUGjqFu_21.298402_-157.855834@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203225,
+    "wof:geomhash":"7c93d9a9f8d0d9b37ba64fbe46bac588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857563247
+        }
+    ],
+    "wof:id":857563247,
+    "wof:lastmodified":1464203225,
+    "wof:name":"Smile Spa",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -157.855834,
+    21.298402,
+    -157.855834,
+    21.298402
+],
+  "geometry": {"coordinates":[-157.85583399999999,21.298402],"type":"Point"}
+}

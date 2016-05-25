@@ -1,0 +1,77 @@
+{
+  "id": 857609943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.961605,21.334119,-157.961605,21.334119",
+    "geom:latitude":21.334119,
+    "geom:longitude":-157.961605,
+    "iso:country":"US",
+    "sg:address":"91 B St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 479 0065",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s6NbxndxOAyvrxdHDJPzr_21.334119_-157.961605@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204205,
+    "wof:geomhash":"44b092bca02733dbe20234be12dcaa45",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857609943
+        }
+    ],
+    "wof:id":857609943,
+    "wof:lastmodified":1464204205,
+    "wof:name":"Superior Mobile Detailing",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -157.961605,
+    21.334119,
+    -157.961605,
+    21.334119
+],
+  "geometry": {"coordinates":[-157.96160499999999,21.334119],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857670721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822872,21.271981,-157.822872,21.271981",
+    "geom:latitude":21.271981,
+    "geom:longitude":-157.822872,
+    "iso:country":"US",
+    "sg:address":"2586 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 8066",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.abcstores.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bn65DTh4G1DNXhAULMkZE_21.271981_-157.822872@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206365,
+    "wof:geomhash":"fe80ccf1a7cc6445a0e30b8c25ee9e36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857670721
+        }
+    ],
+    "wof:id":857670721,
+    "wof:lastmodified":1464206365,
+    "wof:name":"ABC Stores",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.822872,
+    21.271981,
+    -157.822872,
+    21.271981
+],
+  "geometry": {"coordinates":[-157.82287199999999,21.271981],"type":"Point"}
+}

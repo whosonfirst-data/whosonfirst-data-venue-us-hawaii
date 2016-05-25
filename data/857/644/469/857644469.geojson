@@ -1,0 +1,71 @@
+{
+  "id": 857644469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84944,21.303834,-157.84944,21.303834",
+    "geom:latitude":21.303834,
+    "geom:longitude":-157.84944,
+    "iso:country":"US",
+    "sg:address":"801 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 529 3201",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54c42EHrv6nfAZXsLYjX4W_21.303834_-157.849440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205211,
+    "wof:geomhash":"7a9ee725d350091a275da8c1c6432361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857644469
+        }
+    ],
+    "wof:id":857644469,
+    "wof:lastmodified":1464205211,
+    "wof:name":"Honolulu Police-Juvenile Crime",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -157.84944,
+    21.303834,
+    -157.84944,
+    21.303834
+],
+  "geometry": {"coordinates":[-157.84943999999999,21.303834],"type":"Point"}
+}

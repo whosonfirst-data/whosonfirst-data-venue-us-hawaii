@@ -1,0 +1,71 @@
+{
+  "id": 857581285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825463,21.301199,-157.825463,21.301199",
+    "geom:latitude":21.301199,
+    "geom:longitude":-157.825463,
+    "iso:country":"US",
+    "sg:address":"1835 Vancouver Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 2545",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7My9FTIrzMHSUo7g3uu7LE_21.301199_-157.825463@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203576,
+    "wof:geomhash":"1d40acae4903e38711624a5fdb9d90c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857581285
+        }
+    ],
+    "wof:id":857581285,
+    "wof:lastmodified":1464203576,
+    "wof:name":"Susis Cookie Cookie Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.825463,
+    21.301199,
+    -157.825463,
+    21.301199
+],
+  "geometry": {"coordinates":[-157.82546300000001,21.301199],"type":"Point"}
+}

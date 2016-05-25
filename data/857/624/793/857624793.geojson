@@ -1,0 +1,73 @@
+{
+  "id": 857624793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845419,21.301413,-157.845419,21.301413",
+    "geom:latitude":21.301413,
+    "geom:longitude":-157.845419,
+    "iso:country":"US",
+    "sg:address":"1120 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 2527",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TG8DuFZPbcEII1MxjbF7u_21.301413_-157.845419@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204558,
+    "wof:geomhash":"021b92d36cbcfd57c1b7a164a816d80b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857624793
+        }
+    ],
+    "wof:id":857624793,
+    "wof:lastmodified":1464204558,
+    "wof:name":"Holiday Shoe & Luggage Repair",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -157.845419,
+    21.301413,
+    -157.845419,
+    21.301413
+],
+  "geometry": {"coordinates":[-157.84541899999999,21.301413],"type":"Point"}
+}

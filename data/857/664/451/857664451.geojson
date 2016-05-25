@@ -1,0 +1,71 @@
+{
+  "id": 857664451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863264,21.3127,-157.863264,21.3127",
+    "geom:latitude":21.3127,
+    "geom:longitude":-157.863264,
+    "iso:country":"US",
+    "sg:address":"115 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 5521",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sO0PdB90WjyhLrxCk5ZTy_21.312700_-157.863264@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206100,
+    "wof:geomhash":"ee008c2633d8e6795ea2880877821c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857664451
+        }
+    ],
+    "wof:id":857664451,
+    "wof:lastmodified":1464206100,
+    "wof:name":"Hong Fa Market",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.863264,
+    21.3127,
+    -157.863264,
+    21.3127
+],
+  "geometry": {"coordinates":[-157.86326399999999,21.3127],"type":"Point"}
+}

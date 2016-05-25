@@ -1,0 +1,71 @@
+{
+  "id": 857563337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.750571,21.420737,-157.750571,21.420737",
+    "geom:latitude":21.420737,
+    "geom:longitude":-157.750571,
+    "iso:country":"US",
+    "sg:address":"304 Ilimano St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 6014",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gNtyn7BWVSwwEjxdvXddt_21.420737_-157.750571@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203226,
+    "wof:geomhash":"0d0190f10f61f5af50a2f2868a9a9220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857563337
+        }
+    ],
+    "wof:id":857563337,
+    "wof:lastmodified":1464203226,
+    "wof:name":"Launa Construction Inc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.750571,
+    21.420737,
+    -157.750571,
+    21.420737
+],
+  "geometry": {"coordinates":[-157.75057100000001,21.420737],"type":"Point"}
+}

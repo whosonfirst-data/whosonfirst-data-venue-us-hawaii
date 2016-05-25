@@ -1,0 +1,69 @@
+{
+  "id": 857651473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.010665,21.441107,-158.010665,21.441107",
+    "geom:latitude":21.441107,
+    "geom:longitude":-158.010665,
+    "iso:country":"US",
+    "sg:address":"385 Kaholo St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8443",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vLXMgfjCszaCCQBLwSbe5_21.441107_-158.010665@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205520,
+    "wof:geomhash":"3d52bf0cc6b1d3b509ac208aa106e307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857651473
+        }
+    ],
+    "wof:id":857651473,
+    "wof:lastmodified":1464205520,
+    "wof:name":"Kaholo Hale",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -158.010665,
+    21.441107,
+    -158.010665,
+    21.441107
+],
+  "geometry": {"coordinates":[-158.01066499999999,21.441107],"type":"Point"}
+}

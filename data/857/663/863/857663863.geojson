@@ -1,0 +1,81 @@
+{
+  "id": 857663863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.941055,21.34239,-157.941055,21.34239",
+    "geom:latitude":21.34239,
+    "geom:longitude":-157.941055,
+    "iso:country":"US",
+    "sg:address":"250 Aupaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 421 4180",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:website":"www.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0osL1I11C77uQ2SXBG2ukb_21.342390_-157.941055@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206080,
+    "wof:geomhash":"6311f74cc836d84e68ccae700e63af7d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857663863
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857663863
+        }
+    ],
+    "wof:id":857663863,
+    "wof:lastmodified":1464206080,
+    "wof:name":"Mokulele Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.941055,
+    21.34239,
+    -157.941055,
+    21.34239
+],
+  "geometry": {"coordinates":[-157.94105500000001,21.34239],"type":"Point"}
+}

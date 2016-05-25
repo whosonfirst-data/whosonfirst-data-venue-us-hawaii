@@ -1,0 +1,71 @@
+{
+  "id": 857662257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852176,21.324671,-157.852176,21.324671",
+    "geom:latitude":21.324671,
+    "geom:longitude":-157.852176,
+    "iso:country":"US",
+    "sg:address":"45 N Judd St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3481",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jcWngDE4RmmtdVfZjr0Hv_21.324671_-157.852176@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206021,
+    "wof:geomhash":"42346de2c01fbc79186f908a10182e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857662257
+        }
+    ],
+    "wof:id":857662257,
+    "wof:lastmodified":1464206021,
+    "wof:name":"St Luke's Episcopal Church",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.852176,
+    21.324671,
+    -157.852176,
+    21.324671
+],
+  "geometry": {"coordinates":[-157.85217599999999,21.324671],"type":"Point"}
+}

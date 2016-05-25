@@ -1,0 +1,73 @@
+{
+  "id": 857564003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.080485,21.346171,-158.080485,21.346171",
+    "geom:latitude":21.346171,
+    "geom:longitude":-158.080485,
+    "iso:country":"US",
+    "sg:address":"555 Makakilo Dr",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 6525",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UjDHOT5ijuO9PdZKSgSZu_21.346171_-158.080485@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203239,
+    "wof:geomhash":"a47f422957be208ddfe156a4d01c4ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857564003
+        }
+    ],
+    "wof:id":857564003,
+    "wof:lastmodified":1464203239,
+    "wof:name":"Fred Lau-Hawaiian Landscape Co",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.080485,
+    21.346171,
+    -158.080485,
+    21.346171
+],
+  "geometry": {"coordinates":[-158.08048500000001,21.346171],"type":"Point"}
+}

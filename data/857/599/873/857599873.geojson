@@ -1,0 +1,66 @@
+{
+  "id": 857599873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895452,21.357018,-157.895452,21.357018",
+    "geom:latitude":21.357018,
+    "geom:longitude":-157.895452,
+    "iso:country":"US",
+    "sg:address":"2255 Ala Mahamoe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 4144",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3roxu6R7m8VbIIxnIFv9Eb_21.357018_-157.895452@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203981,
+    "wof:geomhash":"dc1bfccd4876559a0468600e552ed345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857599873
+        }
+    ],
+    "wof:id":857599873,
+    "wof:lastmodified":1464203981,
+    "wof:name":"Aloha Meat Co",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.895452,
+    21.357018,
+    -157.895452,
+    21.357018
+],
+  "geometry": {"coordinates":[-157.89545200000001,21.357018],"type":"Point"}
+}

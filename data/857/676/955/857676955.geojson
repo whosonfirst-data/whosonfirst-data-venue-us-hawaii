@@ -1,0 +1,73 @@
+{
+  "id": 857676955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828198,21.281534,-157.828198,21.281534",
+    "geom:latitude":21.281534,
+    "geom:longitude":-157.828198,
+    "iso:country":"US",
+    "sg:address":"409 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 4466",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JupSwgmmobCoGiDgNu6nS_21.281534_-157.828198@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206612,
+    "wof:geomhash":"c97b64c511126e2fc4b149aab0a32afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857676955
+        }
+    ],
+    "wof:id":857676955,
+    "wof:lastmodified":1464206612,
+    "wof:name":"Platinum Limousine Service",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.828198,
+    21.281534,
+    -157.828198,
+    21.281534
+],
+  "geometry": {"coordinates":[-157.82819799999999,21.281534],"type":"Point"}
+}

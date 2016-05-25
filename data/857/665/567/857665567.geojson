@@ -1,0 +1,73 @@
+{
+  "id": 857665567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003559,21.390614,-158.003559,21.390614",
+    "geom:latitude":21.390614,
+    "geom:longitude":-158.003559,
+    "iso:country":"US",
+    "sg:address":"1142 Kahuailani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 3020",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D9R1XHonkEoo3lCGHKyMf_21.390614_-158.003559@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206154,
+    "wof:geomhash":"97c68f9683372a2ef07acea5e041b51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857665567
+        }
+    ],
+    "wof:id":857665567,
+    "wof:lastmodified":1464206154,
+    "wof:name":"Billy's Plumbing",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.003559,
+    21.390614,
+    -158.003559,
+    21.390614
+],
+  "geometry": {"coordinates":[-158.003559,21.390614],"type":"Point"}
+}

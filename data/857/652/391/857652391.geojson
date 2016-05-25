@@ -1,0 +1,75 @@
+{
+  "id": 857652391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018304,21.378004,-158.018304,21.378004",
+    "geom:latitude":21.378004,
+    "geom:longitude":-158.018304,
+    "iso:country":"US",
+    "sg:address":"173 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 5474",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XpElabYU7RhaNf7sWZSg4_21.378004_-158.018304@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205561,
+    "wof:geomhash":"b089353f773f48bd5c24211b6dbd3d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857652391
+        }
+    ],
+    "wof:id":857652391,
+    "wof:lastmodified":1464205561,
+    "wof:name":"Oka's Auto Body",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "body",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.018304,
+    21.378004,
+    -158.018304,
+    21.378004
+],
+  "geometry": {"coordinates":[-158.018304,21.378004],"type":"Point"}
+}

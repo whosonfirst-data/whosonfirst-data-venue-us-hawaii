@@ -1,0 +1,71 @@
+{
+  "id": 857557123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.805112,21.327955,-157.805112,21.327955",
+    "geom:latitude":21.327955,
+    "geom:longitude":-157.805112,
+    "iso:country":"US",
+    "sg:address":"3784 Kumulani Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 5090",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x5aAt2NYLf4VVDjfyQvmM_21.327955_-157.805112@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203074,
+    "wof:geomhash":"f42abbff75e2b2b739870303e546c202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857557123
+        }
+    ],
+    "wof:id":857557123,
+    "wof:lastmodified":1464203074,
+    "wof:name":"Myles Suehiro MD Inc",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.805112,
+    21.327955,
+    -157.805112,
+    21.327955
+],
+  "geometry": {"coordinates":[-157.80511200000001,21.327955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857656495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852877,21.333711,-157.852877,21.333711",
+    "geom:latitude":21.333711,
+    "geom:longitude":-157.852877,
+    "iso:country":"US",
+    "sg:address":"1155 Kaumailuna Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6422",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Llojxfg72whZ48oFSpLP_21.333711_-157.852877@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205745,
+    "wof:geomhash":"43dba5302d61f941f58ed407dc222147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857656495
+        }
+    ],
+    "wof:id":857656495,
+    "wof:lastmodified":1464205745,
+    "wof:name":"Toguchi Service Station Ltd",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.852877,
+    21.333711,
+    -157.852877,
+    21.333711
+],
+  "geometry": {"coordinates":[-157.85287700000001,21.333711],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857661895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.511274,20.890045,-156.511274,20.890045",
+    "geom:latitude":20.890045,
+    "geom:longitude":-156.511274,
+    "iso:country":"US",
+    "sg:address":"2080 W Vineyard St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 986 8095",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KWFF9Rv6K6Djl8C7r333R_20.890045_-156.511274@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206008,
+    "wof:geomhash":"aaa5ad9d26b7c4235c4ea0d421399ead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857661895
+        }
+    ],
+    "wof:id":857661895,
+    "wof:lastmodified":1464206008,
+    "wof:name":"North Shore Hostile",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -156.511274,
+    20.890045,
+    -156.511274,
+    20.890045
+],
+  "geometry": {"coordinates":[-156.51127399999999,20.890045],"type":"Point"}
+}

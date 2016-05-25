@@ -1,0 +1,71 @@
+{
+  "id": 857652681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860394,21.30931,-157.860394,21.30931",
+    "geom:latitude":21.30931,
+    "geom:longitude":-157.860394,
+    "iso:country":"US",
+    "sg:address":"1001 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 1668",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w61QNeW1MJRAykjFg56Qe_21.309310_-157.860394@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205573,
+    "wof:geomhash":"87a48a3128e4959370f09ac2cafc7bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857652681
+        }
+    ],
+    "wof:id":857652681,
+    "wof:lastmodified":1464205573,
+    "wof:name":"Beijing Express",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.860394,
+    21.30931,
+    -157.860394,
+    21.30931
+],
+  "geometry": {"coordinates":[-157.86039400000001,21.30931],"type":"Point"}
+}

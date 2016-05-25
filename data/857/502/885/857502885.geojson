@@ -1,0 +1,71 @@
+{
+  "id": 857502885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.685763,21.298328,-157.685763,21.298328",
+    "geom:latitude":21.298328,
+    "geom:longitude":-157.685763,
+    "iso:country":"US",
+    "sg:address":"7240 Kuahono St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 9571",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rL5avM5BKLAvCcvLR1GJg_21.298328_-157.685763@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201983,
+    "wof:geomhash":"987189218f068b711cad4852e08552aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857502885
+        }
+    ],
+    "wof:id":857502885,
+    "wof:lastmodified":1464201983,
+    "wof:name":"Furntiure Doctor",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -157.685763,
+    21.298328,
+    -157.685763,
+    21.298328
+],
+  "geometry": {"coordinates":[-157.68576300000001,21.298328],"type":"Point"}
+}

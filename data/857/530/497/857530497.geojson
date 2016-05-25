@@ -1,0 +1,71 @@
+{
+  "id": 857530497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004828,21.380303,-158.004828,21.380303",
+    "geom:latitude":21.380303,
+    "geom:longitude":-158.004828,
+    "iso:country":"US",
+    "sg:address":"94 Waipahu Depot St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1220",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_514L2NHEXz4pPAaLTVBpQf_21.380303_-158.004828@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202554,
+    "wof:geomhash":"ed369d112761db014b29a3390b47d103",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857530497
+        }
+    ],
+    "wof:id":857530497,
+    "wof:lastmodified":1464202554,
+    "wof:name":"Ufc Travel",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -158.004828,
+    21.380303,
+    -158.004828,
+    21.380303
+],
+  "geometry": {"coordinates":[-158.004828,21.380303],"type":"Point"}
+}

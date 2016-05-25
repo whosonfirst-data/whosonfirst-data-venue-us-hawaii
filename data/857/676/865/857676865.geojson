@@ -1,0 +1,66 @@
+{
+  "id": 857676865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861365,21.310521,-157.861365,21.310521",
+    "geom:latitude":21.310521,
+    "geom:longitude":-157.861365,
+    "iso:country":"US",
+    "sg:address":"1127 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 8029",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rcONxFoBj7kopczmACT0q_21.310521_-157.861365@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206609,
+    "wof:geomhash":"de5b9c5af455c4ee628d4f363305f5dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857676865
+        }
+    ],
+    "wof:id":857676865,
+    "wof:lastmodified":1464206609,
+    "wof:name":"Fort Beauty Salon",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.861365,
+    21.310521,
+    -157.861365,
+    21.310521
+],
+  "geometry": {"coordinates":[-157.86136500000001,21.310521],"type":"Point"}
+}

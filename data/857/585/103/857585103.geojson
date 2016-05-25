@@ -1,0 +1,71 @@
+{
+  "id": 857585103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.324918,22.091002,-159.324918,22.091002",
+    "geom:latitude":22.091002,
+    "geom:longitude":-159.324918,
+    "iso:country":"US",
+    "sg:address":"5135 Laipo Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 6412",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DjdDkB3wEUIpdraRlvkyH_22.091002_-159.324918@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203648,
+    "wof:geomhash":"75951eeb2277a9e03e449691a38aa500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857585103
+        }
+    ],
+    "wof:id":857585103,
+    "wof:lastmodified":1464203648,
+    "wof:name":"Cudworth Tile",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -159.324918,
+    22.091002,
+    -159.324918,
+    22.091002
+],
+  "geometry": {"coordinates":[-159.324918,22.091002],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857645355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.078587,21.33811,-158.078587,21.33811",
+    "geom:latitude":21.33811,
+    "geom:longitude":-158.078587,
+    "iso:country":"US",
+    "sg:address":"555 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 2886",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a7bZWOILBneWbI5K15Rwo_21.338110_-158.078587@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205252,
+    "wof:geomhash":"ec0d555ec15abdb06f3c9dde217ad055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857645355
+        }
+    ],
+    "wof:id":857645355,
+    "wof:lastmodified":1464205252,
+    "wof:name":"David Nail & Tan",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -158.078587,
+    21.33811,
+    -158.078587,
+    21.33811
+],
+  "geometry": {"coordinates":[-158.078587,21.33811],"type":"Point"}
+}

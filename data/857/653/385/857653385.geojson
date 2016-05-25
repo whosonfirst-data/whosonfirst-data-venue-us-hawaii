@@ -1,0 +1,69 @@
+{
+  "id": 857653385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.352625,21.996118,-159.352625,21.996118",
+    "geom:latitude":21.996118,
+    "geom:longitude":-159.352625,
+    "iso:country":"US",
+    "sg:address":"4567 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 9101",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dFMaSJ6zyYI80lF3mDUU4_21.996118_-159.352625@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205606,
+    "wof:geomhash":"b514c3b52d8f53d384de62b5f66e94cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857653385
+        }
+    ],
+    "wof:id":857653385,
+    "wof:lastmodified":1464205606,
+    "wof:name":"Robert's Hawaii Tours Inc",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -159.352625,
+    21.996118,
+    -159.352625,
+    21.996118
+],
+  "geometry": {"coordinates":[-159.35262499999999,21.996118],"type":"Point"}
+}

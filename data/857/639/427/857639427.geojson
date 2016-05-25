@@ -1,0 +1,70 @@
+{
+  "id": 857639427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.585299,21.903724,-159.585299,21.903724",
+    "geom:latitude":21.903724,
+    "geom:longitude":-159.585299,
+    "iso:country":"US",
+    "sg:address":"4353 Waialo Rd",
+    "sg:city":"Eleele",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 6833",
+    "sg:postcode":"96705",
+    "sg:province":"HI",
+    "sg:tags":[
+        "boat"
+    ],
+    "sg:website":"www.capt-andys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ka8ODF4FKieCsGkjBERO0_21.903724_-159.585299@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204999,
+    "wof:geomhash":"a1e76fedbbb4b96c60ba48804e01dbbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857639427
+        }
+    ],
+    "wof:id":857639427,
+    "wof:lastmodified":1464204999,
+    "wof:name":"Captain Andy's Sailing Adventu",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -159.585299,
+    21.903724,
+    -159.585299,
+    21.903724
+],
+  "geometry": {"coordinates":[-159.58529899999999,21.903724],"type":"Point"}
+}

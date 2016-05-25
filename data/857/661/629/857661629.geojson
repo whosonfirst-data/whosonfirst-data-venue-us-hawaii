@@ -1,0 +1,73 @@
+{
+  "id": 857661629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829363,21.297272,-157.829363,21.297272",
+    "geom:latitude":21.297272,
+    "geom:longitude":-157.829363,
+    "iso:country":"US",
+    "sg:address":"1939 Coyne St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 1774",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upB1ZhpZYjDVlrjGgOnUF_21.297272_-157.829363@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205998,
+    "wof:geomhash":"b56534bd9b93a9d4454ea8baf3d42252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857661629
+        }
+    ],
+    "wof:id":857661629,
+    "wof:lastmodified":1464205998,
+    "wof:name":"City Service Plumbing",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.829363,
+    21.297272,
+    -157.829363,
+    21.297272
+],
+  "geometry": {"coordinates":[-157.829363,21.297272],"type":"Point"}
+}

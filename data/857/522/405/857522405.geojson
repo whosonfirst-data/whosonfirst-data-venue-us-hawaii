@@ -1,0 +1,73 @@
+{
+  "id": 857522405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.711039,21.287563,-157.711039,21.287563",
+    "geom:latitude":21.287563,
+    "geom:longitude":-157.711039,
+    "iso:country":"US",
+    "sg:address":"309 Opihikao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 6221",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36J4IM1VkVWEKTEbYysiJH_21.287563_-157.711039@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202397,
+    "wof:geomhash":"217f2f9036d6e1e12296085c68994789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857522405
+        }
+    ],
+    "wof:id":857522405,
+    "wof:lastmodified":1464202397,
+    "wof:name":"Classic Sailing Adventures",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -157.711039,
+    21.287563,
+    -157.711039,
+    21.287563
+],
+  "geometry": {"coordinates":[-157.711039,21.287563],"type":"Point"}
+}

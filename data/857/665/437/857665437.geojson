@@ -1,0 +1,73 @@
+{
+  "id": 857665437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88481,21.321462,-157.88481,21.321462",
+    "geom:latitude":21.321462,
+    "geom:longitude":-157.88481,
+    "iso:country":"US",
+    "sg:address":"220 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 5286",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4beD9uRttM7Ue97jK30p1S_21.321462_-157.884810@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206149,
+    "wof:geomhash":"dbb65f9c1512351ef1acdb7e3eb98d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857665437
+        }
+    ],
+    "wof:id":857665437,
+    "wof:lastmodified":1464206149,
+    "wof:name":"National Weather Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "government"
+    ]
+},
+  "bbox": [
+    -157.88481,
+    21.321462,
+    -157.88481,
+    21.321462
+],
+  "geometry": {"coordinates":[-157.88480999999999,21.321462],"type":"Point"}
+}

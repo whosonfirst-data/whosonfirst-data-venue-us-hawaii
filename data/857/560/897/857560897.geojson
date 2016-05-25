@@ -1,0 +1,71 @@
+{
+  "id": 857560897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822669,21.278684,-157.822669,21.278684",
+    "geom:latitude":21.278684,
+    "geom:longitude":-157.822669,
+    "iso:country":"US",
+    "sg:address":"264 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 0270",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CEnwaPmRoo1z3qq1VdPU5_21.278684_-157.822669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203179,
+    "wof:geomhash":"1d96e80c682d83ad479e904cde5e0294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857560897
+        }
+    ],
+    "wof:id":857560897,
+    "wof:lastmodified":1464203179,
+    "wof:name":"Wolmart Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.822669,
+    21.278684,
+    -157.822669,
+    21.278684
+],
+  "geometry": {"coordinates":[-157.82266899999999,21.278684],"type":"Point"}
+}

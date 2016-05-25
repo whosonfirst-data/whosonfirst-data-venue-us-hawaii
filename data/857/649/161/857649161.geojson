@@ -1,0 +1,69 @@
+{
+  "id": 857649161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.044197,19.618356,-155.044197,19.618356",
+    "geom:latitude":19.618356,
+    "geom:longitude":-155.044197,
+    "iso:country":"US",
+    "sg:address":"714 Volcano Rd",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 982 0200",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:website":"www.ksbe.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sfwv7vYPMiS3F7dM2D4Qr_19.618356_-155.044197@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205423,
+    "wof:geomhash":"376abd51b2dd73577906356476d653dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857649161
+        }
+    ],
+    "wof:id":857649161,
+    "wof:lastmodified":1464205423,
+    "wof:name":"Kamehameha Schools",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.044197,
+    19.618356,
+    -155.044197,
+    19.618356
+],
+  "geometry": {"coordinates":[-155.044197,19.618356],"type":"Point"}
+}

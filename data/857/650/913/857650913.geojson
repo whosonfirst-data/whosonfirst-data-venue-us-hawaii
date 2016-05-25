@@ -1,0 +1,73 @@
+{
+  "id": 857650913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.488007,20.90675,-156.488007,20.90675",
+    "geom:latitude":20.90675,
+    "geom:longitude":-156.488007,
+    "iso:country":"US",
+    "sg:address":"786 Alua St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 7041",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "workshop",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MJwPUfIMJ3mX4mbXdQT2c_20.906750_-156.488007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205492,
+    "wof:geomhash":"5bcf84f89a12f62e4964358647704400",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857650913
+        }
+    ],
+    "wof:id":857650913,
+    "wof:lastmodified":1464205492,
+    "wof:name":"Rose Johnson Piano Studio",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "workshop",
+        "music"
+    ]
+},
+  "bbox": [
+    -156.488007,
+    20.90675,
+    -156.488007,
+    20.90675
+],
+  "geometry": {"coordinates":[-156.48800700000001,20.90675],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857509107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.211935,21.462916,-158.211935,21.462916",
+    "geom:latitude":21.462916,
+    "geom:longitude":-158.211935,
+    "iso:country":"US",
+    "sg:address":"970 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 7028",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bZAe6ldamCiMKJD1H5M4E_21.462916_-158.211935@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202126,
+    "wof:geomhash":"a3e65d1f9aa6057e73ce9180bdfbc716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857509107
+        }
+    ],
+    "wof:id":857509107,
+    "wof:lastmodified":1464202126,
+    "wof:name":"Waianae Eye Clinic",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.211935,
+    21.462916,
+    -158.211935,
+    21.462916
+],
+  "geometry": {"coordinates":[-158.21193500000001,21.462916],"type":"Point"}
+}

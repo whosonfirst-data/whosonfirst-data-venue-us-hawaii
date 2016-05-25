@@ -1,0 +1,71 @@
+{
+  "id": 857660309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813358,21.285695,-157.813358,21.285695",
+    "geom:latitude":21.285695,
+    "geom:longitude":-157.813358,
+    "iso:country":"US",
+    "sg:address":"2903 Kaimuki Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 7364",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jhRrT3LdvoUlZHiNdYrOY_21.285695_-157.813358@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205925,
+    "wof:geomhash":"1dafecf97a5d108030cb8e49d3b9091c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857660309
+        }
+    ],
+    "wof:id":857660309,
+    "wof:lastmodified":1464205925,
+    "wof:name":"Honolulu City Crane Park",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.813358,
+    21.285695,
+    -157.813358,
+    21.285695
+],
+  "geometry": {"coordinates":[-157.81335799999999,21.285695],"type":"Point"}
+}

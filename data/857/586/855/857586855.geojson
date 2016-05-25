@@ -1,0 +1,66 @@
+{
+  "id": 857586855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853071,21.556147,-157.853071,21.556147",
+    "geom:latitude":21.556147,
+    "geom:longitude":-157.853071,
+    "iso:country":"US",
+    "sg:address":"484 Kamehameha Hwy",
+    "sg:city":"Kaaawa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 237 8810",
+    "sg:postcode":"96730",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937597,
+        102085417,
+        85890289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ctixttA3Glmjufh6Mp4oO_21.556147_-157.853071@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203692,
+    "wof:geomhash":"ab21ce51be77cb1f02db853b4015e79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937597,
+            "neighbourhood_id":85890289,
+            "region_id":85688671,
+            "venue_id":857586855
+        }
+    ],
+    "wof:id":857586855,
+    "wof:lastmodified":1464203692,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85890289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.853071,
+    21.556147,
+    -157.853071,
+    21.556147
+],
+  "geometry": {"coordinates":[-157.853071,21.556147],"type":"Point"}
+}

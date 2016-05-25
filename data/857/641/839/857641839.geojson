@@ -1,0 +1,71 @@
+{
+  "id": 857641839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02045,21.509509,-158.02045,21.509509",
+    "geom:latitude":21.509509,
+    "geom:longitude":-158.02045,
+    "iso:country":"US",
+    "sg:address":"300 Circle Makai St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5586",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UkviyQpyBytwtyC2nDMYK_21.509509_-158.020450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205092,
+    "wof:geomhash":"c079561ea6c5510b6f76157d80d18f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857641839
+        }
+    ],
+    "wof:id":857641839,
+    "wof:lastmodified":1464205092,
+    "wof:name":"Mca General Repairs & Mntnc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.02045,
+    21.509509,
+    -158.02045,
+    21.509509
+],
+  "geometry": {"coordinates":[-158.02045000000001,21.509509],"type":"Point"}
+}

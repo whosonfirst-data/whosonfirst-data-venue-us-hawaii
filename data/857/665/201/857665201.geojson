@@ -1,0 +1,73 @@
+{
+  "id": 857665201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.091804,21.613539,-158.091804,21.613539",
+    "geom:latitude":21.613539,
+    "geom:longitude":-158.091804,
+    "iso:country":"US",
+    "sg:address":"735 Papailoa Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 9921",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "personal",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sfU8OuZcu7VwH5gc56vlv_21.613539_-158.091804@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206137,
+    "wof:geomhash":"deaa7e33c6a87ada72999fc8b6e82d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857665201
+        }
+    ],
+    "wof:id":857665201,
+    "wof:lastmodified":1464206137,
+    "wof:name":"Neals Water Works",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.091804,
+    21.613539,
+    -158.091804,
+    21.613539
+],
+  "geometry": {"coordinates":[-158.091804,21.613539],"type":"Point"}
+}

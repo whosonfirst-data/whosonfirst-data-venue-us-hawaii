@@ -1,0 +1,71 @@
+{
+  "id": 857520763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.849671,21.31944,-157.849671,21.31944",
+    "geom:latitude":21.31944,
+    "geom:longitude":-157.849671,
+    "iso:country":"US",
+    "sg:address":"1951 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 1719",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z6jdUriCRxFzUEyvjHDyC_21.319440_-157.849671@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202368,
+    "wof:geomhash":"e11586bbcfc62f00aa16a8654ae8d461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857520763
+        }
+    ],
+    "wof:id":857520763,
+    "wof:lastmodified":1464202368,
+    "wof:name":"Kylen's Superette",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -157.849671,
+    21.31944,
+    -157.849671,
+    21.31944
+],
+  "geometry": {"coordinates":[-157.849671,21.31944],"type":"Point"}
+}

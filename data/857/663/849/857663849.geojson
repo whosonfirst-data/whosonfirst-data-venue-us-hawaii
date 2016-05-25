@@ -1,0 +1,71 @@
+{
+  "id": 857663849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504634,20.891084,-156.504634,20.891084",
+    "geom:latitude":20.891084,
+    "geom:longitude":-156.504634,
+    "iso:country":"US",
+    "sg:address":"2086 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3243",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Vaat6o0n5g8BAINoz03dp_20.891084_-156.504634@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206079,
+    "wof:geomhash":"ed9b53292fd226f96b1533ee7118f509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857663849
+        }
+    ],
+    "wof:id":857663849,
+    "wof:lastmodified":1464206079,
+    "wof:name":"Maui Shell",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -156.504634,
+    20.891084,
+    -156.504634,
+    20.891084
+],
+  "geometry": {"coordinates":[-156.50463400000001,20.891084],"type":"Point"}
+}

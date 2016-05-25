@@ -1,0 +1,71 @@
+{
+  "id": 857649635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802583,21.416612,-157.802583,21.416612",
+    "geom:latitude":21.416612,
+    "geom:longitude":-157.802583,
+    "iso:country":"US",
+    "sg:address":"567 Pahia Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 2609",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hAHZYD00c3K0JpbcTtlDf_21.416612_-157.802583@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205440,
+    "wof:geomhash":"559f68a4d677c60f14de2f71386d1847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857649635
+        }
+    ],
+    "wof:id":857649635,
+    "wof:lastmodified":1464205440,
+    "wof:name":"Abamonga Care Home",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -157.802583,
+    21.416612,
+    -157.802583,
+    21.416612
+],
+  "geometry": {"coordinates":[-157.802583,21.416612],"type":"Point"}
+}

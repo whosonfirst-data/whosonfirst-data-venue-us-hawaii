@@ -1,0 +1,71 @@
+{
+  "id": 857634163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838671,21.297847,-157.838671,21.297847",
+    "geom:latitude":21.297847,
+    "geom:longitude":-157.838671,
+    "iso:country":"US",
+    "sg:address":"1425 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 6634",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JS4h22nGQbCCZeK4TI3WD_21.297847_-157.838671@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204803,
+    "wof:geomhash":"fc6225fe959d6fa885ad3a709f12148b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857634163
+        }
+    ],
+    "wof:id":857634163,
+    "wof:lastmodified":1464204803,
+    "wof:name":"LA Pizza Rina",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.838671,
+    21.297847,
+    -157.838671,
+    21.297847
+],
+  "geometry": {"coordinates":[-157.83867100000001,21.297847],"type":"Point"}
+}

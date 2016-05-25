@@ -1,0 +1,71 @@
+{
+  "id": 857664553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.90993,21.347208,-157.90993,21.347208",
+    "geom:latitude":21.347208,
+    "geom:longitude":-157.90993,
+    "iso:country":"US",
+    "sg:address":"5070 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4611",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "noodle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2twcBLqhWEnZAy0ItrR6kA_21.347208_-157.909930@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206104,
+    "wof:geomhash":"a0ab3f8b39d53f0162141a66ce01511b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857664553
+        }
+    ],
+    "wof:id":857664553,
+    "wof:lastmodified":1464206104,
+    "wof:name":"Crown Noodles",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "noodle"
+    ]
+},
+  "bbox": [
+    -157.90993,
+    21.347208,
+    -157.90993,
+    21.347208
+],
+  "geometry": {"coordinates":[-157.90993,21.347208],"type":"Point"}
+}

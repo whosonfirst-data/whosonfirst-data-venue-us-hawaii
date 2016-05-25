@@ -1,0 +1,82 @@
+{
+  "id": 857659115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838507,21.337458,-157.838507,21.337458",
+    "geom:latitude":21.337458,
+    "geom:longitude":-157.838507,
+    "iso:country":"US",
+    "sg:address":"150 Country Club Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6331",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "golf",
+        "club",
+        "country",
+        "private",
+        "course",
+        "membership"
+    ],
+    "sg:website":"www.oahucountryclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P10E9RfKTIYE1Z8CIi5Q0_21.337458_-157.838507@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205866,
+    "wof:geomhash":"69610a1e0d7df6cc3cfb2ba8bca89f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872727,
+            "region_id":85688671,
+            "venue_id":857659115
+        }
+    ],
+    "wof:id":857659115,
+    "wof:lastmodified":1464205866,
+    "wof:name":"Oahu Country Club",
+    "wof:parent_id":85872727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf",
+        "club",
+        "country",
+        "private",
+        "course",
+        "membership"
+    ]
+},
+  "bbox": [
+    -157.838507,
+    21.337458,
+    -157.838507,
+    21.337458
+],
+  "geometry": {"coordinates":[-157.83850699999999,21.337458],"type":"Point"}
+}

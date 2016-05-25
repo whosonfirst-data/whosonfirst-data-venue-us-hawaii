@@ -1,0 +1,75 @@
+{
+  "id": 857652307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868504,21.329448,-157.868504,21.329448",
+    "geom:latitude":21.329448,
+    "geom:longitude":-157.868504,
+    "iso:country":"US",
+    "sg:address":"1253 Makalapua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 473 3385",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "military",
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l7YCHyMg0ClGdzc4Wh9U7_21.329448_-157.868504@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205558,
+    "wof:geomhash":"5acd08c1800ce7579132743f21bf1aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857652307
+        }
+    ],
+    "wof:id":857652307,
+    "wof:lastmodified":1464205558,
+    "wof:name":"US Naval Dental Clinic",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military",
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -157.868504,
+    21.329448,
+    -157.868504,
+    21.329448
+],
+  "geometry": {"coordinates":[-157.868504,21.329448],"type":"Point"}
+}

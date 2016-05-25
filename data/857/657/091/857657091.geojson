@@ -1,0 +1,66 @@
+{
+  "id": 857657091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824973,21.278529,-157.824973,21.278529",
+    "geom:latitude":21.278529,
+    "geom:longitude":-157.824973,
+    "iso:country":"US",
+    "sg:address":"2330 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 2573",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y3R9BCrI5H3Dr6Pcj4VR9_21.278529_-157.824973@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205772,
+    "wof:geomhash":"7873a79ad76d610e1a96de3b4dc7d1ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857657091
+        }
+    ],
+    "wof:id":857657091,
+    "wof:lastmodified":1464205772,
+    "wof:name":"Outrigger Auto-Svc LTD",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.824973,
+    21.278529,
+    -157.824973,
+    21.278529
+],
+  "geometry": {"coordinates":[-157.824973,21.278529],"type":"Point"}
+}

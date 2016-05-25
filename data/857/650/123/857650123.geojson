@@ -1,0 +1,73 @@
+{
+  "id": 857650123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800796,21.3105,-157.800796,21.3105",
+    "geom:latitude":21.3105,
+    "geom:longitude":-157.800796,
+    "iso:country":"US",
+    "sg:address":"3128 Alani Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6661",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "property",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1300khcR1WOKS6tbNU7SLI_21.310500_-157.800796@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205464,
+    "wof:geomhash":"bf0bed5d8df5939a960b25c6ee259692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857650123
+        }
+    ],
+    "wof:id":857650123,
+    "wof:lastmodified":1464205464,
+    "wof:name":"Hamano Investments",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.800796,
+    21.3105,
+    -157.800796,
+    21.3105
+],
+  "geometry": {"coordinates":[-157.80079599999999,21.3105],"type":"Point"}
+}

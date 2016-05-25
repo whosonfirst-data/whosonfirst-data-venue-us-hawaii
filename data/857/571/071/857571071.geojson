@@ -1,0 +1,85 @@
+{
+  "id": 857571071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.917778,21.31456,-157.917778,21.31456",
+    "geom:latitude":21.31456,
+    "geom:longitude":-157.917778,
+    "iso:country":"US",
+    "sg:address":"28 Lagoon Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5079",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jlYWqohVK5qGCMEsNtfcX_21.314560_-157.917778@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203372,
+    "wof:geomhash":"9b1cc24233902f78162b3352882b73ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857571071
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857571071
+        }
+    ],
+    "wof:id":857571071,
+    "wof:lastmodified":1464203372,
+    "wof:name":"US Transportation Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -157.917778,
+    21.31456,
+    -157.917778,
+    21.31456
+],
+  "geometry": {"coordinates":[-157.917778,21.31456],"type":"Point"}
+}

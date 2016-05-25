@@ -1,0 +1,71 @@
+{
+  "id": 857664879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.462445,20.889431,-156.462445,20.889431",
+    "geom:latitude":20.889431,
+    "geom:longitude":-156.462445,
+    "iso:country":"US",
+    "sg:address":"172 Alamaha St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 9741",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j9e3RalLkoKbgfBemSmY4_20.889431_-156.462445@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206118,
+    "wof:geomhash":"fbab8e94317231d4ad9b407e7542f5f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857664879
+        }
+    ],
+    "wof:id":857664879,
+    "wof:lastmodified":1464206118,
+    "wof:name":"Oahu Air Conditioning Service",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -156.462445,
+    20.889431,
+    -156.462445,
+    20.889431
+],
+  "geometry": {"coordinates":[-156.462445,20.889431],"type":"Point"}
+}

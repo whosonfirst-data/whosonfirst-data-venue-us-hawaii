@@ -1,0 +1,77 @@
+{
+  "id": 857662593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.921297,21.33279,-157.921297,21.33279",
+    "geom:latitude":21.33279,
+    "geom:longitude":-157.921297,
+    "iso:country":"US",
+    "sg:address":"300 Rodgers Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 838 0011",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RnvgthYkjHfWwm3BvYTgF_21.332790_-157.921297@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206032,
+    "wof:geomhash":"078e5e1aec9a93584d77656d020891af",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857662593
+        }
+    ],
+    "wof:id":857662593,
+    "wof:lastmodified":1464206032,
+    "wof:name":"Airlines Committee Of Hi",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "airline"
+    ]
+},
+  "bbox": [
+    -157.921297,
+    21.33279,
+    -157.921297,
+    21.33279
+],
+  "geometry": {"coordinates":[-157.92129700000001,21.33279],"type":"Point"}
+}

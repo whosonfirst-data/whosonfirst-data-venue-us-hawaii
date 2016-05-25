@@ -1,0 +1,73 @@
+{
+  "id": 857595269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910001,21.377484,-157.910001,21.377484",
+    "geom:latitude":21.377484,
+    "geom:longitude":-157.910001,
+    "iso:country":"US",
+    "sg:address":"850 Iwaena St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 8900",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mdMaT67oI4vPmemSKa8fD_21.377484_-157.910001@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203878,
+    "wof:geomhash":"890c497a0df4b5f3ee24440eaa032bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857595269
+        }
+    ],
+    "wof:id":857595269,
+    "wof:lastmodified":1464203878,
+    "wof:name":"D C Electric Inc",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -157.910001,
+    21.377484,
+    -157.910001,
+    21.377484
+],
+  "geometry": {"coordinates":[-157.91000099999999,21.377484],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857680203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.906285,21.606899,-157.906285,21.606899",
+    "geom:latitude":21.606899,
+    "geom:longitude":-157.906285,
+    "iso:country":"US",
+    "sg:address":"42 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 5145",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rZdbP0uO7JqaXQnnKPsED_21.606899_-157.906285@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206736,
+    "wof:geomhash":"d077f71a029eebe40c4845f89d1e533f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857680203
+        }
+    ],
+    "wof:id":857680203,
+    "wof:lastmodified":1464206736,
+    "wof:name":"Hauula Gift Shop",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.906285,
+    21.606899,
+    -157.906285,
+    21.606899
+],
+  "geometry": {"coordinates":[-157.906285,21.606899],"type":"Point"}
+}

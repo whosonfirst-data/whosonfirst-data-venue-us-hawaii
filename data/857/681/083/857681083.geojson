@@ -1,0 +1,74 @@
+{
+  "id": 857681083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.006346,21.454093,-158.006346,21.454093",
+    "geom:latitude":21.454093,
+    "geom:longitude":-158.006346,
+    "iso:country":"US",
+    "sg:address":"95-1249 Meheula Pkwy",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/160853-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 5711",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDFfqnQt93BPVHo7le8qY_21.454093_-158.006346@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206767,
+    "wof:geomhash":"628cbaef46842c54aab5c332d7aa0a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857681083
+        }
+    ],
+    "wof:id":857681083,
+    "wof:lastmodified":1464206767,
+    "wof:name":"Burger King",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.006346,
+    21.454093,
+    -158.006346,
+    21.454093
+],
+  "geometry": {"coordinates":[-158.00634600000001,21.454093],"type":"Point"}
+}

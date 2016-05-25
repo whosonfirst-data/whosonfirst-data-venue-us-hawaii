@@ -1,0 +1,71 @@
+{
+  "id": 857539835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.937409,21.379334,-157.937409,21.379334",
+    "geom:latitude":21.379334,
+    "geom:longitude":-157.937409,
+    "iso:country":"US",
+    "sg:address":"310 Kamehameha Hwy",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 2891",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O8HK7Rpkhu8LEifpP8zLN_21.379334_-157.937409@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202734,
+    "wof:geomhash":"6456f1720d947ae72d7207cd517a63d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857539835
+        }
+    ],
+    "wof:id":857539835,
+    "wof:lastmodified":1464202734,
+    "wof:name":"Waimalu Park Community Assn",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -157.937409,
+    21.379334,
+    -157.937409,
+    21.379334
+],
+  "geometry": {"coordinates":[-157.937409,21.379334],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857634179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.47143,20.885855,-156.47143,20.885855",
+    "geom:latitude":20.885855,
+    "geom:longitude":-156.47143,
+    "iso:country":"US",
+    "sg:address":"120 Kane St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3351",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shipper"
+    ],
+    "sg:website":"www.mauiland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EMhWxwCr9Kspubcv9nCL0_20.885855_-156.471430@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204804,
+    "wof:geomhash":"3803c1c471edb8086c6b1363bcde7655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857634179
+        }
+    ],
+    "wof:id":857634179,
+    "wof:lastmodified":1464204804,
+    "wof:name":"Maui Land & Pineapple Co",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -156.47143,
+    20.885855,
+    -156.47143,
+    20.885855
+],
+  "geometry": {"coordinates":[-156.47143,20.885855],"type":"Point"}
+}

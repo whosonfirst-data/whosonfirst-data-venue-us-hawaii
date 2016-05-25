@@ -1,0 +1,72 @@
+{
+  "id": 857637393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882675,21.327834,-157.882675,21.327834",
+    "geom:latitude":21.327834,
+    "geom:longitude":-157.882675,
+    "iso:country":"US",
+    "sg:address":"2036 Hau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 6600",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.alohalabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0krfoZfiv6QcqrhFaIFEnx_21.327834_-157.882675@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204919,
+    "wof:geomhash":"d89f5e839f6da869e23445201819f9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857637393
+        }
+    ],
+    "wof:id":857637393,
+    "wof:lastmodified":1464204919,
+    "wof:name":"Aloha Laboratories Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.882675,
+    21.327834,
+    -157.882675,
+    21.327834
+],
+  "geometry": {"coordinates":[-157.88267500000001,21.327834],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857662637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.490699,20.888108,-156.490699,20.888108",
+    "geom:latitude":20.888108,
+    "geom:longitude":-156.490699,
+    "iso:country":"US",
+    "sg:address":"95 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7467",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rehabilitation",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7m4ZsdKEnndGs4N0ldOF_20.888108_-156.490699@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206034,
+    "wof:geomhash":"d02279aae784b0f9c7fd3b1a975ed2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857662637
+        }
+    ],
+    "wof:id":857662637,
+    "wof:lastmodified":1464206034,
+    "wof:name":"Imua Family Services",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "center"
+    ]
+},
+  "bbox": [
+    -156.490699,
+    20.888108,
+    -156.490699,
+    20.888108
+],
+  "geometry": {"coordinates":[-156.49069900000001,20.888108],"type":"Point"}
+}

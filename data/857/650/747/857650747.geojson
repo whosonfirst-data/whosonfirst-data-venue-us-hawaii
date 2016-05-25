@@ -1,0 +1,71 @@
+{
+  "id": 857650747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001338,21.46496,-158.001338,21.46496",
+    "geom:latitude":21.46496,
+    "geom:longitude":-158.001338,
+    "iso:country":"US",
+    "sg:address":"1011 Hookanahe St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 2976",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BDj7AukCFr0Uf87ZEr9uS_21.464960_-158.001338@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205486,
+    "wof:geomhash":"45ea2cc6cfdd4e0dfe08299617e044fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857650747
+        }
+    ],
+    "wof:id":857650747,
+    "wof:lastmodified":1464205486,
+    "wof:name":"Davids Construction Inc",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -158.001338,
+    21.46496,
+    -158.001338,
+    21.46496
+],
+  "geometry": {"coordinates":[-158.001338,21.46496],"type":"Point"}
+}

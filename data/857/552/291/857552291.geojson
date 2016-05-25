@@ -1,0 +1,73 @@
+{
+  "id": 857552291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.749269,21.426485,-157.749269,21.426485",
+    "geom:latitude":21.426485,
+    "geom:longitude":-157.749269,
+    "iso:country":"US",
+    "sg:address":"93 Aikahi Loop",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8366",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i00HdJehvfH0SrHPUOPCA_21.426485_-157.749269@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202976,
+    "wof:geomhash":"576e4b993d287b5a4d61ad6a76245377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857552291
+        }
+    ],
+    "wof:id":857552291,
+    "wof:lastmodified":1464202976,
+    "wof:name":"Locksmiths Of Hawaii/Honolulu",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.749269,
+    21.426485,
+    -157.749269,
+    21.426485
+],
+  "geometry": {"coordinates":[-157.749269,21.426485],"type":"Point"}
+}

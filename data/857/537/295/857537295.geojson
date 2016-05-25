@@ -1,0 +1,71 @@
+{
+  "id": 857537295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811448,21.41347,-157.811448,21.41347",
+    "geom:latitude":21.41347,
+    "geom:longitude":-157.811448,
+    "iso:country":"US",
+    "sg:address":"346 Kumoo Loop",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 7277",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85890373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ze7nSsnc5MYldZH5gPW1z_21.413470_-157.811448@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202686,
+    "wof:geomhash":"e0ec07d224c80cb08fdebfa163aa0a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85890373,
+            "region_id":85688671,
+            "venue_id":857537295
+        }
+    ],
+    "wof:id":857537295,
+    "wof:lastmodified":1464202686,
+    "wof:name":"Hawaii Surface & Maintenance",
+    "wof:parent_id":85890373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.811448,
+    21.41347,
+    -157.811448,
+    21.41347
+],
+  "geometry": {"coordinates":[-157.81144800000001,21.41347],"type":"Point"}
+}

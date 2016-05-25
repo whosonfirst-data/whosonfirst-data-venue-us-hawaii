@@ -1,0 +1,73 @@
+{
+  "id": 857642701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.35812,22.04625,-159.35812,22.04625",
+    "geom:latitude":22.04625,
+    "geom:longitude":-159.35812,
+    "iso:country":"US",
+    "sg:address":"5515 Kuamoo Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 9377",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XuvCTZixCfCNt4GlbgqqR_22.046250_-159.358120@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205124,
+    "wof:geomhash":"13ebcdb95d46443736dcbbf034675e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857642701
+        }
+    ],
+    "wof:id":857642701,
+    "wof:lastmodified":1464205124,
+    "wof:name":"Adolf's Auto Body & Paint",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -159.35812,
+    22.04625,
+    -159.35812,
+    22.04625
+],
+  "geometry": {"coordinates":[-159.35812000000001,22.04625],"type":"Point"}
+}

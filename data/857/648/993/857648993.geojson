@@ -1,0 +1,71 @@
+{
+  "id": 857648993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85028,21.304243,-157.85028,21.304243",
+    "geom:latitude":21.304243,
+    "geom:longitude":-157.85028,
+    "iso:country":"US",
+    "sg:address":"864 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9971",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XzllqY8hr8QhxYdXoVJLL_21.304243_-157.850280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205412,
+    "wof:geomhash":"e6a1b831e6117b2ceb42952bc001e6a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857648993
+        }
+    ],
+    "wof:id":857648993,
+    "wof:lastmodified":1464205412,
+    "wof:name":"Advanced Abacus Associates",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    -157.85028,
+    21.304243,
+    -157.85028,
+    21.304243
+],
+  "geometry": {"coordinates":[-157.85028,21.304243],"type":"Point"}
+}

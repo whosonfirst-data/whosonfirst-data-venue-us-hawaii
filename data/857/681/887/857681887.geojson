@@ -1,0 +1,72 @@
+{
+  "id": 857681887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876693,21.321912,-157.876693,21.321912",
+    "geom:latitude":21.321912,
+    "geom:longitude":-157.876693,
+    "iso:country":"US",
+    "sg:address":"1286 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/280441-sugoi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7984",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dvg0x5L92luXK7qeHJLQ6_21.321819_-157.876682@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206811,
+    "wof:geomhash":"e3532ef95290069d2fb1cf92eadd2748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857681887
+        }
+    ],
+    "wof:id":857681887,
+    "wof:lastmodified":1464206811,
+    "wof:name":"Sugoi",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian"
+    ]
+},
+  "bbox": [
+    -157.876693,
+    21.321912,
+    -157.876693,
+    21.321912
+],
+  "geometry": {"coordinates":[-157.87669299999999,21.321912],"type":"Point"}
+}

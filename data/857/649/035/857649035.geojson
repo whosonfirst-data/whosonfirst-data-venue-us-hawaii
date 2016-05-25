@@ -1,0 +1,73 @@
+{
+  "id": 857649035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011787,21.459435,-158.011787,21.459435",
+    "geom:latitude":21.459435,
+    "geom:longitude":-158.011787,
+    "iso:country":"US",
+    "sg:address":"648 Naholoholo St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 4998",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sWFhR81BaO1FAcno1KvCk_21.459435_-158.011787@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205413,
+    "wof:geomhash":"b0fb1219da6e51dde6357c15323baa55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857649035
+        }
+    ],
+    "wof:id":857649035,
+    "wof:lastmodified":1464205413,
+    "wof:name":"Vit U Patel MD",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.011787,
+    21.459435,
+    -158.011787,
+    21.459435
+],
+  "geometry": {"coordinates":[-158.011787,21.459435],"type":"Point"}
+}

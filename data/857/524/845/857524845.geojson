@@ -1,0 +1,75 @@
+{
+  "id": 857524845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.460533,20.883679,-156.460533,20.883679",
+    "geom:latitude":20.883679,
+    "geom:longitude":-156.460533,
+    "iso:country":"US",
+    "sg:address":"314 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0193",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25DVedzK5zxGql63Ys849k_20.883679_-156.460533@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202447,
+    "wof:geomhash":"aa5a3e3c74cafdf759d19ef16aeb1211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857524845
+        }
+    ],
+    "wof:id":857524845,
+    "wof:lastmodified":1464202447,
+    "wof:name":"Eddie Boys Light & Heavy RPS",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -156.460533,
+    20.883679,
+    -156.460533,
+    20.883679
+],
+  "geometry": {"coordinates":[-156.460533,20.883679],"type":"Point"}
+}

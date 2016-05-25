@@ -1,0 +1,76 @@
+{
+  "id": 857538403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.688423,20.94241,-156.688423,20.94241",
+    "geom:latitude":20.94241,
+    "geom:longitude":-156.688423,
+    "iso:country":"US",
+    "sg:address":"11 Halawai Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 8721",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.budget.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937613,
+        102085577,
+        85890515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XNU8MPjPdVE30v6AZZuzA_20.942410_-156.688423@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202706,
+    "wof:geomhash":"2067b26c23c5cc4c4b697bb484a9d9d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937613,
+            "neighbourhood_id":85890515,
+            "region_id":85688671,
+            "venue_id":857538403
+        }
+    ],
+    "wof:id":857538403,
+    "wof:lastmodified":1464202706,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85890515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.688423,
+    20.94241,
+    -156.688423,
+    20.94241
+],
+  "geometry": {"coordinates":[-156.688423,20.94241],"type":"Point"}
+}

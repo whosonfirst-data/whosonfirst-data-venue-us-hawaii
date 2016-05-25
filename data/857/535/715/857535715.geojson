@@ -1,0 +1,73 @@
+{
+  "id": 857535715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863482,21.3117,-157.863482,21.3117",
+    "geom:latitude":21.3117,
+    "geom:longitude":-157.863482,
+    "iso:country":"US",
+    "sg:address":"76 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 7938",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KYNCZEFlcH7A4DmEjbsDE_21.311700_-157.863482@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202657,
+    "wof:geomhash":"608226f5fd01796e92f2e05114ea1915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857535715
+        }
+    ],
+    "wof:id":857535715,
+    "wof:lastmodified":1464202657,
+    "wof:name":"C & H Intl",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.863482,
+    21.3117,
+    -157.863482,
+    21.3117
+],
+  "geometry": {"coordinates":[-157.863482,21.3117],"type":"Point"}
+}

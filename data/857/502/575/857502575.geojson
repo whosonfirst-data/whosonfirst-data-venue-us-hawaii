@@ -1,0 +1,71 @@
+{
+  "id": 857502575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.093555,21.310438,-158.093555,21.310438",
+    "geom:latitude":21.310438,
+    "geom:longitude":-158.093555,
+    "iso:country":"US",
+    "sg:address":"250 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 9337",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y3WFc8Q5POe8q54LcjsxX_21.310438_-158.093555@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201972,
+    "wof:geomhash":"77bb88ecf34431308f0684769f370366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857502575
+        }
+    ],
+    "wof:id":857502575,
+    "wof:lastmodified":1464201972,
+    "wof:name":"Precision Electric",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.093555,
+    21.310438,
+    -158.093555,
+    21.310438
+],
+  "geometry": {"coordinates":[-158.09355500000001,21.310438],"type":"Point"}
+}

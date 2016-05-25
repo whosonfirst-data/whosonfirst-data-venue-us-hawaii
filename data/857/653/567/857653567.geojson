@@ -1,0 +1,71 @@
+{
+  "id": 857653567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79177,21.259647,-157.79177,21.259647",
+    "geom:latitude":21.259647,
+    "geom:longitude":-157.79177,
+    "iso:country":"US",
+    "sg:address":"4327 Royal Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9323",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mYy7lKBsVpEPRR3nEpXXL_21.259647_-157.791770@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205620,
+    "wof:geomhash":"fd7a15d2dfa5e7726951b173343d3ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857653567
+        }
+    ],
+    "wof:id":857653567,
+    "wof:lastmodified":1464205620,
+    "wof:name":"Shaka Engineering Inc",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.79177,
+    21.259647,
+    -157.79177,
+    21.259647
+],
+  "geometry": {"coordinates":[-157.79177000000001,21.259647],"type":"Point"}
+}

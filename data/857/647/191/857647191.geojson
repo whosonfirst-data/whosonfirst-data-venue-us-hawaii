@@ -1,0 +1,66 @@
+{
+  "id": 857647191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874085,21.305524,-157.874085,21.305524",
+    "geom:latitude":21.305524,
+    "geom:longitude":-157.874085,
+    "iso:country":"US",
+    "sg:address":"1150 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5811",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XpGsiWvvpDSEupXGaGiVk_21.305524_-157.874085@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205344,
+    "wof:geomhash":"bac32cca3a12b9f7e611abd1f9b9b1f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857647191
+        }
+    ],
+    "wof:id":857647191,
+    "wof:lastmodified":1464205344,
+    "wof:name":"Hawaiian Islands Freight Assn",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.874085,
+    21.305524,
+    -157.874085,
+    21.305524
+],
+  "geometry": {"coordinates":[-157.87408500000001,21.305524],"type":"Point"}
+}

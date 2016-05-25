@@ -1,0 +1,71 @@
+{
+  "id": 857527071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.07636,21.339741,-158.07636,21.339741",
+    "geom:latitude":21.339741,
+    "geom:longitude":-158.07636,
+    "iso:country":"US",
+    "sg:address":"575 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 9262",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iuHE4ZQTrUR0IFGZeq6sr_21.339741_-158.076360@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202487,
+    "wof:geomhash":"2ecab8a12b88c37e11705c86f9ecf8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857527071
+        }
+    ],
+    "wof:id":857527071,
+    "wof:lastmodified":1464202487,
+    "wof:name":"Ka Punawai Ola",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -158.07636,
+    21.339741,
+    -158.07636,
+    21.339741
+],
+  "geometry": {"coordinates":[-158.07635999999999,21.339741],"type":"Point"}
+}

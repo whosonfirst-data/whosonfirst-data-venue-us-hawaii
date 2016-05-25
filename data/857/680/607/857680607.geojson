@@ -1,0 +1,73 @@
+{
+  "id": 857680607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.104837,21.58194,-158.104837,21.58194",
+    "geom:latitude":21.58194,
+    "geom:longitude":-158.104837,
+    "iso:country":"US",
+    "sg:address":"66-457 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/waialua/202763-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sx3H7vlzneelC1ZcV6PJp_21.581940_-158.104837@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206750,
+    "wof:geomhash":"327fe2b4419fa725a96c4b4aa63782be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890665,
+            "region_id":85688671,
+            "venue_id":857680607
+        }
+    ],
+    "wof:id":857680607,
+    "wof:lastmodified":1464206750,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.104837,
+    21.58194,
+    -158.104837,
+    21.58194
+],
+  "geometry": {"coordinates":[-158.104837,21.58194],"type":"Point"}
+}

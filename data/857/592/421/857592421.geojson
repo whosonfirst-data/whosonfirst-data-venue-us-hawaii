@@ -1,0 +1,85 @@
+{
+  "id": 857592421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832953,21.289795,-157.832953,21.289795",
+    "geom:latitude":21.289795,
+    "geom:longitude":-157.832953,
+    "iso:country":"US",
+    "sg:address":"1960 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 7377",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "mall",
+        "apartment",
+        "shopping",
+        "center"
+    ],
+    "sg:website":"www.mccullysc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mLjLOEME9e2QztPXhsqv3_21.289795_-157.832953@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203813,
+    "wof:geomhash":"0315573e01fbe771a88dfcd9f114007a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857592421
+        }
+    ],
+    "wof:id":857592421,
+    "wof:lastmodified":1464203813,
+    "wof:name":"Mc Cully Shopping Center",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "mall",
+        "apartment",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.832953,
+    21.289795,
+    -157.832953,
+    21.289795
+],
+  "geometry": {"coordinates":[-157.832953,21.289795],"type":"Point"}
+}

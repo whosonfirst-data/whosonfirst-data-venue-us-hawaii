@@ -1,0 +1,75 @@
+{
+  "id": 857578917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821042,21.300931,-157.821042,21.300931",
+    "geom:latitude":21.300931,
+    "geom:longitude":-157.821042,
+    "iso:country":"US",
+    "sg:address":"2001 Vancouver Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6019",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZFylLBieweQWT00uGWOsY_21.300931_-157.821042@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203529,
+    "wof:geomhash":"3829911e20bd0c4a0fb13e4c2f84cd44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857578917
+        }
+    ],
+    "wof:id":857578917,
+    "wof:lastmodified":1464203529,
+    "wof:name":"Manoa Valley Inn",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -157.821042,
+    21.300931,
+    -157.821042,
+    21.300931
+],
+  "geometry": {"coordinates":[-157.82104200000001,21.300931],"type":"Point"}
+}

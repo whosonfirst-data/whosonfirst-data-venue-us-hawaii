@@ -1,0 +1,69 @@
+{
+  "id": 857623343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025714,21.493369,-158.025714,21.493369",
+    "geom:latitude":21.493369,
+    "geom:longitude":-158.025714,
+    "iso:country":"US",
+    "sg:address":"220 Kuahiwi Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 7890",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GVvamMBPno57zGeDtBFT8_21.493369_-158.025714@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204514,
+    "wof:geomhash":"f74c4542c98b9677cb31e5cdd4478689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857623343
+        }
+    ],
+    "wof:id":857623343,
+    "wof:lastmodified":1464204514,
+    "wof:name":"Tanaka International Trdg Co",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -158.025714,
+    21.493369,
+    -158.025714,
+    21.493369
+],
+  "geometry": {"coordinates":[-158.02571399999999,21.493369],"type":"Point"}
+}

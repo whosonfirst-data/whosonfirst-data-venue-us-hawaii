@@ -1,0 +1,71 @@
+{
+  "id": 857617685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8418,21.310175,-157.8418,21.310175",
+    "geom:latitude":21.310175,
+    "geom:longitude":-157.8418,
+    "iso:country":"US",
+    "sg:address":"1022 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 0829",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lEIFpRUxdJBCtZUfxbn1L_21.310175_-157.841800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204371,
+    "wof:geomhash":"0b24c594698544774051a0cd5d10586a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857617685
+        }
+    ],
+    "wof:id":857617685,
+    "wof:lastmodified":1464204371,
+    "wof:name":"Peter Hwu Shungcho",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -157.8418,
+    21.310175,
+    -157.8418,
+    21.310175
+],
+  "geometry": {"coordinates":[-157.84180000000001,21.310175],"type":"Point"}
+}

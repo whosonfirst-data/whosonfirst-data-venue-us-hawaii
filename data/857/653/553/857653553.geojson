@@ -1,0 +1,66 @@
+{
+  "id": 857653553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881744,21.328874,-157.881744,21.328874",
+    "geom:latitude":21.328874,
+    "geom:longitude":-157.881744,
+    "iso:country":"US",
+    "sg:address":"2028 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8092",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sApEKrlJe8RqMp1hZdd7C_21.328874_-157.881744@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205614,
+    "wof:geomhash":"4aa229e6b2e778f36a95adad7bf687b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857653553
+        }
+    ],
+    "wof:id":857653553,
+    "wof:lastmodified":1464205614,
+    "wof:name":"Meg's Mini Mart",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.881744,
+    21.328874,
+    -157.881744,
+    21.328874
+],
+  "geometry": {"coordinates":[-157.881744,21.328874],"type":"Point"}
+}

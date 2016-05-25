@@ -1,0 +1,72 @@
+{
+  "id": 857581043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.892401,21.3447,-157.892401,21.3447",
+    "geom:latitude":21.3447,
+    "geom:longitude":-157.892401,
+    "iso:country":"US",
+    "sg:address":"1352 Pineapple Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5334",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:website":"www.mgf-hawaii.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GXxATrQzIO7SKwsdf9gEx_21.344700_-157.892401@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203572,
+    "wof:geomhash":"f9b7558b37420d99bcf289c82442eb7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857581043
+        }
+    ],
+    "wof:id":857581043,
+    "wof:lastmodified":1464203572,
+    "wof:name":"Moanalua Gardens Foundations",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.892401,
+    21.3447,
+    -157.892401,
+    21.3447
+],
+  "geometry": {"coordinates":[-157.89240100000001,21.3447],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857614849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886249,21.32455,-157.886249,21.32455",
+    "geom:latitude":21.32455,
+    "geom:longitude":-157.886249,
+    "iso:country":"US",
+    "sg:address":"2004 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 9801",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4geY2d7nAFjUEaEZffETea_21.324550_-157.886249@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204317,
+    "wof:geomhash":"39d05fc80a3f1afecad8f5e651a43cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857614849
+        }
+    ],
+    "wof:id":857614849,
+    "wof:lastmodified":1464204317,
+    "wof:name":"Allied Pacific Builders Inc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.886249,
+    21.32455,
+    -157.886249,
+    21.32455
+],
+  "geometry": {"coordinates":[-157.88624899999999,21.32455],"type":"Point"}
+}

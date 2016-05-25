@@ -1,0 +1,71 @@
+{
+  "id": 857554055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319351,22.064833,-159.319351,22.064833",
+    "geom:latitude":22.064833,
+    "geom:longitude":-159.319351,
+    "iso:country":"US",
+    "sg:address":"953 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 4121",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47dRfw36K0kWqklSwDqYTg_22.064833_-159.319351@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203007,
+    "wof:geomhash":"a0f0b310626be316e26d5ad2d0e104bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857554055
+        }
+    ],
+    "wof:id":857554055,
+    "wof:lastmodified":1464203007,
+    "wof:name":"Nakamura Repair Shop",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -159.319351,
+    22.064833,
+    -159.319351,
+    22.064833
+],
+  "geometry": {"coordinates":[-159.31935100000001,22.064833],"type":"Point"}
+}

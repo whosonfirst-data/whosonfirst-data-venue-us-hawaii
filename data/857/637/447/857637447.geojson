@@ -1,0 +1,73 @@
+{
+  "id": 857637447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856589,21.322489,-157.856589,21.322489",
+    "geom:latitude":21.322489,
+    "geom:longitude":-157.856589,
+    "iso:country":"US",
+    "sg:address":"321 N Kuakini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4544",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31cQBt2v9xyV52AbMyjXv6_21.322489_-157.856589@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204921,
+    "wof:geomhash":"36bbfd0c04f22b1059d89f7e82e5c557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857637447
+        }
+    ],
+    "wof:id":857637447,
+    "wof:lastmodified":1464204921,
+    "wof:name":"James D Greig Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.856589,
+    21.322489,
+    -157.856589,
+    21.322489
+],
+  "geometry": {"coordinates":[-157.85658900000001,21.322489],"type":"Point"}
+}

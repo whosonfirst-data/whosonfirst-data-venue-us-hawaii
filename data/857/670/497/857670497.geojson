@@ -1,0 +1,71 @@
+{
+  "id": 857670497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878883,21.323581,-157.878883,21.323581",
+    "geom:latitude":21.323581,
+    "geom:longitude":-157.878883,
+    "iso:country":"US",
+    "sg:address":"1451 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 5985",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c6nzUl0cntmlcoAuRsZei_21.323581_-157.878883@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206358,
+    "wof:geomhash":"7cb7cfc8d1c2b636848fc4889bc6b516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857670497
+        }
+    ],
+    "wof:id":857670497,
+    "wof:lastmodified":1464206358,
+    "wof:name":"Jams World",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.878883,
+    21.323581,
+    -157.878883,
+    21.323581
+],
+  "geometry": {"coordinates":[-157.878883,21.323581],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857662861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.508725,20.889809,-156.508725,20.889809",
+    "geom:latitude":20.889809,
+    "geom:longitude":-156.508725,
+    "iso:country":"US",
+    "sg:address":"2200 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5262",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OGPtsDh98UTI7L9q0xYKs_20.889809_-156.508725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206042,
+    "wof:geomhash":"ab938aace313445dcd7a54bb957963bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857662861
+        }
+    ],
+    "wof:id":857662861,
+    "wof:lastmodified":1464206042,
+    "wof:name":"Ralph Rosenberg-Court Reporter",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -156.508725,
+    20.889809,
+    -156.508725,
+    20.889809
+],
+  "geometry": {"coordinates":[-156.508725,20.889809],"type":"Point"}
+}

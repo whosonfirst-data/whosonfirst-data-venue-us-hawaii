@@ -1,0 +1,71 @@
+{
+  "id": 857575369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.467231,20.078922,-155.467231,20.078922",
+    "geom:latitude":20.078922,
+    "geom:longitude":-155.467231,
+    "iso:country":"US",
+    "sg:address":"3610 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 9155",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RbJfiticiWddamNmEzElo_20.078922_-155.467231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203459,
+    "wof:geomhash":"38c68f13edbacbf66d10f97a85323e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857575369
+        }
+    ],
+    "wof:id":857575369,
+    "wof:lastmodified":1464203459,
+    "wof:name":"Pikake Jewelers",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -155.467231,
+    20.078922,
+    -155.467231,
+    20.078922
+],
+  "geometry": {"coordinates":[-155.467231,20.078922],"type":"Point"}
+}

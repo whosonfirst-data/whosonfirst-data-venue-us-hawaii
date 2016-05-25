@@ -1,0 +1,75 @@
+{
+  "id": 857674055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896436,21.335238,-157.896436,21.335238",
+    "geom:latitude":21.335238,
+    "geom:longitude":-157.896436,
+    "iso:country":"US",
+    "sg:address":"2645 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0077",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i4VIxUXjjTZ7Q0bxYPlkC_21.335238_-157.896436@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206489,
+    "wof:geomhash":"1abe938a7ee598ba7069d5835a2a9f26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857674055
+        }
+    ],
+    "wof:id":857674055,
+    "wof:lastmodified":1464206489,
+    "wof:name":"Hawaii Pro Sound & Video",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.896436,
+    21.335238,
+    -157.896436,
+    21.335238
+],
+  "geometry": {"coordinates":[-157.89643599999999,21.335238],"type":"Point"}
+}

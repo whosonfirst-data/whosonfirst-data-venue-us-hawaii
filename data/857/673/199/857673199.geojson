@@ -1,0 +1,71 @@
+{
+  "id": 857673199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930976,21.378787,-157.930976,21.378787",
+    "geom:latitude":21.378787,
+    "geom:longitude":-157.930976,
+    "iso:country":"US",
+    "sg:address":"209 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 2255",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yf45QO0XMm6xeHyE5qkIa_21.378787_-157.930976@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206459,
+    "wof:geomhash":"a33ce3088283c9a77dd5b4379d6e6105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857673199
+        }
+    ],
+    "wof:id":857673199,
+    "wof:lastmodified":1464206459,
+    "wof:name":"Sushi Land",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.930976,
+    21.378787,
+    -157.930976,
+    21.378787
+],
+  "geometry": {"coordinates":[-157.93097599999999,21.378787],"type":"Point"}
+}

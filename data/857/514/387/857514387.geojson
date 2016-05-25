@@ -1,0 +1,73 @@
+{
+  "id": 857514387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.351875,22.079015,-159.351875,22.079015",
+    "geom:latitude":22.079015,
+    "geom:longitude":-159.351875,
+    "iso:country":"US",
+    "sg:address":"5688 Olohena Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3936",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QvcfB41h2zJzVDyweWF6f_22.079015_-159.351875@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202240,
+    "wof:geomhash":"bc0e32b993804aace44295b13770c9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890385,
+            "region_id":85688671,
+            "venue_id":857514387
+        }
+    ],
+    "wof:id":857514387,
+    "wof:lastmodified":1464202240,
+    "wof:name":"G & D Svc",
+    "wof:parent_id":85890385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -159.351875,
+    22.079015,
+    -159.351875,
+    22.079015
+],
+  "geometry": {"coordinates":[-159.35187500000001,22.079015],"type":"Point"}
+}

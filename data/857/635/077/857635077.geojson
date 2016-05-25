@@ -1,0 +1,73 @@
+{
+  "id": 857635077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843411,21.45284,-157.843411,21.45284",
+    "geom:latitude":21.45284,
+    "geom:longitude":-157.843411,
+    "iso:country":"US",
+    "sg:address":"501 Ahilama Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 4767",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nursery",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VCzyq8XlwMuMj4zGqSNXf_21.452840_-157.843411@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204835,
+    "wof:geomhash":"bcaa23d4d9d2e062c031b99a8624258c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857635077
+        }
+    ],
+    "wof:id":857635077,
+    "wof:lastmodified":1464204835,
+    "wof:name":"Green Field Nursery",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "tree"
+    ]
+},
+  "bbox": [
+    -157.843411,
+    21.45284,
+    -157.843411,
+    21.45284
+],
+  "geometry": {"coordinates":[-157.843411,21.45284],"type":"Point"}
+}

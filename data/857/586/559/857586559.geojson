@@ -1,0 +1,71 @@
+{
+  "id": 857586559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88346,21.330961,-157.88346,21.330961",
+    "geom:latitude":21.330961,
+    "geom:longitude":-157.88346,
+    "iso:country":"US",
+    "sg:address":"2111 Eluwene St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0088",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SVnknsCsOrmKiF0uclhqt_21.330961_-157.883460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203685,
+    "wof:geomhash":"b9d68676ca1483d699557231fc285f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857586559
+        }
+    ],
+    "wof:id":857586559,
+    "wof:lastmodified":1464203685,
+    "wof:name":"Sum Corp of Hawaii",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.88346,
+    21.330961,
+    -157.88346,
+    21.330961
+],
+  "geometry": {"coordinates":[-157.88346000000001,21.330961],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857599739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.729856,21.397815,-157.729856,21.397815",
+    "geom:latitude":21.397815,
+    "geom:longitude":-157.729856,
+    "iso:country":"US",
+    "sg:address":"46 Kailua Rd",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 234 7555",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vWHCAX7xrla6z0m4Tr10P_21.397815_-157.729856@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203978,
+    "wof:geomhash":"24916aa3fba999adf8228c9571eda838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857599739
+        }
+    ],
+    "wof:id":857599739,
+    "wof:lastmodified":1464203978,
+    "wof:name":"Sentry Kailua Kaneohe Taxi",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.729856,
+    21.397815,
+    -157.729856,
+    21.397815
+],
+  "geometry": {"coordinates":[-157.72985600000001,21.397815],"type":"Point"}
+}

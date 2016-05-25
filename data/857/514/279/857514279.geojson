@@ -1,0 +1,71 @@
+{
+  "id": 857514279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005782,21.311344,-158.005782,21.311344",
+    "geom:latitude":21.311344,
+    "geom:longitude":-158.005782,
+    "iso:country":"US",
+    "sg:address":"534 Aekai Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 689 4533",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5asRRCi8prwYeKN86DxDWV_21.311344_-158.005782@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202238,
+    "wof:geomhash":"23b46a092da4d9802009c46c514d6fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857514279
+        }
+    ],
+    "wof:id":857514279,
+    "wof:lastmodified":1464202238,
+    "wof:name":"Di's Flowers",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.005782,
+    21.311344,
+    -158.005782,
+    21.311344
+],
+  "geometry": {"coordinates":[-158.00578200000001,21.311344],"type":"Point"}
+}

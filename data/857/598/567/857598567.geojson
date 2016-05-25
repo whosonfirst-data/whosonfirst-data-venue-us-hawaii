@@ -1,0 +1,71 @@
+{
+  "id": 857598567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914277,21.370068,-157.914277,21.370068",
+    "geom:latitude":21.370068,
+    "geom:longitude":-157.914277,
+    "iso:country":"US",
+    "sg:address":"825 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8126",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dObUmLrfZtdmPhjAPNtqv_21.370068_-157.914277@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203952,
+    "wof:geomhash":"4b5b58f75706cd8642c15d3a75043212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857598567
+        }
+    ],
+    "wof:id":857598567,
+    "wof:lastmodified":1464203952,
+    "wof:name":"Kama'Aina Kids",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.914277,
+    21.370068,
+    -157.914277,
+    21.370068
+],
+  "geometry": {"coordinates":[-157.914277,21.370068],"type":"Point"}
+}

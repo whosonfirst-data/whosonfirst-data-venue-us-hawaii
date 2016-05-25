@@ -1,0 +1,73 @@
+{
+  "id": 857653309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.46709,20.078852,-155.46709,20.078852",
+    "geom:latitude":20.078852,
+    "geom:longitude":-155.46709,
+    "iso:country":"US",
+    "sg:address":"3620 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7715",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YAmrlPFJ32jXP1dsdOaMU_20.078852_-155.467090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205602,
+    "wof:geomhash":"57edf88997b0b12c8f1c25c3ac399c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857653309
+        }
+    ],
+    "wof:id":857653309,
+    "wof:lastmodified":1464205602,
+    "wof:name":"Hugh Jenkins Glass Studio",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -155.46709,
+    20.078852,
+    -155.46709,
+    20.078852
+],
+  "geometry": {"coordinates":[-155.46709000000001,20.078852],"type":"Point"}
+}

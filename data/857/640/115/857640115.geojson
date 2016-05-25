@@ -1,0 +1,71 @@
+{
+  "id": 857640115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857121,21.312298,-157.857121,21.312298",
+    "geom:latitude":21.312298,
+    "geom:longitude":-157.857121,
+    "iso:country":"US",
+    "sg:address":"1306 Pali Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 9049",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zmZAvhhrNQ6pF6VZ5ij7C_21.312298_-157.857121@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205022,
+    "wof:geomhash":"172aeb26546f2f4abbbaf25c4ffd7fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857640115
+        }
+    ],
+    "wof:id":857640115,
+    "wof:lastmodified":1464205022,
+    "wof:name":"Hawaii Pacific Press",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -157.857121,
+    21.312298,
+    -157.857121,
+    21.312298
+],
+  "geometry": {"coordinates":[-157.85712100000001,21.312298],"type":"Point"}
+}

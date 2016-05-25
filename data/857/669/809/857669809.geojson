@@ -1,0 +1,71 @@
+{
+  "id": 857669809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883048,21.324494,-157.883048,21.324494",
+    "geom:latitude":21.324494,
+    "geom:longitude":-157.883048,
+    "iso:country":"US",
+    "sg:address":"1822 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2147",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RMXmD1TTRWPvfbqsFJbki_21.324494_-157.883048@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206334,
+    "wof:geomhash":"e251145c168a866c4371c73fc78b5992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857669809
+        }
+    ],
+    "wof:id":857669809,
+    "wof:lastmodified":1464206334,
+    "wof:name":"Club 77",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.883048,
+    21.324494,
+    -157.883048,
+    21.324494
+],
+  "geometry": {"coordinates":[-157.883048,21.324494],"type":"Point"}
+}

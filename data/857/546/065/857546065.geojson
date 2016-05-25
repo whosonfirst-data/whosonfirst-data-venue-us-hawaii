@@ -1,0 +1,75 @@
+{
+  "id": 857546065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.908183,21.333662,-157.908183,21.333662",
+    "geom:latitude":21.333662,
+    "geom:longitude":-157.908183,
+    "iso:country":"US",
+    "sg:address":"3280 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 1796",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CngoSXJnGMJTUtrtKlneU_21.333662_-157.908183@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202857,
+    "wof:geomhash":"22ca1e7fe43d7b3badfa5ba96e2273e3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857546065
+        }
+    ],
+    "wof:id":857546065,
+    "wof:lastmodified":1464202857,
+    "wof:name":"Express Air Cargo Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.908183,
+    21.333662,
+    -157.908183,
+    21.333662
+],
+  "geometry": {"coordinates":[-157.90818300000001,21.333662],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 857536333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.942123,21.338713,-157.942123,21.338713",
+    "geom:latitude":21.338713,
+    "geom:longitude":-157.942123,
+    "iso:country":"US",
+    "sg:address":"183 Honohono St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1826",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "assistant",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DUtlyCjXK1vA1HDlz7GXW_21.338713_-157.942123@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202669,
+    "wof:geomhash":"80116f59db2f6bade628f36aa4e38e58",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857536333
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857536333
+        }
+    ],
+    "wof:id":857536333,
+    "wof:lastmodified":1464202669,
+    "wof:name":"Bianca L Graham",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assistant",
+        "dental"
+    ]
+},
+  "bbox": [
+    -157.942123,
+    21.338713,
+    -157.942123,
+    21.338713
+],
+  "geometry": {"coordinates":[-157.94212300000001,21.338713],"type":"Point"}
+}

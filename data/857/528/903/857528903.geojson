@@ -1,0 +1,74 @@
+{
+  "id": 857528903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02014,21.380638,-158.02014,21.380638",
+    "geom:latitude":21.380638,
+    "geom:longitude":-158.02014,
+    "iso:country":"US",
+    "sg:address":"220 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1471",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0nxmn5JSMePgo5UrglpS_21.380638_-158.020140@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202522,
+    "wof:geomhash":"65a3b905ba1a1f3cea031d3b8bd15577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857528903
+        }
+    ],
+    "wof:id":857528903,
+    "wof:lastmodified":1464202522,
+    "wof:name":"George's Auto Parts",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.02014,
+    21.380638,
+    -158.02014,
+    21.380638
+],
+  "geometry": {"coordinates":[-158.02014,21.380638],"type":"Point"}
+}

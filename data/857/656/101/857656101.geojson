@@ -1,0 +1,66 @@
+{
+  "id": 857656101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.734126,21.282991,-157.734126,21.282991",
+    "geom:latitude":21.282991,
+    "geom:longitude":-157.734126,
+    "iso:country":"US",
+    "sg:address":"292 Mahimahi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 5328",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4msyxWknjJvU3Z0quJ9aKG_21.282991_-157.734126@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205729,
+    "wof:geomhash":"5d946f5321153cd796be7c2e2c93eee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857656101
+        }
+    ],
+    "wof:id":857656101,
+    "wof:lastmodified":1464205729,
+    "wof:name":"Skippys Distributors",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.734126,
+    21.282991,
+    -157.734126,
+    21.282991
+],
+  "geometry": {"coordinates":[-157.734126,21.282991],"type":"Point"}
+}

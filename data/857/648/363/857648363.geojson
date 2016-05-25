@@ -1,0 +1,71 @@
+{
+  "id": 857648363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.909312,21.609111,-157.909312,21.609111",
+    "geom:latitude":21.609111,
+    "geom:longitude":-157.909312,
+    "iso:country":"US",
+    "sg:address":"46 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 8925",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4flGR2ZQmqVRp6PqYhqwRN_21.609111_-157.909312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205390,
+    "wof:geomhash":"7e04dee315eb43e044274ae711420e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857648363
+        }
+    ],
+    "wof:id":857648363,
+    "wof:lastmodified":1464205390,
+    "wof:name":"Hauula Elementary School",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.909312,
+    21.609111,
+    -157.909312,
+    21.609111
+],
+  "geometry": {"coordinates":[-157.909312,21.609111],"type":"Point"}
+}

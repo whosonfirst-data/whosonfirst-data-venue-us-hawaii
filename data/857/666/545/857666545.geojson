@@ -1,0 +1,71 @@
+{
+  "id": 857666545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913779,21.358362,-157.913779,21.358362",
+    "geom:latitude":21.358362,
+    "geom:longitude":-157.913779,
+    "iso:country":"US",
+    "sg:address":"1902 Croton Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 9830",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ai301okPLqrijB6YOEgI6_21.358362_-157.913779@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206208,
+    "wof:geomhash":"246e091464e153e5f1f439674eea58bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857666545
+        }
+    ],
+    "wof:id":857666545,
+    "wof:lastmodified":1464206208,
+    "wof:name":"Lola Kelley",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provider"
+    ]
+},
+  "bbox": [
+    -157.913779,
+    21.358362,
+    -157.913779,
+    21.358362
+],
+  "geometry": {"coordinates":[-157.91377900000001,21.358362],"type":"Point"}
+}

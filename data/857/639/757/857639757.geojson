@@ -1,0 +1,79 @@
+{
+  "id": 857639757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.456603,20.882317,-156.456603,20.882317",
+    "geom:latitude":20.882317,
+    "geom:longitude":-156.456603,
+    "iso:country":"US",
+    "sg:address":"220 Papa Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 8310",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "product",
+        "mate",
+        "wire",
+        "fabricated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MpaXzKij0b0vWO3EgHCMT_20.882317_-156.456603@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205010,
+    "wof:geomhash":"be8a95fa0caf979a1c43499663158b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857639757
+        }
+    ],
+    "wof:id":857639757,
+    "wof:lastmodified":1464205010,
+    "wof:name":"Wire Products",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "product",
+        "mate",
+        "wire",
+        "fabricated"
+    ]
+},
+  "bbox": [
+    -156.456603,
+    20.882317,
+    -156.456603,
+    20.882317
+],
+  "geometry": {"coordinates":[-156.456603,20.882317],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857625371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81418,21.277357,-157.81418,21.277357",
+    "geom:latitude":21.277357,
+    "geom:longitude":-157.81418,
+    "iso:country":"US",
+    "sg:address":"565 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 2155",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nAwo0AYwfDfwzRs0zzXjS_21.277357_-157.814180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204569,
+    "wof:geomhash":"51efcfea548d171665073a0e99302f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857625371
+        }
+    ],
+    "wof:id":857625371,
+    "wof:lastmodified":1464204569,
+    "wof:name":"Dicks Barber Shop",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.81418,
+    21.277357,
+    -157.81418,
+    21.277357
+],
+  "geometry": {"coordinates":[-157.81417999999999,21.277357],"type":"Point"}
+}

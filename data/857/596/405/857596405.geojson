@@ -1,0 +1,73 @@
+{
+  "id": 857596405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839848,21.29195,-157.839848,21.29195",
+    "geom:latitude":21.29195,
+    "geom:longitude":-157.839848,
+    "iso:country":"US",
+    "sg:address":"1687 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7301",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o0ajLMQUnAgT3igqWpIT8_21.291950_-157.839848@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203905,
+    "wof:geomhash":"74c33b0b2ad5d40e78ad256a42b18277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857596405
+        }
+    ],
+    "wof:id":857596405,
+    "wof:lastmodified":1464203905,
+    "wof:name":"Xanadu Video",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.839848,
+    21.29195,
+    -157.839848,
+    21.29195
+],
+  "geometry": {"coordinates":[-157.83984799999999,21.29195],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857602365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861368,21.298979,-157.861368,21.298979",
+    "geom:latitude":21.298979,
+    "geom:longitude":-157.861368,
+    "iso:country":"US",
+    "sg:address":"699 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 1221",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y9YlLpNZwFbV6bMN9z1e2_21.298979_-157.861368@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204036,
+    "wof:geomhash":"7985d889a61afdcc546b5944c34b1d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857602365
+        }
+    ],
+    "wof:id":857602365,
+    "wof:lastmodified":1464204036,
+    "wof:name":"Walk In Liquor Store",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.861368,
+    21.298979,
+    -157.861368,
+    21.298979
+],
+  "geometry": {"coordinates":[-157.861368,21.298979],"type":"Point"}
+}

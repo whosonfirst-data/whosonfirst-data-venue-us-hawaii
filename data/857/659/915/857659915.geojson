@@ -1,0 +1,71 @@
+{
+  "id": 857659915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.118023,21.317674,-158.118023,21.317674",
+    "geom:latitude":21.317674,
+    "geom:longitude":-158.118023,
+    "iso:country":"US",
+    "sg:address":"522 Nukuawa St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5803",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KnqY3tq8gDchhdLEeHxqE_21.317674_-158.118023@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205900,
+    "wof:geomhash":"a01769e81a0fc518cfaaa823bc11fb47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857659915
+        }
+    ],
+    "wof:id":857659915,
+    "wof:lastmodified":1464205900,
+    "wof:name":"Beachside Roofing LLC",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.118023,
+    21.317674,
+    -158.118023,
+    21.317674
+],
+  "geometry": {"coordinates":[-158.11802299999999,21.317674],"type":"Point"}
+}

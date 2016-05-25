@@ -1,0 +1,75 @@
+{
+  "id": 857653703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836993,21.305112,-157.836993,21.305112",
+    "geom:latitude":21.305112,
+    "geom:longitude":-157.836993,
+    "iso:country":"US",
+    "sg:address":"1348 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 525 6455",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sm8xbCacf1X9Ohnniazo5_21.305112_-157.836993@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205625,
+    "wof:geomhash":"9e52480ab0121e9107566f1a8bf1c2b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857653703
+        }
+    ],
+    "wof:id":857653703,
+    "wof:lastmodified":1464205625,
+    "wof:name":"House Of Seven Arts",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.836993,
+    21.305112,
+    -157.836993,
+    21.305112
+],
+  "geometry": {"coordinates":[-157.83699300000001,21.305112],"type":"Point"}
+}

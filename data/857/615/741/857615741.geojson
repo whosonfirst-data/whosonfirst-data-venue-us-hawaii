@@ -1,0 +1,75 @@
+{
+  "id": 857615741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.667079,20.991271,-156.667079,20.991271",
+    "geom:latitude":20.991271,
+    "geom:longitude":-156.667079,
+    "iso:country":"US",
+    "sg:address":"80 Malialani Pl",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 662 6900",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937639,
+        102085577,
+        85890523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z9BDYHtyxS95JS7VV2t4F_20.991271_-156.667079@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204335,
+    "wof:geomhash":"5aec64bfd205491c6ef0cd87f74c5121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937639,
+            "neighbourhood_id":85890523,
+            "region_id":85688671,
+            "venue_id":857615741
+        }
+    ],
+    "wof:id":857615741,
+    "wof:lastmodified":1464204335,
+    "wof:name":"Kaiser Permanente Medical Care",
+    "wof:parent_id":85890523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -156.667079,
+    20.991271,
+    -156.667079,
+    20.991271
+],
+  "geometry": {"coordinates":[-156.667079,20.991271],"type":"Point"}
+}

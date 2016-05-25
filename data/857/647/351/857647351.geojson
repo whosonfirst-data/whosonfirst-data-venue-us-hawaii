@@ -1,0 +1,66 @@
+{
+  "id": 857647351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.753296,21.278191,-157.753296,21.278191",
+    "geom:latitude":21.278191,
+    "geom:longitude":-157.753296,
+    "iso:country":"US",
+    "sg:address":"5246 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 3888",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nItrQh7ceLjyyRYuD3uDH_21.278191_-157.753296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205349,
+    "wof:geomhash":"f9370f5e52c68d90e7f2988fa4d8d3e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857647351
+        }
+    ],
+    "wof:id":857647351,
+    "wof:lastmodified":1464205349,
+    "wof:name":"Aina Haina Branch Library",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.753296,
+    21.278191,
+    -157.753296,
+    21.278191
+],
+  "geometry": {"coordinates":[-157.75329600000001,21.278191],"type":"Point"}
+}

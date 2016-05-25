@@ -1,0 +1,73 @@
+{
+  "id": 857680115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823435,21.275001,-157.823435,21.275001",
+    "geom:latitude":21.275001,
+    "geom:longitude":-157.823435,
+    "iso:country":"US",
+    "sg:address":"140 Liliuokalani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 4742",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vatAkmd1PAABIWl3by4O4_21.275001_-157.823435@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206733,
+    "wof:geomhash":"bd2d7a72429514bf48bf0ca5dfbd400d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857680115
+        }
+    ],
+    "wof:id":857680115,
+    "wof:lastmodified":1464206733,
+    "wof:name":"Fun Sun Vacation",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.823435,
+    21.275001,
+    -157.823435,
+    21.275001
+],
+  "geometry": {"coordinates":[-157.82343499999999,21.275001],"type":"Point"}
+}

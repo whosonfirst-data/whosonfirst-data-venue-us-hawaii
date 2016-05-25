@@ -1,0 +1,75 @@
+{
+  "id": 857622229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.039131,21.674995,-158.039131,21.674995",
+    "geom:latitude":21.674995,
+    "geom:longitude":-158.039131,
+    "iso:country":"US",
+    "sg:address":"92 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 9054",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85851545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VxC6NqrmFOWiaBPAjnU5M_21.674995_-158.039131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204485,
+    "wof:geomhash":"a983bcb2f228362b3bff613e94c426c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85851545,
+            "region_id":85688671,
+            "venue_id":857622229
+        }
+    ],
+    "wof:id":857622229,
+    "wof:lastmodified":1464204485,
+    "wof:name":"Paumalu Electric Inc",
+    "wof:parent_id":85851545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.039131,
+    21.674995,
+    -158.039131,
+    21.674995
+],
+  "geometry": {"coordinates":[-158.039131,21.674995],"type":"Point"}
+}

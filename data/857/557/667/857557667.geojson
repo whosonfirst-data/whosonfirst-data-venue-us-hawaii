@@ -1,0 +1,71 @@
+{
+  "id": 857557667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003221,21.385222,-158.003221,21.385222",
+    "geom:latitude":21.385222,
+    "geom:longitude":-158.003221,
+    "iso:country":"US",
+    "sg:address":"750 Hikimoe St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 2622",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xkX15LmuWuVqtxaV0TILl_21.385222_-158.003221@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203091,
+    "wof:geomhash":"1d433bc62c263d6f1a5114ac77ebf2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857557667
+        }
+    ],
+    "wof:id":857557667,
+    "wof:lastmodified":1464203091,
+    "wof:name":"Metro",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -158.003221,
+    21.385222,
+    -158.003221,
+    21.385222
+],
+  "geometry": {"coordinates":[-158.003221,21.385222],"type":"Point"}
+}

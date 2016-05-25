@@ -1,0 +1,73 @@
+{
+  "id": 857511507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860791,21.306807,-157.860791,21.306807",
+    "geom:latitude":21.306807,
+    "geom:longitude":-157.860791,
+    "iso:country":"US",
+    "sg:address":"810 Richards St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 5667",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xsNcI08mu3oof5x7R5PYm_21.306807_-157.860791@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202177,
+    "wof:geomhash":"a928dda032270c368c7cc361867bf83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857511507
+        }
+    ],
+    "wof:id":857511507,
+    "wof:lastmodified":1464202177,
+    "wof:name":"Child Welfare Services",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -157.860791,
+    21.306807,
+    -157.860791,
+    21.306807
+],
+  "geometry": {"coordinates":[-157.86079100000001,21.306807],"type":"Point"}
+}

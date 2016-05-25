@@ -1,0 +1,71 @@
+{
+  "id": 857540037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.0212,21.338785,-158.0212,21.338785",
+    "geom:latitude":21.338785,
+    "geom:longitude":-158.0212,
+    "iso:country":"US",
+    "sg:address":"1561 Keaunui Dr",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 1940",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yLiUL5YEagGEnTEHIHOMt_21.338785_-158.021200@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202737,
+    "wof:geomhash":"db32c5147b333c59888d4e3b0204383a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857540037
+        }
+    ],
+    "wof:id":857540037,
+    "wof:lastmodified":1464202737,
+    "wof:name":"Kumon USA",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -158.0212,
+    21.338785,
+    -158.0212,
+    21.338785
+],
+  "geometry": {"coordinates":[-158.02119999999999,21.338785],"type":"Point"}
+}

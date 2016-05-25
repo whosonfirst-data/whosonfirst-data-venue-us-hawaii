@@ -1,0 +1,71 @@
+{
+  "id": 857528651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.501596,20.896302,-156.501596,20.896302",
+    "geom:latitude":20.896302,
+    "geom:longitude":-156.501596,
+    "iso:country":"US",
+    "sg:address":"220 Imi Kala St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7405",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NEGRUuiQTxj5HM3rDNRs4_20.896302_-156.501596@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202518,
+    "wof:geomhash":"543e0c00e28ff90fcd6b1c7b16c321ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857528651
+        }
+    ],
+    "wof:id":857528651,
+    "wof:lastmodified":1464202518,
+    "wof:name":"Mental Health Kokua",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -156.501596,
+    20.896302,
+    -156.501596,
+    20.896302
+],
+  "geometry": {"coordinates":[-156.50159600000001,20.896302],"type":"Point"}
+}

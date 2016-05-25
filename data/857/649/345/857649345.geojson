@@ -1,0 +1,71 @@
+{
+  "id": 857649345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866232,21.32603,-157.866232,21.32603",
+    "geom:latitude":21.32603,
+    "geom:longitude":-157.866232,
+    "iso:country":"US",
+    "sg:address":"1411 Auld Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 5599",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gq0iucyyGI4ZGjmp6mhIO_21.326030_-157.866232@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205429,
+    "wof:geomhash":"1bc09796f9909c6778c14b028934c702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857649345
+        }
+    ],
+    "wof:id":857649345,
+    "wof:lastmodified":1464205429,
+    "wof:name":"Dangs Limousine Service",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.866232,
+    21.32603,
+    -157.866232,
+    21.32603
+],
+  "geometry": {"coordinates":[-157.866232,21.32603],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857675595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.746496,20.221328,-155.746496,20.221328",
+    "geom:latitude":20.221328,
+    "geom:longitude":-155.746496,
+    "iso:country":"US",
+    "sg:address":"275 Keokea Beach Rd",
+    "sg:city":"Kapaau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 889 5841",
+    "sg:postcode":"96755",
+    "sg:province":"HI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890229,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XX8rOUeleyvHwbgtuj2ri_20.221328_-155.746496@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206556,
+    "wof:geomhash":"e1d6cb1996892f5a524f5e655446e8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890229,
+            "region_id":85688671,
+            "venue_id":857675595
+        }
+    ],
+    "wof:id":857675595,
+    "wof:lastmodified":1464206556,
+    "wof:name":"Elliott Earthmoving Inc",
+    "wof:parent_id":85890229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.746496,
+    20.221328,
+    -155.746496,
+    20.221328
+],
+  "geometry": {"coordinates":[-155.74649600000001,20.221328],"type":"Point"}
+}

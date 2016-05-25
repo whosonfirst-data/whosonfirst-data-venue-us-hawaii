@@ -1,0 +1,71 @@
+{
+  "id": 857600833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504049,20.890273,-156.504049,20.890273",
+    "geom:latitude":20.890273,
+    "geom:longitude":-156.504049,
+    "iso:country":"US",
+    "sg:address":"20 S Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7771",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zcGkO3bb7lmOWVEiLsTVj_20.890273_-156.504049@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204004,
+    "wof:geomhash":"44e654356acaa805787ea31109dc9af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857600833
+        }
+    ],
+    "wof:id":857600833,
+    "wof:lastmodified":1464204004,
+    "wof:name":"Lions Den Unlmted Hair Dsigns",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.504049,
+    20.890273,
+    -156.504049,
+    20.890273
+],
+  "geometry": {"coordinates":[-156.50404900000001,20.890273],"type":"Point"}
+}

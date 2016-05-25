@@ -1,0 +1,71 @@
+{
+  "id": 857533055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.042679,21.671668,-158.042679,21.671668",
+    "geom:latitude":21.671668,
+    "geom:longitude":-158.042679,
+    "iso:country":"US",
+    "sg:address":"176 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 8131",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85851545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55AIqoE6lwdxJ266HDSsnA_21.671668_-158.042679@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202604,
+    "wof:geomhash":"d0147bb2c9abe858bc314508adc75bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85851545,
+            "region_id":85688671,
+            "venue_id":857533055
+        }
+    ],
+    "wof:id":857533055,
+    "wof:lastmodified":1464202604,
+    "wof:name":"Kammies Market",
+    "wof:parent_id":85851545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -158.042679,
+    21.671668,
+    -158.042679,
+    21.671668
+],
+  "geometry": {"coordinates":[-158.04267899999999,21.671668],"type":"Point"}
+}

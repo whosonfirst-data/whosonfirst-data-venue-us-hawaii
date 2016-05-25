@@ -1,0 +1,69 @@
+{
+  "id": 857666407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.079781,21.337131,-158.079781,21.337131",
+    "geom:latitude":21.337131,
+    "geom:longitude":-158.079781,
+    "iso:country":"US",
+    "sg:address":"525 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 8808",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rEVyEHJuFI9HzPpXdNcuA_21.337131_-158.079781@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206203,
+    "wof:geomhash":"5cd9776c2e515c42758249c6a1af703a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857666407
+        }
+    ],
+    "wof:id":857666407,
+    "wof:lastmodified":1464206203,
+    "wof:name":"Dental Care Kapolei",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -158.079781,
+    21.337131,
+    -158.079781,
+    21.337131
+],
+  "geometry": {"coordinates":[-158.079781,21.337131],"type":"Point"}
+}

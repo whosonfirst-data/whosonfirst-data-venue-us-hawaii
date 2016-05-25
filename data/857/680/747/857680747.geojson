@@ -1,0 +1,78 @@
+{
+  "id": 857680747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.994731,19.644825,-155.994731,19.644825",
+    "geom:latitude":19.644825,
+    "geom:longitude":-155.994731,
+    "iso:country":"US",
+    "sg:address":"74-5588 Palani Rd",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/north-kona/180858-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 334 0370",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y71aSOsUX3LbrlP6jzcnN_19.644825_-155.994731@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206754,
+    "wof:geomhash":"23409a1f85c3db5e519ee984408d1ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857680747
+        }
+    ],
+    "wof:id":857680747,
+    "wof:lastmodified":1464206754,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -155.994731,
+    19.644825,
+    -155.994731,
+    19.644825
+],
+  "geometry": {"coordinates":[-155.994731,19.644825],"type":"Point"}
+}

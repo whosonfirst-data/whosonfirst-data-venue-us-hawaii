@@ -1,0 +1,73 @@
+{
+  "id": 857605981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862768,21.313718,-157.862768,21.313718",
+    "geom:latitude":21.313718,
+    "geom:longitude":-157.862768,
+    "iso:country":"US",
+    "sg:address":"1197 River St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4616",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garment",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l35hxYd1bokjGieqBIPSx_21.313718_-157.862768@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204116,
+    "wof:geomhash":"4c084b680aebc7b23453432abf2124d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857605981
+        }
+    ],
+    "wof:id":857605981,
+    "wof:lastmodified":1464204116,
+    "wof:name":"MEI Sun Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.862768,
+    21.313718,
+    -157.862768,
+    21.313718
+],
+  "geometry": {"coordinates":[-157.86276799999999,21.313718],"type":"Point"}
+}

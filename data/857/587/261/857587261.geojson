@@ -1,0 +1,71 @@
+{
+  "id": 857587261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004771,21.503781,-158.004771,21.503781",
+    "geom:latitude":21.503781,
+    "geom:longitude":-158.004771,
+    "iso:country":"US",
+    "sg:address":"1825 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 1444",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BgJ2hrMsMuscuoasDiYHq_21.503781_-158.004771@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203699,
+    "wof:geomhash":"e0facb8ff2b3d3c1351264bc697cf3d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857587261
+        }
+    ],
+    "wof:id":857587261,
+    "wof:lastmodified":1464203699,
+    "wof:name":"Howard's Plumbing Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.004771,
+    21.503781,
+    -158.004771,
+    21.503781
+],
+  "geometry": {"coordinates":[-158.00477100000001,21.503781],"type":"Point"}
+}

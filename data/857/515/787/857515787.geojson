@@ -1,0 +1,71 @@
+{
+  "id": 857515787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.975688,21.409335,-157.975688,21.409335",
+    "geom:latitude":21.409335,
+    "geom:longitude":-157.975688,
+    "iso:country":"US",
+    "sg:address":"1255 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 7751",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fuRBQ6sDLMpoPnu0kNYn9_21.409335_-157.975688@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202267,
+    "wof:geomhash":"c880fd1bd87a277cd65cb7d24755dd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857515787
+        }
+    ],
+    "wof:id":857515787,
+    "wof:lastmodified":1464202267,
+    "wof:name":"J T Truck Repair",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.975688,
+    21.409335,
+    -157.975688,
+    21.409335
+],
+  "geometry": {"coordinates":[-157.97568799999999,21.409335],"type":"Point"}
+}

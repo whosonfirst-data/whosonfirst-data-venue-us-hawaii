@@ -1,0 +1,71 @@
+{
+  "id": 857652729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030973,21.497541,-158.030973,21.497541",
+    "geom:latitude":21.497541,
+    "geom:longitude":-158.030973,
+    "iso:country":"US",
+    "sg:address":"440 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 4117",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TwbwzN0yFrgr3089Ind84_21.497541_-158.030973@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205575,
+    "wof:geomhash":"964c4e3b16a4a7b493a54f1277800b10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857652729
+        }
+    ],
+    "wof:id":857652729,
+    "wof:lastmodified":1464205575,
+    "wof:name":"Tamura's Wahiawa",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -158.030973,
+    21.497541,
+    -158.030973,
+    21.497541
+],
+  "geometry": {"coordinates":[-158.03097299999999,21.497541],"type":"Point"}
+}

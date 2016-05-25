@@ -1,0 +1,71 @@
+{
+  "id": 857631867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844657,21.300131,-157.844657,21.300131",
+    "geom:latitude":21.300131,
+    "geom:longitude":-157.844657,
+    "iso:country":"US",
+    "sg:address":"1136 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8880",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uTYyljnXfJxIUAV3T498l_21.300131_-157.844657@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204709,
+    "wof:geomhash":"2d0be122b1169fa85e45acec884d9124",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857631867
+        }
+    ],
+    "wof:id":857631867,
+    "wof:lastmodified":1464204709,
+    "wof:name":"Vans Fashion Nails",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.844657,
+    21.300131,
+    -157.844657,
+    21.300131
+],
+  "geometry": {"coordinates":[-157.84465700000001,21.300131],"type":"Point"}
+}

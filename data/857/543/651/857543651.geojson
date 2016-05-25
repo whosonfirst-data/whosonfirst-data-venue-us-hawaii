@@ -1,0 +1,82 @@
+{
+  "id": 857543651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905482,21.334489,-157.905482,21.334489",
+    "geom:latitude":21.334489,
+    "geom:longitude":-157.905482,
+    "iso:country":"US",
+    "sg:address":"2875 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 1465",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "vehicle",
+        "leasing",
+        "car",
+        "automobile"
+    ],
+    "sg:website":"www.drive-me.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58M6kxjc0IMqbDo2vC9tFY_21.334489_-157.905482@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202814,
+    "wof:geomhash":"88defe0158e1eb4d251fa32c688501d5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857543651
+        }
+    ],
+    "wof:id":857543651,
+    "wof:lastmodified":1464202814,
+    "wof:name":"Tradewinds U-Drive Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "vehicle",
+        "leasing",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.905482,
+    21.334489,
+    -157.905482,
+    21.334489
+],
+  "geometry": {"coordinates":[-157.90548200000001,21.334489],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857556743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.697684,21.33318,-157.697684,21.33318",
+    "geom:latitude":21.33318,
+    "geom:longitude":-157.697684,
+    "iso:country":"US",
+    "sg:address":"865 Kalanianaole Hwy",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 0682",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LlBzZYlty5iaQp1v4RrgH_21.333180_-157.697684@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203067,
+    "wof:geomhash":"a0612398a2ec0e4b2f1e52962b138098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857556743
+        }
+    ],
+    "wof:id":857556743,
+    "wof:lastmodified":1464203067,
+    "wof:name":"Ken's Bakery",
+    "wof:parent_id":85854139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.697684,
+    21.33318,
+    -157.697684,
+    21.33318
+],
+  "geometry": {"coordinates":[-157.69768400000001,21.33318],"type":"Point"}
+}

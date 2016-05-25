@@ -1,0 +1,71 @@
+{
+  "id": 857502853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.476554,20.878722,-156.476554,20.878722",
+    "geom:latitude":20.878722,
+    "geom:longitude":-156.476554,
+    "iso:country":"US",
+    "sg:address":"472 Kaulana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 9287",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fXi9AQfguYEjkR9TdtK7p_20.878722_-156.476554@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201982,
+    "wof:geomhash":"db28004b7834f549e7ecfd15c1cf5a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857502853
+        }
+    ],
+    "wof:id":857502853,
+    "wof:lastmodified":1464201982,
+    "wof:name":"Day Health",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -156.476554,
+    20.878722,
+    -156.476554,
+    20.878722
+],
+  "geometry": {"coordinates":[-156.47655399999999,20.878722],"type":"Point"}
+}

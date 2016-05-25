@@ -1,0 +1,75 @@
+{
+  "id": 857659421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.293746,20.826135,-156.293746,20.826135",
+    "geom:latitude":20.826135,
+    "geom:longitude":-156.293746,
+    "iso:country":"US",
+    "sg:address":"1180 Olinda Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 0422",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937623,
+        102085577,
+        85890583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ho7FujlEynFbU9rilxoDB_20.826135_-156.293746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205879,
+    "wof:geomhash":"b4f122a729d717f09893da536c928432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937623,
+            "neighbourhood_id":85890583,
+            "region_id":85688671,
+            "venue_id":857659421
+        }
+    ],
+    "wof:id":857659421,
+    "wof:lastmodified":1464205879,
+    "wof:name":"Driver Education Hawaii Inc",
+    "wof:parent_id":85890583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -156.293746,
+    20.826135,
+    -156.293746,
+    20.826135
+],
+  "geometry": {"coordinates":[-156.293746,20.826135],"type":"Point"}
+}

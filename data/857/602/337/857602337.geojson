@@ -1,0 +1,66 @@
+{
+  "id": 857602337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862525,21.31175,-157.862525,21.31175",
+    "geom:latitude":21.31175,
+    "geom:longitude":-157.862525,
+    "iso:country":"US",
+    "sg:address":"2 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 548 5888",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jUjhX8yGczklbTXSnpav1_21.311750_-157.862525@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204036,
+    "wof:geomhash":"88966b7d8c2a049c1ae1d6f757d1f7f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857602337
+        }
+    ],
+    "wof:id":857602337,
+    "wof:lastmodified":1464204036,
+    "wof:name":"Wong Kwok Restaurant",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.862525,
+    21.31175,
+    -157.862525,
+    21.31175
+],
+  "geometry": {"coordinates":[-157.86252500000001,21.31175],"type":"Point"}
+}

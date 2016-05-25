@@ -1,0 +1,86 @@
+{
+  "id": 857609671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881318,21.324668,-157.881318,21.324668",
+    "geom:latitude":21.324668,
+    "geom:longitude":-157.881318,
+    "iso:country":"US",
+    "sg:address":"1623 Hart St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7300",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sheet",
+        "metal",
+        "system",
+        "air",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yNiXhSBdJiuFBgaVhjCTF_21.324668_-157.881318@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204200,
+    "wof:geomhash":"8309fac6d38f149b9ef8cde2a085aa78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857609671
+        }
+    ],
+    "wof:id":857609671,
+    "wof:lastmodified":1464204200,
+    "wof:name":"Air Central Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "metal",
+        "system",
+        "air",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.881318,
+    21.324668,
+    -157.881318,
+    21.324668
+],
+  "geometry": {"coordinates":[-157.88131799999999,21.324668],"type":"Point"}
+}

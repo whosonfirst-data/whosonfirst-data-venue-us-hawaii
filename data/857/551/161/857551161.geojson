@@ -1,0 +1,77 @@
+{
+  "id": 857551161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898506,21.336228,-157.898506,21.336228",
+    "geom:latitude":21.336228,
+    "geom:longitude":-157.898506,
+    "iso:country":"US",
+    "sg:address":"672 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 4181",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B53M3WOnLdXhFm8QoAm68_21.336228_-157.898506@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202951,
+    "wof:geomhash":"351052d1ecb38844d20c1a4b2754f37e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857551161
+        }
+    ],
+    "wof:id":857551161,
+    "wof:lastmodified":1464202951,
+    "wof:name":"K Auto Body Shop",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.898506,
+    21.336228,
+    -157.898506,
+    21.336228
+],
+  "geometry": {"coordinates":[-157.898506,21.336228],"type":"Point"}
+}

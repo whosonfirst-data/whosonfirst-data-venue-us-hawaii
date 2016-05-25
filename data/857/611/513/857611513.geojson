@@ -1,0 +1,73 @@
+{
+  "id": 857611513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.04059,21.338018,-158.04059,21.338018",
+    "geom:latitude":21.338018,
+    "geom:longitude":-158.04059,
+    "iso:country":"US",
+    "sg:address":"1651 Orrick St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 5544",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SaSd1pfgWw9saqbu1TOUO_21.338018_-158.040590@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204243,
+    "wof:geomhash":"5b91a8c60bcbb7885e4bb463b1fc797b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857611513
+        }
+    ],
+    "wof:id":857611513,
+    "wof:lastmodified":1464204243,
+    "wof:name":"Blackdog Enterprises",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.04059,
+    21.338018,
+    -158.04059,
+    21.338018
+],
+  "geometry": {"coordinates":[-158.04059000000001,21.338018],"type":"Point"}
+}

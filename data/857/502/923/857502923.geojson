@@ -1,0 +1,71 @@
+{
+  "id": 857502923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840227,21.307745,-157.840227,21.307745",
+    "geom:latitude":21.307745,
+    "geom:longitude":-157.840227,
+    "iso:country":"US",
+    "sg:address":"1640 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 2281",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5luzTZ9ikoUbW2nJGICW3E_21.307745_-157.840227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201983,
+    "wof:geomhash":"b593c6b70366140c0d3d2b2e60001e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857502923
+        }
+    ],
+    "wof:id":857502923,
+    "wof:lastmodified":1464201983,
+    "wof:name":"Tremblay Construction & Co",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.840227,
+    21.307745,
+    -157.840227,
+    21.307745
+],
+  "geometry": {"coordinates":[-157.840227,21.307745],"type":"Point"}
+}

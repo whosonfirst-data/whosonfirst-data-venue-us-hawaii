@@ -1,0 +1,71 @@
+{
+  "id": 857663161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807449,21.309085,-157.807449,21.309085",
+    "geom:latitude":21.309085,
+    "geom:longitude":-157.807449,
+    "iso:country":"US",
+    "sg:address":"2800 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 9700",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V5a2eerQX26m6CpDBTidd_21.309085_-157.807449@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206056,
+    "wof:geomhash":"32326d5df97ddf808c445645e0d9888c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857663161
+        }
+    ],
+    "wof:id":857663161,
+    "wof:lastmodified":1464206056,
+    "wof:name":"21st Century Systems Inc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.807449,
+    21.309085,
+    -157.807449,
+    21.309085
+],
+  "geometry": {"coordinates":[-157.80744899999999,21.309085],"type":"Point"}
+}

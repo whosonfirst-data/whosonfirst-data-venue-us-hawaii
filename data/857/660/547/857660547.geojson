@@ -1,0 +1,77 @@
+{
+  "id": 857660547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850659,21.305382,-157.850659,21.305382",
+    "geom:latitude":21.305382,
+    "geom:longitude":-157.850659,
+    "iso:country":"US",
+    "sg:address":"728 Kinau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 9451",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "sr",
+        "apartment",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U8fL1vGIgMopVf47iWf0D_21.305382_-157.850659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205934,
+    "wof:geomhash":"fe2e380561cc0eb81b84b37755fe2377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857660547
+        }
+    ],
+    "wof:id":857660547,
+    "wof:lastmodified":1464205934,
+    "wof:name":"Royal Kinau LP",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "sr",
+        "apartment",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -157.850659,
+    21.305382,
+    -157.850659,
+    21.305382
+],
+  "geometry": {"coordinates":[-157.85065900000001,21.305382],"type":"Point"}
+}

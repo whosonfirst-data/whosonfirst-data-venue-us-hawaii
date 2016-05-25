@@ -1,0 +1,76 @@
+{
+  "id": 857681501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827829,21.278145,-157.827829,21.278145",
+    "geom:latitude":21.278145,
+    "geom:longitude":-157.827829,
+    "iso:country":"US",
+    "sg:address":"2301 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/161245-the-cheesecake-factory/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 5001",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "new",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VaJYhTfoWBHlHSJUwEzhb_21.278145_-157.827829@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206786,
+    "wof:geomhash":"6ac08403dc8f74abb3e4c9a7f6b9aa23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681501
+        }
+    ],
+    "wof:id":857681501,
+    "wof:lastmodified":1464206786,
+    "wof:name":"The Cheesecake Factory",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -157.827829,
+    21.278145,
+    -157.827829,
+    21.278145
+],
+  "geometry": {"coordinates":[-157.82782900000001,21.278145],"type":"Point"}
+}

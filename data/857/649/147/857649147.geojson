@@ -1,0 +1,69 @@
+{
+  "id": 857649147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02003,21.379404,-158.02003,21.379404",
+    "geom:latitude":21.379404,
+    "geom:longitude":-158.02003,
+    "iso:country":"US",
+    "sg:address":"223 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 0227",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZohOxRNbCL8gXrIPbJlUN_21.379404_-158.020030@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205423,
+    "wof:geomhash":"7b1f038550ddd480e2530edcb026e4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857649147
+        }
+    ],
+    "wof:id":857649147,
+    "wof:lastmodified":1464205423,
+    "wof:name":"Tony Group Body Shop",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -158.02003,
+    21.379404,
+    -158.02003,
+    21.379404
+],
+  "geometry": {"coordinates":[-158.02002999999999,21.379404],"type":"Point"}
+}

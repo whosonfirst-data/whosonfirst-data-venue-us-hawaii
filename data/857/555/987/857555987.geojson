@@ -1,0 +1,78 @@
+{
+  "id": 857555987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87387,21.314183,-157.87387,21.314183",
+    "geom:latitude":21.314183,
+    "geom:longitude":-157.87387,
+    "iso:country":"US",
+    "sg:address":"861 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 9188",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "stone",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66l2oMQs1SiQu9R4moIojQ_21.314183_-157.873870@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203052,
+    "wof:geomhash":"77553f0226fb7b149a7ad01b92ca1e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857555987
+        }
+    ],
+    "wof:id":857555987,
+    "wof:lastmodified":1464203052,
+    "wof:name":"Natural Hawaiian Island Stone",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -157.87387,
+    21.314183,
+    -157.87387,
+    21.314183
+],
+  "geometry": {"coordinates":[-157.87387000000001,21.314183],"type":"Point"}
+}

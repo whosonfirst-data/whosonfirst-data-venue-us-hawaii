@@ -1,0 +1,71 @@
+{
+  "id": 857645067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811254,21.313998,-157.811254,21.313998",
+    "geom:latitude":21.313998,
+    "geom:longitude":-157.811254,
+    "iso:country":"US",
+    "sg:address":"2916 Loomis St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3261",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YIhe7Yy3T0A4sV7MYVHnT_21.313998_-157.811254@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205241,
+    "wof:geomhash":"597cda4904784c9d4d7162f86ee94497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857645067
+        }
+    ],
+    "wof:id":857645067,
+    "wof:lastmodified":1464205241,
+    "wof:name":"James K Woolsey Inc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -157.811254,
+    21.313998,
+    -157.811254,
+    21.313998
+],
+  "geometry": {"coordinates":[-157.81125399999999,21.313998],"type":"Point"}
+}

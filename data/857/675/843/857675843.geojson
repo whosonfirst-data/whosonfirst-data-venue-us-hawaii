@@ -1,0 +1,71 @@
+{
+  "id": 857675843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028008,21.346316,-158.028008,21.346316",
+    "geom:latitude":21.346316,
+    "geom:longitude":-158.028008,
+    "iso:country":"US",
+    "sg:address":"1375 Maliko St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 3238",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vIfYAjJCeKghP95i91PcO_21.346316_-158.028008@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206569,
+    "wof:geomhash":"87f1f49bbba2bee791f86ce4696aae78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857675843
+        }
+    ],
+    "wof:id":857675843,
+    "wof:lastmodified":1464206569,
+    "wof:name":"J & S Services Auto Truck Eqp",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.028008,
+    21.346316,
+    -158.028008,
+    21.346316
+],
+  "geometry": {"coordinates":[-158.028008,21.346316],"type":"Point"}
+}

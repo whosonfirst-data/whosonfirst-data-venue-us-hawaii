@@ -1,0 +1,74 @@
+{
+  "id": 857668145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81976,21.299277,-157.81976,21.299277",
+    "geom:latitude":21.299277,
+    "geom:longitude":-157.81976,
+    "iso:country":"US",
+    "sg:address":"2445 Campus Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 6468",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "sailing"
+    ],
+    "sg:website":"www.hawaii.edu/cclp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xsA5saqInWpyeBimRJz25_21.299277_-157.819760@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206263,
+    "wof:geomhash":"a0ced78d0ccec71840792b96546d6bab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857668145
+        }
+    ],
+    "wof:id":857668145,
+    "wof:lastmodified":1464206263,
+    "wof:name":"Campus Center Leisure Program",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "sailing"
+    ]
+},
+  "bbox": [
+    -157.81976,
+    21.299277,
+    -157.81976,
+    21.299277
+],
+  "geometry": {"coordinates":[-157.81976,21.299277],"type":"Point"}
+}

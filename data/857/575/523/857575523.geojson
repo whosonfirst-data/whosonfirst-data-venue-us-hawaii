@@ -1,0 +1,73 @@
+{
+  "id": 857575523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.685522,21.293264,-157.685522,21.293264",
+    "geom:latitude":21.293264,
+    "geom:longitude":-157.685522,
+    "iso:country":"US",
+    "sg:address":"871 Aipo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 6414",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_288Wd09wKDWrKI4hDPDFFe_21.293264_-157.685522@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203462,
+    "wof:geomhash":"147ad499c8f5844c8261d8c9bc647fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857575523
+        }
+    ],
+    "wof:id":857575523,
+    "wof:lastmodified":1464203462,
+    "wof:name":"Back To Basics Driving",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -157.685522,
+    21.293264,
+    -157.685522,
+    21.293264
+],
+  "geometry": {"coordinates":[-157.68552199999999,21.293264],"type":"Point"}
+}

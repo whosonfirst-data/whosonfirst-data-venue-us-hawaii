@@ -1,0 +1,66 @@
+{
+  "id": 857623597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86115,21.313174,-157.86115,21.313174",
+    "geom:latitude":21.313174,
+    "geom:longitude":-157.86115,
+    "iso:country":"US",
+    "sg:address":"59 N Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 9065",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dNMnzbbHd1ZfvNkAI3vVq_21.313174_-157.861150@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204523,
+    "wof:geomhash":"00d6d44c66bb4767ee5c8282507ddddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857623597
+        }
+    ],
+    "wof:id":857623597,
+    "wof:lastmodified":1464204523,
+    "wof:name":"Lita's Leis & Flower Shoppe",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.86115,
+    21.313174,
+    -157.86115,
+    21.313174
+],
+  "geometry": {"coordinates":[-157.86115000000001,21.313174],"type":"Point"}
+}

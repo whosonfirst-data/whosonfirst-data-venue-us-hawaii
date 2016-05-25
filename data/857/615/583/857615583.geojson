@@ -1,0 +1,74 @@
+{
+  "id": 857615583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.331955,20.835102,-156.331955,20.835102",
+    "geom:latitude":20.835102,
+    "geom:longitude":-156.331955,
+    "iso:country":"US",
+    "sg:address":"67 Makawao Ave",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 7238",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.fhb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WzRkO5cTu6JsPkkDnnUA7_20.835102_-156.331955@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204332,
+    "wof:geomhash":"90b095f8bcfb18ac7a0e24884d695147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857615583
+        }
+    ],
+    "wof:id":857615583,
+    "wof:lastmodified":1464204332,
+    "wof:name":"First Hawaiian Bank",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -156.331955,
+    20.835102,
+    -156.331955,
+    20.835102
+],
+  "geometry": {"coordinates":[-156.33195499999999,20.835102],"type":"Point"}
+}

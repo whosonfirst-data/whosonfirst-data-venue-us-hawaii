@@ -1,0 +1,71 @@
+{
+  "id": 857640253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793111,21.25802,-157.793111,21.25802",
+    "geom:latitude":21.25802,
+    "geom:longitude":-157.793111,
+    "iso:country":"US",
+    "sg:address":"4323 Papu Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 8895",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zLElWjarxiwPTQmpAofSe_21.258020_-157.793111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205030,
+    "wof:geomhash":"edc5d237c738ad7bda8e022766bee591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857640253
+        }
+    ],
+    "wof:id":857640253,
+    "wof:lastmodified":1464205030,
+    "wof:name":"Liu Properties Inc",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.793111,
+    21.25802,
+    -157.793111,
+    21.25802
+],
+  "geometry": {"coordinates":[-157.79311100000001,21.25802],"type":"Point"}
+}

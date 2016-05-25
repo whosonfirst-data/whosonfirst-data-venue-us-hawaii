@@ -1,0 +1,73 @@
+{
+  "id": 857574307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.466117,20.888297,-156.466117,20.888297",
+    "geom:latitude":20.888297,
+    "geom:longitude":-156.466117,
+    "iso:country":"US",
+    "sg:address":"110 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 5894",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47gVmmLaN1xfdG2LqRHn81_20.888297_-156.466117@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203439,
+    "wof:geomhash":"8ec3e4cae64de307218a68e01d93508e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857574307
+        }
+    ],
+    "wof:id":857574307,
+    "wof:lastmodified":1464203439,
+    "wof:name":"Hanada & Son Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.466117,
+    20.888297,
+    -156.466117,
+    20.888297
+],
+  "geometry": {"coordinates":[-156.466117,20.888297],"type":"Point"}
+}

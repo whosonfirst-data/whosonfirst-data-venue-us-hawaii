@@ -1,0 +1,66 @@
+{
+  "id": 857658455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858113,21.314589,-157.858113,21.314589",
+    "geom:latitude":21.314589,
+    "geom:longitude":-157.858113,
+    "iso:country":"US",
+    "sg:address":"59 N Vineyard Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 4211",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DTZ1tPMqLO1MJwsUVp4cX_21.314589_-157.858113@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205838,
+    "wof:geomhash":"20c8dbf1e0ef6bfe7188872894c36e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857658455
+        }
+    ],
+    "wof:id":857658455,
+    "wof:lastmodified":1464205838,
+    "wof:name":"Zippy's Restaurant",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.858113,
+    21.314589,
+    -157.858113,
+    21.314589
+],
+  "geometry": {"coordinates":[-157.858113,21.314589],"type":"Point"}
+}

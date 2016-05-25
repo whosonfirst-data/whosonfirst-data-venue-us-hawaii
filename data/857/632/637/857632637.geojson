@@ -1,0 +1,73 @@
+{
+  "id": 857632637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864316,21.334043,-157.864316,21.334043",
+    "geom:latitude":21.334043,
+    "geom:longitude":-157.864316,
+    "iso:country":"US",
+    "sg:address":"1420 Konia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 351 2437",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcbQf8FXjHJMzSKTbZcqZ_21.334043_-157.864316@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204741,
+    "wof:geomhash":"f0f4b54538dab597cedcb6b88df9db66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857632637
+        }
+    ],
+    "wof:id":857632637,
+    "wof:lastmodified":1464204741,
+    "wof:name":"Freds Electrical Service",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.864316,
+    21.334043,
+    -157.864316,
+    21.334043
+],
+  "geometry": {"coordinates":[-157.864316,21.334043],"type":"Point"}
+}

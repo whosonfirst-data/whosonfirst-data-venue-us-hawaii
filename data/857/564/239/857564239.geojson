@@ -1,0 +1,66 @@
+{
+  "id": 857564239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882571,21.328466,-157.882571,21.328466",
+    "geom:latitude":21.328466,
+    "geom:longitude":-157.882571,
+    "iso:country":"US",
+    "sg:address":"2003 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6986",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44iLsI4snKUmWO0S2gVnn4_21.328466_-157.882571@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"7a50a43b8f1deea27477e76a85ab3213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857564239
+        }
+    ],
+    "wof:id":857564239,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Five Star Noodle Factory",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.882571,
+    21.328466,
+    -157.882571,
+    21.328466
+],
+  "geometry": {"coordinates":[-157.88257100000001,21.328466],"type":"Point"}
+}

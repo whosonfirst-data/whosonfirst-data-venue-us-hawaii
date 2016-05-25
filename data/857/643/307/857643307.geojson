@@ -1,0 +1,71 @@
+{
+  "id": 857643307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851385,21.30909,-157.851385,21.30909",
+    "geom:latitude":21.30909,
+    "geom:longitude":-157.851385,
+    "iso:country":"US",
+    "sg:address":"510 Magellan Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8103",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fresh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzH7CR0lKr4t1qwxYVLPK_21.309090_-157.851385@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205161,
+    "wof:geomhash":"438d4f799de29274538b8b82b7ac6bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857643307
+        }
+    ],
+    "wof:id":857643307,
+    "wof:lastmodified":1464205161,
+    "wof:name":"Muraoka Fish Market",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh"
+    ]
+},
+  "bbox": [
+    -157.851385,
+    21.30909,
+    -157.851385,
+    21.30909
+],
+  "geometry": {"coordinates":[-157.85138499999999,21.30909],"type":"Point"}
+}

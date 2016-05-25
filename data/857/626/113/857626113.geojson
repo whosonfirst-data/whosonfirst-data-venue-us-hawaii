@@ -1,0 +1,72 @@
+{
+  "id": 857626113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.45782,20.880948,-156.45782,20.880948",
+    "geom:latitude":20.880948,
+    "geom:longitude":-156.45782,
+    "iso:country":"US",
+    "sg:address":"475 Hukilike St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 2822",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.dhx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hh09iwyvqF1UilwIg1SRX_20.880948_-156.457820@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204584,
+    "wof:geomhash":"d48e7c039b97ba5e2ed3cb70c258b15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857626113
+        }
+    ],
+    "wof:id":857626113,
+    "wof:lastmodified":1464204584,
+    "wof:name":"DHX Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -156.45782,
+    20.880948,
+    -156.45782,
+    20.880948
+],
+  "geometry": {"coordinates":[-156.45782,20.880948],"type":"Point"}
+}

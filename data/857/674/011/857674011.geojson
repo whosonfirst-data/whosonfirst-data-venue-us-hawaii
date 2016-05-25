@@ -1,0 +1,73 @@
+{
+  "id": 857674011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806317,21.417722,-157.806317,21.417722",
+    "geom:latitude":21.417722,
+    "geom:longitude":-157.806317,
+    "iso:country":"US",
+    "sg:address":"12 Alaloa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 5537",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4miN9cJMQx2yIchWvsEYpK_21.417722_-157.806317@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206487,
+    "wof:geomhash":"fa91831868d5799df0dbb9c30af91cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857674011
+        }
+    ],
+    "wof:id":857674011,
+    "wof:lastmodified":1464206487,
+    "wof:name":"Kaneohe Electric",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.806317,
+    21.417722,
+    -157.806317,
+    21.417722
+],
+  "geometry": {"coordinates":[-157.80631700000001,21.417722],"type":"Point"}
+}

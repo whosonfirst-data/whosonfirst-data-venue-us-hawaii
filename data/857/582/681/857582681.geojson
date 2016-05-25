@@ -1,0 +1,71 @@
+{
+  "id": 857582681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.805148,21.308066,-157.805148,21.308066",
+    "geom:latitude":21.308066,
+    "geom:longitude":-157.805148,
+    "iso:country":"US",
+    "sg:address":"3088 Lanikaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7729",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406G2hUB9UsrKkhc92pI5T_21.308066_-157.805148@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203603,
+    "wof:geomhash":"7f33d11902fc5076f6f16d8101186aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857582681
+        }
+    ],
+    "wof:id":857582681,
+    "wof:lastmodified":1464203603,
+    "wof:name":"L N Home Builders",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.805148,
+    21.308066,
+    -157.805148,
+    21.308066
+],
+  "geometry": {"coordinates":[-157.805148,21.308066],"type":"Point"}
+}

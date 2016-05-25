@@ -1,0 +1,71 @@
+{
+  "id": 857597907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.709536,21.381373,-157.709536,21.381373",
+    "geom:latitude":21.381373,
+    "geom:longitude":-157.709536,
+    "iso:country":"US",
+    "sg:address":"1551 Aalapapa Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 5231",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jYkg8uTZ0HvfSM41xOlBz_21.381373_-157.709536@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203940,
+    "wof:geomhash":"a78565a5793dff2c109aa60db1d36e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857597907
+        }
+    ],
+    "wof:id":857597907,
+    "wof:lastmodified":1464203940,
+    "wof:name":"Vnt Mechanical",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.709536,
+    21.381373,
+    -157.709536,
+    21.381373
+],
+  "geometry": {"coordinates":[-157.70953600000001,21.381373],"type":"Point"}
+}

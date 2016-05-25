@@ -1,0 +1,71 @@
+{
+  "id": 857520269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839098,21.306208,-157.839098,21.306208",
+    "geom:latitude":21.306208,
+    "geom:longitude":-157.839098,
+    "iso:country":"US",
+    "sg:address":"1216 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 1558",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46asQ0syvTkFeprNDZtTYm_21.306208_-157.839098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202355,
+    "wof:geomhash":"3bb4e23d1d011f8ce3abeba86f2a4a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857520269
+        }
+    ],
+    "wof:id":857520269,
+    "wof:lastmodified":1464202355,
+    "wof:name":"Moons Plumbing",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.839098,
+    21.306208,
+    -157.839098,
+    21.306208
+],
+  "geometry": {"coordinates":[-157.83909800000001,21.306208],"type":"Point"}
+}

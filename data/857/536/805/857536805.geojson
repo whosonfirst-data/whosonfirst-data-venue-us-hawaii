@@ -1,0 +1,71 @@
+{
+  "id": 857536805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811152,21.309192,-157.811152,21.309192",
+    "geom:latitude":21.309192,
+    "geom:longitude":-157.811152,
+    "iso:country":"US",
+    "sg:address":"2773 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3433",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_213FZErsqt1GAjS8hzuJNL_21.309192_-157.811152@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202677,
+    "wof:geomhash":"9a3638e3c2ee0dad31b0148851624b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857536805
+        }
+    ],
+    "wof:id":857536805,
+    "wof:lastmodified":1464202677,
+    "wof:name":"Manoa Barber Shop",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.811152,
+    21.309192,
+    -157.811152,
+    21.309192
+],
+  "geometry": {"coordinates":[-157.81115199999999,21.309192],"type":"Point"}
+}

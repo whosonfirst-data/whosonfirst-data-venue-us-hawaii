@@ -1,0 +1,73 @@
+{
+  "id": 857522497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860657,21.322909,-157.860657,21.322909",
+    "geom:latitude":21.322909,
+    "geom:longitude":-157.860657,
+    "iso:country":"US",
+    "sg:address":"712 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 5233",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RFX1m6NYczLs2VvakXOjI_21.322909_-157.860657@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202399,
+    "wof:geomhash":"b5df0e1ae3ef4e63d754ce9d187b389b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857522497
+        }
+    ],
+    "wof:id":857522497,
+    "wof:lastmodified":1464202399,
+    "wof:name":"Catholic Charities",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.860657,
+    21.322909,
+    -157.860657,
+    21.322909
+],
+  "geometry": {"coordinates":[-157.860657,21.322909],"type":"Point"}
+}

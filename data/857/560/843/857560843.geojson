@@ -1,0 +1,76 @@
+{
+  "id": 857560843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.505563,20.890626,-156.505563,20.890626",
+    "geom:latitude":20.890626,
+    "geom:longitude":-156.505563,
+    "iso:country":"US",
+    "sg:address":"1935 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 5761",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Bw3WWDofzCFTHYUGEken_20.890626_-156.505563@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203177,
+    "wof:geomhash":"cb7468bdfe4136efc329e35fc81e58dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857560843
+        }
+    ],
+    "wof:id":857560843,
+    "wof:lastmodified":1464203177,
+    "wof:name":"Lokahi Pacific Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -156.505563,
+    20.890626,
+    -156.505563,
+    20.890626
+],
+  "geometry": {"coordinates":[-156.505563,20.890626],"type":"Point"}
+}

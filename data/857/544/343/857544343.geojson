@@ -1,0 +1,71 @@
+{
+  "id": 857544343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.784302,21.268481,-157.784302,21.268481",
+    "geom:latitude":21.268481,
+    "geom:longitude":-157.784302,
+    "iso:country":"US",
+    "sg:address":"4621 Farmers Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 4574",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uTqWkDFpVbzx12p7iIZ5s_21.268481_-157.784302@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202826,
+    "wof:geomhash":"872ad0da99d5d205e931bf445d895099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857544343
+        }
+    ],
+    "wof:id":857544343,
+    "wof:lastmodified":1464202826,
+    "wof:name":"Center For Natural Healing",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.784302,
+    21.268481,
+    -157.784302,
+    21.268481
+],
+  "geometry": {"coordinates":[-157.784302,21.268481],"type":"Point"}
+}

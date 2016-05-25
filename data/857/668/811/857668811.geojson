@@ -1,0 +1,76 @@
+{
+  "id": 857668811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911641,21.334181,-157.911641,21.334181",
+    "geom:latitude":21.334181,
+    "geom:longitude":-157.911641,
+    "iso:country":"US",
+    "sg:address":"3140 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 2931",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "sg:website":"www.unicoldcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32GeA9cSxwfzRbfxyikpcU_21.334181_-157.911641@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206286,
+    "wof:geomhash":"e5c6289cab93e0fbeb424225d54d233c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857668811
+        }
+    ],
+    "wof:id":857668811,
+    "wof:lastmodified":1464206286,
+    "wof:name":"Unicold Corp",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -157.911641,
+    21.334181,
+    -157.911641,
+    21.334181
+],
+  "geometry": {"coordinates":[-157.911641,21.334181],"type":"Point"}
+}

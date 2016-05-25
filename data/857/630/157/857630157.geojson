@@ -1,0 +1,75 @@
+{
+  "id": 857630157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845708,21.294542,-157.845708,21.294542",
+    "geom:latitude":21.294542,
+    "geom:longitude":-157.845708,
+    "iso:country":"US",
+    "sg:address":"1357 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 8889",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "firm",
+        "engineering",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZPTPXbsfExnQakC1VB6RD_21.294542_-157.845708@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204668,
+    "wof:geomhash":"202629e406e410c9fa8e56b23690e6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857630157
+        }
+    ],
+    "wof:id":857630157,
+    "wof:lastmodified":1464204668,
+    "wof:name":"Leo A Daly Company",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "engineering",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.845708,
+    21.294542,
+    -157.845708,
+    21.294542
+],
+  "geometry": {"coordinates":[-157.845708,21.294542],"type":"Point"}
+}

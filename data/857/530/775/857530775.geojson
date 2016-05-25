@@ -1,0 +1,71 @@
+{
+  "id": 857530775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.731431,21.384325,-157.731431,21.384325",
+    "geom:latitude":21.384325,
+    "geom:longitude":-157.731431,
+    "iso:country":"US",
+    "sg:address":"627 Pauku St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 7928",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pi7nQwoCtulPXPvsw25nt_21.384325_-157.731431@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202559,
+    "wof:geomhash":"c6df4c5da62c6ba7ac2e17560298fdb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857530775
+        }
+    ],
+    "wof:id":857530775,
+    "wof:lastmodified":1464202559,
+    "wof:name":"Wilhelm Kibbing Kauinohea",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -157.731431,
+    21.384325,
+    -157.731431,
+    21.384325
+],
+  "geometry": {"coordinates":[-157.73143099999999,21.384325],"type":"Point"}
+}

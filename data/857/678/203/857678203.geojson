@@ -1,0 +1,68 @@
+{
+  "id": 857678203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.780344,20.227171,-155.780344,20.227171",
+    "geom:latitude":20.227171,
+    "geom:longitude":-155.780344,
+    "iso:country":"US",
+    "sg:address":"3615 Akoni Pule Hwy",
+    "sg:city":"Kapaau",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 889 0208",
+    "sg:postcode":"96755",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937473,
+        102085433,
+        85890395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MOl6bPQRJWZPTZiP83bH8_20.227171_-155.780344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206662,
+    "wof:geomhash":"cf813ed4216726de7a982101f5dc662a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937473,
+            "neighbourhood_id":85890395,
+            "region_id":85688671,
+            "venue_id":857678203
+        }
+    ],
+    "wof:id":857678203,
+    "wof:lastmodified":1464206662,
+    "wof:name":"Kohala Diner",
+    "wof:parent_id":85890395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.780344,
+    20.227171,
+    -155.780344,
+    20.227171
+],
+  "geometry": {"coordinates":[-155.78034400000001,20.227171],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857602169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860924,21.312752,-157.860924,21.312752",
+    "geom:latitude":21.312752,
+    "geom:longitude":-157.860924,
+    "iso:country":"US",
+    "sg:address":"1152 Smith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 5826",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.tbn.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29mpAd2zqQJPclAqOdNj60_21.312752_-157.860924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204032,
+    "wof:geomhash":"c749dfb72b741a6431363181294ae81f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857602169
+        }
+    ],
+    "wof:id":857602169,
+    "wof:lastmodified":1464204032,
+    "wof:name":"Trinity Broadcasting Network",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -157.860924,
+    21.312752,
+    -157.860924,
+    21.312752
+],
+  "geometry": {"coordinates":[-157.86092400000001,21.312752],"type":"Point"}
+}

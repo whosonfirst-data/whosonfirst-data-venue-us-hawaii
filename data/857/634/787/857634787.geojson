@@ -1,0 +1,71 @@
+{
+  "id": 857634787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.734908,21.280985,-157.734908,21.280985",
+    "geom:latitude":21.280985,
+    "geom:longitude":-157.734908,
+    "iso:country":"US",
+    "sg:address":"55 Niuiki Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 9747",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "adoption"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BJ7JQC8wcLbY9dmNLC9K3_21.280985_-157.734908@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204824,
+    "wof:geomhash":"05c7c7c95d07c7e5f1be363d5d918221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857634787
+        }
+    ],
+    "wof:id":857634787,
+    "wof:lastmodified":1464204824,
+    "wof:name":"Triad Resources For Adoption",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adoption"
+    ]
+},
+  "bbox": [
+    -157.734908,
+    21.280985,
+    -157.734908,
+    21.280985
+],
+  "geometry": {"coordinates":[-157.73490799999999,21.280985],"type":"Point"}
+}

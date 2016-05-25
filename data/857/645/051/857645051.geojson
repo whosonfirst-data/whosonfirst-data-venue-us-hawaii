@@ -1,0 +1,71 @@
+{
+  "id": 857645051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87455,21.303651,-157.87455,21.303651",
+    "geom:latitude":21.303651,
+    "geom:longitude":-157.87455,
+    "iso:country":"US",
+    "sg:address":"1122 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7775",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NiGAt0ynxrXMIgsN9mZMr_21.303651_-157.874550@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205240,
+    "wof:geomhash":"6e5d9de9f1b47a216e4e151c1140cfe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857645051
+        }
+    ],
+    "wof:id":857645051,
+    "wof:lastmodified":1464205240,
+    "wof:name":"Island Customs Brokers",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -157.87455,
+    21.303651,
+    -157.87455,
+    21.303651
+],
+  "geometry": {"coordinates":[-157.87455,21.303651],"type":"Point"}
+}

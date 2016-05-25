@@ -1,0 +1,71 @@
+{
+  "id": 857634531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854618,21.326265,-157.854618,21.326265",
+    "geom:latitude":21.326265,
+    "geom:longitude":-157.854618,
+    "iso:country":"US",
+    "sg:address":"511 Liliha Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 0409",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wM77lSnMW04VobuPQAhTK_21.326265_-157.854618@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204816,
+    "wof:geomhash":"5c86d65c68e2f36fef679a1f268ef9b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857634531
+        }
+    ],
+    "wof:id":857634531,
+    "wof:lastmodified":1464204816,
+    "wof:name":"Ronald J Pang",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.854618,
+    21.326265,
+    -157.854618,
+    21.326265
+],
+  "geometry": {"coordinates":[-157.85461799999999,21.326265],"type":"Point"}
+}

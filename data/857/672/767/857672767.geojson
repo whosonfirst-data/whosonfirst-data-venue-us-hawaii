@@ -1,0 +1,73 @@
+{
+  "id": 857672767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.76301,21.285022,-157.76301,21.285022",
+    "geom:latitude":21.285022,
+    "geom:longitude":-157.76301,
+    "iso:country":"US",
+    "sg:address":"1810 Alaweo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5627",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oCVkabUdajH2ru1l5VxNS_21.285022_-157.763010@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206443,
+    "wof:geomhash":"35c85e354b48bdae9ae0925367d92822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857672767
+        }
+    ],
+    "wof:id":857672767,
+    "wof:lastmodified":1464206443,
+    "wof:name":"D & S Electric Co Inc",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.76301,
+    21.285022,
+    -157.76301,
+    21.285022
+],
+  "geometry": {"coordinates":[-157.76301000000001,21.285022],"type":"Point"}
+}

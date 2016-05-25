@@ -1,0 +1,73 @@
+{
+  "id": 857609151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913365,21.335665,-157.913365,21.335665",
+    "geom:latitude":21.335665,
+    "geom:longitude":-157.913365,
+    "iso:country":"US",
+    "sg:address":"3057 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 2442",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JABjNQtgaODdo69CzDxzB_21.335665_-157.913365@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204190,
+    "wof:geomhash":"0f7834ec5e13c8fffad6785606362e92",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857609151
+        }
+    ],
+    "wof:id":857609151,
+    "wof:lastmodified":1464204190,
+    "wof:name":"Garage Door Svc Co",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -157.913365,
+    21.335665,
+    -157.913365,
+    21.335665
+],
+  "geometry": {"coordinates":[-157.913365,21.335665],"type":"Point"}
+}

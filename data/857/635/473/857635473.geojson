@@ -1,0 +1,66 @@
+{
+  "id": 857635473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857544,21.311298,-157.857544,21.311298",
+    "geom:latitude":21.311298,
+    "geom:longitude":-157.857544,
+    "iso:country":"US",
+    "sg:address":"173 S Kukui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4204",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HQo6rOSu7kmXqtF0Yet87_21.311298_-157.857544@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204849,
+    "wof:geomhash":"d5d1ab6a3b793a329f81af15bf60672e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857635473
+        }
+    ],
+    "wof:id":857635473,
+    "wof:lastmodified":1464204849,
+    "wof:name":"Aloha Medical Supplies of PCF",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.857544,
+    21.311298,
+    -157.857544,
+    21.311298
+],
+  "geometry": {"coordinates":[-157.85754399999999,21.311298],"type":"Point"}
+}

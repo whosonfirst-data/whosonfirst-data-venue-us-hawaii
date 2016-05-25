@@ -1,0 +1,75 @@
+{
+  "id": 857508967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.683331,21.313163,-157.683331,21.313163",
+    "geom:latitude":21.313163,
+    "geom:longitude":-157.683331,
+    "iso:country":"US",
+    "sg:address":"227 Miloiki Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 8705",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18pslzQdxtlFDY7Q5UFqAO_21.313163_-157.683331@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202123,
+    "wof:geomhash":"1f41259eb9ee18c3e145f1702ced8a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857508967
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857508967
+        }
+    ],
+    "wof:id":857508967,
+    "wof:lastmodified":1464202123,
+    "wof:name":"King Crab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.683331,
+    21.313163,
+    -157.683331,
+    21.313163
+],
+  "geometry": {"coordinates":[-157.68333100000001,21.313163],"type":"Point"}
+}

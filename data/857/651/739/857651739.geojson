@@ -1,0 +1,75 @@
+{
+  "id": 857651739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843471,21.293469,-157.843471,21.293469",
+    "geom:latitude":21.293469,
+    "geom:longitude":-157.843471,
+    "iso:country":"US",
+    "sg:address":"1415 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 3774",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XJmaCKwqwrwpNw2XFweQB_21.293469_-157.843471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205532,
+    "wof:geomhash":"7adbad982459940eec5883ac0ea4b45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857651739
+        }
+    ],
+    "wof:id":857651739,
+    "wof:lastmodified":1464205532,
+    "wof:name":"Pet's Discount",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.843471,
+    21.293469,
+    -157.843471,
+    21.293469
+],
+  "geometry": {"coordinates":[-157.84347099999999,21.293469],"type":"Point"}
+}

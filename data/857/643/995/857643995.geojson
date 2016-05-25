@@ -1,0 +1,73 @@
+{
+  "id": 857643995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.960256,19.6064,-155.960256,19.6064",
+    "geom:latitude":19.6064,
+    "geom:longitude":-155.960256,
+    "iso:country":"US",
+    "sg:address":"6451 Pualani St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 4694",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aquarium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_733vgMORz2yr2vISZBl4ya_19.606400_-155.960256@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205194,
+    "wof:geomhash":"63cb7a1c0951dedd784f42dd8e06573c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890319,
+            "region_id":85688671,
+            "venue_id":857643995
+        }
+    ],
+    "wof:id":857643995,
+    "wof:lastmodified":1464205194,
+    "wof:name":"Salty Waters Aquarium Mntnc",
+    "wof:parent_id":85890319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aquarium"
+    ]
+},
+  "bbox": [
+    -155.960256,
+    19.6064,
+    -155.960256,
+    19.6064
+],
+  "geometry": {"coordinates":[-155.96025599999999,19.6064],"type":"Point"}
+}

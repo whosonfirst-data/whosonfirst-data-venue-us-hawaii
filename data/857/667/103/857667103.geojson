@@ -1,0 +1,80 @@
+{
+  "id": 857667103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852692,21.313912,-157.852692,21.313912",
+    "geom:latitude":21.313912,
+    "geom:longitude":-157.852692,
+    "iso:country":"US",
+    "sg:address":"1666 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4854",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coin",
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xMmxk21pqtDbopGzDIxC0_21.313912_-157.852692@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206227,
+    "wof:geomhash":"96390c2c8fdbe1e0a27eab4c97ae65f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857667103
+        }
+    ],
+    "wof:id":857667103,
+    "wof:lastmodified":1464206227,
+    "wof:name":"Red Carpet Laundry Center",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -157.852692,
+    21.313912,
+    -157.852692,
+    21.313912
+],
+  "geometry": {"coordinates":[-157.85269199999999,21.313912],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857668497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.871352,21.302019,-157.871352,21.302019",
+    "geom:latitude":21.302019,
+    "geom:longitude":-157.871352,
+    "iso:country":"US",
+    "sg:address":"1009 Puuwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1569",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pumping",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wJrio6yIGjn1IQkQxSABZ_21.302019_-157.871352@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206275,
+    "wof:geomhash":"bc2376d1ca2fbff505adbb042599f16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857668497
+        }
+    ],
+    "wof:id":857668497,
+    "wof:lastmodified":1464206275,
+    "wof:name":"Quality Pumping and Maint",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "septic"
+    ]
+},
+  "bbox": [
+    -157.871352,
+    21.302019,
+    -157.871352,
+    21.302019
+],
+  "geometry": {"coordinates":[-157.871352,21.302019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857670243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.502581,20.893838,-156.502581,20.893838",
+    "geom:latitude":20.893838,
+    "geom:longitude":-156.502581,
+    "iso:country":"US",
+    "sg:address":"66 Wailani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 1644",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EsZAz3jC0wNVdHN0G3rWe_20.893838_-156.502581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206349,
+    "wof:geomhash":"0e661820d8b1471960288a0b48e98bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857670243
+        }
+    ],
+    "wof:id":857670243,
+    "wof:lastmodified":1464206349,
+    "wof:name":"Engineering Dynamics",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -156.502581,
+    20.893838,
+    -156.502581,
+    20.893838
+],
+  "geometry": {"coordinates":[-156.50258099999999,20.893838],"type":"Point"}
+}

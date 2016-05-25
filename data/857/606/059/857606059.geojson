@@ -1,0 +1,71 @@
+{
+  "id": 857606059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862805,21.311667,-157.862805,21.311667",
+    "geom:latitude":21.311667,
+    "geom:longitude":-157.862805,
+    "iso:country":"US",
+    "sg:address":"1030 Smith St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 6858",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qsLrKWPLEbWHgUvUTNIWi_21.311667_-157.862805@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204117,
+    "wof:geomhash":"b54e8d0cc86a5a4b0d7f16162d6cf1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857606059
+        }
+    ],
+    "wof:id":857606059,
+    "wof:lastmodified":1464204117,
+    "wof:name":"Ken Fong Restaurant Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.862805,
+    21.311667,
+    -157.862805,
+    21.311667
+],
+  "geometry": {"coordinates":[-157.86280500000001,21.311667],"type":"Point"}
+}

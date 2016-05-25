@@ -1,0 +1,75 @@
+{
+  "id": 857518253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803038,21.288148,-157.803038,21.288148",
+    "geom:latitude":21.288148,
+    "geom:longitude":-157.803038,
+    "iso:country":"US",
+    "sg:address":"1337 7th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 3347",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engine",
+        "lift",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20txsePFz1ZPZixpuGzAfP_21.288148_-157.803038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202313,
+    "wof:geomhash":"f0eb980df5df1f4c1415abc2510cdea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857518253
+        }
+    ],
+    "wof:id":857518253,
+    "wof:lastmodified":1464202313,
+    "wof:name":"Truck & Lift Repair",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "lift",
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.803038,
+    21.288148,
+    -157.803038,
+    21.288148
+],
+  "geometry": {"coordinates":[-157.80303799999999,21.288148],"type":"Point"}
+}

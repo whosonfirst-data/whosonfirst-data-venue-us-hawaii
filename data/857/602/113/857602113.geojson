@@ -1,0 +1,68 @@
+{
+  "id": 857602113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.441141,20.894374,-156.441141,20.894374",
+    "geom:latitude":20.894374,
+    "geom:longitude":-156.441141,
+    "iso:country":"US",
+    "sg:address":"865 W Mokuea Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 8811",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102532929,
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c3RGNI8varAkyKzON3cX6_20.894374_-156.441141@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204031,
+    "wof:geomhash":"9038dc6f30afea42fe7eb3c55097a4ae",
+    "wof:hierarchy":[
+        {
+            "campus_id":102532929,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857602113
+        }
+    ],
+    "wof:id":857602113,
+    "wof:lastmodified":1464204031,
+    "wof:name":"Budget Rent-A-Car",
+    "wof:parent_id":102532929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.441141,
+    20.894374,
+    -156.441141,
+    20.894374
+],
+  "geometry": {"coordinates":[-156.44114099999999,20.894374],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857518351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832987,21.297781,-157.832987,21.297781",
+    "geom:latitude":21.297781,
+    "geom:longitude":-157.832987,
+    "iso:country":"US",
+    "sg:address":"1617 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6998",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nl7Wevxpj97nAHXElWYww_21.297781_-157.832987@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202314,
+    "wof:geomhash":"843c03dd24c08554ec405a61b9cb272e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857518351
+        }
+    ],
+    "wof:id":857518351,
+    "wof:lastmodified":1464202314,
+    "wof:name":"Punahou Circle Apartments",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.832987,
+    21.297781,
+    -157.832987,
+    21.297781
+],
+  "geometry": {"coordinates":[-157.832987,21.297781],"type":"Point"}
+}

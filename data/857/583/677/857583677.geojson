@@ -1,0 +1,78 @@
+{
+  "id": 857583677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.338359,20.784971,-156.338359,20.784971",
+    "geom:latitude":20.784971,
+    "geom:longitude":-156.338359,
+    "iso:country":"US",
+    "sg:address":"1044 Holopuni Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 8710",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UqwcU2dqI84NbqYsn5P3i_20.784971_-156.338359@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203620,
+    "wof:geomhash":"51b68e633435078212bbab7228b1b5b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857583677
+        }
+    ],
+    "wof:id":857583677,
+    "wof:lastmodified":1464203620,
+    "wof:name":"Event Horizon Software Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -156.338359,
+    20.784971,
+    -156.338359,
+    20.784971
+],
+  "geometry": {"coordinates":[-156.338359,20.784971],"type":"Point"}
+}

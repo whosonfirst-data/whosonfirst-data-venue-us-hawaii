@@ -1,0 +1,73 @@
+{
+  "id": 857568791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864227,21.313579,-157.864227,21.313579",
+    "geom:latitude":21.313579,
+    "geom:longitude":-157.864227,
+    "iso:country":"US",
+    "sg:address":"901 River St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 2753",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77dVFaxfm5FrFF6yKKeO7r_21.313579_-157.864227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203329,
+    "wof:geomhash":"e39f153f3d6b599de5046b0dbeef0cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857568791
+        }
+    ],
+    "wof:id":857568791,
+    "wof:lastmodified":1464203329,
+    "wof:name":"Harbor Village Apartments",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.864227,
+    21.313579,
+    -157.864227,
+    21.313579
+],
+  "geometry": {"coordinates":[-157.864227,21.313579],"type":"Point"}
+}

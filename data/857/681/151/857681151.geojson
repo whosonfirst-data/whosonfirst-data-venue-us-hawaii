@@ -1,0 +1,76 @@
+{
+  "id": 857681151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.034269,21.389595,-158.034269,21.389595",
+    "geom:latitude":21.389595,
+    "geom:longitude":-158.034269,
+    "iso:country":"US",
+    "sg:address":"94-615 Kupuohi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/180861-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 680 0704",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937549,
+        102085417,
+        85890707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PyUkVGZW226N3KNPaSfax_21.389595_-158.034269@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"8621591135e6d94d5de61f5a6c283b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937549,
+            "neighbourhood_id":85890707,
+            "region_id":85688671,
+            "venue_id":857681151
+        }
+    ],
+    "wof:id":857681151,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85890707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -158.034269,
+    21.389595,
+    -158.034269,
+    21.389595
+],
+  "geometry": {"coordinates":[-158.03426899999999,21.389595],"type":"Point"}
+}

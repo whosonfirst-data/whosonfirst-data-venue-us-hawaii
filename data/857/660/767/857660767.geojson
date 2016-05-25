@@ -1,0 +1,73 @@
+{
+  "id": 857660767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884916,21.324327,-157.884916,21.324327",
+    "geom:latitude":21.324327,
+    "geom:longitude":-157.884916,
+    "iso:country":"US",
+    "sg:address":"295 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8887",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gWckUthOM8yHv78RitrUh_21.324327_-157.884916@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205942,
+    "wof:geomhash":"fe15cb3a721d1a7e62808a14247bf7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857660767
+        }
+    ],
+    "wof:id":857660767,
+    "wof:lastmodified":1464205942,
+    "wof:name":"Aloha Auto Air Conditioning",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.884916,
+    21.324327,
+    -157.884916,
+    21.324327
+],
+  "geometry": {"coordinates":[-157.884916,21.324327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857509615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858537,21.31981,-157.858537,21.31981",
+    "geom:latitude":21.31981,
+    "geom:longitude":-157.858537,
+    "iso:country":"US",
+    "sg:address":"332 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 1490",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EJQrRtFBT4fbfGrxz0265_21.319810_-157.858537@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202136,
+    "wof:geomhash":"6b4df56d8e714a86a246d5c1522388ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857509615
+        }
+    ],
+    "wof:id":857509615,
+    "wof:lastmodified":1464202136,
+    "wof:name":"Cadmus Telecom Corp",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -157.858537,
+    21.31981,
+    -157.858537,
+    21.31981
+],
+  "geometry": {"coordinates":[-157.85853700000001,21.31981],"type":"Point"}
+}

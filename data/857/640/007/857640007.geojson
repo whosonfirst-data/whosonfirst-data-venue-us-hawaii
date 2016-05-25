@@ -1,0 +1,73 @@
+{
+  "id": 857640007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885534,21.326436,-157.885534,21.326436",
+    "geom:latitude":21.326436,
+    "geom:longitude":-157.885534,
+    "iso:country":"US",
+    "sg:address":"1933 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5907",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EeQgGqMD7ojIPHxO6EWsN_21.326436_-157.885534@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205019,
+    "wof:geomhash":"f6b00e0a6ba635d242a5daa64bbd0037",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857640007
+        }
+    ],
+    "wof:id":857640007,
+    "wof:lastmodified":1464205019,
+    "wof:name":"Tadda Construction",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.885534,
+    21.326436,
+    -157.885534,
+    21.326436
+],
+  "geometry": {"coordinates":[-157.88553400000001,21.326436],"type":"Point"}
+}

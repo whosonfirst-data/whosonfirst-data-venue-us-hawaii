@@ -1,0 +1,71 @@
+{
+  "id": 857624513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.066923,21.346602,-158.066923,21.346602",
+    "geom:latitude":21.346602,
+    "geom:longitude":-158.066923,
+    "iso:country":"US",
+    "sg:address":"202 Oaheahe Way",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 0166",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dPita1kJ75i8X7lrCnlXA_21.346602_-158.066923@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204553,
+    "wof:geomhash":"06f920136e29320bbcffca6e53941572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857624513
+        }
+    ],
+    "wof:id":857624513,
+    "wof:lastmodified":1464204553,
+    "wof:name":"AC Appliance and Elec Svc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.066923,
+    21.346602,
+    -158.066923,
+    21.346602
+],
+  "geometry": {"coordinates":[-158.066923,21.346602],"type":"Point"}
+}

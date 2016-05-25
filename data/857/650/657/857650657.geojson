@@ -1,0 +1,73 @@
+{
+  "id": 857650657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819939,21.309597,-157.819939,21.309597",
+    "geom:latitude":21.309597,
+    "geom:longitude":-157.819939,
+    "iso:country":"US",
+    "sg:address":"2625 Ferdinand Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7872",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LQqbXKd4gLDQvrG9mQOtP_21.309597_-157.819939@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205483,
+    "wof:geomhash":"2b9f8bb105d0a5ff8812fe4c5d316905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857650657
+        }
+    ],
+    "wof:id":857650657,
+    "wof:lastmodified":1464205483,
+    "wof:name":"Manoa Manor",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -157.819939,
+    21.309597,
+    -157.819939,
+    21.309597
+],
+  "geometry": {"coordinates":[-157.81993900000001,21.309597],"type":"Point"}
+}

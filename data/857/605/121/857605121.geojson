@@ -1,0 +1,71 @@
+{
+  "id": 857605121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884417,21.337117,-157.884417,21.337117",
+    "geom:latitude":21.337117,
+    "geom:longitude":-157.884417,
+    "iso:country":"US",
+    "sg:address":"2343 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0301",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n7jUXXYJoTeDT4JkafC88_21.337117_-157.884417@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204098,
+    "wof:geomhash":"2aa5f024c9677abe86ed62d70beee7ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857605121
+        }
+    ],
+    "wof:id":857605121,
+    "wof:lastmodified":1464204098,
+    "wof:name":"Leong's Cafe",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.884417,
+    21.337117,
+    -157.884417,
+    21.337117
+],
+  "geometry": {"coordinates":[-157.88441700000001,21.337117],"type":"Point"}
+}

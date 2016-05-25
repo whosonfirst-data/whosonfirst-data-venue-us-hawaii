@@ -1,0 +1,73 @@
+{
+  "id": 857644581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.735203,21.283611,-157.735203,21.283611",
+    "geom:latitude":21.283611,
+    "geom:longitude":-157.735203,
+    "iso:country":"US",
+    "sg:address":"549 Halemaumau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 2164",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_699mXrdbd1oCsHsJfp2dTQ_21.283611_-157.735203@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205220,
+    "wof:geomhash":"28d014e4e4b60a596ee44b6b566b59bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857644581
+        }
+    ],
+    "wof:id":857644581,
+    "wof:lastmodified":1464205220,
+    "wof:name":"Donald E Nicol MD Inc",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.735203,
+    21.283611,
+    -157.735203,
+    21.283611
+],
+  "geometry": {"coordinates":[-157.73520300000001,21.283611],"type":"Point"}
+}

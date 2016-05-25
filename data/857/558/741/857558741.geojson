@@ -1,0 +1,76 @@
+{
+  "id": 857558741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030581,21.495693,-158.030581,21.495693",
+    "geom:latitude":21.495693,
+    "geom:longitude":-158.030581,
+    "iso:country":"US",
+    "sg:address":"408 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1005",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_477099TnrVnS62g5aew6Ak_21.495693_-158.030581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203122,
+    "wof:geomhash":"4de96991975018e465efe5b98ea34c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857558741
+        }
+    ],
+    "wof:id":857558741,
+    "wof:lastmodified":1464203122,
+    "wof:name":"Ron's Television Sales & Svc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -158.030581,
+    21.495693,
+    -158.030581,
+    21.495693
+],
+  "geometry": {"coordinates":[-158.03058100000001,21.495693],"type":"Point"}
+}

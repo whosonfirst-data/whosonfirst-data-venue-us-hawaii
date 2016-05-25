@@ -1,0 +1,73 @@
+{
+  "id": 857659507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.016927,21.443452,-158.016927,21.443452",
+    "geom:latitude":21.443452,
+    "geom:longitude":-158.016927,
+    "iso:country":"US",
+    "sg:address":"416 Alapoai St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 265 0610",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WuK6AJyrSmXNEG3oDKMgk_21.443452_-158.016927@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205882,
+    "wof:geomhash":"5d53d10d08eb0f01b4880011ef0c5aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857659507
+        }
+    ],
+    "wof:id":857659507,
+    "wof:lastmodified":1464205882,
+    "wof:name":"E & K Maintenance Service",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -158.016927,
+    21.443452,
+    -158.016927,
+    21.443452
+],
+  "geometry": {"coordinates":[-158.01692700000001,21.443452],"type":"Point"}
+}

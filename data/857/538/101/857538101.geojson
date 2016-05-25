@@ -1,0 +1,71 @@
+{
+  "id": 857538101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.293332,20.902456,-156.293332,20.902456",
+    "geom:latitude":20.902456,
+    "geom:longitude":-156.293332,
+    "iso:country":"US",
+    "sg:address":"3810 Lepo St",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 1010",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gJ5uWGYO4RmzUb5mJhPTS_20.902456_-156.293332@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202700,
+    "wof:geomhash":"d0e81ef1ef0dbebf31b4e5a75972c418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857538101
+        }
+    ],
+    "wof:id":857538101,
+    "wof:lastmodified":1464202700,
+    "wof:name":"Carl's Taxi",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -156.293332,
+    20.902456,
+    -156.293332,
+    20.902456
+],
+  "geometry": {"coordinates":[-156.29333199999999,20.902456],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857585029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84497,21.294305,-157.84497,21.294305",
+    "geom:latitude":21.294305,
+    "geom:longitude":-157.84497,
+    "iso:country":"US",
+    "sg:address":"1346 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 1457",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OrBgawYZ7ORvcAkDwH0rs_21.294305_-157.844970@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203646,
+    "wof:geomhash":"497a4fbbe1656a3867fb4de7d81731c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857585029
+        }
+    ],
+    "wof:id":857585029,
+    "wof:lastmodified":1464203646,
+    "wof:name":"Club Amazon",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.84497,
+    21.294305,
+    -157.84497,
+    21.294305
+],
+  "geometry": {"coordinates":[-157.84496999999999,21.294305],"type":"Point"}
+}

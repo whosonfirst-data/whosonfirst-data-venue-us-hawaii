@@ -1,0 +1,72 @@
+{
+  "id": 857535443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.495645,20.884896,-156.495645,20.884896",
+    "geom:latitude":20.884896,
+    "geom:longitude":-156.495645,
+    "iso:country":"US",
+    "sg:address":"400 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5555",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "human"
+    ],
+    "sg:website":"www.hospicemaui.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l9vu99uQIY1gLB1OwTksz_20.884896_-156.495645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202648,
+    "wof:geomhash":"83fb7fe24082362673760caf6492ca02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857535443
+        }
+    ],
+    "wof:id":857535443,
+    "wof:lastmodified":1464202648,
+    "wof:name":"Hospice Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -156.495645,
+    20.884896,
+    -156.495645,
+    20.884896
+],
+  "geometry": {"coordinates":[-156.495645,20.884896],"type":"Point"}
+}

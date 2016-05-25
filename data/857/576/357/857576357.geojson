@@ -1,0 +1,71 @@
+{
+  "id": 857576357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003875,21.424475,-158.003875,21.424475",
+    "geom:latitude":21.424475,
+    "geom:longitude":-158.003875,
+    "iso:country":"US",
+    "sg:address":"478 Ukee St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 2334",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xoATSCwBezmepWAcVcfRy_21.424475_-158.003875@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203477,
+    "wof:geomhash":"a4da0b8f977a539d0edfbcc62d3475d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857576357
+        }
+    ],
+    "wof:id":857576357,
+    "wof:lastmodified":1464203477,
+    "wof:name":"B & B Auto Svc Ctr",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.003875,
+    21.424475,
+    -158.003875,
+    21.424475
+],
+  "geometry": {"coordinates":[-158.00387499999999,21.424475],"type":"Point"}
+}

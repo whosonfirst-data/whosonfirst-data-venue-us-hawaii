@@ -1,0 +1,73 @@
+{
+  "id": 857562385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813531,21.311638,-157.813531,21.311638",
+    "geom:latitude":21.311638,
+    "geom:longitude":-157.813531,
+    "iso:country":"US",
+    "sg:address":"2872 Oahu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 0711",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KWDAIzsFOF0YmALnKN1os_21.311638_-157.813531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203209,
+    "wof:geomhash":"4f59e90002132aef6390c62661204995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857562385
+        }
+    ],
+    "wof:id":857562385,
+    "wof:lastmodified":1464203209,
+    "wof:name":"Manoa Senior Care",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -157.813531,
+    21.311638,
+    -157.813531,
+    21.311638
+],
+  "geometry": {"coordinates":[-157.81353100000001,21.311638],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857554807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.095532,21.308947,-158.095532,21.308947",
+    "geom:latitude":21.308947,
+    "geom:longitude":-158.095532,
+    "iso:country":"US",
+    "sg:address":"252 Kauhi St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 371 9036",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45A1utM6jp9iOgiqvt87Mx_21.308947_-158.095532@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203024,
+    "wof:geomhash":"1237bceef81b19edb14d2d9becc43ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857554807
+        }
+    ],
+    "wof:id":857554807,
+    "wof:lastmodified":1464203024,
+    "wof:name":"Pacific Waste Enviromental LLC",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -158.095532,
+    21.308947,
+    -158.095532,
+    21.308947
+],
+  "geometry": {"coordinates":[-158.09553199999999,21.308947],"type":"Point"}
+}

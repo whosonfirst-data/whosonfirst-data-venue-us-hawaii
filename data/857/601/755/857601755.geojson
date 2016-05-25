@@ -1,0 +1,71 @@
+{
+  "id": 857601755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.796912,21.281658,-157.796912,21.281658",
+    "geom:latitude":21.281658,
+    "geom:longitude":-157.796912,
+    "iso:country":"US",
+    "sg:address":"3660 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0013",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sH9u4qH18umCO7Y63pvXe_21.281658_-157.796912@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204022,
+    "wof:geomhash":"3097d69edfa7c25b952eaba72d4fe4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857601755
+        }
+    ],
+    "wof:id":857601755,
+    "wof:lastmodified":1464204022,
+    "wof:name":"Jonathan Cross DDS",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.796912,
+    21.281658,
+    -157.796912,
+    21.281658
+],
+  "geometry": {"coordinates":[-157.79691199999999,21.281658],"type":"Point"}
+}

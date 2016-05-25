@@ -1,0 +1,75 @@
+{
+  "id": 857672279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744809,21.416277,-157.744809,21.416277",
+    "geom:latitude":21.416277,
+    "geom:longitude":-157.744809,
+    "iso:country":"US",
+    "sg:address":"82 Namala Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 221 5373",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pi4D0SorD9NzEGHtoxWy6_21.416277_-157.744809@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206425,
+    "wof:geomhash":"f34a03f2c14312ba1feb150907b90d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857672279
+        }
+    ],
+    "wof:id":857672279,
+    "wof:lastmodified":1464206425,
+    "wof:name":"Oahu Pet Crematory",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -157.744809,
+    21.416277,
+    -157.744809,
+    21.416277
+],
+  "geometry": {"coordinates":[-157.744809,21.416277],"type":"Point"}
+}

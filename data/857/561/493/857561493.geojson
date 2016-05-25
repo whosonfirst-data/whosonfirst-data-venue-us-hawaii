@@ -1,0 +1,73 @@
+{
+  "id": 857561493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853201,21.297267,-157.853201,21.297267",
+    "geom:latitude":21.297267,
+    "geom:longitude":-157.853201,
+    "iso:country":"US",
+    "sg:address":"971 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 9877",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25dUdARDRwnt7IO7NnSPAq_21.297267_-157.853201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203191,
+    "wof:geomhash":"ab362e7182421faceca6157ddb189a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857561493
+        }
+    ],
+    "wof:id":857561493,
+    "wof:lastmodified":1464203191,
+    "wof:name":"Kyle's Service",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.853201,
+    21.297267,
+    -157.853201,
+    21.297267
+],
+  "geometry": {"coordinates":[-157.85320100000001,21.297267],"type":"Point"}
+}

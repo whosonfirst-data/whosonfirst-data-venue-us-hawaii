@@ -1,0 +1,73 @@
+{
+  "id": 857543873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.999165,21.38632,-157.999165,21.38632",
+    "geom:latitude":21.38632,
+    "geom:longitude":-157.999165,
+    "iso:country":"US",
+    "sg:address":"1037 Kahuamoku St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 554 7735",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SSIPh3kPrnhWbaUooAErM_21.386320_-157.999165@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202818,
+    "wof:geomhash":"46bc96cebe91d8fa8e8ccbec031c8b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857543873
+        }
+    ],
+    "wof:id":857543873,
+    "wof:lastmodified":1464202818,
+    "wof:name":"Island Lock & Safe",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.999165,
+    21.38632,
+    -157.999165,
+    21.38632
+],
+  "geometry": {"coordinates":[-157.999165,21.38632],"type":"Point"}
+}

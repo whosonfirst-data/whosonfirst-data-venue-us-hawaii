@@ -1,0 +1,71 @@
+{
+  "id": 857610861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827138,21.294646,-157.827138,21.294646",
+    "geom:latitude":21.294646,
+    "geom:longitude":-157.827138,
+    "iso:country":"US",
+    "sg:address":"1013 Poha Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 2021",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j8WaRQUY5jCciq4xQHeEJ_21.294646_-157.827138@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204224,
+    "wof:geomhash":"d743e3a3b51d42561ec177a33284fb4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857610861
+        }
+    ],
+    "wof:id":857610861,
+    "wof:lastmodified":1464204224,
+    "wof:name":"JJT Painting Co",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.827138,
+    21.294646,
+    -157.827138,
+    21.294646
+],
+  "geometry": {"coordinates":[-157.82713799999999,21.294646],"type":"Point"}
+}

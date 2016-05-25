@@ -1,0 +1,71 @@
+{
+  "id": 857602087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863787,21.313608,-157.863787,21.313608",
+    "geom:latitude":21.313608,
+    "geom:longitude":-157.863787,
+    "iso:country":"US",
+    "sg:address":"102 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 550 8868",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4602ShVWEMOD6rHGphY2TJ_21.313608_-157.863787@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204031,
+    "wof:geomhash":"895c055707ded4d3ca8efaafd9d56a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857602087
+        }
+    ],
+    "wof:id":857602087,
+    "wof:lastmodified":1464204031,
+    "wof:name":"Galilee Seafood Mart",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.863787,
+    21.313608,
+    -157.863787,
+    21.313608
+],
+  "geometry": {"coordinates":[-157.863787,21.313608],"type":"Point"}
+}

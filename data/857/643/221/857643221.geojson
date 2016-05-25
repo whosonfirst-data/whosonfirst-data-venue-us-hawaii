@@ -1,0 +1,68 @@
+{
+  "id": 857643221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.342792,20.830529,-156.342792,20.830529",
+    "geom:latitude":20.830529,
+    "geom:longitude":-156.342792,
+    "iso:country":"US",
+    "sg:address":"294 Elilani St",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 5679",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sYXdWyIEZDX3zxyrWPrx9_20.830529_-156.342792@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205156,
+    "wof:geomhash":"077847fed4270cdf21a29a38e0ba0241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857643221
+        }
+    ],
+    "wof:id":857643221,
+    "wof:lastmodified":1464205156,
+    "wof:name":"Lahaina Sushi Ya",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.342792,
+    20.830529,
+    -156.342792,
+    20.830529
+],
+  "geometry": {"coordinates":[-156.342792,20.830529],"type":"Point"}
+}

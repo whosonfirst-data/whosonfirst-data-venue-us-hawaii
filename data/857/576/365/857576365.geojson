@@ -1,0 +1,74 @@
+{
+  "id": 857576365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85872,21.298174,-157.85872,21.298174",
+    "geom:latitude":21.298174,
+    "geom:longitude":-157.85872,
+    "iso:country":"US",
+    "sg:address":"415 Cooke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0889",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "printing"
+    ],
+    "sg:website":"www.gebcohawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zG8NOrN7aJvq36SBcLHvL_21.298174_-157.858720@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203477,
+    "wof:geomhash":"2330613ea6fd52f4287f8eb515067700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857576365
+        }
+    ],
+    "wof:id":857576365,
+    "wof:lastmodified":1464203477,
+    "wof:name":"GEBCO Of Hawaii Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "printing"
+    ]
+},
+  "bbox": [
+    -157.85872,
+    21.298174,
+    -157.85872,
+    21.298174
+],
+  "geometry": {"coordinates":[-157.85872000000001,21.298174],"type":"Point"}
+}

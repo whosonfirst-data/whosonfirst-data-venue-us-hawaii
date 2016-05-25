@@ -1,0 +1,71 @@
+{
+  "id": 857563357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882744,21.337718,-157.882744,21.337718",
+    "geom:latitude":21.337718,
+    "geom:longitude":-157.882744,
+    "iso:country":"US",
+    "sg:address":"1030 Horner St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8233",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cgE7CQ86IlCnaQuUlcvJ9_21.337718_-157.882744@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203226,
+    "wof:geomhash":"4c58530d71651f0af3e1bcabacb0992e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857563357
+        }
+    ],
+    "wof:id":857563357,
+    "wof:lastmodified":1464203226,
+    "wof:name":"Kalihi Child Care Pre School",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.882744,
+    21.337718,
+    -157.882744,
+    21.337718
+],
+  "geometry": {"coordinates":[-157.882744,21.337718],"type":"Point"}
+}

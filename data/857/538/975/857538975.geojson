@@ -1,0 +1,71 @@
+{
+  "id": 857538975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808659,21.275349,-157.808659,21.275349",
+    "geom:latitude":21.275349,
+    "geom:longitude":-157.808659,
+    "iso:country":"US",
+    "sg:address":"3408 Upper St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 3121",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U6gs9DIaF9Om6NUG4ldpC_21.275349_-157.808659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202718,
+    "wof:geomhash":"2bf03621482404d5045e1b7d0e240d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857538975
+        }
+    ],
+    "wof:id":857538975,
+    "wof:lastmodified":1464202718,
+    "wof:name":"A Photgrapher Who Cares Spirit",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographic"
+    ]
+},
+  "bbox": [
+    -157.808659,
+    21.275349,
+    -157.808659,
+    21.275349
+],
+  "geometry": {"coordinates":[-157.80865900000001,21.275349],"type":"Point"}
+}

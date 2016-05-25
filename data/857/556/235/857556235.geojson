@@ -1,0 +1,71 @@
+{
+  "id": 857556235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.890506,21.326106,-157.890506,21.326106",
+    "geom:latitude":21.326106,
+    "geom:longitude":-157.890506,
+    "iso:country":"US",
+    "sg:address":"212 Mohonua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7100",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mxpWlYkn6QaNilcej4dC_21.326106_-157.890506@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203057,
+    "wof:geomhash":"d535499391b5b0bdae08ea1815be30c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857556235
+        }
+    ],
+    "wof:id":857556235,
+    "wof:lastmodified":1464203057,
+    "wof:name":"J D Painting & Decorating Inc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.890506,
+    21.326106,
+    -157.890506,
+    21.326106
+],
+  "geometry": {"coordinates":[-157.89050599999999,21.326106],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857650241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005637,21.314951,-158.005637,21.314951",
+    "geom:latitude":21.314951,
+    "geom:longitude":-158.005637,
+    "iso:country":"US",
+    "sg:address":"664 Kilaha St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 7209",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wQ6a8MJuwfcgeY5wWyzz2_21.314951_-158.005637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205468,
+    "wof:geomhash":"d470cce5a7772c219ed9c8b3117ab278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857650241
+        }
+    ],
+    "wof:id":857650241,
+    "wof:lastmodified":1464205468,
+    "wof:name":"7-M's Auto Care Home Svc",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.005637,
+    21.314951,
+    -158.005637,
+    21.314951
+],
+  "geometry": {"coordinates":[-158.00563700000001,21.314951],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857553889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.38386,21.968911,-159.38386,21.968911",
+    "geom:latitude":21.968911,
+    "geom:longitude":-159.38386,
+    "iso:country":"US",
+    "sg:address":"4469 Kolopa St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 0107",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "battery",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iHQFdu6z7ZriE6d4ylTsE_21.968911_-159.383860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203005,
+    "wof:geomhash":"98d04750e0399f06156cce1cd4736916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857553889
+        }
+    ],
+    "wof:id":857553889,
+    "wof:lastmodified":1464203005,
+    "wof:name":"Daleco Inc",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -159.38386,
+    21.968911,
+    -159.38386,
+    21.968911
+],
+  "geometry": {"coordinates":[-159.38386,21.968911],"type":"Point"}
+}

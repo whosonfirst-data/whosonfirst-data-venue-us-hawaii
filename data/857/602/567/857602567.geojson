@@ -1,0 +1,69 @@
+{
+  "id": 857602567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.82706,19.97467,-155.82706,19.97467",
+    "geom:latitude":19.97467,
+    "geom:longitude":-155.82706,
+    "iso:country":"US",
+    "sg:address":"7 Puako Beach Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 882 7500",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890365,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sbp5BMOX20Sx6pncNwoot_19.974670_-155.827060@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204040,
+    "wof:geomhash":"13e65f23560950adc71c9c99d011af34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890365,
+            "region_id":85688671,
+            "venue_id":857602567
+        }
+    ],
+    "wof:id":857602567,
+    "wof:lastmodified":1464204040,
+    "wof:name":"M's Puako General Store",
+    "wof:parent_id":85890365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -155.82706,
+    19.97467,
+    -155.82706,
+    19.97467
+],
+  "geometry": {"coordinates":[-155.82705999999999,19.97467],"type":"Point"}
+}

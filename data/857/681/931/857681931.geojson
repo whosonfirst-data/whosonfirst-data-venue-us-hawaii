@@ -1,0 +1,67 @@
+{
+  "id": 857681931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814558,21.300017,-157.814558,21.300017",
+    "geom:latitude":21.300017,
+    "geom:longitude":-157.814558,
+    "iso:country":"US",
+    "sg:address":"1601 East-West Road",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 7111",
+    "sg:postcode":"96848-1601",
+    "sg:province":"HI",
+    "sg:website":"http://www.eastwestcenter.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MTeG9nV3q4qacAqIZRXMa_21.300017_-157.814558@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464206812,
+    "wof:geomhash":"11773d19586d6f8f6233155bf0b1d8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857681931
+        }
+    ],
+    "wof:id":857681931,
+    "wof:lastmodified":1464206812,
+    "wof:name":"East-West Center",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.814558,
+    21.300017,
+    -157.814558,
+    21.300017
+],
+  "geometry": {"coordinates":[-157.81455800000001,21.300017],"type":"Point"}
+}

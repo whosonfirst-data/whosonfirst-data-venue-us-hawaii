@@ -1,0 +1,71 @@
+{
+  "id": 857651129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853137,21.311234,-157.853137,21.311234",
+    "geom:latitude":21.311234,
+    "geom:longitude":-157.853137,
+    "iso:country":"US",
+    "sg:address":"1489 Punchbowl St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 5433",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VeWwL3FZmy6o4DLy1XtPw_21.311234_-157.853137@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205499,
+    "wof:geomhash":"6d5fc95d9ebb72c6988a2c945002fbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857651129
+        }
+    ],
+    "wof:id":857651129,
+    "wof:lastmodified":1464205499,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.853137,
+    21.311234,
+    -157.853137,
+    21.311234
+],
+  "geometry": {"coordinates":[-157.853137,21.311234],"type":"Point"}
+}

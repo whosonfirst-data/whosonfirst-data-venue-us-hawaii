@@ -1,0 +1,75 @@
+{
+  "id": 857646989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.903588,21.335201,-157.903588,21.335201",
+    "geom:latitude":21.335201,
+    "geom:longitude":-157.903588,
+    "iso:country":"US",
+    "sg:address":"2999 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 2724",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vKz7sTwT14qgnXABjnb6Y_21.335201_-157.903588@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205337,
+    "wof:geomhash":"0d8d453395ae8b1a52152cc1f0399d7e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857646989
+        }
+    ],
+    "wof:id":857646989,
+    "wof:lastmodified":1464205337,
+    "wof:name":"J N Rentals",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.903588,
+    21.335201,
+    -157.903588,
+    21.335201
+],
+  "geometry": {"coordinates":[-157.90358800000001,21.335201],"type":"Point"}
+}

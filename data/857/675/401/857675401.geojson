@@ -1,0 +1,71 @@
+{
+  "id": 857675401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86046,21.297496,-157.86046,21.297496",
+    "geom:latitude":21.297496,
+    "geom:longitude":-157.86046,
+    "iso:country":"US",
+    "sg:address":"325 Lana Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 9885",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pJw6K7zQ1n8gOp10xonGD_21.297496_-157.860460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206540,
+    "wof:geomhash":"063bd5cd58c596400308681b31ee8be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857675401
+        }
+    ],
+    "wof:id":857675401,
+    "wof:lastmodified":1464206540,
+    "wof:name":"A 1 Euro Auto",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.86046,
+    21.297496,
+    -157.86046,
+    21.297496
+],
+  "geometry": {"coordinates":[-157.86045999999999,21.297496],"type":"Point"}
+}

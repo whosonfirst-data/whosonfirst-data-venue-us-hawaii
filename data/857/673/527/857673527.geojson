@@ -1,0 +1,73 @@
+{
+  "id": 857673527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803186,21.295781,-157.803186,21.295781",
+    "geom:latitude":21.295781,
+    "geom:longitude":-157.803186,
+    "iso:country":"US",
+    "sg:address":"1551 Kaminaka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 6535",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wellness",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35N2R8KeoCEv6SxxLfrpUs_21.295781_-157.803186@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206470,
+    "wof:geomhash":"6c713dbac4827ca753628d87e8893c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857673527
+        }
+    ],
+    "wof:id":857673527,
+    "wof:lastmodified":1464206470,
+    "wof:name":"Kaoru Rogers Wellness Concepts",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wellness",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.803186,
+    21.295781,
+    -157.803186,
+    21.295781
+],
+  "geometry": {"coordinates":[-157.80318600000001,21.295781],"type":"Point"}
+}

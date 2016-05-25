@@ -1,0 +1,73 @@
+{
+  "id": 857590031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.17554,21.41956,-158.17554,21.41956",
+    "geom:latitude":21.41956,
+    "geom:longitude":-158.17554,
+    "iso:country":"US",
+    "sg:address":"111 Linakola St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 4456",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q7OkFa1760TJhLQCpDXbo_21.419560_-158.175540@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203759,
+    "wof:geomhash":"fe1a78d8bae413e1ebd743ae73307a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857590031
+        }
+    ],
+    "wof:id":857590031,
+    "wof:lastmodified":1464203759,
+    "wof:name":"Westbrook Security Inc",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -158.17554,
+    21.41956,
+    -158.17554,
+    21.41956
+],
+  "geometry": {"coordinates":[-158.17554000000001,21.41956],"type":"Point"}
+}

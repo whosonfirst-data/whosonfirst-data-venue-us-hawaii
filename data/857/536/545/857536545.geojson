@@ -1,0 +1,71 @@
+{
+  "id": 857536545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.449158,20.777425,-156.449158,20.777425",
+    "geom:latitude":20.777425,
+    "geom:longitude":-156.449158,
+    "iso:country":"US",
+    "sg:address":"285 Noe St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 879 0140",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MqnvBsLk0u0vrwdyjpL9f_20.777425_-156.449158@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202672,
+    "wof:geomhash":"737c3198b17a4aa9dff2251c97773063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857536545
+        }
+    ],
+    "wof:id":857536545,
+    "wof:lastmodified":1464202672,
+    "wof:name":"JC Masonry",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.449158,
+    20.777425,
+    -156.449158,
+    20.777425
+],
+  "geometry": {"coordinates":[-156.44915800000001,20.777425],"type":"Point"}
+}

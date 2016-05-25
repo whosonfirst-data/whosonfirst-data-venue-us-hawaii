@@ -1,0 +1,76 @@
+{
+  "id": 857519553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831958,21.301022,-157.831958,21.301022",
+    "geom:latitude":21.301022,
+    "geom:longitude":-157.831958,
+    "iso:country":"US",
+    "sg:address":"1624 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 2573",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m75uqUs0ukkVtI7g6o3HE_21.301022_-157.831958@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202342,
+    "wof:geomhash":"313c12832c39212bdd20d3e76aad5b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857519553
+        }
+    ],
+    "wof:id":857519553,
+    "wof:lastmodified":1464202342,
+    "wof:name":"Pulelehua Condominiums",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.831958,
+    21.301022,
+    -157.831958,
+    21.301022
+],
+  "geometry": {"coordinates":[-157.83195799999999,21.301022],"type":"Point"}
+}

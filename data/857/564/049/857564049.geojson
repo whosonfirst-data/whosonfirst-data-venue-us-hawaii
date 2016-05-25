@@ -1,0 +1,75 @@
+{
+  "id": 857564049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.957595,21.388713,-157.957595,21.388713",
+    "geom:latitude":21.388713,
+    "geom:longitude":-157.957595,
+    "iso:country":"US",
+    "sg:address":"402 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 1961",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BW6GqYXLzr5P1qc8TffuM_21.388713_-157.957595@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203239,
+    "wof:geomhash":"f4fbd64212e9fb4bd1d168faec56c81e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857564049
+        }
+    ],
+    "wof:id":857564049,
+    "wof:lastmodified":1464203239,
+    "wof:name":"Nishi Service Station LTD",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.957595,
+    21.388713,
+    -157.957595,
+    21.388713
+],
+  "geometry": {"coordinates":[-157.957595,21.388713],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857574769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.95639,21.388012,-157.95639,21.388012",
+    "geom:latitude":21.388012,
+    "geom:longitude":-157.95639,
+    "iso:country":"US",
+    "sg:address":"391 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 8767",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_093HFgSmeAXJbSqPoOIPwR_21.388012_-157.956390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203447,
+    "wof:geomhash":"e8c07d9bc4badc83aff44e54cca0e15b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857574769
+        }
+    ],
+    "wof:id":857574769,
+    "wof:lastmodified":1464203447,
+    "wof:name":"Pearl Harbor Transmission",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -157.95639,
+    21.388012,
+    -157.95639,
+    21.388012
+],
+  "geometry": {"coordinates":[-157.95639,21.388012],"type":"Point"}
+}

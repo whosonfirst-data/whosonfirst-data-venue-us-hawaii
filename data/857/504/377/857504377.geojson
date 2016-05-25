@@ -1,0 +1,71 @@
+{
+  "id": 857504377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.728518,21.3795,-157.728518,21.3795",
+    "geom:latitude":21.3795,
+    "geom:longitude":-157.728518,
+    "iso:country":"US",
+    "sg:address":"1020 Keolu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 2466",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31Ao0vx0AiuFOrrX4NC9fe_21.379500_-157.728518@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202014,
+    "wof:geomhash":"a5c614c078256f94b6647efe43dc570c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857504377
+        }
+    ],
+    "wof:id":857504377,
+    "wof:lastmodified":1464202014,
+    "wof:name":"Saigon Noodle House",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.728518,
+    21.3795,
+    -157.728518,
+    21.3795
+],
+  "geometry": {"coordinates":[-157.72851800000001,21.3795],"type":"Point"}
+}

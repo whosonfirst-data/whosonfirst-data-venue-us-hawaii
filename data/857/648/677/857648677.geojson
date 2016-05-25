@@ -1,0 +1,71 @@
+{
+  "id": 857648677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852161,21.320314,-157.852161,21.320314",
+    "geom:latitude":21.320314,
+    "geom:longitude":-157.852161,
+    "iso:country":"US",
+    "sg:address":"1934 Pauoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3485",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MvIYKRtBy1mgX4oA5I0co_21.320314_-157.852161@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205401,
+    "wof:geomhash":"756364efeceefe8cc88de3768226c39c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857648677
+        }
+    ],
+    "wof:id":857648677,
+    "wof:lastmodified":1464205401,
+    "wof:name":"Yt Construction",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.852161,
+    21.320314,
+    -157.852161,
+    21.320314
+],
+  "geometry": {"coordinates":[-157.852161,21.320314],"type":"Point"}
+}

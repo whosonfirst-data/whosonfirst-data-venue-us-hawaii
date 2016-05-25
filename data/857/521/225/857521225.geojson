@@ -1,0 +1,78 @@
+{
+  "id": 857521225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797724,21.278268,-157.797724,21.278268",
+    "geom:latitude":21.278268,
+    "geom:longitude":-157.797724,
+    "iso:country":"US",
+    "sg:address":"1020 14th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 0233",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "acupuncture",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FBk1ZkWJ8dGL568NGuMHs_21.278268_-157.797724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202376,
+    "wof:geomhash":"f4c11e57cb8137c4d87514055cf03aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857521225
+        }
+    ],
+    "wof:id":857521225,
+    "wof:lastmodified":1464202376,
+    "wof:name":"Dragon CHI Clinic",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.797724,
+    21.278268,
+    -157.797724,
+    21.278268
+],
+  "geometry": {"coordinates":[-157.79772399999999,21.278268],"type":"Point"}
+}

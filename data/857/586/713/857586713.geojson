@@ -1,0 +1,75 @@
+{
+  "id": 857586713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971755,21.392281,-157.971755,21.392281",
+    "geom:latitude":21.392281,
+    "geom:longitude":-157.971755,
+    "iso:country":"US",
+    "sg:address":"952 3rd St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 1725",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_410q9djK5e4dmEAolr3xy2_21.392281_-157.971755@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203689,
+    "wof:geomhash":"e480675dfa8fea39b45bf0489925d44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857586713
+        }
+    ],
+    "wof:id":857586713,
+    "wof:lastmodified":1464203689,
+    "wof:name":"Road Maintenance Div",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -157.971755,
+    21.392281,
+    -157.971755,
+    21.392281
+],
+  "geometry": {"coordinates":[-157.971755,21.392281],"type":"Point"}
+}

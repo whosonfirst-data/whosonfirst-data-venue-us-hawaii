@@ -1,0 +1,73 @@
+{
+  "id": 857514533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860797,21.318205,-157.860797,21.318205",
+    "geom:latitude":21.318205,
+    "geom:longitude":-157.860797,
+    "iso:country":"US",
+    "sg:address":"400 N Vineyard Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7563",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y6eH07luYXlo9sDL9MKjU_21.318205_-157.860797@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202243,
+    "wof:geomhash":"2614a911f7fa405fe127a0a51c2d6f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857514533
+        }
+    ],
+    "wof:id":857514533,
+    "wof:lastmodified":1464202243,
+    "wof:name":"Kauluwela II",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.860797,
+    21.318205,
+    -157.860797,
+    21.318205
+],
+  "geometry": {"coordinates":[-157.86079699999999,21.318205],"type":"Point"}
+}

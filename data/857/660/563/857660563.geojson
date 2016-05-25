@@ -1,0 +1,71 @@
+{
+  "id": 857660563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864268,21.312952,-157.864268,21.312952",
+    "geom:latitude":21.312952,
+    "geom:longitude":-157.864268,
+    "iso:country":"US",
+    "sg:address":"145 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4063",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ow1SaWN2IQGpZAzgAvipk_21.312952_-157.864268@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205934,
+    "wof:geomhash":"07e791ff1c2d41f1bb8857f7baac26f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857660563
+        }
+    ],
+    "wof:id":857660563,
+    "wof:lastmodified":1464205934,
+    "wof:name":"Nakashima's Fish Market",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.864268,
+    21.312952,
+    -157.864268,
+    21.312952
+],
+  "geometry": {"coordinates":[-157.86426800000001,21.312952],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857681711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819893,21.291379,-157.819893,21.291379",
+    "geom:latitude":21.291379,
+    "geom:longitude":-157.819893,
+    "iso:country":"US",
+    "sg:address":"2700 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/209009-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 3233",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0flr1DRWUuBMVqwgOb5o3n_21.291379_-157.819893@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206793,
+    "wof:geomhash":"4527c7518d6e7fa1382a58063936b00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857681711
+        }
+    ],
+    "wof:id":857681711,
+    "wof:lastmodified":1464206793,
+    "wof:name":"TCBY",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.819893,
+    21.291379,
+    -157.819893,
+    21.291379
+],
+  "geometry": {"coordinates":[-157.81989300000001,21.291379],"type":"Point"}
+}

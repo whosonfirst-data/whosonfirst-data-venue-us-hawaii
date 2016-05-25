@@ -1,0 +1,73 @@
+{
+  "id": 857676031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801768,21.282574,-157.801768,21.282574",
+    "geom:latitude":21.282574,
+    "geom:longitude":-157.801768,
+    "iso:country":"US",
+    "sg:address":"1125 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 2421",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Npv0mSr6bihC1B3Zy6qG9_21.282574_-157.801768@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206578,
+    "wof:geomhash":"ce197c7f0b2ab0891902bd60aecc0ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857676031
+        }
+    ],
+    "wof:id":857676031,
+    "wof:lastmodified":1464206578,
+    "wof:name":"Harding Servicve",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.801768,
+    21.282574,
+    -157.801768,
+    21.282574
+],
+  "geometry": {"coordinates":[-157.80176800000001,21.282574],"type":"Point"}
+}

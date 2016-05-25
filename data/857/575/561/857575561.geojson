@@ -1,0 +1,71 @@
+{
+  "id": 857575561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007746,21.385442,-158.007746,21.385442",
+    "geom:latitude":21.385442,
+    "geom:longitude":-158.007746,
+    "iso:country":"US",
+    "sg:address":"825 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 4142",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qGlCovk9bttyIAna4UL6s_21.385442_-158.007746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203462,
+    "wof:geomhash":"f24697d630cdc87df02f6b03cd78e928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857575561
+        }
+    ],
+    "wof:id":857575561,
+    "wof:lastmodified":1464203462,
+    "wof:name":"Saiki Motors",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -158.007746,
+    21.385442,
+    -158.007746,
+    21.385442
+],
+  "geometry": {"coordinates":[-158.007746,21.385442],"type":"Point"}
+}

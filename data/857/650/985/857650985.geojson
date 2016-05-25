@@ -1,0 +1,71 @@
+{
+  "id": 857650985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858359,21.313687,-157.858359,21.313687",
+    "geom:latitude":21.313687,
+    "geom:longitude":-157.858359,
+    "iso:country":"US",
+    "sg:address":"1365 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 1834",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50gQBua9M5tTD7BI4YWRc7_21.313687_-157.858359@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205495,
+    "wof:geomhash":"f064c3a7170f7996793372745932604e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857650985
+        }
+    ],
+    "wof:id":857650985,
+    "wof:lastmodified":1464205495,
+    "wof:name":"Nuvo Hair Design",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.858359,
+    21.313687,
+    -157.858359,
+    21.313687
+],
+  "geometry": {"coordinates":[-157.85835900000001,21.313687],"type":"Point"}
+}

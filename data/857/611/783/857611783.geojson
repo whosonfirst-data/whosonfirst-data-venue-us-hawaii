@@ -1,0 +1,78 @@
+{
+  "id": 857611783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827599,21.280633,-157.827599,21.280633",
+    "geom:latitude":21.280633,
+    "geom:longitude":-157.827599,
+    "iso:country":"US",
+    "sg:address":"2255 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 9243",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ktKuedZyu9Q2CeoIamtKN_21.280633_-157.827599@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204249,
+    "wof:geomhash":"a722276de34f8ddabf8e4baf0d2c6f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857611783
+        }
+    ],
+    "wof:id":857611783,
+    "wof:lastmodified":1464204249,
+    "wof:name":"Waikiki Business Improvement",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -157.827599,
+    21.280633,
+    -157.827599,
+    21.280633
+],
+  "geometry": {"coordinates":[-157.82759899999999,21.280633],"type":"Point"}
+}

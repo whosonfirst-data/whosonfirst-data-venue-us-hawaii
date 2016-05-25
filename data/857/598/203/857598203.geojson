@@ -1,0 +1,71 @@
+{
+  "id": 857598203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831893,21.336222,-157.831893,21.336222",
+    "geom:latitude":21.336222,
+    "geom:longitude":-157.831893,
+    "iso:country":"US",
+    "sg:address":"3002 Hoaloha Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 3818",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29S8iJ2uMjvmV1trM5TarJ_21.336222_-157.831893@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203945,
+    "wof:geomhash":"caccfaccdd4ee618597e574056f0b176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857598203
+        }
+    ],
+    "wof:id":857598203,
+    "wof:lastmodified":1464203945,
+    "wof:name":"Underwater Photo",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.831893,
+    21.336222,
+    -157.831893,
+    21.336222
+],
+  "geometry": {"coordinates":[-157.83189300000001,21.336222],"type":"Point"}
+}

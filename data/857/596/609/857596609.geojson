@@ -1,0 +1,75 @@
+{
+  "id": 857596609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861992,21.310183,-157.861992,21.310183",
+    "geom:latitude":21.310183,
+    "geom:longitude":-157.861992,
+    "iso:country":"US",
+    "sg:address":"1043 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 6722",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "safe",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_613cEfVBTx9YnqHsTtobwM_21.310183_-157.861992@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203909,
+    "wof:geomhash":"e0c1d2f408c65946b54687e4801ba022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857596609
+        }
+    ],
+    "wof:id":857596609,
+    "wof:lastmodified":1464203909,
+    "wof:name":"Modern Key Shop Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "safe",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.861992,
+    21.310183,
+    -157.861992,
+    21.310183
+],
+  "geometry": {"coordinates":[-157.86199199999999,21.310183],"type":"Point"}
+}

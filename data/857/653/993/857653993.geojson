@@ -1,0 +1,71 @@
+{
+  "id": 857653993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830028,21.313013,-157.830028,21.313013",
+    "geom:latitude":21.313013,
+    "geom:longitude":-157.830028,
+    "iso:country":"US",
+    "sg:address":"2179 Makiki Heights Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 1237",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "well"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14l8ad4zCOXE9emcJ3PqlW_21.313013_-157.830028@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205636,
+    "wof:geomhash":"1b080453758387b9727aa85e4dd59f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857653993
+        }
+    ],
+    "wof:id":857653993,
+    "wof:lastmodified":1464205636,
+    "wof:name":"Michael J Cruickshank",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well"
+    ]
+},
+  "bbox": [
+    -157.830028,
+    21.313013,
+    -157.830028,
+    21.313013
+],
+  "geometry": {"coordinates":[-157.830028,21.313013],"type":"Point"}
+}

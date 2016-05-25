@@ -1,0 +1,71 @@
+{
+  "id": 857528363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823911,21.305108,-157.823911,21.305108",
+    "geom:latitude":21.305108,
+    "geom:longitude":-157.823911,
+    "iso:country":"US",
+    "sg:address":"2065 Lanihuli Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 6956",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PkcaQjgWt5DgDFGN02vkw_21.305108_-157.823911@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202512,
+    "wof:geomhash":"7186bb464a50a3e6e4b5608e2af9ca23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857528363
+        }
+    ],
+    "wof:id":857528363,
+    "wof:lastmodified":1464202512,
+    "wof:name":"University Inn Hotel",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -157.823911,
+    21.305108,
+    -157.823911,
+    21.305108
+],
+  "geometry": {"coordinates":[-157.82391100000001,21.305108],"type":"Point"}
+}

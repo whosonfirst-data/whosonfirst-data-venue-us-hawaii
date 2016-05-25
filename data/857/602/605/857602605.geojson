@@ -1,0 +1,71 @@
+{
+  "id": 857602605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.974342,21.402479,-157.974342,21.402479",
+    "geom:latitude":21.402479,
+    "geom:longitude":-157.974342,
+    "iso:country":"US",
+    "sg:address":"1310 Kuahaka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2457",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cQZMel2Y5QKmS0DNub9Pc_21.402479_-157.974342@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204040,
+    "wof:geomhash":"8061c3454f5f1dccbf6f452db2d53ee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857602605
+        }
+    ],
+    "wof:id":857602605,
+    "wof:lastmodified":1464204040,
+    "wof:name":"Barrientos Mamerto",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.974342,
+    21.402479,
+    -157.974342,
+    21.402479
+],
+  "geometry": {"coordinates":[-157.97434200000001,21.402479],"type":"Point"}
+}

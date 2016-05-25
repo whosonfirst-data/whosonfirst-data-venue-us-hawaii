@@ -1,0 +1,71 @@
+{
+  "id": 857631657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.75529,21.278179,-157.75529,21.278179",
+    "geom:latitude":21.278179,
+    "geom:longitude":-157.75529,
+    "iso:country":"US",
+    "sg:address":"801 W Hind Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 2419",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64htFADdP1vszbLV4scsty_21.278179_-157.755290@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204702,
+    "wof:geomhash":"953c1517bacafe20e9ff0a41cabf58a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857631657
+        }
+    ],
+    "wof:id":857631657,
+    "wof:lastmodified":1464204702,
+    "wof:name":"Aina Haina Elementary School",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -157.75529,
+    21.278179,
+    -157.75529,
+    21.278179
+],
+  "geometry": {"coordinates":[-157.75529,21.278179],"type":"Point"}
+}

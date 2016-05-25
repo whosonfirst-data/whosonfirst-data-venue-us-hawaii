@@ -1,0 +1,73 @@
+{
+  "id": 857583273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886898,21.325111,-157.886898,21.325111",
+    "geom:latitude":21.325111,
+    "geom:longitude":-157.886898,
+    "iso:country":"US",
+    "sg:address":"1922 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2000",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roof",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35u7P9ohKzrDQhouMJfh77_21.325111_-157.886898@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203613,
+    "wof:geomhash":"42d7fd78604b8d09cf506091eb019c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857583273
+        }
+    ],
+    "wof:id":857583273,
+    "wof:lastmodified":1464203613,
+    "wof:name":"Roofing Services Unlimited",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roof",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.886898,
+    21.325111,
+    -157.886898,
+    21.325111
+],
+  "geometry": {"coordinates":[-157.886898,21.325111],"type":"Point"}
+}

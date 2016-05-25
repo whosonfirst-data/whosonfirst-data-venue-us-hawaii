@@ -1,0 +1,71 @@
+{
+  "id": 857622583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.012321,21.451101,-158.012321,21.451101",
+    "geom:latitude":21.451101,
+    "geom:longitude":-158.012321,
+    "iso:country":"US",
+    "sg:address":"1039 Meheula Pkwy",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6646",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02lIArkhfKiSB2Qd6mrFHB_21.451101_-158.012321@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204495,
+    "wof:geomhash":"692e190ce562d45f9538c6ead5c08a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857622583
+        }
+    ],
+    "wof:id":857622583,
+    "wof:lastmodified":1464204495,
+    "wof:name":"Oahu Hawaii Facility MGT Group",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -158.012321,
+    21.451101,
+    -158.012321,
+    21.451101
+],
+  "geometry": {"coordinates":[-158.01232099999999,21.451101],"type":"Point"}
+}

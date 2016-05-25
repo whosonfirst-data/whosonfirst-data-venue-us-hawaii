@@ -1,0 +1,71 @@
+{
+  "id": 857652125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004829,21.383814,-158.004829,21.383814",
+    "geom:latitude":21.383814,
+    "geom:longitude":-158.004829,
+    "iso:country":"US",
+    "sg:address":"801 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 0655",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pOFQ7eMdbxxeZYfIX2oxT_21.383814_-158.004829@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205552,
+    "wof:geomhash":"85e72934e249ab481c92a8ef0e7addd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857652125
+        }
+    ],
+    "wof:id":857652125,
+    "wof:lastmodified":1464205552,
+    "wof:name":"Shear Creation",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.004829,
+    21.383814,
+    -158.004829,
+    21.383814
+],
+  "geometry": {"coordinates":[-158.004829,21.383814],"type":"Point"}
+}

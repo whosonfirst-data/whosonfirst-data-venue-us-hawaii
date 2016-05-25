@@ -1,0 +1,75 @@
+{
+  "id": 857674489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819027,21.290158,-157.819027,21.290158",
+    "geom:latitude":21.290158,
+    "geom:longitude":-157.819027,
+    "iso:country":"US",
+    "sg:address":"2717 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 3777",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2477LPGY8PMf7t3aDxnq6q_21.290158_-157.819027@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206505,
+    "wof:geomhash":"b0393f8b54d9922aec8dbf9973218bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857674489
+        }
+    ],
+    "wof:id":857674489,
+    "wof:lastmodified":1464206505,
+    "wof:name":"Harold's Lawn Mower Repair",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -157.819027,
+    21.290158,
+    -157.819027,
+    21.290158
+],
+  "geometry": {"coordinates":[-157.81902700000001,21.290158],"type":"Point"}
+}

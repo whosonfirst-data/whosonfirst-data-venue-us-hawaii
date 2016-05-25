@@ -1,0 +1,85 @@
+{
+  "id": 857532851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.454588,20.744917,-156.454588,20.744917",
+    "geom:latitude":20.744917,
+    "geom:longitude":-156.454588,
+    "iso:country":"US",
+    "sg:address":"1455 S Kihei Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 879 3388",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "diver",
+        "snorkeling",
+        "supply"
+    ],
+    "sg:website":"www.mauidiveshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mVnqhMcWKWOdBSsLhblCm_20.744917_-156.454588@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202600,
+    "wof:geomhash":"2e19e4749802d1c39904d71c06d84d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857532851
+        }
+    ],
+    "wof:id":857532851,
+    "wof:lastmodified":1464202600,
+    "wof:name":"Maul Dive Shop",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "diver",
+        "snorkeling",
+        "supply"
+    ]
+},
+  "bbox": [
+    -156.454588,
+    20.744917,
+    -156.454588,
+    20.744917
+],
+  "geometry": {"coordinates":[-156.454588,20.744917],"type":"Point"}
+}

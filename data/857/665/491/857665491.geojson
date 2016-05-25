@@ -1,0 +1,77 @@
+{
+  "id": 857665491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900051,21.339829,-157.900051,21.339829",
+    "geom:latitude":21.339829,
+    "geom:longitude":-157.900051,
+    "iso:country":"US",
+    "sg:address":"789 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 7055",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ri08yVj1vGWOKldjEKgpa_21.339829_-157.900051@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206151,
+    "wof:geomhash":"5560eb25104a3d68746bfc8a55bdf000",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857665491
+        }
+    ],
+    "wof:id":857665491,
+    "wof:lastmodified":1464206151,
+    "wof:name":"Seven Auto Body",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.900051,
+    21.339829,
+    -157.900051,
+    21.339829
+],
+  "geometry": {"coordinates":[-157.90005099999999,21.339829],"type":"Point"}
+}

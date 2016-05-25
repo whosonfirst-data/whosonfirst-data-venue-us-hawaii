@@ -1,0 +1,80 @@
+{
+  "id": 857624525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.91902,21.315074,-157.91902,21.315074",
+    "geom:latitude":21.315074,
+    "geom:longitude":-157.91902,
+    "iso:country":"US",
+    "sg:address":"140 Iako Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 6835",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ym5sMQHsfz6nxmeiAISOf_21.315074_-157.919020@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204553,
+    "wof:geomhash":"79fd813349350fa036beb9d124646a14",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857624525
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857624525
+        }
+    ],
+    "wof:id":857624525,
+    "wof:lastmodified":1464204553,
+    "wof:name":"HCC Dept of Aeronautics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.91902,
+    21.315074,
+    -157.91902,
+    21.315074
+],
+  "geometry": {"coordinates":[-157.91901999999999,21.315074],"type":"Point"}
+}

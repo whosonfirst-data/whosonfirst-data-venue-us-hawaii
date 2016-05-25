@@ -1,0 +1,71 @@
+{
+  "id": 857638061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.942886,21.393193,-157.942886,21.393193",
+    "geom:latitude":21.393193,
+    "geom:longitude":-157.942886,
+    "iso:country":"US",
+    "sg:address":"517 Pono St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 2569",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b7x3hZ2aVbEnTAvkhVfqR_21.393193_-157.942886@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204942,
+    "wof:geomhash":"02c14f7f30acdfdac7bb4a5cfe6ce5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857638061
+        }
+    ],
+    "wof:id":857638061,
+    "wof:lastmodified":1464204942,
+    "wof:name":"Nathan J Hoeldtke",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -157.942886,
+    21.393193,
+    -157.942886,
+    21.393193
+],
+  "geometry": {"coordinates":[-157.94288599999999,21.393193],"type":"Point"}
+}

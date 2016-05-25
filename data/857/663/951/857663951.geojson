@@ -1,0 +1,71 @@
+{
+  "id": 857663951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828868,21.294517,-157.828868,21.294517",
+    "geom:latitude":21.294517,
+    "geom:longitude":-157.828868,
+    "iso:country":"US",
+    "sg:address":"2104 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 953 2265",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cGIXciC7JGcMAlIOvdJVT_21.294517_-157.828868@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206083,
+    "wof:geomhash":"bc272282b90437b7e37f658764aefbd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857663951
+        }
+    ],
+    "wof:id":857663951,
+    "wof:lastmodified":1464206083,
+    "wof:name":"E-Solutions LLC",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -157.828868,
+    21.294517,
+    -157.828868,
+    21.294517
+],
+  "geometry": {"coordinates":[-157.828868,21.294517],"type":"Point"}
+}

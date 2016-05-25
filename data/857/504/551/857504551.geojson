@@ -1,0 +1,73 @@
+{
+  "id": 857504551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798785,21.310659,-157.798785,21.310659",
+    "geom:latitude":21.310659,
+    "geom:longitude":-157.798785,
+    "iso:country":"US",
+    "sg:address":"3250 Beaumont Woods Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 4418",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D5yXYEuwUaYQgVhBOjXhs_21.310659_-157.798785@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202017,
+    "wof:geomhash":"110b022fb1550ded39be1bd266ea81d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857504551
+        }
+    ],
+    "wof:id":857504551,
+    "wof:lastmodified":1464202017,
+    "wof:name":"Rendez-Vous Recording",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -157.798785,
+    21.310659,
+    -157.798785,
+    21.310659
+],
+  "geometry": {"coordinates":[-157.79878500000001,21.310659],"type":"Point"}
+}

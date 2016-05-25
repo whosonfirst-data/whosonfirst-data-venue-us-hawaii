@@ -1,0 +1,73 @@
+{
+  "id": 857676215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836677,21.293146,-157.836677,21.293146",
+    "geom:latitude":21.293146,
+    "geom:longitude":-157.836677,
+    "iso:country":"US",
+    "sg:address":"1630 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4527",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "locksmith",
+        "luggage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56qdwSjTc7KDM9dzbSIeLn_21.293146_-157.836677@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206584,
+    "wof:geomhash":"cc4da94da61264ef2eacd93ef4d8e988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857676215
+        }
+    ],
+    "wof:id":857676215,
+    "wof:lastmodified":1464206584,
+    "wof:name":"Lock Doctor",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith",
+        "luggage"
+    ]
+},
+  "bbox": [
+    -157.836677,
+    21.293146,
+    -157.836677,
+    21.293146
+],
+  "geometry": {"coordinates":[-157.83667700000001,21.293146],"type":"Point"}
+}

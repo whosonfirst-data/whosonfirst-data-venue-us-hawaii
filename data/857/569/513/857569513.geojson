@@ -1,0 +1,73 @@
+{
+  "id": 857569513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899659,21.335718,-157.899659,21.335718",
+    "geom:latitude":21.335718,
+    "geom:longitude":-157.899659,
+    "iso:country":"US",
+    "sg:address":"2815 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5593",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AfoEBqmCyguXRrZvonKXq_21.335718_-157.899659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203343,
+    "wof:geomhash":"9638fdd412cf45d8da56f25ea6899deb",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857569513
+        }
+    ],
+    "wof:id":857569513,
+    "wof:lastmodified":1464203343,
+    "wof:name":"Shiromas Auto Body",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -157.899659,
+    21.335718,
+    -157.899659,
+    21.335718
+],
+  "geometry": {"coordinates":[-157.89965900000001,21.335718],"type":"Point"}
+}

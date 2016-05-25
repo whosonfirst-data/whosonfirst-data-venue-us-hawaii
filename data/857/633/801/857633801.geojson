@@ -1,0 +1,69 @@
+{
+  "id": 857633801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022584,21.498778,-158.022584,21.498778",
+    "geom:latitude":21.498778,
+    "geom:longitude":-158.022584,
+    "iso:country":"US",
+    "sg:address":"1067 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 4320",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EFgrOcww8sZvu2oX3vzIa_21.498778_-158.022584@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204785,
+    "wof:geomhash":"1e81fb3c53686862192b6cd658541429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857633801
+        }
+    ],
+    "wof:id":857633801,
+    "wof:lastmodified":1464204785,
+    "wof:name":"Wahiawa Hongwanji Mission",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogue"
+    ]
+},
+  "bbox": [
+    -158.022584,
+    21.498778,
+    -158.022584,
+    21.498778
+],
+  "geometry": {"coordinates":[-158.02258399999999,21.498778],"type":"Point"}
+}

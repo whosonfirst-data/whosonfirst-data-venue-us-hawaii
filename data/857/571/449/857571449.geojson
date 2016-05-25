@@ -1,0 +1,75 @@
+{
+  "id": 857571449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030713,21.49749,-158.030713,21.49749",
+    "geom:latitude":21.49749,
+    "geom:longitude":-158.030713,
+    "iso:country":"US",
+    "sg:address":"415 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 4036",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WeDuDIujkatk79AbKDAj5_21.497490_-158.030713@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203379,
+    "wof:geomhash":"6633f8114d7a810ee1bd449e5a958949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857571449
+        }
+    ],
+    "wof:id":857571449,
+    "wof:lastmodified":1464203379,
+    "wof:name":"Norman's Fender Shop",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.030713,
+    21.49749,
+    -158.030713,
+    21.49749
+],
+  "geometry": {"coordinates":[-158.03071299999999,21.49749],"type":"Point"}
+}

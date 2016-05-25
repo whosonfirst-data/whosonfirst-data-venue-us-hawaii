@@ -1,0 +1,96 @@
+{
+  "id": 857667387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.9024,21.332995,-157.9024,21.332995",
+    "geom:latitude":21.332995,
+    "geom:longitude":-157.9024,
+    "iso:country":"US",
+    "sg:address":"2978 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1966",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "parts",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vPOUacW2I6U7dB952H8OG_21.332995_-157.902400@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206238,
+    "wof:geomhash":"adc395f886f2bb452ef7dc7009cf7ec5",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857667387
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857667387
+        }
+    ],
+    "wof:id":857667387,
+    "wof:lastmodified":1464206238,
+    "wof:name":"I C Supply Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "parts",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.9024,
+    21.332995,
+    -157.9024,
+    21.332995
+],
+  "geometry": {"coordinates":[-157.9024,21.332995],"type":"Point"}
+}

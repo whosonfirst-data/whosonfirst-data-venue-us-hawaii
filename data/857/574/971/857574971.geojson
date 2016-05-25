@@ -1,0 +1,66 @@
+{
+  "id": 857574971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866024,21.320218,-157.866024,21.320218",
+    "geom:latitude":21.320218,
+    "geom:longitude":-157.866024,
+    "iso:country":"US",
+    "sg:address":"600 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 2126",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CNRSxMMfKrS3jUSo0F5EI_21.320218_-157.866024@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203450,
+    "wof:geomhash":"61edd53addaa7d540e066045b52e1635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857574971
+        }
+    ],
+    "wof:id":857574971,
+    "wof:lastmodified":1464203450,
+    "wof:name":"Skyway Market",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.866024,
+    21.320218,
+    -157.866024,
+    21.320218
+],
+  "geometry": {"coordinates":[-157.86602400000001,21.320218],"type":"Point"}
+}

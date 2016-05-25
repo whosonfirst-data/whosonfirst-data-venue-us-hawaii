@@ -1,0 +1,71 @@
+{
+  "id": 857678383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.485861,20.904616,-156.485861,20.904616",
+    "geom:latitude":20.904616,
+    "geom:longitude":-156.485861,
+    "iso:country":"US",
+    "sg:address":"321 Hookahi St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 1440",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y4nJxM77doUOEDPvAC2UE_20.904616_-156.485861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206668,
+    "wof:geomhash":"514f20503cf02bef03777cc68e176ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857678383
+        }
+    ],
+    "wof:id":857678383,
+    "wof:lastmodified":1464206668,
+    "wof:name":"MVR Auto Refinishing Supls",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -156.485861,
+    20.904616,
+    -156.485861,
+    20.904616
+],
+  "geometry": {"coordinates":[-156.485861,20.904616],"type":"Point"}
+}

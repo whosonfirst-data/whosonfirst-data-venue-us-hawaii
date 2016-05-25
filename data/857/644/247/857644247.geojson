@@ -1,0 +1,71 @@
+{
+  "id": 857644247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816007,21.284871,-157.816007,21.284871",
+    "geom:latitude":21.284871,
+    "geom:longitude":-157.816007,
+    "iso:country":"US",
+    "sg:address":"841 Olokele Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 255 8923",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sycAuHSW4ul4hRZXpVWMg_21.284871_-157.816007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205203,
+    "wof:geomhash":"7be0027492dce30cd8c891b20e2781bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857644247
+        }
+    ],
+    "wof:id":857644247,
+    "wof:lastmodified":1464205203,
+    "wof:name":"Faith Yard Services",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -157.816007,
+    21.284871,
+    -157.816007,
+    21.284871
+],
+  "geometry": {"coordinates":[-157.81600700000001,21.284871],"type":"Point"}
+}

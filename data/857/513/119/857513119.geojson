@@ -1,0 +1,73 @@
+{
+  "id": 857513119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841206,21.307154,-157.841206,21.307154",
+    "geom:latitude":21.307154,
+    "geom:longitude":-157.841206,
+    "iso:country":"US",
+    "sg:address":"1547 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 566 0700",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nZooZJpjv8RU90OycGhj2_21.307154_-157.841206@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202211,
+    "wof:geomhash":"974bbf19e492ca82b7706128034180f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857513119
+        }
+    ],
+    "wof:id":857513119,
+    "wof:lastmodified":1464202211,
+    "wof:name":"All Basic Medical Equip Distr",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.841206,
+    21.307154,
+    -157.841206,
+    21.307154
+],
+  "geometry": {"coordinates":[-157.841206,21.307154],"type":"Point"}
+}

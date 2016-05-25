@@ -1,0 +1,71 @@
+{
+  "id": 857658495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862386,21.311673,-157.862386,21.311673",
+    "geom:latitude":21.311673,
+    "geom:longitude":-157.862386,
+    "iso:country":"US",
+    "sg:address":"10 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 6966",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eRMRnVf14JvppSGuuN30M_21.311673_-157.862386@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205839,
+    "wof:geomhash":"7a9f2a7e6cf7e3d86f3577ba012b9a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857658495
+        }
+    ],
+    "wof:id":857658495,
+    "wof:lastmodified":1464205839,
+    "wof:name":"Black Pearl Lounge",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.862386,
+    21.311673,
+    -157.862386,
+    21.311673
+],
+  "geometry": {"coordinates":[-157.86238599999999,21.311673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857503189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785336,21.283578,-157.785336,21.283578",
+    "geom:latitude":21.283578,
+    "geom:longitude":-157.785336,
+    "iso:country":"US",
+    "sg:address":"1498 Ahuawa Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 2776",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "monitoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48v024g7LsZPXTxif8SQT6_21.283578_-157.785336@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201989,
+    "wof:geomhash":"83f3a49383579bbc8eb65267be984a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857503189
+        }
+    ],
+    "wof:id":857503189,
+    "wof:lastmodified":1464201989,
+    "wof:name":"Island Neurodiagnostic LLC",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monitoring"
+    ]
+},
+  "bbox": [
+    -157.785336,
+    21.283578,
+    -157.785336,
+    21.283578
+],
+  "geometry": {"coordinates":[-157.785336,21.283578],"type":"Point"}
+}

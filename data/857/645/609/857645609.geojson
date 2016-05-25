@@ -1,0 +1,71 @@
+{
+  "id": 857645609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814955,21.313061,-157.814955,21.313061",
+    "geom:latitude":21.313061,
+    "geom:longitude":-157.814955,
+    "iso:country":"US",
+    "sg:address":"1930 Uluwehi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7964",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_302gvEVlacMGgmJdbxrCaP_21.313061_-157.814955@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205263,
+    "wof:geomhash":"c8004c7c135960071e49cc87302381f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857645609
+        }
+    ],
+    "wof:id":857645609,
+    "wof:lastmodified":1464205263,
+    "wof:name":"Wine Experience",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -157.814955,
+    21.313061,
+    -157.814955,
+    21.313061
+],
+  "geometry": {"coordinates":[-157.814955,21.313061],"type":"Point"}
+}

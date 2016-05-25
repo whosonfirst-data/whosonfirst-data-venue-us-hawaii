@@ -1,0 +1,71 @@
+{
+  "id": 857673701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.322595,20.895171,-156.322595,20.895171",
+    "geom:latitude":20.895171,
+    "geom:longitude":-156.322595,
+    "iso:country":"US",
+    "sg:address":"66 Laenani St",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 8707",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74uFEzUwKANlgk18NOrRP1_20.895171_-156.322595@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206476,
+    "wof:geomhash":"e492e520a11e683c3d8457fe035a1d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857673701
+        }
+    ],
+    "wof:id":857673701,
+    "wof:lastmodified":1464206476,
+    "wof:name":"Brigit & Bernard Garden Cafe",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -156.322595,
+    20.895171,
+    -156.322595,
+    20.895171
+],
+  "geometry": {"coordinates":[-156.32259500000001,20.895171],"type":"Point"}
+}

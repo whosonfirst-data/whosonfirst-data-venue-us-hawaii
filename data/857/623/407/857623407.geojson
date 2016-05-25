@@ -1,0 +1,71 @@
+{
+  "id": 857623407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506173,20.891256,-156.506173,20.891256",
+    "geom:latitude":20.891256,
+    "geom:longitude":-156.506173,
+    "iso:country":"US",
+    "sg:address":"55 N Church St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 4037",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v3J9MnTkiW0EWCyprE7sH_20.891256_-156.506173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204515,
+    "wof:geomhash":"d2b138450c7cc0f9521b955bf6182d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857623407
+        }
+    ],
+    "wof:id":857623407,
+    "wof:lastmodified":1464204515,
+    "wof:name":"Mark Breithaupt PHD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -156.506173,
+    20.891256,
+    -156.506173,
+    20.891256
+],
+  "geometry": {"coordinates":[-156.50617299999999,20.891256],"type":"Point"}
+}

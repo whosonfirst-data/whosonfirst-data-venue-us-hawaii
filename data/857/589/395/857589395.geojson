@@ -1,0 +1,69 @@
+{
+  "id": 857589395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.049341,21.493963,-158.049341,21.493963",
+    "geom:latitude":21.493963,
+    "geom:longitude":-158.049341,
+    "iso:country":"US",
+    "sg:address":"1660 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 2870",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v4xj41hjTBhESKOpyZFcm_21.493963_-158.049341@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203747,
+    "wof:geomhash":"70603b5e2db8e5f79606417f5afd97be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857589395
+        }
+    ],
+    "wof:id":857589395,
+    "wof:lastmodified":1464203747,
+    "wof:name":"Island Tattoo",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -158.049341,
+    21.493963,
+    -158.049341,
+    21.493963
+],
+  "geometry": {"coordinates":[-158.049341,21.493963],"type":"Point"}
+}

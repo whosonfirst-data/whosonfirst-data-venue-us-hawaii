@@ -1,0 +1,71 @@
+{
+  "id": 857604675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852895,21.309292,-157.852895,21.309292",
+    "geom:latitude":21.309292,
+    "geom:longitude":-157.852895,
+    "iso:country":"US",
+    "sg:address":"614 Captain Cook Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 1091",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J0xDreEL2EPNKutZGCah6_21.309292_-157.852895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204089,
+    "wof:geomhash":"13c3a935a598bd7f4ac89b08e70dfc18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857604675
+        }
+    ],
+    "wof:id":857604675,
+    "wof:lastmodified":1464204089,
+    "wof:name":"Yano Towing-Road Svc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.852895,
+    21.309292,
+    -157.852895,
+    21.309292
+],
+  "geometry": {"coordinates":[-157.85289499999999,21.309292],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857638119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.105519,21.578443,-158.105519,21.578443",
+    "geom:latitude":21.578443,
+    "geom:longitude":-158.105519,
+    "iso:country":"US",
+    "sg:address":"560 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4466",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vbb5sYnD8xQgZ65YcWmMs_21.578443_-158.105519@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204945,
+    "wof:geomhash":"0a71c8c2f995cd066ad77c201b10c424",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857638119
+        }
+    ],
+    "wof:id":857638119,
+    "wof:lastmodified":1464204945,
+    "wof:name":"Giri-Giri",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.105519,
+    21.578443,
+    -158.105519,
+    21.578443
+],
+  "geometry": {"coordinates":[-158.10551899999999,21.578443],"type":"Point"}
+}

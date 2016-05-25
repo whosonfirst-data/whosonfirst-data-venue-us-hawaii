@@ -1,0 +1,73 @@
+{
+  "id": 857524493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.790552,21.274373,-157.790552,21.274373",
+    "geom:latitude":21.274373,
+    "geom:longitude":-157.790552,
+    "iso:country":"US",
+    "sg:address":"1029 22nd Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 2419",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78GOeWVnHWVlRyvcwI1DO7_21.274373_-157.790552@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202438,
+    "wof:geomhash":"e2a315a3598f4f9e76485979efc0356f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857524493
+        }
+    ],
+    "wof:id":857524493,
+    "wof:lastmodified":1464202438,
+    "wof:name":"Arasato & Sons",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.790552,
+    21.274373,
+    -157.790552,
+    21.274373
+],
+  "geometry": {"coordinates":[-157.79055199999999,21.274373],"type":"Point"}
+}

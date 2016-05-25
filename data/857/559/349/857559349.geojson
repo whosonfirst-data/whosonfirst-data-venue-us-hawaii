@@ -1,0 +1,75 @@
+{
+  "id": 857559349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87742,21.304497,-157.87742,21.304497",
+    "geom:latitude":21.304497,
+    "geom:longitude":-157.87742,
+    "iso:country":"US",
+    "sg:address":"1275 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1872",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d8HyvG9WK1Sltz9318JCu_21.304497_-157.877420@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203136,
+    "wof:geomhash":"85340fd264339b651bad9868308cfbee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857559349
+        }
+    ],
+    "wof:id":857559349,
+    "wof:lastmodified":1464203136,
+    "wof:name":"2001 Autobody & Paint",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.87742,
+    21.304497,
+    -157.87742,
+    21.304497
+],
+  "geometry": {"coordinates":[-157.87742,21.304497],"type":"Point"}
+}

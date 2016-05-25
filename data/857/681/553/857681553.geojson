@@ -1,0 +1,73 @@
+{
+  "id": 857681553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859343,21.320817,-157.859343,21.320817",
+    "geom:latitude":21.320817,
+    "geom:longitude":-157.859343,
+    "iso:country":"US",
+    "sg:address":"414 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/202780-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZpSyIptvKp3Pueeom5YEz_21.320817_-157.859343@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206788,
+    "wof:geomhash":"0f6e8ceb786386fae9d4bf336986a0b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857681553
+        }
+    ],
+    "wof:id":857681553,
+    "wof:lastmodified":1464206788,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.859343,
+    21.320817,
+    -157.859343,
+    21.320817
+],
+  "geometry": {"coordinates":[-157.859343,21.320817],"type":"Point"}
+}

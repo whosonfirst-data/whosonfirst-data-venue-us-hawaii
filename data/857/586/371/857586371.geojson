@@ -1,0 +1,71 @@
+{
+  "id": 857586371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788082,21.276383,-157.788082,21.276383",
+    "geom:latitude":21.276383,
+    "geom:longitude":-157.788082,
+    "iso:country":"US",
+    "sg:address":"1407 Pueo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2471",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54KE1DDwulKOpuGApSBwUV_21.276383_-157.788082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203681,
+    "wof:geomhash":"54756124eb6ad59f7f3a902c65ecffae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857586371
+        }
+    ],
+    "wof:id":857586371,
+    "wof:lastmodified":1464203681,
+    "wof:name":"Youngs Automotive Service",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.788082,
+    21.276383,
+    -157.788082,
+    21.276383
+],
+  "geometry": {"coordinates":[-157.788082,21.276383],"type":"Point"}
+}

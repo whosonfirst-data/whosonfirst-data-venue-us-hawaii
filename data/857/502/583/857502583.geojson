@@ -1,0 +1,76 @@
+{
+  "id": 857502583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.427716,20.895255,-156.427716,20.895255",
+    "geom:latitude":20.895255,
+    "geom:longitude":-156.427716,
+    "iso:country":"US",
+    "sg:address":"25 Kuhea St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 6060",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aircraft",
+        "support",
+        "ground"
+    ],
+    "sg:website":"www.bradleypacific.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fJYGCLZUQrUgM7xFVTUt3_20.895255_-156.427716@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201972,
+    "wof:geomhash":"9f7a5a3cb133fd263827a00e774c082c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857502583
+        }
+    ],
+    "wof:id":857502583,
+    "wof:lastmodified":1464201972,
+    "wof:name":"Bradley Pacific Aviation",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "support",
+        "ground"
+    ]
+},
+  "bbox": [
+    -156.427716,
+    20.895255,
+    -156.427716,
+    20.895255
+],
+  "geometry": {"coordinates":[-156.427716,20.895255],"type":"Point"}
+}

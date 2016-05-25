@@ -1,0 +1,71 @@
+{
+  "id": 857613739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87618,21.32706,-157.87618,21.32706",
+    "geom:latitude":21.32706,
+    "geom:longitude":-157.87618,
+    "iso:country":"US",
+    "sg:address":"720 McNeill St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 7801",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B9zu4F55miYHKd93KIvok_21.327060_-157.876180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204296,
+    "wof:geomhash":"bb3917e1feca574a4ea1a74518d12200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857613739
+        }
+    ],
+    "wof:id":857613739,
+    "wof:lastmodified":1464204296,
+    "wof:name":"Kalakaua District Park",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.87618,
+    21.32706,
+    -157.87618,
+    21.32706
+],
+  "geometry": {"coordinates":[-157.87618000000001,21.32706],"type":"Point"}
+}

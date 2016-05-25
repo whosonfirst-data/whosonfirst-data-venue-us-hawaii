@@ -1,0 +1,71 @@
+{
+  "id": 857553047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018544,21.387337,-158.018544,21.387337",
+    "geom:latitude":21.387337,
+    "geom:longitude":-158.018544,
+    "iso:country":"US",
+    "sg:address":"489 Pilimai St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5625",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k3tlVqlZpV51QXi6xbzG8_21.387337_-158.018544@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202990,
+    "wof:geomhash":"066b4081bc2a10f8d5ceff0362f30f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857553047
+        }
+    ],
+    "wof:id":857553047,
+    "wof:lastmodified":1464202990,
+    "wof:name":"A To Z Locksmith",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -158.018544,
+    21.387337,
+    -158.018544,
+    21.387337
+],
+  "geometry": {"coordinates":[-158.01854399999999,21.387337],"type":"Point"}
+}

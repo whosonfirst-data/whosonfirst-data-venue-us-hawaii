@@ -1,0 +1,71 @@
+{
+  "id": 857627643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.365202,21.949833,-159.365202,21.949833",
+    "geom:latitude":21.949833,
+    "geom:longitude":-159.365202,
+    "iso:country":"US",
+    "sg:address":"2396 Hulemalu Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 2459",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890575,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45eBC1rhqvmIHGSJxGPIlD_21.949833_-159.365202@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204615,
+    "wof:geomhash":"8c25fc02426811c792cf0f430d4bba11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890575,
+            "region_id":85688671,
+            "venue_id":857627643
+        }
+    ],
+    "wof:id":857627643,
+    "wof:lastmodified":1464204615,
+    "wof:name":"JDK Enterprises",
+    "wof:parent_id":85890575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.365202,
+    21.949833,
+    -159.365202,
+    21.949833
+],
+  "geometry": {"coordinates":[-159.36520200000001,21.949833],"type":"Point"}
+}

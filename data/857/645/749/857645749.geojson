@@ -1,0 +1,71 @@
+{
+  "id": 857645749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810465,21.409236,-157.810465,21.409236",
+    "geom:latitude":21.409236,
+    "geom:longitude":-157.810465,
+    "iso:country":"US",
+    "sg:address":"660 Keaahala Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 233 7308",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rqm9f0SzphAE2RzbrRe2c_21.409236_-157.810465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205268,
+    "wof:geomhash":"b05da33ae9b8ead8530538b92e375b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857645749
+        }
+    ],
+    "wof:id":857645749,
+    "wof:lastmodified":1464205268,
+    "wof:name":"Kaneohe District Park",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.810465,
+    21.409236,
+    -157.810465,
+    21.409236
+],
+  "geometry": {"coordinates":[-157.81046499999999,21.409236],"type":"Point"}
+}

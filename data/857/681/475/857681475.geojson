@@ -1,0 +1,72 @@
+{
+  "id": 857681475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825031,21.278818,-157.825031,21.278818",
+    "geom:latitude":21.278818,
+    "geom:longitude":-157.825031,
+    "iso:country":"US",
+    "sg:address":"2330 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108568-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 9570",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IFN4JzKPI30RWzO2NoCpf_21.278818_-157.825031@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206785,
+    "wof:geomhash":"2db36125d2a8909057f6935779f71e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681475
+        }
+    ],
+    "wof:id":857681475,
+    "wof:lastmodified":1464206785,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.825031,
+    21.278818,
+    -157.825031,
+    21.278818
+],
+  "geometry": {"coordinates":[-157.825031,21.278818],"type":"Point"}
+}

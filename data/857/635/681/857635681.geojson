@@ -1,0 +1,71 @@
+{
+  "id": 857635681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83305,21.367907,-157.83305,21.367907",
+    "geom:latitude":21.367907,
+    "geom:longitude":-157.83305,
+    "iso:country":"US",
+    "sg:address":"3565 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8129",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "synagogue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77tyMk20zTffCI4UhOMS0m_21.367907_-157.833050@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204857,
+    "wof:geomhash":"f526ff1aba3aa453484cd1414cdfd15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857635681
+        }
+    ],
+    "wof:id":857635681,
+    "wof:lastmodified":1464204857,
+    "wof:name":"Chozen-Ji",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogue"
+    ]
+},
+  "bbox": [
+    -157.83305,
+    21.367907,
+    -157.83305,
+    21.367907
+],
+  "geometry": {"coordinates":[-157.83304999999999,21.367907],"type":"Point"}
+}

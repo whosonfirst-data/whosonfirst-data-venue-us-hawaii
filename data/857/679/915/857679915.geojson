@@ -1,0 +1,71 @@
+{
+  "id": 857679915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88319,21.320876,-157.88319,21.320876",
+    "geom:latitude":21.320876,
+    "geom:longitude":-157.88319,
+    "iso:country":"US",
+    "sg:address":"1602 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3775",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HMNrcpngvpwUxGV6pYPrY_21.320876_-157.883190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206726,
+    "wof:geomhash":"4e5033db9da53feba9924e70079f1bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857679915
+        }
+    ],
+    "wof:id":857679915,
+    "wof:lastmodified":1464206726,
+    "wof:name":"Interisland",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.88319,
+    21.320876,
+    -157.88319,
+    21.320876
+],
+  "geometry": {"coordinates":[-157.88319000000001,21.320876],"type":"Point"}
+}

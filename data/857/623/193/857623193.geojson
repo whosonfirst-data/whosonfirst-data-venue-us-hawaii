@@ -1,0 +1,75 @@
+{
+  "id": 857623193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881928,21.327603,-157.881928,21.327603",
+    "geom:latitude":21.327603,
+    "geom:longitude":-157.881928,
+    "iso:country":"US",
+    "sg:address":"510 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7979",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aDgA7S19cLf006mwfkmn7_21.327603_-157.881928@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204512,
+    "wof:geomhash":"ad1350fd69cf5140f1556163cedd8b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857623193
+        }
+    ],
+    "wof:id":857623193,
+    "wof:lastmodified":1464204512,
+    "wof:name":"Champion Golf LLC",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.881928,
+    21.327603,
+    -157.881928,
+    21.327603
+],
+  "geometry": {"coordinates":[-157.88192799999999,21.327603],"type":"Point"}
+}

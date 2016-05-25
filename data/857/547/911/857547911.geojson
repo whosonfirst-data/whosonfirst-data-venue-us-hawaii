@@ -1,0 +1,78 @@
+{
+  "id": 857547911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840555,21.297507,-157.840555,21.297507",
+    "geom:latitude":21.297507,
+    "geom:longitude":-157.840555,
+    "iso:country":"US",
+    "sg:address":"911 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 3035",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "beverage",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wzzMYt1XjAqbDCgkz8BCg_21.297507_-157.840555@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202892,
+    "wof:geomhash":"722b5b814e2e6b4f0f3fb9978cfe45ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857547911
+        }
+    ],
+    "wof:id":857547911,
+    "wof:lastmodified":1464202892,
+    "wof:name":"Cafe Bubble Up",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.840555,
+    21.297507,
+    -157.840555,
+    21.297507
+],
+  "geometry": {"coordinates":[-157.84055499999999,21.297507],"type":"Point"}
+}

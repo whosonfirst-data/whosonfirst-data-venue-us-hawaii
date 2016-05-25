@@ -1,0 +1,81 @@
+{
+  "id": 857658615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.079555,21.623161,-158.079555,21.623161",
+    "geom:latitude":21.623161,
+    "geom:longitude":-158.079555,
+    "iso:country":"US",
+    "sg:address":"401 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 7911",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85827833,
+        102085417,
+        85890119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iPHGM1E5OzDp7nhOUYWDw_21.623161_-158.079555@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205843,
+    "wof:geomhash":"cc8d2e11a373c10acd7d7b3c3685f9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85827833,
+            "region_id":85688671,
+            "venue_id":857658615
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890119,
+            "region_id":85688671,
+            "venue_id":857658615
+        }
+    ],
+    "wof:id":857658615,
+    "wof:lastmodified":1464205843,
+    "wof:name":"Chem-Dry Ocean Carpet Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -158.079555,
+    21.623161,
+    -158.079555,
+    21.623161
+],
+  "geometry": {"coordinates":[-158.079555,21.623161],"type":"Point"}
+}

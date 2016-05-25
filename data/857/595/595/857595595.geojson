@@ -1,0 +1,77 @@
+{
+  "id": 857595595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.355572,21.968775,-159.355572,21.968775",
+    "geom:latitude":21.968775,
+    "geom:longitude":-159.355572,
+    "iso:country":"US",
+    "sg:address":"3049 Aukele St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5626",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "industrial",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kd56LXSJ5PAZbo84VSiHl_21.968775_-159.355572@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203885,
+    "wof:geomhash":"b35001ab87dfd377e050880b0cfff501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857595595
+        }
+    ],
+    "wof:id":857595595,
+    "wof:lastmodified":1464203885,
+    "wof:name":"Lihue Lighthouse",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "industrial",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -159.355572,
+    21.968775,
+    -159.355572,
+    21.968775
+],
+  "geometry": {"coordinates":[-159.355572,21.968775],"type":"Point"}
+}

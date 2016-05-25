@@ -1,0 +1,76 @@
+{
+  "id": 857681715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822015,21.292459,-157.822015,21.292459",
+    "geom:latitude":21.292459,
+    "geom:longitude":-157.822015,
+    "iso:country":"US",
+    "sg:address":"1010 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/127068-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7827",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qk7BvGwHWJGmX3l0LT8uX_21.292459_-157.822015@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206799,
+    "wof:geomhash":"a8929f2f4637faa31ee8e5aa17fb3355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857681715
+        }
+    ],
+    "wof:id":857681715,
+    "wof:lastmodified":1464206799,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.822015,
+    21.292459,
+    -157.822015,
+    21.292459
+],
+  "geometry": {"coordinates":[-157.82201499999999,21.292459],"type":"Point"}
+}

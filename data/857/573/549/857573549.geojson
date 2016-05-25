@@ -1,0 +1,67 @@
+{
+  "id": 857573549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860731,21.298384,-157.860731,21.298384",
+    "geom:latitude":21.298384,
+    "geom:longitude":-157.860731,
+    "iso:country":"US",
+    "sg:address":"670 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 9770",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:website":"www.voyagerohana.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74kdlxMQ5sgXdh70CabUEG_21.298384_-157.860731@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203421,
+    "wof:geomhash":"e8284ddf1f45701ffaf0237bbdcd076b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857573549
+        }
+    ],
+    "wof:id":857573549,
+    "wof:lastmodified":1464203421,
+    "wof:name":"Voyager Charter School",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.860731,
+    21.298384,
+    -157.860731,
+    21.298384
+],
+  "geometry": {"coordinates":[-157.86073099999999,21.298384],"type":"Point"}
+}

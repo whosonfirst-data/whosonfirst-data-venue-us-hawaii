@@ -1,0 +1,73 @@
+{
+  "id": 857590039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898499,21.343469,-157.898499,21.343469",
+    "geom:latitude":21.343469,
+    "geom:longitude":-157.898499,
+    "iso:country":"US",
+    "sg:address":"949 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 6711",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xW9Kf1wnAgZtqGVq0BP1s_21.343469_-157.898499@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203759,
+    "wof:geomhash":"eca529439e89d6ed90b187fed15e1246",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857590039
+        }
+    ],
+    "wof:id":857590039,
+    "wof:lastmodified":1464203759,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -157.898499,
+    21.343469,
+    -157.898499,
+    21.343469
+],
+  "geometry": {"coordinates":[-157.89849899999999,21.343469],"type":"Point"}
+}

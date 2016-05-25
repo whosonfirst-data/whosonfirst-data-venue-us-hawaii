@@ -1,0 +1,74 @@
+{
+  "id": 857681723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.939964,21.381718,-157.939964,21.381718",
+    "geom:latitude":21.381718,
+    "geom:longitude":-157.939964,
+    "iso:country":"US",
+    "sg:address":"98-151 Pali Momi St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/9256-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6311",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZTuR0nA5UeimcX5oeP6Vm_21.382060_-157.939759@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206799,
+    "wof:geomhash":"0ab9108ac369a003eebcc6bb3a800fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857681723
+        }
+    ],
+    "wof:id":857681723,
+    "wof:lastmodified":1464206799,
+    "wof:name":"Denny's",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -157.939964,
+    21.381718,
+    -157.939964,
+    21.381718
+],
+  "geometry": {"coordinates":[-157.939964,21.381718],"type":"Point"}
+}

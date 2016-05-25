@@ -1,0 +1,77 @@
+{
+  "id": 857659813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.508427,20.891765,-156.508427,20.891765",
+    "geom:latitude":20.891765,
+    "geom:longitude":-156.508427,
+    "iso:country":"US",
+    "sg:address":"291 Muliwai Dr",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7323",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v5ONUeBq8lBIXb2SIO8jE_20.891765_-156.508427@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205897,
+    "wof:geomhash":"9d79dcf82af215d25a51a91b023543fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857659813
+        }
+    ],
+    "wof:id":857659813,
+    "wof:lastmodified":1464205897,
+    "wof:name":"Richard's Discount Plumbing",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -156.508427,
+    20.891765,
+    -156.508427,
+    20.891765
+],
+  "geometry": {"coordinates":[-156.50842700000001,20.891765],"type":"Point"}
+}

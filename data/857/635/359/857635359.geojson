@@ -1,0 +1,75 @@
+{
+  "id": 857635359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00144,21.384521,-158.00144,21.384521",
+    "geom:latitude":21.384521,
+    "geom:longitude":-158.00144,
+    "iso:country":"US",
+    "sg:address":"877 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3301",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q6UtjIghLfQ4ENL76BpBO_21.384521_-158.001440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204845,
+    "wof:geomhash":"4feec75283e27042826017cd80302800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857635359
+        }
+    ],
+    "wof:id":857635359,
+    "wof:lastmodified":1464204845,
+    "wof:name":"Pat's Poodle Grooming",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -158.00144,
+    21.384521,
+    -158.00144,
+    21.384521
+],
+  "geometry": {"coordinates":[-158.00144,21.384521],"type":"Point"}
+}

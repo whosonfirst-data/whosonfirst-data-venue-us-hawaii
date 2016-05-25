@@ -1,0 +1,82 @@
+{
+  "id": 857661943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86212,21.306754,-157.86212,21.306754",
+    "geom:latitude":21.306754,
+    "geom:longitude":-157.86212,
+    "iso:country":"US",
+    "sg:address":"707 Alakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 8183",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fund",
+        "trust",
+        "pension",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yujiRY60UzizhvSDwq8MJ_21.306754_-157.862120@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206010,
+    "wof:geomhash":"8ae795a1e029ef601a3179e84870cc29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857661943
+        }
+    ],
+    "wof:id":857661943,
+    "wof:lastmodified":1464206010,
+    "wof:name":"Masters Mates & Pilots",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "trust",
+        "pension",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.86212,
+    21.306754,
+    -157.86212,
+    21.306754
+],
+  "geometry": {"coordinates":[-157.86212,21.306754],"type":"Point"}
+}

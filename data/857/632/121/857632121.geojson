@@ -1,0 +1,68 @@
+{
+  "id": 857632121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.12681,19.711354,-155.12681,19.711354",
+    "geom:latitude":19.711354,
+    "geom:longitude":-155.12681,
+    "iso:country":"US",
+    "sg:address":"1660 Kilikina St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 4475",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_553PVFNbEf03j5lDX3ayDX_19.711354_-155.126810@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204718,
+    "wof:geomhash":"a7e27f988efbf05d273a109cfee9d42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890241,
+            "region_id":85688671,
+            "venue_id":857632121
+        }
+    ],
+    "wof:id":857632121,
+    "wof:lastmodified":1464204718,
+    "wof:name":"GLS Services",
+    "wof:parent_id":85890241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.12681,
+    19.711354,
+    -155.12681,
+    19.711354
+],
+  "geometry": {"coordinates":[-155.12681000000001,19.711354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857561947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.574028,20.118217,-155.574028,20.118217",
+    "geom:latitude":20.118217,
+    "geom:longitude":-155.574028,
+    "iso:country":"US",
+    "sg:address":"5416 Old Government Main Rd",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7121",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937419,
+        102085433,
+        85890263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23MUPx2F77mJa7JYWxGclL_20.118217_-155.574028@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203202,
+    "wof:geomhash":"b43add7cef81e60da796c09159ee019f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937419,
+            "neighbourhood_id":85890263,
+            "region_id":85688671,
+            "venue_id":857561947
+        }
+    ],
+    "wof:id":857561947,
+    "wof:lastmodified":1464203202,
+    "wof:name":"Ali'i Shuttle",
+    "wof:parent_id":85890263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -155.574028,
+    20.118217,
+    -155.574028,
+    20.118217
+],
+  "geometry": {"coordinates":[-155.574028,20.118217],"type":"Point"}
+}

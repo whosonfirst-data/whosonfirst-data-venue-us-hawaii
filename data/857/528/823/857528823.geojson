@@ -1,0 +1,71 @@
+{
+  "id": 857528823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.327312,20.801079,-156.327312,20.801079",
+    "geom:latitude":20.801079,
+    "geom:longitude":-156.327312,
+    "iso:country":"US",
+    "sg:address":"212 Kula Hwy",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 8777",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62n39xMT1E0oTX7EkiQk8f_20.801079_-156.327312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202521,
+    "wof:geomhash":"6f8d5cd39ef3657272df728dc995bdad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857528823
+        }
+    ],
+    "wof:id":857528823,
+    "wof:lastmodified":1464202521,
+    "wof:name":"U Shampoo",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.327312,
+    20.801079,
+    -156.327312,
+    20.801079
+],
+  "geometry": {"coordinates":[-156.32731200000001,20.801079],"type":"Point"}
+}

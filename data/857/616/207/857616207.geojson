@@ -1,0 +1,71 @@
+{
+  "id": 857616207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900809,21.35136,-157.900809,21.35136",
+    "geom:latitude":21.35136,
+    "geom:longitude":-157.900809,
+    "iso:country":"US",
+    "sg:address":"3054 Ala Puaala Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 2118",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71nQhPSMs2CGAQ6fL2rdQk_21.351360_-157.900809@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204343,
+    "wof:geomhash":"2794fa8903cec7dbad97bb3773875d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857616207
+        }
+    ],
+    "wof:id":857616207,
+    "wof:lastmodified":1464204343,
+    "wof:name":"Unique Painting Inc",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.900809,
+    21.35136,
+    -157.900809,
+    21.35136
+],
+  "geometry": {"coordinates":[-157.90080900000001,21.35136],"type":"Point"}
+}

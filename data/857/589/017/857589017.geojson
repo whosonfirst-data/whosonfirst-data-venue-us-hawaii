@@ -1,0 +1,75 @@
+{
+  "id": 857589017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.988193,19.642165,-155.988193,19.642165",
+    "geom:latitude":19.642165,
+    "geom:longitude":-155.988193,
+    "iso:country":"US",
+    "sg:address":"210 Ala Onaona St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 2123",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hz0GOK9gI6qXhfLQx7x23_19.642165_-155.988193@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203740,
+    "wof:geomhash":"dd3ba0d84cfaa87aa24d6e1ccfc64ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857589017
+        }
+    ],
+    "wof:id":857589017,
+    "wof:lastmodified":1464203740,
+    "wof:name":"Middle Earth Book Shoppe",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "store"
+    ]
+},
+  "bbox": [
+    -155.988193,
+    19.642165,
+    -155.988193,
+    19.642165
+],
+  "geometry": {"coordinates":[-155.988193,19.642165],"type":"Point"}
+}

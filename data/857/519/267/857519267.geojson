@@ -1,0 +1,71 @@
+{
+  "id": 857519267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.587392,21.921275,-159.587392,21.921275",
+    "geom:latitude":21.921275,
+    "geom:longitude":-159.587392,
+    "iso:country":"US",
+    "sg:address":"3534 Konale St",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 0411",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YPiaEiuvwuDCCYT4xVFPl_21.921275_-159.587392@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202335,
+    "wof:geomhash":"4d0cf3e1e596176e0305527fbd36d943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857519267
+        }
+    ],
+    "wof:id":857519267,
+    "wof:lastmodified":1464202335,
+    "wof:name":"Kevin's Yard Svc",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.587392,
+    21.921275,
+    -159.587392,
+    21.921275
+],
+  "geometry": {"coordinates":[-159.58739199999999,21.921275],"type":"Point"}
+}

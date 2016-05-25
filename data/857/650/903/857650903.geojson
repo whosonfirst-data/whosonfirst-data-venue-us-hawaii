@@ -1,0 +1,73 @@
+{
+  "id": 857650903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.915006,21.388643,-157.915006,21.388643",
+    "geom:latitude":21.388643,
+    "geom:longitude":-157.915006,
+    "iso:country":"US",
+    "sg:address":"193 Inea Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 5757",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "poi"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oGTTUr4k0soTLVX1l0pnO_21.388643_-157.915006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205492,
+    "wof:geomhash":"379e5fe16e6f130d3f78e27b78fd86a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857650903
+        }
+    ],
+    "wof:id":857650903,
+    "wof:lastmodified":1464205492,
+    "wof:name":"Haleiwa Poi Inc",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "poi"
+    ]
+},
+  "bbox": [
+    -157.915006,
+    21.388643,
+    -157.915006,
+    21.388643
+],
+  "geometry": {"coordinates":[-157.91500600000001,21.388643],"type":"Point"}
+}

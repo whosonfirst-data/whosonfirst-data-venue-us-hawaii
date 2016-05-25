@@ -1,0 +1,77 @@
+{
+  "id": 857595563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.31938,22.09216,-159.31938,22.09216",
+    "geom:latitude":22.09216,
+    "geom:longitude":-159.31938,
+    "iso:country":"US",
+    "sg:address":"5105 Hekili Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 635 3799",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "vintage",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EqZFBjETb8BwSpUo0e6UE_22.092160_-159.319380@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203884,
+    "wof:geomhash":"82e3532537948131e5a0e799b5aee4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857595563
+        }
+    ],
+    "wof:id":857595563,
+    "wof:lastmodified":1464203884,
+    "wof:name":"Tropicars Classic Cruisers",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "vintage",
+        "car"
+    ]
+},
+  "bbox": [
+    -159.31938,
+    22.09216,
+    -159.31938,
+    22.09216
+],
+  "geometry": {"coordinates":[-159.31938,22.09216],"type":"Point"}
+}

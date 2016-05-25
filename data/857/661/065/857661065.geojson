@@ -1,0 +1,69 @@
+{
+  "id": 857661065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018387,21.378154,-158.018387,21.378154",
+    "geom:latitude":21.378154,
+    "geom:longitude":-158.018387,
+    "iso:country":"US",
+    "sg:address":"171 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 1253",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10Rm9YeO0ODiemiI8Y0EtT_21.378154_-158.018387@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205965,
+    "wof:geomhash":"aac84544075cc9b894aa9feb7dadb4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857661065
+        }
+    ],
+    "wof:id":857661065,
+    "wof:lastmodified":1464205965,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -158.018387,
+    21.378154,
+    -158.018387,
+    21.378154
+],
+  "geometry": {"coordinates":[-158.01838699999999,21.378154],"type":"Point"}
+}

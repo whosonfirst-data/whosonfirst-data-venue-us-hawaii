@@ -1,0 +1,71 @@
+{
+  "id": 857546571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506173,20.891256,-156.506173,20.891256",
+    "geom:latitude":20.891256,
+    "geom:longitude":-156.506173,
+    "iso:country":"US",
+    "sg:address":"55 N Church St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 986 0170",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WaSSnT9SXdhPLpIBJa9Lw_20.891256_-156.506173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202867,
+    "wof:geomhash":"d2b138450c7cc0f9521b955bf6182d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857546571
+        }
+    ],
+    "wof:id":857546571,
+    "wof:lastmodified":1464202867,
+    "wof:name":"Bailbonds Information Ctr",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -156.506173,
+    20.891256,
+    -156.506173,
+    20.891256
+],
+  "geometry": {"coordinates":[-156.50617299999999,20.891256],"type":"Point"}
+}

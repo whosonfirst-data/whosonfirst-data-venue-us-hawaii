@@ -1,0 +1,75 @@
+{
+  "id": 857658801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.998812,19.647186,-155.998812,19.647186",
+    "geom:latitude":19.647186,
+    "geom:longitude":-155.998812,
+    "iso:country":"US",
+    "sg:address":"5598 Luhia St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 9433",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iHC7f6iPareqJ76P1HPRb_19.647186_-155.998812@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205855,
+    "wof:geomhash":"ce9c78a88c67a83a0321fcdd70bc7a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857658801
+        }
+    ],
+    "wof:id":857658801,
+    "wof:lastmodified":1464205855,
+    "wof:name":"Bavarian Motor Sports",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -155.998812,
+    19.647186,
+    -155.998812,
+    19.647186
+],
+  "geometry": {"coordinates":[-155.99881199999999,19.647186],"type":"Point"}
+}

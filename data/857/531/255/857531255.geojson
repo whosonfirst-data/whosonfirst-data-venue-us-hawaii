@@ -1,0 +1,74 @@
+{
+  "id": 857531255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867862,21.331249,-157.867862,21.331249",
+    "geom:latitude":21.331249,
+    "geom:longitude":-157.867862,
+    "iso:country":"US",
+    "sg:address":"1401 Houghtailing St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0195",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "high",
+        "private"
+    ],
+    "sg:website":"www.damien.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aohXg8oKrJTQNl7oqw1aj_21.331249_-157.867862@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202570,
+    "wof:geomhash":"97f0fde16d3fa1f28bf27e228fd424b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857531255
+        }
+    ],
+    "wof:id":857531255,
+    "wof:lastmodified":1464202570,
+    "wof:name":"Damien Memorial High School",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "private"
+    ]
+},
+  "bbox": [
+    -157.867862,
+    21.331249,
+    -157.867862,
+    21.331249
+],
+  "geometry": {"coordinates":[-157.867862,21.331249],"type":"Point"}
+}

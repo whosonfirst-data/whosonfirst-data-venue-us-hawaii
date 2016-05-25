@@ -1,0 +1,75 @@
+{
+  "id": 857632705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954703,21.392276,-157.954703,21.392276",
+    "geom:latitude":21.392276,
+    "geom:longitude":-157.954703,
+    "iso:country":"US",
+    "sg:address":"746 Kuahao Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 2222",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XRjQfqHHbQo2tPZ9T6QEK_21.392276_-157.954703@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204744,
+    "wof:geomhash":"da913525d88ad06ff57562a3b5145f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857632705
+        }
+    ],
+    "wof:id":857632705,
+    "wof:lastmodified":1464204744,
+    "wof:name":"MAACO Auto Painting & Bodywork",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.954703,
+    21.392276,
+    -157.954703,
+    21.392276
+],
+  "geometry": {"coordinates":[-157.95470299999999,21.392276],"type":"Point"}
+}

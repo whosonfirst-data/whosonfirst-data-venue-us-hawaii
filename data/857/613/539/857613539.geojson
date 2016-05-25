@@ -1,0 +1,71 @@
+{
+  "id": 857613539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028589,21.353499,-158.028589,21.353499",
+    "geom:latitude":21.353499,
+    "geom:longitude":-158.028589,
+    "iso:country":"US",
+    "sg:address":"1821 Fort Weaver Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 8210",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hlgi7yCkPaubl9g0ofhzL_21.353499_-158.028589@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204293,
+    "wof:geomhash":"240659fff9ec5f2ed7fcc5f557453714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857613539
+        }
+    ],
+    "wof:id":857613539,
+    "wof:lastmodified":1464204293,
+    "wof:name":"Social Services Div",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -158.028589,
+    21.353499,
+    -158.028589,
+    21.353499
+],
+  "geometry": {"coordinates":[-158.02858900000001,21.353499],"type":"Point"}
+}

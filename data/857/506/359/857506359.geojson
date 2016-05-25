@@ -1,0 +1,73 @@
+{
+  "id": 857506359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830567,21.283406,-157.830567,21.283406",
+    "geom:latitude":21.283406,
+    "geom:longitude":-157.830567,
+    "iso:country":"US",
+    "sg:address":"2092 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 5405",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qFwmwglKua9tibFptzRWf_21.283406_-157.830567@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202067,
+    "wof:geomhash":"722dafcea64220171016bbe7ee0fe022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857506359
+        }
+    ],
+    "wof:id":857506359,
+    "wof:lastmodified":1464202067,
+    "wof:name":"Keiki First Physical Therapy",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -157.830567,
+    21.283406,
+    -157.830567,
+    21.283406
+],
+  "geometry": {"coordinates":[-157.830567,21.283406],"type":"Point"}
+}

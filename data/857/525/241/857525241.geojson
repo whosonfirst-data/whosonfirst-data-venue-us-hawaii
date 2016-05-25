@@ -1,0 +1,77 @@
+{
+  "id": 857525241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848307,21.319327,-157.848307,21.319327",
+    "geom:latitude":21.319327,
+    "geom:longitude":-157.848307,
+    "iso:country":"US",
+    "sg:address":"2002 Pauoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 1919",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39CELf0I2Wlz9tqIXb7pOE_21.319327_-157.848307@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202455,
+    "wof:geomhash":"59e4808e6e72c62564d04be722403dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857525241
+        }
+    ],
+    "wof:id":857525241,
+    "wof:lastmodified":1464202455,
+    "wof:name":"Priam's Automotive Svc & Rpr",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.848307,
+    21.319327,
+    -157.848307,
+    21.319327
+],
+  "geometry": {"coordinates":[-157.84830700000001,21.319327],"type":"Point"}
+}

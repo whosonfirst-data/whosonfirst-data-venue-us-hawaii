@@ -1,0 +1,74 @@
+{
+  "id": 857663399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830917,21.285453,-157.830917,21.285453",
+    "geom:latitude":21.285453,
+    "geom:longitude":-157.830917,
+    "iso:country":"US",
+    "sg:address":"424 Kuamoo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 3525",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baptist",
+        "church"
+    ],
+    "sg:website":"www.waikikibaptistchurch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Veb7ul9jma7jXIlXwDBSU_21.285453_-157.830917@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206064,
+    "wof:geomhash":"211d9ae9e7849b5f34586e409e96a5fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857663399
+        }
+    ],
+    "wof:id":857663399,
+    "wof:lastmodified":1464206064,
+    "wof:name":"Waikiki Baptist Church",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -157.830917,
+    21.285453,
+    -157.830917,
+    21.285453
+],
+  "geometry": {"coordinates":[-157.830917,21.285453],"type":"Point"}
+}

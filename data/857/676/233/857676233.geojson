@@ -1,0 +1,77 @@
+{
+  "id": 857676233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.341295,20.843535,-156.341295,20.843535",
+    "geom:latitude":20.843535,
+    "geom:longitude":-156.341295,
+    "iso:country":"US",
+    "sg:address":"893 Makani Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 4866",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8sEFHOX7LgR2Tv8QlewI_20.843535_-156.341295@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206585,
+    "wof:geomhash":"86b476b41df8c6cf7457848b99c706f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857676233
+        }
+    ],
+    "wof:id":857676233,
+    "wof:lastmodified":1464206585,
+    "wof:name":"Steve's Auto Quick Fix Inc",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -156.341295,
+    20.843535,
+    -156.341295,
+    20.843535
+],
+  "geometry": {"coordinates":[-156.341295,20.843535],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857663101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825691,21.2815,-157.825691,21.2815",
+    "geom:latitude":21.2815,
+    "geom:longitude":-157.825691,
+    "iso:country":"US",
+    "sg:address":"445 Seaside Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 7110",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y4xbNlVkyyEeY53nh4c6W_21.281500_-157.825691@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206053,
+    "wof:geomhash":"c2dc59bd1e5b20e96d2a4d9795731cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857663101
+        }
+    ],
+    "wof:id":857663101,
+    "wof:lastmodified":1464206053,
+    "wof:name":"Stahl Group",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -157.825691,
+    21.2815,
+    -157.825691,
+    21.2815
+],
+  "geometry": {"coordinates":[-157.82569100000001,21.2815],"type":"Point"}
+}

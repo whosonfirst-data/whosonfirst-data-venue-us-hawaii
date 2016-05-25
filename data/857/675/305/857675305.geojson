@@ -1,0 +1,73 @@
+{
+  "id": 857675305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.469762,20.88911,-156.469762,20.88911",
+    "geom:latitude":20.88911,
+    "geom:longitude":-156.469762,
+    "iso:country":"US",
+    "sg:address":"48 Lono Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 7772",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wI6xuNyd5pa5xLhYUE6qw_20.889110_-156.469762@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206536,
+    "wof:geomhash":"58b6e6a326331489a9e2a964bfd6dc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857675305
+        }
+    ],
+    "wof:id":857675305,
+    "wof:lastmodified":1464206536,
+    "wof:name":"Community Clinic Of Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -156.469762,
+    20.88911,
+    -156.469762,
+    20.88911
+],
+  "geometry": {"coordinates":[-156.469762,20.88911],"type":"Point"}
+}

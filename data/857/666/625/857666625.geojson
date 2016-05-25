@@ -1,0 +1,76 @@
+{
+  "id": 857666625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842403,21.29767,-157.842403,21.29767",
+    "geom:latitude":21.29767,
+    "geom:longitude":-157.842403,
+    "iso:country":"US",
+    "sg:address":"817 Cedar St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 1580",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "sg:website":"www.cedarstreetgalleries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09YESJzjR29Q9IA72vqdRt_21.297670_-157.842403@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206211,
+    "wof:geomhash":"fae3eb6fb51e933aa467be07e9cf5216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857666625
+        }
+    ],
+    "wof:id":857666625,
+    "wof:lastmodified":1464206211,
+    "wof:name":"Cedar Street Galleries",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.842403,
+    21.29767,
+    -157.842403,
+    21.29767
+],
+  "geometry": {"coordinates":[-157.84240299999999,21.29767],"type":"Point"}
+}

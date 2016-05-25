@@ -1,0 +1,71 @@
+{
+  "id": 857539429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.734722,21.361656,-157.734722,21.361656",
+    "geom:latitude":21.361656,
+    "geom:longitude":-157.734722,
+    "iso:country":"US",
+    "sg:address":"3135 Kahako Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 0388",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LfmOXNB9EZf6jAhUEpTfh_21.361656_-157.734722@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202727,
+    "wof:geomhash":"b5a8b177a25ffd5ec061c0d9d23c9d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857539429
+        }
+    ],
+    "wof:id":857539429,
+    "wof:lastmodified":1464202727,
+    "wof:name":"Oahu Equine Veterinary Clinic",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -157.734722,
+    21.361656,
+    -157.734722,
+    21.361656
+],
+  "geometry": {"coordinates":[-157.734722,21.361656],"type":"Point"}
+}

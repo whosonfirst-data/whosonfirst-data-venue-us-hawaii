@@ -1,0 +1,74 @@
+{
+  "id": 857681035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.968508,21.393331,-157.968508,21.393331",
+    "geom:latitude":21.393331,
+    "geom:longitude":-157.968508,
+    "iso:country":"US",
+    "sg:address":"850 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/64228-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 1448",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0001z2rU0RXlngyUKZeKUz_21.393331_-157.968508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206766,
+    "wof:geomhash":"0e7a7c4a1e7228844ff888a22dbe95a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857681035
+        }
+    ],
+    "wof:id":857681035,
+    "wof:lastmodified":1464206766,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.968508,
+    21.393331,
+    -157.968508,
+    21.393331
+],
+  "geometry": {"coordinates":[-157.96850800000001,21.393331],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857556685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843742,21.289731,-157.843742,21.289731",
+    "geom:latitude":21.289731,
+    "geom:longitude":-157.843742,
+    "iso:country":"US",
+    "sg:address":"1350 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8787",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P4u7YEBUqRrqtPe01yWhN_21.289731_-157.843742@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203066,
+    "wof:geomhash":"efd5523716b576b166f6f71f0342005e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857556685
+        }
+    ],
+    "wof:id":857556685,
+    "wof:lastmodified":1464203066,
+    "wof:name":"Good Food Mania Corp",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.843742,
+    21.289731,
+    -157.843742,
+    21.289731
+],
+  "geometry": {"coordinates":[-157.84374199999999,21.289731],"type":"Point"}
+}

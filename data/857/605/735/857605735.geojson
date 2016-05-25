@@ -1,0 +1,75 @@
+{
+  "id": 857605735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816326,21.289181,-157.816326,21.289181",
+    "geom:latitude":21.289181,
+    "geom:longitude":-157.816326,
+    "iso:country":"US",
+    "sg:address":"2885 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 5998",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tu9JDVcZwMGRAuIGzN1OD_21.289181_-157.816326@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204111,
+    "wof:geomhash":"a65882761c252a619252525da4dc49f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857605735
+        }
+    ],
+    "wof:id":857605735,
+    "wof:lastmodified":1464204111,
+    "wof:name":"One Stop Grooming Shop",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -157.816326,
+    21.289181,
+    -157.816326,
+    21.289181
+],
+  "geometry": {"coordinates":[-157.816326,21.289181],"type":"Point"}
+}

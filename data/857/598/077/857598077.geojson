@@ -1,0 +1,73 @@
+{
+  "id": 857598077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880933,21.32983,-157.880933,21.32983",
+    "geom:latitude":21.32983,
+    "geom:longitude":-157.880933,
+    "iso:country":"US",
+    "sg:address":"2011 Kaumualii St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3003",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LGp3Pyd88GKs3cFbupbGg_21.329830_-157.880933@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203943,
+    "wof:geomhash":"afefc7fd2037df79c378f955a7903df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857598077
+        }
+    ],
+    "wof:id":857598077,
+    "wof:lastmodified":1464203943,
+    "wof:name":"Dona Carmen",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -157.880933,
+    21.32983,
+    -157.880933,
+    21.32983
+],
+  "geometry": {"coordinates":[-157.880933,21.32983],"type":"Point"}
+}

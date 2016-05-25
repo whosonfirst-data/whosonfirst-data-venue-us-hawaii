@@ -1,0 +1,71 @@
+{
+  "id": 857671421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.49886,20.889114,-156.49886,20.889114",
+    "geom:latitude":20.889114,
+    "geom:longitude":-156.49886,
+    "iso:country":"US",
+    "sg:address":"223 Halenani Dr",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 6788",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bLu24JYilhZeaX90L014I_20.889114_-156.498860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206389,
+    "wof:geomhash":"7872e0c9fab3ddc0d8322c2200987454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857671421
+        }
+    ],
+    "wof:id":857671421,
+    "wof:lastmodified":1464206389,
+    "wof:name":"James Aganos Appraiser LLC",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -156.49886,
+    20.889114,
+    -156.49886,
+    20.889114
+],
+  "geometry": {"coordinates":[-156.49886000000001,20.889114],"type":"Point"}
+}

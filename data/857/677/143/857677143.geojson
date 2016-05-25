@@ -1,0 +1,71 @@
+{
+  "id": 857677143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.791516,21.259266,-157.791516,21.259266",
+    "geom:latitude":21.259266,
+    "geom:longitude":-157.791516,
+    "iso:country":"US",
+    "sg:address":"111 Royal Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 7772",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06IPwolPYB1fU8VS7TYGTC_21.259266_-157.791516@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206619,
+    "wof:geomhash":"dd551c58b2f192b12133ff2610b971ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857677143
+        }
+    ],
+    "wof:id":857677143,
+    "wof:lastmodified":1464206619,
+    "wof:name":"Olioli Park",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.791516,
+    21.259266,
+    -157.791516,
+    21.259266
+],
+  "geometry": {"coordinates":[-157.791516,21.259266],"type":"Point"}
+}

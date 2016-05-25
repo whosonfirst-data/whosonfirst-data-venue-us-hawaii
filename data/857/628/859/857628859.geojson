@@ -1,0 +1,71 @@
+{
+  "id": 857628859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827472,21.295763,-157.827472,21.295763",
+    "geom:latitude":21.295763,
+    "geom:longitude":-157.827472,
+    "iso:country":"US",
+    "sg:address":"1111 Kemole Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 957 0257",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C5KawgpiZCquXgxdXsqrN_21.295763_-157.827472@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204640,
+    "wof:geomhash":"364e22e8fd26750c50adb6353f762046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857628859
+        }
+    ],
+    "wof:id":857628859,
+    "wof:lastmodified":1464204640,
+    "wof:name":"True Jesus Church",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.827472,
+    21.295763,
+    -157.827472,
+    21.295763
+],
+  "geometry": {"coordinates":[-157.827472,21.295763],"type":"Point"}
+}

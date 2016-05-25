@@ -1,0 +1,71 @@
+{
+  "id": 857664427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.010146,21.436697,-158.010146,21.436697",
+    "geom:latitude":21.436697,
+    "geom:longitude":-158.010146,
+    "iso:country":"US",
+    "sg:address":"1079 Akaku St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 1080",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19CcUOp37jPZwovxMZ6HTn_21.436697_-158.010146@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206099,
+    "wof:geomhash":"067281ae9e12c8bfb075b57c662c028a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857664427
+        }
+    ],
+    "wof:id":857664427,
+    "wof:lastmodified":1464206099,
+    "wof:name":"Regent Plumbing Inc",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.010146,
+    21.436697,
+    -158.010146,
+    21.436697
+],
+  "geometry": {"coordinates":[-158.01014599999999,21.436697],"type":"Point"}
+}

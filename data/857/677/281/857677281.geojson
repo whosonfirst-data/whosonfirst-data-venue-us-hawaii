@@ -1,0 +1,77 @@
+{
+  "id": 857677281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.084659,21.619626,-158.084659,21.619626",
+    "geom:latitude":21.619626,
+    "geom:longitude":-158.084659,
+    "iso:country":"US",
+    "sg:address":"567 Pohaku Loa Way",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 322 9133",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85827833,
+        102085417,
+        85890119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Scy6zkod4J7MiY9cXjCGW_21.619626_-158.084659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206624,
+    "wof:geomhash":"fd3b6d4aa54e625178fda77e74937cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85827833,
+            "region_id":85688671,
+            "venue_id":857677281
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890119,
+            "region_id":85688671,
+            "venue_id":857677281
+        }
+    ],
+    "wof:id":857677281,
+    "wof:lastmodified":1464206624,
+    "wof:name":"Alii Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -158.084659,
+    21.619626,
+    -158.084659,
+    21.619626
+],
+  "geometry": {"coordinates":[-158.08465899999999,21.619626],"type":"Point"}
+}

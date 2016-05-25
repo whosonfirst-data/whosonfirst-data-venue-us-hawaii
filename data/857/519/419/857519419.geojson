@@ -1,0 +1,71 @@
+{
+  "id": 857519419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822154,21.287541,-157.822154,21.287541",
+    "geom:latitude":21.287541,
+    "geom:longitude":-157.822154,
+    "iso:country":"US",
+    "sg:address":"2511 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 1879",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oqMhuYn3un5wvidyqWdkW_21.287541_-157.822154@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202339,
+    "wof:geomhash":"021d6f6993e132a81eaaf64cfd599a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857519419
+        }
+    ],
+    "wof:id":857519419,
+    "wof:lastmodified":1464202339,
+    "wof:name":"Island Express Transport",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -157.822154,
+    21.287541,
+    -157.822154,
+    21.287541
+],
+  "geometry": {"coordinates":[-157.82215400000001,21.287541],"type":"Point"}
+}

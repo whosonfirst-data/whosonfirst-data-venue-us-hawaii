@@ -1,0 +1,71 @@
+{
+  "id": 857658007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.944613,21.411181,-157.944613,21.411181",
+    "geom:latitude":21.411181,
+    "geom:longitude":-157.944613,
+    "iso:country":"US",
+    "sg:address":"1970 Kaahumanu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 7777",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eXPGP0H0n4GrUvASPzHtJ_21.411181_-157.944613@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205816,
+    "wof:geomhash":"47133c4ce091dc60aa41f2a7b1e7e9b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890705,
+            "region_id":85688671,
+            "venue_id":857658007
+        }
+    ],
+    "wof:id":857658007,
+    "wof:lastmodified":1464205816,
+    "wof:name":"Aloha State Builders",
+    "wof:parent_id":85890705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.944613,
+    21.411181,
+    -157.944613,
+    21.411181
+],
+  "geometry": {"coordinates":[-157.944613,21.411181],"type":"Point"}
+}

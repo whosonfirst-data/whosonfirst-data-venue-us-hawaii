@@ -1,0 +1,71 @@
+{
+  "id": 857563171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797371,21.313575,-157.797371,21.313575",
+    "geom:latitude":21.313575,
+    "geom:longitude":-157.797371,
+    "iso:country":"US",
+    "sg:address":"3349 Anoai Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 4024",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OLdrUxu0L6CkY6pbGzlLY_21.313575_-157.797371@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203223,
+    "wof:geomhash":"f8c9b7bfaedc1d4b0469e7dc0e30cf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857563171
+        }
+    ],
+    "wof:id":857563171,
+    "wof:lastmodified":1464203223,
+    "wof:name":"Nutrition Consultants Inc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -157.797371,
+    21.313575,
+    -157.797371,
+    21.313575
+],
+  "geometry": {"coordinates":[-157.797371,21.313575],"type":"Point"}
+}

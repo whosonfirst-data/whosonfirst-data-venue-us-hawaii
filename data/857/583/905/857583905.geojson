@@ -1,0 +1,73 @@
+{
+  "id": 857583905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863414,21.309922,-157.863414,21.309922",
+    "geom:latitude":21.309922,
+    "geom:longitude":-157.863414,
+    "iso:country":"US",
+    "sg:address":"16 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 540 0218",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qTCEPE1fjF1pSX0LZCJMm_21.309922_-157.863414@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203624,
+    "wof:geomhash":"19d9811615cd9b9a575bae52ce8ec418",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857583905
+        }
+    ],
+    "wof:id":857583905,
+    "wof:lastmodified":1464203624,
+    "wof:name":"Fantastique Dry Cleaners Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -157.863414,
+    21.309922,
+    -157.863414,
+    21.309922
+],
+  "geometry": {"coordinates":[-157.86341400000001,21.309922],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857647757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.953396,21.407517,-157.953396,21.407517",
+    "geom:latitude":21.407517,
+    "geom:longitude":-157.953396,
+    "iso:country":"US",
+    "sg:address":"1899 Hoolehua St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 5719",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UYNoSCfSk3Ojm4y7cS5rN_21.407517_-157.953396@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205368,
+    "wof:geomhash":"f5008ecefdd92d82789251f1167c840a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857647757
+        }
+    ],
+    "wof:id":857647757,
+    "wof:lastmodified":1464205368,
+    "wof:name":"J C Lawn Equipment Sales & Svc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.953396,
+    21.407517,
+    -157.953396,
+    21.407517
+],
+  "geometry": {"coordinates":[-157.953396,21.407517],"type":"Point"}
+}

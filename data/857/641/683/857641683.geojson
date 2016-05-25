@@ -1,0 +1,66 @@
+{
+  "id": 857641683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.465745,20.078281,-155.465745,20.078281",
+    "geom:latitude":20.078281,
+    "geom:longitude":-155.465745,
+    "iso:country":"US",
+    "sg:address":"3580 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7236",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17RRPNgDRvqYizOURJ4oUQ_20.078281_-155.465745@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205087,
+    "wof:geomhash":"40027992c5d2f6d888ba369f1d9d9d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857641683
+        }
+    ],
+    "wof:id":857641683,
+    "wof:lastmodified":1464205087,
+    "wof:name":"Mamane Bar & Grill",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.465745,
+    20.078281,
+    -155.465745,
+    20.078281
+],
+  "geometry": {"coordinates":[-155.465745,20.078281],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857671655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874627,21.323033,-157.874627,21.323033",
+    "geom:latitude":21.323033,
+    "geom:longitude":-157.874627,
+    "iso:country":"US",
+    "sg:address":"1190 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 1828",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bookstore",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L1GXOOYVc7f6ZLFgZ5Gx7_21.323033_-157.874627@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206397,
+    "wof:geomhash":"121a38ff4b726f241119d0806d65ad2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857671655
+        }
+    ],
+    "wof:id":857671655,
+    "wof:lastmodified":1464206397,
+    "wof:name":"Child Evangelism Bookstore",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "church"
+    ]
+},
+  "bbox": [
+    -157.874627,
+    21.323033,
+    -157.874627,
+    21.323033
+],
+  "geometry": {"coordinates":[-157.874627,21.323033],"type":"Point"}
+}

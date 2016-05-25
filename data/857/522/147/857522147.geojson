@@ -1,0 +1,73 @@
+{
+  "id": 857522147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901038,21.604858,-157.901038,21.604858",
+    "geom:latitude":21.604858,
+    "geom:longitude":-157.901038,
+    "iso:country":"US",
+    "sg:address":"946 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 0065",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IMnLMpQuNgtijE9TpBEdJ_21.604858_-157.901038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202393,
+    "wof:geomhash":"fa6b2bb0da3b7ac715a1ce584345514f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890189,
+            "region_id":85688671,
+            "venue_id":857522147
+        }
+    ],
+    "wof:id":857522147,
+    "wof:lastmodified":1464202393,
+    "wof:name":"Hawaii Center For Children",
+    "wof:parent_id":85890189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.901038,
+    21.604858,
+    -157.901038,
+    21.604858
+],
+  "geometry": {"coordinates":[-157.901038,21.604858],"type":"Point"}
+}

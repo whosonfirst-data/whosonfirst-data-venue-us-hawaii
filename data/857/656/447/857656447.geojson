@@ -1,0 +1,75 @@
+{
+  "id": 857656447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.342229,20.842272,-156.342229,20.842272",
+    "geom:latitude":20.842272,
+    "geom:longitude":-156.342229,
+    "iso:country":"US",
+    "sg:address":"64 Kumano Dr",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 6000",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "range",
+        "oven"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Us0R2ARLU6cJOE392yV58_20.842272_-156.342229@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205743,
+    "wof:geomhash":"400c4710b20e806de4587673a1649622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857656447
+        }
+    ],
+    "wof:id":857656447,
+    "wof:lastmodified":1464205743,
+    "wof:name":"Trade Winds Appliance",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "oven"
+    ]
+},
+  "bbox": [
+    -156.342229,
+    20.842272,
+    -156.342229,
+    20.842272
+],
+  "geometry": {"coordinates":[-156.342229,20.842272],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857617221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863264,21.3127,-157.863264,21.3127",
+    "geom:latitude":21.3127,
+    "geom:longitude":-157.863264,
+    "iso:country":"US",
+    "sg:address":"115 N Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 5355",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D6SnUuMGMSuUC6HzufwbS_21.312700_-157.863264@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204362,
+    "wof:geomhash":"ee008c2633d8e6795ea2880877821c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857617221
+        }
+    ],
+    "wof:id":857617221,
+    "wof:lastmodified":1464204362,
+    "wof:name":"New Wofat Bbq",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.863264,
+    21.3127,
+    -157.863264,
+    21.3127
+],
+  "geometry": {"coordinates":[-157.86326399999999,21.3127],"type":"Point"}
+}

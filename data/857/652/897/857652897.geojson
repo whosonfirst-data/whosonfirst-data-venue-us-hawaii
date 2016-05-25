@@ -1,0 +1,73 @@
+{
+  "id": 857652897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855522,21.32619,-157.855522,21.32619",
+    "geom:latitude":21.32619,
+    "geom:longitude":-157.855522,
+    "iso:country":"US",
+    "sg:address":"528 Ihe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5799",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jKjnSwNq8H7cAaLWu92E5_21.326190_-157.855522@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205582,
+    "wof:geomhash":"79efbb54f7822a5a2a657779dfccc782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857652897
+        }
+    ],
+    "wof:id":857652897,
+    "wof:lastmodified":1464205582,
+    "wof:name":"Drain Masters",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.855522,
+    21.32619,
+    -157.855522,
+    21.32619
+],
+  "geometry": {"coordinates":[-157.85552200000001,21.32619],"type":"Point"}
+}

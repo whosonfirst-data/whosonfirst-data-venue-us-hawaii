@@ -1,0 +1,71 @@
+{
+  "id": 857661977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318652,22.075756,-159.318652,22.075756",
+    "geom:latitude":22.075756,
+    "geom:longitude":-159.318652,
+    "iso:country":"US",
+    "sg:address":"1351 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 1432",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f55zuqSueee2U7fvv0oq9_22.075756_-159.318652@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206011,
+    "wof:geomhash":"191ceaee0ed2b9d4f2ead8f2817e1706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857661977
+        }
+    ],
+    "wof:id":857661977,
+    "wof:lastmodified":1464206011,
+    "wof:name":"Beach Books",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -159.318652,
+    22.075756,
+    -159.318652,
+    22.075756
+],
+  "geometry": {"coordinates":[-159.31865199999999,22.075756],"type":"Point"}
+}

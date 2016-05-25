@@ -1,0 +1,71 @@
+{
+  "id": 857677721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913538,21.613869,-157.913538,21.613869",
+    "geom:latitude":21.613869,
+    "geom:longitude":-157.913538,
+    "iso:country":"US",
+    "sg:address":"29 Waikulama St",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 8754",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2exWNfn1s27FKJ8CnecieI_21.613869_-157.913538@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206642,
+    "wof:geomhash":"658448bfed706567814eb0e10d2e4db2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857677721
+        }
+    ],
+    "wof:id":857677721,
+    "wof:lastmodified":1464206642,
+    "wof:name":"Hauula Seventh-Day Adventist",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.913538,
+    21.613869,
+    -157.913538,
+    21.613869
+],
+  "geometry": {"coordinates":[-157.91353799999999,21.613869],"type":"Point"}
+}

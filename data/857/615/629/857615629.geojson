@@ -1,0 +1,66 @@
+{
+  "id": 857615629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.77619,21.271578,-157.77619,21.271578",
+    "geom:latitude":21.271578,
+    "geom:longitude":-157.77619,
+    "iso:country":"US",
+    "sg:address":"4999 Kahala Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 5454",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JlRsPaAC4nH3TG93OT6uP_21.271578_-157.776190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204333,
+    "wof:geomhash":"e3cd4a1c7c9f2ecdb988896b3698feba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857615629
+        }
+    ],
+    "wof:id":857615629,
+    "wof:lastmodified":1464204333,
+    "wof:name":"Chris Kouri and Associates Inc",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.77619,
+    21.271578,
+    -157.77619,
+    21.271578
+],
+  "geometry": {"coordinates":[-157.77619000000001,21.271578],"type":"Point"}
+}

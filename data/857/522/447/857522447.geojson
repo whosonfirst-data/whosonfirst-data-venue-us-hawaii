@@ -1,0 +1,73 @@
+{
+  "id": 857522447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83812,21.284812,-157.83812,21.284812",
+    "geom:latitude":21.284812,
+    "geom:longitude":-157.83812,
+    "iso:country":"US",
+    "sg:address":"1777 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6112",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g7R4LbfO6yqpt17fdjCr0_21.284812_-157.838120@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202398,
+    "wof:geomhash":"0deaf29844f4d45766db8140451eb858",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857522447
+        }
+    ],
+    "wof:id":857522447,
+    "wof:lastmodified":1464202398,
+    "wof:name":"Ala Moana Rental Car",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.83812,
+    21.284812,
+    -157.83812,
+    21.284812
+],
+  "geometry": {"coordinates":[-157.83812,21.284812],"type":"Point"}
+}

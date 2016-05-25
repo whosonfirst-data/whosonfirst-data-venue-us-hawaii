@@ -1,0 +1,73 @@
+{
+  "id": 857678927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876142,21.304048,-157.876142,21.304048",
+    "geom:latitude":21.304048,
+    "geom:longitude":-157.876142,
+    "iso:country":"US",
+    "sg:address":"1176 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5422",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jk1RVqfTIYgs5sd2QaXV3_21.304048_-157.876142@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206687,
+    "wof:geomhash":"7f7eed15169bf1291b4951e0e981ca8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857678927
+        }
+    ],
+    "wof:id":857678927,
+    "wof:lastmodified":1464206687,
+    "wof:name":"A-1 Construction Corporation",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.876142,
+    21.304048,
+    -157.876142,
+    21.304048
+],
+  "geometry": {"coordinates":[-157.87614199999999,21.304048],"type":"Point"}
+}

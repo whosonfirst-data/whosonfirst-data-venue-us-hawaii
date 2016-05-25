@@ -1,0 +1,71 @@
+{
+  "id": 857605201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850511,21.310086,-157.850511,21.310086",
+    "geom:latitude":21.310086,
+    "geom:longitude":-157.850511,
+    "iso:country":"US",
+    "sg:address":"402 Iolani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 2152",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZLOxDRzpkNHYis9KAAxgX_21.310086_-157.850511@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204100,
+    "wof:geomhash":"8d533f0645dc566256f0e05b551db2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857605201
+        }
+    ],
+    "wof:id":857605201,
+    "wof:lastmodified":1464204100,
+    "wof:name":"Christian Full Gospel Flshp",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.850511,
+    21.310086,
+    -157.850511,
+    21.310086
+],
+  "geometry": {"coordinates":[-157.85051100000001,21.310086],"type":"Point"}
+}

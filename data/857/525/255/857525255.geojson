@@ -1,0 +1,72 @@
+{
+  "id": 857525255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823242,21.277977,-157.823242,21.277977",
+    "geom:latitude":21.277977,
+    "geom:longitude":-157.823242,
+    "iso:country":"US",
+    "sg:address":"241 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 6656",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.waikikileiapartments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mq8cs9JLzRm1N865tLsV_21.277977_-157.823242@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202455,
+    "wof:geomhash":"36bdcdaf0a191b30a09b7007d55b761b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857525255
+        }
+    ],
+    "wof:id":857525255,
+    "wof:lastmodified":1464202455,
+    "wof:name":"Waikiki Lei Apartments",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.823242,
+    21.277977,
+    -157.823242,
+    21.277977
+],
+  "geometry": {"coordinates":[-157.82324199999999,21.277977],"type":"Point"}
+}

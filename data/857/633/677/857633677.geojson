@@ -1,0 +1,73 @@
+{
+  "id": 857633677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.728611,21.374904,-157.728611,21.374904",
+    "geom:latitude":21.374904,
+    "geom:longitude":-157.728611,
+    "iso:country":"US",
+    "sg:address":"1149 Manulani St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 0579",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wrXY5GHZnX6re9GDUpcQs_21.374904_-157.728611@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204780,
+    "wof:geomhash":"7285bf045f7e43cc28903c82dfed351d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857633677
+        }
+    ],
+    "wof:id":857633677,
+    "wof:lastmodified":1464204780,
+    "wof:name":"Ves Inc",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.728611,
+    21.374904,
+    -157.728611,
+    21.374904
+],
+  "geometry": {"coordinates":[-157.728611,21.374904],"type":"Point"}
+}

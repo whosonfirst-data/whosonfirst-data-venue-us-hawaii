@@ -1,0 +1,71 @@
+{
+  "id": 857678097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825537,21.285728,-157.825537,21.285728",
+    "geom:latitude":21.285728,
+    "geom:longitude":-157.825537,
+    "iso:country":"US",
+    "sg:address":"520 Kamoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 0272",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zwk2KmkXNANrwc6pAv9Gw_21.285728_-157.825537@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206658,
+    "wof:geomhash":"f3e9ec527766fdc53cfb4903609a249c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857678097
+        }
+    ],
+    "wof:id":857678097,
+    "wof:lastmodified":1464206658,
+    "wof:name":"100th Infantry Battalion Vets",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -157.825537,
+    21.285728,
+    -157.825537,
+    21.285728
+],
+  "geometry": {"coordinates":[-157.825537,21.285728],"type":"Point"}
+}

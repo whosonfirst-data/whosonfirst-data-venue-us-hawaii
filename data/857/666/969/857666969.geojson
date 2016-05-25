@@ -1,0 +1,68 @@
+{
+  "id": 857666969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.348567,20.841899,-156.348567,20.841899",
+    "geom:latitude":20.841899,
+    "geom:longitude":-156.348567,
+    "iso:country":"US",
+    "sg:address":"2945 Iolani St",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 8760",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RkqOFlwxa2qGKIGADCtId_20.841899_-156.348567@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206223,
+    "wof:geomhash":"75b510b24a4d0cff530512942e6a2e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857666969
+        }
+    ],
+    "wof:id":857666969,
+    "wof:lastmodified":1464206223,
+    "wof:name":"Pukalani Elementary School",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.348567,
+    20.841899,
+    -156.348567,
+    20.841899
+],
+  "geometry": {"coordinates":[-156.348567,20.841899],"type":"Point"}
+}

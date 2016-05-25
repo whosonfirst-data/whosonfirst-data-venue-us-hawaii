@@ -1,0 +1,71 @@
+{
+  "id": 857567725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.460761,20.883582,-156.460761,20.883582",
+    "geom:latitude":20.883582,
+    "geom:longitude":-156.460761,
+    "iso:country":"US",
+    "sg:address":"320 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3966",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WpYHWt2xfkciD4iHHSq7W_20.883582_-156.460761@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203311,
+    "wof:geomhash":"6cc3265f8636efdbd0c29c7be13b8bd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857567725
+        }
+    ],
+    "wof:id":857567725,
+    "wof:lastmodified":1464203311,
+    "wof:name":"B B Delivery Svc Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -156.460761,
+    20.883582,
+    -156.460761,
+    20.883582
+],
+  "geometry": {"coordinates":[-156.46076099999999,20.883582],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857662841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.819857,21.290609,-157.819857,21.290609",
+    "geom:latitude":21.290609,
+    "geom:longitude":-157.819857,
+    "iso:country":"US",
+    "sg:address":"2671 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 0099",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NlsQAVwNR4Fkbt4nDvQfF_21.290609_-157.819857@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206041,
+    "wof:geomhash":"253dffd231e69548c36689d0240f30bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857662841
+        }
+    ],
+    "wof:id":857662841,
+    "wof:lastmodified":1464206041,
+    "wof:name":"H2O Store",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.819857,
+    21.290609,
+    -157.819857,
+    21.290609
+],
+  "geometry": {"coordinates":[-157.81985700000001,21.290609],"type":"Point"}
+}

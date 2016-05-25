@@ -1,0 +1,88 @@
+{
+  "id": 857634791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907868,21.334235,-157.907868,21.334235",
+    "geom:latitude":21.334235,
+    "geom:longitude":-157.907868,
+    "iso:country":"US",
+    "sg:address":"534 Ohohia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 2422",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system",
+        "machine",
+        "equipment",
+        "automated",
+        "electronic",
+        "teller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nrWQPkT4ST9Ps4fZEMgYH_21.334235_-157.907868@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204825,
+    "wof:geomhash":"d5a2e0acebd18f84aca67443baa66d20",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857634791
+        }
+    ],
+    "wof:id":857634791,
+    "wof:lastmodified":1464204825,
+    "wof:name":"Electronic Resources Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "machine",
+        "equipment",
+        "automated",
+        "electronic",
+        "teller"
+    ]
+},
+  "bbox": [
+    -157.907868,
+    21.334235,
+    -157.907868,
+    21.334235
+],
+  "geometry": {"coordinates":[-157.90786800000001,21.334235],"type":"Point"}
+}

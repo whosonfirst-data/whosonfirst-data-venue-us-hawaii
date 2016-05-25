@@ -1,0 +1,73 @@
+{
+  "id": 857513963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.362139,21.970412,-159.362139,21.970412",
+    "geom:latitude":21.970412,
+    "geom:longitude":-159.362139,
+    "iso:country":"US",
+    "sg:address":"4180 Rice St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7775",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C28tJ5xbg8ZbK0HhtDF0o_21.970412_-159.362139@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202229,
+    "wof:geomhash":"9f65e8e465a8e135e23da602a9457390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857513963
+        }
+    ],
+    "wof:id":857513963,
+    "wof:lastmodified":1464202229,
+    "wof:name":"Clinical Laboratories Hawaii",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -159.362139,
+    21.970412,
+    -159.362139,
+    21.970412
+],
+  "geometry": {"coordinates":[-159.36213900000001,21.970412],"type":"Point"}
+}

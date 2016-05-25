@@ -1,0 +1,71 @@
+{
+  "id": 857633609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.46621,20.078306,-155.46621,20.078306",
+    "geom:latitude":20.078306,
+    "geom:longitude":-155.46621,
+    "iso:country":"US",
+    "sg:address":"3565 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 1511",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QzemA1Y8g2mJYbPGHdE9a_20.078306_-155.466210@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204778,
+    "wof:geomhash":"ee9d9cdbbecb9259804178fea4daa43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857633609
+        }
+    ],
+    "wof:id":857633609,
+    "wof:lastmodified":1464204778,
+    "wof:name":"Zelina's Barbering",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -155.46621,
+    20.078306,
+    -155.46621,
+    20.078306
+],
+  "geometry": {"coordinates":[-155.46620999999999,20.078306],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857633875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810271,21.28389,-157.810271,21.28389",
+    "geom:latitude":21.28389,
+    "geom:longitude":-157.810271,
+    "iso:country":"US",
+    "sg:address":"900 4th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6211",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y25zTzdWQ84BFSF0L1xWV_21.283890_-157.810271@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204793,
+    "wof:geomhash":"6375acdd86613fddc44b5d9c59588a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857633875
+        }
+    ],
+    "wof:id":857633875,
+    "wof:lastmodified":1464204793,
+    "wof:name":"Hawaii Auto Dealers",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.810271,
+    21.28389,
+    -157.810271,
+    21.28389
+],
+  "geometry": {"coordinates":[-157.810271,21.28389],"type":"Point"}
+}

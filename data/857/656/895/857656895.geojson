@@ -1,0 +1,73 @@
+{
+  "id": 857656895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838779,21.332003,-157.838779,21.332003",
+    "geom:latitude":21.332003,
+    "geom:longitude":-157.838779,
+    "iso:country":"US",
+    "sg:address":"119 Laimi Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 6651",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kSWbLCiqydxOSNvLEme9V_21.332003_-157.838779@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205762,
+    "wof:geomhash":"bd245d92ff7fd4c07ae8de451b611db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857656895
+        }
+    ],
+    "wof:id":857656895,
+    "wof:lastmodified":1464205762,
+    "wof:name":"Aloha Aina Eco Tours",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.838779,
+    21.332003,
+    -157.838779,
+    21.332003
+],
+  "geometry": {"coordinates":[-157.83877899999999,21.332003],"type":"Point"}
+}

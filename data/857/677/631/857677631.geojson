@@ -1,0 +1,67 @@
+{
+  "id": 857677631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889437,21.328581,-157.889437,21.328581",
+    "geom:latitude":21.328581,
+    "geom:longitude":-157.889437,
+    "iso:country":"US",
+    "sg:address":"2270 Hoonee Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0911",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:website":"www.hawaii-favorites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V1OhHslLRzduWGe5AdyfU_21.328581_-157.889437@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206638,
+    "wof:geomhash":"950cef82b7f62d726432aaca5cbf7b11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857677631
+        }
+    ],
+    "wof:id":857677631,
+    "wof:lastmodified":1464206638,
+    "wof:name":"Longs Drug",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.889437,
+    21.328581,
+    -157.889437,
+    21.328581
+],
+  "geometry": {"coordinates":[-157.88943699999999,21.328581],"type":"Point"}
+}

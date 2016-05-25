@@ -1,0 +1,71 @@
+{
+  "id": 857539711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.471749,20.075613,-155.471749,20.075613",
+    "geom:latitude":20.075613,
+    "geom:longitude":-155.471749,
+    "iso:country":"US",
+    "sg:address":"549 Plumeria St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7204",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IpcVYdIihZJ42LyiHutr5_20.075613_-155.471749@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202732,
+    "wof:geomhash":"d7a2ee6d2fc9de81e6d2c1075fd82063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857539711
+        }
+    ],
+    "wof:id":857539711,
+    "wof:lastmodified":1464202732,
+    "wof:name":"Hamakua Health Center Inc",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -155.471749,
+    20.075613,
+    -155.471749,
+    20.075613
+],
+  "geometry": {"coordinates":[-155.47174899999999,20.075613],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857634335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.475111,20.080853,-155.475111,20.080853",
+    "geom:latitude":20.080853,
+    "geom:longitude":-155.475111,
+    "iso:country":"US",
+    "sg:address":"3880 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 8849",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R7VUYvWGKKPW2WjRtu7jA_20.080853_-155.475111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204809,
+    "wof:geomhash":"9976e8f3c6ab086673762f56959dd313",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857634335
+        }
+    ],
+    "wof:id":857634335,
+    "wof:lastmodified":1464204809,
+    "wof:name":"District Court Third Circuit",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -155.475111,
+    20.080853,
+    -155.475111,
+    20.080853
+],
+  "geometry": {"coordinates":[-155.475111,20.080853],"type":"Point"}
+}

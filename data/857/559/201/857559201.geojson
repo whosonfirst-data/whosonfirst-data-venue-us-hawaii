@@ -1,0 +1,71 @@
+{
+  "id": 857559201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855842,21.324906,-157.855842,21.324906",
+    "geom:latitude":21.324906,
+    "geom:longitude":-157.855842,
+    "iso:country":"US",
+    "sg:address":"1908 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 1630",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yscjX1n7rtu3EMh8Jsthe_21.324906_-157.855842@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203133,
+    "wof:geomhash":"ca381b940be5cc599cf3b0ab6ac29ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857559201
+        }
+    ],
+    "wof:id":857559201,
+    "wof:lastmodified":1464203133,
+    "wof:name":"Kotoubuki Coffee Shop",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.855842,
+    21.324906,
+    -157.855842,
+    21.324906
+],
+  "geometry": {"coordinates":[-157.855842,21.324906],"type":"Point"}
+}

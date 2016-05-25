@@ -1,0 +1,72 @@
+{
+  "id": 857526085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889455,21.328324,-157.889455,21.328324",
+    "geom:latitude":21.328324,
+    "geom:longitude":-157.889455,
+    "iso:country":"US",
+    "sg:address":"2285 Hoonee Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2602",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.hawaii.rr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dzX9G4WW9EqyehFm5jKxA_21.328324_-157.889455@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202469,
+    "wof:geomhash":"7ae354446ba333a006e16652ec8f4aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857526085
+        }
+    ],
+    "wof:id":857526085,
+    "wof:lastmodified":1464202469,
+    "wof:name":"Bob's Equipment Sales & Rntls",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.889455,
+    21.328324,
+    -157.889455,
+    21.328324
+],
+  "geometry": {"coordinates":[-157.889455,21.328324],"type":"Point"}
+}

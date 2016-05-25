@@ -1,0 +1,73 @@
+{
+  "id": 857642411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.82114,20.001334,-155.82114,20.001334",
+    "geom:latitude":20.001334,
+    "geom:longitude":-155.82114,
+    "iso:country":"US",
+    "sg:address":"100 Kauna'oa Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 882 1223",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890365,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2asvxfzJ9ixdZYyx2jfTdm_20.001334_-155.821140@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205113,
+    "wof:geomhash":"298efbc1e7a9e39b7011c7371dd3d2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890365,
+            "region_id":85688671,
+            "venue_id":857642411
+        }
+    ],
+    "wof:id":857642411,
+    "wof:lastmodified":1464205113,
+    "wof:name":"Sunshine Helicopters Inc",
+    "wof:parent_id":85890365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ]
+},
+  "bbox": [
+    -155.82114,
+    20.001334,
+    -155.82114,
+    20.001334
+],
+  "geometry": {"coordinates":[-155.82114000000001,20.001334],"type":"Point"}
+}

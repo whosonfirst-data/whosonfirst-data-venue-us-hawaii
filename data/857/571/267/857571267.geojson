@@ -1,0 +1,71 @@
+{
+  "id": 857571267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.990982,21.409631,-157.990982,21.409631",
+    "geom:latitude":21.409631,
+    "geom:longitude":-157.990982,
+    "iso:country":"US",
+    "sg:address":"1205 Lumipolu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 6678",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cqRFr27h0oOQWGDaPGhmX_21.409631_-157.990982@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203376,
+    "wof:geomhash":"42c9bf5b62afaffc50dc8df366eb6905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857571267
+        }
+    ],
+    "wof:id":857571267,
+    "wof:lastmodified":1464203376,
+    "wof:name":"Contract Cleaning Services",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.990982,
+    21.409631,
+    -157.990982,
+    21.409631
+],
+  "geometry": {"coordinates":[-157.990982,21.409631],"type":"Point"}
+}

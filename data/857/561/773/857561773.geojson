@@ -1,0 +1,71 @@
+{
+  "id": 857561773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.961511,21.398652,-157.961511,21.398652",
+    "geom:latitude":21.398652,
+    "geom:longitude":-157.961511,
+    "iso:country":"US",
+    "sg:address":"652 Hoohulu Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 7357",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YTnwIn3xHLM9AlURISC2C_21.398652_-157.961511@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203196,
+    "wof:geomhash":"6f3cd8e8e6a079db53529a3d9dc95033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857561773
+        }
+    ],
+    "wof:id":857561773,
+    "wof:lastmodified":1464203196,
+    "wof:name":"B J's Bro Paint & Decorating",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -157.961511,
+    21.398652,
+    -157.961511,
+    21.398652
+],
+  "geometry": {"coordinates":[-157.961511,21.398652],"type":"Point"}
+}

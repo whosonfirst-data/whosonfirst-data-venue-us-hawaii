@@ -1,0 +1,73 @@
+{
+  "id": 857654749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84687,21.320125,-157.84687,21.320125",
+    "geom:latitude":21.320125,
+    "geom:longitude":-157.84687,
+    "iso:country":"US",
+    "sg:address":"2115 Kanealii Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 1344",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "printing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X875RQtorWsLbgpgseNUd_21.320125_-157.846870@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205671,
+    "wof:geomhash":"625f0bd21630a6e1bee693108aa4a27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857654749
+        }
+    ],
+    "wof:id":857654749,
+    "wof:lastmodified":1464205671,
+    "wof:name":"John Lau SP & Sons Inc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "printing"
+    ]
+},
+  "bbox": [
+    -157.84687,
+    21.320125,
+    -157.84687,
+    21.320125
+],
+  "geometry": {"coordinates":[-157.84687,21.320125],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857532399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.38743,20.917721,-156.38743,20.917721",
+    "geom:latitude":20.917721,
+    "geom:longitude":-156.38743,
+    "iso:country":"US",
+    "sg:address":"96 Hana Hwy",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 9252",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_349P3zHvO6AgjzywaiY3V9_20.917721_-156.387430@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202592,
+    "wof:geomhash":"d8dab2cfdc7e6d747d2f0ef89979655c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857532399
+        }
+    ],
+    "wof:id":857532399,
+    "wof:lastmodified":1464202592,
+    "wof:name":"Nagata Store",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -156.38743,
+    20.917721,
+    -156.38743,
+    20.917721
+],
+  "geometry": {"coordinates":[-156.38742999999999,20.917721],"type":"Point"}
+}

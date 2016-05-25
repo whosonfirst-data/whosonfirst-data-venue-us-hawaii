@@ -1,0 +1,73 @@
+{
+  "id": 857591491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843006,21.307248,-157.843006,21.307248",
+    "geom:latitude":21.307248,
+    "geom:longitude":-157.843006,
+    "iso:country":"US",
+    "sg:address":"1559 Thurston Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 1559",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_116212Q8dAIBPpGdhbdSNe_21.307248_-157.843006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203793,
+    "wof:geomhash":"1f9d562b327755b2155754328e5ec308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857591491
+        }
+    ],
+    "wof:id":857591491,
+    "wof:lastmodified":1464203793,
+    "wof:name":"MGX Corp",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.843006,
+    21.307248,
+    -157.843006,
+    21.307248
+],
+  "geometry": {"coordinates":[-157.843006,21.307248],"type":"Point"}
+}

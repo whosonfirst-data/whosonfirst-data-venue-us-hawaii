@@ -1,0 +1,73 @@
+{
+  "id": 857623199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.969238,19.640175,-155.969238,19.640175",
+    "geom:latitude":19.640175,
+    "geom:longitude":-155.969238,
+    "iso:country":"US",
+    "sg:address":"5789 Kele Pl",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 1407",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XMNbwUmT3QtOXa6iDk2p0_19.640175_-155.969238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204512,
+    "wof:geomhash":"fcd5df371ba2a758a91da8cc39bb10f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890343,
+            "region_id":85688671,
+            "venue_id":857623199
+        }
+    ],
+    "wof:id":857623199,
+    "wof:lastmodified":1464204512,
+    "wof:name":"Constructive Builders",
+    "wof:parent_id":85890343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.969238,
+    19.640175,
+    -155.969238,
+    19.640175
+],
+  "geometry": {"coordinates":[-155.96923799999999,19.640175],"type":"Point"}
+}

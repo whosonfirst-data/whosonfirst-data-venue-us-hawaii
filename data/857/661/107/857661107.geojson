@@ -1,0 +1,73 @@
+{
+  "id": 857661107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835731,21.28681,-157.835731,21.28681",
+    "geom:latitude":21.28681,
+    "geom:longitude":-157.835731,
+    "iso:country":"US",
+    "sg:address":"444 Hobron Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8116",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gFcAoh8R7qnV0n410g0K9_21.286810_-157.835731@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205968,
+    "wof:geomhash":"9ab24f165c8ea9b19c69009cb7b07026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857661107
+        }
+    ],
+    "wof:id":857661107,
+    "wof:lastmodified":1464205968,
+    "wof:name":"Caesars Cleaners",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -157.835731,
+    21.28681,
+    -157.835731,
+    21.28681
+],
+  "geometry": {"coordinates":[-157.83573100000001,21.28681],"type":"Point"}
+}

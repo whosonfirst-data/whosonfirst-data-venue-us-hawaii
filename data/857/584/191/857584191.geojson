@@ -1,0 +1,73 @@
+{
+  "id": 857584191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.505931,20.893473,-156.505931,20.893473",
+    "geom:latitude":20.893473,
+    "geom:longitude":-156.505931,
+    "iso:country":"US",
+    "sg:address":"160 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 8025",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ftsTbzlmm7AYGEUhpPp5e_20.893473_-156.505931@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203628,
+    "wof:geomhash":"5380fd8ad561d58f69f511c5a0ec05d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857584191
+        }
+    ],
+    "wof:id":857584191,
+    "wof:lastmodified":1464203628,
+    "wof:name":"Nobel Mortgage Financing",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -156.505931,
+    20.893473,
+    -156.505931,
+    20.893473
+],
+  "geometry": {"coordinates":[-156.505931,20.893473],"type":"Point"}
+}

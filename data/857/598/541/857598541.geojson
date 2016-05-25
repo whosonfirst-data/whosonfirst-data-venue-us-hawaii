@@ -1,0 +1,71 @@
+{
+  "id": 857598541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833359,21.301825,-157.833359,21.301825",
+    "geom:latitude":21.301825,
+    "geom:longitude":-157.833359,
+    "iso:country":"US",
+    "sg:address":"1434 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 7817",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jdSflTk7m85KI7ozeL2Ru_21.301825_-157.833359@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203952,
+    "wof:geomhash":"0a128427505ff63d4108ba83482a829f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857598541
+        }
+    ],
+    "wof:id":857598541,
+    "wof:lastmodified":1464203952,
+    "wof:name":"Portfolio Consultants Hawaii",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -157.833359,
+    21.301825,
+    -157.833359,
+    21.301825
+],
+  "geometry": {"coordinates":[-157.833359,21.301825],"type":"Point"}
+}

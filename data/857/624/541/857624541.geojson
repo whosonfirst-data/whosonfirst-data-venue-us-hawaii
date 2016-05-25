@@ -1,0 +1,71 @@
+{
+  "id": 857624541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.917327,21.619255,-157.917327,21.619255",
+    "geom:latitude":21.619255,
+    "geom:longitude":-157.917327,
+    "iso:country":"US",
+    "sg:address":"307 Kawaewae Way",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 1851",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_281ZL8SL23PXBLfV1T79Ur_21.619255_-157.917327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204553,
+    "wof:geomhash":"e5663c6fb8e3289235305cacbd743440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857624541
+        }
+    ],
+    "wof:id":857624541,
+    "wof:lastmodified":1464204553,
+    "wof:name":"Kealoha Kontractors",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.917327,
+    21.619255,
+    -157.917327,
+    21.619255
+],
+  "geometry": {"coordinates":[-157.917327,21.619255],"type":"Point"}
+}

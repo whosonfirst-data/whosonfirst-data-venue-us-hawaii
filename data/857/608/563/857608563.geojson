@@ -1,0 +1,71 @@
+{
+  "id": 857608563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852745,21.313705,-157.852745,21.313705",
+    "geom:latitude":21.313705,
+    "geom:longitude":-157.852745,
+    "iso:country":"US",
+    "sg:address":"1678 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 4295",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M4BPKZThEBmRoGqml0rJ0_21.313705_-157.852745@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204178,
+    "wof:geomhash":"0e5a76bb93dfd56a2215e2f828e0d30c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857608563
+        }
+    ],
+    "wof:id":857608563,
+    "wof:lastmodified":1464204178,
+    "wof:name":"Kamamalu Market",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.852745,
+    21.313705,
+    -157.852745,
+    21.313705
+],
+  "geometry": {"coordinates":[-157.852745,21.313705],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857681223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855132,21.300893,-157.855132,21.300893",
+    "geom:latitude":21.300893,
+    "geom:longitude":-157.855132,
+    "iso:country":"US",
+    "sg:address":"725 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/109791-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 1008",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_667XvPb6xlmRa2dl5jMqLo_21.300893_-157.855132@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206776,
+    "wof:geomhash":"9fd51f17d5c236114a1c6bf545f3c16f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857681223
+        }
+    ],
+    "wof:id":857681223,
+    "wof:lastmodified":1464206776,
+    "wof:name":"Subway",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.855132,
+    21.300893,
+    -157.855132,
+    21.300893
+],
+  "geometry": {"coordinates":[-157.855132,21.300893],"type":"Point"}
+}

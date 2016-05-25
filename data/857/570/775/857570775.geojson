@@ -1,0 +1,73 @@
+{
+  "id": 857570775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814144,21.28224,-157.814144,21.28224",
+    "geom:latitude":21.28224,
+    "geom:longitude":-157.814144,
+    "iso:country":"US",
+    "sg:address":"810 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 0810",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ZyMfZO04BHq1fj6X1M2h_21.282240_-157.814144@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203367,
+    "wof:geomhash":"784219c6dbb85d1e7286264313fdd4c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857570775
+        }
+    ],
+    "wof:id":857570775,
+    "wof:lastmodified":1464203367,
+    "wof:name":"Hawaiian Tattoo Co",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.814144,
+    21.28224,
+    -157.814144,
+    21.28224
+],
+  "geometry": {"coordinates":[-157.814144,21.28224],"type":"Point"}
+}

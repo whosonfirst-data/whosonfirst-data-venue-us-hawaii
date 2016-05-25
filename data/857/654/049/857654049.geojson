@@ -1,0 +1,73 @@
+{
+  "id": 857654049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825367,21.280525,-157.825367,21.280525",
+    "geom:latitude":21.280525,
+    "geom:longitude":-157.825367,
+    "iso:country":"US",
+    "sg:address":"431 Nohonani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 9900",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "information",
+        "tourist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fnec1FmjPSbmgUZAalnma_21.280525_-157.825367@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205638,
+    "wof:geomhash":"f73e11c3ee7c12ab0a4a28160e770cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857654049
+        }
+    ],
+    "wof:id":857654049,
+    "wof:lastmodified":1464205638,
+    "wof:name":"Kilohana Concierge",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "tourist"
+    ]
+},
+  "bbox": [
+    -157.825367,
+    21.280525,
+    -157.825367,
+    21.280525
+],
+  "geometry": {"coordinates":[-157.825367,21.280525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857569531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.177119,21.422836,-158.177119,21.422836",
+    "geom:latitude":21.422836,
+    "geom:longitude":-158.177119,
+    "iso:country":"US",
+    "sg:address":"144 Liliana St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 4132",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RQhAxtZNBej0XuM0n3Mvu_21.422836_-158.177119@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203344,
+    "wof:geomhash":"eca2fc6c2883e19a4d898845f53884ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857569531
+        }
+    ],
+    "wof:id":857569531,
+    "wof:lastmodified":1464203344,
+    "wof:name":"Hawaiian Guy Party Rentals",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -158.177119,
+    21.422836,
+    -158.177119,
+    21.422836
+],
+  "geometry": {"coordinates":[-158.177119,21.422836],"type":"Point"}
+}

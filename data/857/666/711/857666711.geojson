@@ -1,0 +1,66 @@
+{
+  "id": 857666711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852082,21.305752,-157.852082,21.305752",
+    "geom:latitude":21.305752,
+    "geom:longitude":-157.852082,
+    "iso:country":"US",
+    "sg:address":"727 Kinau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 8178",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJ1SWqgzSDpag2xQV9mHY_21.305752_-157.852082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206214,
+    "wof:geomhash":"b87392bf543737975f3ef17ac9cd7fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857666711
+        }
+    ],
+    "wof:id":857666711,
+    "wof:lastmodified":1464206214,
+    "wof:name":"Bouquet Shoppe",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.852082,
+    21.305752,
+    -157.852082,
+    21.305752
+],
+  "geometry": {"coordinates":[-157.852082,21.305752],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857602045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.971454,21.413089,-157.971454,21.413089",
+    "geom:latitude":21.413089,
+    "geom:longitude":-157.971454,
+    "iso:country":"US",
+    "sg:address":"1348 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 454 2111",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bc3RBTpk08ePXCA4XzlRy_21.413089_-157.971454@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204030,
+    "wof:geomhash":"bfaaddd22eb9fa050e3c8d1357e05d05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857602045
+        }
+    ],
+    "wof:id":857602045,
+    "wof:lastmodified":1464204030,
+    "wof:name":"Island Colors & Coatings Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.971454,
+    21.413089,
+    -157.971454,
+    21.413089
+],
+  "geometry": {"coordinates":[-157.97145399999999,21.413089],"type":"Point"}
+}

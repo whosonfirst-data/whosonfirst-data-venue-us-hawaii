@@ -1,0 +1,71 @@
+{
+  "id": 857626287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856474,21.300069,-157.856474,21.300069",
+    "geom:latitude":21.300069,
+    "geom:longitude":-157.856474,
+    "iso:country":"US",
+    "sg:address":"885 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 0773",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42nN6co7lA7k6HDvwW3onx_21.300069_-157.856474@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204588,
+    "wof:geomhash":"4d01540efae3d732f9e9974099b38c98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857626287
+        }
+    ],
+    "wof:id":857626287,
+    "wof:lastmodified":1464204588,
+    "wof:name":"H Hamada Store",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -157.856474,
+    21.300069,
+    -157.856474,
+    21.300069
+],
+  "geometry": {"coordinates":[-157.85647399999999,21.300069],"type":"Point"}
+}

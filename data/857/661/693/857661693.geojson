@@ -1,0 +1,71 @@
+{
+  "id": 857661693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.945943,21.38827,-157.945943,21.38827",
+    "geom:latitude":21.38827,
+    "geom:longitude":-157.945943,
+    "iso:country":"US",
+    "sg:address":"940 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 7210",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QBwLpGgNm9xSxqxZPPW3t_21.388270_-157.945943@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206001,
+    "wof:geomhash":"85a13853ae094574317ba475f024cbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857661693
+        }
+    ],
+    "wof:id":857661693,
+    "wof:lastmodified":1464206001,
+    "wof:name":"Pearl Ridge Elementary School",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.945943,
+    21.38827,
+    -157.945943,
+    21.38827
+],
+  "geometry": {"coordinates":[-157.945943,21.38827],"type":"Point"}
+}

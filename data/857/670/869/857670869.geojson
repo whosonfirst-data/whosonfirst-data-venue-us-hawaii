@@ -1,0 +1,73 @@
+{
+  "id": 857670869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.755503,21.285215,-157.755503,21.285215",
+    "geom:latitude":21.285215,
+    "geom:longitude":-157.755503,
+    "iso:country":"US",
+    "sg:address":"5254 Waihou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 1677",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xC6TOnd0ziuDfheifT1C1_21.285215_-157.755503@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206370,
+    "wof:geomhash":"225dbbc5473a9f34792c7e5f4faa7be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857670869
+        }
+    ],
+    "wof:id":857670869,
+    "wof:lastmodified":1464206370,
+    "wof:name":"Tom Building",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.755503,
+    21.285215,
+    -157.755503,
+    21.285215
+],
+  "geometry": {"coordinates":[-157.755503,21.285215],"type":"Point"}
+}

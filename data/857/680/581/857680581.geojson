@@ -1,0 +1,72 @@
+{
+  "id": 857680581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.085816,21.330386,-158.085816,21.330386",
+    "geom:latitude":21.330386,
+    "geom:longitude":-158.085816,
+    "iso:country":"US",
+    "sg:address":"500 Kamokila Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/87344-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 693 8005",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x8tIuYqRaEJqYJBTbeSWy_21.330386_-158.085816@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"6136feb842abfa21ad8943a945b6bbd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680581
+        }
+    ],
+    "wof:id":857680581,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -158.085816,
+    21.330386,
+    -158.085816,
+    21.330386
+],
+  "geometry": {"coordinates":[-158.08581599999999,21.330386],"type":"Point"}
+}

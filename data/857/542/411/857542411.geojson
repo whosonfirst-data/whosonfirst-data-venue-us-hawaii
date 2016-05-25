@@ -1,0 +1,80 @@
+{
+  "id": 857542411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.707884,21.305747,-157.707884,21.305747",
+    "geom:latitude":21.305747,
+    "geom:longitude":-157.707884,
+    "iso:country":"US",
+    "sg:address":"809 Waika Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 4293",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nGIVod5dVu32LKI09Pg2E_21.305747_-157.707884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202789,
+    "wof:geomhash":"3e639586207b56d9b9e41207dcd3453e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857542411
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857542411
+        }
+    ],
+    "wof:id":857542411,
+    "wof:lastmodified":1464202789,
+    "wof:name":"CRL Consulting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.707884,
+    21.305747,
+    -157.707884,
+    21.305747
+],
+  "geometry": {"coordinates":[-157.70788400000001,21.305747],"type":"Point"}
+}

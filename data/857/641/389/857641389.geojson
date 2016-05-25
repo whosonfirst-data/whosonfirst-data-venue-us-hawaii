@@ -1,0 +1,66 @@
+{
+  "id": 857641389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.779697,21.278594,-157.779697,21.278594",
+    "geom:latitude":21.278594,
+    "geom:longitude":-157.779697,
+    "iso:country":"US",
+    "sg:address":"1234 Ainakoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 5256",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vjt0IOon4d5l4B6iNQxwi_21.278594_-157.779697@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205076,
+    "wof:geomhash":"d332a373278c8b5d7d2b890fa6a102e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857641389
+        }
+    ],
+    "wof:id":857641389,
+    "wof:lastmodified":1464205076,
+    "wof:name":"Pet Express Boarding Kennel",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.779697,
+    21.278594,
+    -157.779697,
+    21.278594
+],
+  "geometry": {"coordinates":[-157.779697,21.278594],"type":"Point"}
+}

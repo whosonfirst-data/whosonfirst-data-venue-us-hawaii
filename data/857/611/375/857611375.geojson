@@ -1,0 +1,71 @@
+{
+  "id": 857611375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028772,21.383813,-158.028772,21.383813",
+    "geom:latitude":21.383813,
+    "geom:longitude":-158.028772,
+    "iso:country":"US",
+    "sg:address":"173 Hulahe St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 2454",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xedcsbzo1M7SPWsKi10Kg_21.383813_-158.028772@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204240,
+    "wof:geomhash":"559715c4c9a96309222b4dfe93893e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857611375
+        }
+    ],
+    "wof:id":857611375,
+    "wof:lastmodified":1464204240,
+    "wof:name":"L & E Plumbing",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.028772,
+    21.383813,
+    -158.028772,
+    21.383813
+],
+  "geometry": {"coordinates":[-158.028772,21.383813],"type":"Point"}
+}

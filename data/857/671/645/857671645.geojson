@@ -1,0 +1,73 @@
+{
+  "id": 857671645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.075279,19.711704,-155.075279,19.711704",
+    "geom:latitude":19.711704,
+    "geom:longitude":-155.075279,
+    "iso:country":"US",
+    "sg:address":"203 Kekuanaoa St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 938 7223",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dm5sDkzMww1TIgFyH2BTN_19.711704_-155.075279@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206397,
+    "wof:geomhash":"c17427f5265c3b39b60d27af28abb9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857671645
+        }
+    ],
+    "wof:id":857671645,
+    "wof:lastmodified":1464206397,
+    "wof:name":"Pt Automotive",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -155.075279,
+    19.711704,
+    -155.075279,
+    19.711704
+],
+  "geometry": {"coordinates":[-155.07527899999999,19.711704],"type":"Point"}
+}

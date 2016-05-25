@@ -1,0 +1,73 @@
+{
+  "id": 857623879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.313791,22.089446,-159.313791,22.089446",
+    "geom:latitude":22.089446,
+    "geom:longitude":-159.313791,
+    "iso:country":"US",
+    "sg:address":"4886 Kawaihau Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 4424",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17wbwK21HycjEldukGtXzb_22.089446_-159.313791@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204535,
+    "wof:geomhash":"58b1a58dac2db044ee248bc72e2643b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857623879
+        }
+    ],
+    "wof:id":857623879,
+    "wof:lastmodified":1464204535,
+    "wof:name":"Kapaa Elementary School",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -159.313791,
+    22.089446,
+    -159.313791,
+    22.089446
+],
+  "geometry": {"coordinates":[-159.31379100000001,22.089446],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857661009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022477,21.464444,-158.022477,21.464444",
+    "geom:latitude":21.464444,
+    "geom:longitude":-158.022477,
+    "iso:country":"US",
+    "sg:address":"2031 Waikalani Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8399",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2siXgm7cRgRbnr1dbjPpjm_21.464444_-158.022477@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205961,
+    "wof:geomhash":"a397b71dc073bcb37b879ef169962051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857661009
+        }
+    ],
+    "wof:id":857661009,
+    "wof:lastmodified":1464205961,
+    "wof:name":"Valley Recreation Ctr",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -158.022477,
+    21.464444,
+    -158.022477,
+    21.464444
+],
+  "geometry": {"coordinates":[-158.02247700000001,21.464444],"type":"Point"}
+}

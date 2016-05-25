@@ -1,0 +1,73 @@
+{
+  "id": 857659735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.795266,21.281834,-157.795266,21.281834",
+    "geom:latitude":21.281834,
+    "geom:longitude":-157.795266,
+    "iso:country":"US",
+    "sg:address":"1250 Elizabeth St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 0896",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ojnOOSNF9cliQaVyyNCrQ_21.281834_-157.795266@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205894,
+    "wof:geomhash":"4a18094704b2f24c5fbe8f95a27412e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857659735
+        }
+    ],
+    "wof:id":857659735,
+    "wof:lastmodified":1464205894,
+    "wof:name":"Okuhara & Sons",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.795266,
+    21.281834,
+    -157.795266,
+    21.281834
+],
+  "geometry": {"coordinates":[-157.795266,21.281834],"type":"Point"}
+}

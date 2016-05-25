@@ -1,0 +1,73 @@
+{
+  "id": 857671815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.51819,20.871135,-156.51819,20.871135",
+    "geom:latitude":20.871135,
+    "geom:longitude":-156.51819,
+    "iso:country":"US",
+    "sg:address":"535 S Alu Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 8511",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O3rzEGtjXV5ZTtGBisLCM_20.871135_-156.518190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206404,
+    "wof:geomhash":"486081a24fc5a359b167b5f75c97d39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857671815
+        }
+    ],
+    "wof:id":857671815,
+    "wof:lastmodified":1464206404,
+    "wof:name":"K C Electric",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.51819,
+    20.871135,
+    -156.51819,
+    20.871135
+],
+  "geometry": {"coordinates":[-156.51819,20.871135],"type":"Point"}
+}

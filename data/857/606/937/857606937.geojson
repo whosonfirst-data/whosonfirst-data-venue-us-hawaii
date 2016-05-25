@@ -1,0 +1,68 @@
+{
+  "id": 857606937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.677976,20.871353,-156.677976,20.871353",
+    "geom:latitude":20.871353,
+    "geom:longitude":-156.677976,
+    "iso:country":"US",
+    "sg:address":"505 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 5332",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xoj5J4lTtpDD1S0oylyzL_20.871353_-156.677976@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204133,
+    "wof:geomhash":"97103335feb35de80050df4fa0218425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890527,
+            "region_id":85688671,
+            "venue_id":857606937
+        }
+    ],
+    "wof:id":857606937,
+    "wof:lastmodified":1464204133,
+    "wof:name":"Lahainaluna High Sch Fndtn",
+    "wof:parent_id":85890527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.677976,
+    20.871353,
+    -156.677976,
+    20.871353
+],
+  "geometry": {"coordinates":[-156.677976,20.871353],"type":"Point"}
+}

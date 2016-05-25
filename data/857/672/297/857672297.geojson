@@ -1,0 +1,77 @@
+{
+  "id": 857672297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.049355,21.490869,-158.049355,21.490869",
+    "geom:latitude":21.490869,
+    "geom:longitude":-158.049355,
+    "iso:country":"US",
+    "sg:address":"380 Sudut St",
+    "sg:city":"Villas",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 609 886 7100",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5HMJUkh6eR5foprQqDE9_21.490869_-158.049355@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206427,
+    "wof:geomhash":"edc4339f7a52add8dc096ae8103b699f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857672297
+        }
+    ],
+    "wof:id":857672297,
+    "wof:lastmodified":1464206427,
+    "wof:name":"Pool Zone",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "dealer",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -158.049355,
+    21.490869,
+    -158.049355,
+    21.490869
+],
+  "geometry": {"coordinates":[-158.04935499999999,21.490869],"type":"Point"}
+}

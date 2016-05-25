@@ -1,0 +1,66 @@
+{
+  "id": 857675503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884704,21.32593,-157.884704,21.32593",
+    "geom:latitude":21.32593,
+    "geom:longitude":-157.884704,
+    "iso:country":"US",
+    "sg:address":"2018 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7878",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06vHvu36ItYlv564lETJ7W_21.325930_-157.884704@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206549,
+    "wof:geomhash":"c46aa5072d21cd4fad07f622e4b168f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857675503
+        }
+    ],
+    "wof:id":857675503,
+    "wof:lastmodified":1464206549,
+    "wof:name":"Nimitz Local Stop & Deli",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.884704,
+    21.32593,
+    -157.884704,
+    21.32593
+],
+  "geometry": {"coordinates":[-157.884704,21.32593],"type":"Point"}
+}

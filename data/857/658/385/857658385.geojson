@@ -1,0 +1,71 @@
+{
+  "id": 857658385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865495,21.329242,-157.865495,21.329242",
+    "geom:latitude":21.329242,
+    "geom:longitude":-157.865495,
+    "iso:country":"US",
+    "sg:address":"1513 Pohaku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 0026",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DyRpk3oQOWDrhnFKTHPxh_21.329242_-157.865495@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205836,
+    "wof:geomhash":"7f51520ddf7e197c648e94a4200502b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857658385
+        }
+    ],
+    "wof:id":857658385,
+    "wof:lastmodified":1464205836,
+    "wof:name":"Action Towing",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.865495,
+    21.329242,
+    -157.865495,
+    21.329242
+],
+  "geometry": {"coordinates":[-157.86549500000001,21.329242],"type":"Point"}
+}

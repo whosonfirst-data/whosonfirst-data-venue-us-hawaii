@@ -1,0 +1,75 @@
+{
+  "id": 857568343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.921248,21.349806,-157.921248,21.349806",
+    "geom:latitude":21.349806,
+    "geom:longitude":-157.921248,
+    "iso:country":"US",
+    "sg:address":"1080 Wanaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 428 2222",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sewer",
+        "cleaning",
+        "drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qvqsk9jKiwjW6pqKnGSJF_21.349806_-157.921248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203321,
+    "wof:geomhash":"08e681853633e9bac0a0fef174321276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857568343
+        }
+    ],
+    "wof:id":857568343,
+    "wof:lastmodified":1464203321,
+    "wof:name":"Pro Rooter",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "cleaning",
+        "drain"
+    ]
+},
+  "bbox": [
+    -157.921248,
+    21.349806,
+    -157.921248,
+    21.349806
+],
+  "geometry": {"coordinates":[-157.92124799999999,21.349806],"type":"Point"}
+}

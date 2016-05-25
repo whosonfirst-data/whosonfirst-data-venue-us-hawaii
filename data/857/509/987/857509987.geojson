@@ -1,0 +1,73 @@
+{
+  "id": 857509987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870275,21.326992,-157.870275,21.326992",
+    "geom:latitude":21.326992,
+    "geom:longitude":-157.870275,
+    "iso:country":"US",
+    "sg:address":"1232 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5408",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nfhS2ea4GHCf4ESxzkn5M_21.326992_-157.870275@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202144,
+    "wof:geomhash":"59b128c02b4ace41c1de624b952be79c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857509987
+        }
+    ],
+    "wof:id":857509987,
+    "wof:lastmodified":1464202144,
+    "wof:name":"Perla's Tours & Travels",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.870275,
+    21.326992,
+    -157.870275,
+    21.326992
+],
+  "geometry": {"coordinates":[-157.87027499999999,21.326992],"type":"Point"}
+}

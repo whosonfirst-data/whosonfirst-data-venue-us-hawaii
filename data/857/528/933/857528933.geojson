@@ -1,0 +1,73 @@
+{
+  "id": 857528933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856296,21.300085,-157.856296,21.300085",
+    "geom:latitude":21.300085,
+    "geom:longitude":-157.856296,
+    "iso:country":"US",
+    "sg:address":"878 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8481",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38AasRtKmAlrKqbo9M9nUn_21.300085_-157.856296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202523,
+    "wof:geomhash":"e95dee4fe86a7e0d809802e92c64de57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857528933
+        }
+    ],
+    "wof:id":857528933,
+    "wof:lastmodified":1464202523,
+    "wof:name":"Kiyos Transmission Service",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.856296,
+    21.300085,
+    -157.856296,
+    21.300085
+],
+  "geometry": {"coordinates":[-157.85629599999999,21.300085],"type":"Point"}
+}

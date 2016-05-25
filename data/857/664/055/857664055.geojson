@@ -1,0 +1,73 @@
+{
+  "id": 857664055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898859,21.359485,-157.898859,21.359485",
+    "geom:latitude":21.359485,
+    "geom:longitude":-157.898859,
+    "iso:country":"US",
+    "sg:address":"1342 Ala Aolani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5575",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yYfT2839Gt5TRxzy9aFFO_21.359485_-157.898859@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206087,
+    "wof:geomhash":"d19d944903910c125109daa60c2ee4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857664055
+        }
+    ],
+    "wof:id":857664055,
+    "wof:lastmodified":1464206087,
+    "wof:name":"Akamai Products Inc",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.898859,
+    21.359485,
+    -157.898859,
+    21.359485
+],
+  "geometry": {"coordinates":[-157.89885899999999,21.359485],"type":"Point"}
+}

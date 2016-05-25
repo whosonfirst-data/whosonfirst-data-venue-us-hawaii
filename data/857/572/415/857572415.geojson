@@ -1,0 +1,77 @@
+{
+  "id": 857572415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.099941,21.302216,-158.099941,21.302216",
+    "geom:latitude":21.302216,
+    "geom:longitude":-158.099941,
+    "iso:country":"US",
+    "sg:address":"252 Kuhela St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2085",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair",
+        "work",
+        "piping",
+        "install",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fok1Apyg0eMdCt7NDD9ZJ_21.302216_-158.099941@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203396,
+    "wof:geomhash":"c2d4cc62c45401595742b4f1b2bb145c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857572415
+        }
+    ],
+    "wof:id":857572415,
+    "wof:lastmodified":1464203396,
+    "wof:name":"American Piping & Boiler Co",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "work",
+        "piping",
+        "install",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -158.099941,
+    21.302216,
+    -158.099941,
+    21.302216
+],
+  "geometry": {"coordinates":[-158.099941,21.302216],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857562173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.467835,20.888018,-156.467835,20.888018",
+    "geom:latitude":20.888018,
+    "geom:longitude":-156.467835,
+    "iso:country":"US",
+    "sg:address":"39 W Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 4395",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SF5WlN3BYabAfCONNZ9Ri_20.888018_-156.467835@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203206,
+    "wof:geomhash":"884619086b81d0e440973defe37b87c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857562173
+        }
+    ],
+    "wof:id":857562173,
+    "wof:lastmodified":1464203206,
+    "wof:name":"Camilo Rosales Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -156.467835,
+    20.888018,
+    -156.467835,
+    20.888018
+],
+  "geometry": {"coordinates":[-156.46783500000001,20.888018],"type":"Point"}
+}

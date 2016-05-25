@@ -1,0 +1,72 @@
+{
+  "id": 857654761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809627,21.310058,-157.809627,21.310058",
+    "geom:latitude":21.310058,
+    "geom:longitude":-157.809627,
+    "iso:country":"US",
+    "sg:address":"2833 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6131",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "live"
+    ],
+    "sg:website":"www.manoavalleytheatre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29S0COWiJSHqGzzGbDVmzw_21.310058_-157.809627@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205671,
+    "wof:geomhash":"8882bf9dce6abc6ab5591133a239739c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857654761
+        }
+    ],
+    "wof:id":857654761,
+    "wof:lastmodified":1464205671,
+    "wof:name":"Manoa Valley Theatre",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live"
+    ]
+},
+  "bbox": [
+    -157.809627,
+    21.310058,
+    -157.809627,
+    21.310058
+],
+  "geometry": {"coordinates":[-157.80962700000001,21.310058],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857503751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.024052,20.791902,-156.024052,20.791902",
+    "geom:latitude":20.791902,
+    "geom:longitude":-156.024052,
+    "iso:country":"US",
+    "sg:address":"155 Uwala Rd",
+    "sg:city":"Hana",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 248 7616",
+    "sg:postcode":"96713",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937685,
+        102085577,
+        85890137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i1h7VprjKpJ8IL1q8zAHj_20.791902_-156.024052@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202000,
+    "wof:geomhash":"6833575063ac5b6399afc1b66110d6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937685,
+            "neighbourhood_id":85890137,
+            "region_id":85688671,
+            "venue_id":857503751
+        }
+    ],
+    "wof:id":857503751,
+    "wof:lastmodified":1464202000,
+    "wof:name":"Hanabelle Animal Svc",
+    "wof:parent_id":85890137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -156.024052,
+    20.791902,
+    -156.024052,
+    20.791902
+],
+  "geometry": {"coordinates":[-156.02405200000001,20.791902],"type":"Point"}
+}

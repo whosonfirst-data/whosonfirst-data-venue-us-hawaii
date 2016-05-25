@@ -1,0 +1,73 @@
+{
+  "id": 857669217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.203039,21.458569,-158.203039,21.458569",
+    "geom:latitude":21.458569,
+    "geom:longitude":-158.203039,
+    "iso:country":"US",
+    "sg:address":"166 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 0310",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dYNHxpeEorC8i0XWLJjpE_21.458569_-158.203039@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206310,
+    "wof:geomhash":"aec2be3ab67da6b83d94ee684eaa5d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857669217
+        }
+    ],
+    "wof:id":857669217,
+    "wof:lastmodified":1464206310,
+    "wof:name":"D T Automotive",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.203039,
+    21.458569,
+    -158.203039,
+    21.458569
+],
+  "geometry": {"coordinates":[-158.20303899999999,21.458569],"type":"Point"}
+}

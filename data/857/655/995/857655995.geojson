@@ -1,0 +1,76 @@
+{
+  "id": 857655995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.92807,21.363019,-157.92807,21.363019",
+    "geom:latitude":21.363019,
+    "geom:longitude":-157.92807,
+    "iso:country":"US",
+    "sg:address":"4510 Salt Lake Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 3030",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DO4bizL88HTd5RHS47598_21.363019_-157.928070@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205724,
+    "wof:geomhash":"7950f25284c0000849215ec08b1576ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857655995
+        }
+    ],
+    "wof:id":857655995,
+    "wof:lastmodified":1464205724,
+    "wof:name":"Waiau Fish Market",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -157.92807,
+    21.363019,
+    -157.92807,
+    21.363019
+],
+  "geometry": {"coordinates":[-157.92806999999999,21.363019],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857593967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.332065,20.835029,-156.332065,20.835029",
+    "geom:latitude":20.835029,
+    "geom:longitude":-156.332065,
+    "iso:country":"US",
+    "sg:address":"81 Makawao Ave",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 2998",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ihI0VpPcenjPqRqXXOK6g_20.835029_-156.332065@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203848,
+    "wof:geomhash":"456aad1989dbd12c2f2fd8a5e0827302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857593967
+        }
+    ],
+    "wof:id":857593967,
+    "wof:lastmodified":1464203848,
+    "wof:name":"Maui's Best Tamales",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.332065,
+    20.835029,
+    -156.332065,
+    20.835029
+],
+  "geometry": {"coordinates":[-156.332065,20.835029],"type":"Point"}
+}

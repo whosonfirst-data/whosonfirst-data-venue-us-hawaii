@@ -1,0 +1,73 @@
+{
+  "id": 857539601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.000563,19.646552,-156.000563,19.646552",
+    "geom:latitude":19.646552,
+    "geom:longitude":-156.000563,
+    "iso:country":"US",
+    "sg:address":"5518 Kaiwi St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 4899",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55r378l8oFkZLn5cgK8W3y_19.646552_-156.000563@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202729,
+    "wof:geomhash":"278023d3cb0185d6a88404645efedfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857539601
+        }
+    ],
+    "wof:id":857539601,
+    "wof:lastmodified":1464202729,
+    "wof:name":"Da KINE Discount Store",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -156.000563,
+    19.646552,
+    -156.000563,
+    19.646552
+],
+  "geometry": {"coordinates":[-156.000563,19.646552],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857530811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.017947,21.441479,-158.017947,21.441479",
+    "geom:latitude":21.441479,
+    "geom:longitude":-158.017947,
+    "iso:country":"US",
+    "sg:address":"1150 Lanikuhana Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 5258",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ohyhvtBghBFeJcL79sYRq_21.441479_-158.017947@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202560,
+    "wof:geomhash":"928cca8aebd3adfdadca61f3e8e0482c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857530811
+        }
+    ],
+    "wof:id":857530811,
+    "wof:lastmodified":1464202560,
+    "wof:name":"Honolulu City Mililani Park",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -158.017947,
+    21.441479,
+    -158.017947,
+    21.441479
+],
+  "geometry": {"coordinates":[-158.01794699999999,21.441479],"type":"Point"}
+}

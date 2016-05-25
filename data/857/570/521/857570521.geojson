@@ -1,0 +1,73 @@
+{
+  "id": 857570521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.095602,21.608326,-158.095602,21.608326",
+    "geom:latitude":21.608326,
+    "geom:longitude":-158.095602,
+    "iso:country":"US",
+    "sg:address":"200 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 3357",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_631HK5hCxUQsutsQ09uazg_21.608326_-158.095602@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203363,
+    "wof:geomhash":"c83cbb1481597c6144ed29e5d77214c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857570521
+        }
+    ],
+    "wof:id":857570521,
+    "wof:lastmodified":1464203363,
+    "wof:name":"Del's Photo Lab",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -158.095602,
+    21.608326,
+    -158.095602,
+    21.608326
+],
+  "geometry": {"coordinates":[-158.09560200000001,21.608326],"type":"Point"}
+}

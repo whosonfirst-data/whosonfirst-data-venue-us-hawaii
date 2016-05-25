@@ -1,0 +1,71 @@
+{
+  "id": 857559793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.732018,21.380412,-157.732018,21.380412",
+    "geom:latitude":21.380412,
+    "geom:longitude":-157.732018,
+    "iso:country":"US",
+    "sg:address":"848 Wanaao Rd",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 9918",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10gYJDnbPH2R6wPXHk5Sdo_21.380412_-157.732018@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203145,
+    "wof:geomhash":"93bdd1e689a84e8b08cd557412d0ffb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857559793
+        }
+    ],
+    "wof:id":857559793,
+    "wof:lastmodified":1464203145,
+    "wof:name":"BWP Construction Inc",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.732018,
+    21.380412,
+    -157.732018,
+    21.380412
+],
+  "geometry": {"coordinates":[-157.73201800000001,21.380412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857520239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.812695,21.28215,-157.812695,21.28215",
+    "geom:latitude":21.28215,
+    "geom:longitude":-157.812695,
+    "iso:country":"US",
+    "sg:address":"3121 Mokihana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 5299",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ImD0Wo9taXCwW51OPvf3_21.282150_-157.812695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202355,
+    "wof:geomhash":"9378489f17fda8ced0be7e5d3983fbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857520239
+        }
+    ],
+    "wof:id":857520239,
+    "wof:lastmodified":1464202355,
+    "wof:name":"Tour Hotline Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.812695,
+    21.28215,
+    -157.812695,
+    21.28215
+],
+  "geometry": {"coordinates":[-157.81269499999999,21.28215],"type":"Point"}
+}

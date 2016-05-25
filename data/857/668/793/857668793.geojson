@@ -1,0 +1,73 @@
+{
+  "id": 857668793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879333,21.333367,-157.879333,21.333367",
+    "geom:latitude":21.333367,
+    "geom:longitude":-157.879333,
+    "iso:country":"US",
+    "sg:address":"916 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2555",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "noodle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nhB4uVVl0zwl4qTR562RH_21.333367_-157.879333@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206285,
+    "wof:geomhash":"60f5e87f055bb3d00602e99fa9f8525a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857668793
+        }
+    ],
+    "wof:id":857668793,
+    "wof:lastmodified":1464206285,
+    "wof:name":"Eagle Noodle Factory Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "noodle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.879333,
+    21.333367,
+    -157.879333,
+    21.333367
+],
+  "geometry": {"coordinates":[-157.879333,21.333367],"type":"Point"}
+}

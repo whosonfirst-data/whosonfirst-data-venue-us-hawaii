@@ -1,0 +1,71 @@
+{
+  "id": 857651083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813149,21.286423,-157.813149,21.286423",
+    "geom:latitude":21.286423,
+    "geom:longitude":-157.813149,
+    "iso:country":"US",
+    "sg:address":"1017 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2944",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vKKHZNyJ1NIU102LHIwEd_21.286423_-157.813149@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205498,
+    "wof:geomhash":"90afa77850163ae0b8888e34b954c975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857651083
+        }
+    ],
+    "wof:id":857651083,
+    "wof:lastmodified":1464205498,
+    "wof:name":"Tsumoto Development Corp",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -157.813149,
+    21.286423,
+    -157.813149,
+    21.286423
+],
+  "geometry": {"coordinates":[-157.81314900000001,21.286423],"type":"Point"}
+}

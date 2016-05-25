@@ -1,0 +1,74 @@
+{
+  "id": 857591851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.45486,20.88222,-156.45486,20.88222",
+    "geom:latitude":20.88222,
+    "geom:longitude":-156.45486,
+    "iso:country":"US",
+    "sg:address":"150 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7433",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.mauicarsandbikes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14cljV9IvjlgIyHxCpTXQI_20.882220_-156.454860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203803,
+    "wof:geomhash":"58961bc02cd77927734337026dd4f976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857591851
+        }
+    ],
+    "wof:id":857591851,
+    "wof:lastmodified":1464203803,
+    "wof:name":"Audi Of Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -156.45486,
+    20.88222,
+    -156.45486,
+    20.88222
+],
+  "geometry": {"coordinates":[-156.45486,20.88222],"type":"Point"}
+}

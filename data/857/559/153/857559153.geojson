@@ -1,0 +1,71 @@
+{
+  "id": 857559153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.088052,21.352104,-158.088052,21.352104",
+    "geom:latitude":21.352104,
+    "geom:longitude":-158.088052,
+    "iso:country":"US",
+    "sg:address":"831 Makakilo Dr",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 0186",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "partition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76p3bAiWwBDAoPO4gzbmbN_21.352104_-158.088052@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203132,
+    "wof:geomhash":"84720ccea55748c0fd0bcf42bf498278",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857559153
+        }
+    ],
+    "wof:id":857559153,
+    "wof:lastmodified":1464203132,
+    "wof:name":"Roscha Woodwork Inc",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "partition"
+    ]
+},
+  "bbox": [
+    -158.088052,
+    21.352104,
+    -158.088052,
+    21.352104
+],
+  "geometry": {"coordinates":[-158.088052,21.352104],"type":"Point"}
+}

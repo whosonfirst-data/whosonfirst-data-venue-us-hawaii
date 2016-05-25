@@ -1,0 +1,73 @@
+{
+  "id": 857604365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858015,21.310092,-157.858015,21.310092",
+    "geom:latitude":21.310092,
+    "geom:longitude":-157.858015,
+    "iso:country":"US",
+    "sg:address":"1270 Queen Emma St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 7080",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "internet",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26QmgyFJfdZRajVAOjz8QY_21.310092_-157.858015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204084,
+    "wof:geomhash":"2329c1f2d209bb44ce3cbedce6b57506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857604365
+        }
+    ],
+    "wof:id":857604365,
+    "wof:lastmodified":1464204084,
+    "wof:name":"Hawaii Internet Emporium Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet",
+        "provider"
+    ]
+},
+  "bbox": [
+    -157.858015,
+    21.310092,
+    -157.858015,
+    21.310092
+],
+  "geometry": {"coordinates":[-157.85801499999999,21.310092],"type":"Point"}
+}

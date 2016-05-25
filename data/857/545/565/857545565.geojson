@@ -1,0 +1,77 @@
+{
+  "id": 857545565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895371,21.345155,-157.895371,21.345155",
+    "geom:latitude":21.345155,
+    "geom:longitude":-157.895371,
+    "iso:country":"US",
+    "sg:address":"2875 Paa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2242",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VHAoSoXDJVgH9ebDiEkjK_21.345155_-157.895371@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202849,
+    "wof:geomhash":"9ccd92737c93455782a823802f29bc65",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857545565
+        }
+    ],
+    "wof:id":857545565,
+    "wof:lastmodified":1464202849,
+    "wof:name":"Electricians Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.895371,
+    21.345155,
+    -157.895371,
+    21.345155
+],
+  "geometry": {"coordinates":[-157.89537100000001,21.345155],"type":"Point"}
+}

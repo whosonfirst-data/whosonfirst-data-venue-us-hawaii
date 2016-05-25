@@ -1,0 +1,77 @@
+{
+  "id": 857586661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88239,21.326537,-157.88239,21.326537",
+    "geom:latitude":21.326537,
+    "geom:longitude":-157.88239,
+    "iso:country":"US",
+    "sg:address":"1733 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5881",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "installation",
+        "heating",
+        "solar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ER0X9lDLiK1v9lvizxTnB_21.326537_-157.882390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203688,
+    "wof:geomhash":"6e0c82181618df3bf009c6031f8ac3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857586661
+        }
+    ],
+    "wof:id":857586661,
+    "wof:lastmodified":1464203688,
+    "wof:name":"GSI Solar LTD",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "installation",
+        "heating",
+        "solar"
+    ]
+},
+  "bbox": [
+    -157.88239,
+    21.326537,
+    -157.88239,
+    21.326537
+],
+  "geometry": {"coordinates":[-157.88238999999999,21.326537],"type":"Point"}
+}

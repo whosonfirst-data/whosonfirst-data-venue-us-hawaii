@@ -1,0 +1,73 @@
+{
+  "id": 857639631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.753272,21.41718,-157.753272,21.41718",
+    "geom:latitude":21.41718,
+    "geom:longitude":-157.753272,
+    "iso:country":"US",
+    "sg:address":"407 Iliwahi Loop",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 0222",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "res",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t5auwzxrq4XiooIziDtRR_21.417180_-157.753272@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205006,
+    "wof:geomhash":"08646d0613de1e60b09ba2a3e6bc49f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857639631
+        }
+    ],
+    "wof:id":857639631,
+    "wof:lastmodified":1464205006,
+    "wof:name":"Gold Coast Construction",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "res",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.753272,
+    21.41718,
+    -157.753272,
+    21.41718
+],
+  "geometry": {"coordinates":[-157.75327200000001,21.41718],"type":"Point"}
+}

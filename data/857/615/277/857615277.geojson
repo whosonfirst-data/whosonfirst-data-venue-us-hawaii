@@ -1,0 +1,75 @@
+{
+  "id": 857615277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.107309,19.743342,-155.107309,19.743342",
+    "geom:latitude":19.743342,
+    "geom:longitude":-155.107309,
+    "iso:country":"US",
+    "sg:address":"11 Aikane Rd",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 934 0751",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wholesaler",
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937399,
+        102085433,
+        85890235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_555LAblc4awKrQERFAl9il_19.743342_-155.107309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204327,
+    "wof:geomhash":"546a37df9444f541756e4cbfb61542fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937399,
+            "neighbourhood_id":85890235,
+            "region_id":85688671,
+            "venue_id":857615277
+        }
+    ],
+    "wof:id":857615277,
+    "wof:lastmodified":1464204327,
+    "wof:name":"Hawaii Enterprise Company",
+    "wof:parent_id":85890235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler",
+        "produce"
+    ]
+},
+  "bbox": [
+    -155.107309,
+    19.743342,
+    -155.107309,
+    19.743342
+],
+  "geometry": {"coordinates":[-155.10730899999999,19.743342],"type":"Point"}
+}

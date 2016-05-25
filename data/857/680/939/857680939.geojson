@@ -1,0 +1,72 @@
+{
+  "id": 857680939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.617185,21.022438,-156.617185,21.022438",
+    "geom:latitude":21.022438,
+    "geom:longitude":-156.617185,
+    "iso:country":"US",
+    "sg:address":"5900 Honoapiilani Hwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/3308-sea-house-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 1500",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890511,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_787ApBYQLe8hSwHz7TOfbc_21.022438_-156.617185@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206762,
+    "wof:geomhash":"dea6cbe7bc60af525a9c8aa1d30cbdbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890511,
+            "region_id":85688671,
+            "venue_id":857680939
+        }
+    ],
+    "wof:id":857680939,
+    "wof:lastmodified":1464206762,
+    "wof:name":"Sea House Restaurant",
+    "wof:parent_id":85890511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -156.617185,
+    21.022438,
+    -156.617185,
+    21.022438
+],
+  "geometry": {"coordinates":[-156.61718500000001,21.022438],"type":"Point"}
+}

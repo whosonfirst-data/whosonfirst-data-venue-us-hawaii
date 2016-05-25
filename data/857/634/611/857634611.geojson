@@ -1,0 +1,73 @@
+{
+  "id": 857634611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878288,21.329552,-157.878288,21.329552",
+    "geom:latitude":21.329552,
+    "geom:longitude":-157.878288,
+    "iso:country":"US",
+    "sg:address":"1812 Kahanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1567",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31fz0U31z2wqc1dT7QWBVW_21.329552_-157.878288@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204819,
+    "wof:geomhash":"2cdc48aa064b5225572b31367852a59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857634611
+        }
+    ],
+    "wof:id":857634611,
+    "wof:lastmodified":1464204819,
+    "wof:name":"Amj's Party Rental & Catering",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.878288,
+    21.329552,
+    -157.878288,
+    21.329552
+],
+  "geometry": {"coordinates":[-157.878288,21.329552],"type":"Point"}
+}

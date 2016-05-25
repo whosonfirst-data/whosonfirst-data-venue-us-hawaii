@@ -1,0 +1,73 @@
+{
+  "id": 857672099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851832,21.315286,-157.851832,21.315286",
+    "geom:latitude":21.315286,
+    "geom:longitude":-157.851832,
+    "iso:country":"US",
+    "sg:address":"1754 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4566",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "art",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m5ia2VqZ2jeJNyHyG98RW_21.315286_-157.851832@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206413,
+    "wof:geomhash":"312be3c42b2c7544a3216ac2ecd3f151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857672099
+        }
+    ],
+    "wof:id":857672099,
+    "wof:lastmodified":1464206413,
+    "wof:name":"Temari Center For Asian",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.851832,
+    21.315286,
+    -157.851832,
+    21.315286
+],
+  "geometry": {"coordinates":[-157.851832,21.315286],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857635205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.953259,21.337297,-157.953259,21.337297",
+    "geom:latitude":21.337297,
+    "geom:longitude":-157.953259,
+    "iso:country":"US",
+    "sg:address":"2388 Mercury St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 392 5853",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "youth"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03daOwbFh8jAdKxamg5tSy_21.337297_-157.953259@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204839,
+    "wof:geomhash":"e76a14c3f3899a19c66e2339950d5185",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857635205
+        }
+    ],
+    "wof:id":857635205,
+    "wof:lastmodified":1464204839,
+    "wof:name":"Guilding Eagles Inc",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth"
+    ]
+},
+  "bbox": [
+    -157.953259,
+    21.337297,
+    -157.953259,
+    21.337297
+],
+  "geometry": {"coordinates":[-157.953259,21.337297],"type":"Point"}
+}

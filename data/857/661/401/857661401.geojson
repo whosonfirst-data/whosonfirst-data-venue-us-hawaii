@@ -1,0 +1,75 @@
+{
+  "id": 857661401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823308,21.304852,-157.823308,21.304852",
+    "geom:latitude":21.304852,
+    "geom:longitude":-157.823308,
+    "iso:country":"US",
+    "sg:address":"2040 Lanihuli Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 0290",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "movie",
+        "rental",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17rq7pJzvl4fHZjDpLd8MK_21.304852_-157.823308@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205986,
+    "wof:geomhash":"89bd05d6692101501527cac50de9cc99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857661401
+        }
+    ],
+    "wof:id":857661401,
+    "wof:lastmodified":1464205986,
+    "wof:name":"On Cue Production Associates",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "movie",
+        "rental",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -157.823308,
+    21.304852,
+    -157.823308,
+    21.304852
+],
+  "geometry": {"coordinates":[-157.823308,21.304852],"type":"Point"}
+}

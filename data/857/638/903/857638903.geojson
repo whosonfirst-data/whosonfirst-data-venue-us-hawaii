@@ -1,0 +1,75 @@
+{
+  "id": 857638903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853942,21.2992,-157.853942,21.2992",
+    "geom:latitude":21.2992,
+    "geom:longitude":-157.853942,
+    "iso:country":"US",
+    "sg:address":"815 Waimanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8003",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "underground",
+        "trenching",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a8xyalmk1XdEWZ8zdpkyU_21.299200_-157.853942@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204979,
+    "wof:geomhash":"395f114f14ab75e18dc63e2411edc568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857638903
+        }
+    ],
+    "wof:id":857638903,
+    "wof:lastmodified":1464204979,
+    "wof:name":"RMY Construction",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "trenching",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.853942,
+    21.2992,
+    -157.853942,
+    21.2992
+],
+  "geometry": {"coordinates":[-157.85394199999999,21.2992],"type":"Point"}
+}

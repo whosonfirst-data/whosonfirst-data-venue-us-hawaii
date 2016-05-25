@@ -1,0 +1,71 @@
+{
+  "id": 857675053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862951,21.310464,-157.862951,21.310464",
+    "geom:latitude":21.310464,
+    "geom:longitude":-157.862951,
+    "iso:country":"US",
+    "sg:address":"33 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 0503",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TZAEY9yZNs8QPx7ibSQdr_21.310464_-157.862951@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206527,
+    "wof:geomhash":"ac6edf005f7c948ad74282dd1cb204a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857675053
+        }
+    ],
+    "wof:id":857675053,
+    "wof:lastmodified":1464206527,
+    "wof:name":"Raymond Mundo",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.862951,
+    21.310464,
+    -157.862951,
+    21.310464
+],
+  "geometry": {"coordinates":[-157.86295100000001,21.310464],"type":"Point"}
+}

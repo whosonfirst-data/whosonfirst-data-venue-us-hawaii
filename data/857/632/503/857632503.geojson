@@ -1,0 +1,73 @@
+{
+  "id": 857632503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813306,21.277097,-157.813306,21.277097",
+    "geom:latitude":21.277097,
+    "geom:longitude":-157.813306,
+    "iso:country":"US",
+    "sg:address":"3335 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0363",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PpGN0YbbAkYhGsCxRsn3r_21.277097_-157.813306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204733,
+    "wof:geomhash":"bdf47e0e0485f1597fb2941d5cae5056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857632503
+        }
+    ],
+    "wof:id":857632503,
+    "wof:lastmodified":1464204733,
+    "wof:name":"Sato Tours",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.813306,
+    21.277097,
+    -157.813306,
+    21.277097
+],
+  "geometry": {"coordinates":[-157.81330600000001,21.277097],"type":"Point"}
+}

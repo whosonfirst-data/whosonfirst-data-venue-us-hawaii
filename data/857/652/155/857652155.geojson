@@ -1,0 +1,75 @@
+{
+  "id": 857652155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.853923,19.926953,-155.853923,19.926953",
+    "geom:latitude":19.926953,
+    "geom:longitude":-155.853923,
+    "iso:country":"US",
+    "sg:address":"4550 Queen Kaahumanu Hwy",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 0350",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "helicopter",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937387,
+        102085433,
+        85890691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vJ6LwaX6akgucPSWhrCjT_19.926953_-155.853923@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205553,
+    "wof:geomhash":"ef77fd14c61ac86f5d5ed4399667a4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937387,
+            "neighbourhood_id":85890691,
+            "region_id":85688671,
+            "venue_id":857652155
+        }
+    ],
+    "wof:id":857652155,
+    "wof:lastmodified":1464205553,
+    "wof:name":"Rotor Wing Hawaii Inc",
+    "wof:parent_id":85890691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -155.853923,
+    19.926953,
+    -155.853923,
+    19.926953
+],
+  "geometry": {"coordinates":[-155.85392300000001,19.926953],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857646937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.333777,22.081599,-159.333777,22.081599",
+    "geom:latitude":22.081599,
+    "geom:longitude":-159.333777,
+    "iso:country":"US",
+    "sg:address":"4867 Olohena Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 4460",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dept",
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ubsuz4SW9BRc0fQMq2eOK_22.081599_-159.333777@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205335,
+    "wof:geomhash":"367c9e89bc809464a9ec15582c195546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857646937
+        }
+    ],
+    "wof:id":857646937,
+    "wof:lastmodified":1464205335,
+    "wof:name":"Kapaa Middle School",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept",
+        "education"
+    ]
+},
+  "bbox": [
+    -159.333777,
+    22.081599,
+    -159.333777,
+    22.081599
+],
+  "geometry": {"coordinates":[-159.333777,22.081599],"type":"Point"}
+}

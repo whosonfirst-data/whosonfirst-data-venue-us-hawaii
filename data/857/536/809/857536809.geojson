@@ -1,0 +1,69 @@
+{
+  "id": 857536809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.325021,22.091847,-159.325021,22.091847",
+    "geom:latitude":22.091847,
+    "geom:longitude":-159.325021,
+    "iso:country":"US",
+    "sg:address":"5145 Laipo Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 639 2400",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uu57sTJ8MQHDag0PDa5ci_22.091847_-159.325021@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202677,
+    "wof:geomhash":"09085159afc6e936921d4b476c53f967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857536809
+        }
+    ],
+    "wof:id":857536809,
+    "wof:lastmodified":1464202677,
+    "wof:name":"Lmr Construction",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -159.325021,
+    22.091847,
+    -159.325021,
+    22.091847
+],
+  "geometry": {"coordinates":[-159.32502099999999,22.091847],"type":"Point"}
+}

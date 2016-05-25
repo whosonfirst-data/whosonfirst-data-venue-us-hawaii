@@ -1,0 +1,71 @@
+{
+  "id": 857625321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972016,21.412057,-157.972016,21.412057",
+    "geom:latitude":21.412057,
+    "geom:longitude":-157.972016,
+    "iso:country":"US",
+    "sg:address":"1376 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 6133",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manufacture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15qgEcBsVfRS5NdMqCyF9f_21.412057_-157.972016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204567,
+    "wof:geomhash":"3300bed08ce3889a8a3f828253b14bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857625321
+        }
+    ],
+    "wof:id":857625321,
+    "wof:lastmodified":1464204567,
+    "wof:name":"Waihona Builders LTD",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture"
+    ]
+},
+  "bbox": [
+    -157.972016,
+    21.412057,
+    -157.972016,
+    21.412057
+],
+  "geometry": {"coordinates":[-157.972016,21.412057],"type":"Point"}
+}

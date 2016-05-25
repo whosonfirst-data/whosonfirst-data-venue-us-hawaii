@@ -1,0 +1,71 @@
+{
+  "id": 857606379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024151,21.396993,-158.024151,21.396993",
+    "geom:latitude":21.396993,
+    "geom:longitude":-158.024151,
+    "iso:country":"US",
+    "sg:address":"1067 Kaaholo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 547 9317",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937549,
+        102085417,
+        85890707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ykSw3Z48Ev2fnCT2H054_21.396993_-158.024151@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204122,
+    "wof:geomhash":"bbd57c9c084bf8d90fd69e1bf5fb9cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937549,
+            "neighbourhood_id":85890707,
+            "region_id":85688671,
+            "venue_id":857606379
+        }
+    ],
+    "wof:id":857606379,
+    "wof:lastmodified":1464204122,
+    "wof:name":"Kaunakakai Hopital",
+    "wof:parent_id":85890707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.024151,
+    21.396993,
+    -158.024151,
+    21.396993
+],
+  "geometry": {"coordinates":[-158.02415099999999,21.396993],"type":"Point"}
+}

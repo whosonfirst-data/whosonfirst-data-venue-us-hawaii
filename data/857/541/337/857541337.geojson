@@ -1,0 +1,67 @@
+{
+  "id": 857541337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856107,21.337658,-157.856107,21.337658",
+    "geom:latitude":21.337658,
+    "geom:longitude":-157.856107,
+    "iso:country":"US",
+    "sg:address":"2125 Alii Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 8446",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:website":"www.ksbe.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oid7Ryxb1HGwfJbRjnaAf_21.337658_-157.856107@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202763,
+    "wof:geomhash":"24883f4c9693040365c68d217fa16fcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857541337
+        }
+    ],
+    "wof:id":857541337,
+    "wof:lastmodified":1464202763,
+    "wof:name":"Kamehameha Middle School",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.856107,
+    21.337658,
+    -157.856107,
+    21.337658
+],
+  "geometry": {"coordinates":[-157.85610700000001,21.337658],"type":"Point"}
+}

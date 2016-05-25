@@ -1,0 +1,71 @@
+{
+  "id": 857593997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102961,21.592018,-158.102961,21.592018",
+    "geom:latitude":21.592018,
+    "geom:longitude":-158.102961,
+    "iso:country":"US",
+    "sg:address":"54 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 9988",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A0yriLAsWnMcKVCW1qIiH_21.592018_-158.102961@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203849,
+    "wof:geomhash":"66e9f13387119e759f0bbc08da3af715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857593997
+        }
+    ],
+    "wof:id":857593997,
+    "wof:lastmodified":1464203849,
+    "wof:name":"Island Cedar Source",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -158.102961,
+    21.592018,
+    -158.102961,
+    21.592018
+],
+  "geometry": {"coordinates":[-158.10296099999999,21.592018],"type":"Point"}
+}

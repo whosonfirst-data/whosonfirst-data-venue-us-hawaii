@@ -1,0 +1,69 @@
+{
+  "id": 857679863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.009725,21.438517,-158.009725,21.438517",
+    "geom:latitude":21.438517,
+    "geom:longitude":-158.009725,
+    "iso:country":"US",
+    "sg:address":"352 Welehu St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 2732",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d8uHg3nNG6L1hu6py6mpy_21.438517_-158.009725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206724,
+    "wof:geomhash":"d73a1d2f50c0624228719cd99ee914d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857679863
+        }
+    ],
+    "wof:id":857679863,
+    "wof:lastmodified":1464206724,
+    "wof:name":"Phil-AM Contractors",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -158.009725,
+    21.438517,
+    -158.009725,
+    21.438517
+],
+  "geometry": {"coordinates":[-158.009725,21.438517],"type":"Point"}
+}

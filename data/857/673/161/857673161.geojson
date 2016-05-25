@@ -1,0 +1,71 @@
+{
+  "id": 857673161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856131,21.297362,-157.856131,21.297362",
+    "geom:latitude":21.297362,
+    "geom:longitude":-157.856131,
+    "iso:country":"US",
+    "sg:address":"306 Kamani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 592 5200",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y4CuoF7dSGEeqQR5eVfKR_21.297362_-157.856131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206457,
+    "wof:geomhash":"8c1db00299997af17feca046500c49c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857673161
+        }
+    ],
+    "wof:id":857673161,
+    "wof:lastmodified":1464206457,
+    "wof:name":"Dream Cruises",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -157.856131,
+    21.297362,
+    -157.856131,
+    21.297362
+],
+  "geometry": {"coordinates":[-157.856131,21.297362],"type":"Point"}
+}

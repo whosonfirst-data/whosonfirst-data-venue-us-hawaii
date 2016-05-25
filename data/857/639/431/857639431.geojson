@@ -1,0 +1,71 @@
+{
+  "id": 857639431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81509,21.269806,-157.81509,21.269806",
+    "geom:latitude":21.269806,
+    "geom:longitude":-157.81509,
+    "iso:country":"US",
+    "sg:address":"3626 Leahi Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 5229",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e2JhWvyE65yam08OT3NsJ_21.269806_-157.815090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204999,
+    "wof:geomhash":"725b2621727fe03f27f11edef03c1b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857639431
+        }
+    ],
+    "wof:id":857639431,
+    "wof:lastmodified":1464204999,
+    "wof:name":"Design Works",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.81509,
+    21.269806,
+    -157.81509,
+    21.269806
+],
+  "geometry": {"coordinates":[-157.81509,21.269806],"type":"Point"}
+}

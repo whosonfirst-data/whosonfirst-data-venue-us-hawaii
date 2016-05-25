@@ -1,0 +1,71 @@
+{
+  "id": 857548279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.593729,20.034291,-155.593729,20.034291",
+    "geom:latitude":20.034291,
+    "geom:longitude":-155.593729,
+    "iso:country":"US",
+    "sg:address":"839 Uikeoni St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 2052",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YYuVKfVqKUhcpfp4WLneQ_20.034291_-155.593729@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202899,
+    "wof:geomhash":"4a7f7fec2e2b6b9efdf6e4bdfd884237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857548279
+        }
+    ],
+    "wof:id":857548279,
+    "wof:lastmodified":1464202899,
+    "wof:name":"Plumbing Services Hawaii",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.593729,
+    20.034291,
+    -155.593729,
+    20.034291
+],
+  "geometry": {"coordinates":[-155.593729,20.034291],"type":"Point"}
+}

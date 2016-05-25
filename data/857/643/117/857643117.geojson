@@ -1,0 +1,82 @@
+{
+  "id": 857643117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.000152,21.38328,-158.000152,21.38328",
+    "geom:latitude":21.38328,
+    "geom:longitude":-158.000152,
+    "iso:country":"US",
+    "sg:address":"140 Awamoku St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 9893",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "porcelain",
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mk6o6GDDbEWyMi2dhFp3g_21.383280_-158.000152@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205150,
+    "wof:geomhash":"a91713d4d5a2b8ddaf5faa9cb0de7e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857643117
+        }
+    ],
+    "wof:id":857643117,
+    "wof:lastmodified":1464205150,
+    "wof:name":"Porcelain Contract Refinishers",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "porcelain",
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -158.000152,
+    21.38328,
+    -158.000152,
+    21.38328
+],
+  "geometry": {"coordinates":[-158.00015200000001,21.38328],"type":"Point"}
+}

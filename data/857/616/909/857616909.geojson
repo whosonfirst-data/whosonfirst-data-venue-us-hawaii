@@ -1,0 +1,71 @@
+{
+  "id": 857616909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818753,21.27415,-157.818753,21.27415",
+    "geom:latitude":21.27415,
+    "geom:longitude":-157.818753,
+    "iso:country":"US",
+    "sg:address":"308 Ainakea Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 0161",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkWNCb1mwpGqStI4AnADo_21.274150_-157.818753@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204356,
+    "wof:geomhash":"042457c94a9231974ad9a05ae7c1580d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857616909
+        }
+    ],
+    "wof:id":857616909,
+    "wof:lastmodified":1464204356,
+    "wof:name":"Rainbow Honolulu",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.818753,
+    21.27415,
+    -157.818753,
+    21.27415
+],
+  "geometry": {"coordinates":[-157.81875299999999,21.27415],"type":"Point"}
+}

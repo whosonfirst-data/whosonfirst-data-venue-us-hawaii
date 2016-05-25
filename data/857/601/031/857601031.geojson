@@ -1,0 +1,71 @@
+{
+  "id": 857601031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.006379,21.390681,-158.006379,21.390681",
+    "geom:latitude":21.390681,
+    "geom:longitude":-158.006379,
+    "iso:country":"US",
+    "sg:address":"1050 Paiwa Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 1875",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wHOzwqmbJV6ioE49qAHrV_21.390681_-158.006379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204009,
+    "wof:geomhash":"19e1889fd93491f25a3f6934aa0982d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857601031
+        }
+    ],
+    "wof:id":857601031,
+    "wof:lastmodified":1464204009,
+    "wof:name":"Perfecto Engineering & Constr",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.006379,
+    21.390681,
+    -158.006379,
+    21.390681
+],
+  "geometry": {"coordinates":[-158.00637900000001,21.390681],"type":"Point"}
+}

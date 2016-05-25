@@ -1,0 +1,71 @@
+{
+  "id": 857667163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.725449,21.29887,-157.725449,21.29887",
+    "geom:latitude":21.29887,
+    "geom:longitude":-157.725449,
+    "iso:country":"US",
+    "sg:address":"138 Kaeleloi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 7070",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05utepjzdqZeaCjKgDXomb_21.298870_-157.725449@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206230,
+    "wof:geomhash":"57dc914244d15365010d2a8ee77ebafe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857667163
+        }
+    ],
+    "wof:id":857667163,
+    "wof:lastmodified":1464206230,
+    "wof:name":"Hawaii Real Estate Inspection",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -157.725449,
+    21.29887,
+    -157.725449,
+    21.29887
+],
+  "geometry": {"coordinates":[-157.725449,21.29887],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857565991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825812,21.276177,-157.825812,21.276177",
+    "geom:latitude":21.276177,
+    "geom:longitude":-157.825812,
+    "iso:country":"US",
+    "sg:address":"2405 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 9737",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BZH970gUcILDslTgxecCU_21.276177_-157.825812@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203272,
+    "wof:geomhash":"2d30a4fcaa3a4b35a8328d028b59cb19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857565991
+        }
+    ],
+    "wof:id":857565991,
+    "wof:lastmodified":1464203272,
+    "wof:name":"Securitas Security Svc USA Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -157.825812,
+    21.276177,
+    -157.825812,
+    21.276177
+],
+  "geometry": {"coordinates":[-157.82581200000001,21.276177],"type":"Point"}
+}

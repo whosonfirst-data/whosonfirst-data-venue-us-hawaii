@@ -1,0 +1,71 @@
+{
+  "id": 857623237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850648,21.295381,-157.850648,21.295381",
+    "geom:latitude":21.295381,
+    "geom:longitude":-157.850648,
+    "iso:country":"US",
+    "sg:address":"401 Kamakee St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 1856",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VBLQK7On9yKwHKqizEO2w_21.295381_-157.850648@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204512,
+    "wof:geomhash":"8e50eb96afc342ff57f1b65edf7b1045",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857623237
+        }
+    ],
+    "wof:id":857623237,
+    "wof:lastmodified":1464204512,
+    "wof:name":"Emlab",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.850648,
+    21.295381,
+    -157.850648,
+    21.295381
+],
+  "geometry": {"coordinates":[-157.85064800000001,21.295381],"type":"Point"}
+}

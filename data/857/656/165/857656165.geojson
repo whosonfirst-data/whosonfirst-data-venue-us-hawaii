@@ -1,0 +1,66 @@
+{
+  "id": 857656165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831236,21.279997,-157.831236,21.279997",
+    "geom:latitude":21.279997,
+    "geom:longitude":-157.831236,
+    "iso:country":"US",
+    "sg:address":"255 Beach Walk",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 2770",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40KZhHnM1TvLCsbrAzKYZx_21.279997_-157.831236@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205732,
+    "wof:geomhash":"ba5a4878c48978445eef03de373daef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857656165
+        }
+    ],
+    "wof:id":857656165,
+    "wof:lastmodified":1464205732,
+    "wof:name":"ABC Discount Store",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.831236,
+    21.279997,
+    -157.831236,
+    21.279997
+],
+  "geometry": {"coordinates":[-157.83123599999999,21.279997],"type":"Point"}
+}

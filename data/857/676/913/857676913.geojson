@@ -1,0 +1,71 @@
+{
+  "id": 857676913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.037645,21.492874,-158.037645,21.492874",
+    "geom:latitude":21.492874,
+    "geom:longitude":-158.037645,
+    "iso:country":"US",
+    "sg:address":"108 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 3933",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19G50sXQ22ZhleEpauSp1h_21.492874_-158.037645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206611,
+    "wof:geomhash":"89a51005da97e23504cdc35fadbc24e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857676913
+        }
+    ],
+    "wof:id":857676913,
+    "wof:lastmodified":1464206611,
+    "wof:name":"Rainbow School Wahiawa",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -158.037645,
+    21.492874,
+    -158.037645,
+    21.492874
+],
+  "geometry": {"coordinates":[-158.037645,21.492874],"type":"Point"}
+}

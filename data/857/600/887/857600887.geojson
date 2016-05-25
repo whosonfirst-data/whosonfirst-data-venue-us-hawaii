@@ -1,0 +1,75 @@
+{
+  "id": 857600887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802205,21.274179,-157.802205,21.274179",
+    "geom:latitude":21.274179,
+    "geom:longitude":-157.802205,
+    "iso:country":"US",
+    "sg:address":"3652 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 9017",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "agency",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hDqByOsbCCfG7Jxs03WcX_21.274179_-157.802205@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204005,
+    "wof:geomhash":"e694cac1fe0b6fb2d44f44809e5cd983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857600887
+        }
+    ],
+    "wof:id":857600887,
+    "wof:lastmodified":1464204005,
+    "wof:name":"Family Health Services",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "agency",
+        "health"
+    ]
+},
+  "bbox": [
+    -157.802205,
+    21.274179,
+    -157.802205,
+    21.274179
+],
+  "geometry": {"coordinates":[-157.80220499999999,21.274179],"type":"Point"}
+}

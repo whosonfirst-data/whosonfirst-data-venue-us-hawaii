@@ -1,0 +1,71 @@
+{
+  "id": 857585875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.166122,21.397684,-158.166122,21.397684",
+    "geom:latitude":21.397684,
+    "geom:longitude":-158.166122,
+    "iso:country":"US",
+    "sg:address":"1340 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 2344",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gZFWpGAvd4lZ9rZf2JKQN_21.397684_-158.166122@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203668,
+    "wof:geomhash":"ec2a0b6d5f31335de7af954f02a7e2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857585875
+        }
+    ],
+    "wof:id":857585875,
+    "wof:lastmodified":1464203668,
+    "wof:name":"Sled Shop",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -158.166122,
+    21.397684,
+    -158.166122,
+    21.397684
+],
+  "geometry": {"coordinates":[-158.166122,21.397684],"type":"Point"}
+}

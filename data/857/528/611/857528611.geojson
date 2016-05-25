@@ -1,0 +1,71 @@
+{
+  "id": 857528611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852765,21.298937,-157.852765,21.298937",
+    "geom:latitude":21.298937,
+    "geom:longitude":-157.852765,
+    "iso:country":"US",
+    "sg:address":"610 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0746",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PfP2p2woH2pC3EpKev0mf_21.298937_-157.852765@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202517,
+    "wof:geomhash":"7998c3962e04820bff5a2c5d912718bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857528611
+        }
+    ],
+    "wof:id":857528611,
+    "wof:lastmodified":1464202517,
+    "wof:name":"Ward Ave Store",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -157.852765,
+    21.298937,
+    -157.852765,
+    21.298937
+],
+  "geometry": {"coordinates":[-157.85276500000001,21.298937],"type":"Point"}
+}

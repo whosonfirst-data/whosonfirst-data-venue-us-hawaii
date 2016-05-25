@@ -1,0 +1,66 @@
+{
+  "id": 857638513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824361,21.277307,-157.824361,21.277307",
+    "geom:latitude":21.277307,
+    "geom:longitude":-157.824361,
+    "iso:country":"US",
+    "sg:address":"159 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 7518",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ASPiL9pZpeemFwTQyLj90_21.277307_-157.824361@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204960,
+    "wof:geomhash":"8c9839c1930b2a5f66b6e379aad51170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857638513
+        }
+    ],
+    "wof:id":857638513,
+    "wof:lastmodified":1464204960,
+    "wof:name":"Hill-Mart",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.824361,
+    21.277307,
+    -157.824361,
+    21.277307
+],
+  "geometry": {"coordinates":[-157.82436100000001,21.277307],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857520665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.685408,20.904272,-156.685408,20.904272",
+    "geom:latitude":20.904272,
+    "geom:longitude":-156.685408,
+    "iso:country":"US",
+    "sg:address":"1870 Honoapiilani Hwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0970",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937683,
+        102085577,
+        85890539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tMvv5BIQuXYYck1fVEhX9_20.904272_-156.685408@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202365,
+    "wof:geomhash":"e7fd9b56ba6b772ccad393f0c7a9f54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937683,
+            "neighbourhood_id":85890539,
+            "region_id":85688671,
+            "venue_id":857520665
+        }
+    ],
+    "wof:id":857520665,
+    "wof:lastmodified":1464202365,
+    "wof:name":"District Court",
+    "wof:parent_id":85890539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -156.685408,
+    20.904272,
+    -156.685408,
+    20.904272
+],
+  "geometry": {"coordinates":[-156.685408,20.904272],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857602393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.849116,21.317702,-157.849116,21.317702",
+    "geom:latitude":21.317702,
+    "geom:longitude":-157.849116,
+    "iso:country":"US",
+    "sg:address":"1888 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 7767",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J4kQLp4LVBW5D4wSZBhq5_21.317702_-157.849116@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204037,
+    "wof:geomhash":"b4c365e64ff88354a09cdfe90ea75fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857602393
+        }
+    ],
+    "wof:id":857602393,
+    "wof:lastmodified":1464204037,
+    "wof:name":"Government of Marshall Island",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.849116,
+    21.317702,
+    -157.849116,
+    21.317702
+],
+  "geometry": {"coordinates":[-157.84911600000001,21.317702],"type":"Point"}
+}

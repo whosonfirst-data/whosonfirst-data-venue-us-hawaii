@@ -1,0 +1,71 @@
+{
+  "id": 857552785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932222,21.351332,-157.932222,21.351332",
+    "geom:latitude":21.351332,
+    "geom:longitude":-157.932222,
+    "iso:country":"US",
+    "sg:address":"151 Bougainville Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 5222",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Du6eSbaeUfFWOaiILrp20_21.351332_-157.932222@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202985,
+    "wof:geomhash":"bc8887c21331e40e047f3b0678a96779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857552785
+        }
+    ],
+    "wof:id":857552785,
+    "wof:lastmodified":1464202985,
+    "wof:name":"Bougainville Child Development",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.932222,
+    21.351332,
+    -157.932222,
+    21.351332
+],
+  "geometry": {"coordinates":[-157.932222,21.351332],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857660705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.753317,21.287796,-157.753317,21.287796",
+    "geom:latitude":21.287796,
+    "geom:longitude":-157.753317,
+    "iso:country":"US",
+    "sg:address":"709 Ailuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 0842",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VEsEwghRZsBh0JLDUQ532_21.287796_-157.753317@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205940,
+    "wof:geomhash":"c9dc1d11bedc58044be2437574064b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857660705
+        }
+    ],
+    "wof:id":857660705,
+    "wof:lastmodified":1464205940,
+    "wof:name":"Ricky Boy Builder Inc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.753317,
+    21.287796,
+    -157.753317,
+    21.287796
+],
+  "geometry": {"coordinates":[-157.75331700000001,21.287796],"type":"Point"}
+}

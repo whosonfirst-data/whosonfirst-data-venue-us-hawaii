@@ -1,0 +1,82 @@
+{
+  "id": 857585649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81415,21.280378,-157.81415,21.280378",
+    "geom:latitude":21.280378,
+    "geom:longitude":-157.81415,
+    "iso:country":"US",
+    "sg:address":"702 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 7944",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "sport",
+        "snorkeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d6FaZ3zx1JCv3nxcnYgkE_21.280378_-157.814150@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203664,
+    "wof:geomhash":"3b3e3ff6bd98a284636936158a7c7488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857585649
+        }
+    ],
+    "wof:id":857585649,
+    "wof:lastmodified":1464203664,
+    "wof:name":"Snorkel Bob's",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "sport",
+        "snorkeling"
+    ]
+},
+  "bbox": [
+    -157.81415,
+    21.280378,
+    -157.81415,
+    21.280378
+],
+  "geometry": {"coordinates":[-157.81415000000001,21.280378],"type":"Point"}
+}

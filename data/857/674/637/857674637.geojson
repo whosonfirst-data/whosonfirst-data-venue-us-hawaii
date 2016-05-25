@@ -1,0 +1,71 @@
+{
+  "id": 857674637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862009,21.314067,-157.862009,21.314067",
+    "geom:latitude":21.314067,
+    "geom:longitude":-157.862009,
+    "iso:country":"US",
+    "sg:address":"1155 River St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 1621",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cFY1AL9b7ynYGLvGxX7t7_21.314067_-157.862009@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206510,
+    "wof:geomhash":"b3f4dcf2f0637884a4f34d379bc61c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857674637
+        }
+    ],
+    "wof:id":857674637,
+    "wof:lastmodified":1464206510,
+    "wof:name":"River Pauahi Apartments",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.862009,
+    21.314067,
+    -157.862009,
+    21.314067
+],
+  "geometry": {"coordinates":[-157.862009,21.314067],"type":"Point"}
+}

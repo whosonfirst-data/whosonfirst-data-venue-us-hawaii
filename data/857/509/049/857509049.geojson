@@ -1,0 +1,73 @@
+{
+  "id": 857509049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.960777,21.40243,-157.960777,21.40243",
+    "geom:latitude":21.40243,
+    "geom:longitude":-157.960777,
+    "iso:country":"US",
+    "sg:address":"777 Hooluu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 1705",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IMKomuckkVSM9GGYdF8Wv_21.402430_-157.960777@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202125,
+    "wof:geomhash":"33dde6795490afecc48f06cf186d47dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857509049
+        }
+    ],
+    "wof:id":857509049,
+    "wof:lastmodified":1464202125,
+    "wof:name":"Akimoto Painting Co",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.960777,
+    21.40243,
+    -157.960777,
+    21.40243
+],
+  "geometry": {"coordinates":[-157.96077700000001,21.40243],"type":"Point"}
+}

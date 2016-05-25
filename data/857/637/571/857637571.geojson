@@ -1,0 +1,75 @@
+{
+  "id": 857637571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801094,21.279636,-157.801094,21.279636",
+    "geom:latitude":21.279636,
+    "geom:longitude":-157.801094,
+    "iso:country":"US",
+    "sg:address":"3555 Pahoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 479 3348",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KhR08cWejWspCV6WpJOka_21.279636_-157.801094@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204925,
+    "wof:geomhash":"3a5012814ef19bd65c35c55c09f7b270",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857637571
+        }
+    ],
+    "wof:id":857637571,
+    "wof:lastmodified":1464204925,
+    "wof:name":"Glass Works",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -157.801094,
+    21.279636,
+    -157.801094,
+    21.279636
+],
+  "geometry": {"coordinates":[-157.80109400000001,21.279636],"type":"Point"}
+}

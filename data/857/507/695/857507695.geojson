@@ -1,0 +1,71 @@
+{
+  "id": 857507695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821755,21.291969,-157.821755,21.291969",
+    "geom:latitude":21.291969,
+    "geom:longitude":-157.821755,
+    "iso:country":"US",
+    "sg:address":"2716 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 951 1173",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54xNFKp5BceYne5fTEvKWK_21.291969_-157.821755@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202099,
+    "wof:geomhash":"167996ef118e1a04ff1287300946bb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857507695
+        }
+    ],
+    "wof:id":857507695,
+    "wof:lastmodified":1464202099,
+    "wof:name":"Surf Garage",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -157.821755,
+    21.291969,
+    -157.821755,
+    21.291969
+],
+  "geometry": {"coordinates":[-157.821755,21.291969],"type":"Point"}
+}

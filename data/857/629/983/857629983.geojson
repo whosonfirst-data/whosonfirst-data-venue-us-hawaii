@@ -1,0 +1,71 @@
+{
+  "id": 857629983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844405,21.300903,-157.844405,21.300903",
+    "geom:latitude":21.300903,
+    "geom:longitude":-157.844405,
+    "iso:country":"US",
+    "sg:address":"1109 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 592 0863",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l3wehSvE9pWTljB08Sktj_21.300903_-157.844405@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204659,
+    "wof:geomhash":"c1951ca1ff0d666d6e89fcf73a39bb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857629983
+        }
+    ],
+    "wof:id":857629983,
+    "wof:lastmodified":1464204659,
+    "wof:name":"Clinical Laboratories LLP",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.844405,
+    21.300903,
+    -157.844405,
+    21.300903
+],
+  "geometry": {"coordinates":[-157.84440499999999,21.300903],"type":"Point"}
+}

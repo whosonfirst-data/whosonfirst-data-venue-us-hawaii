@@ -1,0 +1,74 @@
+{
+  "id": 857681849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830095,21.280684,-157.830095,21.280684",
+    "geom:latitude":21.280684,
+    "geom:longitude":-157.830095,
+    "iso:country":"US",
+    "sg:address":"2155 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/234344-planet-hollywood/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 7877",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27vyRFWNYDmVbFMBw46Z72_21.280340_-157.830014@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206809,
+    "wof:geomhash":"be5476558ba73db180d65ec9796037e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681849
+        }
+    ],
+    "wof:id":857681849,
+    "wof:lastmodified":1464206809,
+    "wof:name":"Planet Hollywood",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.830095,
+    21.280684,
+    -157.830095,
+    21.280684
+],
+  "geometry": {"coordinates":[-157.830095,21.280684],"type":"Point"}
+}

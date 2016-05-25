@@ -1,0 +1,71 @@
+{
+  "id": 857650289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811948,21.278337,-157.811948,21.278337",
+    "geom:latitude":21.278337,
+    "geom:longitude":-157.811948,
+    "iso:country":"US",
+    "sg:address":"3218 Martha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 5667",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yRlfF6QkrnDjNkYXwNCNb_21.278337_-157.811948@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205470,
+    "wof:geomhash":"10271e3a5f6756e266c92590130b0048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857650289
+        }
+    ],
+    "wof:id":857650289,
+    "wof:lastmodified":1464205470,
+    "wof:name":"Zpress",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.811948,
+    21.278337,
+    -157.811948,
+    21.278337
+],
+  "geometry": {"coordinates":[-157.811948,21.278337],"type":"Point"}
+}

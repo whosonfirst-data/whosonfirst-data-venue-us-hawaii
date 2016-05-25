@@ -1,0 +1,76 @@
+{
+  "id": 857583121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.462506,20.076706,-155.462506,20.076706",
+    "geom:latitude":20.076706,
+    "geom:longitude":-155.462506,
+    "iso:country":"US",
+    "sg:address":"3321 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 7226",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fk4H3cav77INP6wWFKU5B_20.076706_-155.462506@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203610,
+    "wof:geomhash":"49f8fb4db030607986bd252edd0d5652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857583121
+        }
+    ],
+    "wof:id":857583121,
+    "wof:lastmodified":1464203610,
+    "wof:name":"Nutrient Niche Inc",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -155.462506,
+    20.076706,
+    -155.462506,
+    20.076706
+],
+  "geometry": {"coordinates":[-155.46250599999999,20.076706],"type":"Point"}
+}

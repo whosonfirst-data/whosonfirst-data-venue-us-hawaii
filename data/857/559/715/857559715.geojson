@@ -1,0 +1,71 @@
+{
+  "id": 857559715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836813,21.301854,-157.836813,21.301854",
+    "geom:latitude":21.301854,
+    "geom:longitude":-157.836813,
+    "iso:country":"US",
+    "sg:address":"1403 Makiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 3731",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d39rZrFDYbBExyENIM8pp_21.301854_-157.836813@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203143,
+    "wof:geomhash":"280730e375b0bb59952c401f5bff757e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857559715
+        }
+    ],
+    "wof:id":857559715,
+    "wof:lastmodified":1464203143,
+    "wof:name":"Maile Terrace AOAO",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.836813,
+    21.301854,
+    -157.836813,
+    21.301854
+],
+  "geometry": {"coordinates":[-157.83681300000001,21.301854],"type":"Point"}
+}

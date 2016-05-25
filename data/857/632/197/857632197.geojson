@@ -1,0 +1,72 @@
+{
+  "id": 857632197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745638,21.289589,-157.745638,21.289589",
+    "geom:latitude":21.289589,
+    "geom:longitude":-157.745638,
+    "iso:country":"US",
+    "sg:address":"669 Puuikena Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 5173",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:website":"www.hawaiiloaridge.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDbsc6cwE7KjqkCKTyPVA_21.289589_-157.745638@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204720,
+    "wof:geomhash":"61ca1107151e3cdeca327df5f27fac2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857632197
+        }
+    ],
+    "wof:id":857632197,
+    "wof:lastmodified":1464204720,
+    "wof:name":"Hawaii Loa Ridge Owners Assoc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.745638,
+    21.289589,
+    -157.745638,
+    21.289589
+],
+  "geometry": {"coordinates":[-157.74563800000001,21.289589],"type":"Point"}
+}

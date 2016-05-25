@@ -1,0 +1,87 @@
+{
+  "id": 857640743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900826,21.33262,-157.900826,21.33262",
+    "geom:latitude":21.33262,
+    "geom:longitude":-157.900826,
+    "iso:country":"US",
+    "sg:address":"2770 Waiwai Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1745",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GIilkgMJZQH3Sd7JSupzQ_21.332620_-157.900826@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205053,
+    "wof:geomhash":"ce866a37bb7cb6b0e4cc2c60b5bfebf2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857640743
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857640743
+        }
+    ],
+    "wof:id":857640743,
+    "wof:lastmodified":1464205053,
+    "wof:name":"Steve's Used Cars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.900826,
+    21.33262,
+    -157.900826,
+    21.33262
+],
+  "geometry": {"coordinates":[-157.900826,21.33262],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857653055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.940651,21.385913,-157.940651,21.385913",
+    "geom:latitude":21.385913,
+    "geom:longitude":-157.940651,
+    "iso:country":"US",
+    "sg:address":"1042 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 8886",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_627M3NJ6QktovWbxerm5Er_21.385913_-157.940651@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205590,
+    "wof:geomhash":"4a5f9c7e38254d0be6e7e45bc407bc94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857653055
+        }
+    ],
+    "wof:id":857653055,
+    "wof:lastmodified":1464205590,
+    "wof:name":"World Journal Chinese News",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -157.940651,
+    21.385913,
+    -157.940651,
+    21.385913
+],
+  "geometry": {"coordinates":[-157.940651,21.385913],"type":"Point"}
+}

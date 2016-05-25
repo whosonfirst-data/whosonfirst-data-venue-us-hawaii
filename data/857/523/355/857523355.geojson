@@ -1,0 +1,73 @@
+{
+  "id": 857523355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.965418,19.607691,-155.965418,19.607691",
+    "geom:latitude":19.607691,
+    "geom:longitude":-155.965418,
+    "iso:country":"US",
+    "sg:address":"225 Kunihi St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 326 2474",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bTTLn3j8SuofGWpRIJRKA_19.607691_-155.965418@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202419,
+    "wof:geomhash":"6c39a4d0a5a35f3f01aeec139547dcfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890345,
+            "region_id":85688671,
+            "venue_id":857523355
+        }
+    ],
+    "wof:id":857523355,
+    "wof:lastmodified":1464202419,
+    "wof:name":"Kona Pipeline Inc",
+    "wof:parent_id":85890345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.965418,
+    19.607691,
+    -155.965418,
+    19.607691
+],
+  "geometry": {"coordinates":[-155.965418,19.607691],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857635841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843742,21.289731,-157.843742,21.289731",
+    "geom:latitude":21.289731,
+    "geom:longitude":-157.843742,
+    "iso:country":"US",
+    "sg:address":"1350 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8927",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K10G3KZ0Ec8GzwNEsqQ16_21.289731_-157.843742@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204863,
+    "wof:geomhash":"efd5523716b576b166f6f71f0342005e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857635841
+        }
+    ],
+    "wof:id":857635841,
+    "wof:lastmodified":1464204863,
+    "wof:name":"1350 Ala Moana",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.843742,
+    21.289731,
+    -157.843742,
+    21.289731
+],
+  "geometry": {"coordinates":[-157.84374199999999,21.289731],"type":"Point"}
+}

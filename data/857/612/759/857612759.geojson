@@ -1,0 +1,76 @@
+{
+  "id": 857612759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855131,21.297573,-157.855131,21.297573",
+    "geom:latitude":21.297573,
+    "geom:longitude":-157.855131,
+    "iso:country":"US",
+    "sg:address":"918 Ilaniwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2882",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ARuDZjtKImR2F79RgHBCg_21.297573_-157.855131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204277,
+    "wof:geomhash":"0f88c6c6ba9f2ab3007cadfd899def63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857612759
+        }
+    ],
+    "wof:id":857612759,
+    "wof:lastmodified":1464204277,
+    "wof:name":"Hawaii Import Parts Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.855131,
+    21.297573,
+    -157.855131,
+    21.297573
+],
+  "geometry": {"coordinates":[-157.855131,21.297573],"type":"Point"}
+}

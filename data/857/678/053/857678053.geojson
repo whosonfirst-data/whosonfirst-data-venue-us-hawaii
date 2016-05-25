@@ -1,0 +1,71 @@
+{
+  "id": 857678053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865911,21.331698,-157.865911,21.331698",
+    "geom:latitude":21.331698,
+    "geom:longitude":-157.865911,
+    "iso:country":"US",
+    "sg:address":"1340 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGaDBKe7dBPq57bdYUbrI_21.331698_-157.865911@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206657,
+    "wof:geomhash":"8f98708c27fb478f2592d2b84fb639a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857678053
+        }
+    ],
+    "wof:id":857678053,
+    "wof:lastmodified":1464206657,
+    "wof:name":"Burt's Union Svc",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.865911,
+    21.331698,
+    -157.865911,
+    21.331698
+],
+  "geometry": {"coordinates":[-157.86591100000001,21.331698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857630935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855387,21.328391,-157.855387,21.328391",
+    "geom:latitude":21.328391,
+    "geom:longitude":-157.855387,
+    "iso:country":"US",
+    "sg:address":"622 N Judd St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4701",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gZNFX91cnUwjnlLW6rykZ_21.328391_-157.855387@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204685,
+    "wof:geomhash":"1ea525e4d3a36d30041732276a835451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857630935
+        }
+    ],
+    "wof:id":857630935,
+    "wof:lastmodified":1464204685,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.855387,
+    21.328391,
+    -157.855387,
+    21.328391
+],
+  "geometry": {"coordinates":[-157.85538700000001,21.328391],"type":"Point"}
+}

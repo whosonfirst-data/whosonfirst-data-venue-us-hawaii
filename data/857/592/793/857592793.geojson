@@ -1,0 +1,71 @@
+{
+  "id": 857592793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.01588,21.458431,-158.01588,21.458431",
+    "geom:latitude":21.458431,
+    "geom:longitude":-158.01588,
+    "iso:country":"US",
+    "sg:address":"221 Kipapa Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 627 9799",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zj2TUgNg6Yt96fRXnKymP_21.458431_-158.015880@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203823,
+    "wof:geomhash":"d6a5ae9b3e750bc739761112f205cc3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857592793
+        }
+    ],
+    "wof:id":857592793,
+    "wof:lastmodified":1464203823,
+    "wof:name":"Nail Tek",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -158.01588,
+    21.458431,
+    -158.01588,
+    21.458431
+],
+  "geometry": {"coordinates":[-158.01588000000001,21.458431],"type":"Point"}
+}

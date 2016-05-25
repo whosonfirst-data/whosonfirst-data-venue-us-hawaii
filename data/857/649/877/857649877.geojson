@@ -1,0 +1,71 @@
+{
+  "id": 857649877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865468,21.317731,-157.865468,21.317731",
+    "geom:latitude":21.317731,
+    "geom:longitude":-157.865468,
+    "iso:country":"US",
+    "sg:address":"922 Kaamahu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 1469",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fKDBGp4sZliCkygPaoZvK_21.317731_-157.865468@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205456,
+    "wof:geomhash":"6bedf4ff5d487c08163f4d0e5270b485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857649877
+        }
+    ],
+    "wof:id":857649877,
+    "wof:lastmodified":1464205456,
+    "wof:name":"Tesoro Express Wash",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -157.865468,
+    21.317731,
+    -157.865468,
+    21.317731
+],
+  "geometry": {"coordinates":[-157.86546799999999,21.317731],"type":"Point"}
+}

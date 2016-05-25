@@ -1,0 +1,73 @@
+{
+  "id": 857614677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007067,21.466722,-158.007067,21.466722",
+    "geom:latitude":21.466722,
+    "geom:longitude":-158.007067,
+    "iso:country":"US",
+    "sg:address":"132 Lokihi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 7035",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36ZZfjCPgtu5fX38W8b7Kf_21.466722_-158.007067@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204313,
+    "wof:geomhash":"76562776e7a0208e2305c7504d9faef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857614677
+        }
+    ],
+    "wof:id":857614677,
+    "wof:lastmodified":1464204313,
+    "wof:name":"Communications Systems Labs",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -158.007067,
+    21.466722,
+    -158.007067,
+    21.466722
+],
+  "geometry": {"coordinates":[-158.00706700000001,21.466722],"type":"Point"}
+}

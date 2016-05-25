@@ -1,0 +1,77 @@
+{
+  "id": 857588885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87647,21.331298,-157.87647,21.331298",
+    "geom:latitude":21.331298,
+    "geom:longitude":-157.87647,
+    "iso:country":"US",
+    "sg:address":"1807 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4195",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44nZbOLCsrpgKYB5Hx2Vwm_21.331298_-157.876470@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203738,
+    "wof:geomhash":"97eec598c7df88b779977397811ba0a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857588885
+        }
+    ],
+    "wof:id":857588885,
+    "wof:lastmodified":1464203738,
+    "wof:name":"Nicanor F Joaquin MD Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.87647,
+    21.331298,
+    -157.87647,
+    21.331298
+],
+  "geometry": {"coordinates":[-157.87647000000001,21.331298],"type":"Point"}
+}

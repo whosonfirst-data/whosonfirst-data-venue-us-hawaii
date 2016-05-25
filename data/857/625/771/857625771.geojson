@@ -1,0 +1,66 @@
+{
+  "id": 857625771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878672,21.333762,-157.878672,21.333762",
+    "geom:latitude":21.333762,
+    "geom:longitude":-157.878672,
+    "iso:country":"US",
+    "sg:address":"1010 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6186",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Th9XRzmBPQpoNnBIMeSF0_21.333762_-157.878672@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204578,
+    "wof:geomhash":"1842c312a2794f572523e2ca334263da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857625771
+        }
+    ],
+    "wof:id":857625771,
+    "wof:lastmodified":1464204578,
+    "wof:name":"Kalihi Super Meats",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.878672,
+    21.333762,
+    -157.878672,
+    21.333762
+],
+  "geometry": {"coordinates":[-157.87867199999999,21.333762],"type":"Point"}
+}

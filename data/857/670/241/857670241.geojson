@@ -1,0 +1,73 @@
+{
+  "id": 857670241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.452856,20.885516,-156.452856,20.885516",
+    "geom:latitude":20.885516,
+    "geom:longitude":-156.452856,
+    "iso:country":"US",
+    "sg:address":"400 Hana Hwy",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 8091",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_590hsy2MnihjBGOldUvTHh_20.885516_-156.452856@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206349,
+    "wof:geomhash":"9db56c5c89e721d8445c016625ad1b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857670241
+        }
+    ],
+    "wof:id":857670241,
+    "wof:lastmodified":1464206349,
+    "wof:name":"Maui Motors",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -156.452856,
+    20.885516,
+    -156.452856,
+    20.885516
+],
+  "geometry": {"coordinates":[-156.452856,20.885516],"type":"Point"}
+}

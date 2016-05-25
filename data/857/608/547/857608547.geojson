@@ -1,0 +1,73 @@
+{
+  "id": 857608547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.973536,19.69218,-155.973536,19.69218",
+    "geom:latitude":19.69218,
+    "geom:longitude":-155.973536,
+    "iso:country":"US",
+    "sg:address":"1311 Onaona Dr",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 325 5458",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937431,
+        102085433,
+        85890335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18gDefA1E2YNPsEU388bvb_19.692180_-155.973536@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204177,
+    "wof:geomhash":"32f1c41bfe69da82982dab8523ed21f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937431,
+            "neighbourhood_id":85890335,
+            "region_id":85688671,
+            "venue_id":857608547
+        }
+    ],
+    "wof:id":857608547,
+    "wof:lastmodified":1464204177,
+    "wof:name":"Crazy Horse Ranch",
+    "wof:parent_id":85890335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -155.973536,
+    19.69218,
+    -155.973536,
+    19.69218
+],
+  "geometry": {"coordinates":[-155.973536,19.69218],"type":"Point"}
+}

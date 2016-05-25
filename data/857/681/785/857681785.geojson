@@ -1,0 +1,74 @@
+{
+  "id": 857681785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029698,21.495491,-158.029698,21.495491",
+    "geom:latitude":21.495491,
+    "geom:longitude":-158.029698,
+    "iso:country":"US",
+    "sg:address":"30 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/wahiawa/180860-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 4791",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WAnecxekZxHT0DyRNBkS5_21.495516_-158.029594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206806,
+    "wof:geomhash":"36d6a2365eb4cf37dee554c9555153a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857681785
+        }
+    ],
+    "wof:id":857681785,
+    "wof:lastmodified":1464206806,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -158.029698,
+    21.495491,
+    -158.029698,
+    21.495491
+],
+  "geometry": {"coordinates":[-158.029698,21.495491],"type":"Point"}
+}

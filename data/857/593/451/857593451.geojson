@@ -1,0 +1,83 @@
+{
+  "id": 857593451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723782,21.334405,-157.723782,21.334405",
+    "geom:latitude":21.334405,
+    "geom:longitude":-157.723782,
+    "iso:country":"US",
+    "sg:address":"650 Waikupanaha St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 6677",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "detection",
+        "pest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZY3R2omjJX4948t3OAzy0_21.334405_-157.723782@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203838,
+    "wof:geomhash":"87b7c7e541f3ed778160717ae4b45954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857593451
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857593451
+        }
+    ],
+    "wof:id":857593451,
+    "wof:lastmodified":1464203838,
+    "wof:name":"Pest Dtcton/Emergency Projects",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "pest"
+    ]
+},
+  "bbox": [
+    -157.723782,
+    21.334405,
+    -157.723782,
+    21.334405
+],
+  "geometry": {"coordinates":[-157.723782,21.334405],"type":"Point"}
+}

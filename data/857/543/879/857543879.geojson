@@ -1,0 +1,71 @@
+{
+  "id": 857543879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.687704,21.299569,-157.687704,21.299569",
+    "geom:latitude":21.299569,
+    "geom:longitude":-157.687704,
+    "iso:country":"US",
+    "sg:address":"962 Waioli St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 375 7074",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FlfJClRg52pl2jjeex1Dv_21.299569_-157.687704@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202819,
+    "wof:geomhash":"1679efabce632bb38a076d3429cc1a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857543879
+        }
+    ],
+    "wof:id":857543879,
+    "wof:lastmodified":1464202819,
+    "wof:name":"C M Cleaning Svc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -157.687704,
+    21.299569,
+    -157.687704,
+    21.299569
+],
+  "geometry": {"coordinates":[-157.687704,21.299569],"type":"Point"}
+}

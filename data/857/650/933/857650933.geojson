@@ -1,0 +1,71 @@
+{
+  "id": 857650933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810153,21.307321,-157.810153,21.307321",
+    "geom:latitude":21.307321,
+    "geom:longitude":-157.810153,
+    "iso:country":"US",
+    "sg:address":"2756 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7091",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MXWgaLXgenvSsrKqvkTnO_21.307321_-157.810153@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205493,
+    "wof:geomhash":"7980b21b65cae66adebf9b2f51345592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857650933
+        }
+    ],
+    "wof:id":857650933,
+    "wof:lastmodified":1464205493,
+    "wof:name":"Regal Travel Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.810153,
+    21.307321,
+    -157.810153,
+    21.307321
+],
+  "geometry": {"coordinates":[-157.81015300000001,21.307321],"type":"Point"}
+}

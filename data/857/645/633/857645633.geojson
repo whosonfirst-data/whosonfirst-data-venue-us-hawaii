@@ -1,0 +1,78 @@
+{
+  "id": 857645633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867694,21.333713,-157.867694,21.333713",
+    "geom:latitude":21.333713,
+    "geom:longitude":-157.867694,
+    "iso:country":"US",
+    "sg:address":"1403 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 4450",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LnfbpfIAyI1DOze6llicX_21.333713_-157.867694@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205264,
+    "wof:geomhash":"c0ba71ebaa1f01073dc4205925b14fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857645633
+        }
+    ],
+    "wof:id":857645633,
+    "wof:lastmodified":1464205264,
+    "wof:name":"Island Mini Mart",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.867694,
+    21.333713,
+    -157.867694,
+    21.333713
+],
+  "geometry": {"coordinates":[-157.867694,21.333713],"type":"Point"}
+}

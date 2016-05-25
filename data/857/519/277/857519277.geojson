@@ -1,0 +1,75 @@
+{
+  "id": 857519277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025695,21.499661,-158.025695,21.499661",
+    "geom:latitude":21.499661,
+    "geom:longitude":-158.025695,
+    "iso:country":"US",
+    "sg:address":"938 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 7733",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "clinic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U3JNzqxwhYJ0iSdiwLkOM_21.499661_-158.025695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202336,
+    "wof:geomhash":"616edf094da4e81a4f4133e5e5257a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857519277
+        }
+    ],
+    "wof:id":857519277,
+    "wof:lastmodified":1464202336,
+    "wof:name":"Wajoawa Family Practice Clinic",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "clinic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.025695,
+    21.499661,
+    -158.025695,
+    21.499661
+],
+  "geometry": {"coordinates":[-158.02569500000001,21.499661],"type":"Point"}
+}

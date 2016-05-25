@@ -1,0 +1,71 @@
+{
+  "id": 857615443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845344,21.301246,-157.845344,21.301246",
+    "geom:latitude":21.301246,
+    "geom:longitude":-157.845344,
+    "iso:country":"US",
+    "sg:address":"1161 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8280",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47VTA7rMReUEhOz5WsGx5f_21.301246_-157.845344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204330,
+    "wof:geomhash":"9ced6a0ec3bbf5e7bfbe54d63dc3f58b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857615443
+        }
+    ],
+    "wof:id":857615443,
+    "wof:lastmodified":1464204330,
+    "wof:name":"Door Of Faith Church Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.845344,
+    21.301246,
+    -157.845344,
+    21.301246
+],
+  "geometry": {"coordinates":[-157.84534400000001,21.301246],"type":"Point"}
+}

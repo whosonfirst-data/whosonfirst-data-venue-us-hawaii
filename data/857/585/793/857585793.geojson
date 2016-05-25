@@ -1,0 +1,71 @@
+{
+  "id": 857585793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.018925,21.38433,-158.018925,21.38433",
+    "geom:latitude":21.38433,
+    "geom:longitude":-158.018925,
+    "iso:country":"US",
+    "sg:address":"356 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 680 0151",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29lhmsjQtDMpwK3jHfCkpF_21.384330_-158.018925@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203667,
+    "wof:geomhash":"579b272eb15ecaa701d40617da938cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857585793
+        }
+    ],
+    "wof:id":857585793,
+    "wof:lastmodified":1464203667,
+    "wof:name":"Waipahu Depot Rehabilitation",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -158.018925,
+    21.38433,
+    -158.018925,
+    21.38433
+],
+  "geometry": {"coordinates":[-158.018925,21.38433],"type":"Point"}
+}

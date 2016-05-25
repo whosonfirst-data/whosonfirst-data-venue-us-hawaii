@@ -1,0 +1,71 @@
+{
+  "id": 857630201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807828,21.297256,-157.807828,21.297256",
+    "geom:latitude":21.297256,
+    "geom:longitude":-157.807828,
+    "iso:country":"US",
+    "sg:address":"1555 Bertram St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 3477",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wVJqxRO32UFA4eDkIKTZ6_21.297256_-157.807828@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204670,
+    "wof:geomhash":"0d819c2dc5a2c6a704b67b82b7be141e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857630201
+        }
+    ],
+    "wof:id":857630201,
+    "wof:lastmodified":1464204670,
+    "wof:name":"FM Kelly Travel Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.807828,
+    21.297256,
+    -157.807828,
+    21.297256
+],
+  "geometry": {"coordinates":[-157.807828,21.297256],"type":"Point"}
+}

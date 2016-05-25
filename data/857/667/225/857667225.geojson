@@ -1,0 +1,76 @@
+{
+  "id": 857667225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862895,21.307425,-157.862895,21.307425",
+    "geom:latitude":21.307425,
+    "geom:longitude":-157.862895,
+    "iso:country":"US",
+    "sg:address":"733 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 7778",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "sg:website":"www.prsu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SoKV2ojA27f6fyneUDsJO_21.307425_-157.862895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206232,
+    "wof:geomhash":"3c391f7acc4b2980abae62849f866633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857667225
+        }
+    ],
+    "wof:id":857667225,
+    "wof:lastmodified":1464206232,
+    "wof:name":"Pacific Reporting Svc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -157.862895,
+    21.307425,
+    -157.862895,
+    21.307425
+],
+  "geometry": {"coordinates":[-157.86289500000001,21.307425],"type":"Point"}
+}

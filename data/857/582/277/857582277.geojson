@@ -1,0 +1,73 @@
+{
+  "id": 857582277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862542,21.308553,-157.862542,21.308553",
+    "geom:latitude":21.308553,
+    "geom:longitude":-157.862542,
+    "iso:country":"US",
+    "sg:address":"130 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4069",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seed",
+        "preserved"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FyGxbjIoypz2N5uv6lmH6_21.308553_-157.862542@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203595,
+    "wof:geomhash":"2c982e64bec638e3427980a2ae860ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857582277
+        }
+    ],
+    "wof:id":857582277,
+    "wof:lastmodified":1464203595,
+    "wof:name":"Plaza Corner",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seed",
+        "preserved"
+    ]
+},
+  "bbox": [
+    -157.862542,
+    21.308553,
+    -157.862542,
+    21.308553
+],
+  "geometry": {"coordinates":[-157.86254199999999,21.308553],"type":"Point"}
+}

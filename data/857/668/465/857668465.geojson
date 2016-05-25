@@ -1,0 +1,71 @@
+{
+  "id": 857668465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804248,21.422117,-157.804248,21.422117",
+    "geom:latitude":21.422117,
+    "geom:longitude":-157.804248,
+    "iso:country":"US",
+    "sg:address":"45 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 236 3550",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SYqEmUlUzRERPk4RiaNxT_21.422117_-157.804248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206274,
+    "wof:geomhash":"5e81883c7975a7546d77b5189a42f288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857668465
+        }
+    ],
+    "wof:id":857668465,
+    "wof:lastmodified":1464206274,
+    "wof:name":"Sodexho Inc",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.804248,
+    21.422117,
+    -157.804248,
+    21.422117
+],
+  "geometry": {"coordinates":[-157.804248,21.422117],"type":"Point"}
+}

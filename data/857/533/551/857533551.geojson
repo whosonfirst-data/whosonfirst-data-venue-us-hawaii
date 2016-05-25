@@ -1,0 +1,71 @@
+{
+  "id": 857533551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834091,21.297199,-157.834091,21.297199",
+    "geom:latitude":21.297199,
+    "geom:longitude":-157.834091,
+    "iso:country":"US",
+    "sg:address":"1007 Elsie Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 3194",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qsoU8BFmCKsH9MbCQYFcq_21.297199_-157.834091@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202613,
+    "wof:geomhash":"3cb2acc921c853fee3f7d1f076d1c145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857533551
+        }
+    ],
+    "wof:id":857533551,
+    "wof:lastmodified":1464202613,
+    "wof:name":"Park's Embroidery",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -157.834091,
+    21.297199,
+    -157.834091,
+    21.297199
+],
+  "geometry": {"coordinates":[-157.834091,21.297199],"type":"Point"}
+}

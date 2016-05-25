@@ -1,0 +1,81 @@
+{
+  "id": 857643799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.479663,20.870222,-156.479663,20.870222",
+    "geom:latitude":20.870222,
+    "geom:longitude":-156.479663,
+    "iso:country":"US",
+    "sg:address":"11 Mahaolu St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 5804",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "adult",
+        "day",
+        "care"
+    ],
+    "sg:website":"www.mauiadultdaycare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27xdAXPOgusO3vN1yrvBkA_20.870222_-156.479663@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205187,
+    "wof:geomhash":"febb9f220bbf9f650c8ab470f36c5ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857643799
+        }
+    ],
+    "wof:id":857643799,
+    "wof:lastmodified":1464205187,
+    "wof:name":"Maui Adult Day Care Center",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -156.479663,
+    20.870222,
+    -156.479663,
+    20.870222
+],
+  "geometry": {"coordinates":[-156.47966299999999,20.870222],"type":"Point"}
+}

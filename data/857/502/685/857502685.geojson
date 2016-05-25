@@ -1,0 +1,71 @@
+{
+  "id": 857502685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.036281,21.489153,-158.036281,21.489153",
+    "geom:latitude":21.489153,
+    "geom:longitude":-158.036281,
+    "iso:country":"US",
+    "sg:address":"730 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 6408",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JEXZJjyuHpeFnXyYe5Fg2_21.489153_-158.036281@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201976,
+    "wof:geomhash":"3a1c355e776175fe30e2aaf07d560280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857502685
+        }
+    ],
+    "wof:id":857502685,
+    "wof:lastmodified":1464201976,
+    "wof:name":"Wilikina Apartments",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -158.036281,
+    21.489153,
+    -158.036281,
+    21.489153
+],
+  "geometry": {"coordinates":[-158.036281,21.489153],"type":"Point"}
+}

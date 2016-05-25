@@ -1,0 +1,71 @@
+{
+  "id": 857647721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830014,21.28034,-157.830014,21.28034",
+    "geom:latitude":21.28034,
+    "geom:longitude":-157.830014,
+    "iso:country":"US",
+    "sg:address":"2155 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 971 7751",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53THOmguzELTe8T3lX3g5M_21.280340_-157.830014@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205367,
+    "wof:geomhash":"8d087b12c2cc3cd77e8407c2e6eec36c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857647721
+        }
+    ],
+    "wof:id":857647721,
+    "wof:lastmodified":1464205367,
+    "wof:name":"Pro Park Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.830014,
+    21.28034,
+    -157.830014,
+    21.28034
+],
+  "geometry": {"coordinates":[-157.83001400000001,21.28034],"type":"Point"}
+}

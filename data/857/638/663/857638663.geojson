@@ -1,0 +1,71 @@
+{
+  "id": 857638663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81627,21.289165,-157.81627,21.289165",
+    "geom:latitude":21.289165,
+    "geom:longitude":-157.81627,
+    "iso:country":"US",
+    "sg:address":"2875 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 6900",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SS7iR7p6NdZD26r3cDuXL_21.289165_-157.816270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204968,
+    "wof:geomhash":"e7a8e5b4bc411aaa2d949c85f361fa51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857638663
+        }
+    ],
+    "wof:id":857638663,
+    "wof:lastmodified":1464204968,
+    "wof:name":"Melinda Kohr PHD",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -157.81627,
+    21.289165,
+    -157.81627,
+    21.289165
+],
+  "geometry": {"coordinates":[-157.81627,21.289165],"type":"Point"}
+}

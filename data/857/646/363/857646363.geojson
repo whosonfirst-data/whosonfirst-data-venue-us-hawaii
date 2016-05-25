@@ -1,0 +1,71 @@
+{
+  "id": 857646363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834845,21.28626,-157.834845,21.28626",
+    "geom:latitude":21.28626,
+    "geom:longitude":-157.834845,
+    "iso:country":"US",
+    "sg:address":"478 Ena Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 1190",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e8gNxuSr92WNg2V3rwGTC_21.286260_-157.834845@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205303,
+    "wof:geomhash":"a37a09727be617dbc2c82be3b27543b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857646363
+        }
+    ],
+    "wof:id":857646363,
+    "wof:lastmodified":1464205303,
+    "wof:name":"Pho Tri",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.834845,
+    21.28626,
+    -157.834845,
+    21.28626
+],
+  "geometry": {"coordinates":[-157.834845,21.28626],"type":"Point"}
+}

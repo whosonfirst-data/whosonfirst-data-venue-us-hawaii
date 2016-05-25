@@ -1,0 +1,71 @@
+{
+  "id": 857593245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828469,21.279972,-157.828469,21.279972",
+    "geom:latitude":21.279972,
+    "geom:longitude":-157.828469,
+    "iso:country":"US",
+    "sg:address":"345 Royal Hawaiian Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 2777",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iX3G5z4Pgw3ezghCbDljo_21.279972_-157.828469@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203832,
+    "wof:geomhash":"fb256909d5e72ee46eb34ea59e37c8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857593245
+        }
+    ],
+    "wof:id":857593245,
+    "wof:lastmodified":1464203832,
+    "wof:name":"WCL Hawaii Co LTD",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.828469,
+    21.279972,
+    -157.828469,
+    21.279972
+],
+  "geometry": {"coordinates":[-157.82846900000001,21.279972],"type":"Point"}
+}

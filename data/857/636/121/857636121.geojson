@@ -1,0 +1,71 @@
+{
+  "id": 857636121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806794,21.284297,-157.806794,21.284297",
+    "geom:latitude":21.284297,
+    "geom:longitude":-157.806794,
+    "iso:country":"US",
+    "sg:address":"1053 6th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 1202",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EZpa2MZtDaa3egll7XqVn_21.284297_-157.806794@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204872,
+    "wof:geomhash":"381760ed49e0c086611cdf924162af5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857636121
+        }
+    ],
+    "wof:id":857636121,
+    "wof:lastmodified":1464204872,
+    "wof:name":"Kaimuki Community Church",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.806794,
+    21.284297,
+    -157.806794,
+    21.284297
+],
+  "geometry": {"coordinates":[-157.806794,21.284297],"type":"Point"}
+}

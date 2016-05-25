@@ -1,0 +1,71 @@
+{
+  "id": 857635271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883282,21.326188,-157.883282,21.326188",
+    "geom:latitude":21.326188,
+    "geom:longitude":-157.883282,
+    "iso:country":"US",
+    "sg:address":"360 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 1212",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kyNdwyKzyH9hhQNrIu2sA_21.326188_-157.883282@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204841,
+    "wof:geomhash":"85cccc70117c139c5cb0650fa56698e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857635271
+        }
+    ],
+    "wof:id":857635271,
+    "wof:lastmodified":1464204841,
+    "wof:name":"Holby's Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.883282,
+    21.326188,
+    -157.883282,
+    21.326188
+],
+  "geometry": {"coordinates":[-157.88328200000001,21.326188],"type":"Point"}
+}

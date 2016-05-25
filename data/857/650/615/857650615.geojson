@@ -1,0 +1,79 @@
+{
+  "id": 857650615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816215,21.29857,-157.816215,21.29857",
+    "geom:latitude":21.29857,
+    "geom:longitude":-157.816215,
+    "iso:country":"US",
+    "sg:address":"2505 Correa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 7087",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department",
+        "university",
+        "astronomy",
+        "physics",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oxWFeGs7ikLdnj63w2xNg_21.298570_-157.816215@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205482,
+    "wof:geomhash":"b7e60aee4a30614bb9439788e4256f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857650615
+        }
+    ],
+    "wof:id":857650615,
+    "wof:lastmodified":1464205482,
+    "wof:name":"Department Physics & Astronomy",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "university",
+        "astronomy",
+        "physics",
+        "for"
+    ]
+},
+  "bbox": [
+    -157.816215,
+    21.29857,
+    -157.816215,
+    21.29857
+],
+  "geometry": {"coordinates":[-157.816215,21.29857],"type":"Point"}
+}

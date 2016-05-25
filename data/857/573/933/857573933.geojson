@@ -1,0 +1,71 @@
+{
+  "id": 857573933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.449238,20.898121,-156.449238,20.898121",
+    "geom:latitude":20.898121,
+    "geom:longitude":-156.449238,
+    "iso:country":"US",
+    "sg:address":"1 Cameron Way",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 9814",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VIYafqyOQqlwPP9YPgUV7_20.898121_-156.449238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203430,
+    "wof:geomhash":"d514a9a558adf0263af59b2fb26e08ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857573933
+        }
+    ],
+    "wof:id":857573933,
+    "wof:lastmodified":1464203430,
+    "wof:name":"Honolulu Builders",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.449238,
+    20.898121,
+    -156.449238,
+    20.898121
+],
+  "geometry": {"coordinates":[-156.44923800000001,20.898121],"type":"Point"}
+}

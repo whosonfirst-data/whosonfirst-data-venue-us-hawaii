@@ -1,0 +1,73 @@
+{
+  "id": 857648111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.508766,20.882484,-156.508766,20.882484",
+    "geom:latitude":20.882484,
+    "geom:longitude":-156.508766,
+    "iso:country":"US",
+    "sg:address":"451 Pualani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 9825",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2463VWIwILVN2FWO7AYyPd_20.882484_-156.508766@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205381,
+    "wof:geomhash":"7eec4dc9629fedaa19453013089f5052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857648111
+        }
+    ],
+    "wof:id":857648111,
+    "wof:lastmodified":1464205381,
+    "wof:name":"Shaklee Authorized Distr",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -156.508766,
+    20.882484,
+    -156.508766,
+    20.882484
+],
+  "geometry": {"coordinates":[-156.50876600000001,20.882484],"type":"Point"}
+}

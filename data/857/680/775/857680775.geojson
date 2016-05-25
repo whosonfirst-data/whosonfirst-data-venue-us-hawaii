@@ -1,0 +1,70 @@
+{
+  "id": 857680775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.823536,19.995914,-155.823536,19.995914",
+    "geom:latitude":19.995914,
+    "geom:longitude":-155.823536,
+    "iso:country":"US",
+    "sg:address":"62-100 Kaunaoa Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/south-kohala/3246-beach-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 880 3192",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890365,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ueV9cPbLxKmtnXFhzfxf1_19.995914_-155.823536@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206755,
+    "wof:geomhash":"18188400d88d6d0e3255fd8312a522e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890365,
+            "region_id":85688671,
+            "venue_id":857680775
+        }
+    ],
+    "wof:id":857680775,
+    "wof:lastmodified":1464206755,
+    "wof:name":"Beach Bar",
+    "wof:parent_id":85890365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -155.823536,
+    19.995914,
+    -155.823536,
+    19.995914
+],
+  "geometry": {"coordinates":[-155.82353599999999,19.995914],"type":"Point"}
+}

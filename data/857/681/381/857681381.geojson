@@ -1,0 +1,72 @@
+{
+  "id": 857681381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820549,21.263817,-157.820549,21.263817",
+    "geom:latitude":21.263817,
+    "geom:longitude":-157.820549,
+    "iso:country":"US",
+    "sg:address":"2856 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108570-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 5726",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KUF9j84CPuXS69xe4Bf8y_21.263817_-157.820549@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206781,
+    "wof:geomhash":"79fa36760a7936a9439690945b3c95bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857681381
+        }
+    ],
+    "wof:id":857681381,
+    "wof:lastmodified":1464206781,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.820549,
+    21.263817,
+    -157.820549,
+    21.263817
+],
+  "geometry": {"coordinates":[-157.820549,21.263817],"type":"Point"}
+}

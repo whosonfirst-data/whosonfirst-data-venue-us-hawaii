@@ -1,0 +1,73 @@
+{
+  "id": 857653915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.92099,21.353442,-157.92099,21.353442",
+    "geom:latitude":21.353442,
+    "geom:longitude":-157.92099,
+    "iso:country":"US",
+    "sg:address":"1260 Ala Aloalo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 4346",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hivTC3MaziKz9N1qt6IjP_21.353442_-157.920990@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205633,
+    "wof:geomhash":"41f89830cb8dfa0207710ed3717d5135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857653915
+        }
+    ],
+    "wof:id":857653915,
+    "wof:lastmodified":1464205633,
+    "wof:name":"Stephen G Fu",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.92099,
+    21.353442,
+    -157.92099,
+    21.353442
+],
+  "geometry": {"coordinates":[-157.92098999999999,21.353442],"type":"Point"}
+}

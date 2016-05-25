@@ -1,0 +1,75 @@
+{
+  "id": 857578387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.789821,21.274157,-157.789821,21.274157",
+    "geom:latitude":21.274157,
+    "geom:longitude":-157.789821,
+    "iso:country":"US",
+    "sg:address":"4148 Pahoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 3540",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "ceramic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AlXtLAq7Kdpkp6dtm1hUb_21.274157_-157.789821@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203518,
+    "wof:geomhash":"32bf4daff7d09b201aa6ad182fe355e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857578387
+        }
+    ],
+    "wof:id":857578387,
+    "wof:lastmodified":1464203518,
+    "wof:name":"Pacific Tile Inc",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.789821,
+    21.274157,
+    -157.789821,
+    21.274157
+],
+  "geometry": {"coordinates":[-157.78982099999999,21.274157],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857502933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.930978,21.378678,-157.930978,21.378678",
+    "geom:latitude":21.378678,
+    "geom:longitude":-157.930978,
+    "iso:country":"US",
+    "sg:address":"205 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8333",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1um514eaYn4JbDMqNL73Jl_21.378678_-157.930978@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201984,
+    "wof:geomhash":"3a3c6007763d9dfb52a7f43754ce06fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857502933
+        }
+    ],
+    "wof:id":857502933,
+    "wof:lastmodified":1464201984,
+    "wof:name":"Leeward Barber Shop",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.930978,
+    21.378678,
+    -157.930978,
+    21.378678
+],
+  "geometry": {"coordinates":[-157.93097800000001,21.378678],"type":"Point"}
+}

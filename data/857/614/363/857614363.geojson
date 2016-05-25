@@ -1,0 +1,71 @@
+{
+  "id": 857614363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.460182,20.887181,-156.460182,20.887181",
+    "geom:latitude":20.887181,
+    "geom:longitude":-156.460182,
+    "iso:country":"US",
+    "sg:address":"239 E Wakea Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3984",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KCvWIkEkjeItM29tIU3Xm_20.887181_-156.460182@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204308,
+    "wof:geomhash":"109290e762f50743f4aec3871873e303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857614363
+        }
+    ],
+    "wof:id":857614363,
+    "wof:lastmodified":1464204308,
+    "wof:name":"Aloha Eye Clinic",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.460182,
+    20.887181,
+    -156.460182,
+    20.887181
+],
+  "geometry": {"coordinates":[-156.460182,20.887181],"type":"Point"}
+}

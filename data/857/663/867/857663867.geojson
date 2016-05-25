@@ -1,0 +1,71 @@
+{
+  "id": 857663867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.49167,20.887265,-156.49167,20.887265",
+    "geom:latitude":20.887265,
+    "geom:longitude":-156.49167,
+    "iso:country":"US",
+    "sg:address":"55 Mahalani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 6385",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LjhgGoJMCgmgfVnHZUy8m_20.887265_-156.491670@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206080,
+    "wof:geomhash":"8c8aa9b1751c4b7a093149ea5f7b3b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857663867
+        }
+    ],
+    "wof:id":857663867,
+    "wof:lastmodified":1464206080,
+    "wof:name":"Maui County Police-Motorpool",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -156.49167,
+    20.887265,
+    -156.49167,
+    20.887265
+],
+  "geometry": {"coordinates":[-156.49167,20.887265],"type":"Point"}
+}

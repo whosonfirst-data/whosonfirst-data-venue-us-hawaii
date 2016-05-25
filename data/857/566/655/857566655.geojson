@@ -1,0 +1,67 @@
+{
+  "id": 857566655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.497937,20.891297,-156.497937,20.891297",
+    "geom:latitude":20.891297,
+    "geom:longitude":-156.497937,
+    "iso:country":"US",
+    "sg:address":"1750 Kaahumanu Ave",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3938",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:website":"www.meleukulele.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JVvxSPZZxvKWQKUXIHQyL_20.891297_-156.497937@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203289,
+    "wof:geomhash":"d70000a21d4fe06865418e4f003cf485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857566655
+        }
+    ],
+    "wof:id":857566655,
+    "wof:lastmodified":1464203289,
+    "wof:name":"Mele Ukulele",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.497937,
+    20.891297,
+    -156.497937,
+    20.891297
+],
+  "geometry": {"coordinates":[-156.49793700000001,20.891297],"type":"Point"}
+}

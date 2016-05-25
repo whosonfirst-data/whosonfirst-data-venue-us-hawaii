@@ -1,0 +1,73 @@
+{
+  "id": 857600979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744977,21.288389,-157.744977,21.288389",
+    "geom:latitude":21.288389,
+    "geom:longitude":-157.744977,
+    "iso:country":"US",
+    "sg:address":"140 Kaulana Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 7273",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "warehouse",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EmdB3an0nfYDA01URwcW2_21.288389_-157.744977@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204007,
+    "wof:geomhash":"c7f42f1733c5b0de06ef0171e19f5072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857600979
+        }
+    ],
+    "wof:id":857600979,
+    "wof:lastmodified":1464204007,
+    "wof:name":"Nakoa-Pemco JV",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -157.744977,
+    21.288389,
+    -157.744977,
+    21.288389
+],
+  "geometry": {"coordinates":[-157.74497700000001,21.288389],"type":"Point"}
+}

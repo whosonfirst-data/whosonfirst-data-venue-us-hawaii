@@ -1,0 +1,71 @@
+{
+  "id": 857654971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.783706,19.943822,-155.783706,19.943822",
+    "geom:latitude":19.943822,
+    "geom:longitude":-155.783706,
+    "iso:country":"US",
+    "sg:address":"1892 Lina Poepoe St",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 883 8961",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PPcKanVEChRZl2sEf51Mq_19.943822_-155.783706@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205681,
+    "wof:geomhash":"c698480f1b77cce114e98c232e504fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857654971
+        }
+    ],
+    "wof:id":857654971,
+    "wof:lastmodified":1464205681,
+    "wof:name":"Waikoloa Plumbing",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.783706,
+    19.943822,
+    -155.783706,
+    19.943822
+],
+  "geometry": {"coordinates":[-155.783706,19.943822],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857659011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843302,21.299564,-157.843302,21.299564",
+    "geom:latitude":21.299564,
+    "geom:longitude":-157.843302,
+    "iso:country":"US",
+    "sg:address":"1201 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8314",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pssdX45FkMO9yfbeLhMoo_21.299564_-157.843302@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205862,
+    "wof:geomhash":"146fd0dc13c3294f8826790e02333339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857659011
+        }
+    ],
+    "wof:id":857659011,
+    "wof:lastmodified":1464205862,
+    "wof:name":"Chevron Bionic Slf Srv Fd Mrt",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.843302,
+    21.299564,
+    -157.843302,
+    21.299564
+],
+  "geometry": {"coordinates":[-157.84330199999999,21.299564],"type":"Point"}
+}

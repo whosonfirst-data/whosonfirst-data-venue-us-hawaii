@@ -1,0 +1,75 @@
+{
+  "id": 857601039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818731,21.290001,-157.818731,21.290001",
+    "geom:latitude":21.290001,
+    "geom:longitude":-157.818731,
+    "iso:country":"US",
+    "sg:address":"2824 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4244",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nXCZDFffCV9hLk4UtVZMU_21.290001_-157.818731@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204009,
+    "wof:geomhash":"0239dd82bd349e75d4974c50c9507b70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857601039
+        }
+    ],
+    "wof:id":857601039,
+    "wof:lastmodified":1464204009,
+    "wof:name":"Custom Golf Shop",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.818731,
+    21.290001,
+    -157.818731,
+    21.290001
+],
+  "geometry": {"coordinates":[-157.81873100000001,21.290001],"type":"Point"}
+}

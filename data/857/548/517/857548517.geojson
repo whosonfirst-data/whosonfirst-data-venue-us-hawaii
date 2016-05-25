@@ -1,0 +1,73 @@
+{
+  "id": 857548517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875951,21.322492,-157.875951,21.322492",
+    "geom:latitude":21.322492,
+    "geom:longitude":-157.875951,
+    "iso:country":"US",
+    "sg:address":"1365 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4558",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kUCs0TFF7gPCJfPR8kfFZ_21.322492_-157.875951@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202903,
+    "wof:geomhash":"ae8851b6036323580d181873fd5c69d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857548517
+        }
+    ],
+    "wof:id":857548517,
+    "wof:lastmodified":1464202903,
+    "wof:name":"Holden Hospital Supply Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.875951,
+    21.322492,
+    -157.875951,
+    21.322492
+],
+  "geometry": {"coordinates":[-157.87595099999999,21.322492],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857651675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.721769,21.333606,-157.721769,21.333606",
+    "geom:latitude":21.333606,
+    "geom:longitude":-157.721769,
+    "iso:country":"US",
+    "sg:address":"555 Waikupanaha St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 8436",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nursery",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gX8gaW9uje94wHnBfmBDC_21.333606_-157.721769@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205530,
+    "wof:geomhash":"661d642380dabe74e79034cb19059467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857651675
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857651675
+        }
+    ],
+    "wof:id":857651675,
+    "wof:lastmodified":1464205530,
+    "wof:name":"Tien Nursery/Kapolei Nursery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "tree"
+    ]
+},
+  "bbox": [
+    -157.721769,
+    21.333606,
+    -157.721769,
+    21.333606
+],
+  "geometry": {"coordinates":[-157.72176899999999,21.333606],"type":"Point"}
+}

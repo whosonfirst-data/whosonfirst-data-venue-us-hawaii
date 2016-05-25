@@ -1,0 +1,71 @@
+{
+  "id": 857537569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861299,21.309867,-157.861299,21.309867",
+    "geom:latitude":21.309867,
+    "geom:longitude":-157.861299,
+    "iso:country":"US",
+    "sg:address":"43 S Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 2329",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K3AlFYCjxvkKW3rKMyv9i_21.309867_-157.861299@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202690,
+    "wof:geomhash":"6e18b40dc888be8b6121456120406bc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857537569
+        }
+    ],
+    "wof:id":857537569,
+    "wof:lastmodified":1464202690,
+    "wof:name":"Wongs Photo",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -157.861299,
+    21.309867,
+    -157.861299,
+    21.309867
+],
+  "geometry": {"coordinates":[-157.861299,21.309867],"type":"Point"}
+}

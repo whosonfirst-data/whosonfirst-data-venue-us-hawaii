@@ -1,0 +1,73 @@
+{
+  "id": 857646789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825696,21.293369,-157.825696,21.293369",
+    "geom:latitude":21.293369,
+    "geom:longitude":-157.825696,
+    "iso:country":"US",
+    "sg:address":"2320 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 9650",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5no77VVAfslb2sPRnXK3V3_21.293369_-157.825696@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205327,
+    "wof:geomhash":"2cbee2cd23d935a44efd314c4bfdbe94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857646789
+        }
+    ],
+    "wof:id":857646789,
+    "wof:lastmodified":1464205327,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -157.825696,
+    21.293369,
+    -157.825696,
+    21.293369
+],
+  "geometry": {"coordinates":[-157.82569599999999,21.293369],"type":"Point"}
+}

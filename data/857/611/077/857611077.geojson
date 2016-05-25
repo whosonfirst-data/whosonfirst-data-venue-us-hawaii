@@ -1,0 +1,73 @@
+{
+  "id": 857611077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.507445,20.896344,-156.507445,20.896344",
+    "geom:latitude":20.896344,
+    "geom:longitude":-156.507445,
+    "iso:country":"US",
+    "sg:address":"378 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 6540",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UPJO44dKq7DWVOcm9CLrv_20.896344_-156.507445@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204228,
+    "wof:geomhash":"0f753f8c5aafdd4fdf1f4c2ca1b3ada2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857611077
+        }
+    ],
+    "wof:id":857611077,
+    "wof:lastmodified":1464204228,
+    "wof:name":"Tamashiro Tofu Factory",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.507445,
+    20.896344,
+    -156.507445,
+    20.896344
+],
+  "geometry": {"coordinates":[-156.50744499999999,20.896344],"type":"Point"}
+}

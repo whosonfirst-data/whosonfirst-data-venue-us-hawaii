@@ -1,0 +1,71 @@
+{
+  "id": 857608517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.968621,21.404263,-157.968621,21.404263",
+    "geom:latitude":21.404263,
+    "geom:longitude":-157.968621,
+    "iso:country":"US",
+    "sg:address":"1444 Kaleilani St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 282 4591",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EveUSxevRfRpfOnRWbady_21.404263_-157.968621@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204176,
+    "wof:geomhash":"edb04747b1beda082284597d45adae67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857608517
+        }
+    ],
+    "wof:id":857608517,
+    "wof:lastmodified":1464204176,
+    "wof:name":"B P Builders Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.968621,
+    21.404263,
+    -157.968621,
+    21.404263
+],
+  "geometry": {"coordinates":[-157.96862100000001,21.404263],"type":"Point"}
+}

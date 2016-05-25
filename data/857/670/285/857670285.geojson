@@ -1,0 +1,71 @@
+{
+  "id": 857670285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861016,21.310737,-157.861016,21.310737",
+    "geom:latitude":21.310737,
+    "geom:longitude":-157.861016,
+    "iso:country":"US",
+    "sg:address":"1109 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4375",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rw4zFM9IaTOJPTzntCX7A_21.310737_-157.861016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206350,
+    "wof:geomhash":"7869bed475a2a63dde0384a3001c37f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857670285
+        }
+    ],
+    "wof:id":857670285,
+    "wof:lastmodified":1464206350,
+    "wof:name":"Lee Plus Co",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.861016,
+    21.310737,
+    -157.861016,
+    21.310737
+],
+  "geometry": {"coordinates":[-157.86101600000001,21.310737],"type":"Point"}
+}

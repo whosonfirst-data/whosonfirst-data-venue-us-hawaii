@@ -1,0 +1,71 @@
+{
+  "id": 857656741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848853,21.324301,-157.848853,21.324301",
+    "geom:latitude":21.324301,
+    "geom:longitude":-157.848853,
+    "iso:country":"US",
+    "sg:address":"2162 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 1538",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S6olUyx3YgB1mZhSChFoI_21.324301_-157.848853@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205756,
+    "wof:geomhash":"fd41f5440ec21b48c5807e5318417fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857656741
+        }
+    ],
+    "wof:id":857656741,
+    "wof:lastmodified":1464205756,
+    "wof:name":"Oahu Cemetery",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -157.848853,
+    21.324301,
+    -157.848853,
+    21.324301
+],
+  "geometry": {"coordinates":[-157.84885299999999,21.324301],"type":"Point"}
+}

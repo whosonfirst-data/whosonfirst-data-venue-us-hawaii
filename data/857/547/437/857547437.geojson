@@ -1,0 +1,73 @@
+{
+  "id": 857547437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.478953,20.887389,-156.478953,20.887389",
+    "geom:latitude":20.887389,
+    "geom:longitude":-156.478953,
+    "iso:country":"US",
+    "sg:address":"331 One St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5191",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hc9MTzqsd27qae8BdpxkD_20.887389_-156.478953@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202881,
+    "wof:geomhash":"9e87df70292f628205ad8fa7f1d9aef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857547437
+        }
+    ],
+    "wof:id":857547437,
+    "wof:lastmodified":1464202881,
+    "wof:name":"Nurse Aide Institute Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -156.478953,
+    20.887389,
+    -156.478953,
+    20.887389
+],
+  "geometry": {"coordinates":[-156.47895299999999,20.887389],"type":"Point"}
+}

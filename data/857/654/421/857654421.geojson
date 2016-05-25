@@ -1,0 +1,75 @@
+{
+  "id": 857654421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876626,21.302705,-157.876626,21.302705",
+    "geom:latitude":21.302705,
+    "geom:longitude":-157.876626,
+    "iso:country":"US",
+    "sg:address":"80 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 8878",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "paper",
+        "painting",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qWphuU9iIAYlHsNIkr1IX_21.302705_-157.876626@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205652,
+    "wof:geomhash":"a15cac1eca29bb15450fd2db43a5ac6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857654421
+        }
+    ],
+    "wof:id":857654421,
+    "wof:lastmodified":1464205652,
+    "wof:name":"SMK Painting",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paper",
+        "painting",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -157.876626,
+    21.302705,
+    -157.876626,
+    21.302705
+],
+  "geometry": {"coordinates":[-157.87662599999999,21.302705],"type":"Point"}
+}

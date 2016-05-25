@@ -1,0 +1,87 @@
+{
+  "id": 857637769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.388124,20.917254,-156.388124,20.917254",
+    "geom:latitude":20.917254,
+    "geom:longitude":-156.388124,
+    "iso:country":"US",
+    "sg:address":"90 Hana Hwy",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 8340",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "roasted",
+        "eating",
+        "mfg"
+    ],
+    "sg:website":"www.anthonyscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FmOBrRzpyNnhyga95td9t_20.917254_-156.388124@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204932,
+    "wof:geomhash":"9ce47b0198920635128cc6df36444e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857637769
+        }
+    ],
+    "wof:id":857637769,
+    "wof:lastmodified":1464204932,
+    "wof:name":"Anthony's Coffee Co Inc",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "roasted",
+        "eating",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -156.388124,
+    20.917254,
+    -156.388124,
+    20.917254
+],
+  "geometry": {"coordinates":[-156.388124,20.917254],"type":"Point"}
+}

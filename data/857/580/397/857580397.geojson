@@ -1,0 +1,73 @@
+{
+  "id": 857580397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880143,21.332838,-157.880143,21.332838",
+    "geom:latitude":21.332838,
+    "geom:longitude":-157.880143,
+    "iso:country":"US",
+    "sg:address":"810 Gulick Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4611",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "noodle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WwazBVjwaLLQ54lAFhWnv_21.332838_-157.880143@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203560,
+    "wof:geomhash":"c8e8668ba7533ce263a555d3a4e45c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857580397
+        }
+    ],
+    "wof:id":857580397,
+    "wof:lastmodified":1464203560,
+    "wof:name":"Crown Noodles",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "noodle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.880143,
+    21.332838,
+    -157.880143,
+    21.332838
+],
+  "geometry": {"coordinates":[-157.880143,21.332838],"type":"Point"}
+}

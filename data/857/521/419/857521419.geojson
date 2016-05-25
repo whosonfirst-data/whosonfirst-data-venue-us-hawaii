@@ -1,0 +1,67 @@
+{
+  "id": 857521419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829376,21.294698,-157.829376,21.294698",
+    "geom:latitude":21.294698,
+    "geom:longitude":-157.829376,
+    "iso:country":"US",
+    "sg:address":"2020 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1601",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:website":"www.pacarchitects.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QUmigfiJRGswMatAWY8Sp_21.294698_-157.829376@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202379,
+    "wof:geomhash":"0763a043f48ae4067956c778525039a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857521419
+        }
+    ],
+    "wof:id":857521419,
+    "wof:lastmodified":1464202379,
+    "wof:name":"Pacific Architects Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.829376,
+    21.294698,
+    -157.829376,
+    21.294698
+],
+  "geometry": {"coordinates":[-157.829376,21.294698],"type":"Point"}
+}

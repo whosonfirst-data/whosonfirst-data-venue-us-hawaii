@@ -1,0 +1,73 @@
+{
+  "id": 857645447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.320165,22.077222,-159.320165,22.077222",
+    "geom:latitude":22.077222,
+    "geom:longitude":-159.320165,
+    "iso:country":"US",
+    "sg:address":"4670 Kahau St",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 4476",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hCHsIBNnNHtP8m3Os7oWb_22.077222_-159.320165@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205256,
+    "wof:geomhash":"77b268c268068b6d8bf33d0c925badbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857645447
+        }
+    ],
+    "wof:id":857645447,
+    "wof:lastmodified":1464205256,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -159.320165,
+    22.077222,
+    -159.320165,
+    22.077222
+],
+  "geometry": {"coordinates":[-159.320165,22.077222],"type":"Point"}
+}

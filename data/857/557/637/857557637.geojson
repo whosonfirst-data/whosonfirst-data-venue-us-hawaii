@@ -1,0 +1,71 @@
+{
+  "id": 857557637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815062,21.297202,-157.815062,21.297202",
+    "geom:latitude":21.297202,
+    "geom:longitude":-157.815062,
+    "iso:country":"US",
+    "sg:address":"1680 E West Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 8760",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IoDRIO03Aockp9DGzArDL_21.297202_-157.815062@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203090,
+    "wof:geomhash":"23aaae960fb1011fb8971e4dee73b11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857557637
+        }
+    ],
+    "wof:id":857557637,
+    "wof:lastmodified":1464203090,
+    "wof:name":"Geophysics Division",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -157.815062,
+    21.297202,
+    -157.815062,
+    21.297202
+],
+  "geometry": {"coordinates":[-157.81506200000001,21.297202],"type":"Point"}
+}

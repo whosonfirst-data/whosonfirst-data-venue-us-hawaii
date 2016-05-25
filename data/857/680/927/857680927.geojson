@@ -1,0 +1,76 @@
+{
+  "id": 857680927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.679468,20.87546,-156.679468,20.87546",
+    "geom:latitude":20.87546,
+    "geom:longitude":-156.679468,
+    "iso:country":"US",
+    "sg:address":"127 Lahainaluna Rd",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/3312-david-pauls-lahaina-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 360 2606",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hL0FJlzqUDWKNUDLdImZ9_20.875460_-156.679468@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206761,
+    "wof:geomhash":"5b637bd908542d2b9d65e7616d6b63a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857680927
+        }
+    ],
+    "wof:id":857680927,
+    "wof:lastmodified":1464206761,
+    "wof:name":"David Paul's Lahaina Grill",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -156.679468,
+    20.87546,
+    -156.679468,
+    20.87546
+],
+  "geometry": {"coordinates":[-156.67946800000001,20.87546],"type":"Point"}
+}

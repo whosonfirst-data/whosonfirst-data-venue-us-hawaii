@@ -1,0 +1,73 @@
+{
+  "id": 857635329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833155,21.28612,-157.833155,21.28612",
+    "geom:latitude":21.28612,
+    "geom:longitude":-157.833155,
+    "iso:country":"US",
+    "sg:address":"1944 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7733",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rXhN8Tx7hQ4s6OWUXOxXo_21.286120_-157.833155@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204844,
+    "wof:geomhash":"05688481478699c19793b5896bf5fd28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857635329
+        }
+    ],
+    "wof:id":857635329,
+    "wof:lastmodified":1464204844,
+    "wof:name":"VIP Car Rentals",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.833155,
+    21.28612,
+    -157.833155,
+    21.28612
+],
+  "geometry": {"coordinates":[-157.833155,21.28612],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857549333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.934162,21.364532,-157.934162,21.364532",
+    "geom:latitude":21.364532,
+    "geom:longitude":-157.934162,
+    "iso:country":"US",
+    "sg:address":"41 Ohiaku St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 3029",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "local",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890053,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EviRJZ8N1tHX2hWkwjyzR_21.364532_-157.934162@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202918,
+    "wof:geomhash":"6587a5839f5170612bb5118bc33a632b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890053,
+            "region_id":85688671,
+            "venue_id":857549333
+        }
+    ],
+    "wof:id":857549333,
+    "wof:lastmodified":1464202918,
+    "wof:name":"Abeuno Landscape Hauling Svcs",
+    "wof:parent_id":85890053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "local",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.934162,
+    21.364532,
+    -157.934162,
+    21.364532
+],
+  "geometry": {"coordinates":[-157.93416199999999,21.364532],"type":"Point"}
+}

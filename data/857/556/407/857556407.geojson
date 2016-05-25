@@ -1,0 +1,75 @@
+{
+  "id": 857556407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848884,21.29471,-157.848884,21.29471",
+    "geom:latitude":21.29471,
+    "geom:longitude":-157.848884,
+    "iso:country":"US",
+    "sg:address":"1164 Kona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8696",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "paint",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fe7kVa0JWLdYGmMMq7HBo_21.294710_-157.848884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203060,
+    "wof:geomhash":"2916464c99f93fd3939cb3a8e902144a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857556407
+        }
+    ],
+    "wof:id":857556407,
+    "wof:lastmodified":1464203060,
+    "wof:name":"United Auto Body Repair Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "paint",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.848884,
+    21.29471,
+    -157.848884,
+    21.29471
+],
+  "geometry": {"coordinates":[-157.848884,21.29471],"type":"Point"}
+}

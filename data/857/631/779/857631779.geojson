@@ -1,0 +1,73 @@
+{
+  "id": 857631779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793448,21.303622,-157.793448,21.303622",
+    "geom:latitude":21.303622,
+    "geom:longitude":-157.793448,
+    "iso:country":"US",
+    "sg:address":"2210 Palolo Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8584",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "laundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tU66NAzDyyv9pjfFxUvGp_21.303622_-157.793448@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204706,
+    "wof:geomhash":"955216fe0056d98c06ea9df01a5f7345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857631779
+        }
+    ],
+    "wof:id":857631779,
+    "wof:lastmodified":1464204706,
+    "wof:name":"Ricky's Repair & Svc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "laundry"
+    ]
+},
+  "bbox": [
+    -157.793448,
+    21.303622,
+    -157.793448,
+    21.303622
+],
+  "geometry": {"coordinates":[-157.79344800000001,21.303622],"type":"Point"}
+}

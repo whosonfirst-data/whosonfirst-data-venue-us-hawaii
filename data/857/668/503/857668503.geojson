@@ -1,0 +1,71 @@
+{
+  "id": 857668503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85667,21.301748,-157.85667,21.301748",
+    "geom:latitude":21.301748,
+    "geom:longitude":-157.85667,
+    "iso:country":"US",
+    "sg:address":"693 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 2999",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wPTJ18TN958c895D3CF02_21.301748_-157.856670@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206275,
+    "wof:geomhash":"1e7ccb71fa1a59f6c2d0e3e7168c85cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857668503
+        }
+    ],
+    "wof:id":857668503,
+    "wof:lastmodified":1464206275,
+    "wof:name":"Event House",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event"
+    ]
+},
+  "bbox": [
+    -157.85667,
+    21.301748,
+    -157.85667,
+    21.301748
+],
+  "geometry": {"coordinates":[-157.85667000000001,21.301748],"type":"Point"}
+}

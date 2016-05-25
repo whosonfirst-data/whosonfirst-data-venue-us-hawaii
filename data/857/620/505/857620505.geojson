@@ -1,0 +1,71 @@
+{
+  "id": 857620505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86145,21.307374,-157.86145,21.307374",
+    "geom:latitude":21.307374,
+    "geom:longitude":-157.86145,
+    "iso:country":"US",
+    "sg:address":"801 Alakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 0300",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IlgNqohziZ19Hn0YJPetl_21.307374_-157.861450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204443,
+    "wof:geomhash":"8ac38581ae0f4444eb38f8d80a2da675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857620505
+        }
+    ],
+    "wof:id":857620505,
+    "wof:lastmodified":1464204443,
+    "wof:name":"A Alpha-Omega Cleaning Company",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.86145,
+    21.307374,
+    -157.86145,
+    21.307374
+],
+  "geometry": {"coordinates":[-157.86144999999999,21.307374],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857572167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972136,21.411836,-157.972136,21.411836",
+    "geom:latitude":21.411836,
+    "geom:longitude":-157.972136,
+    "iso:country":"US",
+    "sg:address":"1382 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 8226",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "ship",
+        "tank",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wtuYi319173HODwCg0iah_21.411836_-157.972136@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203391,
+    "wof:geomhash":"dba25bfe93f36830bd6a6d64cc3cd1f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857572167
+        }
+    ],
+    "wof:id":857572167,
+    "wof:lastmodified":1464203391,
+    "wof:name":"Hawaii Marine Cleaning LLC",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship",
+        "tank",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -157.972136,
+    21.411836,
+    -157.972136,
+    21.411836
+],
+  "geometry": {"coordinates":[-157.97213600000001,21.411836],"type":"Point"}
+}

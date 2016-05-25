@@ -1,0 +1,71 @@
+{
+  "id": 857570073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886287,21.332163,-157.886287,21.332163",
+    "geom:latitude":21.332163,
+    "geom:longitude":-157.886287,
+    "iso:country":"US",
+    "sg:address":"2260 Kamehameha Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 1380",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5umpnRZgopdchgfMgOEIdT_21.332163_-157.886287@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203352,
+    "wof:geomhash":"b78e1c47368494933a0404403414c5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857570073
+        }
+    ],
+    "wof:id":857570073,
+    "wof:lastmodified":1464203352,
+    "wof:name":"TESORO Gas Express",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.886287,
+    21.332163,
+    -157.886287,
+    21.332163
+],
+  "geometry": {"coordinates":[-157.88628700000001,21.332163],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857549881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856824,21.30047,-157.856824,21.30047",
+    "geom:latitude":21.30047,
+    "geom:longitude":-157.856824,
+    "iso:country":"US",
+    "sg:address":"707 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 534 0300",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C2549SOfOIAUalEAtxpoX_21.300470_-157.856824@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202929,
+    "wof:geomhash":"604576ffd448ebb286d6c8a7d4a4949d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857549881
+        }
+    ],
+    "wof:id":857549881,
+    "wof:lastmodified":1464202929,
+    "wof:name":"Door To Door Auto Detailing",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -157.856824,
+    21.30047,
+    -157.856824,
+    21.30047
+],
+  "geometry": {"coordinates":[-157.85682399999999,21.30047],"type":"Point"}
+}

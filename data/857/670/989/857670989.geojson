@@ -1,0 +1,71 @@
+{
+  "id": 857670989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.056314,21.659459,-158.056314,21.659459",
+    "geom:latitude":21.659459,
+    "geom:longitude":-158.056314,
+    "iso:country":"US",
+    "sg:address":"521 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4639",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85890127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MMM2G17yedG6yS5U418uR_21.659459_-158.056314@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206374,
+    "wof:geomhash":"4d069584120ccbf2c419c1f6143b9a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85890127,
+            "region_id":85688671,
+            "venue_id":857670989
+        }
+    ],
+    "wof:id":857670989,
+    "wof:lastmodified":1464206374,
+    "wof:name":"Hawaiian Computer Repair",
+    "wof:parent_id":85890127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -158.056314,
+    21.659459,
+    -158.056314,
+    21.659459
+],
+  "geometry": {"coordinates":[-158.05631399999999,21.659459],"type":"Point"}
+}

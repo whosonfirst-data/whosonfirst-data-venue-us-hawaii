@@ -1,0 +1,71 @@
+{
+  "id": 857678375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877687,21.331992,-157.877687,21.331992",
+    "geom:latitude":21.331992,
+    "geom:longitude":-157.877687,
+    "iso:country":"US",
+    "sg:address":"1886 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 9979",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C5eWmg083MGGMSiJ2gggV_21.331992_-157.877687@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206668,
+    "wof:geomhash":"3493db9b2d4790ff539cccc715323d6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857678375
+        }
+    ],
+    "wof:id":857678375,
+    "wof:lastmodified":1464206668,
+    "wof:name":"Island Cash",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -157.877687,
+    21.331992,
+    -157.877687,
+    21.331992
+],
+  "geometry": {"coordinates":[-157.87768700000001,21.331992],"type":"Point"}
+}

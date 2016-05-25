@@ -1,0 +1,75 @@
+{
+  "id": 857559331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823257,21.293141,-157.823257,21.293141",
+    "geom:latitude":21.293141,
+    "geom:longitude":-157.823257,
+    "iso:country":"US",
+    "sg:address":"2482 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1084",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hMn72qC8bcnlCO7k9nEmt_21.293141_-157.823257@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203136,
+    "wof:geomhash":"364b18d93abaa557c3f4ca7d64c7defe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857559331
+        }
+    ],
+    "wof:id":857559331,
+    "wof:lastmodified":1464203136,
+    "wof:name":"Varsity Motors LTD",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.823257,
+    21.293141,
+    -157.823257,
+    21.293141
+],
+  "geometry": {"coordinates":[-157.82325700000001,21.293141],"type":"Point"}
+}

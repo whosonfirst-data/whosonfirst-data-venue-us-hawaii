@@ -1,0 +1,69 @@
+{
+  "id": 857636421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.367279,21.982391,-159.367279,21.982391",
+    "geom:latitude":21.982391,
+    "geom:longitude":-159.367279,
+    "iso:country":"US",
+    "sg:address":"3300 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 1599",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "discount"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HxDxJVpVM4QUsUtb3rvWG_21.982391_-159.367279@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204884,
+    "wof:geomhash":"a31a0da4084984596ff1a127fc8e4beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857636421
+        }
+    ],
+    "wof:id":857636421,
+    "wof:lastmodified":1464204884,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "discount"
+    ]
+},
+  "bbox": [
+    -159.367279,
+    21.982391,
+    -159.367279,
+    21.982391
+],
+  "geometry": {"coordinates":[-159.367279,21.982391],"type":"Point"}
+}

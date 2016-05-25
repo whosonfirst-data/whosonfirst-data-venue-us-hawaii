@@ -1,0 +1,80 @@
+{
+  "id": 857506321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879472,21.33192,-157.879472,21.33192",
+    "geom:latitude":21.33192,
+    "geom:longitude":-157.879472,
+    "iso:country":"US",
+    "sg:address":"2016 Waterhouse St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1256",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "installation",
+        "drapery",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_273MC4Gmyu65tQVxFoilbO_21.331920_-157.879472@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202066,
+    "wof:geomhash":"6d1e69c32e4fac8bc1d24c91ff3229c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857506321
+        }
+    ],
+    "wof:id":857506321,
+    "wof:lastmodified":1464202066,
+    "wof:name":"Norm's Drapery Installation",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "drapery",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.879472,
+    21.33192,
+    -157.879472,
+    21.33192
+],
+  "geometry": {"coordinates":[-157.87947199999999,21.33192],"type":"Point"}
+}

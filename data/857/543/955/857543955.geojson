@@ -1,0 +1,71 @@
+{
+  "id": 857543955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813169,21.308192,-157.813169,21.308192",
+    "geom:latitude":21.308192,
+    "geom:longitude":-157.813169,
+    "iso:country":"US",
+    "sg:address":"2721 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 5361",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KE5gnI1UFocfoE2ppJ9UQ_21.308192_-157.813169@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202820,
+    "wof:geomhash":"fa2ab70c777969ec2b26bc82f9ce2624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857543955
+        }
+    ],
+    "wof:id":857543955,
+    "wof:lastmodified":1464202820,
+    "wof:name":"Marocorp Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.813169,
+    21.308192,
+    -157.813169,
+    21.308192
+],
+  "geometry": {"coordinates":[-157.81316899999999,21.308192],"type":"Point"}
+}

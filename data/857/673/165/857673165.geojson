@@ -1,0 +1,73 @@
+{
+  "id": 857673165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878931,21.333171,-157.878931,21.333171",
+    "geom:latitude":21.333171,
+    "geom:longitude":-157.878931,
+    "iso:country":"US",
+    "sg:address":"2070 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 1800",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V39IvL5ZIdx0CScpV6yRk_21.333171_-157.878931@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206458,
+    "wof:geomhash":"fabec53dc577a13dbf018b96da3c2eda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857673165
+        }
+    ],
+    "wof:id":857673165,
+    "wof:lastmodified":1464206458,
+    "wof:name":"Island One Wireless Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -157.878931,
+    21.333171,
+    -157.878931,
+    21.333171
+],
+  "geometry": {"coordinates":[-157.87893099999999,21.333171],"type":"Point"}
+}

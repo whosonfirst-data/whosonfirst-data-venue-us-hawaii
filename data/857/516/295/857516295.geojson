@@ -1,0 +1,71 @@
+{
+  "id": 857516295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.017711,21.377787,-158.017711,21.377787",
+    "geom:latitude":21.377787,
+    "geom:longitude":-158.017711,
+    "iso:country":"US",
+    "sg:address":"296 Pupuole St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 534 0065",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65X2TyoiCh4TDYfC31xAm0_21.377787_-158.017711@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202275,
+    "wof:geomhash":"fcfca69755aa0dc2b8cf02341dfd3d44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857516295
+        }
+    ],
+    "wof:id":857516295,
+    "wof:lastmodified":1464202275,
+    "wof:name":"Royal Rooter",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.017711,
+    21.377787,
+    -158.017711,
+    21.377787
+],
+  "geometry": {"coordinates":[-158.01771099999999,21.377787],"type":"Point"}
+}

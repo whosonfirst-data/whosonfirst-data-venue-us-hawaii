@@ -1,0 +1,71 @@
+{
+  "id": 857528077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.459709,20.884371,-156.459709,20.884371",
+    "geom:latitude":20.884371,
+    "geom:longitude":-156.459709,
+    "iso:country":"US",
+    "sg:address":"320 Hukilike St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 6003",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DWWRC7fGasM5nD2HRTCSJ_20.884371_-156.459709@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202506,
+    "wof:geomhash":"d2641d1d3255d41aac79f31c63b47e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857528077
+        }
+    ],
+    "wof:id":857528077,
+    "wof:lastmodified":1464202506,
+    "wof:name":"ABM Family of Services",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -156.459709,
+    20.884371,
+    -156.459709,
+    20.884371
+],
+  "geometry": {"coordinates":[-156.459709,20.884371],"type":"Point"}
+}

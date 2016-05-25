@@ -1,0 +1,71 @@
+{
+  "id": 857609695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.101591,21.299099,-158.101591,21.299099",
+    "geom:latitude":21.299099,
+    "geom:longitude":-158.101591,
+    "iso:country":"US",
+    "sg:address":"319 Olai St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 7797",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NVCBsOF2qGqV8RvrEJ4N7_21.299099_-158.101591@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204200,
+    "wof:geomhash":"74c5f6c75d2d5da6e2bb9420924d6d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857609695
+        }
+    ],
+    "wof:id":857609695,
+    "wof:lastmodified":1464204200,
+    "wof:name":"Farmers Livestock Cooperative",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -158.101591,
+    21.299099,
+    -158.101591,
+    21.299099
+],
+  "geometry": {"coordinates":[-158.10159100000001,21.299099],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857516493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787764,21.311621,-157.787764,21.311621",
+    "geom:latitude":21.311621,
+    "geom:longitude":-157.787764,
+    "iso:country":"US",
+    "sg:address":"2660 Myrtle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 6559",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CzyT9xGKvOV7ROVJrn8Cr_21.311621_-157.787764@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202279,
+    "wof:geomhash":"7201425979cdc9de143732cd52d6b53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857516493
+        }
+    ],
+    "wof:id":857516493,
+    "wof:lastmodified":1464202279,
+    "wof:name":"Commercial Repair Service",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.787764,
+    21.311621,
+    -157.787764,
+    21.311621
+],
+  "geometry": {"coordinates":[-157.78776400000001,21.311621],"type":"Point"}
+}

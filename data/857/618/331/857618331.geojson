@@ -1,0 +1,71 @@
+{
+  "id": 857618331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.893966,21.356482,-157.893966,21.356482",
+    "geom:latitude":21.356482,
+    "geom:longitude":-157.893966,
+    "iso:country":"US",
+    "sg:address":"113 Krukowski Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 2110",
+    "sg:postcode":"96859",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73ixDiOwp0ZSTg44pTuMPj_21.356482_-157.893966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204384,
+    "wof:geomhash":"7417890c334fa14874ffa51260dc2406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857618331
+        }
+    ],
+    "wof:id":857618331,
+    "wof:lastmodified":1464204384,
+    "wof:name":"J A Jones Construction Company",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.893966,
+    21.356482,
+    -157.893966,
+    21.356482
+],
+  "geometry": {"coordinates":[-157.89396600000001,21.356482],"type":"Point"}
+}

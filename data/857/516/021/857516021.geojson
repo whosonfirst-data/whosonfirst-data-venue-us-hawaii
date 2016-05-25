@@ -1,0 +1,68 @@
+{
+  "id": 857516021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.322451,20.802188,-156.322451,20.802188",
+    "geom:latitude":20.802188,
+    "geom:longitude":-156.322451,
+    "iso:country":"US",
+    "sg:address":"35 Poohina Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 3121",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937627,
+        102085577,
+        85890579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wsoVmgXCejB70vn2VvSk5_20.802188_-156.322451@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202271,
+    "wof:geomhash":"7a3363b6286355c50934aba60a615ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890579,
+            "region_id":85688671,
+            "venue_id":857516021
+        }
+    ],
+    "wof:id":857516021,
+    "wof:lastmodified":1464202271,
+    "wof:name":"Maui Succulents",
+    "wof:parent_id":85890579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.322451,
+    20.802188,
+    -156.322451,
+    20.802188
+],
+  "geometry": {"coordinates":[-156.322451,20.802188],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857600455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823245,21.288475,-157.823245,21.288475",
+    "geom:latitude":21.288475,
+    "geom:longitude":-157.823245,
+    "iso:country":"US",
+    "sg:address":"731 Kamoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9390",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LrMo1A37Rlxf4fYFk1fY3_21.288475_-157.823245@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203996,
+    "wof:geomhash":"7c0fdbecc8a3dc02d8927ce082ff63fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857600455
+        }
+    ],
+    "wof:id":857600455,
+    "wof:lastmodified":1464203996,
+    "wof:name":"Ceramic Tile Installers",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.823245,
+    21.288475,
+    -157.823245,
+    21.288475
+],
+  "geometry": {"coordinates":[-157.82324499999999,21.288475],"type":"Point"}
+}

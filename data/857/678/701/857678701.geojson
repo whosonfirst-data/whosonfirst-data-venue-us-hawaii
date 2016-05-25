@@ -1,0 +1,73 @@
+{
+  "id": 857678701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.687087,20.901924,-156.687087,20.901924",
+    "geom:latitude":20.901924,
+    "geom:longitude":-156.687087,
+    "iso:country":"US",
+    "sg:address":"1582 Malo St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 7634",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O3PWUlGDtcse1SDUm8y1G_20.901924_-156.687087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206680,
+    "wof:geomhash":"bb15bf0b2cfa86e1f9cb89861c593671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857678701
+        }
+    ],
+    "wof:id":857678701,
+    "wof:lastmodified":1464206680,
+    "wof:name":"Ryan Horn Photography",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -156.687087,
+    20.901924,
+    -156.687087,
+    20.901924
+],
+  "geometry": {"coordinates":[-156.68708699999999,20.901924],"type":"Point"}
+}

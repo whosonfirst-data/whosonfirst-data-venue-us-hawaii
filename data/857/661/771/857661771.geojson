@@ -1,0 +1,71 @@
+{
+  "id": 857661771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.342386,22.052882,-159.342386,22.052882",
+    "geom:latitude":22.052882,
+    "geom:longitude":-159.342386,
+    "iso:country":"US",
+    "sg:address":"183 Eggerking Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 4586",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YGqAxM1Ze4H21ur183GT9_22.052882_-159.342386@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206003,
+    "wof:geomhash":"fe8f21e3daf4dbea0850cefac936503c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857661771
+        }
+    ],
+    "wof:id":857661771,
+    "wof:lastmodified":1464206003,
+    "wof:name":"Kodani Building",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -159.342386,
+    22.052882,
+    -159.342386,
+    22.052882
+],
+  "geometry": {"coordinates":[-159.342386,22.052882],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857524483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.789034,21.302783,-157.789034,21.302783",
+    "geom:latitude":21.302783,
+    "geom:longitude":-157.789034,
+    "iso:country":"US",
+    "sg:address":"2404 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8895",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UCVC7LY18IidVMADCpqVn_21.302783_-157.789034@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202438,
+    "wof:geomhash":"db8531c9a2ce15b5d96599acafe7dafd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890275,
+            "region_id":85688671,
+            "venue_id":857524483
+        }
+    ],
+    "wof:id":857524483,
+    "wof:lastmodified":1464202438,
+    "wof:name":"Cr Import Repair Inc",
+    "wof:parent_id":85890275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.789034,
+    21.302783,
+    -157.789034,
+    21.302783
+],
+  "geometry": {"coordinates":[-157.78903399999999,21.302783],"type":"Point"}
+}

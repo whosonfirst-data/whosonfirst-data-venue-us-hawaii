@@ -1,0 +1,78 @@
+{
+  "id": 857658219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873447,21.322342,-157.873447,21.322342",
+    "geom:latitude":21.322342,
+    "geom:longitude":-157.873447,
+    "iso:country":"US",
+    "sg:address":"1336 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1477",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dzgx0imrRtJ8blKdeJ2jY_21.322342_-157.873447@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205829,
+    "wof:geomhash":"54b2181408e27760f1ad968afcae0577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857658219
+        }
+    ],
+    "wof:id":857658219,
+    "wof:lastmodified":1464205829,
+    "wof:name":"Hawaii Homes & Management",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.873447,
+    21.322342,
+    -157.873447,
+    21.322342
+],
+  "geometry": {"coordinates":[-157.873447,21.322342],"type":"Point"}
+}

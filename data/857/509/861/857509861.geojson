@@ -1,0 +1,77 @@
+{
+  "id": 857509861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.782016,21.305541,-157.782016,21.305541",
+    "geom:latitude":21.305541,
+    "geom:longitude":-157.782016,
+    "iso:country":"US",
+    "sg:address":"2453 Halenoho Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 9287",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jbOHnjlsUJvymMfj8IW7p_21.305541_-157.782016@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202140,
+    "wof:geomhash":"45c32ca2cf53fbdbceb77c9c6e2350e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857509861
+        }
+    ],
+    "wof:id":857509861,
+    "wof:lastmodified":1464202140,
+    "wof:name":"MHP Energy Svc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -157.782016,
+    21.305541,
+    -157.782016,
+    21.305541
+],
+  "geometry": {"coordinates":[-157.782016,21.305541],"type":"Point"}
+}

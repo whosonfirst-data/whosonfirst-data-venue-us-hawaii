@@ -1,0 +1,73 @@
+{
+  "id": 857554181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932153,21.351298,-157.932153,21.351298",
+    "geom:latitude":21.351298,
+    "geom:longitude":-157.932153,
+    "iso:country":"US",
+    "sg:address":"4725 Bougainville Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 428 2311",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TdkKwihcAMU4B1swIQWrO_21.351298_-157.932153@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203012,
+    "wof:geomhash":"3f9cfa9c925567db316838a84280bcbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857554181
+        }
+    ],
+    "wof:id":857554181,
+    "wof:lastmodified":1464203012,
+    "wof:name":"UPS Store",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -157.932153,
+    21.351298,
+    -157.932153,
+    21.351298
+],
+  "geometry": {"coordinates":[-157.932153,21.351298],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857634175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020351,21.510968,-158.020351,21.510968",
+    "geom:latitude":21.510968,
+    "geom:longitude":-158.020351,
+    "iso:country":"US",
+    "sg:address":"1215 Whitmore Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0866",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "sg:website":"www.maunakeaelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lfmrstzmLe9JzZIIJOYR4_21.510968_-158.020351@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204804,
+    "wof:geomhash":"e75f4bca6a459e0a49687595d37b5ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857634175
+        }
+    ],
+    "wof:id":857634175,
+    "wof:lastmodified":1464204804,
+    "wof:name":"Mauna Kea Electric Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.020351,
+    21.510968,
+    -158.020351,
+    21.510968
+],
+  "geometry": {"coordinates":[-158.02035100000001,21.510968],"type":"Point"}
+}

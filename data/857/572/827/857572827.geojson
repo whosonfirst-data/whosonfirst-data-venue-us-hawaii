@@ -1,0 +1,71 @@
+{
+  "id": 857572827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024298,21.379374,-158.024298,21.379374",
+    "geom:latitude":21.379374,
+    "geom:longitude":-158.024298,
+    "iso:country":"US",
+    "sg:address":"206 Leoku St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 6738",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mpoL4YqtIhenwLzfBp6w0_21.379374_-158.024298@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203407,
+    "wof:geomhash":"d7fe4dec1acab2760f4fce4985b72cf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857572827
+        }
+    ],
+    "wof:id":857572827,
+    "wof:lastmodified":1464203407,
+    "wof:name":"Als Waipahu Union Service",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -158.024298,
+    21.379374,
+    -158.024298,
+    21.379374
+],
+  "geometry": {"coordinates":[-158.02429799999999,21.379374],"type":"Point"}
+}

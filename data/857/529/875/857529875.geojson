@@ -1,0 +1,69 @@
+{
+  "id": 857529875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.345587,22.100386,-159.345587,22.100386",
+    "geom:latitude":22.100386,
+    "geom:longitude":-159.345587,
+    "iso:country":"US",
+    "sg:address":"5978 Kawaihau Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3580",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rQ79H4JUYIJ1QnZ0GR3HW_22.100386_-159.345587@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202540,
+    "wof:geomhash":"b24686f7ae6a5ac35f6adc4663bf3555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857529875
+        }
+    ],
+    "wof:id":857529875,
+    "wof:lastmodified":1464202540,
+    "wof:name":"Stephen's Janitorial Svc",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -159.345587,
+    22.100386,
+    -159.345587,
+    22.100386
+],
+  "geometry": {"coordinates":[-159.34558699999999,22.100386],"type":"Point"}
+}

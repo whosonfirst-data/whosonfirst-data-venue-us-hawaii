@@ -1,0 +1,71 @@
+{
+  "id": 857605499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.696059,21.281814,-157.696059,21.281814",
+    "geom:latitude":21.281814,
+    "geom:longitude":-157.696059,
+    "iso:country":"US",
+    "sg:address":"410 Lanipuao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 7744",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12qy5dBVkDUCIP4APJn40l_21.281814_-157.696059@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204107,
+    "wof:geomhash":"8f95b9060cae7caf28cb6802690e1f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857605499
+        }
+    ],
+    "wof:id":857605499,
+    "wof:lastmodified":1464204107,
+    "wof:name":"Hawaii Kai Construction",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.696059,
+    21.281814,
+    -157.696059,
+    21.281814
+],
+  "geometry": {"coordinates":[-157.69605899999999,21.281814],"type":"Point"}
+}

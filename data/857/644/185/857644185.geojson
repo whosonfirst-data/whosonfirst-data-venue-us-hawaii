@@ -1,0 +1,71 @@
+{
+  "id": 857644185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.770838,21.283653,-157.770838,21.283653",
+    "geom:latitude":21.283653,
+    "geom:longitude":-157.770838,
+    "iso:country":"US",
+    "sg:address":"1434 Kalaniiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5546",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yozvg5TUoy4zwiUHJrP2Q_21.283653_-157.770838@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205201,
+    "wof:geomhash":"07d305d08f65e45c6ecdae7419726292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857644185
+        }
+    ],
+    "wof:id":857644185,
+    "wof:lastmodified":1464205201,
+    "wof:name":"AAC & Assoc",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.770838,
+    21.283653,
+    -157.770838,
+    21.283653
+],
+  "geometry": {"coordinates":[-157.770838,21.283653],"type":"Point"}
+}

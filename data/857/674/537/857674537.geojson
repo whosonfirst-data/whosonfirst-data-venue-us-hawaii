@@ -1,0 +1,73 @@
+{
+  "id": 857674537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752413,21.424723,-157.752413,21.424723",
+    "geom:latitude":21.424723,
+    "geom:longitude":-157.752413,
+    "iso:country":"US",
+    "sg:address":"112 Puwa Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 497 8473",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ySzE0H1doItrIIay2j3Ds_21.424723_-157.752413@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206507,
+    "wof:geomhash":"7c02b47abfb7b71162d87e65818a1941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857674537
+        }
+    ],
+    "wof:id":857674537,
+    "wof:lastmodified":1464206507,
+    "wof:name":"Pro Tire",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -157.752413,
+    21.424723,
+    -157.752413,
+    21.424723
+],
+  "geometry": {"coordinates":[-157.75241299999999,21.424723],"type":"Point"}
+}

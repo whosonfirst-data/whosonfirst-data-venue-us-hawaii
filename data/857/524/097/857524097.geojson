@@ -1,0 +1,71 @@
+{
+  "id": 857524097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023273,21.385201,-158.023273,21.385201",
+    "geom:latitude":21.385201,
+    "geom:longitude":-158.023273,
+    "iso:country":"US",
+    "sg:address":"482 Honowai St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 7040",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MsqgUT63MNOXroa7qNpW_21.385201_-158.023273@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202432,
+    "wof:geomhash":"60a264843c61d5ecda1259c4b66cb56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857524097
+        }
+    ],
+    "wof:id":857524097,
+    "wof:lastmodified":1464202432,
+    "wof:name":"Masa's Towing & Trouble Call",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -158.023273,
+    21.385201,
+    -158.023273,
+    21.385201
+],
+  "geometry": {"coordinates":[-158.02327299999999,21.385201],"type":"Point"}
+}

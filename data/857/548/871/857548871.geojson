@@ -1,0 +1,73 @@
+{
+  "id": 857548871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868015,21.332552,-157.868015,21.332552",
+    "geom:latitude":21.332552,
+    "geom:longitude":-157.868015,
+    "iso:country":"US",
+    "sg:address":"1449 Gregory St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 7432",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "control",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EfFJvH7iXLw4iedbyv8E2_21.332552_-157.868015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202909,
+    "wof:geomhash":"0d65e405d970d418655ce04910c8e1b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857548871
+        }
+    ],
+    "wof:id":857548871,
+    "wof:lastmodified":1464202909,
+    "wof:name":"Control Systems LLC",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -157.868015,
+    21.332552,
+    -157.868015,
+    21.332552
+],
+  "geometry": {"coordinates":[-157.86801500000001,21.332552],"type":"Point"}
+}

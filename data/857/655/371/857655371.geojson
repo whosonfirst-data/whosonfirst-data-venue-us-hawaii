@@ -1,0 +1,73 @@
+{
+  "id": 857655371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80065,21.281863,-157.80065,21.281863",
+    "geom:latitude":21.281863,
+    "geom:longitude":-157.80065,
+    "iso:country":"US",
+    "sg:address":"1135 11th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3661",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qVwhw2nLjuRepo20q2cOK_21.281863_-157.800650@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205697,
+    "wof:geomhash":"19d326b5b4e6db6e3dbaad5b6326d16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857655371
+        }
+    ],
+    "wof:id":857655371,
+    "wof:lastmodified":1464205697,
+    "wof:name":"Blue Sea Lounge",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.80065,
+    21.281863,
+    -157.80065,
+    21.281863
+],
+  "geometry": {"coordinates":[-157.80064999999999,21.281863],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857631913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833641,21.308327,-157.833641,21.308327",
+    "geom:latitude":21.308327,
+    "geom:longitude":-157.833641,
+    "iso:country":"US",
+    "sg:address":"1964 Nehoa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 5282",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IIBHLHVz74GQHIJZYhTAt_21.308327_-157.833641@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204710,
+    "wof:geomhash":"86f36c65257da71939e2c88b55c3f7ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857631913
+        }
+    ],
+    "wof:id":857631913,
+    "wof:lastmodified":1464204710,
+    "wof:name":"Kula Kava Distributors",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organic"
+    ]
+},
+  "bbox": [
+    -157.833641,
+    21.308327,
+    -157.833641,
+    21.308327
+],
+  "geometry": {"coordinates":[-157.833641,21.308327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857625243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.91497,21.39183,-157.91497,21.39183",
+    "geom:latitude":21.39183,
+    "geom:longitude":-157.91497,
+    "iso:country":"US",
+    "sg:address":"1010 Kahua Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 479 9145",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tn5VKXz4aR3205tiPhM4v_21.391830_-157.914970@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204565,
+    "wof:geomhash":"0979ad871318f7c4436518dcaac38064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857625243
+        }
+    ],
+    "wof:id":857625243,
+    "wof:lastmodified":1464204565,
+    "wof:name":"Hook & Tow",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.91497,
+    21.39183,
+    -157.91497,
+    21.39183
+],
+  "geometry": {"coordinates":[-157.91497000000001,21.39183],"type":"Point"}
+}

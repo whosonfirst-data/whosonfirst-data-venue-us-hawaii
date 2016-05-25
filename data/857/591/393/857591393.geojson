@@ -1,0 +1,75 @@
+{
+  "id": 857591393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87011,21.324959,-157.87011,21.324959",
+    "geom:latitude":21.324959,
+    "geom:longitude":-157.87011,
+    "iso:country":"US",
+    "sg:address":"1245 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8600",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IYGc8A4El2JKaMlYGuKAQ_21.324959_-157.870110@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203792,
+    "wof:geomhash":"114c2a7fc61b5c8b7845ef204c4d174a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857591393
+        }
+    ],
+    "wof:id":857591393,
+    "wof:lastmodified":1464203792,
+    "wof:name":"Imperial Lounge",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.87011,
+    21.324959,
+    -157.87011,
+    21.324959
+],
+  "geometry": {"coordinates":[-157.87011000000001,21.324959],"type":"Point"}
+}

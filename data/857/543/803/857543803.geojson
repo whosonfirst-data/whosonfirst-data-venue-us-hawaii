@@ -1,0 +1,71 @@
+{
+  "id": 857543803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883178,21.32285,-157.883178,21.32285",
+    "geom:latitude":21.32285,
+    "geom:longitude":-157.883178,
+    "iso:country":"US",
+    "sg:address":"1612 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2667",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RlUZWsJnvT8jGybD2I8M_21.322850_-157.883178@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202817,
+    "wof:geomhash":"bb0074d87b279514b082da6a4133fd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857543803
+        }
+    ],
+    "wof:id":857543803,
+    "wof:lastmodified":1464202817,
+    "wof:name":"HPC Foods LTD",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -157.883178,
+    21.32285,
+    -157.883178,
+    21.32285
+],
+  "geometry": {"coordinates":[-157.88317799999999,21.32285],"type":"Point"}
+}

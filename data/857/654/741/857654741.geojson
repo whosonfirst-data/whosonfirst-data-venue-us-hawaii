@@ -1,0 +1,71 @@
+{
+  "id": 857654741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.897131,21.357122,-157.897131,21.357122",
+    "geom:latitude":21.357122,
+    "geom:longitude":-157.897131,
+    "iso:country":"US",
+    "sg:address":"2227 Ala Mahamoe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2829",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55CBq5waN2IPD80ObGnRM4_21.357122_-157.897131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205664,
+    "wof:geomhash":"30f936d4abea42adf136b7916647140a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857654741
+        }
+    ],
+    "wof:id":857654741,
+    "wof:lastmodified":1464205664,
+    "wof:name":"R&D Contractors LLC",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.897131,
+    21.357122,
+    -157.897131,
+    21.357122
+],
+  "geometry": {"coordinates":[-157.897131,21.357122],"type":"Point"}
+}

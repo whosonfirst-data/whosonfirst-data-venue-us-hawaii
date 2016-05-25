@@ -1,0 +1,71 @@
+{
+  "id": 857531075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845019,21.301124,-157.845019,21.301124",
+    "geom:latitude":21.301124,
+    "geom:longitude":-157.845019,
+    "iso:country":"US",
+    "sg:address":"1143 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 0410",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Uzu6oMDe8FOKzyMFVoVdz_21.301124_-157.845019@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202567,
+    "wof:geomhash":"1abd2aaebd37d0bda6f58e27e8484666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857531075
+        }
+    ],
+    "wof:id":857531075,
+    "wof:lastmodified":1464202567,
+    "wof:name":"Pure Air Hawaii I I Ltd",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -157.845019,
+    21.301124,
+    -157.845019,
+    21.301124
+],
+  "geometry": {"coordinates":[-157.84501900000001,21.301124],"type":"Point"}
+}

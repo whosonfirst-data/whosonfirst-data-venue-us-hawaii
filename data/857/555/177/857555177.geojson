@@ -1,0 +1,73 @@
+{
+  "id": 857555177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.748326,21.292831,-157.748326,21.292831",
+    "geom:latitude":21.292831,
+    "geom:longitude":-157.748326,
+    "iso:country":"US",
+    "sg:address":"180 Kokololio Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 9362",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WFqZ3wHK0Np2yhcZO2lcq_21.292831_-157.748326@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203036,
+    "wof:geomhash":"02985e31e490d45501c517608562e847",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857555177
+        }
+    ],
+    "wof:id":857555177,
+    "wof:lastmodified":1464203036,
+    "wof:name":"P & E Corp",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.748326,
+    21.292831,
+    -157.748326,
+    21.292831
+],
+  "geometry": {"coordinates":[-157.74832599999999,21.292831],"type":"Point"}
+}

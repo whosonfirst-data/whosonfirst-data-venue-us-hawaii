@@ -1,0 +1,75 @@
+{
+  "id": 857557313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.768349,21.360464,-157.768349,21.360464",
+    "geom:latitude":21.360464,
+    "geom:longitude":-157.768349,
+    "iso:country":"US",
+    "sg:address":"1289 Kika St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 1393",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yRLYOCF8ccaKtQ4lV6saI_21.360464_-157.768349@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203078,
+    "wof:geomhash":"12eec37ab175abe4d703b7f320815f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857557313
+        }
+    ],
+    "wof:id":857557313,
+    "wof:lastmodified":1464203078,
+    "wof:name":"Zak's Electric Inc",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.768349,
+    21.360464,
+    -157.768349,
+    21.360464
+],
+  "geometry": {"coordinates":[-157.768349,21.360464],"type":"Point"}
+}

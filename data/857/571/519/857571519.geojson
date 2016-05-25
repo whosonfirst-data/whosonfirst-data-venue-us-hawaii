@@ -1,0 +1,71 @@
+{
+  "id": 857571519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997896,21.425085,-157.997896,21.425085",
+    "geom:latitude":21.425085,
+    "geom:longitude":-157.997896,
+    "iso:country":"US",
+    "sg:address":"1480 Moaniani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 5725",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DzcvAfo2KNC0NrspQgMFC_21.425085_-157.997896@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203380,
+    "wof:geomhash":"bebb6eb54101dc305c8cad5c084b3a60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857571519
+        }
+    ],
+    "wof:id":857571519,
+    "wof:lastmodified":1464203380,
+    "wof:name":"Kaiser Permanente Med Care",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.997896,
+    21.425085,
+    -157.997896,
+    21.425085
+],
+  "geometry": {"coordinates":[-157.997896,21.425085],"type":"Point"}
+}

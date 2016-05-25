@@ -1,0 +1,71 @@
+{
+  "id": 857570483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.017988,21.37646,-158.017988,21.37646",
+    "geom:latitude":21.37646,
+    "geom:longitude":-158.017988,
+    "iso:country":"US",
+    "sg:address":"140 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1202",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNoMQuVdcZ1k6TCvRvcUe_21.376460_-158.017988@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203362,
+    "wof:geomhash":"310deab7fbe43c2875e40e80b1c91e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857570483
+        }
+    ],
+    "wof:id":857570483,
+    "wof:lastmodified":1464203362,
+    "wof:name":"Industrial Contracting LTD",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.017988,
+    21.37646,
+    -158.017988,
+    21.37646
+],
+  "geometry": {"coordinates":[-158.017988,21.37646],"type":"Point"}
+}

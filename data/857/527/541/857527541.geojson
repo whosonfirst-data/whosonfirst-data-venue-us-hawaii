@@ -1,0 +1,71 @@
+{
+  "id": 857527541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020818,21.342235,-158.020818,21.342235",
+    "geom:latitude":21.342235,
+    "geom:longitude":-158.020818,
+    "iso:country":"US",
+    "sg:address":"234 Kaukolu Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 685 0762",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AuDPo47GulJWDB2DeAbz8_21.342235_-158.020818@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202495,
+    "wof:geomhash":"08b65285d37767e2745f816fb50b2a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857527541
+        }
+    ],
+    "wof:id":857527541,
+    "wof:lastmodified":1464202495,
+    "wof:name":"Souza Inc",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -158.020818,
+    21.342235,
+    -158.020818,
+    21.342235
+],
+  "geometry": {"coordinates":[-158.02081799999999,21.342235],"type":"Point"}
+}

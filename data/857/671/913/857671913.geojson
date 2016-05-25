@@ -1,0 +1,75 @@
+{
+  "id": 857671913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.082364,19.719693,-155.082364,19.719693",
+    "geom:latitude":19.719693,
+    "geom:longitude":-155.082364,
+    "iso:country":"US",
+    "sg:address":"480 Kilauea Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 0045",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iqSfI8x2bzVeujQAZWDxt_19.719693_-155.082364@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206407,
+    "wof:geomhash":"8e4dd56671a112a5faa58e2066a3e8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857671913
+        }
+    ],
+    "wof:id":857671913,
+    "wof:lastmodified":1464206407,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -155.082364,
+    19.719693,
+    -155.082364,
+    19.719693
+],
+  "geometry": {"coordinates":[-155.08236400000001,19.719693],"type":"Point"}
+}

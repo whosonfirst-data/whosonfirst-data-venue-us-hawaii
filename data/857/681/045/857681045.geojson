@@ -1,0 +1,76 @@
+{
+  "id": 857681045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.977407,21.396332,-157.977407,21.396332",
+    "geom:latitude":21.396332,
+    "geom:longitude":-157.977407,
+    "iso:country":"US",
+    "sg:address":"1000 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/127074-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 383 6020",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IdYEypZVCvTJTKVMVNHTd_21.396332_-157.977407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206766,
+    "wof:geomhash":"9748981c999bf1f0aa826d425d6ffa93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857681045
+        }
+    ],
+    "wof:id":857681045,
+    "wof:lastmodified":1464206766,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.977407,
+    21.396332,
+    -157.977407,
+    21.396332
+],
+  "geometry": {"coordinates":[-157.977407,21.396332],"type":"Point"}
+}

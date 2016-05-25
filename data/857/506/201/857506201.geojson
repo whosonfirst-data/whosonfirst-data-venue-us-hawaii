@@ -1,0 +1,73 @@
+{
+  "id": 857506201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.107153,21.301212,-158.107153,21.301212",
+    "geom:latitude":21.301212,
+    "geom:longitude":-158.107153,
+    "iso:country":"US",
+    "sg:address":"86 Kaomi Loop",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5330",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QjdV0hCHdZtWflxK1czP7_21.301212_-158.107153@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202063,
+    "wof:geomhash":"f668b679d6db32468ef59879c53bb212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857506201
+        }
+    ],
+    "wof:id":857506201,
+    "wof:lastmodified":1464202063,
+    "wof:name":"AES Hawaii Inc",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -158.107153,
+    21.301212,
+    -158.107153,
+    21.301212
+],
+  "geometry": {"coordinates":[-158.10715300000001,21.301212],"type":"Point"}
+}

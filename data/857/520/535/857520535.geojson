@@ -1,0 +1,71 @@
+{
+  "id": 857520535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828566,21.281395,-157.828566,21.281395",
+    "geom:latitude":21.281395,
+    "geom:longitude":-157.828566,
+    "iso:country":"US",
+    "sg:address":"352 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 2334",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FMCAAVz0a4at3MdGeU1Uk_21.281395_-157.828566@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202363,
+    "wof:geomhash":"89b327a07b49adefa391e47e135c988b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857520535
+        }
+    ],
+    "wof:id":857520535,
+    "wof:lastmodified":1464202363,
+    "wof:name":"E Z Discount Stores",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.828566,
+    21.281395,
+    -157.828566,
+    21.281395
+],
+  "geometry": {"coordinates":[-157.828566,21.281395],"type":"Point"}
+}

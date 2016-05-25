@@ -1,0 +1,75 @@
+{
+  "id": 857566587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885976,21.322341,-157.885976,21.322341",
+    "geom:latitude":21.322341,
+    "geom:longitude":-157.885976,
+    "iso:country":"US",
+    "sg:address":"1733 Hoe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7203",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XRQEa6a1RmcXpK2HWlRld_21.322341_-157.885976@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203288,
+    "wof:geomhash":"ae23910724692dcded4f3997f6dd6ed3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857566587
+        }
+    ],
+    "wof:id":857566587,
+    "wof:lastmodified":1464203288,
+    "wof:name":"Bertelmann Electric Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.885976,
+    21.322341,
+    -157.885976,
+    21.322341
+],
+  "geometry": {"coordinates":[-157.885976,21.322341],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857637191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.939531,21.404294,-157.939531,21.404294",
+    "geom:latitude":21.404294,
+    "geom:longitude":-157.939531,
+    "iso:country":"US",
+    "sg:address":"1797 Hapaki St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 9744",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890677,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EmvsIZTnl90XvBvNXZRTL_21.404294_-157.939531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204911,
+    "wof:geomhash":"ad4dbbc0da521c2c64e7cb298922c65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890677,
+            "region_id":85688671,
+            "venue_id":857637191
+        }
+    ],
+    "wof:id":857637191,
+    "wof:lastmodified":1464204911,
+    "wof:name":"Bobby's Union Svc",
+    "wof:parent_id":85890677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.939531,
+    21.404294,
+    -157.939531,
+    21.404294
+],
+  "geometry": {"coordinates":[-157.93953099999999,21.404294],"type":"Point"}
+}

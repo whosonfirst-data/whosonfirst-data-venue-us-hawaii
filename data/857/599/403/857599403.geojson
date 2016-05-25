@@ -1,0 +1,71 @@
+{
+  "id": 857599403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008636,21.465488,-158.008636,21.465488",
+    "geom:latitude":21.465488,
+    "geom:longitude":-158.008636,
+    "iso:country":"US",
+    "sg:address":"1000 Lalai St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6694",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FZKfzdSvsYcY3f3zo9gTA_21.465488_-158.008636@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203971,
+    "wof:geomhash":"898a025fdcaa1270b0f2abe948d596ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857599403
+        }
+    ],
+    "wof:id":857599403,
+    "wof:lastmodified":1464203971,
+    "wof:name":"A P Menor Construction",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.008636,
+    21.465488,
+    -158.008636,
+    21.465488
+],
+  "geometry": {"coordinates":[-158.008636,21.465488],"type":"Point"}
+}

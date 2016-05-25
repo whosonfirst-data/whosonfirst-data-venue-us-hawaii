@@ -1,0 +1,72 @@
+{
+  "id": 857662271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905569,21.373939,-157.905569,21.373939",
+    "geom:latitude":21.373939,
+    "geom:longitude":-157.905569,
+    "iso:country":"US",
+    "sg:address":"1325 Halawa Valley St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 1777",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bottler"
+    ],
+    "sg:website":"www.pepsi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ourXKEVyN33RlekhZSwtp_21.373939_-157.905569@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206021,
+    "wof:geomhash":"c43b7288dc6390178682039166aa0c84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857662271
+        }
+    ],
+    "wof:id":857662271,
+    "wof:lastmodified":1464206021,
+    "wof:name":"Pepsi-Cola Hawaii",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -157.905569,
+    21.373939,
+    -157.905569,
+    21.373939
+],
+  "geometry": {"coordinates":[-157.90556900000001,21.373939],"type":"Point"}
+}

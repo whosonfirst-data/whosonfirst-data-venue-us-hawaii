@@ -1,0 +1,75 @@
+{
+  "id": 857675243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.36765,21.98096,-159.36765,21.98096",
+    "geom:latitude":21.98096,
+    "geom:longitude":-159.36765,
+    "iso:country":"US",
+    "sg:address":"3178 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 9090",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club",
+        "membership",
+        "sport",
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYBGclk9OfuIxOVzEBTdt_21.980960_-159.367650@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206534,
+    "wof:geomhash":"91b20c07a05f734d27d987207d584f19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857675243
+        }
+    ],
+    "wof:id":857675243,
+    "wof:lastmodified":1464206534,
+    "wof:name":"Camp Naue",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership",
+        "sport",
+        "recreation"
+    ]
+},
+  "bbox": [
+    -159.36765,
+    21.98096,
+    -159.36765,
+    21.98096
+],
+  "geometry": {"coordinates":[-159.36765,21.98096],"type":"Point"}
+}

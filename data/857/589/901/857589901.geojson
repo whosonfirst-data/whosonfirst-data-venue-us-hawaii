@@ -1,0 +1,75 @@
+{
+  "id": 857589901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861056,21.31129,-157.861056,21.31129",
+    "geom:latitude":21.31129,
+    "geom:longitude":-157.861056,
+    "iso:country":"US",
+    "sg:address":"22 S Pauahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 1441",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VNMn31TTMTVkAPpVdrSk1_21.311290_-157.861056@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203757,
+    "wof:geomhash":"db44fc6615b363920e58237077cbcd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872737,
+            "region_id":85688671,
+            "venue_id":857589901
+        }
+    ],
+    "wof:id":857589901,
+    "wof:lastmodified":1464203757,
+    "wof:name":"Wax N Shine Inc Lee's LLC",
+    "wof:parent_id":85872737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -157.861056,
+    21.31129,
+    -157.861056,
+    21.31129
+],
+  "geometry": {"coordinates":[-157.86105599999999,21.31129],"type":"Point"}
+}

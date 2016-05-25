@@ -1,0 +1,85 @@
+{
+  "id": 857542665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913495,21.318903,-157.913495,21.318903",
+    "geom:latitude":21.318903,
+    "geom:longitude":-157.913495,
+    "iso:country":"US",
+    "sg:address":"128 Mokuea Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1907",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t5AI3Kel3Phifl7DAubXl_21.318903_-157.913495@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202794,
+    "wof:geomhash":"72d04fcb1cd9e509efb73bfc2af7806e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857542665
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857542665
+        }
+    ],
+    "wof:id":857542665,
+    "wof:lastmodified":1464202794,
+    "wof:name":"UPS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -157.913495,
+    21.318903,
+    -157.913495,
+    21.318903
+],
+  "geometry": {"coordinates":[-157.91349500000001,21.318903],"type":"Point"}
+}

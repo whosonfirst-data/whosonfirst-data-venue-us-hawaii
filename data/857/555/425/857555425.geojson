@@ -1,0 +1,73 @@
+{
+  "id": 857555425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.055687,21.654078,-158.055687,21.654078",
+    "geom:latitude":21.654078,
+    "geom:longitude":-158.055687,
+    "iso:country":"US",
+    "sg:address":"405 Makana Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 7323",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85854145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15MJqUxAYularOVMq2hr0B_21.654078_-158.055687@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203042,
+    "wof:geomhash":"609ffb45ce501f194f39e36eee7abb18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85854145,
+            "region_id":85688671,
+            "venue_id":857555425
+        }
+    ],
+    "wof:id":857555425,
+    "wof:lastmodified":1464203042,
+    "wof:name":"Farwell Doy",
+    "wof:parent_id":85854145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -158.055687,
+    21.654078,
+    -158.055687,
+    21.654078
+],
+  "geometry": {"coordinates":[-158.05568700000001,21.654078],"type":"Point"}
+}

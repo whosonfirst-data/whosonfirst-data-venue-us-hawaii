@@ -1,0 +1,66 @@
+{
+  "id": 857540373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853103,21.297385,-157.853103,21.297385",
+    "geom:latitude":21.297385,
+    "geom:longitude":-157.853103,
+    "iso:country":"US",
+    "sg:address":"972 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 9725",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BH1veeHdqQx60TOiOBtdy_21.297385_-157.853103@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202743,
+    "wof:geomhash":"e6801dcb65dfa30b1acab933a7799c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857540373
+        }
+    ],
+    "wof:id":857540373,
+    "wof:lastmodified":1464202743,
+    "wof:name":"Rods Auto Service Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.853103,
+    21.297385,
+    -157.853103,
+    21.297385
+],
+  "geometry": {"coordinates":[-157.853103,21.297385],"type":"Point"}
+}

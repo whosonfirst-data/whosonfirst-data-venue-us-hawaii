@@ -1,0 +1,73 @@
+{
+  "id": 857648455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.908159,21.335891,-157.908159,21.335891",
+    "geom:latitude":21.335891,
+    "geom:longitude":-157.908159,
+    "iso:country":"US",
+    "sg:address":"3075 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 840 1011",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZfuW1f0x39quQErfnVMKB_21.335891_-157.908159@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205393,
+    "wof:geomhash":"810552ab2a3059291d10c7a687cd2786",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857648455
+        }
+    ],
+    "wof:id":857648455,
+    "wof:lastmodified":1464205393,
+    "wof:name":"Priority One Courier Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -157.908159,
+    21.335891,
+    -157.908159,
+    21.335891
+],
+  "geometry": {"coordinates":[-157.90815900000001,21.335891],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857652733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083553,21.34046,-158.083553,21.34046",
+    "geom:latitude":21.34046,
+    "geom:longitude":-158.083553,
+    "iso:country":"US",
+    "sg:address":"546 Akaawa St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 3465",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YSRC3su0C3dYqLZkP4lGu_21.340460_-158.083553@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205575,
+    "wof:geomhash":"b2c423620bc5719860001a472a293166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857652733
+        }
+    ],
+    "wof:id":857652733,
+    "wof:lastmodified":1464205575,
+    "wof:name":"Island Pacific Interiors",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.083553,
+    21.34046,
+    -158.083553,
+    21.34046
+],
+  "geometry": {"coordinates":[-158.08355299999999,21.34046],"type":"Point"}
+}

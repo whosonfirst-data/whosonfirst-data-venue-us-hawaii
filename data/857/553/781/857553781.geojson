@@ -1,0 +1,75 @@
+{
+  "id": 857553781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.973002,21.385128,-157.973002,21.385128",
+    "geom:latitude":21.385128,
+    "geom:longitude":-157.973002,
+    "iso:country":"US",
+    "sg:address":"794 Lehua Ave",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 8114",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "rebuilt",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15nRgST31z1H35CliKeBM2_21.385128_-157.973002@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203003,
+    "wof:geomhash":"f4471ec55cdcb30910fb55105fe22f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857553781
+        }
+    ],
+    "wof:id":857553781,
+    "wof:lastmodified":1464203003,
+    "wof:name":"ABC Used Auto Parts",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt",
+        "used"
+    ]
+},
+  "bbox": [
+    -157.973002,
+    21.385128,
+    -157.973002,
+    21.385128
+],
+  "geometry": {"coordinates":[-157.97300200000001,21.385128],"type":"Point"}
+}

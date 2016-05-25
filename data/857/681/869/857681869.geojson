@@ -1,0 +1,74 @@
+{
+  "id": 857681869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831528,21.278483,-157.831528,21.278483",
+    "geom:latitude":21.278483,
+    "geom:longitude":-157.831528,
+    "iso:country":"US",
+    "sg:address":"205 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/9253-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 8188",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IHNIt6msLb2n1k44ITlUb_21.278753_-157.831269@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206810,
+    "wof:geomhash":"61ff660deb35ff906493cf13899a3583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681869
+        }
+    ],
+    "wof:id":857681869,
+    "wof:lastmodified":1464206810,
+    "wof:name":"Denny's",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -157.831528,
+    21.278483,
+    -157.831528,
+    21.278483
+],
+  "geometry": {"coordinates":[-157.83152799999999,21.278483],"type":"Point"}
+}

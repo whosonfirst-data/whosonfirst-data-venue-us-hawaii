@@ -1,0 +1,73 @@
+{
+  "id": 857593333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834999,21.296541,-157.834999,21.296541",
+    "geom:latitude":21.296541,
+    "geom:longitude":-157.834999,
+    "iso:country":"US",
+    "sg:address":"1633 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 0177",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "high",
+        "junior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70PtKgOonBa6KxAoMgIT6H_21.296541_-157.834999@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203835,
+    "wof:geomhash":"a33388ecad0eb6fa4ddba2fd542b63ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857593333
+        }
+    ],
+    "wof:id":857593333,
+    "wof:lastmodified":1464203835,
+    "wof:name":"Washington Intermediate",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "junior"
+    ]
+},
+  "bbox": [
+    -157.834999,
+    21.296541,
+    -157.834999,
+    21.296541
+],
+  "geometry": {"coordinates":[-157.83499900000001,21.296541],"type":"Point"}
+}

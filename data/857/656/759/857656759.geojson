@@ -1,0 +1,71 @@
+{
+  "id": 857656759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.09861,21.308457,-158.09861,21.308457",
+    "geom:latitude":21.308457,
+    "geom:longitude":-158.09861,
+    "iso:country":"US",
+    "sg:address":"255 Kalaeloa Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 1344",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gRrAfZoN32ALHW2C7EDIZ_21.308457_-158.098610@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205757,
+    "wof:geomhash":"a7109ef46728ad20b686de4ed5117ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857656759
+        }
+    ],
+    "wof:id":857656759,
+    "wof:lastmodified":1464205757,
+    "wof:name":"Akamai Homes Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.09861,
+    21.308457,
+    -158.09861,
+    21.308457
+],
+  "geometry": {"coordinates":[-158.09861000000001,21.308457],"type":"Point"}
+}

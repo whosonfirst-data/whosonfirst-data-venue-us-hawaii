@@ -1,0 +1,82 @@
+{
+  "id": 857631619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.708988,21.305974,-157.708988,21.305974",
+    "geom:latitude":21.305974,
+    "geom:longitude":-157.708988,
+    "iso:country":"US",
+    "sg:address":"888 Hokulani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 292 6015",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "commercial",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ii5hmrShNk2BcOVrOy2G7_21.305974_-157.708988@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204700,
+    "wof:geomhash":"33efe9a35203a145aa08c7feec29c9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857631619
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857631619
+        }
+    ],
+    "wof:id":857631619,
+    "wof:lastmodified":1464204700,
+    "wof:name":"White Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -157.708988,
+    21.305974,
+    -157.708988,
+    21.305974
+],
+  "geometry": {"coordinates":[-157.70898800000001,21.305974],"type":"Point"}
+}

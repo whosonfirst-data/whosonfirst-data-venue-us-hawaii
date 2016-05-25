@@ -1,0 +1,71 @@
+{
+  "id": 857577171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852136,21.297019,-157.852136,21.297019",
+    "geom:latitude":21.297019,
+    "geom:longitude":-157.852136,
+    "iso:country":"US",
+    "sg:address":"532 Cummins St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8110",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GQ3FMsrWMbbuVk7AKgmE2_21.297019_-157.852136@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203495,
+    "wof:geomhash":"74ede343209cb8a1681ce41315c640d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857577171
+        }
+    ],
+    "wof:id":857577171,
+    "wof:lastmodified":1464203495,
+    "wof:name":"Club Sun",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.852136,
+    21.297019,
+    -157.852136,
+    21.297019
+],
+  "geometry": {"coordinates":[-157.852136,21.297019],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857522011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820948,21.289448,-157.820948,21.289448",
+    "geom:latitude":21.289448,
+    "geom:longitude":-157.820948,
+    "iso:country":"US",
+    "sg:address":"2637 Kuilei St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 1308",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AfInwH8P4zKE54fHIIBo5_21.289448_-157.820948@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202390,
+    "wof:geomhash":"8ff03cd22d584bc955e2406dd98f8ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857522011
+        }
+    ],
+    "wof:id":857522011,
+    "wof:lastmodified":1464202390,
+    "wof:name":"Hono Hale Towers",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.820948,
+    21.289448,
+    -157.820948,
+    21.289448
+],
+  "geometry": {"coordinates":[-157.82094799999999,21.289448],"type":"Point"}
+}

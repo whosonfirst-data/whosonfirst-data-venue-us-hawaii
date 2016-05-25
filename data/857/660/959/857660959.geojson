@@ -1,0 +1,78 @@
+{
+  "id": 857660959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954227,21.387617,-157.954227,21.387617",
+    "geom:latitude":21.387617,
+    "geom:longitude":-157.954227,
+    "iso:country":"US",
+    "sg:address":"1258 Kaahumanu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 8181",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OTmRhCOSfmt6Sja09nm2e_21.387617_-157.954227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205957,
+    "wof:geomhash":"21ddefbcc354d1b2ecd9921d65c114ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857660959
+        }
+    ],
+    "wof:id":857660959,
+    "wof:lastmodified":1464205957,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.954227,
+    21.387617,
+    -157.954227,
+    21.387617
+],
+  "geometry": {"coordinates":[-157.954227,21.387617],"type":"Point"}
+}

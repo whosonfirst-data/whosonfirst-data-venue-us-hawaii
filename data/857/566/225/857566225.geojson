@@ -1,0 +1,66 @@
+{
+  "id": 857566225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830935,21.297796,-157.830935,21.297796",
+    "geom:latitude":21.297796,
+    "geom:longitude":-157.830935,
+    "iso:country":"US",
+    "sg:address":"1208 Artesian St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 944 2711",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IXAfCAqXjcrZyvc6Um61m_21.297796_-157.830935@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203276,
+    "wof:geomhash":"4b16f1a7926e35e863f4450cff0bbfd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857566225
+        }
+    ],
+    "wof:id":857566225,
+    "wof:lastmodified":1464203276,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.830935,
+    21.297796,
+    -157.830935,
+    21.297796
+],
+  "geometry": {"coordinates":[-157.83093500000001,21.297796],"type":"Point"}
+}

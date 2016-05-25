@@ -1,0 +1,75 @@
+{
+  "id": 857605717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872338,21.338745,-157.872338,21.338745",
+    "geom:latitude":21.338745,
+    "geom:longitude":-157.872338,
+    "iso:country":"US",
+    "sg:address":"1626 Martin St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1997",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cards",
+        "greeting",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QuRnKyO1XfF7ORfA6r5IL_21.338745_-157.872338@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204111,
+    "wof:geomhash":"628e127c5bc890980ea3410c0e5056b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857605717
+        }
+    ],
+    "wof:id":857605717,
+    "wof:lastmodified":1464204111,
+    "wof:name":"Kanaka Prints",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.872338,
+    21.338745,
+    -157.872338,
+    21.338745
+],
+  "geometry": {"coordinates":[-157.87233800000001,21.338745],"type":"Point"}
+}

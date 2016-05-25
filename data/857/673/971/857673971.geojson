@@ -1,0 +1,73 @@
+{
+  "id": 857673971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030683,21.496356,-158.030683,21.496356",
+    "geom:latitude":21.496356,
+    "geom:longitude":-158.030683,
+    "iso:country":"US",
+    "sg:address":"61 Kukui St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5997",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l61raD5gOyKvWuaobIcY8_21.496356_-158.030683@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206485,
+    "wof:geomhash":"5f36641e43bbbe313b9b4b47fee344e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857673971
+        }
+    ],
+    "wof:id":857673971,
+    "wof:lastmodified":1464206485,
+    "wof:name":"J R D Electrical Svc Corp",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.030683,
+    21.496356,
+    -158.030683,
+    21.496356
+],
+  "geometry": {"coordinates":[-158.03068300000001,21.496356],"type":"Point"}
+}

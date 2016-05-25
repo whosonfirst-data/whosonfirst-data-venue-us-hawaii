@@ -1,0 +1,73 @@
+{
+  "id": 857633811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.654904,20.997697,-156.654904,20.997697",
+    "geom:latitude":20.997697,
+    "geom:longitude":-156.654904,
+    "iso:country":"US",
+    "sg:address":"1 Kapalua Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 8008",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937677,
+        102085577,
+        85890521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00QNNIt6yp5oPY1w2wQnrZ_20.997697_-156.654904@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204785,
+    "wof:geomhash":"24bccffcb887d819fb6ea6339937128e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937677,
+            "neighbourhood_id":85890521,
+            "region_id":85688671,
+            "venue_id":857633811
+        }
+    ],
+    "wof:id":857633811,
+    "wof:lastmodified":1464204785,
+    "wof:name":"Bay Club Restuarant",
+    "wof:parent_id":85890521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -156.654904,
+    20.997697,
+    -156.654904,
+    20.997697
+],
+  "geometry": {"coordinates":[-156.65490399999999,20.997697],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857558985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.635238,21.00645,-156.635238,21.00645",
+    "geom:latitude":21.00645,
+    "geom:longitude":-156.635238,
+    "iso:country":"US",
+    "sg:address":"577 Honokohau St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 6333",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890511,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AeEA25FEME6dfcV3YrrQ2_21.006450_-156.635238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203127,
+    "wof:geomhash":"0864c9fc6edfa08f4b20d2449e36901c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890511,
+            "region_id":85688671,
+            "venue_id":857558985
+        }
+    ],
+    "wof:id":857558985,
+    "wof:lastmodified":1464203127,
+    "wof:name":"Active Crane",
+    "wof:parent_id":85890511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.635238,
+    21.00645,
+    -156.635238,
+    21.00645
+],
+  "geometry": {"coordinates":[-156.63523799999999,21.00645],"type":"Point"}
+}

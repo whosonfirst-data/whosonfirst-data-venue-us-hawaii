@@ -1,0 +1,66 @@
+{
+  "id": 857589341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.475025,20.879089,-156.475025,20.879089",
+    "geom:latitude":20.879089,
+    "geom:longitude":-156.475025,
+    "iso:country":"US",
+    "sg:address":"425 S Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 5492",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RfeXFHAjkzgBlzeTBaCva_20.879089_-156.475025@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203746,
+    "wof:geomhash":"c54ce6b76bef7d67e8bf1e2308f407ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857589341
+        }
+    ],
+    "wof:id":857589341,
+    "wof:lastmodified":1464203746,
+    "wof:name":"Ballaos Food Service LLC",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.475025,
+    20.879089,
+    -156.475025,
+    20.879089
+],
+  "geometry": {"coordinates":[-156.47502499999999,20.879089],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857573729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87858,21.332469,-157.87858,21.332469",
+    "geom:latitude":21.332469,
+    "geom:longitude":-157.87858,
+    "iso:country":"US",
+    "sg:address":"2029 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6818",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00RDo6e5vL0oZYgiOT9Cho_21.332469_-157.878580@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203426,
+    "wof:geomhash":"5a72ac271fecbd91234cf342fb58b033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857573729
+        }
+    ],
+    "wof:id":857573729,
+    "wof:lastmodified":1464203426,
+    "wof:name":"Joe's Barber Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.87858,
+    21.332469,
+    -157.87858,
+    21.332469
+],
+  "geometry": {"coordinates":[-157.87858,21.332469],"type":"Point"}
+}

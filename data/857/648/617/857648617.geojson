@@ -1,0 +1,71 @@
+{
+  "id": 857648617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856545,21.30021,-157.856545,21.30021",
+    "geom:latitude":21.30021,
+    "geom:longitude":-157.856545,
+    "iso:country":"US",
+    "sg:address":"605 Cooke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8080",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bUZMc2S2GPp40VZVd9mkV_21.300210_-157.856545@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205399,
+    "wof:geomhash":"383698a87e0b8d6b5094156f9ca01d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857648617
+        }
+    ],
+    "wof:id":857648617,
+    "wof:lastmodified":1464205399,
+    "wof:name":"Cooke Street Diner LLC",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.856545,
+    21.30021,
+    -157.856545,
+    21.30021
+],
+  "geometry": {"coordinates":[-157.85654500000001,21.30021],"type":"Point"}
+}

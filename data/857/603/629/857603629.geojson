@@ -1,0 +1,75 @@
+{
+  "id": 857603629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.922378,21.398432,-157.922378,21.398432",
+    "geom:latitude":21.398432,
+    "geom:longitude":-157.922378,
+    "iso:country":"US",
+    "sg:address":"1439 Kaonohi St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 7833",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pBdxDEq7wMskpcJ36w76t_21.398432_-157.922378@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204068,
+    "wof:geomhash":"d7c5938af40bbe02f30524b4669de066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857603629
+        }
+    ],
+    "wof:id":857603629,
+    "wof:lastmodified":1464204068,
+    "wof:name":"Eaton R Arakaki Truck",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.922378,
+    21.398432,
+    -157.922378,
+    21.398432
+],
+  "geometry": {"coordinates":[-157.92237800000001,21.398432],"type":"Point"}
+}

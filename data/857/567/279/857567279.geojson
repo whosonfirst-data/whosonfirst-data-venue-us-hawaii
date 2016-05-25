@@ -1,0 +1,77 @@
+{
+  "id": 857567279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.984109,19.62704,-155.984109,19.62704",
+    "geom:latitude":19.62704,
+    "geom:longitude":-155.984109,
+    "iso:country":"US",
+    "sg:address":"155 Lunapule Rd",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 322 7026",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14zmsZKg5kRywCskgUL15a_19.627040_-155.984109@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203303,
+    "wof:geomhash":"b7f568a12e63afe5a05dd058b4db6794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890345,
+            "region_id":85688671,
+            "venue_id":857567279
+        }
+    ],
+    "wof:id":857567279,
+    "wof:lastmodified":1464203303,
+    "wof:name":"Advanced Drug Testing Svc LLC",
+    "wof:parent_id":85890345,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -155.984109,
+    19.62704,
+    -155.984109,
+    19.62704
+],
+  "geometry": {"coordinates":[-155.98410899999999,19.62704],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857645011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799753,21.413466,-157.799753,21.413466",
+    "geom:latitude":21.413466,
+    "geom:longitude":-157.799753,
+    "iso:country":"US",
+    "sg:address":"211 Waikalua Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 8840",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L7M5tVOIjBU5XXZ7dRLKR_21.413466_-157.799753@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205239,
+    "wof:geomhash":"e3da647842b4aa444f2ba2d912ec5179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857645011
+        }
+    ],
+    "wof:id":857645011,
+    "wof:lastmodified":1464205239,
+    "wof:name":"Rainbow Schools",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.799753,
+    21.413466,
+    -157.799753,
+    21.413466
+],
+  "geometry": {"coordinates":[-157.79975300000001,21.413466],"type":"Point"}
+}

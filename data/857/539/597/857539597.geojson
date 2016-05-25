@@ -1,0 +1,71 @@
+{
+  "id": 857539597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838726,21.305742,-157.838726,21.305742",
+    "geom:latitude":21.305742,
+    "geom:longitude":-157.838726,
+    "iso:country":"US",
+    "sg:address":"1415 Liholiho St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 8714",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Di90BQ5RVCNZY6u96drbj_21.305742_-157.838726@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202729,
+    "wof:geomhash":"bc7b0baaea5ab250362e54ed35b35b0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857539597
+        }
+    ],
+    "wof:id":857539597,
+    "wof:lastmodified":1464202729,
+    "wof:name":"Pau Hana Weekly",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -157.838726,
+    21.305742,
+    -157.838726,
+    21.305742
+],
+  "geometry": {"coordinates":[-157.83872600000001,21.305742],"type":"Point"}
+}

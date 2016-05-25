@@ -1,0 +1,73 @@
+{
+  "id": 857521927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.790944,21.267589,-157.790944,21.267589",
+    "geom:latitude":21.267589,
+    "geom:longitude":-157.790944,
+    "iso:country":"US",
+    "sg:address":"4432 Puu Panini Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7060",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WVFeZ2KOZHccLZRjhaRiz_21.267589_-157.790944@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202388,
+    "wof:geomhash":"1e95118abf2c7df85f38e68610e5a97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857521927
+        }
+    ],
+    "wof:id":857521927,
+    "wof:lastmodified":1464202388,
+    "wof:name":"Vic's Auto Shop Inc",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.790944,
+    21.267589,
+    -157.790944,
+    21.267589
+],
+  "geometry": {"coordinates":[-157.790944,21.267589],"type":"Point"}
+}

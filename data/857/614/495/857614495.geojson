@@ -1,0 +1,73 @@
+{
+  "id": 857614495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830829,21.282146,-157.830829,21.282146",
+    "geom:latitude":21.282146,
+    "geom:longitude":-157.830829,
+    "iso:country":"US",
+    "sg:address":"2134 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 4310",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VdLofeI3eiqdTnDunGcrY_21.282146_-157.830829@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204310,
+    "wof:geomhash":"55ce4230a86d867c9c43f9995fcaf676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857614495
+        }
+    ],
+    "wof:id":857614495,
+    "wof:lastmodified":1464204310,
+    "wof:name":"Miki Paris Optique",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.830829,
+    21.282146,
+    -157.830829,
+    21.282146
+],
+  "geometry": {"coordinates":[-157.83082899999999,21.282146],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857623759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.06252,19.70251,-155.06252,19.70251",
+    "geom:latitude":19.70251,
+    "geom:longitude":-155.06252,
+    "iso:country":"US",
+    "sg:address":"100 Kukila St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 6484",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_133Xh17Mn76w1Xa4n8ncSK_19.702510_-155.062520@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204528,
+    "wof:geomhash":"23e00449edc63e8e2dd47561628a240c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857623759
+        }
+    ],
+    "wof:id":857623759,
+    "wof:lastmodified":1464204528,
+    "wof:name":"DMS Diesel Repair LLC",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -155.06252,
+    19.70251,
+    -155.06252,
+    19.70251
+],
+  "geometry": {"coordinates":[-155.06252000000001,19.70251],"type":"Point"}
+}

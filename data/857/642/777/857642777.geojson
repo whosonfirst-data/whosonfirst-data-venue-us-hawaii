@@ -1,0 +1,71 @@
+{
+  "id": 857642777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848601,21.363262,-157.848601,21.363262",
+    "geom:latitude":21.363262,
+    "geom:longitude":-157.848601,
+    "iso:country":"US",
+    "sg:address":"1930 Umalu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 4501",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42fLhzac2lbCtle8gqInBW_21.363262_-157.848601@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205128,
+    "wof:geomhash":"e03ecaa35df8ec714d08ab7dde502ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857642777
+        }
+    ],
+    "wof:id":857642777,
+    "wof:lastmodified":1464205128,
+    "wof:name":"Kalihi Sari Sari Store",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -157.848601,
+    21.363262,
+    -157.848601,
+    21.363262
+],
+  "geometry": {"coordinates":[-157.848601,21.363262],"type":"Point"}
+}

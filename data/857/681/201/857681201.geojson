@@ -1,0 +1,72 @@
+{
+  "id": 857681201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025248,21.378604,-158.025248,21.378604",
+    "geom:latitude":21.378604,
+    "geom:longitude":-158.025248,
+    "iso:country":"US",
+    "sg:address":"94-050 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/109781-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 0022",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MPnUHa2SKBxZwe5Y8Z13X_21.378604_-158.025248@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206775,
+    "wof:geomhash":"514d24acdd8c365e7340031f9758ce49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857681201
+        }
+    ],
+    "wof:id":857681201,
+    "wof:lastmodified":1464206775,
+    "wof:name":"Subway",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -158.025248,
+    21.378604,
+    -158.025248,
+    21.378604
+],
+  "geometry": {"coordinates":[-158.025248,21.378604],"type":"Point"}
+}

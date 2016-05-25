@@ -1,0 +1,71 @@
+{
+  "id": 857679783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834666,21.286576,-157.834666,21.286576",
+    "geom:latitude":21.286576,
+    "geom:longitude":-157.834666,
+    "iso:country":"US",
+    "sg:address":"469 Ena Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 5455",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eVMj54wecEGpCUl1EYZKi_21.286576_-157.834666@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206722,
+    "wof:geomhash":"d23fea8b548decaecb6b2946fc8b7661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857679783
+        }
+    ],
+    "wof:id":857679783,
+    "wof:lastmodified":1464206722,
+    "wof:name":"Waipuna Condominium",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.834666,
+    21.286576,
+    -157.834666,
+    21.286576
+],
+  "geometry": {"coordinates":[-157.834666,21.286576],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857614235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.985824,21.395616,-157.985824,21.395616",
+    "geom:latitude":21.395616,
+    "geom:longitude":-157.985824,
+    "iso:country":"US",
+    "sg:address":"60 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1595",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mv9V65O9YZ17SJQ5JZ9Tx_21.395616_-157.985824@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204305,
+    "wof:geomhash":"668af2ca9414c2d08f41bfbab62caaed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857614235
+        }
+    ],
+    "wof:id":857614235,
+    "wof:lastmodified":1464204305,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.985824,
+    21.395616,
+    -157.985824,
+    21.395616
+],
+  "geometry": {"coordinates":[-157.98582400000001,21.395616],"type":"Point"}
+}

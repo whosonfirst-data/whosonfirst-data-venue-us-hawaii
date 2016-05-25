@@ -1,0 +1,66 @@
+{
+  "id": 857649731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825173,21.280715,-157.825173,21.280715",
+    "geom:latitude":21.280715,
+    "geom:longitude":-157.825173,
+    "iso:country":"US",
+    "sg:address":"417 Nohonani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 5900",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BeoK5SNy3VQz1GNUMtCTQ_21.280715_-157.825173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205444,
+    "wof:geomhash":"45f2ae9f2350d426920545fb2b44dc71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857649731
+        }
+    ],
+    "wof:id":857649731,
+    "wof:lastmodified":1464205444,
+    "wof:name":"King's Mini Mart",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.825173,
+    21.280715,
+    -157.825173,
+    21.280715
+],
+  "geometry": {"coordinates":[-157.82517300000001,21.280715],"type":"Point"}
+}

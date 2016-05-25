@@ -1,0 +1,74 @@
+{
+  "id": 857680945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.692975,20.923044,-156.692975,20.923044",
+    "geom:latitude":20.923044,
+    "geom:longitude":-156.692975,
+    "iso:country":"US",
+    "sg:address":"2525 Kaanapali Pkwy",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/3291-the-tiki-terrace/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0011",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937683,
+        102085577,
+        85890509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DjGP3x9TOp0za8HX9XTyd_20.923044_-156.692975@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206762,
+    "wof:geomhash":"4075e4090528f5eaceb6ce6b77b9a9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937683,
+            "neighbourhood_id":85890509,
+            "region_id":85688671,
+            "venue_id":857680945
+        }
+    ],
+    "wof:id":857680945,
+    "wof:lastmodified":1464206762,
+    "wof:name":"The Tiki Terrace",
+    "wof:parent_id":85890509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -156.692975,
+    20.923044,
+    -156.692975,
+    20.923044
+],
+  "geometry": {"coordinates":[-156.69297499999999,20.923044],"type":"Point"}
+}

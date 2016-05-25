@@ -1,0 +1,71 @@
+{
+  "id": 857546357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.396642,21.965417,-159.396642,21.965417",
+    "geom:latitude":21.965417,
+    "geom:longitude":-159.396642,
+    "iso:country":"US",
+    "sg:address":"1811 Leleiona St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 9265",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38wni968BMR98fskBcXPNI_21.965417_-159.396642@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202863,
+    "wof:geomhash":"a8239d151a574f78b1b5bd5780520e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857546357
+        }
+    ],
+    "wof:id":857546357,
+    "wof:lastmodified":1464202863,
+    "wof:name":"Unitek Solvent Svc",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -159.396642,
+    21.965417,
+    -159.396642,
+    21.965417
+],
+  "geometry": {"coordinates":[-159.39664200000001,21.965417],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 857645909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905231,21.332437,-157.905231,21.332437",
+    "geom:latitude":21.332437,
+    "geom:longitude":-157.905231,
+    "iso:country":"US",
+    "sg:address":"2912 Aolele St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 5536",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fcfW4uEsWcoDvw39bN9Ko_21.332437_-157.905231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205274,
+    "wof:geomhash":"1e942bd06beba354de9fce333c0f0f99",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857645909
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857645909
+        }
+    ],
+    "wof:id":857645909,
+    "wof:lastmodified":1464205274,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.905231,
+    21.332437,
+    -157.905231,
+    21.332437
+],
+  "geometry": {"coordinates":[-157.90523099999999,21.332437],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857527789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.919347,21.391444,-157.919347,21.391444",
+    "geom:latitude":21.391444,
+    "geom:longitude":-157.919347,
+    "iso:country":"US",
+    "sg:address":"1329 Akaaka St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 484 9494",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "restoration",
+        "cleaning",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zXUdaWVc94oXRWhT47uCN_21.391444_-157.919347@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202500,
+    "wof:geomhash":"1ffc21a2bc58fdbc5fe15574286a5ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857527789
+        }
+    ],
+    "wof:id":857527789,
+    "wof:lastmodified":1464202500,
+    "wof:name":"Can AM Coatings",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "restoration",
+        "cleaning",
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.919347,
+    21.391444,
+    -157.919347,
+    21.391444
+],
+  "geometry": {"coordinates":[-157.91934699999999,21.391444],"type":"Point"}
+}

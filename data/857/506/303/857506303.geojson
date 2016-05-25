@@ -1,0 +1,73 @@
+{
+  "id": 857506303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.979114,21.403127,-157.979114,21.403127",
+    "geom:latitude":21.403127,
+    "geom:longitude":-157.979114,
+    "iso:country":"US",
+    "sg:address":"508 Birch Cir",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 3149",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23IuhVOd28ZCujNKo6IWlW_21.403127_-157.979114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202066,
+    "wof:geomhash":"9ea680e1ea7fa03e5ff28a1747170618",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857506303
+        }
+    ],
+    "wof:id":857506303,
+    "wof:lastmodified":1464202066,
+    "wof:name":"Party Town",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.979114,
+    21.403127,
+    -157.979114,
+    21.403127
+],
+  "geometry": {"coordinates":[-157.97911400000001,21.403127],"type":"Point"}
+}

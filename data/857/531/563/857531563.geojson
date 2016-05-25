@@ -1,0 +1,71 @@
+{
+  "id": 857531563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723062,21.289111,-157.723062,21.289111",
+    "geom:latitude":21.289111,
+    "geom:longitude":-157.723062,
+    "iso:country":"US",
+    "sg:address":"6119 Kawekiu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 7414",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jQcN9ZhAfOI0s8FM09gP8_21.289111_-157.723062@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202578,
+    "wof:geomhash":"2bd6d64abc7a343df736aa19fedab6ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857531563
+        }
+    ],
+    "wof:id":857531563,
+    "wof:lastmodified":1464202578,
+    "wof:name":"Lorraine Sonoda-Fogel MD",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.723062,
+    21.289111,
+    -157.723062,
+    21.289111
+],
+  "geometry": {"coordinates":[-157.723062,21.289111],"type":"Point"}
+}

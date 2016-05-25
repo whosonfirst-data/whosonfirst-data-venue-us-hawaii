@@ -1,0 +1,73 @@
+{
+  "id": 857681047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.974127,21.398274,-157.974127,21.398274",
+    "geom:latitude":21.398274,
+    "geom:longitude":-157.974127,
+    "iso:country":"US",
+    "sg:address":"1131 Kuala St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/202820-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E9FmrYF4LF2BLsK1xryV8_21.398274_-157.974127@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206766,
+    "wof:geomhash":"04fb894ce3a53c1a693af80f1fc45802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857681047
+        }
+    ],
+    "wof:id":857681047,
+    "wof:lastmodified":1464206766,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.974127,
+    21.398274,
+    -157.974127,
+    21.398274
+],
+  "geometry": {"coordinates":[-157.97412700000001,21.398274],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857640603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506206,20.890607,-156.506206,20.890607",
+    "geom:latitude":20.890607,
+    "geom:longitude":-156.506206,
+    "iso:country":"US",
+    "sg:address":"2158 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3933",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0niGRHmhIOBxdO0fcbhonL_20.890607_-156.506206@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205048,
+    "wof:geomhash":"0d233cf085464e971d5b536998b0b61f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857640603
+        }
+    ],
+    "wof:id":857640603,
+    "wof:lastmodified":1464205048,
+    "wof:name":"Tateishi & Assoc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -156.506206,
+    20.890607,
+    -156.506206,
+    20.890607
+],
+  "geometry": {"coordinates":[-156.50620599999999,20.890607],"type":"Point"}
+}

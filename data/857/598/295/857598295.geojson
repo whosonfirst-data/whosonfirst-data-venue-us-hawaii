@@ -1,0 +1,71 @@
+{
+  "id": 857598295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.936577,21.403876,-157.936577,21.403876",
+    "geom:latitude":21.403876,
+    "geom:longitude":-157.936577,
+    "iso:country":"US",
+    "sg:address":"823 Leialii St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1010",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nTs15T6tJwZ57q48uTtts_21.403876_-157.936577@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203947,
+    "wof:geomhash":"46b42a72193ca922b5f2461c3f525985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857598295
+        }
+    ],
+    "wof:id":857598295,
+    "wof:lastmodified":1464203947,
+    "wof:name":"Tenco Hair Shop",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.936577,
+    21.403876,
+    -157.936577,
+    21.403876
+],
+  "geometry": {"coordinates":[-157.936577,21.403876],"type":"Point"}
+}

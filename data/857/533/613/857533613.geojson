@@ -1,0 +1,71 @@
+{
+  "id": 857533613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889262,21.325811,-157.889262,21.325811",
+    "geom:latitude":21.325811,
+    "geom:longitude":-157.889262,
+    "iso:country":"US",
+    "sg:address":"214 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7625",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36a97MOEIqHRUo50dDgJ0b_21.325811_-157.889262@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202614,
+    "wof:geomhash":"ba0265ef84fb1172aa48a1895bcaa769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857533613
+        }
+    ],
+    "wof:id":857533613,
+    "wof:lastmodified":1464202614,
+    "wof:name":"Climbers Paradise",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.889262,
+    21.325811,
+    -157.889262,
+    21.325811
+],
+  "geometry": {"coordinates":[-157.889262,21.325811],"type":"Point"}
+}

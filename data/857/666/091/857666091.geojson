@@ -1,0 +1,66 @@
+{
+  "id": 857666091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842084,21.301257,-157.842084,21.301257",
+    "geom:latitude":21.301257,
+    "geom:longitude":-157.842084,
+    "iso:country":"US",
+    "sg:address":"1290 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 5411",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gSAHleqFCyfLfdG5jAQ8W_21.301257_-157.842084@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206188,
+    "wof:geomhash":"a7187c79d9165effe9c89ab2ea8e5bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857666091
+        }
+    ],
+    "wof:id":857666091,
+    "wof:lastmodified":1464206188,
+    "wof:name":"Sushi Co",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.842084,
+    21.301257,
+    -157.842084,
+    21.301257
+],
+  "geometry": {"coordinates":[-157.842084,21.301257],"type":"Point"}
+}

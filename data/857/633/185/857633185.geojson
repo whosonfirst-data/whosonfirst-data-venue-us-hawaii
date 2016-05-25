@@ -1,0 +1,75 @@
+{
+  "id": 857633185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.452309,20.740056,-156.452309,20.740056",
+    "geom:latitude":20.740056,
+    "geom:longitude":-156.452309,
+    "iso:country":"US",
+    "sg:address":"74 Waipahe St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 875 7073",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mav94sjlyZyrxBiu3cXC_20.740056_-156.452309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204763,
+    "wof:geomhash":"55765f1b72b120317f58d5fe237afc7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857633185
+        }
+    ],
+    "wof:id":857633185,
+    "wof:lastmodified":1464204763,
+    "wof:name":"South Shore Electric",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.452309,
+    20.740056,
+    -156.452309,
+    20.740056
+],
+  "geometry": {"coordinates":[-156.45230900000001,20.740056],"type":"Point"}
+}

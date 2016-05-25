@@ -1,0 +1,75 @@
+{
+  "id": 857556219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.923119,21.357389,-157.923119,21.357389",
+    "geom:latitude":21.357389,
+    "geom:longitude":-157.923119,
+    "iso:country":"US",
+    "sg:address":"4374 Keaka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8453",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E3CGVcJgd5TVyqZ8jw4lv_21.357389_-157.923119@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203056,
+    "wof:geomhash":"5116bbb32187f5964811912110ae35b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857556219
+        }
+    ],
+    "wof:id":857556219,
+    "wof:lastmodified":1464203056,
+    "wof:name":"Ceramic Stile Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.923119,
+    21.357389,
+    -157.923119,
+    21.357389
+],
+  "geometry": {"coordinates":[-157.92311900000001,21.357389],"type":"Point"}
+}

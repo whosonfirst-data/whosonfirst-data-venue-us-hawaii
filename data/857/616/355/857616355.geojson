@@ -1,0 +1,71 @@
+{
+  "id": 857616355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.792447,21.287769,-157.792447,21.287769",
+    "geom:latitude":21.287769,
+    "geom:longitude":-157.792447,
+    "iso:country":"US",
+    "sg:address":"3737 Sierra Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7119",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wy2en335bHfLYiaT3T3iS_21.287769_-157.792447@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204346,
+    "wof:geomhash":"7e14e20482e9f5dd796a5772ffea014c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857616355
+        }
+    ],
+    "wof:id":857616355,
+    "wof:lastmodified":1464204346,
+    "wof:name":"A & C Design-Build Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.792447,
+    21.287769,
+    -157.792447,
+    21.287769
+],
+  "geometry": {"coordinates":[-157.79244700000001,21.287769],"type":"Point"}
+}

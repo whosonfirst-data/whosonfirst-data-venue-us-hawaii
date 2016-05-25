@@ -1,0 +1,78 @@
+{
+  "id": 857654077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855082,21.298385,-157.855082,21.298385",
+    "geom:latitude":21.298385,
+    "geom:longitude":-157.855082,
+    "iso:country":"US",
+    "sg:address":"747 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 9099",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.diamondheadvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xPkbOf4z5K2auJlqr1cCg_21.298385_-157.855082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205638,
+    "wof:geomhash":"2a28bb2b928c300f2b929e7c61932dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857654077
+        }
+    ],
+    "wof:id":857654077,
+    "wof:lastmodified":1464205638,
+    "wof:name":"Diamond Head Video",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.855082,
+    21.298385,
+    -157.855082,
+    21.298385
+],
+  "geometry": {"coordinates":[-157.85508200000001,21.298385],"type":"Point"}
+}

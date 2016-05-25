@@ -1,0 +1,66 @@
+{
+  "id": 857659405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.818189,21.289908,-157.818189,21.289908",
+    "geom:latitude":21.289908,
+    "geom:longitude":-157.818189,
+    "iso:country":"US",
+    "sg:address":"2828 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 5600",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i9NfgZRn4UrZG4n9uFnej_21.289908_-157.818189@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205878,
+    "wof:geomhash":"16de35e02a98c37afa4e3dabc2f9949e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857659405
+        }
+    ],
+    "wof:id":857659405,
+    "wof:lastmodified":1464205878,
+    "wof:name":"Goodrich Liquor LLC",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.818189,
+    21.289908,
+    -157.818189,
+    21.289908
+],
+  "geometry": {"coordinates":[-157.81818899999999,21.289908],"type":"Point"}
+}

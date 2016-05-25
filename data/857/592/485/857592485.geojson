@@ -1,0 +1,71 @@
+{
+  "id": 857592485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.76346,21.423508,-157.76346,21.423508",
+    "geom:latitude":21.423508,
+    "geom:longitude":-157.76346,
+    "iso:country":"US",
+    "sg:address":"381 Kaneohe Bay Dr",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 7761",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TUyWYQgF9YJooAfzhp6Vw_21.423508_-157.763460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203816,
+    "wof:geomhash":"d27af139a3d76f0aa772341a91ec90d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857592485
+        }
+    ],
+    "wof:id":857592485,
+    "wof:lastmodified":1464203816,
+    "wof:name":"Rudys Auto Repair",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.76346,
+    21.423508,
+    -157.76346,
+    21.423508
+],
+  "geometry": {"coordinates":[-157.76346000000001,21.423508],"type":"Point"}
+}

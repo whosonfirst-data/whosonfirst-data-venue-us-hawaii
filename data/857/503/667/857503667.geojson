@@ -1,0 +1,80 @@
+{
+  "id": 857503667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852705,21.319992,-157.852705,21.319992",
+    "geom:latitude":21.319992,
+    "geom:longitude":-157.852705,
+    "iso:country":"US",
+    "sg:address":"1848 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 9531",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MmO0PY1t9bgyfye6lvf0i_21.319992_-157.852705@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201998,
+    "wof:geomhash":"3e36c10ef3d45e6f5a77307a91688bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857503667
+        }
+    ],
+    "wof:id":857503667,
+    "wof:lastmodified":1464201998,
+    "wof:name":"Casey Family Programs",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.852705,
+    21.319992,
+    -157.852705,
+    21.319992
+],
+  "geometry": {"coordinates":[-157.85270499999999,21.319992],"type":"Point"}
+}

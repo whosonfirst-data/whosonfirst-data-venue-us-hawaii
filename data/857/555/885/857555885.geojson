@@ -1,0 +1,69 @@
+{
+  "id": 857555885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318084,22.074719,-159.318084,22.074719",
+    "geom:latitude":22.074719,
+    "geom:longitude":-159.318084,
+    "iso:country":"US",
+    "sg:address":"1310 Inia St",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 5876",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:website":"www.summers-realty-kauai.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P4HONfqa6AxhscGQ0zo27_22.074719_-159.318084@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203050,
+    "wof:geomhash":"1885f1c5f39bc641ee196396871d55a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857555885
+        }
+    ],
+    "wof:id":857555885,
+    "wof:lastmodified":1464203050,
+    "wof:name":"Summers Realty",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.318084,
+    22.074719,
+    -159.318084,
+    22.074719
+],
+  "geometry": {"coordinates":[-159.318084,22.074719],"type":"Point"}
+}

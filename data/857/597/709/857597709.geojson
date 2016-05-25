@@ -1,0 +1,71 @@
+{
+  "id": 857597709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843205,21.301468,-157.843205,21.301468",
+    "geom:latitude":21.301468,
+    "geom:longitude":-157.843205,
+    "iso:country":"US",
+    "sg:address":"1111 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 2080",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LB2JVVOcyjG4m23E0EYmO_21.301468_-157.843205@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203936,
+    "wof:geomhash":"ef06c2f15b73be2335d58a89fc25ce68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857597709
+        }
+    ],
+    "wof:id":857597709,
+    "wof:lastmodified":1464203936,
+    "wof:name":"Plumeria Apartments",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -157.843205,
+    21.301468,
+    -157.843205,
+    21.301468
+],
+  "geometry": {"coordinates":[-157.84320500000001,21.301468],"type":"Point"}
+}

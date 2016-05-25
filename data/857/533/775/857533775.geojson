@@ -1,0 +1,71 @@
+{
+  "id": 857533775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.377529,22.054375,-159.377529,22.054375",
+    "geom:latitude":22.054375,
+    "geom:longitude":-159.377529,
+    "iso:country":"US",
+    "sg:address":"6424 Kaahele St",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 1976",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LQQzodI2win2SILAktZMZ_22.054375_-159.377529@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202617,
+    "wof:geomhash":"527c80bfe5162329b51617ffb2949700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857533775
+        }
+    ],
+    "wof:id":857533775,
+    "wof:lastmodified":1464202617,
+    "wof:name":"Action Plus Adventures",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -159.377529,
+    22.054375,
+    -159.377529,
+    22.054375
+],
+  "geometry": {"coordinates":[-159.37752900000001,22.054375],"type":"Point"}
+}

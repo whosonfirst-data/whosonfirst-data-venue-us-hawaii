@@ -1,0 +1,73 @@
+{
+  "id": 857661523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827726,21.280727,-157.827726,21.280727",
+    "geom:latitude":21.280727,
+    "geom:longitude":-157.827726,
+    "iso:country":"US",
+    "sg:address":"355 Royal Hawaiian Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 7777",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67G0opNgrgINSNfU6DS92O_21.280727_-157.827726@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205993,
+    "wof:geomhash":"abbea1d43e5068d206ce3565d54ed21b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857661523
+        }
+    ],
+    "wof:id":857661523,
+    "wof:lastmodified":1464205993,
+    "wof:name":"Paradise Rent-A-Car",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.827726,
+    21.280727,
+    -157.827726,
+    21.280727
+],
+  "geometry": {"coordinates":[-157.82772600000001,21.280727],"type":"Point"}
+}

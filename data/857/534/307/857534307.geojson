@@ -1,0 +1,71 @@
+{
+  "id": 857534307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.92632,20.831862,-156.92632,20.831862",
+    "geom:latitude":20.831862,
+    "geom:longitude":-156.92632,
+    "iso:country":"US",
+    "sg:address":"387 Ehunani Cir",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 7467",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Em7TgFBsh9rTGoEA1AATt_20.831862_-156.926320@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202626,
+    "wof:geomhash":"26f684618c05700a1495f9d9408a893b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857534307
+        }
+    ],
+    "wof:id":857534307,
+    "wof:lastmodified":1464202626,
+    "wof:name":"American Medical Response",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -156.92632,
+    20.831862,
+    -156.92632,
+    20.831862
+],
+  "geometry": {"coordinates":[-156.92632,20.831862],"type":"Point"}
+}

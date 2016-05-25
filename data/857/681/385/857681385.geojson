@@ -1,0 +1,74 @@
+{
+  "id": 857681385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829343,21.277751,-157.829343,21.277751",
+    "geom:latitude":21.277751,
+    "geom:longitude":-157.829343,
+    "iso:country":"US",
+    "sg:address":"2255 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/75548-round-table-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 2777",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19NtDyoSeSBEZMDsHDkIfe_21.277751_-157.829343@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206781,
+    "wof:geomhash":"8c7d2e089bb50e3a2337523255e9795b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681385
+        }
+    ],
+    "wof:id":857681385,
+    "wof:lastmodified":1464206781,
+    "wof:name":"Round Table Pizza",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.829343,
+    21.277751,
+    -157.829343,
+    21.277751
+],
+  "geometry": {"coordinates":[-157.82934299999999,21.277751],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857573515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.014382,21.457901,-158.014382,21.457901",
+    "geom:latitude":21.457901,
+    "geom:longitude":-158.014382,
+    "iso:country":"US",
+    "sg:address":"410 Kuahelani Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6663",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.mpc-hi.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BKbegsttnwg1b6Oeth7M7_21.457901_-158.014382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203420,
+    "wof:geomhash":"9123e3980cab1ec7fefa329822abf8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857573515
+        }
+    ],
+    "wof:id":857573515,
+    "wof:lastmodified":1464203420,
+    "wof:name":"Mililani Presbyterian Church",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.014382,
+    21.457901,
+    -158.014382,
+    21.457901
+],
+  "geometry": {"coordinates":[-158.01438200000001,21.457901],"type":"Point"}
+}

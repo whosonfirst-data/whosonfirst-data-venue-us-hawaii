@@ -1,0 +1,71 @@
+{
+  "id": 857589443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.999406,21.419856,-157.999406,21.419856",
+    "geom:latitude":21.419856,
+    "geom:longitude":-157.999406,
+    "iso:country":"US",
+    "sg:address":"1470 Kulewa Loop",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 0525",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27QrIOY3F9fWDnD26EcICI_21.419856_-157.999406@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203748,
+    "wof:geomhash":"9642b4ffc9b0afd129aa5640afae7f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857589443
+        }
+    ],
+    "wof:id":857589443,
+    "wof:lastmodified":1464203748,
+    "wof:name":"Royal Palm",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.999406,
+    21.419856,
+    -157.999406,
+    21.419856
+],
+  "geometry": {"coordinates":[-157.99940599999999,21.419856],"type":"Point"}
+}

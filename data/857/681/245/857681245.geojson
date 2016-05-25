@@ -1,0 +1,72 @@
+{
+  "id": 857681245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865573,21.306721,-157.865573,21.306721",
+    "geom:latitude":21.306721,
+    "geom:longitude":-157.865573,
+    "iso:country":"US",
+    "sg:address":"1 Aloha Tower Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/281722-bikini-cantina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 525 7288",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70eOVVSde8bxiNVxphrUE6_21.306721_-157.865573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206776,
+    "wof:geomhash":"4f33df4d8e8c0248fefc2ea67031cd8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857681245
+        }
+    ],
+    "wof:id":857681245,
+    "wof:lastmodified":1464206776,
+    "wof:name":"Bikini Cantina",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.865573,
+    21.306721,
+    -157.865573,
+    21.306721
+],
+  "geometry": {"coordinates":[-157.86557300000001,21.306721],"type":"Point"}
+}

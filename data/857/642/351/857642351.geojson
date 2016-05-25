@@ -1,0 +1,73 @@
+{
+  "id": 857642351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.032271,21.33144,-158.032271,21.33144",
+    "geom:latitude":21.33144,
+    "geom:longitude":-158.032271,
+    "iso:country":"US",
+    "sg:address":"983 Papapuhi Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 4044",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "technician",
+        "pathology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47FUYKgUN4mbyZSS8FeL2j_21.331440_-158.032271@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205111,
+    "wof:geomhash":"28355c470993bc5c0d8d8405e766f805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857642351
+        }
+    ],
+    "wof:id":857642351,
+    "wof:lastmodified":1464205111,
+    "wof:name":"Scott A Spence",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technician",
+        "pathology"
+    ]
+},
+  "bbox": [
+    -158.032271,
+    21.33144,
+    -158.032271,
+    21.33144
+],
+  "geometry": {"coordinates":[-158.03227100000001,21.33144],"type":"Point"}
+}

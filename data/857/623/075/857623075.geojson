@@ -1,0 +1,82 @@
+{
+  "id": 857623075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.711734,21.308733,-157.711734,21.308733",
+    "geom:latitude":21.308733,
+    "geom:longitude":-157.711734,
+    "iso:country":"US",
+    "sg:address":"941 Uwao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7963",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TyT87KJZy8ndwnz0PxERC_21.308733_-157.711734@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204509,
+    "wof:geomhash":"1493778d07b5676fd31fdb131df9e748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857623075
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857623075
+        }
+    ],
+    "wof:id":857623075,
+    "wof:lastmodified":1464204509,
+    "wof:name":"Hawaii Landscape Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.711734,
+    21.308733,
+    -157.711734,
+    21.308733
+],
+  "geometry": {"coordinates":[-157.71173400000001,21.308733],"type":"Point"}
+}

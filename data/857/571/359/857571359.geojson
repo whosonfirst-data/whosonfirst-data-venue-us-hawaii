@@ -1,0 +1,73 @@
+{
+  "id": 857571359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861728,21.308592,-157.861728,21.308592",
+    "geom:latitude":21.308592,
+    "geom:longitude":-157.861728,
+    "iso:country":"US",
+    "sg:address":"111 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 4444",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wl6ErdeEcoFPWFf4iJ5DE_21.308592_-157.861728@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203378,
+    "wof:geomhash":"939ff08314f882162d16868809da0b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857571359
+        }
+    ],
+    "wof:id":857571359,
+    "wof:lastmodified":1464203378,
+    "wof:name":"Bank Of Hawaii Investment Svc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -157.861728,
+    21.308592,
+    -157.861728,
+    21.308592
+],
+  "geometry": {"coordinates":[-157.861728,21.308592],"type":"Point"}
+}

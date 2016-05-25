@@ -1,0 +1,74 @@
+{
+  "id": 857672507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.463387,20.892446,-156.463387,20.892446",
+    "geom:latitude":20.892446,
+    "geom:longitude":-156.463387,
+    "iso:country":"US",
+    "sg:address":"40 Hana Hwy",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 1511",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WhsJwBIbCu4VtJ9sJ3k4r_20.892446_-156.463387@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206434,
+    "wof:geomhash":"9d4b3094c0b47627bee69ea4027294e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857672507
+        }
+    ],
+    "wof:id":857672507,
+    "wof:lastmodified":1464206434,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.463387,
+    20.892446,
+    -156.463387,
+    20.892446
+],
+  "geometry": {"coordinates":[-156.46338700000001,20.892446],"type":"Point"}
+}

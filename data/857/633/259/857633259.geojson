@@ -1,0 +1,75 @@
+{
+  "id": 857633259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864107,21.312884,-157.864107,21.312884",
+    "geom:latitude":21.312884,
+    "geom:longitude":-157.864107,
+    "iso:country":"US",
+    "sg:address":"150 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 3973",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Y9WC6rXKicugP0z8dJ4S_21.312884_-157.864107@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204765,
+    "wof:geomhash":"e35d51528a7981d2f3183b29c725b0ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857633259
+        }
+    ],
+    "wof:id":857633259,
+    "wof:lastmodified":1464204765,
+    "wof:name":"Ba-Le Sandwich Shop",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -157.864107,
+    21.312884,
+    -157.864107,
+    21.312884
+],
+  "geometry": {"coordinates":[-157.86410699999999,21.312884],"type":"Point"}
+}

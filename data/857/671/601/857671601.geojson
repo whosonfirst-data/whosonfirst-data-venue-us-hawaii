@@ -1,0 +1,73 @@
+{
+  "id": 857671601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887454,21.324961,-157.887454,21.324961",
+    "geom:latitude":21.324961,
+    "geom:longitude":-157.887454,
+    "iso:country":"US",
+    "sg:address":"140 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3412",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fabricator",
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tcUGK31eIFw2oDeTSWaJ2_21.324961_-157.887454@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206395,
+    "wof:geomhash":"58905a760af476846817fad99c220d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857671601
+        }
+    ],
+    "wof:id":857671601,
+    "wof:lastmodified":1464206395,
+    "wof:name":"Island Originals",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "stone"
+    ]
+},
+  "bbox": [
+    -157.887454,
+    21.324961,
+    -157.887454,
+    21.324961
+],
+  "geometry": {"coordinates":[-157.88745399999999,21.324961],"type":"Point"}
+}

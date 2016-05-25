@@ -1,0 +1,73 @@
+{
+  "id": 857664645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.755169,21.278314,-157.755169,21.278314",
+    "geom:latitude":21.278314,
+    "geom:longitude":-157.755169,
+    "iso:country":"US",
+    "sg:address":"830 W Hind Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 2133",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1clcaz7xLTiCslLH5nzWVn_21.278314_-157.755169@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206110,
+    "wof:geomhash":"588a50052a6066e47af7bd033c4cb9a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857664645
+        }
+    ],
+    "wof:id":857664645,
+    "wof:lastmodified":1464206110,
+    "wof:name":"Hawaii Kai 76",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.755169,
+    21.278314,
+    -157.755169,
+    21.278314
+],
+  "geometry": {"coordinates":[-157.755169,21.278314],"type":"Point"}
+}

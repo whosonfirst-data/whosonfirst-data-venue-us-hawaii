@@ -1,0 +1,72 @@
+{
+  "id": 857680595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.077718,21.338122,-158.077718,21.338122",
+    "geom:latitude":21.338122,
+    "geom:longitude":-158.077718,
+    "iso:country":"US",
+    "sg:address":"565 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/83576-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 1991",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46GZyRSHMlQKkcPWKBNR8X_21.338122_-158.077718@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"5ae6472df5b8c742bc78da4409fea80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680595
+        }
+    ],
+    "wof:id":857680595,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -158.077718,
+    21.338122,
+    -158.077718,
+    21.338122
+],
+  "geometry": {"coordinates":[-158.077718,21.338122],"type":"Point"}
+}

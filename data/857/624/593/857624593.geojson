@@ -1,0 +1,73 @@
+{
+  "id": 857624593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85643,21.299174,-157.85643,21.299174",
+    "geom:latitude":21.299174,
+    "geom:longitude":-157.85643,
+    "iso:country":"US",
+    "sg:address":"828 Ilaniwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2377",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cO2qnnAvorWHmQgx0bxOM_21.299174_-157.856430@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204554,
+    "wof:geomhash":"ec4c23cb3deae514c61fe1b417d8ed85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857624593
+        }
+    ],
+    "wof:id":857624593,
+    "wof:lastmodified":1464204554,
+    "wof:name":"L & L Trans & Motor Repair",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -157.85643,
+    21.299174,
+    -157.85643,
+    21.299174
+],
+  "geometry": {"coordinates":[-157.85642999999999,21.299174],"type":"Point"}
+}

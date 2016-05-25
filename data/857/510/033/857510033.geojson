@@ -1,0 +1,71 @@
+{
+  "id": 857510033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028581,21.492973,-158.028581,21.492973",
+    "geom:latitude":21.492973,
+    "geom:longitude":-158.028581,
+    "iso:country":"US",
+    "sg:address":"203 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 628 9400",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ILbi5neltf6q7DZYy4EQn_21.492973_-158.028581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202145,
+    "wof:geomhash":"bb1624807f6a6507937105be37d6a36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857510033
+        }
+    ],
+    "wof:id":857510033,
+    "wof:lastmodified":1464202145,
+    "wof:name":"Homie's Satellite Dish Network",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -158.028581,
+    21.492973,
+    -158.028581,
+    21.492973
+],
+  "geometry": {"coordinates":[-158.028581,21.492973],"type":"Point"}
+}

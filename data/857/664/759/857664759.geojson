@@ -1,0 +1,73 @@
+{
+  "id": 857664759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79651,21.273236,-157.79651,21.273236",
+    "geom:latitude":21.273236,
+    "geom:longitude":-157.79651,
+    "iso:country":"US",
+    "sg:address":"3911 Maunaloa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 6961",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TYEf1IxMj0Dl4CWXN6BTg_21.273236_-157.796510@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206114,
+    "wof:geomhash":"b1c4a94de4c1779cec23731e074a8315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857664759
+        }
+    ],
+    "wof:id":857664759,
+    "wof:lastmodified":1464206114,
+    "wof:name":"Progressive Plumbing Inc",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.79651,
+    21.273236,
+    -157.79651,
+    21.273236
+],
+  "geometry": {"coordinates":[-157.79651000000001,21.273236],"type":"Point"}
+}

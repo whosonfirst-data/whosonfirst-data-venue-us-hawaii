@@ -1,0 +1,71 @@
+{
+  "id": 857589533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907352,21.364489,-157.907352,21.364489",
+    "geom:latitude":21.364489,
+    "geom:longitude":-157.907352,
+    "iso:country":"US",
+    "sg:address":"224 Olive Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1243",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ULlGnExYHKRApzpD7ump_21.364489_-157.907352@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203749,
+    "wof:geomhash":"418ca78236ab3f8a1b753cc08a5b47f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857589533
+        }
+    ],
+    "wof:id":857589533,
+    "wof:lastmodified":1464203749,
+    "wof:name":"Ana Zayas",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.907352,
+    21.364489,
+    -157.907352,
+    21.364489
+],
+  "geometry": {"coordinates":[-157.907352,21.364489],"type":"Point"}
+}

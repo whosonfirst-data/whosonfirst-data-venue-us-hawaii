@@ -1,0 +1,73 @@
+{
+  "id": 857633019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851319,21.310913,-157.851319,21.310913",
+    "geom:latitude":21.310913,
+    "geom:longitude":-157.851319,
+    "iso:country":"US",
+    "sg:address":"313 Iolani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 6789",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jU1IFd7GUpN6klbR5NeSL_21.310913_-157.851319@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204756,
+    "wof:geomhash":"af488c31de12249d48f963cecc6cb5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857633019
+        }
+    ],
+    "wof:id":857633019,
+    "wof:lastmodified":1464204756,
+    "wof:name":"Rolands & Associates Corp",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -157.851319,
+    21.310913,
+    -157.851319,
+    21.310913
+],
+  "geometry": {"coordinates":[-157.85131899999999,21.310913],"type":"Point"}
+}

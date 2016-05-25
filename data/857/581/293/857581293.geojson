@@ -1,0 +1,72 @@
+{
+  "id": 857581293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.298981,20.885386,-156.298981,20.885386",
+    "geom:latitude":20.885386,
+    "geom:longitude":-156.298981,
+    "iso:country":"US",
+    "sg:address":"2100 Kaupakalua Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 573 8044",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.peace-temple.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ptM6aZLiKnR6zAWfbHHzf_20.885386_-156.298981@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203576,
+    "wof:geomhash":"9fd82d8fd9f965b0de2bf4d721a4973b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857581293
+        }
+    ],
+    "wof:id":857581293,
+    "wof:lastmodified":1464203576,
+    "wof:name":"Temple Of Peace",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -156.298981,
+    20.885386,
+    -156.298981,
+    20.885386
+],
+  "geometry": {"coordinates":[-156.298981,20.885386],"type":"Point"}
+}

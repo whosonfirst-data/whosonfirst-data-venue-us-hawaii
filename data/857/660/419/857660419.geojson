@@ -1,0 +1,73 @@
+{
+  "id": 857660419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876296,21.331383,-157.876296,21.331383",
+    "geom:latitude":21.331383,
+    "geom:longitude":-157.876296,
+    "iso:country":"US",
+    "sg:address":"1810 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8611",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rdaUr3qQxPXMUkm5TSoeb_21.331383_-157.876296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205929,
+    "wof:geomhash":"d0acb30052eba613ee789e13e323c7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857660419
+        }
+    ],
+    "wof:id":857660419,
+    "wof:lastmodified":1464205929,
+    "wof:name":"King Physical Therapy Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -157.876296,
+    21.331383,
+    -157.876296,
+    21.331383
+],
+  "geometry": {"coordinates":[-157.876296,21.331383],"type":"Point"}
+}

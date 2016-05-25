@@ -1,0 +1,93 @@
+{
+  "id": 857650267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.711164,21.310043,-157.711164,21.310043",
+    "geom:latitude":21.310043,
+    "geom:longitude":-157.711164,
+    "iso:country":"US",
+    "sg:address":"981 Pukoo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 6700",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "installs",
+        "alarm",
+        "burglar",
+        "security",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77YtZGipwwZgTTcOxFuP36_21.310043_-157.711164@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205469,
+    "wof:geomhash":"62ebb307c2c20965375f4608bb23eb33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857650267
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857650267
+        }
+    ],
+    "wof:id":857650267,
+    "wof:lastmodified":1464205469,
+    "wof:name":"Ideal Security Systems Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "alarm",
+        "burglar",
+        "security",
+        "system"
+    ]
+},
+  "bbox": [
+    -157.711164,
+    21.310043,
+    -157.711164,
+    21.310043
+],
+  "geometry": {"coordinates":[-157.711164,21.310043],"type":"Point"}
+}

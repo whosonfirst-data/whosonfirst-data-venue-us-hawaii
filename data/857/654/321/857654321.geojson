@@ -1,0 +1,73 @@
+{
+  "id": 857654321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.123435,21.566532,-158.123435,21.566532",
+    "geom:latitude":21.566532,
+    "geom:longitude":-158.123435,
+    "iso:country":"US",
+    "sg:address":"172 Farrington Hwy",
+    "sg:city":"Waialua",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 0100",
+    "sg:postcode":"96791",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bulb",
+        "seed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZGlb8xZherqPAMxnklhqW_21.566532_-158.123435@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205648,
+    "wof:geomhash":"c63eb3c6d12a432bfb725a4333843d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857654321
+        }
+    ],
+    "wof:id":857654321,
+    "wof:lastmodified":1464205648,
+    "wof:name":"Pioneer Hi-Bred Intl Inc",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulb",
+        "seed"
+    ]
+},
+  "bbox": [
+    -158.123435,
+    21.566532,
+    -158.123435,
+    21.566532
+],
+  "geometry": {"coordinates":[-158.123435,21.566532],"type":"Point"}
+}

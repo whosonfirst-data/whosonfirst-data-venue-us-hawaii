@@ -1,0 +1,77 @@
+{
+  "id": 857626453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.869887,21.326569,-157.869887,21.326569",
+    "geom:latitude":21.326569,
+    "geom:longitude":-157.869887,
+    "iso:country":"US",
+    "sg:address":"1208 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 7711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SaOskflAGKvSgXUvFOa4b_21.326569_-157.869887@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204591,
+    "wof:geomhash":"400bd94c7b5cb50cdbd649da4c5b1c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857626453
+        }
+    ],
+    "wof:id":857626453,
+    "wof:lastmodified":1464204591,
+    "wof:name":"Nimitz Video Emporium",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.869887,
+    21.326569,
+    -157.869887,
+    21.326569
+],
+  "geometry": {"coordinates":[-157.86988700000001,21.326569],"type":"Point"}
+}

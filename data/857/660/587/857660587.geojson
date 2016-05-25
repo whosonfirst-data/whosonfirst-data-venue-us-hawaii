@@ -1,0 +1,83 @@
+{
+  "id": 857660587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.722011,21.335969,-157.722011,21.335969",
+    "geom:latitude":21.335969,
+    "geom:longitude":-157.722011,
+    "iso:country":"US",
+    "sg:address":"765 Mokulama St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 3330",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nursery",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85937537,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o6DSpJGj5ciNN7i0B6W4N_21.335969_-157.722011@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205936,
+    "wof:geomhash":"b29b6d4fad43e2312a39be7e811df860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857660587
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857660587
+        }
+    ],
+    "wof:id":857660587,
+    "wof:lastmodified":1464205936,
+    "wof:name":"Malama Landscape Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "tree"
+    ]
+},
+  "bbox": [
+    -157.722011,
+    21.335969,
+    -157.722011,
+    21.335969
+],
+  "geometry": {"coordinates":[-157.72201100000001,21.335969],"type":"Point"}
+}

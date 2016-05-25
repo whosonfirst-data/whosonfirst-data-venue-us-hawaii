@@ -1,0 +1,73 @@
+{
+  "id": 857515081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504922,20.890834,-156.504922,20.890834",
+    "geom:latitude":20.890834,
+    "geom:longitude":-156.504922,
+    "iso:country":"US",
+    "sg:address":"2035 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5009",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "banker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sYBtLMKz8YmyGFEow2rDv_20.890834_-156.504922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202252,
+    "wof:geomhash":"c2a08d256e455a295e4d8eba765b8a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857515081
+        }
+    ],
+    "wof:id":857515081,
+    "wof:lastmodified":1464202252,
+    "wof:name":"All Pacific Mortgage Company",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -156.504922,
+    20.890834,
+    -156.504922,
+    20.890834
+],
+  "geometry": {"coordinates":[-156.50492199999999,20.890834],"type":"Point"}
+}

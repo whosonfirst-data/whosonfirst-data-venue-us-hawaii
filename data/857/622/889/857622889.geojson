@@ -1,0 +1,66 @@
+{
+  "id": 857622889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844643,21.299966,-157.844643,21.299966",
+    "geom:latitude":21.299966,
+    "geom:longitude":-157.844643,
+    "iso:country":"US",
+    "sg:address":"1133 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0778",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xQOlBbFw3dRV70MlPiGyI_21.299966_-157.844643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204506,
+    "wof:geomhash":"257190698daadaf9a7c71afc9c1f5832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857622889
+        }
+    ],
+    "wof:id":857622889,
+    "wof:lastmodified":1464204506,
+    "wof:name":"Victoria Flowers",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.844643,
+    21.299966,
+    -157.844643,
+    21.299966
+],
+  "geometry": {"coordinates":[-157.84464299999999,21.299966],"type":"Point"}
+}

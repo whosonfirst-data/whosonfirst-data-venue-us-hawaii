@@ -1,0 +1,73 @@
+{
+  "id": 857632145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85247,21.33435,-157.85247,21.33435",
+    "geom:latitude":21.33435,
+    "geom:longitude":-157.85247,
+    "iso:country":"US",
+    "sg:address":"1108 Kaumailuna Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 2579",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jzN2AL0ziaOjtugjz6ib0_21.334350_-157.852470@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204719,
+    "wof:geomhash":"06c803309259c3c018b2cca615759290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857632145
+        }
+    ],
+    "wof:id":857632145,
+    "wof:lastmodified":1464204719,
+    "wof:name":"Madolora Painting",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.85247,
+    21.33435,
+    -157.85247,
+    21.33435
+],
+  "geometry": {"coordinates":[-157.85247000000001,21.33435],"type":"Point"}
+}

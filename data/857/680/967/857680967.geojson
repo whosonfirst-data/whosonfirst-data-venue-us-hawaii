@@ -1,0 +1,78 @@
+{
+  "id": 857680967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.679965,20.877982,-156.679965,20.877982",
+    "geom:latitude":20.877982,
+    "geom:longitude":-156.679965,
+    "iso:country":"US",
+    "sg:address":"170 Papalaua St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/135825-jamba-juice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 1054",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ecAKZeYK3v0F8LkclPYro_20.877982_-156.679965@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206763,
+    "wof:geomhash":"c4464d084df03a0e402e3fd11740923d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857680967
+        }
+    ],
+    "wof:id":857680967,
+    "wof:lastmodified":1464206763,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -156.679965,
+    20.877982,
+    -156.679965,
+    20.877982
+],
+  "geometry": {"coordinates":[-156.67996500000001,20.877982],"type":"Point"}
+}

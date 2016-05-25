@@ -1,0 +1,71 @@
+{
+  "id": 857648805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.348329,20.803335,-156.348329,20.803335",
+    "geom:latitude":20.803335,
+    "geom:longitude":-156.348329,
+    "iso:country":"US",
+    "sg:address":"673 Piliwale Rd",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 1828",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "canning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oN942xs3NYvXarvvTtv8I_20.803335_-156.348329@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205406,
+    "wof:geomhash":"5404a71c33efba8953c54f02b35ccee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857648805
+        }
+    ],
+    "wof:id":857648805,
+    "wof:lastmodified":1464205406,
+    "wof:name":"M Uradomo Farms Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canning"
+    ]
+},
+  "bbox": [
+    -156.348329,
+    20.803335,
+    -156.348329,
+    20.803335
+],
+  "geometry": {"coordinates":[-156.34832900000001,20.803335],"type":"Point"}
+}

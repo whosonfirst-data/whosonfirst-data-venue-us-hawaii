@@ -1,0 +1,71 @@
+{
+  "id": 857558499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.511804,20.796141,-156.511804,20.796141",
+    "geom:latitude":20.796141,
+    "geom:longitude":-156.511804,
+    "iso:country":"US",
+    "sg:address":"232 Maalaea Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 9888",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q3u6xjmQCW8IVqNrhl8GS_20.796141_-156.511804@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203118,
+    "wof:geomhash":"c54d99c9fa1978024277e925c17d23f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857558499
+        }
+    ],
+    "wof:id":857558499,
+    "wof:lastmodified":1464203118,
+    "wof:name":"Maalaea Store",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -156.511804,
+    20.796141,
+    -156.511804,
+    20.796141
+],
+  "geometry": {"coordinates":[-156.51180400000001,20.796141],"type":"Point"}
+}

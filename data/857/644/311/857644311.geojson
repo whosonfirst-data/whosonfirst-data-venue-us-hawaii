@@ -1,0 +1,66 @@
+{
+  "id": 857644311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839577,21.300184,-157.839577,21.300184",
+    "geom:latitude":21.300184,
+    "geom:longitude":-157.839577,
+    "iso:country":"US",
+    "sg:address":"1108 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0999",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z80KJtpKDbSwxJKoZzN5Q_21.300184_-157.839577@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205206,
+    "wof:geomhash":"5fb4a48c8f5b6aa4e615b69c163c2ef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857644311
+        }
+    ],
+    "wof:id":857644311,
+    "wof:lastmodified":1464205206,
+    "wof:name":"Easy Music Ctr",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.839577,
+    21.300184,
+    -157.839577,
+    21.300184
+],
+  "geometry": {"coordinates":[-157.83957699999999,21.300184],"type":"Point"}
+}

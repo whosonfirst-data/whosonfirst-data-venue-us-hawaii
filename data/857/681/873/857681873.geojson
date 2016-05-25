@@ -1,0 +1,92 @@
+{
+  "id": 857681873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827196,21.277583,-157.827196,21.277583",
+    "geom:latitude":21.277583,
+    "geom:longitude":-157.827196,
+    "iso:country":"US",
+    "sg:address":"2335 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/137042-seattles-best-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 4722",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Gq6jQ0HvbWkm5xqB0aWL_21.277063_-157.826742@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206810,
+    "wof:geomhash":"0f0506c7cd3a6ad69be654f0c54ff222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681873
+        }
+    ],
+    "wof:id":857681873,
+    "wof:lastmodified":1464206810,
+    "wof:name":"Seattle's Best Coffee",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -157.827196,
+    21.277583,
+    -157.827196,
+    21.277583
+],
+  "geometry": {"coordinates":[-157.82719599999999,21.277583],"type":"Point"}
+}

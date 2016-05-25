@@ -1,0 +1,73 @@
+{
+  "id": 857673743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823428,21.287492,-157.823428,21.287492",
+    "geom:latitude":21.287492,
+    "geom:longitude":-157.823428,
+    "iso:country":"US",
+    "sg:address":"2551 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 778 1611",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_033r7eBfHmCFOR2bj7bM6Y_21.287492_-157.823428@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206478,
+    "wof:geomhash":"8f964ae61bd0ec8e5ffb6410bf79241a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857673743
+        }
+    ],
+    "wof:id":857673743,
+    "wof:lastmodified":1464206478,
+    "wof:name":"Aloha Healing Hands",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.823428,
+    21.287492,
+    -157.823428,
+    21.287492
+],
+  "geometry": {"coordinates":[-157.82342800000001,21.287492],"type":"Point"}
+}

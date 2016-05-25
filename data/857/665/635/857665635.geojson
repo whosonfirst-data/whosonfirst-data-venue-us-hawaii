@@ -1,0 +1,71 @@
+{
+  "id": 857665635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82173,21.272466,-157.82173,21.272466",
+    "geom:latitude":21.272466,
+    "geom:longitude":-157.82173,
+    "iso:country":"US",
+    "sg:address":"2552 Lemon Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 8111",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29nu199b4sSrknyCwJHexE_21.272466_-157.821730@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206156,
+    "wof:geomhash":"1fc416c1ab947ab7d10c042f32b22668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857665635
+        }
+    ],
+    "wof:id":857665635,
+    "wof:lastmodified":1464206156,
+    "wof:name":"Pacific Ohana Hostel",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -157.82173,
+    21.272466,
+    -157.82173,
+    21.272466
+],
+  "geometry": {"coordinates":[-157.82173,21.272466],"type":"Point"}
+}

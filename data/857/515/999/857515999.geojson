@@ -1,0 +1,75 @@
+{
+  "id": 857515999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841871,21.29898,-157.841871,21.29898",
+    "geom:latitude":21.29898,
+    "geom:longitude":-157.841871,
+    "iso:country":"US",
+    "sg:address":"1287 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 6635",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor",
+        "dry wall",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pleZtmR8UQJ6EqoBC9HEG_21.298980_-157.841871@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202270,
+    "wof:geomhash":"451959103ccc44457db487d234adc5b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857515999
+        }
+    ],
+    "wof:id":857515999,
+    "wof:lastmodified":1464202270,
+    "wof:name":"Best Painting Co",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "dry wall",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -157.841871,
+    21.29898,
+    -157.841871,
+    21.29898
+],
+  "geometry": {"coordinates":[-157.841871,21.29898],"type":"Point"}
+}

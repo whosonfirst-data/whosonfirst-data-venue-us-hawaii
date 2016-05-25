@@ -1,0 +1,73 @@
+{
+  "id": 857648105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888746,21.329978,-157.888746,21.329978",
+    "geom:latitude":21.329978,
+    "geom:longitude":-157.888746,
+    "iso:country":"US",
+    "sg:address":"2224 Alahao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 4844",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fG00dB62rhYze1yizTK49_21.329978_-157.888746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205381,
+    "wof:geomhash":"7fa50eba50603acb8c030ea96ff50247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857648105
+        }
+    ],
+    "wof:id":857648105,
+    "wof:lastmodified":1464205381,
+    "wof:name":"Mike's Carpet & Drapery",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -157.888746,
+    21.329978,
+    -157.888746,
+    21.329978
+],
+  "geometry": {"coordinates":[-157.888746,21.329978],"type":"Point"}
+}

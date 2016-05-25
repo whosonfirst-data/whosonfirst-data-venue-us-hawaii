@@ -1,0 +1,77 @@
+{
+  "id": 857587389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884213,21.321745,-157.884213,21.321745",
+    "geom:latitude":21.321745,
+    "geom:longitude":-157.884213,
+    "iso:country":"US",
+    "sg:address":"1615 Silva St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 3777",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eijpRi8YQ3kZpjEwJOJSD_21.321745_-157.884213@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203701,
+    "wof:geomhash":"fea9e401046257087c8ffc882cef1796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857587389
+        }
+    ],
+    "wof:id":857587389,
+    "wof:lastmodified":1464203701,
+    "wof:name":"D & N Auto Body and Painting",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.884213,
+    21.321745,
+    -157.884213,
+    21.321745
+],
+  "geometry": {"coordinates":[-157.88421299999999,21.321745],"type":"Point"}
+}

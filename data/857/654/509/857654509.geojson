@@ -1,0 +1,71 @@
+{
+  "id": 857654509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.386652,22.055643,-159.386652,22.055643",
+    "geom:latitude":22.055643,
+    "geom:longitude":-159.386652,
+    "iso:country":"US",
+    "sg:address":"156 Kolekona Pl",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3989",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tdRvgrrI6zPqiQmhM6GWm_22.055643_-159.386652@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205656,
+    "wof:geomhash":"3d476fcc762542a1fe7df9ae4cacd862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857654509
+        }
+    ],
+    "wof:id":857654509,
+    "wof:lastmodified":1464205656,
+    "wof:name":"Ichikawa Lighting Enterprises",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -159.386652,
+    22.055643,
+    -159.386652,
+    22.055643
+],
+  "geometry": {"coordinates":[-159.386652,22.055643],"type":"Point"}
+}

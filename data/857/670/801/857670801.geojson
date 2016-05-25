@@ -1,0 +1,75 @@
+{
+  "id": 857670801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886501,21.325673,-157.886501,21.325673",
+    "geom:latitude":21.325673,
+    "geom:longitude":-157.886501,
+    "iso:country":"US",
+    "sg:address":"1924 Democrat St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 1122",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vUw4s5LkCJxxS7dinY7vk_21.325673_-157.886501@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206368,
+    "wof:geomhash":"abb0a2a517a8defb5db4ea00b3bd46f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857670801
+        }
+    ],
+    "wof:id":857670801,
+    "wof:lastmodified":1464206368,
+    "wof:name":"Arco",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.886501,
+    21.325673,
+    -157.886501,
+    21.325673
+],
+  "geometry": {"coordinates":[-157.88650100000001,21.325673],"type":"Point"}
+}

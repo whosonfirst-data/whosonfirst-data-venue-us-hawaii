@@ -1,0 +1,66 @@
+{
+  "id": 857624969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857915,21.352588,-157.857915,21.352588",
+    "geom:latitude":21.352588,
+    "geom:longitude":-157.857915,
+    "iso:country":"US",
+    "sg:address":"2803 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2155",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_303JR0m7RHCEuw0vq6s4Mg_21.352588_-157.857915@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204561,
+    "wof:geomhash":"9ccd25e16bd88b9799e3f65d52636b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857624969
+        }
+    ],
+    "wof:id":857624969,
+    "wof:lastmodified":1464204561,
+    "wof:name":"Barley Center Market",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.857915,
+    21.352588,
+    -157.857915,
+    21.352588
+],
+  "geometry": {"coordinates":[-157.85791499999999,21.352588],"type":"Point"}
+}

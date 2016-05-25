@@ -1,0 +1,71 @@
+{
+  "id": 857647829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863975,21.312593,-157.863975,21.312593",
+    "geom:latitude":21.312593,
+    "geom:longitude":-157.863975,
+    "iso:country":"US",
+    "sg:address":"170 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 3813",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sJyguZ2Y5QbxScX5fxC76_21.312593_-157.863975@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205371,
+    "wof:geomhash":"b588b96e48a36528d786da217f7fd722",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857647829
+        }
+    ],
+    "wof:id":857647829,
+    "wof:lastmodified":1464205371,
+    "wof:name":"Hong Jewelry Repair",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -157.863975,
+    21.312593,
+    -157.863975,
+    21.312593
+],
+  "geometry": {"coordinates":[-157.86397500000001,21.312593],"type":"Point"}
+}

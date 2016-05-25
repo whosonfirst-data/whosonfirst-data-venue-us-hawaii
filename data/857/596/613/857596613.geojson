@@ -1,0 +1,71 @@
+{
+  "id": 857596613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854282,21.298652,-157.854282,21.298652",
+    "geom:latitude":21.298652,
+    "geom:longitude":-157.854282,
+    "iso:country":"US",
+    "sg:address":"757 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 1333",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43I09pfChSOzvkXYJlpGzZ_21.298652_-157.854282@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203909,
+    "wof:geomhash":"db6fd8bc1f9fa28f8f7625fb496f5015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857596613
+        }
+    ],
+    "wof:id":857596613,
+    "wof:lastmodified":1464203909,
+    "wof:name":"Bavarian Motor Experts",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.854282,
+    21.298652,
+    -157.854282,
+    21.298652
+],
+  "geometry": {"coordinates":[-157.85428200000001,21.298652],"type":"Point"}
+}

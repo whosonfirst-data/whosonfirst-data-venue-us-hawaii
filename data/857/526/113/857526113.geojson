@@ -1,0 +1,71 @@
+{
+  "id": 857526113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880477,21.32591,-157.880477,21.32591",
+    "geom:latitude":21.32591,
+    "geom:longitude":-157.880477,
+    "iso:country":"US",
+    "sg:address":"512 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 6966",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XndHGjg9L8giylMFNekMX_21.325910_-157.880477@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202470,
+    "wof:geomhash":"3998ec404667112df9e509b6d1b727f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857526113
+        }
+    ],
+    "wof:id":857526113,
+    "wof:lastmodified":1464202470,
+    "wof:name":"Thermal Engineering Corp",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -157.880477,
+    21.32591,
+    -157.880477,
+    21.32591
+],
+  "geometry": {"coordinates":[-157.88047700000001,21.32591],"type":"Point"}
+}

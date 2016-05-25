@@ -1,0 +1,69 @@
+{
+  "id": 857633647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.012945,21.507969,-158.012945,21.507969",
+    "geom:latitude":21.507969,
+    "geom:longitude":-158.012945,
+    "iso:country":"US",
+    "sg:address":"454 Glenview Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 3975",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3roAKC4z0szCMHdoT52ktp_21.507969_-158.012945@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204779,
+    "wof:geomhash":"530e1baa0a44545e24268f92de7609e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857633647
+        }
+    ],
+    "wof:id":857633647,
+    "wof:lastmodified":1464204779,
+    "wof:name":"Glenview Construction Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -158.012945,
+    21.507969,
+    -158.012945,
+    21.507969
+],
+  "geometry": {"coordinates":[-158.012945,21.507969],"type":"Point"}
+}

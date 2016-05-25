@@ -1,0 +1,71 @@
+{
+  "id": 857527309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79353,21.395518,-157.79353,21.395518",
+    "geom:latitude":21.395518,
+    "geom:longitude":-157.79353,
+    "iso:country":"US",
+    "sg:address":"403 Mokulele Dr",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 0919",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SUfkBbm4pXobxW91Yascy_21.395518_-157.793530@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202491,
+    "wof:geomhash":"65c2459f9dd5884b7968fb53c1056d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857527309
+        }
+    ],
+    "wof:id":857527309,
+    "wof:lastmodified":1464202491,
+    "wof:name":"Hawaii Holistics",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice"
+    ]
+},
+  "bbox": [
+    -157.79353,
+    21.395518,
+    -157.79353,
+    21.395518
+],
+  "geometry": {"coordinates":[-157.79353,21.395518],"type":"Point"}
+}

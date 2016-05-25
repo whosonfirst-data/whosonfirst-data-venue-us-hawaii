@@ -1,0 +1,73 @@
+{
+  "id": 857659611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.921742,21.366826,-157.921742,21.366826",
+    "geom:latitude":21.366826,
+    "geom:longitude":-157.921742,
+    "iso:country":"US",
+    "sg:address":"1580 Lehia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 295 2225",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17VW5R4zBugWS6ulrXIzmU_21.366826_-157.921742@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205889,
+    "wof:geomhash":"a2431ef2c3c5b1a926d76fe639aa269b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857659611
+        }
+    ],
+    "wof:id":857659611,
+    "wof:lastmodified":1464205889,
+    "wof:name":"Jacks Joint",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.921742,
+    21.366826,
+    -157.921742,
+    21.366826
+],
+  "geometry": {"coordinates":[-157.92174199999999,21.366826],"type":"Point"}
+}

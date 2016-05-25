@@ -1,0 +1,71 @@
+{
+  "id": 857541347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.199733,21.456141,-158.199733,21.456141",
+    "geom:latitude":21.456141,
+    "geom:longitude":-158.199733,
+    "iso:country":"US",
+    "sg:address":"250 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 4224",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HDgxFwCCMT3BBSGikUuzi_21.456141_-158.199733@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202763,
+    "wof:geomhash":"6f8cb00ef29f79967ffafd4d5ee111a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857541347
+        }
+    ],
+    "wof:id":857541347,
+    "wof:lastmodified":1464202763,
+    "wof:name":"AT&T",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -158.199733,
+    21.456141,
+    -158.199733,
+    21.456141
+],
+  "geometry": {"coordinates":[-158.19973300000001,21.456141],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857672459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.985637,21.395665,-157.985637,21.395665",
+    "geom:latitude":21.395665,
+    "geom:longitude":-157.985637,
+    "iso:country":"US",
+    "sg:address":"54 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 7532",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t1kFXQXmPldzAvlBxLWPj_21.395665_-157.985637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206433,
+    "wof:geomhash":"1e8c61bd4515f04b704f1eea31694312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857672459
+        }
+    ],
+    "wof:id":857672459,
+    "wof:lastmodified":1464206433,
+    "wof:name":"Golden Cut Ltd",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.985637,
+    21.395665,
+    -157.985637,
+    21.395665
+],
+  "geometry": {"coordinates":[-157.985637,21.395665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857597181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.460005,20.890105,-156.460005,20.890105",
+    "geom:latitude":20.890105,
+    "geom:longitude":-156.460005,
+    "iso:country":"US",
+    "sg:address":"150 Hana Hwy",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 893 0700",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qh8E5QA7YkNn8eb843NKS_20.890105_-156.460005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203926,
+    "wof:geomhash":"c43d8d5f3883d9bb1022828623a334fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857597181
+        }
+    ],
+    "wof:id":857597181,
+    "wof:lastmodified":1464203926,
+    "wof:name":"Simply Sweets",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -156.460005,
+    20.890105,
+    -156.460005,
+    20.890105
+],
+  "geometry": {"coordinates":[-156.460005,20.890105],"type":"Point"}
+}

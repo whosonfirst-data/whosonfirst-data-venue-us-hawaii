@@ -1,0 +1,71 @@
+{
+  "id": 857521001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.939989,21.377664,-157.939989,21.377664",
+    "geom:latitude":21.377664,
+    "geom:longitude":-157.939989,
+    "iso:country":"US",
+    "sg:address":"90 McGrew Loop",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 1993",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LkekeAqiHJwsjYbD0ix9N_21.377664_-157.939989@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202372,
+    "wof:geomhash":"561bbd65d8bc2fcbc29c34759458946d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857521001
+        }
+    ],
+    "wof:id":857521001,
+    "wof:lastmodified":1464202372,
+    "wof:name":"Serenity Financial LLC",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -157.939989,
+    21.377664,
+    -157.939989,
+    21.377664
+],
+  "geometry": {"coordinates":[-157.939989,21.377664],"type":"Point"}
+}

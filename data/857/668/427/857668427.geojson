@@ -1,0 +1,73 @@
+{
+  "id": 857668427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.783201,21.30476,-157.783201,21.30476",
+    "geom:latitude":21.30476,
+    "geom:longitude":-157.783201,
+    "iso:country":"US",
+    "sg:address":"2521 Waiomao Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 7369",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O70035as8JTkbvzuYbm5t_21.304760_-157.783201@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206273,
+    "wof:geomhash":"71feb188c93867b031ff227fb61ae729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857668427
+        }
+    ],
+    "wof:id":857668427,
+    "wof:lastmodified":1464206273,
+    "wof:name":"D & K Electric Inc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.783201,
+    21.30476,
+    -157.783201,
+    21.30476
+],
+  "geometry": {"coordinates":[-157.78320099999999,21.30476],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857651469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834131,21.282804,-157.834131,21.282804",
+    "geom:latitude":21.282804,
+    "geom:longitude":-157.834131,
+    "iso:country":"US",
+    "sg:address":"2058 Maluhia Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 438 1660",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "army",
+        "installation",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wZln0zcD581diUlaeqa7M_21.282804_-157.834131@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205520,
+    "wof:geomhash":"8006f1472837180521b9ff2889addb62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857651469
+        }
+    ],
+    "wof:id":857651469,
+    "wof:lastmodified":1464205520,
+    "wof:name":"Army Reserve Installation",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army",
+        "installation",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -157.834131,
+    21.282804,
+    -157.834131,
+    21.282804
+],
+  "geometry": {"coordinates":[-157.83413100000001,21.282804],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857585041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318918,22.077118,-159.318918,22.077118",
+    "geom:latitude":22.077118,
+    "geom:longitude":-159.318918,
+    "iso:country":"US",
+    "sg:address":"4568 Lehua St",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 5432",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hardware",
+        "lumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7emOlUEnc8zzgUbzdHZk6T_22.077118_-159.318918@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203646,
+    "wof:geomhash":"6b2bbf4d4228283e87237bee4c7e3421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857585041
+        }
+    ],
+    "wof:id":857585041,
+    "wof:lastmodified":1464203646,
+    "wof:name":"Specialty Lumber Inc",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "lumber"
+    ]
+},
+  "bbox": [
+    -159.318918,
+    22.077118,
+    -159.318918,
+    22.077118
+],
+  "geometry": {"coordinates":[-159.318918,22.077118],"type":"Point"}
+}

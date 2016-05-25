@@ -1,0 +1,73 @@
+{
+  "id": 857643915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.322578,20.794557,-156.322578,20.794557",
+    "geom:latitude":20.794557,
+    "geom:longitude":-156.322578,
+    "iso:country":"US",
+    "sg:address":"78 Ka Dr",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 876 1226",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937627,
+        102085577,
+        85890579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EZxFQr6FpXIIy5bl5qSRS_20.794557_-156.322578@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205191,
+    "wof:geomhash":"325f5370cb5bb617ae2207b94834c223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890579,
+            "region_id":85688671,
+            "venue_id":857643915
+        }
+    ],
+    "wof:id":857643915,
+    "wof:lastmodified":1464205191,
+    "wof:name":"Victorias Cleaning Servi",
+    "wof:parent_id":85890579,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -156.322578,
+    20.794557,
+    -156.322578,
+    20.794557
+],
+  "geometry": {"coordinates":[-156.32257799999999,20.794557],"type":"Point"}
+}

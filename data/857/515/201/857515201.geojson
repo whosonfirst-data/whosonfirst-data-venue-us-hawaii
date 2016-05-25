@@ -1,0 +1,80 @@
+{
+  "id": 857515201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853145,21.2983,-157.853145,21.2983",
+    "geom:latitude":21.2983,
+    "geom:longitude":-157.853145,
+    "iso:country":"US",
+    "sg:address":"535 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 9944",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health",
+        "merchandise",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3no77KXhI1pvxknDVhpBnm_21.298300_-157.853145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202254,
+    "wof:geomhash":"a21292940fec6c724464ba0dcfb8b433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857515201
+        }
+    ],
+    "wof:id":857515201,
+    "wof:lastmodified":1464202254,
+    "wof:name":"Naturally Pet",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "merchandise",
+        "diet"
+    ]
+},
+  "bbox": [
+    -157.853145,
+    21.2983,
+    -157.853145,
+    21.2983
+],
+  "geometry": {"coordinates":[-157.85314500000001,21.2983],"type":"Point"}
+}

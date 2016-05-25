@@ -1,0 +1,68 @@
+{
+  "id": 857586799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.672455,20.864617,-156.672455,20.864617",
+    "geom:latitude":20.864617,
+    "geom:longitude":-156.672455,
+    "iso:country":"US",
+    "sg:address":"328 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 0525",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s4UyZTo8QrJLBsDuzdMA0_20.864617_-156.672455@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203691,
+    "wof:geomhash":"605a761a6aa8dc04f85fa6b212d1712c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890533,
+            "region_id":85688671,
+            "venue_id":857586799
+        }
+    ],
+    "wof:id":857586799,
+    "wof:lastmodified":1464203691,
+    "wof:name":"New York Paris Publishing",
+    "wof:parent_id":85890533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.672455,
+    20.864617,
+    -156.672455,
+    20.864617
+],
+  "geometry": {"coordinates":[-156.67245500000001,20.864617],"type":"Point"}
+}

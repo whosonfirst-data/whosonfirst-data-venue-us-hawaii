@@ -1,0 +1,71 @@
+{
+  "id": 857657425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827545,21.309181,-157.827545,21.309181",
+    "geom:latitude":21.309181,
+    "geom:longitude":-157.827545,
+    "iso:country":"US",
+    "sg:address":"2054 Makiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3274",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "conservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sIzG2nftIGwUNwwUOaBul_21.309181_-157.827545@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205788,
+    "wof:geomhash":"93bb2f91002a64c2df955c27f050bcc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857657425
+        }
+    ],
+    "wof:id":857657425,
+    "wof:lastmodified":1464205788,
+    "wof:name":"Frank F Fasi",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conservation"
+    ]
+},
+  "bbox": [
+    -157.827545,
+    21.309181,
+    -157.827545,
+    21.309181
+],
+  "geometry": {"coordinates":[-157.82754499999999,21.309181],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857651269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857508,21.301571,-157.857508,21.301571",
+    "geom:latitude":21.301571,
+    "geom:longitude":-157.857508,
+    "iso:country":"US",
+    "sg:address":"680 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7966",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hENZxcSTh8lIZoazQYJ9i_21.301571_-157.857508@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205510,
+    "wof:geomhash":"47654a5a550f8a94f6a0c0227451f2d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857651269
+        }
+    ],
+    "wof:id":857651269,
+    "wof:lastmodified":1464205510,
+    "wof:name":"Viking Sewing Center",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -157.857508,
+    21.301571,
+    -157.857508,
+    21.301571
+],
+  "geometry": {"coordinates":[-157.857508,21.301571],"type":"Point"}
+}

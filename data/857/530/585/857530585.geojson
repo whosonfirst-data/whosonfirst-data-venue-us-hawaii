@@ -1,0 +1,73 @@
+{
+  "id": 857530585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.055955,21.653993,-158.055955,21.653993",
+    "geom:latitude":21.653993,
+    "geom:longitude":-158.055955,
+    "iso:country":"US",
+    "sg:address":"436 Makana Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 7611",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937555,
+        102085417,
+        85854145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VgM047aJOESzS19ZyMR50_21.653993_-158.055955@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202555,
+    "wof:geomhash":"d491e49cb3650249082c7e920075a6e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85854145,
+            "region_id":85688671,
+            "venue_id":857530585
+        }
+    ],
+    "wof:id":857530585,
+    "wof:lastmodified":1464202555,
+    "wof:name":"Greg Mattson MD Inc",
+    "wof:parent_id":85854145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -158.055955,
+    21.653993,
+    -158.055955,
+    21.653993
+],
+  "geometry": {"coordinates":[-158.05595500000001,21.653993],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857579313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916814,21.376759,-157.916814,21.376759",
+    "geom:latitude":21.376759,
+    "geom:longitude":-157.916814,
+    "iso:country":"US",
+    "sg:address":"637 Iwaiwa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 4129",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aP93n0C2sk4gzoEaTO7qT_21.376759_-157.916814@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203540,
+    "wof:geomhash":"ade8e5ccac109921562165eb42d437e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857579313
+        }
+    ],
+    "wof:id":857579313,
+    "wof:lastmodified":1464203540,
+    "wof:name":"Nakashima Builders Inc",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.916814,
+    21.376759,
+    -157.916814,
+    21.376759
+],
+  "geometry": {"coordinates":[-157.91681399999999,21.376759],"type":"Point"}
+}

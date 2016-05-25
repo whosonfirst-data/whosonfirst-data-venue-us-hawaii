@@ -1,0 +1,73 @@
+{
+  "id": 857648567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.966832,21.410501,-157.966832,21.410501",
+    "geom:latitude":21.410501,
+    "geom:longitude":-157.966832,
+    "iso:country":"US",
+    "sg:address":"1801 Kuahaka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0244",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pHPt92w5ATxhJCe9qtXwV_21.410501_-157.966832@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205397,
+    "wof:geomhash":"dc2188d89c9a4bbe71b98e8ba66e6eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857648567
+        }
+    ],
+    "wof:id":857648567,
+    "wof:lastmodified":1464205397,
+    "wof:name":"Ampco Electrical Services",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.966832,
+    21.410501,
+    -157.966832,
+    21.410501
+],
+  "geometry": {"coordinates":[-157.96683200000001,21.410501],"type":"Point"}
+}

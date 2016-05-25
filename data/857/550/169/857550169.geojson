@@ -1,0 +1,71 @@
+{
+  "id": 857550169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80448,21.314635,-157.80448,21.314635",
+    "geom:latitude":21.314635,
+    "geom:longitude":-157.80448,
+    "iso:country":"US",
+    "sg:address":"3221 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 255 4393",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "midwife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dmLO23pFHS9nSKNgnVjsx_21.314635_-157.804480@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202934,
+    "wof:geomhash":"d522eba264c6658b366530530d8aff03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857550169
+        }
+    ],
+    "wof:id":857550169,
+    "wof:lastmodified":1464202934,
+    "wof:name":"Miriam Abrin",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "midwife"
+    ]
+},
+  "bbox": [
+    -157.80448,
+    21.314635,
+    -157.80448,
+    21.314635
+],
+  "geometry": {"coordinates":[-157.80448000000001,21.314635],"type":"Point"}
+}

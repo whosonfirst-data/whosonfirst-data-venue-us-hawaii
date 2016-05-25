@@ -1,0 +1,77 @@
+{
+  "id": 857547429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.496419,20.892324,-156.496419,20.892324",
+    "geom:latitude":20.892324,
+    "geom:longitude":-156.496419,
+    "iso:country":"US",
+    "sg:address":"1495 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 2224",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "a",
+        "as",
+        "station",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hnRGGaMJnv3CL3PLaj2pt_20.892324_-156.496419@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202881,
+    "wof:geomhash":"739035bc60859b64e98f573c551d9aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857547429
+        }
+    ],
+    "wof:id":857547429,
+    "wof:lastmodified":1464202881,
+    "wof:name":"Shell",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "as",
+        "station",
+        "operates"
+    ]
+},
+  "bbox": [
+    -156.496419,
+    20.892324,
+    -156.496419,
+    20.892324
+],
+  "geometry": {"coordinates":[-156.496419,20.892324],"type":"Point"}
+}

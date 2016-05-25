@@ -1,0 +1,73 @@
+{
+  "id": 857585203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882472,21.33247,-157.882472,21.33247",
+    "geom:latitude":21.33247,
+    "geom:longitude":-157.882472,
+    "iso:country":"US",
+    "sg:address":"2131 Bannister Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3666",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5loZBREzfn7ZF3iTA6egFo_21.332470_-157.882472@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203650,
+    "wof:geomhash":"f981aa653e604272e7c86447110f2772",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857585203
+        }
+    ],
+    "wof:id":857585203,
+    "wof:lastmodified":1464203650,
+    "wof:name":"Ksc Construction",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.882472,
+    21.33247,
+    -157.882472,
+    21.33247
+],
+  "geometry": {"coordinates":[-157.88247200000001,21.33247],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857545975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842805,21.305774,-157.842805,21.305774",
+    "geom:latitude":21.305774,
+    "geom:longitude":-157.842805,
+    "iso:country":"US",
+    "sg:address":"1528 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 5965",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LFgoq1BXw8LgBXT1iwBMb_21.305774_-157.842805@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202856,
+    "wof:geomhash":"0cdb26694c244d99bcfb5c3e8dcdfd5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857545975
+        }
+    ],
+    "wof:id":857545975,
+    "wof:lastmodified":1464202856,
+    "wof:name":"Kamaaina Construction Services",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.842805,
+    21.305774,
+    -157.842805,
+    21.305774
+],
+  "geometry": {"coordinates":[-157.842805,21.305774],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857610921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026972,21.499143,-158.026972,21.499143",
+    "geom:latitude":21.499143,
+    "geom:longitude":-158.026972,
+    "iso:country":"US",
+    "sg:address":"850 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5151",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.fmc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CJhJfWFc36Kcu2abwkVP6_21.499143_-158.026972@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204225,
+    "wof:geomhash":"a1906f442ede0eca6f518777137334fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857610921
+        }
+    ],
+    "wof:id":857610921,
+    "wof:lastmodified":1464204225,
+    "wof:name":"Fresenius Medical Care",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -158.026972,
+    21.499143,
+    -158.026972,
+    21.499143
+],
+  "geometry": {"coordinates":[-158.026972,21.499143],"type":"Point"}
+}

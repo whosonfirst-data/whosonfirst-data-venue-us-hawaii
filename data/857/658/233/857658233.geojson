@@ -1,0 +1,74 @@
+{
+  "id": 857658233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.070002,21.335209,-158.070002,21.335209",
+    "geom:latitude":21.335209,
+    "geom:longitude":-158.070002,
+    "iso:country":"US",
+    "sg:address":"1044 Kumuiki St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 1041",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C23GQgdr2f02PE2laBFCX_21.335209_-158.070002@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205830,
+    "wof:geomhash":"8e8b019258ef9ce32d32475213f43887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857658233
+        }
+    ],
+    "wof:id":857658233,
+    "wof:lastmodified":1464205830,
+    "wof:name":"Royal Pacific Construction Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.070002,
+    21.335209,
+    -158.070002,
+    21.335209
+],
+  "geometry": {"coordinates":[-158.07000199999999,21.335209],"type":"Point"}
+}

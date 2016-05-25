@@ -1,0 +1,73 @@
+{
+  "id": 857612841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821371,21.309091,-157.821371,21.309091",
+    "geom:latitude":21.309091,
+    "geom:longitude":-157.821371,
+    "iso:country":"US",
+    "sg:address":"1909 Aleo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4916",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KRBY3V1bllcP08JenDDaa_21.309091_-157.821371@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204278,
+    "wof:geomhash":"1878803b470eaa49cb05bbf5c7dc070d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857612841
+        }
+    ],
+    "wof:id":857612841,
+    "wof:lastmodified":1464204278,
+    "wof:name":"Feher Design Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "research"
+    ]
+},
+  "bbox": [
+    -157.821371,
+    21.309091,
+    -157.821371,
+    21.309091
+],
+  "geometry": {"coordinates":[-157.821371,21.309091],"type":"Point"}
+}

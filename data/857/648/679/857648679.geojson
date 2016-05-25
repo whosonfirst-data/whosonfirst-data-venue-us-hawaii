@@ -1,0 +1,73 @@
+{
+  "id": 857648679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847509,21.329347,-157.847509,21.329347",
+    "geom:latitude":21.329347,
+    "geom:longitude":-157.847509,
+    "iso:country":"US",
+    "sg:address":"425 Wyllie St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 6558",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qVVb6gke1Qn6xdUgTuiVH_21.329347_-157.847509@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205401,
+    "wof:geomhash":"7e8b7784986e292562c0ccbfa095639a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857648679
+        }
+    ],
+    "wof:id":857648679,
+    "wof:lastmodified":1464205401,
+    "wof:name":"Clifford K Chock MD",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.847509,
+    21.329347,
+    -157.847509,
+    21.329347
+],
+  "geometry": {"coordinates":[-157.847509,21.329347],"type":"Point"}
+}

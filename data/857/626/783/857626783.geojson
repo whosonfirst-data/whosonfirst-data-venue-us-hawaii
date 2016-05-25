@@ -1,0 +1,71 @@
+{
+  "id": 857626783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815327,21.271265,-157.815327,21.271265",
+    "geom:latitude":21.271265,
+    "geom:longitude":-157.815327,
+    "iso:country":"US",
+    "sg:address":"3503 Leahi Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 7368",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sV4jgo4ksB2qggHWIYzot_21.271265_-157.815327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204597,
+    "wof:geomhash":"1bf5516ef3d896d91880a9a3297b09fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857626783
+        }
+    ],
+    "wof:id":857626783,
+    "wof:lastmodified":1464204597,
+    "wof:name":"Honolulu Paki Community Park",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.815327,
+    21.271265,
+    -157.815327,
+    21.271265
+],
+  "geometry": {"coordinates":[-157.815327,21.271265],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857531275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.735823,21.400423,-157.735823,21.400423",
+    "geom:latitude":21.400423,
+    "geom:longitude":-157.735823,
+    "iso:country":"US",
+    "sg:address":"112 Kaapuni Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 3855",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64EN9t5xtSPVmx0Zk3Mb8d_21.400423_-157.735823@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202570,
+    "wof:geomhash":"7eef95f0e18ded409ff69d64f540e9de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857531275
+        }
+    ],
+    "wof:id":857531275,
+    "wof:lastmodified":1464202570,
+    "wof:name":"Mark Chai Arts",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.735823,
+    21.400423,
+    -157.735823,
+    21.400423
+],
+  "geometry": {"coordinates":[-157.73582300000001,21.400423],"type":"Point"}
+}

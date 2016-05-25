@@ -1,0 +1,75 @@
+{
+  "id": 857599629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.74623,21.402616,-157.74623,21.402616",
+    "geom:latitude":21.402616,
+    "geom:longitude":-157.74623,
+    "iso:country":"US",
+    "sg:address":"355 Hualani St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 0011",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66uEf1C7Stt9g3oSCSjgL7_21.402616_-157.746230@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203976,
+    "wof:geomhash":"dcf95fd62e101593e7f106a7e0524d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857599629
+        }
+    ],
+    "wof:id":857599629,
+    "wof:lastmodified":1464203976,
+    "wof:name":"His House Cleaning Svc",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -157.74623,
+    21.402616,
+    -157.74623,
+    21.402616
+],
+  "geometry": {"coordinates":[-157.74623,21.402616],"type":"Point"}
+}

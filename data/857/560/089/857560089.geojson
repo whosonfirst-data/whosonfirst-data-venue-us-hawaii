@@ -1,0 +1,73 @@
+{
+  "id": 857560089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.923256,20.829987,-156.923256,20.829987",
+    "geom:latitude":20.829987,
+    "geom:longitude":-156.923256,
+    "iso:country":"US",
+    "sg:address":"604 Ilima Ave",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 6962",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c5w0ROlw1JpAoKUfISqgS_20.829987_-156.923256@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203152,
+    "wof:geomhash":"817374f4753666afe71fb125291a72fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857560089
+        }
+    ],
+    "wof:id":857560089,
+    "wof:lastmodified":1464203152,
+    "wof:name":"Coffee Works",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -156.923256,
+    20.829987,
+    -156.923256,
+    20.829987
+],
+  "geometry": {"coordinates":[-156.92325600000001,20.829987],"type":"Point"}
+}

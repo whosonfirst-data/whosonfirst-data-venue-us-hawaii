@@ -1,0 +1,71 @@
+{
+  "id": 857651277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850867,21.357512,-157.850867,21.357512",
+    "geom:latitude":21.357512,
+    "geom:longitude":-157.850867,
+    "iso:country":"US",
+    "sg:address":"1633 Kalaepaa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 2422",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kj3AdfcoTOCh2fns8FdiU_21.357512_-157.850867@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205510,
+    "wof:geomhash":"07c9aac56323184b8bae34b68dc03197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857651277
+        }
+    ],
+    "wof:id":857651277,
+    "wof:lastmodified":1464205510,
+    "wof:name":"Gateway Construction",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.850867,
+    21.357512,
+    -157.850867,
+    21.357512
+],
+  "geometry": {"coordinates":[-157.85086699999999,21.357512],"type":"Point"}
+}

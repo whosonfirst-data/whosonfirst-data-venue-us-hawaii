@@ -1,0 +1,87 @@
+{
+  "id": 857672201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.503179,20.896941,-156.503179,20.896941",
+    "geom:latitude":20.896941,
+    "geom:longitude":-156.503179,
+    "iso:country":"US",
+    "sg:address":"1844 Wili Pa Loop",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7937",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "counseling",
+        "organization",
+        "day",
+        "family",
+        "welfare"
+    ],
+    "sg:website":"www.mfss.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937633,
+        102085577,
+        85890685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dVlnzs9Q9QGRfOmOP0v6K_20.896941_-156.503179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206418,
+    "wof:geomhash":"02aca69e545bfafe02e690586440bae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937633,
+            "neighbourhood_id":85890685,
+            "region_id":85688671,
+            "venue_id":857672201
+        }
+    ],
+    "wof:id":857672201,
+    "wof:lastmodified":1464206418,
+    "wof:name":"Maui Family Support Services",
+    "wof:parent_id":85890685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "organization",
+        "day",
+        "family",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -156.503179,
+    20.896941,
+    -156.503179,
+    20.896941
+],
+  "geometry": {"coordinates":[-156.50317899999999,20.896941],"type":"Point"}
+}

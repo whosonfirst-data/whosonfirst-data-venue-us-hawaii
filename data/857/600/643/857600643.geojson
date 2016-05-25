@@ -1,0 +1,73 @@
+{
+  "id": 857600643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.192673,21.485329,-158.192673,21.485329",
+    "geom:latitude":21.485329,
+    "geom:longitude":-158.192673,
+    "iso:country":"US",
+    "sg:address":"1039 Maiola St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 695 5925",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937573,
+        102085417,
+        85890673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O5nkSf9QBESPgxeLTUk82_21.485329_-158.192673@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204000,
+    "wof:geomhash":"8eedd27136bc00298facdbab8d67a00f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937573,
+            "neighbourhood_id":85890673,
+            "region_id":85688671,
+            "venue_id":857600643
+        }
+    ],
+    "wof:id":857600643,
+    "wof:lastmodified":1464204000,
+    "wof:name":"Eagles Quality Builders Inc",
+    "wof:parent_id":85890673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.192673,
+    21.485329,
+    -158.192673,
+    21.485329
+],
+  "geometry": {"coordinates":[-158.19267300000001,21.485329],"type":"Point"}
+}

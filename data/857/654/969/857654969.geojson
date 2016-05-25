@@ -1,0 +1,69 @@
+{
+  "id": 857654969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026304,21.368839,-158.026304,21.368839",
+    "geom:latitude":21.368839,
+    "geom:longitude":-158.026304,
+    "iso:country":"US",
+    "sg:address":"2135 Fort Weaver Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 675 0400",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bjbx3Jhl7tKE5HEm0Q35s_21.368839_-158.026304@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205680,
+    "wof:geomhash":"8bf457df7065c62cbe3fbafb3bf3d2a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857654969
+        }
+    ],
+    "wof:id":857654969,
+    "wof:lastmodified":1464205680,
+    "wof:name":"University Specialty Clinics",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -158.026304,
+    21.368839,
+    -158.026304,
+    21.368839
+],
+  "geometry": {"coordinates":[-158.02630400000001,21.368839],"type":"Point"}
+}

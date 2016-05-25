@@ -1,0 +1,71 @@
+{
+  "id": 857636897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.732531,21.376256,-157.732531,21.376256",
+    "geom:latitude":21.376256,
+    "geom:longitude":-157.732531,
+    "iso:country":"US",
+    "sg:address":"961 Kahili St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 4327",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdcODWHnCCfIEQ2suuHi3_21.376256_-157.732531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204900,
+    "wof:geomhash":"43184c7a949c5260f50d52f11b57beb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857636897
+        }
+    ],
+    "wof:id":857636897,
+    "wof:lastmodified":1464204900,
+    "wof:name":"House Doctors",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.732531,
+    21.376256,
+    -157.732531,
+    21.376256
+],
+  "geometry": {"coordinates":[-157.73253099999999,21.376256],"type":"Point"}
+}

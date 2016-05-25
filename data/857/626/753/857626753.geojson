@@ -1,0 +1,71 @@
+{
+  "id": 857626753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80328,21.401264,-157.80328,21.401264",
+    "geom:latitude":21.401264,
+    "geom:longitude":-157.80328,
+    "iso:country":"US",
+    "sg:address":"605 Uhilehua St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 8064",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85890373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62PYR9SAbVIbxV2HTYuRzN_21.401264_-157.803280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204596,
+    "wof:geomhash":"92dfb0203a8f3d6cae66986f7c37b2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85890373,
+            "region_id":85688671,
+            "venue_id":857626753
+        }
+    ],
+    "wof:id":857626753,
+    "wof:lastmodified":1464204596,
+    "wof:name":"C & J Solar Solutions",
+    "wof:parent_id":85890373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.80328,
+    21.401264,
+    -157.80328,
+    21.401264
+],
+  "geometry": {"coordinates":[-157.80328,21.401264],"type":"Point"}
+}

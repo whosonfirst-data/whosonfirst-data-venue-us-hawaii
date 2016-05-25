@@ -1,0 +1,71 @@
+{
+  "id": 857551711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898621,21.37725,-157.898621,21.37725",
+    "geom:latitude":21.37725,
+    "geom:longitude":-157.898621,
+    "iso:country":"US",
+    "sg:address":"1421 Koaha Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 7053",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A6xXEXBt5HcK2gJEkFeON_21.377250_-157.898621@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202966,
+    "wof:geomhash":"12f8f9c2fe3191ce67405b0266f3324e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857551711
+        }
+    ],
+    "wof:id":857551711,
+    "wof:lastmodified":1464202966,
+    "wof:name":"Pacific Testing Services M",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.898621,
+    21.37725,
+    -157.898621,
+    21.37725
+],
+  "geometry": {"coordinates":[-157.89862099999999,21.37725],"type":"Point"}
+}

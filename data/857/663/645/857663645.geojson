@@ -1,0 +1,73 @@
+{
+  "id": 857663645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884471,21.32301,-157.884471,21.32301",
+    "geom:latitude":21.32301,
+    "geom:longitude":-157.884471,
+    "iso:country":"US",
+    "sg:address":"1824 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 1115",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MljSz4SYhhOP6wGX2yBSW_21.323010_-157.884471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206073,
+    "wof:geomhash":"1c05fba61c97af49c526df7c4e907f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857663645
+        }
+    ],
+    "wof:id":857663645,
+    "wof:lastmodified":1464206073,
+    "wof:name":"A J Tile LLC",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.884471,
+    21.32301,
+    -157.884471,
+    21.32301
+],
+  "geometry": {"coordinates":[-157.88447099999999,21.32301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857585173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.188073,21.451775,-158.188073,21.451775",
+    "geom:latitude":21.451775,
+    "geom:longitude":-158.188073,
+    "iso:country":"US",
+    "sg:address":"199 Ala Hema St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 9805",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tf9DXUmmhLmn6caXTFoVj_21.451775_-158.188073@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203649,
+    "wof:geomhash":"95995a756a7f2acef4cf4f1b6efc4050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857585173
+        }
+    ],
+    "wof:id":857585173,
+    "wof:lastmodified":1464203649,
+    "wof:name":"Puu Kahea Baptist Conference",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -158.188073,
+    21.451775,
+    -158.188073,
+    21.451775
+],
+  "geometry": {"coordinates":[-158.188073,21.451775],"type":"Point"}
+}

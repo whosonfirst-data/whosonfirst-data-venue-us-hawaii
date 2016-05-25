@@ -1,0 +1,74 @@
+{
+  "id": 857638435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834313,21.28797,-157.834313,21.28797",
+    "geom:latitude":21.28797,
+    "geom:longitude":-157.834313,
+    "iso:country":"US",
+    "sg:address":"1879 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7777",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.hawaii.rr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DNAzKgPRp9fYgSNz4CwqG_21.287970_-157.834313@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204955,
+    "wof:geomhash":"c54a6bcb942a5b3e0500b0fafa529e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857638435
+        }
+    ],
+    "wof:id":857638435,
+    "wof:lastmodified":1464204955,
+    "wof:name":"Paradise Rent-A-Car",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.834313,
+    21.28797,
+    -157.834313,
+    21.28797
+],
+  "geometry": {"coordinates":[-157.83431300000001,21.28797],"type":"Point"}
+}

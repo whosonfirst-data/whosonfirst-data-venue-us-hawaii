@@ -1,0 +1,71 @@
+{
+  "id": 857515823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813921,21.278132,-157.813921,21.278132",
+    "geom:latitude":21.278132,
+    "geom:longitude":-157.813921,
+    "iso:country":"US",
+    "sg:address":"3299 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 0344",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60utjWwnnIe81ZXuOlXMIc_21.278132_-157.813921@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202267,
+    "wof:geomhash":"728940ce100202954370fd5f33a0c2c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857515823
+        }
+    ],
+    "wof:id":857515823,
+    "wof:lastmodified":1464202267,
+    "wof:name":"Ilima Beauty Shop",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.813921,
+    21.278132,
+    -157.813921,
+    21.278132
+],
+  "geometry": {"coordinates":[-157.81392099999999,21.278132],"type":"Point"}
+}

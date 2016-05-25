@@ -1,0 +1,76 @@
+{
+  "id": 857681029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.342754,20.838283,-156.342754,20.838283",
+    "geom:latitude":20.838283,
+    "geom:longitude":-156.342754,
+    "iso:country":"US",
+    "sg:address":"55 Pukalani St",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/makawao-paia/109772-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 9999",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64sKXaL9YNFYTdkeI558EI_20.838283_-156.342754@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206765,
+    "wof:geomhash":"3e09afa49f6b1537c4bf2aa899e3af0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857681029
+        }
+    ],
+    "wof:id":857681029,
+    "wof:lastmodified":1464206765,
+    "wof:name":"Subway",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -156.342754,
+    20.838283,
+    -156.342754,
+    20.838283
+],
+  "geometry": {"coordinates":[-156.34275400000001,20.838283],"type":"Point"}
+}

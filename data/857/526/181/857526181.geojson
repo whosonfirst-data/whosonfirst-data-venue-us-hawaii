@@ -1,0 +1,71 @@
+{
+  "id": 857526181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851151,21.33706,-157.851151,21.33706",
+    "geom:latitude":21.33706,
+    "geom:longitude":-157.851151,
+    "iso:country":"US",
+    "sg:address":"1620 Alewa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 4906",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MPDPsXwW0z17c3LCAg9ft_21.337060_-157.851151@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202471,
+    "wof:geomhash":"55e7286a1e072233b62af7f4323c1e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857526181
+        }
+    ],
+    "wof:id":857526181,
+    "wof:lastmodified":1464202471,
+    "wof:name":"Wes Contracting",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.851151,
+    21.33706,
+    -157.851151,
+    21.33706
+],
+  "geometry": {"coordinates":[-157.85115099999999,21.33706],"type":"Point"}
+}

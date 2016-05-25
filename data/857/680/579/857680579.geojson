@@ -1,0 +1,70 @@
+{
+  "id": 857680579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.079781,21.337755,-158.079781,21.337755",
+    "geom:latitude":21.337755,
+    "geom:longitude":-158.079781,
+    "iso:country":"US",
+    "sg:address":"590 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/243095-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 0131",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DNSr096uX33fLeanXd33g_21.337755_-158.079781@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"7cd416fc5ea5f2412871d8e8c595f7ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680579
+        }
+    ],
+    "wof:id":857680579,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -158.079781,
+    21.337755,
+    -158.079781,
+    21.337755
+],
+  "geometry": {"coordinates":[-158.079781,21.337755],"type":"Point"}
+}

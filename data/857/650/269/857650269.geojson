@@ -1,0 +1,77 @@
+{
+  "id": 857650269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861118,21.305616,-157.861118,21.305616",
+    "geom:latitude":21.305616,
+    "geom:longitude":-157.861118,
+    "iso:country":"US",
+    "sg:address":"333 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 1966",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "program",
+        "state",
+        "agency",
+        "recreation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s60HP6hE8SZkGd5TiBUS3_21.305616_-157.861118@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205469,
+    "wof:geomhash":"49f8a89f08cb6ead9c45062082bd2a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857650269
+        }
+    ],
+    "wof:id":857650269,
+    "wof:lastmodified":1464205469,
+    "wof:name":"Boating & Ocean Recreation Div",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "state",
+        "agency",
+        "recreation"
+    ]
+},
+  "bbox": [
+    -157.861118,
+    21.305616,
+    -157.861118,
+    21.305616
+],
+  "geometry": {"coordinates":[-157.861118,21.305616],"type":"Point"}
+}

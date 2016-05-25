@@ -1,0 +1,67 @@
+{
+  "id": 857602293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857406,21.30118,-157.857406,21.30118",
+    "geom:latitude":21.30118,
+    "geom:longitude":-157.857406,
+    "iso:country":"US",
+    "sg:address":"606 Coral St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 544 1600",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:website":"www.chaneybrooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j9OSvbbdCaUo4ihxhrryd_21.301180_-157.857406@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204035,
+    "wof:geomhash":"cc29346f01289953bfc6a7c1ea9cc372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857602293
+        }
+    ],
+    "wof:id":857602293,
+    "wof:lastmodified":1464204035,
+    "wof:name":"Chaney Brooks & Co",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.857406,
+    21.30118,
+    -157.857406,
+    21.30118
+],
+  "geometry": {"coordinates":[-157.857406,21.30118],"type":"Point"}
+}

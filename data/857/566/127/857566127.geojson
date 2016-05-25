@@ -1,0 +1,66 @@
+{
+  "id": 857566127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.318598,20.885004,-156.318598,20.885004",
+    "geom:latitude":20.885004,
+    "geom:longitude":-156.318598,
+    "iso:country":"US",
+    "sg:address":"2130 Lilikoi Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 3075",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5guGbKJ6hy2euxG6vAdh_20.885004_-156.318598@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203274,
+    "wof:geomhash":"0ba0220ccecaf29e54bdd8fd278d1883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857566127
+        }
+    ],
+    "wof:id":857566127,
+    "wof:lastmodified":1464203274,
+    "wof:name":"Lilikoi Fashions",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.318598,
+    20.885004,
+    -156.318598,
+    20.885004
+],
+  "geometry": {"coordinates":[-156.31859800000001,20.885004],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 857590633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.356631,21.970441,-159.356631,21.970441",
+    "geom:latitude":21.970441,
+    "geom:longitude":-159.356631,
+    "iso:country":"US",
+    "sg:address":"3123 Oihana St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 2901",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system",
+        "air",
+        "refrigeration",
+        "conditioning",
+        "uni",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XFD8zcEk8CHOHoZh8xHHu_21.970441_-159.356631@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203775,
+    "wof:geomhash":"7ab7cb2979ebb6db346647ad65e00cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857590633
+        }
+    ],
+    "wof:id":857590633,
+    "wof:lastmodified":1464203775,
+    "wof:name":"Kauai Refrigeration Svc Inc",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "air",
+        "refrigeration",
+        "conditioning",
+        "uni",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.356631,
+    21.970441,
+    -159.356631,
+    21.970441
+],
+  "geometry": {"coordinates":[-159.35663099999999,21.970441],"type":"Point"}
+}

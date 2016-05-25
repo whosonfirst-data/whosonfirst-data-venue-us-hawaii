@@ -1,0 +1,77 @@
+{
+  "id": 857653639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860949,21.329788,-157.860949,21.329788",
+    "geom:latitude":21.329788,
+    "geom:longitude":-157.860949,
+    "iso:country":"US",
+    "sg:address":"1106 Hala Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 2427",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "web",
+        "system",
+        "integration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LHVi3DvzgDZ7fO3Z1Y0Pa_21.329788_-157.860949@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205622,
+    "wof:geomhash":"71530cc1f2b79e485ae577470fd720df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857653639
+        }
+    ],
+    "wof:id":857653639,
+    "wof:lastmodified":1464205622,
+    "wof:name":"Visual Climate",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "web",
+        "system",
+        "integration"
+    ]
+},
+  "bbox": [
+    -157.860949,
+    21.329788,
+    -157.860949,
+    21.329788
+],
+  "geometry": {"coordinates":[-157.86094900000001,21.329788],"type":"Point"}
+}

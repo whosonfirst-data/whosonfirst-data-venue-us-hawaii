@@ -1,0 +1,75 @@
+{
+  "id": 857664689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878439,21.331837,-157.878439,21.331837",
+    "geom:latitude":21.331837,
+    "geom:longitude":-157.878439,
+    "iso:country":"US",
+    "sg:address":"914 Industrial Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3004",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IFBE6al5X3izgM1dWdVlR_21.331837_-157.878439@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206111,
+    "wof:geomhash":"60d639b6dbbfbdbc50d2326ba2633f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857664689
+        }
+    ],
+    "wof:id":857664689,
+    "wof:lastmodified":1464206111,
+    "wof:name":"Kevin's Electric Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.878439,
+    21.331837,
+    -157.878439,
+    21.331837
+],
+  "geometry": {"coordinates":[-157.87843899999999,21.331837],"type":"Point"}
+}

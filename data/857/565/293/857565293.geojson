@@ -1,0 +1,73 @@
+{
+  "id": 857565293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.08639,21.328633,-158.08639,21.328633",
+    "geom:latitude":21.328633,
+    "geom:longitude":-158.08639,
+    "iso:country":"US",
+    "sg:address":"601 Kamokila Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 9303",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VRoSdEXjsZSkxOMed8IK_21.328633_-158.086390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203261,
+    "wof:geomhash":"50317a9178ab8b3588ab00ece4a2e2d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857565293
+        }
+    ],
+    "wof:id":857565293,
+    "wof:lastmodified":1464203261,
+    "wof:name":"Lorna's Snack Shop",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "chips",
+        "potato"
+    ]
+},
+  "bbox": [
+    -158.08639,
+    21.328633,
+    -158.08639,
+    21.328633
+],
+  "geometry": {"coordinates":[-158.08638999999999,21.328633],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857603459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84644,21.294649,-157.84644,21.294649",
+    "geom:latitude":21.294649,
+    "geom:longitude":-157.84644,
+    "iso:country":"US",
+    "sg:address":"550 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 7787",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MfVhJ2FKICuBFgIjt5ssP_21.294649_-157.846440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204061,
+    "wof:geomhash":"7bd1bb6d30325682efe2713331915f8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857603459
+        }
+    ],
+    "wof:id":857603459,
+    "wof:lastmodified":1464204061,
+    "wof:name":"Ala Moana Pawn Shop",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -157.84644,
+    21.294649,
+    -157.84644,
+    21.294649
+],
+  "geometry": {"coordinates":[-157.84644,21.294649],"type":"Point"}
+}

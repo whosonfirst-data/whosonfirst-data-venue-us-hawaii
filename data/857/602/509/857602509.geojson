@@ -1,0 +1,73 @@
+{
+  "id": 857602509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886779,21.322601,-157.886779,21.322601",
+    "geom:latitude":21.322601,
+    "geom:longitude":-157.886779,
+    "iso:country":"US",
+    "sg:address":"148 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 2171",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D3D9m5WDmCiNzX0RJ2JH3_21.322601_-157.886779@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204039,
+    "wof:geomhash":"81b8049625da681246cd1b11a3fb9562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857602509
+        }
+    ],
+    "wof:id":857602509,
+    "wof:lastmodified":1464204039,
+    "wof:name":"Head Hunters",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.886779,
+    21.322601,
+    -157.886779,
+    21.322601
+],
+  "geometry": {"coordinates":[-157.88677899999999,21.322601],"type":"Point"}
+}

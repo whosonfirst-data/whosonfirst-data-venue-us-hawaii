@@ -1,0 +1,71 @@
+{
+  "id": 857678655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834496,21.296514,-157.834496,21.296514",
+    "geom:latitude":21.296514,
+    "geom:longitude":-157.834496,
+    "iso:country":"US",
+    "sg:address":"1602 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 5781",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HbBuJ3xNuidHrVxXrN1SB_21.296514_-157.834496@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206678,
+    "wof:geomhash":"2bb9f29f97c794ab632cf75a92bb4558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857678655
+        }
+    ],
+    "wof:id":857678655,
+    "wof:lastmodified":1464206678,
+    "wof:name":"Pee Wee Drive Inn",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drive"
+    ]
+},
+  "bbox": [
+    -157.834496,
+    21.296514,
+    -157.834496,
+    21.296514
+],
+  "geometry": {"coordinates":[-157.834496,21.296514],"type":"Point"}
+}

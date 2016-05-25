@@ -1,0 +1,77 @@
+{
+  "id": 857570511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.683235,21.311355,-157.683235,21.311355",
+    "geom:latitude":21.311355,
+    "geom:longitude":-157.683235,
+    "iso:country":"US",
+    "sg:address":"1241 Lunalilo Home Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 3085",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rBJ4Em3QLwvi5jxrUYV7i_21.311355_-157.683235@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203363,
+    "wof:geomhash":"383b6f70862d73e20f5e193c6f575479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857570511
+        }
+    ],
+    "wof:id":857570511,
+    "wof:lastmodified":1464203363,
+    "wof:name":"R & C Trucking Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "without",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.683235,
+    21.311355,
+    -157.683235,
+    21.311355
+],
+  "geometry": {"coordinates":[-157.683235,21.311355],"type":"Point"}
+}

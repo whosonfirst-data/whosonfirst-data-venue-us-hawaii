@@ -1,0 +1,77 @@
+{
+  "id": 857659525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884712,21.321213,-157.884712,21.321213",
+    "geom:latitude":21.321213,
+    "geom:longitude":-157.884712,
+    "iso:country":"US",
+    "sg:address":"1648 Auiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2128",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "leasing",
+        "car",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BQ5AK4XmjdlonFvaFMj4m_21.321213_-157.884712@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205882,
+    "wof:geomhash":"6585e1badecd4dcf1ab6b915ea1fab18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857659525
+        }
+    ],
+    "wof:id":857659525,
+    "wof:lastmodified":1464205882,
+    "wof:name":"Master Leasing Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "leasing",
+        "car",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.884712,
+    21.321213,
+    -157.884712,
+    21.321213
+],
+  "geometry": {"coordinates":[-157.88471200000001,21.321213],"type":"Point"}
+}

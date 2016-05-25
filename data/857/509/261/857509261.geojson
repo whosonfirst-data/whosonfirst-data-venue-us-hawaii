@@ -1,0 +1,71 @@
+{
+  "id": 857509261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.015123,21.456757,-158.015123,21.456757",
+    "geom:latitude":21.456757,
+    "geom:longitude":-158.015123,
+    "iso:country":"US",
+    "sg:address":"280 Kipapa Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6801",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LtkScjXHVMwIxowY7TCUq_21.456757_-158.015123@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202129,
+    "wof:geomhash":"ad166d97669f7622f7531c7fea7613a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857509261
+        }
+    ],
+    "wof:id":857509261,
+    "wof:lastmodified":1464202129,
+    "wof:name":"Island Mini Mart",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -158.015123,
+    21.456757,
+    -158.015123,
+    21.456757
+],
+  "geometry": {"coordinates":[-158.01512299999999,21.456757],"type":"Point"}
+}

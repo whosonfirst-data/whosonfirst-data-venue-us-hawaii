@@ -1,0 +1,77 @@
+{
+  "id": 857506747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864295,21.31345,-157.864295,21.31345",
+    "geom:latitude":21.31345,
+    "geom:longitude":-157.864295,
+    "iso:country":"US",
+    "sg:address":"185 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 0769",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EwQYreyvvh4JmwBBmpmze_21.313450_-157.864295@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202074,
+    "wof:geomhash":"05b4db7fcb9af2e5df5636ffaf779bee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857506747
+        }
+    ],
+    "wof:id":857506747,
+    "wof:lastmodified":1464202074,
+    "wof:name":"Tan Tien Video",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.864295,
+    21.31345,
+    -157.864295,
+    21.31345
+],
+  "geometry": {"coordinates":[-157.864295,21.31345],"type":"Point"}
+}

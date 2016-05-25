@@ -1,0 +1,71 @@
+{
+  "id": 857681059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029866,21.49744,-158.029866,21.49744",
+    "geom:latitude":21.49744,
+    "geom:longitude":-158.029866,
+    "iso:country":"US",
+    "sg:address":"114 N Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/wahiawa/202822-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KqOaRau9CXTUj488Li3CV_21.497440_-158.029866@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206766,
+    "wof:geomhash":"033cb219ec85a9dbecca79f2967453d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857681059
+        }
+    ],
+    "wof:id":857681059,
+    "wof:lastmodified":1464206766,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.029866,
+    21.49744,
+    -158.029866,
+    21.49744
+],
+  "geometry": {"coordinates":[-158.029866,21.49744],"type":"Point"}
+}

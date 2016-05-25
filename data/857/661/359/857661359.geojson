@@ -1,0 +1,76 @@
+{
+  "id": 857661359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860632,21.306876,-157.860632,21.306876",
+    "geom:latitude":21.306876,
+    "geom:longitude":-157.860632,
+    "iso:country":"US",
+    "sg:address":"202 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4687",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bhr7nzkc8B5MHqhXtAZdS_21.306876_-157.860632@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205984,
+    "wof:geomhash":"9b30c7bd926b07fcf178504ce70d2bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857661359
+        }
+    ],
+    "wof:id":857661359,
+    "wof:lastmodified":1464205984,
+    "wof:name":"Alakea Produce Market",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -157.860632,
+    21.306876,
+    -157.860632,
+    21.306876
+],
+  "geometry": {"coordinates":[-157.86063200000001,21.306876],"type":"Point"}
+}

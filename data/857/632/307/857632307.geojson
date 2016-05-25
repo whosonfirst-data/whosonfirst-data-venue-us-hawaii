@@ -1,0 +1,67 @@
+{
+  "id": 857632307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83166,21.2785,-157.83166,21.2785",
+    "geom:latitude":21.2785,
+    "geom:longitude":-157.83166,
+    "iso:country":"US",
+    "sg:address":"2164 Kalia Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 1961",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.ohanahotels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RNzT4CNueIWEF9UM0KtaP_21.278500_-157.831660@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204724,
+    "wof:geomhash":"b64fc02eb44d8808fd128fe79d70fa8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857632307
+        }
+    ],
+    "wof:id":857632307,
+    "wof:lastmodified":1464204724,
+    "wof:name":"Ohana Royal Islander",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.83166,
+    21.2785,
+    -157.83166,
+    21.2785
+],
+  "geometry": {"coordinates":[-157.83166,21.2785],"type":"Point"}
+}

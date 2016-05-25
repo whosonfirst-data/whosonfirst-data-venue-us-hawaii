@@ -1,0 +1,73 @@
+{
+  "id": 857557807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.48407,20.902516,-156.48407,20.902516",
+    "geom:latitude":20.902516,
+    "geom:longitude":-156.48407,
+    "iso:country":"US",
+    "sg:address":"711 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7878",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cV6xGtI3VPcqeDGq501X4_20.902516_-156.484070@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203094,
+    "wof:geomhash":"d78033c021f97fa8d7ba7c02bc2e0c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857557807
+        }
+    ],
+    "wof:id":857557807,
+    "wof:lastmodified":1464203094,
+    "wof:name":"Alii Towing & Auto Repair",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -156.48407,
+    20.902516,
+    -156.48407,
+    20.902516
+],
+  "geometry": {"coordinates":[-156.48407,20.902516],"type":"Point"}
+}

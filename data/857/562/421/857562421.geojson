@@ -1,0 +1,73 @@
+{
+  "id": 857562421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785968,21.26941,-157.785968,21.26941",
+    "geom:latitude":21.26941,
+    "geom:longitude":-157.785968,
+    "iso:country":"US",
+    "sg:address":"1029 Koloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 2323",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4egmo3QO8ssGR6KYFG73tz_21.269410_-157.785968@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203210,
+    "wof:geomhash":"0ac2cb896ddb4ed611a26a7397b1f982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857562421
+        }
+    ],
+    "wof:id":857562421,
+    "wof:lastmodified":1464203210,
+    "wof:name":"Karns Holdings LLC",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -157.785968,
+    21.26941,
+    -157.785968,
+    21.26941
+],
+  "geometry": {"coordinates":[-157.785968,21.26941],"type":"Point"}
+}

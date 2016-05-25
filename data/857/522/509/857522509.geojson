@@ -1,0 +1,75 @@
+{
+  "id": 857522509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.519119,21.919777,-159.519119,21.919777",
+    "geom:latitude":21.919777,
+    "geom:longitude":-159.519119,
+    "iso:country":"US",
+    "sg:address":"4100 Oni Pl",
+    "sg:city":"Kalaheo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 2000",
+    "sg:postcode":"96741",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937515,
+        102085457,
+        85890349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58yMaVE50lfh8ZA1j5jF6p_21.919777_-159.519119@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202399,
+    "wof:geomhash":"720bdf50138230d574c438facf142616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937515,
+            "neighbourhood_id":85890349,
+            "region_id":85688671,
+            "venue_id":857522509
+        }
+    ],
+    "wof:id":857522509,
+    "wof:lastmodified":1464202399,
+    "wof:name":"Krishna Kumar MD",
+    "wof:parent_id":85890349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -159.519119,
+    21.919777,
+    -159.519119,
+    21.919777
+],
+  "geometry": {"coordinates":[-159.51911899999999,21.919777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857548751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.673323,21.304775,-157.673323,21.304775",
+    "geom:latitude":21.304775,
+    "geom:longitude":-157.673323,
+    "iso:country":"US",
+    "sg:address":"7545 Kamaomao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 3302",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JtACAkP6OVP99y4wGgLcw_21.304775_-157.673323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202907,
+    "wof:geomhash":"a62097b2819420962f6c100a25258222",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857548751
+        }
+    ],
+    "wof:id":857548751,
+    "wof:lastmodified":1464202907,
+    "wof:name":"D S Plastering LLC",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.673323,
+    21.304775,
+    -157.673323,
+    21.304775
+],
+  "geometry": {"coordinates":[-157.67332300000001,21.304775],"type":"Point"}
+}

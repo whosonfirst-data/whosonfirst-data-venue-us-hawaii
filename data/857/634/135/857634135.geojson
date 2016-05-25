@@ -1,0 +1,85 @@
+{
+  "id": 857634135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.937195,21.346852,-157.937195,21.346852",
+    "geom:latitude":21.346852,
+    "geom:longitude":-157.937195,
+    "iso:country":"US",
+    "sg:address":"50 C Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 722 3847",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "gates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JgvCXGh8q5BoUiuWsJbZB_21.346852_-157.937195@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204802,
+    "wof:geomhash":"cad1d7c2def59b20664cb607943255ed",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857634135
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857634135
+        }
+    ],
+    "wof:id":857634135,
+    "wof:lastmodified":1464204802,
+    "wof:name":"Metal Morphosis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gates"
+    ]
+},
+  "bbox": [
+    -157.937195,
+    21.346852,
+    -157.937195,
+    21.346852
+],
+  "geometry": {"coordinates":[-157.937195,21.346852],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857629421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861887,21.310417,-157.861887,21.310417",
+    "geom:latitude":21.310417,
+    "geom:longitude":-157.861887,
+    "iso:country":"US",
+    "sg:address":"1022 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 564 8200",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:website":"www.islandinsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FxC2kKYK3ccIT7mQ3ighy_21.310417_-157.861887@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204650,
+    "wof:geomhash":"bdb330d26412341012454abdd7faa6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872737,
+            "region_id":85688671,
+            "venue_id":857629421
+        }
+    ],
+    "wof:id":857629421,
+    "wof:lastmodified":1464204650,
+    "wof:name":"Island Insurance Co LTD",
+    "wof:parent_id":85872737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.861887,
+    21.310417,
+    -157.861887,
+    21.310417
+],
+  "geometry": {"coordinates":[-157.861887,21.310417],"type":"Point"}
+}

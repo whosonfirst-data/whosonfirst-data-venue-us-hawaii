@@ -1,0 +1,71 @@
+{
+  "id": 857617819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.956059,21.68012,-157.956059,21.68012",
+    "geom:latitude":21.68012,
+    "geom:longitude":-157.956059,
+    "iso:country":"US",
+    "sg:address":"701 Kamehameha Hwy",
+    "sg:city":"Kahuku",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 1113",
+    "sg:postcode":"96731",
+    "sg:province":"HI",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KFY1PyMK5TfnQfCzqoIcw_21.680120_-157.956059@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204374,
+    "wof:geomhash":"df855ff14bfd2c464236b30b91315d09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857617819
+        }
+    ],
+    "wof:id":857617819,
+    "wof:lastmodified":1464204374,
+    "wof:name":"Kahuku Wastewater Treatment",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -157.956059,
+    21.68012,
+    -157.956059,
+    21.68012
+],
+  "geometry": {"coordinates":[-157.95605900000001,21.68012],"type":"Point"}
+}

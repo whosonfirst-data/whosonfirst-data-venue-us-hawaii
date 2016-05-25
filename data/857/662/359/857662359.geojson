@@ -1,0 +1,71 @@
+{
+  "id": 857662359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883303,21.324524,-157.883303,21.324524",
+    "geom:latitude":21.324524,
+    "geom:longitude":-157.883303,
+    "iso:country":"US",
+    "sg:address":"1803 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3447",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F3pcX4PlyzWlXpatq68fZ_21.324524_-157.883303@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206024,
+    "wof:geomhash":"047891ec79413cf4a0415c50212f06d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857662359
+        }
+    ],
+    "wof:id":857662359,
+    "wof:lastmodified":1464206024,
+    "wof:name":"National Fender Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -157.883303,
+    21.324524,
+    -157.883303,
+    21.324524
+],
+  "geometry": {"coordinates":[-157.88330300000001,21.324524],"type":"Point"}
+}

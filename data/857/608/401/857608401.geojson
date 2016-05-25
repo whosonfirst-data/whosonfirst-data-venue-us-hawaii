@@ -1,0 +1,73 @@
+{
+  "id": 857608401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807197,21.322561,-157.807197,21.322561",
+    "geom:latitude":21.322561,
+    "geom:longitude":-157.807197,
+    "iso:country":"US",
+    "sg:address":"3266 Keahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 2285",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kYCWBg2WAee86hDrpxzIQ_21.322561_-157.807197@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204173,
+    "wof:geomhash":"fe071e586c20fe0f2bb9e18c7c0f0649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857608401
+        }
+    ],
+    "wof:id":857608401,
+    "wof:lastmodified":1464204173,
+    "wof:name":"Peter N Kobayashi Gen Contr",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.807197,
+    21.322561,
+    -157.807197,
+    21.322561
+],
+  "geometry": {"coordinates":[-157.807197,21.322561],"type":"Point"}
+}

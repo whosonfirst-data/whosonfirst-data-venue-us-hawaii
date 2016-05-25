@@ -1,0 +1,75 @@
+{
+  "id": 857551191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.047861,19.639284,-155.047861,19.639284",
+    "geom:latitude":19.639284,
+    "geom:longitude":-155.047861,
+    "iso:country":"US",
+    "sg:address":"136 L'Iili St",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 982 9902",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aQoZbkxShh6J6rqw523l0_19.639284_-155.047861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202952,
+    "wof:geomhash":"b7baa8a6ab6d90b9f08475abdeb7babc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857551191
+        }
+    ],
+    "wof:id":857551191,
+    "wof:lastmodified":1464202952,
+    "wof:name":"Big Island Fencing",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.047861,
+    19.639284,
+    -155.047861,
+    19.639284
+],
+  "geometry": {"coordinates":[-155.04786100000001,19.639284],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 857633015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900933,21.334041,-157.900933,21.334041",
+    "geom:latitude":21.334041,
+    "geom:longitude":-157.900933,
+    "iso:country":"US",
+    "sg:address":"2621 Waiwai Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 9916",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "light",
+        "fixture",
+        "commercial",
+        "lighting",
+        "bulb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ODMoYRK83Tchj87wG1amY_21.334041_-157.900933@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204756,
+    "wof:geomhash":"a26c22cdada5831da8bb8fb9ba2229bd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857633015
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857633015
+        }
+    ],
+    "wof:id":857633015,
+    "wof:lastmodified":1464204756,
+    "wof:name":"Lightman The",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "light",
+        "fixture",
+        "commercial",
+        "lighting",
+        "bulb"
+    ]
+},
+  "bbox": [
+    -157.900933,
+    21.334041,
+    -157.900933,
+    21.334041
+],
+  "geometry": {"coordinates":[-157.90093300000001,21.334041],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857676171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840037,21.316852,-157.840037,21.316852",
+    "geom:latitude":21.316852,
+    "geom:longitude":-157.840037,
+    "iso:country":"US",
+    "sg:address":"2150 Tantalus Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 522 7048",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UPUKGhyYBe5Z6lCC2D5oR_21.316852_-157.840037@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206583,
+    "wof:geomhash":"5509cf0b5a8b2c544f7b4991eed33248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857676171
+        }
+    ],
+    "wof:id":857676171,
+    "wof:lastmodified":1464206583,
+    "wof:name":"Honolulu City Papakolea Park",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.840037,
+    21.316852,
+    -157.840037,
+    21.316852
+],
+  "geometry": {"coordinates":[-157.840037,21.316852],"type":"Point"}
+}

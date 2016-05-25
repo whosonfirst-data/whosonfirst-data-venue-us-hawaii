@@ -1,0 +1,74 @@
+{
+  "id": 857681335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84491,21.289938,-157.84491,21.289938",
+    "geom:latitude":21.289938,
+    "geom:longitude":-157.84491,
+    "iso:country":"US",
+    "sg:address":"1450 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/8358-islands/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 6670",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zBGLyiLMYbnRwZjxh0prF_21.289938_-157.844910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206779,
+    "wof:geomhash":"7e547c9a4f147eeec57c5ec0cfd01d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681335
+        }
+    ],
+    "wof:id":857681335,
+    "wof:lastmodified":1464206779,
+    "wof:name":"Islands Fine Burgers & Drinks",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.84491,
+    21.289938,
+    -157.84491,
+    21.289938
+],
+  "geometry": {"coordinates":[-157.84491,21.289938],"type":"Point"}
+}

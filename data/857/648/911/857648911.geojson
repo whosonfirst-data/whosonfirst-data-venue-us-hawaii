@@ -1,0 +1,73 @@
+{
+  "id": 857648911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.362135,21.980835,-159.362135,21.980835",
+    "geom:latitude":21.980835,
+    "geom:longitude":-159.362135,
+    "iso:country":"US",
+    "sg:address":"3277 Palai St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7000",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nvn9ScrH8z9iDFNmdK3fG_21.980835_-159.362135@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205409,
+    "wof:geomhash":"eaa817740f447a91da50937349e14780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857648911
+        }
+    ],
+    "wof:id":857648911,
+    "wof:lastmodified":1464205409,
+    "wof:name":"American Medical Response",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -159.362135,
+    21.980835,
+    -159.362135,
+    21.980835
+],
+  "geometry": {"coordinates":[-159.36213499999999,21.980835],"type":"Point"}
+}

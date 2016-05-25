@@ -1,0 +1,76 @@
+{
+  "id": 857590167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851971,21.294533,-157.851971,21.294533",
+    "geom:latitude":21.294533,
+    "geom:longitude":-157.851971,
+    "iso:country":"US",
+    "sg:address":"310 Kamakee St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2331",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "sg:website":"www.coldstonecreamery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tmgyOkEKa4EKTXgjQbafF_21.294533_-157.851971@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203763,
+    "wof:geomhash":"d10d31cd63257e12277d6d83a772d76b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857590167
+        }
+    ],
+    "wof:id":857590167,
+    "wof:lastmodified":1464203763,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -157.851971,
+    21.294533,
+    -157.851971,
+    21.294533
+],
+  "geometry": {"coordinates":[-157.85197099999999,21.294533],"type":"Point"}
+}

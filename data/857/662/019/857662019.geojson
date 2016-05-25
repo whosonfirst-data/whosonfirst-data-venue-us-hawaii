@@ -1,0 +1,71 @@
+{
+  "id": 857662019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862022,21.325139,-157.862022,21.325139",
+    "geom:latitude":21.325139,
+    "geom:longitude":-157.862022,
+    "iso:country":"US",
+    "sg:address":"1628 Palama St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8544",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GoiuHAoZNY4VpyU5PlM6s_21.325139_-157.862022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206012,
+    "wof:geomhash":"60b705d4ef4887bfa44b7f50cf15190e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857662019
+        }
+    ],
+    "wof:id":857662019,
+    "wof:lastmodified":1464206012,
+    "wof:name":"Hair Attractions",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.862022,
+    21.325139,
+    -157.862022,
+    21.325139
+],
+  "geometry": {"coordinates":[-157.862022,21.325139],"type":"Point"}
+}

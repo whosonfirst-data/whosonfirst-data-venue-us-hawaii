@@ -1,0 +1,69 @@
+{
+  "id": 857653669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.594815,21.908936,-159.594815,21.908936",
+    "geom:latitude":21.908936,
+    "geom:longitude":-159.594815,
+    "iso:country":"US",
+    "sg:address":"3490 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 5554",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dMH4GgV2pDJB8sbA73lrV_21.908936_-159.594815@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205623,
+    "wof:geomhash":"180e2ed3f2fd05c7294afd597a8039ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857653669
+        }
+    ],
+    "wof:id":857653669,
+    "wof:lastmodified":1464205623,
+    "wof:name":"George A Kanna Inc",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -159.594815,
+    21.908936,
+    -159.594815,
+    21.908936
+],
+  "geometry": {"coordinates":[-159.59481500000001,21.908936],"type":"Point"}
+}

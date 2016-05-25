@@ -1,0 +1,81 @@
+{
+  "id": 857559099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873982,21.304284,-157.873982,21.304284",
+    "geom:latitude":21.304284,
+    "geom:longitude":-157.873982,
+    "iso:country":"US",
+    "sg:address":"1038 Ulupono St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 0502",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pipeline",
+        "power",
+        "water",
+        "communications",
+        "sewer",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PW1Vnx72LAzMpQ1VFz788_21.304284_-157.873982@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203131,
+    "wof:geomhash":"c82723fdca07c221381fe1a890863f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857559099
+        }
+    ],
+    "wof:id":857559099,
+    "wof:lastmodified":1464203131,
+    "wof:name":"Ideal Construction Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipeline",
+        "power",
+        "water",
+        "communications",
+        "sewer",
+        "line"
+    ]
+},
+  "bbox": [
+    -157.873982,
+    21.304284,
+    -157.873982,
+    21.304284
+],
+  "geometry": {"coordinates":[-157.87398200000001,21.304284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857677661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.452595,20.769161,-156.452595,20.769161",
+    "geom:latitude":20.769161,
+    "geom:longitude":-156.452595,
+    "iso:country":"US",
+    "sg:address":"549 Kaiola St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 1866",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tNGoYimn8nTmRXcV3eU5h_20.769161_-156.452595@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206639,
+    "wof:geomhash":"bc741fb0a27ced338669dcb6e7678dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857677661
+        }
+    ],
+    "wof:id":857677661,
+    "wof:lastmodified":1464206639,
+    "wof:name":"Tropical Taxi",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -156.452595,
+    20.769161,
+    -156.452595,
+    20.769161
+],
+  "geometry": {"coordinates":[-156.452595,20.769161],"type":"Point"}
+}

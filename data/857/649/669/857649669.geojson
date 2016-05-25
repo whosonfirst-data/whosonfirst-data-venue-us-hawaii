@@ -1,0 +1,71 @@
+{
+  "id": 857649669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914632,21.366761,-157.914632,21.366761",
+    "geom:latitude":21.366761,
+    "geom:longitude":-157.914632,
+    "iso:country":"US",
+    "sg:address":"1747 Piikea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1816",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XHoAXnW3xdTRofvuBU4QJ_21.366761_-157.914632@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205441,
+    "wof:geomhash":"4a9066c8fb542718f03f590f50f68fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857649669
+        }
+    ],
+    "wof:id":857649669,
+    "wof:lastmodified":1464205441,
+    "wof:name":"Pacific Island Travel Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.914632,
+    21.366761,
+    -157.914632,
+    21.366761
+],
+  "geometry": {"coordinates":[-157.91463200000001,21.366761],"type":"Point"}
+}

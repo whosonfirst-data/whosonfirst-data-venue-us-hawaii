@@ -1,0 +1,73 @@
+{
+  "id": 857662291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828924,21.284231,-157.828924,21.284231",
+    "geom:latitude":21.284231,
+    "geom:longitude":-157.828924,
+    "iso:country":"US",
+    "sg:address":"407 Kalaimoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 6566",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gmHTrQXaDDqQhlFKoL68w_21.284231_-157.828924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206022,
+    "wof:geomhash":"c278d7ccfe0579a1e3c9ec5ca456cb9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857662291
+        }
+    ],
+    "wof:id":857662291,
+    "wof:lastmodified":1464206022,
+    "wof:name":"All Waikiki Electric",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.828924,
+    21.284231,
+    -157.828924,
+    21.284231
+],
+  "geometry": {"coordinates":[-157.828924,21.284231],"type":"Point"}
+}

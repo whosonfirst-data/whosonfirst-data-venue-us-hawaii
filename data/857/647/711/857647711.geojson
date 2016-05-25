@@ -1,0 +1,71 @@
+{
+  "id": 857647711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866236,21.31764,-157.866236,21.31764",
+    "geom:latitude":21.31764,
+    "geom:longitude":-157.866236,
+    "iso:country":"US",
+    "sg:address":"513 Kaaahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0221",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I4Z9bmuHHur3dYJjGjhuz_21.317640_-157.866236@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205367,
+    "wof:geomhash":"6c52b68dc94fd298ba63cb50d0bce4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857647711
+        }
+    ],
+    "wof:id":857647711,
+    "wof:lastmodified":1464205367,
+    "wof:name":"Aala Tofu",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation"
+    ]
+},
+  "bbox": [
+    -157.866236,
+    21.31764,
+    -157.866236,
+    21.31764
+],
+  "geometry": {"coordinates":[-157.86623599999999,21.31764],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857521939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.674727,21.302133,-157.674727,21.302133",
+    "geom:latitude":21.302133,
+    "geom:longitude":-157.674727,
+    "iso:country":"US",
+    "sg:address":"1128 Kahului St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 3387",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pgEQ4IaK8iEaTFPCMYJia_21.302133_-157.674727@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202389,
+    "wof:geomhash":"8bc953708b711bf3fde26bb76df1c000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857521939
+        }
+    ],
+    "wof:id":857521939,
+    "wof:lastmodified":1464202389,
+    "wof:name":"Aloha Auto Detailing",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -157.674727,
+    21.302133,
+    -157.674727,
+    21.302133
+],
+  "geometry": {"coordinates":[-157.67472699999999,21.302133],"type":"Point"}
+}

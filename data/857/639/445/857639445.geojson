@@ -1,0 +1,72 @@
+{
+  "id": 857639445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.507612,20.882654,-156.507612,20.882654",
+    "geom:latitude":20.882654,
+    "geom:longitude":-156.507612,
+    "iso:country":"US",
+    "sg:address":"483 S High St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 9327",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.unityonmaui.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TbGkzNGfH6QJW0JBBn8ti_20.882654_-156.507612@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205000,
+    "wof:geomhash":"a5b8207781ed4d4b8d5d8e2a1b9e983e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857639445
+        }
+    ],
+    "wof:id":857639445,
+    "wof:lastmodified":1464205000,
+    "wof:name":"Unity Church Of Maui",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -156.507612,
+    20.882654,
+    -156.507612,
+    20.882654
+],
+  "geometry": {"coordinates":[-156.50761199999999,20.882654],"type":"Point"}
+}

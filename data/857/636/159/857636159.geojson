@@ -1,0 +1,71 @@
+{
+  "id": 857636159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793776,21.394017,-157.793776,21.394017",
+    "geom:latitude":21.394017,
+    "geom:longitude":-157.793776,
+    "iso:country":"US",
+    "sg:address":"407 Kuaua Way",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 6016",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txP4WpJAS6UpCIG6mUgFi_21.394017_-157.793776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204874,
+    "wof:geomhash":"923380b27fe268d2fda63555ce575782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857636159
+        }
+    ],
+    "wof:id":857636159,
+    "wof:lastmodified":1464204874,
+    "wof:name":"D Kihara Plumbing",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.793776,
+    21.394017,
+    -157.793776,
+    21.394017
+],
+  "geometry": {"coordinates":[-157.79377600000001,21.394017],"type":"Point"}
+}

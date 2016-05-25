@@ -1,0 +1,73 @@
+{
+  "id": 857552331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.68137,20.87705,-156.68137,20.87705",
+    "geom:latitude":20.87705,
+    "geom:longitude":-156.68137,
+    "iso:country":"US",
+    "sg:address":"715 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 5154",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6cYHxjSwuYkPXaiMJQlt_20.877050_-156.681370@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202977,
+    "wof:geomhash":"dadbcfb6017c60e3cf6cc53998197289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857552331
+        }
+    ],
+    "wof:id":857552331,
+    "wof:lastmodified":1464202977,
+    "wof:name":"Oceanside Jewelers",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -156.68137,
+    20.87705,
+    -156.68137,
+    20.87705
+],
+  "geometry": {"coordinates":[-156.68136999999999,20.87705],"type":"Point"}
+}

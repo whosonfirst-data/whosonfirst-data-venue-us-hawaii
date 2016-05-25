@@ -1,0 +1,73 @@
+{
+  "id": 857507577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.030284,21.490937,-158.030284,21.490937",
+    "geom:latitude":21.490937,
+    "geom:longitude":-158.030284,
+    "iso:country":"US",
+    "sg:address":"152 Wilikina Dr",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 9100",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1si0UEQ6wPXiBOex3coHfM_21.490937_-158.030284@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202097,
+    "wof:geomhash":"a1df54c8008745bc1ca34b5981157bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857507577
+        }
+    ],
+    "wof:id":857507577,
+    "wof:lastmodified":1464202097,
+    "wof:name":"Century Car Care LLC",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.030284,
+    21.490937,
+    -158.030284,
+    21.490937
+],
+  "geometry": {"coordinates":[-158.03028399999999,21.490937],"type":"Point"}
+}

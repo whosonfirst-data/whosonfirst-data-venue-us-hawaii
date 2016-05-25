@@ -1,0 +1,72 @@
+{
+  "id": 857527999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834771,21.299673,-157.834771,21.299673",
+    "geom:latitude":21.299673,
+    "geom:longitude":-157.834771,
+    "iso:country":"US",
+    "sg:address":"1310 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 4466",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty"
+    ],
+    "sg:website":"www.shrinershq.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H9Xw7OlLVFrYBAT5IYgkD_21.299673_-157.834771@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202505,
+    "wof:geomhash":"1d60327a18f68c918324938144895bda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857527999
+        }
+    ],
+    "wof:id":857527999,
+    "wof:lastmodified":1464202505,
+    "wof:name":"Shriners Hspitals For Children",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -157.834771,
+    21.299673,
+    -157.834771,
+    21.299673
+],
+  "geometry": {"coordinates":[-157.83477099999999,21.299673],"type":"Point"}
+}

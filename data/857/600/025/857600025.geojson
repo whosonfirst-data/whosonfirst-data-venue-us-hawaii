@@ -1,0 +1,80 @@
+{
+  "id": 857600025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.463156,20.882552,-156.463156,20.882552",
+    "geom:latitude":20.882552,
+    "geom:longitude":-156.463156,
+    "iso:country":"US",
+    "sg:address":"261 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7813",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "religious",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VTEU76LcmsrhHL1gZfCv3_20.882552_-156.463156@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203983,
+    "wof:geomhash":"e259464991c9d8197ef0bcad6eda5b17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857600025
+        }
+    ],
+    "wof:id":857600025,
+    "wof:lastmodified":1464203983,
+    "wof:name":"Maui Adventist Preschool",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious",
+        "day"
+    ]
+},
+  "bbox": [
+    -156.463156,
+    20.882552,
+    -156.463156,
+    20.882552
+],
+  "geometry": {"coordinates":[-156.463156,20.882552],"type":"Point"}
+}

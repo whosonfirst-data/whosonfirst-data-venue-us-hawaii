@@ -1,0 +1,76 @@
+{
+  "id": 857681615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.926869,21.356651,-157.926869,21.356651",
+    "geom:latitude":21.356651,
+    "geom:longitude":-157.926869,
+    "iso:country":"US",
+    "sg:address":"4259 Lawehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/127070-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 8657",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OLVpm6nwj2nVadeiOAqLv_21.356651_-157.926869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"bc32c60b989c84442ed9c1b937336449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857681615
+        }
+    ],
+    "wof:id":857681615,
+    "wof:lastmodified":1464206790,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.926869,
+    21.356651,
+    -157.926869,
+    21.356651
+],
+  "geometry": {"coordinates":[-157.92686900000001,21.356651],"type":"Point"}
+}

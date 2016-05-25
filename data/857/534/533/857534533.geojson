@@ -1,0 +1,73 @@
+{
+  "id": 857534533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461658,20.892207,-156.461658,20.892207",
+    "geom:latitude":20.892207,
+    "geom:longitude":-156.461658,
+    "iso:country":"US",
+    "sg:address":"40 Hobron Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3144",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GlZthU2mBSqvm0QAiThrh_20.892207_-156.461658@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202630,
+    "wof:geomhash":"eadbcf03b49f146b1214251e7d76d640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857534533
+        }
+    ],
+    "wof:id":857534533,
+    "wof:lastmodified":1464202630,
+    "wof:name":"Pacific Biodiesel Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -156.461658,
+    20.892207,
+    -156.461658,
+    20.892207
+],
+  "geometry": {"coordinates":[-156.461658,20.892207],"type":"Point"}
+}

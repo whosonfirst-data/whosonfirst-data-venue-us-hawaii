@@ -1,0 +1,71 @@
+{
+  "id": 857619897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.923395,21.353955,-157.923395,21.353955",
+    "geom:latitude":21.353955,
+    "geom:longitude":-157.923395,
+    "iso:country":"US",
+    "sg:address":"1040 Puolo Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 2814",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bvcjt5ml0tK0SLNhAu1L2_21.353955_-157.923395@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204431,
+    "wof:geomhash":"b3cd5dd2110c478e44e18ba01f344df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857619897
+        }
+    ],
+    "wof:id":857619897,
+    "wof:lastmodified":1464204431,
+    "wof:name":"El Fiesta Tax Service",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -157.923395,
+    21.353955,
+    -157.923395,
+    21.353955
+],
+  "geometry": {"coordinates":[-157.923395,21.353955],"type":"Point"}
+}

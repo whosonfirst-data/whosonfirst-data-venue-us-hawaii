@@ -1,0 +1,82 @@
+{
+  "id": 857670295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886932,21.322455,-157.886932,21.322455",
+    "geom:latitude":21.322455,
+    "geom:longitude":-157.886932,
+    "iso:country":"US",
+    "sg:address":"156 Mokauea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6041",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tMHwP0dZsFTqDjwwQY5ge_21.322455_-157.886932@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206351,
+    "wof:geomhash":"868db3ef57fa79fab864322e01348654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857670295
+        }
+    ],
+    "wof:id":857670295,
+    "wof:lastmodified":1464206351,
+    "wof:name":"T I Sheetmetal Shop",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.886932,
+    21.322455,
+    -157.886932,
+    21.322455
+],
+  "geometry": {"coordinates":[-157.886932,21.322455],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857603577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814015,21.278843,-157.814015,21.278843",
+    "geom:latitude":21.278843,
+    "geom:longitude":-157.814015,
+    "iso:country":"US",
+    "sg:address":"614 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 3211",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.hdcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l5Qi4Asn5ECZyqKjbp8S4_21.278843_-157.814015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204067,
+    "wof:geomhash":"4ec5df9172cbdb4754922e0abbad8780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857603577
+        }
+    ],
+    "wof:id":857603577,
+    "wof:lastmodified":1464204067,
+    "wof:name":"Hawaiian Dredging Construction",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.814015,
+    21.278843,
+    -157.814015,
+    21.278843
+],
+  "geometry": {"coordinates":[-157.81401500000001,21.278843],"type":"Point"}
+}

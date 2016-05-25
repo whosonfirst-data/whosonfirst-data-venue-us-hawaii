@@ -1,0 +1,71 @@
+{
+  "id": 857647655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.456824,20.886833,-156.456824,20.886833",
+    "geom:latitude":20.886833,
+    "geom:longitude":-156.456824,
+    "iso:country":"US",
+    "sg:address":"349 Hanakai St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 2653",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vhKso9OXIXCqSHIG4q2pB_20.886833_-156.456824@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205365,
+    "wof:geomhash":"bc39e8607206b6100ec2713e61743f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857647655
+        }
+    ],
+    "wof:id":857647655,
+    "wof:lastmodified":1464205365,
+    "wof:name":"Joslin Service Corp",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.456824,
+    20.886833,
+    -156.456824,
+    20.886833
+],
+  "geometry": {"coordinates":[-156.45682400000001,20.886833],"type":"Point"}
+}

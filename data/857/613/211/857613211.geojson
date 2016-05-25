@@ -1,0 +1,71 @@
+{
+  "id": 857613211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029403,21.496167,-158.029403,21.496167",
+    "geom:latitude":21.496167,
+    "geom:longitude":-158.029403,
+    "iso:country":"US",
+    "sg:address":"550 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5522",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oVQisGsgsfNou9QvP5i8c_21.496167_-158.029403@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204284,
+    "wof:geomhash":"9bc5e804417db17aa831851884b4c7ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857613211
+        }
+    ],
+    "wof:id":857613211,
+    "wof:lastmodified":1464204284,
+    "wof:name":"Gears",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.029403,
+    21.496167,
+    -158.029403,
+    21.496167
+],
+  "geometry": {"coordinates":[-158.029403,21.496167],"type":"Point"}
+}

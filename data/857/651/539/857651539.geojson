@@ -1,0 +1,73 @@
+{
+  "id": 857651539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.299392,20.891176,-156.299392,20.891176",
+    "geom:latitude":20.891176,
+    "geom:longitude":-156.299392,
+    "iso:country":"US",
+    "sg:address":"1235 W Kuiaha Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 9008",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Y7XncmlkCY51A8c5ihXJ_20.891176_-156.299392@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205524,
+    "wof:geomhash":"8b929bf64143b2dbbdf765587e32f352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857651539
+        }
+    ],
+    "wof:id":857651539,
+    "wof:lastmodified":1464205524,
+    "wof:name":"Car Barn",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "storage"
+    ]
+},
+  "bbox": [
+    -156.299392,
+    20.891176,
+    -156.299392,
+    20.891176
+],
+  "geometry": {"coordinates":[-156.29939200000001,20.891176],"type":"Point"}
+}

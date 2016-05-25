@@ -1,0 +1,68 @@
+{
+  "id": 857601401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.37428,20.902625,-156.37428,20.902625",
+    "geom:latitude":20.902625,
+    "geom:longitude":-156.37428,
+    "iso:country":"US",
+    "sg:address":"42 Puaole St",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 8823",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AZuC67lO8D44JqJK9mReS_20.902625_-156.374280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204016,
+    "wof:geomhash":"4a76a9a7f38861413aaeb1b1f148ca05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857601401
+        }
+    ],
+    "wof:id":857601401,
+    "wof:lastmodified":1464204016,
+    "wof:name":"Peter Of Paia",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.37428,
+    20.902625,
+    -156.37428,
+    20.902625
+],
+  "geometry": {"coordinates":[-156.37428,20.902625],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857667135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.94521,21.381985,-157.94521,21.381985",
+    "geom:latitude":21.381985,
+    "geom:longitude":-157.94521,
+    "iso:country":"US",
+    "sg:address":"107 Lipoa Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 5700",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EAfMqGE2B0lHtaRrQqM3i_21.381985_-157.945210@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206229,
+    "wof:geomhash":"d41fbc0b978329d25cd49280b09de83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857667135
+        }
+    ],
+    "wof:id":857667135,
+    "wof:lastmodified":1464206229,
+    "wof:name":"AIEA Collision Ctr",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.94521,
+    21.381985,
+    -157.94521,
+    21.381985
+],
+  "geometry": {"coordinates":[-157.94521,21.381985],"type":"Point"}
+}

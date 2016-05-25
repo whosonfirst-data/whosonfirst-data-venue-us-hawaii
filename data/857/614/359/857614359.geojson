@@ -1,0 +1,73 @@
+{
+  "id": 857614359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880383,21.333127,-157.880383,21.333127",
+    "geom:latitude":21.333127,
+    "geom:longitude":-157.880383,
+    "iso:country":"US",
+    "sg:address":"813 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8843",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sausage",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v1O2VCHWlq8lpFjSs9GdD_21.333127_-157.880383@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204308,
+    "wof:geomhash":"58912be6ec28a2ed3c5998a87f83ece0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857614359
+        }
+    ],
+    "wof:id":857614359,
+    "wof:lastmodified":1464204308,
+    "wof:name":"Kukui Sausage Factory",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sausage",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -157.880383,
+    21.333127,
+    -157.880383,
+    21.333127
+],
+  "geometry": {"coordinates":[-157.88038299999999,21.333127],"type":"Point"}
+}

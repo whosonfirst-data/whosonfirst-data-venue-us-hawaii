@@ -1,0 +1,71 @@
+{
+  "id": 857675713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8435,21.324164,-157.8435,21.324164",
+    "geom:latitude":21.324164,
+    "geom:longitude":-157.8435,
+    "iso:country":"US",
+    "sg:address":"2801 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 368 6270",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FkmDxcEJHfYRpUg9XVg9R_21.324164_-157.843500@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206562,
+    "wof:geomhash":"c6e7b91f82a595c2214c3b95e5ba4074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857675713
+        }
+    ],
+    "wof:id":857675713,
+    "wof:lastmodified":1464206562,
+    "wof:name":"Primo Custom Painting",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.8435,
+    21.324164,
+    -157.8435,
+    21.324164
+],
+  "geometry": {"coordinates":[-157.84350000000001,21.324164],"type":"Point"}
+}

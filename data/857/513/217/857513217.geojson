@@ -1,0 +1,78 @@
+{
+  "id": 857513217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830263,21.294849,-157.830263,21.294849",
+    "geom:latitude":21.294849,
+    "geom:longitude":-157.830263,
+    "iso:country":"US",
+    "sg:address":"1911 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 7103",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "acupuncture",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0m1gRALqHQAEtqVENCMImH_21.294849_-157.830263@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202214,
+    "wof:geomhash":"3041f692b98c7c4ce270794cceec7f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857513217
+        }
+    ],
+    "wof:id":857513217,
+    "wof:lastmodified":1464202214,
+    "wof:name":"Chinese Herbs & Acupuncture",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "store"
+    ]
+},
+  "bbox": [
+    -157.830263,
+    21.294849,
+    -157.830263,
+    21.294849
+],
+  "geometry": {"coordinates":[-157.830263,21.294849],"type":"Point"}
+}

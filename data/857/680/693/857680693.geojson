@@ -1,0 +1,73 @@
+{
+  "id": 857680693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.465409,20.887152,-156.465409,20.887152",
+    "geom:latitude":20.887152,
+    "geom:longitude":-156.465409,
+    "iso:country":"US",
+    "sg:address":"155 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/kahului/202794-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16GZeM3TBHqwvVVcIbBuS9_20.887152_-156.465409@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"a9b4c032df1ff48231732f0a06b4abf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680693
+        }
+    ],
+    "wof:id":857680693,
+    "wof:lastmodified":1464206752,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -156.465409,
+    20.887152,
+    -156.465409,
+    20.887152
+],
+  "geometry": {"coordinates":[-156.46540899999999,20.887152],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857620981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820725,21.296867,-157.820725,21.296867",
+    "geom:latitude":21.296867,
+    "geom:longitude":-157.820725,
+    "iso:country":"US",
+    "sg:address":"2444 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 8213",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79aFRP1VWGaqanK9Fczh4X_21.296867_-157.820725@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204451,
+    "wof:geomhash":"1fd96a51dc1b0ea5b6a05461c80b779f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857620981
+        }
+    ],
+    "wof:id":857620981,
+    "wof:lastmodified":1464204451,
+    "wof:name":"Board Of Regents",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.820725,
+    21.296867,
+    -157.820725,
+    21.296867
+],
+  "geometry": {"coordinates":[-157.82072500000001,21.296867],"type":"Point"}
+}

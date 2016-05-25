@@ -1,0 +1,71 @@
+{
+  "id": 857633311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005062,21.313061,-158.005062,21.313061",
+    "geom:latitude":21.313061,
+    "geom:longitude":-158.005062,
+    "iso:country":"US",
+    "sg:address":"624 Kilaha St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 6767",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QM319xlSbxYmBdAIiEsH8_21.313061_-158.005062@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204767,
+    "wof:geomhash":"ec3fa924b7930c993971b66d63125375",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857633311
+        }
+    ],
+    "wof:id":857633311,
+    "wof:lastmodified":1464204767,
+    "wof:name":"Leeward Laundry & Appliance",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.005062,
+    21.313061,
+    -158.005062,
+    21.313061
+],
+  "geometry": {"coordinates":[-158.00506200000001,21.313061],"type":"Point"}
+}

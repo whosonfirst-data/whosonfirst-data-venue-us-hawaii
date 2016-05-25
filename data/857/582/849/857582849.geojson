@@ -1,0 +1,71 @@
+{
+  "id": 857582849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870938,21.313948,-157.870938,21.313948",
+    "geom:latitude":21.313948,
+    "geom:longitude":-157.870938,
+    "iso:country":"US",
+    "sg:address":"330 Pacific St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 3565",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ahG3nCQ2pN7uNo6I31ELd_21.313948_-157.870938@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203605,
+    "wof:geomhash":"c57641f026511864d7c1250eed889d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857582849
+        }
+    ],
+    "wof:id":857582849,
+    "wof:lastmodified":1464203605,
+    "wof:name":"Polynesian Hospitality",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.870938,
+    21.313948,
+    -157.870938,
+    21.313948
+],
+  "geometry": {"coordinates":[-157.870938,21.313948],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857523301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022478,21.387754,-158.022478,21.387754",
+    "geom:latitude":21.387754,
+    "geom:longitude":-158.022478,
+    "iso:country":"US",
+    "sg:address":"610 Loaa St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 6800",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ZiwZO8o8RohtI5pVkYzq_21.387754_-158.022478@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202418,
+    "wof:geomhash":"6cc318990441e68e46bc133d1f15dbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857523301
+        }
+    ],
+    "wof:id":857523301,
+    "wof:lastmodified":1464202418,
+    "wof:name":"Drain Brain Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.022478,
+    21.387754,
+    -158.022478,
+    21.387754
+],
+  "geometry": {"coordinates":[-158.02247800000001,21.387754],"type":"Point"}
+}

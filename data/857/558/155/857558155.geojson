@@ -1,0 +1,66 @@
+{
+  "id": 857558155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858123,21.297929,-157.858123,21.297929",
+    "geom:latitude":21.297929,
+    "geom:longitude":-157.858123,
+    "iso:country":"US",
+    "sg:address":"766 Pohukaina St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 3134",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vV08bQKlhGqisJltdPW67_21.297929_-157.858123@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203106,
+    "wof:geomhash":"6d992a6771c49991bfed50b519c6c44b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857558155
+        }
+    ],
+    "wof:id":857558155,
+    "wof:lastmodified":1464203106,
+    "wof:name":"ABC Discount Store",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.858123,
+    21.297929,
+    -157.858123,
+    21.297929
+],
+  "geometry": {"coordinates":[-157.85812300000001,21.297929],"type":"Point"}
+}

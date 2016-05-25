@@ -1,0 +1,73 @@
+{
+  "id": 857624831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881242,21.326637,-157.881242,21.326637",
+    "geom:latitude":21.326637,
+    "geom:longitude":-157.881242,
+    "iso:country":"US",
+    "sg:address":"1804 Hau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 4663",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instrument",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51v6KVLtxRd1HgjHyhnIYn_21.326637_-157.881242@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204558,
+    "wof:geomhash":"231d4a72fa3bc4ddf743e9a14c62c003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857624831
+        }
+    ],
+    "wof:id":857624831,
+    "wof:lastmodified":1464204558,
+    "wof:name":"Stat Medical Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -157.881242,
+    21.326637,
+    -157.881242,
+    21.326637
+],
+  "geometry": {"coordinates":[-157.88124199999999,21.326637],"type":"Point"}
+}

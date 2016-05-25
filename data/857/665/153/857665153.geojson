@@ -1,0 +1,71 @@
+{
+  "id": 857665153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870428,21.325489,-157.870428,21.325489",
+    "geom:latitude":21.325489,
+    "geom:longitude":-157.870428,
+    "iso:country":"US",
+    "sg:address":"1215 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8771",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B04q1yeqS25dvUEKgGndX_21.325489_-157.870428@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206136,
+    "wof:geomhash":"6d617f7ad1da905be9e9aa2e85fe4dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857665153
+        }
+    ],
+    "wof:id":857665153,
+    "wof:lastmodified":1464206136,
+    "wof:name":"Sam's Electrical Contracting",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.870428,
+    21.325489,
+    -157.870428,
+    21.325489
+],
+  "geometry": {"coordinates":[-157.870428,21.325489],"type":"Point"}
+}

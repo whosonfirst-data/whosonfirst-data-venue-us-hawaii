@@ -1,0 +1,79 @@
+{
+  "id": 857563109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856373,21.300184,-157.856373,21.300184",
+    "geom:latitude":21.300184,
+    "geom:longitude":-157.856373,
+    "iso:country":"US",
+    "sg:address":"886 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2770",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QvV6uT6d1qq92iThm2YgF_21.300184_-157.856373@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203222,
+    "wof:geomhash":"879592ee247e35045eaf74171990b244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857563109
+        }
+    ],
+    "wof:id":857563109,
+    "wof:lastmodified":1464203222,
+    "wof:name":"S H Fender Shop Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.856373,
+    21.300184,
+    -157.856373,
+    21.300184
+],
+  "geometry": {"coordinates":[-157.85637299999999,21.300184],"type":"Point"}
+}

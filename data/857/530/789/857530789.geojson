@@ -1,0 +1,71 @@
+{
+  "id": 857530789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804114,21.286576,-157.804114,21.286576",
+    "geom:latitude":21.286576,
+    "geom:longitude":-157.804114,
+    "iso:country":"US",
+    "sg:address":"1240 7th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 4750",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l5i8nvZsy9YF9rxbBWb0o_21.286576_-157.804114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202559,
+    "wof:geomhash":"a74d28294027c4e27335b2df174d8e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857530789
+        }
+    ],
+    "wof:id":857530789,
+    "wof:lastmodified":1464202559,
+    "wof:name":"Aliiolani Elementary School",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.804114,
+    21.286576,
+    -157.804114,
+    21.286576
+],
+  "geometry": {"coordinates":[-157.804114,21.286576],"type":"Point"}
+}

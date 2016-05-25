@@ -1,0 +1,72 @@
+{
+  "id": 857674783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838596,21.534658,-157.838596,21.534658",
+    "geom:latitude":21.534658,
+    "geom:longitude":-157.838596,
+    "iso:country":"US",
+    "sg:address":"545 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 2220",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.alohanursing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890381,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SaG8hS43SxFKmxNarhOcE_21.534658_-157.838596@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206515,
+    "wof:geomhash":"62485927205514a2ca75373778e59cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890381,
+            "region_id":85688671,
+            "venue_id":857674783
+        }
+    ],
+    "wof:id":857674783,
+    "wof:lastmodified":1464206515,
+    "wof:name":"Aloha Nursing & Rehab Centre",
+    "wof:parent_id":85890381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -157.838596,
+    21.534658,
+    -157.838596,
+    21.534658
+],
+  "geometry": {"coordinates":[-157.838596,21.534658],"type":"Point"}
+}

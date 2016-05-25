@@ -1,0 +1,71 @@
+{
+  "id": 857641047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881554,21.3287,-157.881554,21.3287",
+    "geom:latitude":21.3287,
+    "geom:longitude":-157.881554,
+    "iso:country":"US",
+    "sg:address":"2052 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 8499",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qn5j6hdRN7CP0UqfWH47G_21.328700_-157.881554@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205063,
+    "wof:geomhash":"036f6d01420ce1d9ffd5bf821e012e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857641047
+        }
+    ],
+    "wof:id":857641047,
+    "wof:lastmodified":1464205063,
+    "wof:name":"Tommy Shell Gas",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.881554,
+    21.3287,
+    -157.881554,
+    21.3287
+],
+  "geometry": {"coordinates":[-157.88155399999999,21.3287],"type":"Point"}
+}

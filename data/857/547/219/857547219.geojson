@@ -1,0 +1,71 @@
+{
+  "id": 857547219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824378,21.286683,-157.824378,21.286683",
+    "geom:latitude":21.286683,
+    "geom:longitude":-157.824378,
+    "iso:country":"US",
+    "sg:address":"581 Kamoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 9027",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5heLjy6RE2INQEjjjWmsFT_21.286683_-157.824378@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202877,
+    "wof:geomhash":"86cd5615e83a0595e04d84199b93c67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857547219
+        }
+    ],
+    "wof:id":857547219,
+    "wof:lastmodified":1464202877,
+    "wof:name":"Corner Loft Kahala",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -157.824378,
+    21.286683,
+    -157.824378,
+    21.286683
+],
+  "geometry": {"coordinates":[-157.824378,21.286683],"type":"Point"}
+}

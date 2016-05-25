@@ -1,0 +1,73 @@
+{
+  "id": 857634253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.732984,21.289468,-157.732984,21.289468",
+    "geom:latitude":21.289468,
+    "geom:longitude":-157.732984,
+    "iso:country":"US",
+    "sg:address":"305 Puamamane St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 2969",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fh1cjVutMgbSRfTdxdLHj_21.289468_-157.732984@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204806,
+    "wof:geomhash":"4457f8aaaebd5a1867d4b0b8394e6a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857634253
+        }
+    ],
+    "wof:id":857634253,
+    "wof:lastmodified":1464204806,
+    "wof:name":"Alex Electric Service",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.732984,
+    21.289468,
+    -157.732984,
+    21.289468
+],
+  "geometry": {"coordinates":[-157.73298399999999,21.289468],"type":"Point"}
+}

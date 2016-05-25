@@ -1,0 +1,73 @@
+{
+  "id": 857641195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.759264,21.281955,-157.759264,21.281955",
+    "geom:latitude":21.281955,
+    "geom:longitude":-157.759264,
+    "iso:country":"US",
+    "sg:address":"5335 Puahia Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 3441",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48hco5h5DbLeoLDysDSyQC_21.281955_-157.759264@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205068,
+    "wof:geomhash":"755f64f17ff099b67ad79a15b2f169ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857641195
+        }
+    ],
+    "wof:id":857641195,
+    "wof:lastmodified":1464205068,
+    "wof:name":"L & F Masons",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.759264,
+    21.281955,
+    -157.759264,
+    21.281955
+],
+  "geometry": {"coordinates":[-157.759264,21.281955],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857671853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.717606,21.288555,-157.717606,21.288555",
+    "geom:latitude":21.288555,
+    "geom:longitude":-157.717606,
+    "iso:country":"US",
+    "sg:address":"6226 Kawaihae Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 7698",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bHjcgDkj0oNV18irUPF9u_21.288555_-157.717606@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206405,
+    "wof:geomhash":"6c4d4bf586e4370e278efdc02f05a506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857671853
+        }
+    ],
+    "wof:id":857671853,
+    "wof:lastmodified":1464206405,
+    "wof:name":"James Miller Contractors",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.717606,
+    21.288555,
+    -157.717606,
+    21.288555
+],
+  "geometry": {"coordinates":[-157.71760599999999,21.288555],"type":"Point"}
+}

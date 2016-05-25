@@ -1,0 +1,75 @@
+{
+  "id": 857648371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896614,21.346632,-157.896614,21.346632",
+    "geom:latitude":21.346632,
+    "geom:longitude":-157.896614,
+    "iso:country":"US",
+    "sg:address":"1151 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 1004",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_517se2NjCh9B37RLE0Tu2Q_21.346632_-157.896614@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205390,
+    "wof:geomhash":"ac09b887eb7a8a862781737bf760e2c2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857648371
+        }
+    ],
+    "wof:id":857648371,
+    "wof:lastmodified":1464205390,
+    "wof:name":"Artbox",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -157.896614,
+    21.346632,
+    -157.896614,
+    21.346632
+],
+  "geometry": {"coordinates":[-157.896614,21.346632],"type":"Point"}
+}

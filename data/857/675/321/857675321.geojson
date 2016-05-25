@@ -1,0 +1,75 @@
+{
+  "id": 857675321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.952942,19.583295,-155.952942,19.583295",
+    "geom:latitude":19.583295,
+    "geom:longitude":-155.952942,
+    "iso:country":"US",
+    "sg:address":"6759 Kuakini Hwy",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 324 1661",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937435,
+        102085433,
+        85890295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e1fCZ8WZ66n1UT0Sj0YQ4_19.583295_-155.952942@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206537,
+    "wof:geomhash":"1bb20ba678946e0a2bec547d869427ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937435,
+            "neighbourhood_id":85890295,
+            "region_id":85688671,
+            "venue_id":857675321
+        }
+    ],
+    "wof:id":857675321,
+    "wof:lastmodified":1464206537,
+    "wof:name":"Buck Electric",
+    "wof:parent_id":85890295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.952942,
+    19.583295,
+    -155.952942,
+    19.583295
+],
+  "geometry": {"coordinates":[-155.95294200000001,19.583295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857605079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883619,21.330376,-157.883619,21.330376",
+    "geom:latitude":21.330376,
+    "geom:longitude":-157.883619,
+    "iso:country":"US",
+    "sg:address":"2156 Kamehameha Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6877",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_567FHg6vvjkILHRuJskr0E_21.330376_-157.883619@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204098,
+    "wof:geomhash":"15ca66bf4ae4390cbfb2402486927931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857605079
+        }
+    ],
+    "wof:id":857605079,
+    "wof:lastmodified":1464204098,
+    "wof:name":"A-1 Wheel Alignment",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.883619,
+    21.330376,
+    -157.883619,
+    21.330376
+],
+  "geometry": {"coordinates":[-157.88361900000001,21.330376],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857648029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.757735,21.378523,-157.757735,21.378523",
+    "geom:latitude":21.378523,
+    "geom:longitude":-157.757735,
+    "iso:country":"US",
+    "sg:address":"747 Ululani St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 7776",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Crc7UEHuzT7KiMLGuwsVB_21.378523_-157.757735@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205378,
+    "wof:geomhash":"3eac7235f8a98b28017b50263815afd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857648029
+        }
+    ],
+    "wof:id":857648029,
+    "wof:lastmodified":1464205378,
+    "wof:name":"Lloyd E Jones MD Inc",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.757735,
+    21.378523,
+    -157.757735,
+    21.378523
+],
+  "geometry": {"coordinates":[-157.757735,21.378523],"type":"Point"}
+}

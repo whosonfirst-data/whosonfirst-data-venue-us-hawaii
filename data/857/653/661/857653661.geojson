@@ -1,0 +1,71 @@
+{
+  "id": 857653661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.080759,21.345292,-158.080759,21.345292",
+    "geom:latitude":21.345292,
+    "geom:longitude":-158.080759,
+    "iso:country":"US",
+    "sg:address":"587 Awawa St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 9488",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FwzzztHwM64XwOjdG0xCK_21.345292_-158.080759@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205623,
+    "wof:geomhash":"67d07af00a46781c2dd679a0e7f23ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857653661
+        }
+    ],
+    "wof:id":857653661,
+    "wof:lastmodified":1464205623,
+    "wof:name":"D A Handiman",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.080759,
+    21.345292,
+    -158.080759,
+    21.345292
+],
+  "geometry": {"coordinates":[-158.080759,21.345292],"type":"Point"}
+}

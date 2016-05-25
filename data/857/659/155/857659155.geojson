@@ -1,0 +1,73 @@
+{
+  "id": 857659155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.944751,21.406073,-157.944751,21.406073",
+    "geom:latitude":21.406073,
+    "geom:longitude":-157.944751,
+    "iso:country":"US",
+    "sg:address":"1751 Nahele St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 276 7893",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N4jWgKsok0HwrYTxdB8PD_21.406073_-157.944751@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205868,
+    "wof:geomhash":"bd45e322e80055eb3915ad288f1ed75e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890705,
+            "region_id":85688671,
+            "venue_id":857659155
+        }
+    ],
+    "wof:id":857659155,
+    "wof:lastmodified":1464205868,
+    "wof:name":"Devturtle LLC",
+    "wof:parent_id":85890705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -157.944751,
+    21.406073,
+    -157.944751,
+    21.406073
+],
+  "geometry": {"coordinates":[-157.944751,21.406073],"type":"Point"}
+}

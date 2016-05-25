@@ -1,0 +1,71 @@
+{
+  "id": 857669503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.36715,21.985948,-159.36715,21.985948",
+    "geom:latitude":21.985948,
+    "geom:longitude":-159.36715,
+    "iso:country":"US",
+    "sg:address":"3408 Elima St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 2839",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yXWyNhaD6Kk76EIyarpMA_21.985948_-159.367150@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206320,
+    "wof:geomhash":"abb8c81342cb72b9c601f645bd7c8eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857669503
+        }
+    ],
+    "wof:id":857669503,
+    "wof:lastmodified":1464206320,
+    "wof:name":"Hamura Saimin Stand",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -159.36715,
+    21.985948,
+    -159.36715,
+    21.985948
+],
+  "geometry": {"coordinates":[-159.36715000000001,21.985948],"type":"Point"}
+}

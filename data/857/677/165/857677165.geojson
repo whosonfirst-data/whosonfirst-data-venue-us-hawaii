@@ -1,0 +1,75 @@
+{
+  "id": 857677165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81466,21.276554,-157.81466,21.276554",
+    "geom:latitude":21.276554,
+    "geom:longitude":-157.81466,
+    "iso:country":"US",
+    "sg:address":"521 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 0069",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KY3osKOIblhFn3tyDtwqr_21.276554_-157.814660@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206620,
+    "wof:geomhash":"81e8c87b0ebf637b0672f7cb6a84e777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857677165
+        }
+    ],
+    "wof:id":857677165,
+    "wof:lastmodified":1464206620,
+    "wof:name":"R N Auto Body & Paint",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.81466,
+    21.276554,
+    -157.81466,
+    21.276554
+],
+  "geometry": {"coordinates":[-157.81466,21.276554],"type":"Point"}
+}

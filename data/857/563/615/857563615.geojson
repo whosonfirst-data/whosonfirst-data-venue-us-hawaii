@@ -1,0 +1,73 @@
+{
+  "id": 857563615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895037,21.345044,-157.895037,21.345044",
+    "geom:latitude":21.345044,
+    "geom:longitude":-157.895037,
+    "iso:country":"US",
+    "sg:address":"2885 Paa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 9661",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W0CHslagn1hpO7VXCJ9qu_21.345044_-157.895037@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203231,
+    "wof:geomhash":"266c7f37cb2be115c263f570081a27b2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857563615
+        }
+    ],
+    "wof:id":857563615,
+    "wof:lastmodified":1464203231,
+    "wof:name":"Allstate",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.895037,
+    21.345044,
+    -157.895037,
+    21.345044
+],
+  "geometry": {"coordinates":[-157.895037,21.345044],"type":"Point"}
+}

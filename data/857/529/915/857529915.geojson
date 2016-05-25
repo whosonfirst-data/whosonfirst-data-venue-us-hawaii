@@ -1,0 +1,73 @@
+{
+  "id": 857529915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825878,21.286384,-157.825878,21.286384",
+    "geom:latitude":21.286384,
+    "geom:longitude":-157.825878,
+    "iso:country":"US",
+    "sg:address":"541 Lauiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 6735",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l09Nc2LQzY2GlD1DvhRoz_21.286384_-157.825878@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202541,
+    "wof:geomhash":"de56894de0f6f654d9c2c2a41643d382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857529915
+        }
+    ],
+    "wof:id":857529915,
+    "wof:lastmodified":1464202541,
+    "wof:name":"Jimmy's Appliance Svc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerator",
+        "freezer"
+    ]
+},
+  "bbox": [
+    -157.825878,
+    21.286384,
+    -157.825878,
+    21.286384
+],
+  "geometry": {"coordinates":[-157.82587799999999,21.286384],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857546031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865145,21.330705,-157.865145,21.330705",
+    "geom:latitude":21.330705,
+    "geom:longitude":-157.865145,
+    "iso:country":"US",
+    "sg:address":"1224 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5534",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_024ySLd0WTOi8WLj9xFIHN_21.330705_-157.865145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202857,
+    "wof:geomhash":"7269fa9b31fcdd1916b25879f7475b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857546031
+        }
+    ],
+    "wof:id":857546031,
+    "wof:lastmodified":1464202857,
+    "wof:name":"Mary's Barber Shop",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.865145,
+    21.330705,
+    -157.865145,
+    21.330705
+],
+  "geometry": {"coordinates":[-157.86514500000001,21.330705],"type":"Point"}
+}

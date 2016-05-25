@@ -1,0 +1,71 @@
+{
+  "id": 857648125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.186458,21.438585,-158.186458,21.438585",
+    "geom:latitude":21.438585,
+    "geom:longitude":-158.186458,
+    "iso:country":"US",
+    "sg:address":"62 Alta St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 697 1210",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sueT8plGraK080AZXMheS_21.438585_-158.186458@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205381,
+    "wof:geomhash":"22653f98a34ac22e3c02f0901f8fdc47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857648125
+        }
+    ],
+    "wof:id":857648125,
+    "wof:lastmodified":1464205381,
+    "wof:name":"Kaneshiro Builders Inc",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.186458,
+    21.438585,
+    -158.186458,
+    21.438585
+],
+  "geometry": {"coordinates":[-158.18645799999999,21.438585],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857632447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504884,20.891868,-156.504884,20.891868",
+    "geom:latitude":20.891868,
+    "geom:longitude":-156.504884,
+    "iso:country":"US",
+    "sg:address":"50 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 4567",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtApaMko0PmxZgcHa7QsW_20.891868_-156.504884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204731,
+    "wof:geomhash":"1c34499143aae7c67baf1d15aa3c1f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857632447
+        }
+    ],
+    "wof:id":857632447,
+    "wof:lastmodified":1464204731,
+    "wof:name":"Web Auctions Hawaii",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -156.504884,
+    20.891868,
+    -156.504884,
+    20.891868
+],
+  "geometry": {"coordinates":[-156.504884,20.891868],"type":"Point"}
+}

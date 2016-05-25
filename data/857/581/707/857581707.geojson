@@ -1,0 +1,71 @@
+{
+  "id": 857581707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.948958,21.430506,-157.948958,21.430506",
+    "geom:latitude":21.430506,
+    "geom:longitude":-157.948958,
+    "iso:country":"US",
+    "sg:address":"2406 Apoepoe St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 7517",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NxfFleTzndrZ2EgZw1Qc9_21.430506_-157.948958@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203583,
+    "wof:geomhash":"dc28e6b2348cd1225fdeee6c2936add9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857581707
+        }
+    ],
+    "wof:id":857581707,
+    "wof:lastmodified":1464203583,
+    "wof:name":"Otto Vw Haus",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.948958,
+    21.430506,
+    -157.948958,
+    21.430506
+],
+  "geometry": {"coordinates":[-157.948958,21.430506],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857530813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.010099,21.5019,-158.010099,21.5019",
+    "geom:latitude":21.5019,
+    "geom:longitude":-158.010099,
+    "iso:country":"US",
+    "sg:address":"1611 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6033",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary",
+        "church"
+    ],
+    "sg:website":"www.tls-hawaii.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JFlqsHteNumRKvHmBdqYx_21.501900_-158.010099@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202560,
+    "wof:geomhash":"a775859625a463e27472dbe40c1545f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857530813
+        }
+    ],
+    "wof:id":857530813,
+    "wof:lastmodified":1464202560,
+    "wof:name":"Trinity Lutheran School",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "church"
+    ]
+},
+  "bbox": [
+    -158.010099,
+    21.5019,
+    -158.010099,
+    21.5019
+],
+  "geometry": {"coordinates":[-158.010099,21.5019],"type":"Point"}
+}

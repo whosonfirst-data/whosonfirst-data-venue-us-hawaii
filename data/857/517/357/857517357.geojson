@@ -1,0 +1,71 @@
+{
+  "id": 857517357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852746,21.313357,-157.852746,21.313357",
+    "geom:latitude":21.313357,
+    "geom:longitude":-157.852746,
+    "iso:country":"US",
+    "sg:address":"1601 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 9152",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p6oGdzxj509VBVEcCUZ0Z_21.313357_-157.852746@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202297,
+    "wof:geomhash":"1f229cc29ba06df44609f9897a104a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857517357
+        }
+    ],
+    "wof:id":857517357,
+    "wof:lastmodified":1464202297,
+    "wof:name":"Norikos Beauty Salon Inc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.852746,
+    21.313357,
+    -157.852746,
+    21.313357
+],
+  "geometry": {"coordinates":[-157.852746,21.313357],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857587453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816882,21.259414,-157.816882,21.259414",
+    "geom:latitude":21.259414,
+    "geom:longitude":-157.816882,
+    "iso:country":"US",
+    "sg:address":"3030 Hibiscus Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 0446",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X0oTFGnYgLNM45pQjZU59_21.259414_-157.816882@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203703,
+    "wof:geomhash":"fb7d01bfba92238e11e074089bd638da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857587453
+        }
+    ],
+    "wof:id":857587453,
+    "wof:lastmodified":1464203703,
+    "wof:name":"Square & Round Dance Fdrtn",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.816882,
+    21.259414,
+    -157.816882,
+    21.259414
+],
+  "geometry": {"coordinates":[-157.81688199999999,21.259414],"type":"Point"}
+}

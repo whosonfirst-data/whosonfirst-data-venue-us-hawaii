@@ -1,0 +1,73 @@
+{
+  "id": 857606899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.004007,21.383978,-158.004007,21.383978",
+    "geom:latitude":21.383978,
+    "geom:longitude":-158.004007,
+    "iso:country":"US",
+    "sg:address":"767 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3781",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lPqv8M1jweWX6XQizZ9Mj_21.383978_-158.004007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204133,
+    "wof:geomhash":"5ec88813a90d5367baade9aa79d1986c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857606899
+        }
+    ],
+    "wof:id":857606899,
+    "wof:lastmodified":1464204133,
+    "wof:name":"Waipahu Repair",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.004007,
+    21.383978,
+    -158.004007,
+    21.383978
+],
+  "geometry": {"coordinates":[-158.004007,21.383978],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857666897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022107,21.374086,-158.022107,21.374086",
+    "geom:latitude":21.374086,
+    "geom:longitude":-158.022107,
+    "iso:country":"US",
+    "sg:address":"51 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 7898",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iL8gG6XvfHfEOjrztreTt_21.374086_-158.022107@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206220,
+    "wof:geomhash":"2c34614e2f42cfb687dc6e7221c95dfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857666897
+        }
+    ],
+    "wof:id":857666897,
+    "wof:lastmodified":1464206220,
+    "wof:name":"Leeward Automotive Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.022107,
+    21.374086,
+    -158.022107,
+    21.374086
+],
+  "geometry": {"coordinates":[-158.02210700000001,21.374086],"type":"Point"}
+}

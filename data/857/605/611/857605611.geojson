@@ -1,0 +1,73 @@
+{
+  "id": 857605611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861086,21.308902,-157.861086,21.308902",
+    "geom:latitude":21.308902,
+    "geom:longitude":-157.861086,
+    "iso:country":"US",
+    "sg:address":"1050 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 543 2059",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LzwrXpnCelXZOMK9GqtkO_21.308902_-157.861086@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204109,
+    "wof:geomhash":"eeab671c5a70b5e822ecf253ea797b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857605611
+        }
+    ],
+    "wof:id":857605611,
+    "wof:lastmodified":1464204109,
+    "wof:name":"Pathfusion Technologies Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "computer"
+    ]
+},
+  "bbox": [
+    -157.861086,
+    21.308902,
+    -157.861086,
+    21.308902
+],
+  "geometry": {"coordinates":[-157.861086,21.308902],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857555157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854309,21.334241,-157.854309,21.334241",
+    "geom:latitude":21.334241,
+    "geom:longitude":-157.854309,
+    "iso:country":"US",
+    "sg:address":"1159 Alewa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 8571",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SwS9Ddd7CGpizW86nM1ra_21.334241_-157.854309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203031,
+    "wof:geomhash":"dc12399d9a63b25b1e1f1816abfd8dac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857555157
+        }
+    ],
+    "wof:id":857555157,
+    "wof:lastmodified":1464203031,
+    "wof:name":"Bassett Development Corp",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -157.854309,
+    21.334241,
+    -157.854309,
+    21.334241
+],
+  "geometry": {"coordinates":[-157.854309,21.334241],"type":"Point"}
+}

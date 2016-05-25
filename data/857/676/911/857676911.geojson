@@ -1,0 +1,71 @@
+{
+  "id": 857676911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87962,21.334032,-157.87962,21.334032",
+    "geom:latitude":21.334032,
+    "geom:longitude":-157.87962,
+    "iso:country":"US",
+    "sg:address":"2130 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 0726",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DrGqixFnLchK2qbaHjq0R_21.334032_-157.879620@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206611,
+    "wof:geomhash":"125fc26fde2e39659e58e485eaa86e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857676911
+        }
+    ],
+    "wof:id":857676911,
+    "wof:lastmodified":1464206611,
+    "wof:name":"S & F Printing Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.87962,
+    21.334032,
+    -157.87962,
+    21.334032
+],
+  "geometry": {"coordinates":[-157.87961999999999,21.334032],"type":"Point"}
+}

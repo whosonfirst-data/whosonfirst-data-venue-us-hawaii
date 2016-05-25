@@ -1,0 +1,71 @@
+{
+  "id": 857628979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.755373,21.278504,-157.755373,21.278504",
+    "geom:latitude":21.278504,
+    "geom:longitude":-157.755373,
+    "iso:country":"US",
+    "sg:address":"827 W Hind Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 2722",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvtBh3XW62cYewNFcRuL6_21.278504_-157.755373@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204642,
+    "wof:geomhash":"0aadcd5c49113250fbf2dacd345d5850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857628979
+        }
+    ],
+    "wof:id":857628979,
+    "wof:lastmodified":1464204642,
+    "wof:name":"Honolulu City Aina Haina Park",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.755373,
+    21.278504,
+    -157.755373,
+    21.278504
+],
+  "geometry": {"coordinates":[-157.75537299999999,21.278504],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857642035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026264,21.497452,-158.026264,21.497452",
+    "geom:latitude":21.497452,
+    "geom:longitude":-158.026264,
+    "iso:country":"US",
+    "sg:address":"830 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 6458",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NxR00rscDP4Tme6KK7ONT_21.497452_-158.026264@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205100,
+    "wof:geomhash":"21ff94200dbbedf3af44cabbde285fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857642035
+        }
+    ],
+    "wof:id":857642035,
+    "wof:lastmodified":1464205100,
+    "wof:name":"WIC Program",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -158.026264,
+    21.497452,
+    -158.026264,
+    21.497452
+],
+  "geometry": {"coordinates":[-158.026264,21.497452],"type":"Point"}
+}

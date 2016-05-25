@@ -1,0 +1,66 @@
+{
+  "id": 857553461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831063,21.279176,-157.831063,21.279176",
+    "geom:latitude":21.279176,
+    "geom:longitude":-157.831063,
+    "iso:country":"US",
+    "sg:address":"240 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 3538",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QFkLNZYL5HJkX5Tmc2kDL_21.279176_-157.831063@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202997,
+    "wof:geomhash":"d8d3e75b57a0646182eabd6f9df25b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857553461
+        }
+    ],
+    "wof:id":857553461,
+    "wof:lastmodified":1464202997,
+    "wof:name":"Daisy Gifts",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.831063,
+    21.279176,
+    -157.831063,
+    21.279176
+],
+  "geometry": {"coordinates":[-157.831063,21.279176],"type":"Point"}
+}

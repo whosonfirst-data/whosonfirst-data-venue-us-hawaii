@@ -1,0 +1,71 @@
+{
+  "id": 857617583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81464,21.300275,-157.81464,21.300275",
+    "geom:latitude":21.300275,
+    "geom:longitude":-157.81464,
+    "iso:country":"US",
+    "sg:address":"1980 E West Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 9293",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "campus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2frf4LJSTeYmjowsafN8Na_21.300275_-157.814640@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204368,
+    "wof:geomhash":"3c1101a46390578d9c3c18f0ed8311c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857617583
+        }
+    ],
+    "wof:id":857617583,
+    "wof:lastmodified":1464204368,
+    "wof:name":"Campus Security",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "campus"
+    ]
+},
+  "bbox": [
+    -157.81464,
+    21.300275,
+    -157.81464,
+    21.300275
+],
+  "geometry": {"coordinates":[-157.81464,21.300275],"type":"Point"}
+}

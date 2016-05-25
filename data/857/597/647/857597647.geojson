@@ -1,0 +1,71 @@
+{
+  "id": 857597647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.583386,21.908029,-159.583386,21.908029",
+    "geom:latitude":21.908029,
+    "geom:longitude":-159.583386,
+    "iso:country":"US",
+    "sg:address":"121 Akala Rd",
+    "sg:city":"Eleele",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 9929",
+    "sg:postcode":"96705",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iQkGwlIlRST3zCeidEnhk_21.908029_-159.583386@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203935,
+    "wof:geomhash":"af0cb8006c76043696e854ad12624c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857597647
+        }
+    ],
+    "wof:id":857597647,
+    "wof:lastmodified":1464203935,
+    "wof:name":"Island Wide Driving School",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -159.583386,
+    21.908029,
+    -159.583386,
+    21.908029
+],
+  "geometry": {"coordinates":[-159.58338599999999,21.908029],"type":"Point"}
+}

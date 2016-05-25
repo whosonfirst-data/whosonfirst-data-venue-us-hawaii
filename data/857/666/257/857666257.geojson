@@ -1,0 +1,71 @@
+{
+  "id": 857666257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.466154,20.888578,-156.466154,20.888578",
+    "geom:latitude":20.888578,
+    "geom:longitude":-156.466154,
+    "iso:country":"US",
+    "sg:address":"101 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 6244",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tgUONf1xv9TESlT37eFMq_20.888578_-156.466154@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206197,
+    "wof:geomhash":"f09db7be35d76f1db42d8a2b19631f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857666257
+        }
+    ],
+    "wof:id":857666257,
+    "wof:lastmodified":1464206197,
+    "wof:name":"Chevron",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -156.466154,
+    20.888578,
+    -156.466154,
+    20.888578
+],
+  "geometry": {"coordinates":[-156.46615399999999,20.888578],"type":"Point"}
+}

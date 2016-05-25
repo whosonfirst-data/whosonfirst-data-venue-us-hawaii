@@ -1,0 +1,73 @@
+{
+  "id": 857680669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.4547,20.882526,-156.4547,20.882526",
+    "geom:latitude":20.882526,
+    "geom:longitude":-156.4547,
+    "iso:country":"US",
+    "sg:address":"340 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/puunene/202796-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SMSoSoC7XCJLU2vxVNCZv_20.882526_-156.454700@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"44adc51db4a4c9293f448091b6b7d4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680669
+        }
+    ],
+    "wof:id":857680669,
+    "wof:lastmodified":1464206752,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -156.4547,
+    20.882526,
+    -156.4547,
+    20.882526
+],
+  "geometry": {"coordinates":[-156.4547,20.882526],"type":"Point"}
+}

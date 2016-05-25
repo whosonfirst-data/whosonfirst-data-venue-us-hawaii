@@ -1,0 +1,73 @@
+{
+  "id": 857564611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810705,21.288215,-157.810705,21.288215",
+    "geom:latitude":21.288215,
+    "geom:longitude":-157.810705,
+    "iso:country":"US",
+    "sg:address":"1124 2nd Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 1153",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PGTuVKnQucpkGzyIP4o2K_21.288215_-157.810705@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203249,
+    "wof:geomhash":"0a1b3c2d9ec1a4f2f53dcf864e536cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857564611
+        }
+    ],
+    "wof:id":857564611,
+    "wof:lastmodified":1464203249,
+    "wof:name":"Mikes Glass and Service",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -157.810705,
+    21.288215,
+    -157.810705,
+    21.288215
+],
+  "geometry": {"coordinates":[-157.81070500000001,21.288215],"type":"Point"}
+}

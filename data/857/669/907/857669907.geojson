@@ -1,0 +1,73 @@
+{
+  "id": 857669907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829673,21.284502,-157.829673,21.284502",
+    "geom:latitude":21.284502,
+    "geom:longitude":-157.829673,
+    "iso:country":"US",
+    "sg:address":"421 Olohana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 953 2030",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mdUC1GZtFnXHf80YJl4Zk_21.284502_-157.829673@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206337,
+    "wof:geomhash":"e6500ca1d65cdfa1f0a8312d780b7b1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857669907
+        }
+    ],
+    "wof:id":857669907,
+    "wof:lastmodified":1464206337,
+    "wof:name":"Ceco Concrete",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.829673,
+    21.284502,
+    -157.829673,
+    21.284502
+],
+  "geometry": {"coordinates":[-157.82967300000001,21.284502],"type":"Point"}
+}

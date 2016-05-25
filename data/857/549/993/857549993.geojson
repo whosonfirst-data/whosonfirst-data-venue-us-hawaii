@@ -1,0 +1,69 @@
+{
+  "id": 857549993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.589755,21.910036,-159.589755,21.910036",
+    "geom:latitude":21.910036,
+    "geom:longitude":-159.589755,
+    "iso:country":"US",
+    "sg:address":"3734 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 2810",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32rHzpXh5rsZ235jZIT9ZZ_21.910036_-159.589755@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202931,
+    "wof:geomhash":"83e4f29f61061cab57df8d7c4509b9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857549993
+        }
+    ],
+    "wof:id":857549993,
+    "wof:lastmodified":1464202931,
+    "wof:name":"Andy's KINE Catering",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -159.589755,
+    21.910036,
+    -159.589755,
+    21.910036
+],
+  "geometry": {"coordinates":[-159.589755,21.910036],"type":"Point"}
+}

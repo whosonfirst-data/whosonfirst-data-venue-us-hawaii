@@ -1,0 +1,75 @@
+{
+  "id": 857645193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.022873,21.452058,-158.022873,21.452058",
+    "geom:latitude":21.452058,
+    "geom:longitude":-158.022873,
+    "iso:country":"US",
+    "sg:address":"58 Hokuiwa St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8442",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HXUbtUI3U4XRqbnFos2gM_21.452058_-158.022873@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205246,
+    "wof:geomhash":"fa00a042fbee4bc010e0a9c5173657bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857645193
+        }
+    ],
+    "wof:id":857645193,
+    "wof:lastmodified":1464205246,
+    "wof:name":"Leslie's Drilling",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boring",
+        "drilling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.022873,
+    21.452058,
+    -158.022873,
+    21.452058
+],
+  "geometry": {"coordinates":[-158.022873,21.452058],"type":"Point"}
+}

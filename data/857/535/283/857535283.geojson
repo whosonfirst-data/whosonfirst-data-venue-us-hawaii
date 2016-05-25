@@ -1,0 +1,73 @@
+{
+  "id": 857535283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.678907,21.297969,-157.678907,21.297969",
+    "geom:latitude":21.297969,
+    "geom:longitude":-157.678907,
+    "iso:country":"US",
+    "sg:address":"111 Hoolako Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 2012",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B6596KmOfhTMb79xz9ODc_21.297969_-157.678907@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202646,
+    "wof:geomhash":"f8bdc13cd5e2cdbd6b9af6e8b7eede83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857535283
+        }
+    ],
+    "wof:id":857535283,
+    "wof:lastmodified":1464202646,
+    "wof:name":"Plumbing Systems",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.678907,
+    21.297969,
+    -157.678907,
+    21.297969
+],
+  "geometry": {"coordinates":[-157.67890700000001,21.297969],"type":"Point"}
+}

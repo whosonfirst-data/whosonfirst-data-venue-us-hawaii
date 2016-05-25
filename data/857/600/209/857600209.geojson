@@ -1,0 +1,73 @@
+{
+  "id": 857600209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02662,21.340692,-158.02662,21.340692",
+    "geom:latitude":21.340692,
+    "geom:longitude":-158.02662,
+    "iso:country":"US",
+    "sg:address":"1046 Laaulu St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 478 1538",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A9sJUUhctjkeURWqbkh5L_21.340692_-158.026620@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203991,
+    "wof:geomhash":"3d4c3444920bf68ab360fc24f49126ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857600209
+        }
+    ],
+    "wof:id":857600209,
+    "wof:lastmodified":1464203991,
+    "wof:name":"Ke Akua Electric",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.02662,
+    21.340692,
+    -158.02662,
+    21.340692
+],
+  "geometry": {"coordinates":[-158.02662000000001,21.340692],"type":"Point"}
+}

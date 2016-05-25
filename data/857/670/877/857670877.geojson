@@ -1,0 +1,71 @@
+{
+  "id": 857670877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.703075,21.340903,-157.703075,21.340903",
+    "geom:latitude":21.340903,
+    "geom:longitude":-157.703075,
+    "iso:country":"US",
+    "sg:address":"44 Aloiloi St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 6889",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cxfC1dWXwRilkNCSEdLVP_21.340903_-157.703075@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206371,
+    "wof:geomhash":"b668d0456578c1acec85b819e70d9890",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857670877
+        }
+    ],
+    "wof:id":857670877,
+    "wof:lastmodified":1464206371,
+    "wof:name":"Jack Burke",
+    "wof:parent_id":85854139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -157.703075,
+    21.340903,
+    -157.703075,
+    21.340903
+],
+  "geometry": {"coordinates":[-157.70307500000001,21.340903],"type":"Point"}
+}

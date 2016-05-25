@@ -1,0 +1,73 @@
+{
+  "id": 857548765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881664,21.3261,-157.881664,21.3261",
+    "geom:latitude":21.3261,
+    "geom:longitude":-157.881664,
+    "iso:country":"US",
+    "sg:address":"1810 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1689",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_130LCyrcXhQ0hPCBzx4QoM_21.326100_-157.881664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202907,
+    "wof:geomhash":"8e3c3a7f8d692f2fc0cc60268b31b7cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857548765
+        }
+    ],
+    "wof:id":857548765,
+    "wof:lastmodified":1464202907,
+    "wof:name":"Jads Automotive Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.881664,
+    21.3261,
+    -157.881664,
+    21.3261
+],
+  "geometry": {"coordinates":[-157.881664,21.3261],"type":"Point"}
+}

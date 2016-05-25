@@ -1,0 +1,71 @@
+{
+  "id": 857668301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863006,21.308948,-157.863006,21.308948",
+    "geom:latitude":21.308948,
+    "geom:longitude":-157.863006,
+    "iso:country":"US",
+    "sg:address":"51 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 4207",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ynM3DU04KYeNEHnP7xAB4_21.308948_-157.863006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206268,
+    "wof:geomhash":"fe5c68388216b899bf997050a1ce9bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857668301
+        }
+    ],
+    "wof:id":857668301,
+    "wof:lastmodified":1464206268,
+    "wof:name":"Department Of Community Svc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -157.863006,
+    21.308948,
+    -157.863006,
+    21.308948
+],
+  "geometry": {"coordinates":[-157.86300600000001,21.308948],"type":"Point"}
+}

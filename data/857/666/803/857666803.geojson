@@ -1,0 +1,71 @@
+{
+  "id": 857666803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.707923,21.294186,-157.707923,21.294186",
+    "geom:latitude":21.294186,
+    "geom:longitude":-157.707923,
+    "iso:country":"US",
+    "sg:address":"511 Hahaione St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 7544",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N3U3akGsjdM6TL2AwhKw1_21.294186_-157.707923@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206217,
+    "wof:geomhash":"bea969e669ea26240d898ebac4d10f01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857666803
+        }
+    ],
+    "wof:id":857666803,
+    "wof:lastmodified":1464206217,
+    "wof:name":"Mauna Luan",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.707923,
+    21.294186,
+    -157.707923,
+    21.294186
+],
+  "geometry": {"coordinates":[-157.70792299999999,21.294186],"type":"Point"}
+}

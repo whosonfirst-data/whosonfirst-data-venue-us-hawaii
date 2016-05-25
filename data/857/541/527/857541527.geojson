@@ -1,0 +1,71 @@
+{
+  "id": 857541527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.462008,20.885905,-156.462008,20.885905",
+    "geom:latitude":20.885905,
+    "geom:longitude":-156.462008,
+    "iso:country":"US",
+    "sg:address":"151 E Wakea Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 873 7085",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ShMAbZs7NRcpjF0ax0I1i_20.885905_-156.462008@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202766,
+    "wof:geomhash":"e4c3ad1248a6d1a32dec9fa02aa4ac43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857541527
+        }
+    ],
+    "wof:id":857541527,
+    "wof:lastmodified":1464202766,
+    "wof:name":"Hawaii Homeloans Inc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -156.462008,
+    20.885905,
+    -156.462008,
+    20.885905
+],
+  "geometry": {"coordinates":[-156.462008,20.885905],"type":"Point"}
+}

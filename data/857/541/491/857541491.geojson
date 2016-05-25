@@ -1,0 +1,75 @@
+{
+  "id": 857541491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843234,21.301588,-157.843234,21.301588",
+    "geom:latitude":21.301588,
+    "geom:longitude":-157.843234,
+    "iso:country":"US",
+    "sg:address":"1335 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8118",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_152a5EVNUlhgApVdPbRamN_21.301588_-157.843234@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202765,
+    "wof:geomhash":"5653600775eae241869ac5eca5c98910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857541491
+        }
+    ],
+    "wof:id":857541491,
+    "wof:lastmodified":1464202765,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -157.843234,
+    21.301588,
+    -157.843234,
+    21.301588
+],
+  "geometry": {"coordinates":[-157.843234,21.301588],"type":"Point"}
+}

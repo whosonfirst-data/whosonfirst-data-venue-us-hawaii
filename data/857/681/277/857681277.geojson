@@ -1,0 +1,76 @@
+{
+  "id": 857681277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856211,21.295683,-157.856211,21.295683",
+    "geom:latitude":21.295683,
+    "geom:longitude":-157.856211,
+    "iso:country":"US",
+    "sg:address":"940 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/135813-jamba-juice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2043",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QqXqxPiukSC405L6DMEd5_21.295683_-157.856211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206777,
+    "wof:geomhash":"eea497abbfc99fe91a1b0dd1facdded4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681277
+        }
+    ],
+    "wof:id":857681277,
+    "wof:lastmodified":1464206777,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.856211,
+    21.295683,
+    -157.856211,
+    21.295683
+],
+  "geometry": {"coordinates":[-157.856211,21.295683],"type":"Point"}
+}

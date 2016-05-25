@@ -1,0 +1,75 @@
+{
+  "id": 857656015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.086662,19.726236,-155.086662,19.726236",
+    "geom:latitude":19.726236,
+    "geom:longitude":-155.086662,
+    "iso:country":"US",
+    "sg:address":"194 Kamehameha Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 3919",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Xx9DP9jY2zdbGkviEq3j_19.726236_-155.086662@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205724,
+    "wof:geomhash":"676e3121c53fb02fceee99d89cc661de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857656015
+        }
+    ],
+    "wof:id":857656015,
+    "wof:lastmodified":1464205724,
+    "wof:name":"Shigehara's Plumbing Svc",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.086662,
+    19.726236,
+    -155.086662,
+    19.726236
+],
+  "geometry": {"coordinates":[-155.08666199999999,19.726236],"type":"Point"}
+}

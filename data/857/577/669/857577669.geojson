@@ -1,0 +1,73 @@
+{
+  "id": 857577669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898378,21.354877,-157.898378,21.354877",
+    "geom:latitude":21.354877,
+    "geom:longitude":-157.898378,
+    "iso:country":"US",
+    "sg:address":"1466 Ala Kopiko St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 8976",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02cnv0EHNmq39ZuHFrZkJw_21.354877_-157.898378@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203505,
+    "wof:geomhash":"d05f8cdcdaa75b16bb47dd99bd295416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857577669
+        }
+    ],
+    "wof:id":857577669,
+    "wof:lastmodified":1464203505,
+    "wof:name":"Local Builders",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -157.898378,
+    21.354877,
+    -157.898378,
+    21.354877
+],
+  "geometry": {"coordinates":[-157.89837800000001,21.354877],"type":"Point"}
+}

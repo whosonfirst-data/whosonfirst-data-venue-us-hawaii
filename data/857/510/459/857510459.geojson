@@ -1,0 +1,71 @@
+{
+  "id": 857510459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.11274,21.58566,-158.11274,21.58566",
+    "geom:latitude":21.58566,
+    "geom:longitude":-158.11274,
+    "iso:country":"US",
+    "sg:address":"449 Haleiwa Rd",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4480",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937545,
+        102085417,
+        85843743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gqECYf8lN157EZKC8iiTo_21.585660_-158.112740@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202154,
+    "wof:geomhash":"d797ab8724bbe2a15a9b7e85588dfb8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937545,
+            "neighbourhood_id":85843743,
+            "region_id":85688671,
+            "venue_id":857510459
+        }
+    ],
+    "wof:id":857510459,
+    "wof:lastmodified":1464202154,
+    "wof:name":"Kalaka Bay Beach Park",
+    "wof:parent_id":85843743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -158.11274,
+    21.58566,
+    -158.11274,
+    21.58566
+],
+  "geometry": {"coordinates":[-158.11274,21.58566],"type":"Point"}
+}

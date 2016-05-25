@@ -1,0 +1,66 @@
+{
+  "id": 857592901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814053,21.269778,-157.814053,21.269778",
+    "geom:latitude":21.269778,
+    "geom:longitude":-157.814053,
+    "iso:country":"US",
+    "sg:address":"3042 Kaunaoa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7191",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PiMGcQPjF0bVFuP8duhFn_21.269778_-157.814053@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203825,
+    "wof:geomhash":"574e9a56020ea26ed5c6f89dfc6e15f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857592901
+        }
+    ],
+    "wof:id":857592901,
+    "wof:lastmodified":1464203825,
+    "wof:name":"Nishiki Enterprises",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.814053,
+    21.269778,
+    -157.814053,
+    21.269778
+],
+  "geometry": {"coordinates":[-157.814053,21.269778],"type":"Point"}
+}

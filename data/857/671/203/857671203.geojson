@@ -1,0 +1,76 @@
+{
+  "id": 857671203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844343,21.308503,-157.844343,21.308503",
+    "geom:latitude":21.308503,
+    "geom:longitude":-157.844343,
+    "iso:country":"US",
+    "sg:address":"1031 Maunaihi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 9046",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BoU5OcIuxgT4otwgVNBRa_21.308503_-157.844343@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206382,
+    "wof:geomhash":"5b6c1de4c0995300757f629fddc18d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857671203
+        }
+    ],
+    "wof:id":857671203,
+    "wof:lastmodified":1464206382,
+    "wof:name":"Maunaihi Terrace Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.844343,
+    21.308503,
+    -157.844343,
+    21.308503
+],
+  "geometry": {"coordinates":[-157.84434300000001,21.308503],"type":"Point"}
+}

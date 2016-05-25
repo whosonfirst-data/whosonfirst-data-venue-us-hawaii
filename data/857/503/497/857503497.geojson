@@ -1,0 +1,71 @@
+{
+  "id": 857503497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899596,21.365911,-157.899596,21.365911",
+    "geom:latitude":21.365911,
+    "geom:longitude":-157.899596,
+    "iso:country":"US",
+    "sg:address":"1294 Moanalualani Ct",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 237 7074",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "radiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51d9nqhCVMZXmV529J5t8o_21.365911_-157.899596@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201995,
+    "wof:geomhash":"bb6eac4e9bcacc6edab3028a17e0f020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857503497
+        }
+    ],
+    "wof:id":857503497,
+    "wof:lastmodified":1464201995,
+    "wof:name":"Bradford Burton",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiologist"
+    ]
+},
+  "bbox": [
+    -157.899596,
+    21.365911,
+    -157.899596,
+    21.365911
+],
+  "geometry": {"coordinates":[-157.899596,21.365911],"type":"Point"}
+}

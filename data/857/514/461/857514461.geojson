@@ -1,0 +1,75 @@
+{
+  "id": 857514461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841309,21.298051,-157.841309,21.298051",
+    "geom:latitude":21.298051,
+    "geom:longitude":-157.841309,
+    "iso:country":"US",
+    "sg:address":"1326 Liona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 0454",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d01sETNM6aVnNmVYiiddP_21.298051_-157.841309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202242,
+    "wof:geomhash":"dc9570af2b6931fe780c563abc324121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857514461
+        }
+    ],
+    "wof:id":857514461,
+    "wof:lastmodified":1464202242,
+    "wof:name":"Yajima Auto Detailing",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -157.841309,
+    21.298051,
+    -157.841309,
+    21.298051
+],
+  "geometry": {"coordinates":[-157.841309,21.298051],"type":"Point"}
+}

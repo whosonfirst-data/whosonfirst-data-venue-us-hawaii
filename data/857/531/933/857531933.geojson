@@ -1,0 +1,71 @@
+{
+  "id": 857531933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.489309,20.899332,-156.489309,20.899332",
+    "geom:latitude":20.899332,
+    "geom:longitude":-156.489309,
+    "iso:country":"US",
+    "sg:address":"918 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7951",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "beverage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gv0d2VwsyeMxiTgCqRnas_20.899332_-156.489309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202584,
+    "wof:geomhash":"d0ad6e7f089e8ca8f6495cab168f57da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857531933
+        }
+    ],
+    "wof:id":857531933,
+    "wof:lastmodified":1464202584,
+    "wof:name":"Maui Soda & Ice Works LTD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -156.489309,
+    20.899332,
+    -156.489309,
+    20.899332
+],
+  "geometry": {"coordinates":[-156.48930899999999,20.899332],"type":"Point"}
+}

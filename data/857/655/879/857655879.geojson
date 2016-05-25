@@ -1,0 +1,71 @@
+{
+  "id": 857655879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504816,20.891482,-156.504816,20.891482",
+    "geom:latitude":20.891482,
+    "geom:longitude":-156.504816,
+    "iso:country":"US",
+    "sg:address":"31 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 0757",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16j2KOkP4JWK0i5iKWbh39_20.891482_-156.504816@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205718,
+    "wof:geomhash":"6075758ecd542f20dbf25283c28a4a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857655879
+        }
+    ],
+    "wof:id":857655879,
+    "wof:lastmodified":1464205718,
+    "wof:name":"Feed My Sheep",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -156.504816,
+    20.891482,
+    -156.504816,
+    20.891482
+],
+  "geometry": {"coordinates":[-156.50481600000001,20.891482],"type":"Point"}
+}

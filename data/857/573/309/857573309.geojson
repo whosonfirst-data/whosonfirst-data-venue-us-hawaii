@@ -1,0 +1,71 @@
+{
+  "id": 857573309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835974,21.433664,-157.835974,21.433664",
+    "geom:latitude":21.433664,
+    "geom:longitude":-157.835974,
+    "iso:country":"US",
+    "sg:address":"614 Hui Kelu St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 846 4258",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E58pFMrVP1DQbHSgOLDbU_21.433664_-157.835974@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203417,
+    "wof:geomhash":"3dcea87588f9f71580a7970ad917123b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857573309
+        }
+    ],
+    "wof:id":857573309,
+    "wof:lastmodified":1464203417,
+    "wof:name":"AC Systems Inc",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.835974,
+    21.433664,
+    -157.835974,
+    21.433664
+],
+  "geometry": {"coordinates":[-157.83597399999999,21.433664],"type":"Point"}
+}

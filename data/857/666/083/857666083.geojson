@@ -1,0 +1,71 @@
+{
+  "id": 857666083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803076,21.28064,-157.803076,21.28064",
+    "geom:latitude":21.28064,
+    "geom:longitude":-157.803076,
+    "iso:country":"US",
+    "sg:address":"3443 Pahoa Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 6687",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YovdW9W4LhODyr5l4hToQ_21.280640_-157.803076@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206187,
+    "wof:geomhash":"68742ae84f3774ddf7370ef9a1e14bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857666083
+        }
+    ],
+    "wof:id":857666083,
+    "wof:lastmodified":1464206187,
+    "wof:name":"Mental Health Kokua",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -157.803076,
+    21.28064,
+    -157.803076,
+    21.28064
+],
+  "geometry": {"coordinates":[-157.803076,21.28064],"type":"Point"}
+}

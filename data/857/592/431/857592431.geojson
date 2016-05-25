@@ -1,0 +1,71 @@
+{
+  "id": 857592431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881127,21.324684,-157.881127,21.324684",
+    "geom:latitude":21.324684,
+    "geom:longitude":-157.881127,
+    "iso:country":"US",
+    "sg:address":"1632 Hart St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3900",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e5X1jNOGiWaf4AQkAN9Jr_21.324684_-157.881127@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203814,
+    "wof:geomhash":"bf741656aab57fc98d69c740882b11fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857592431
+        }
+    ],
+    "wof:id":857592431,
+    "wof:lastmodified":1464203814,
+    "wof:name":"A-American Honolulu",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self"
+    ]
+},
+  "bbox": [
+    -157.881127,
+    21.324684,
+    -157.881127,
+    21.324684
+],
+  "geometry": {"coordinates":[-157.88112699999999,21.324684],"type":"Point"}
+}

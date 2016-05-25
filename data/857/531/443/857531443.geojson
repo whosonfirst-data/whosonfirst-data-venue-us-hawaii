@@ -1,0 +1,73 @@
+{
+  "id": 857531443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867573,21.333802,-157.867573,21.333802",
+    "geom:latitude":21.333802,
+    "geom:longitude":-157.867573,
+    "iso:country":"US",
+    "sg:address":"1402 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5278",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vbXdOsnpfMVf6yya1MMPk_21.333802_-157.867573@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202575,
+    "wof:geomhash":"b83b351f0e734b79325b698fc924860b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857531443
+        }
+    ],
+    "wof:id":857531443,
+    "wof:lastmodified":1464202575,
+    "wof:name":"Kapalama Chevron Food Mart",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.867573,
+    21.333802,
+    -157.867573,
+    21.333802
+],
+  "geometry": {"coordinates":[-157.86757299999999,21.333802],"type":"Point"}
+}

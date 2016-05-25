@@ -1,0 +1,71 @@
+{
+  "id": 857669017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021425,21.460338,-158.021425,21.460338",
+    "geom:latitude":21.460338,
+    "geom:longitude":-158.021425,
+    "iso:country":"US",
+    "sg:address":"23 Waihau St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 6205",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SLToR3O82SJpn98VV39Bl_21.460338_-158.021425@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206303,
+    "wof:geomhash":"69a9aee3c99398383c212cac15f95c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857669017
+        }
+    ],
+    "wof:id":857669017,
+    "wof:lastmodified":1464206303,
+    "wof:name":"Mililani Community Church",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.021425,
+    21.460338,
+    -158.021425,
+    21.460338
+],
+  "geometry": {"coordinates":[-158.02142499999999,21.460338],"type":"Point"}
+}

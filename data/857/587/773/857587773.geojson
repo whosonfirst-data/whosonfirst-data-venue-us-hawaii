@@ -1,0 +1,73 @@
+{
+  "id": 857587773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887088,21.325125,-157.887088,21.325125",
+    "geom:latitude":21.325125,
+    "geom:longitude":-157.887088,
+    "iso:country":"US",
+    "sg:address":"123 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8404",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hi",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63IFsv6WDCDfwt9HlIGVQu_21.325125_-157.887088@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203709,
+    "wof:geomhash":"284a010aaf3e1af3aa697010f78b937c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857587773
+        }
+    ],
+    "wof:id":857587773,
+    "wof:lastmodified":1464203709,
+    "wof:name":"Inter-Island Trck Hi-Lift Svc",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hi",
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.887088,
+    21.325125,
+    -157.887088,
+    21.325125
+],
+  "geometry": {"coordinates":[-157.88708800000001,21.325125],"type":"Point"}
+}

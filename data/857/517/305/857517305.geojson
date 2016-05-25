@@ -1,0 +1,71 @@
+{
+  "id": 857517305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.019294,21.429987,-158.019294,21.429987",
+    "geom:latitude":21.429987,
+    "geom:longitude":-158.019294,
+    "iso:country":"US",
+    "sg:address":"316 Makapipipi St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 5652",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MLakyCR9DOzDcTh33hxWE_21.429987_-158.019294@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202296,
+    "wof:geomhash":"e70cdbf7c692cc53ea55155d1357fc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857517305
+        }
+    ],
+    "wof:id":857517305,
+    "wof:lastmodified":1464202296,
+    "wof:name":"Mary Kay",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -158.019294,
+    21.429987,
+    -158.019294,
+    21.429987
+],
+  "geometry": {"coordinates":[-158.019294,21.429987],"type":"Point"}
+}

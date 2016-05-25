@@ -1,0 +1,71 @@
+{
+  "id": 857556789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843234,21.301588,-157.843234,21.301588",
+    "geom:latitude":21.301588,
+    "geom:longitude":-157.843234,
+    "iso:country":"US",
+    "sg:address":"1327 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 2779",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66WfJiyX9L52hfKBlAVVdw_21.301588_-157.843234@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203068,
+    "wof:geomhash":"5653600775eae241869ac5eca5c98910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857556789
+        }
+    ],
+    "wof:id":857556789,
+    "wof:lastmodified":1464203068,
+    "wof:name":"Fat Fat Bar & Grill",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.843234,
+    21.301588,
+    -157.843234,
+    21.301588
+],
+  "geometry": {"coordinates":[-157.843234,21.301588],"type":"Point"}
+}

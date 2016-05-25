@@ -1,0 +1,74 @@
+{
+  "id": 857587189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319511,22.068757,-159.319511,22.068757",
+    "geom:latitude":22.068757,
+    "geom:longitude":-159.319511,
+    "iso:country":"US",
+    "sg:address":"1107 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 4971",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d1cN5FiFthb2pUGIfpvUt_22.068757_-159.319511@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203697,
+    "wof:geomhash":"f4f072d7d310d48d2a85dcd9be0db298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857587189
+        }
+    ],
+    "wof:id":857587189,
+    "wof:lastmodified":1464203697,
+    "wof:name":"Big Save Inc",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -159.319511,
+    22.068757,
+    -159.319511,
+    22.068757
+],
+  "geometry": {"coordinates":[-159.31951100000001,22.068757],"type":"Point"}
+}

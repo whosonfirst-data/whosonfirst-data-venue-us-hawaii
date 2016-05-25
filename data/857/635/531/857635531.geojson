@@ -1,0 +1,75 @@
+{
+  "id": 857635531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829551,21.296514,-157.829551,21.296514",
+    "geom:latitude":21.296514,
+    "geom:longitude":-157.829551,
+    "iso:country":"US",
+    "sg:address":"1111 Mc Cully St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 4970",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70NVcxgCiM0Dd6jnnurL7w_21.296514_-157.829551@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204851,
+    "wof:geomhash":"99f095a7a1b3fa7a117ce5f9e79a4bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857635531
+        }
+    ],
+    "wof:id":857635531,
+    "wof:lastmodified":1464204851,
+    "wof:name":"Territorial Savings Bank",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "loan"
+    ]
+},
+  "bbox": [
+    -157.829551,
+    21.296514,
+    -157.829551,
+    21.296514
+],
+  "geometry": {"coordinates":[-157.82955100000001,21.296514],"type":"Point"}
+}

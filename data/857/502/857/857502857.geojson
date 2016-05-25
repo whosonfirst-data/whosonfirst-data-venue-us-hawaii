@@ -1,0 +1,71 @@
+{
+  "id": 857502857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927579,21.384504,-157.927579,21.384504",
+    "geom:latitude":21.384504,
+    "geom:longitude":-157.927579,
+    "iso:country":"US",
+    "sg:address":"350 Aiea Heights Dr",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 7859",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ir6alMk0NcnsU34C1rIoY_21.384504_-157.927579@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201982,
+    "wof:geomhash":"d1fdb2ea2047e349993e8b16e6904ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857502857
+        }
+    ],
+    "wof:id":857502857,
+    "wof:lastmodified":1464201982,
+    "wof:name":"Aiea District Park",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.927579,
+    21.384504,
+    -157.927579,
+    21.384504
+],
+  "geometry": {"coordinates":[-157.92757900000001,21.384504],"type":"Point"}
+}

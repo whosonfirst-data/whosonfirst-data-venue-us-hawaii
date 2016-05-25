@@ -1,0 +1,75 @@
+{
+  "id": 857656185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.896895,21.339192,-157.896895,21.339192",
+    "geom:latitude":21.339192,
+    "geom:longitude":-157.896895,
+    "iso:country":"US",
+    "sg:address":"709 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 840 1044",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44DKXHulx6i4g9UpzDvGz5_21.339192_-157.896895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205732,
+    "wof:geomhash":"93b97aaedd293ab015a41cebeb3d2e92",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857656185
+        }
+    ],
+    "wof:id":857656185,
+    "wof:lastmodified":1464205732,
+    "wof:name":"Venus Auto Repair",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.896895,
+    21.339192,
+    -157.896895,
+    21.339192
+],
+  "geometry": {"coordinates":[-157.896895,21.339192],"type":"Point"}
+}

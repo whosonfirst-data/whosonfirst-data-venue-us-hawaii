@@ -1,0 +1,91 @@
+{
+  "id": 857667207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887021,21.32522,-157.887021,21.32522",
+    "geom:latitude":21.32522,
+    "geom:longitude":-157.887021,
+    "iso:country":"US",
+    "sg:address":"1906 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8811",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "inspect",
+        "sales",
+        "system",
+        "equipment",
+        "protection",
+        "rep"
+    ],
+    "sg:website":"www.nationalfireinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AKmLN2BMzdGyC6sbVOIDo_21.325220_-157.887021@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206232,
+    "wof:geomhash":"3ba828dee293fbe6c023cc30853d7542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857667207
+        }
+    ],
+    "wof:id":857667207,
+    "wof:lastmodified":1464206232,
+    "wof:name":"National Fire Protection Co",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "inspect",
+        "sales",
+        "system",
+        "equipment",
+        "protection",
+        "rep"
+    ]
+},
+  "bbox": [
+    -157.887021,
+    21.32522,
+    -157.887021,
+    21.32522
+],
+  "geometry": {"coordinates":[-157.887021,21.32522],"type":"Point"}
+}

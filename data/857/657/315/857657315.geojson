@@ -1,0 +1,66 @@
+{
+  "id": 857657315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843809,21.299837,-157.843809,21.299837",
+    "geom:latitude":21.299837,
+    "geom:longitude":-157.843809,
+    "iso:country":"US",
+    "sg:address":"1222 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 594 3720",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TFF4rK32Vi2oweRs0lygP_21.299837_-157.843809@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205783,
+    "wof:geomhash":"b75691150e0f90bc9be8e447c02170cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857657315
+        }
+    ],
+    "wof:id":857657315,
+    "wof:lastmodified":1464205783,
+    "wof:name":"Zippy's Restaurant",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.843809,
+    21.299837,
+    -157.843809,
+    21.299837
+],
+  "geometry": {"coordinates":[-157.84380899999999,21.299837],"type":"Point"}
+}

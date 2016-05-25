@@ -1,0 +1,71 @@
+{
+  "id": 857660015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.726282,21.371477,-157.726282,21.371477",
+    "geom:latitude":21.371477,
+    "geom:longitude":-157.726282,
+    "iso:country":"US",
+    "sg:address":"1332 Onioni St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 3283",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FNsYqAdnJEYemCK5zg4jm_21.371477_-157.726282@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205903,
+    "wof:geomhash":"88b9bb2dbac629dc2edf78daec1ad431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857660015
+        }
+    ],
+    "wof:id":857660015,
+    "wof:lastmodified":1464205903,
+    "wof:name":"Jeromes Plumbing",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.726282,
+    21.371477,
+    -157.726282,
+    21.371477
+],
+  "geometry": {"coordinates":[-157.726282,21.371477],"type":"Point"}
+}

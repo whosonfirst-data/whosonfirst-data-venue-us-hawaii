@@ -1,0 +1,69 @@
+{
+  "id": 857529179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02745,21.495268,-158.02745,21.495268",
+    "geom:latitude":21.495268,
+    "geom:longitude":-158.02745,
+    "iso:country":"US",
+    "sg:address":"692 Olive Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6553",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HHR3iN4UGLPSY1aEcsx68_21.495268_-158.027450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202527,
+    "wof:geomhash":"67db1bea7fd656c3c8e94ee415ee18fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857529179
+        }
+    ],
+    "wof:id":857529179,
+    "wof:lastmodified":1464202527,
+    "wof:name":"Chung Shan Chop Suey",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.02745,
+    21.495268,
+    -158.02745,
+    21.495268
+],
+  "geometry": {"coordinates":[-158.02744999999999,21.495268],"type":"Point"}
+}

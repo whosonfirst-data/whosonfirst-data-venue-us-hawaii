@@ -1,0 +1,73 @@
+{
+  "id": 857555315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.952988,21.393082,-157.952988,21.393082",
+    "geom:latitude":21.393082,
+    "geom:longitude":-157.952988,
+    "iso:country":"US",
+    "sg:address":"1473 Kaahumanu St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 5454",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OEqNQ116OfNI1ekrKRHxh_21.393082_-157.952988@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203039,
+    "wof:geomhash":"5481306eb361b360b719c289a55480bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857555315
+        }
+    ],
+    "wof:id":857555315,
+    "wof:lastmodified":1464203039,
+    "wof:name":"Hawaii Auto Machine",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.952988,
+    21.393082,
+    -157.952988,
+    21.393082
+],
+  "geometry": {"coordinates":[-157.952988,21.393082],"type":"Point"}
+}

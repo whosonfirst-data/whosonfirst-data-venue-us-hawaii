@@ -1,0 +1,71 @@
+{
+  "id": 857660719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847572,21.308397,-157.847572,21.308397",
+    "geom:latitude":21.308397,
+    "geom:longitude":-157.847572,
+    "iso:country":"US",
+    "sg:address":"802 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 8412",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UBzcpOLsqhT4BzsCiS1KF_21.308397_-157.847572@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205941,
+    "wof:geomhash":"c1faa0e2cd270efbc073eee8b096dbdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857660719
+        }
+    ],
+    "wof:id":857660719,
+    "wof:lastmodified":1464205941,
+    "wof:name":"Embassy House",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.847572,
+    21.308397,
+    -157.847572,
+    21.308397
+],
+  "geometry": {"coordinates":[-157.84757200000001,21.308397],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857637667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882531,21.329583,-157.882531,21.329583",
+    "geom:latitude":21.329583,
+    "geom:longitude":-157.882531,
+    "iso:country":"US",
+    "sg:address":"1930 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 5396",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A6rZuHpBf2NACDSnZZ9uB_21.329583_-157.882531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204929,
+    "wof:geomhash":"1a1cf5c6aab603217802e234ddebdbc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857637667
+        }
+    ],
+    "wof:id":857637667,
+    "wof:lastmodified":1464204929,
+    "wof:name":"Saint-Germain Bakery",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.882531,
+    21.329583,
+    -157.882531,
+    21.329583
+],
+  "geometry": {"coordinates":[-157.882531,21.329583],"type":"Point"}
+}

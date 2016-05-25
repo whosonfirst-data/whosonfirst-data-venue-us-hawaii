@@ -1,0 +1,72 @@
+{
+  "id": 857644565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.744121,21.401728,-157.744121,21.401728",
+    "geom:latitude":21.401728,
+    "geom:longitude":-157.744121,
+    "iso:country":"US",
+    "sg:address":"333 Maluniu Ave",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 6420",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "sg:website":"www.hotspotshawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nTmeVQKRakJ1MpjjtrW6x_21.401728_-157.744121@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205220,
+    "wof:geomhash":"9f18a3118407cf2a988e4cde0020b836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857644565
+        }
+    ],
+    "wof:id":857644565,
+    "wof:lastmodified":1464205220,
+    "wof:name":"Hot Spots Hawaii",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -157.744121,
+    21.401728,
+    -157.744121,
+    21.401728
+],
+  "geometry": {"coordinates":[-157.74412100000001,21.401728],"type":"Point"}
+}

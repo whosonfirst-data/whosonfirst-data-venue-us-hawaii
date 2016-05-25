@@ -1,0 +1,71 @@
+{
+  "id": 857653013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881956,21.373255,-157.881956,21.373255",
+    "geom:latitude":21.373255,
+    "geom:longitude":-157.881956,
+    "iso:country":"US",
+    "sg:address":"1833 Ala Uahi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 7889",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZw4AF4hJCf54w7sOQj0G_21.373255_-157.881956@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205588,
+    "wof:geomhash":"5853045ba53b8f54f5c65e1430e6e9a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857653013
+        }
+    ],
+    "wof:id":857653013,
+    "wof:lastmodified":1464205588,
+    "wof:name":"Star Janitorial Service",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.881956,
+    21.373255,
+    -157.881956,
+    21.373255
+],
+  "geometry": {"coordinates":[-157.881956,21.373255],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857553325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008068,21.385347,-158.008068,21.385347",
+    "geom:latitude":21.385347,
+    "geom:longitude":-158.008068,
+    "iso:country":"US",
+    "sg:address":"837 Waipahu St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 5928",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zU4MYl0q73J1tJsjRT8e3_21.385347_-158.008068@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202995,
+    "wof:geomhash":"9589aad4a673245a7ff6e35f1cc3db22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857553325
+        }
+    ],
+    "wof:id":857553325,
+    "wof:lastmodified":1464202995,
+    "wof:name":"Leeward Oahu Rehab Svc",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -158.008068,
+    21.385347,
+    -158.008068,
+    21.385347
+],
+  "geometry": {"coordinates":[-158.00806800000001,21.385347],"type":"Point"}
+}

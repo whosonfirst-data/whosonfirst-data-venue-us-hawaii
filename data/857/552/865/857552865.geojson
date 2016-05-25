@@ -1,0 +1,71 @@
+{
+  "id": 857552865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878152,21.32141,-157.878152,21.32141",
+    "geom:latitude":21.32141,
+    "geom:longitude":-157.878152,
+    "iso:country":"US",
+    "sg:address":"1299 Hart St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7117",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cB5mcIRia6RZB3Xz5CNA5_21.321410_-157.878152@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202986,
+    "wof:geomhash":"cd36fe8451692979a67ed40fe712efb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857552865
+        }
+    ],
+    "wof:id":857552865,
+    "wof:lastmodified":1464202986,
+    "wof:name":"Paul's Service & Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.878152,
+    21.32141,
+    -157.878152,
+    21.32141
+],
+  "geometry": {"coordinates":[-157.878152,21.32141],"type":"Point"}
+}

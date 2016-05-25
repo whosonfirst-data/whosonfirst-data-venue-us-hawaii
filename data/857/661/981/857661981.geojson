@@ -1,0 +1,73 @@
+{
+  "id": 857661981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.716324,21.285892,-157.716324,21.285892",
+    "geom:latitude":21.285892,
+    "geom:longitude":-157.716324,
+    "iso:country":"US",
+    "sg:address":"6370 Hawaii Kai Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 8171",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TWNtYafGIaM2MC509Bj6q_21.285892_-157.716324@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206011,
+    "wof:geomhash":"a2562d0fa66f65df187c2ce99dbafe62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857661981
+        }
+    ],
+    "wof:id":857661981,
+    "wof:lastmodified":1464206011,
+    "wof:name":"Mooring The",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.716324,
+    21.285892,
+    -157.716324,
+    21.285892
+],
+  "geometry": {"coordinates":[-157.71632399999999,21.285892],"type":"Point"}
+}

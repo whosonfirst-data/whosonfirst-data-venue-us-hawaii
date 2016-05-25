@@ -1,0 +1,66 @@
+{
+  "id": 857633621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862738,21.305414,-157.862738,21.305414",
+    "geom:latitude":21.305414,
+    "geom:longitude":-157.862738,
+    "iso:country":"US",
+    "sg:address":"300 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 541 3502",
+    "sg:postcode":"96850",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gz8qMjbgl0nDlXf8UaZ1g_21.305414_-157.862738@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204779,
+    "wof:geomhash":"0fd6f48e8ec5566ab945ae4d68686fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857633621
+        }
+    ],
+    "wof:id":857633621,
+    "wof:lastmodified":1464204779,
+    "wof:name":"Honorable Helen Gillmor",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.862738,
+    21.305414,
+    -157.862738,
+    21.305414
+],
+  "geometry": {"coordinates":[-157.86273800000001,21.305414],"type":"Point"}
+}

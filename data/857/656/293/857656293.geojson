@@ -1,0 +1,71 @@
+{
+  "id": 857656293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888863,21.329831,-157.888863,21.329831",
+    "geom:latitude":21.329831,
+    "geom:longitude":-157.888863,
+    "iso:country":"US",
+    "sg:address":"2233 Alahao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 4747",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HwSfA17oP4B6qFxURkZH0_21.329831_-157.888863@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205737,
+    "wof:geomhash":"6ff12df9a5f6ee9921012c7d5f6abc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857656293
+        }
+    ],
+    "wof:id":857656293,
+    "wof:lastmodified":1464205737,
+    "wof:name":"Cart Care",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -157.888863,
+    21.329831,
+    -157.888863,
+    21.329831
+],
+  "geometry": {"coordinates":[-157.88886299999999,21.329831],"type":"Point"}
+}

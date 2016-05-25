@@ -1,0 +1,80 @@
+{
+  "id": 857564225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506099,20.891077,-156.506099,20.891077",
+    "geom:latitude":20.891077,
+    "geom:longitude":-156.506099,
+    "iso:country":"US",
+    "sg:address":"67 N Church St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 2227",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vo8kPyAR8f2VlKR17VkCo_20.891077_-156.506099@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"2ee15ff29a9f0b035d1ce919621dc614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857564225
+        }
+    ],
+    "wof:id":857564225,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Lynn C Fox & Associates",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -156.506099,
+    20.891077,
+    -156.506099,
+    20.891077
+],
+  "geometry": {"coordinates":[-156.50609900000001,20.891077],"type":"Point"}
+}

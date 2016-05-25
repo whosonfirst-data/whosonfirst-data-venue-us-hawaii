@@ -1,0 +1,69 @@
+{
+  "id": 857553439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.367755,21.980828,-159.367755,21.980828",
+    "geom:latitude":21.980828,
+    "geom:longitude":-159.367755,
+    "iso:country":"US",
+    "sg:address":"3171 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 9531",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vqcHiDyKrmlVaqh6tvMvT_21.980828_-159.367755@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202997,
+    "wof:geomhash":"1b8a0623405b6a2ae3934c5650209f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857553439
+        }
+    ],
+    "wof:id":857553439,
+    "wof:lastmodified":1464202997,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -159.367755,
+    21.980828,
+    -159.367755,
+    21.980828
+],
+  "geometry": {"coordinates":[-159.36775499999999,21.980828],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857681139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.00376,21.400108,-158.00376,21.400108",
+    "geom:latitude":21.400108,
+    "geom:longitude":-158.00376,
+    "iso:country":"US",
+    "sg:address":"94-825 Lumiaina St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/87346-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 8191",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rFkp9P43avlRk4UmKncS5_21.400108_-158.003760@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"4b4c4ccf902b49bd4b324a6f0390fc15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857681139
+        }
+    ],
+    "wof:id":857681139,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -158.00376,
+    21.400108,
+    -158.00376,
+    21.400108
+],
+  "geometry": {"coordinates":[-158.00376,21.400108],"type":"Point"}
+}

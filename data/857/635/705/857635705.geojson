@@ -1,0 +1,73 @@
+{
+  "id": 857635705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851752,21.30596,-157.851752,21.30596",
+    "geom:latitude":21.30596,
+    "geom:longitude":-157.851752,
+    "iso:country":"US",
+    "sg:address":"1301 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6654",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20z9vXLE8UijTxlOB0eM4K_21.305960_-157.851752@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204858,
+    "wof:geomhash":"b2340068c8b65c19c63c1ecd4ba5354c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857635705
+        }
+    ],
+    "wof:id":857635705,
+    "wof:lastmodified":1464204858,
+    "wof:name":"Alapai Apartments",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.851752,
+    21.30596,
+    -157.851752,
+    21.30596
+],
+  "geometry": {"coordinates":[-157.851752,21.30596],"type":"Point"}
+}

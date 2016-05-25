@@ -1,0 +1,75 @@
+{
+  "id": 857680095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853991,21.33308,-157.853991,21.33308",
+    "geom:latitude":21.33308,
+    "geom:longitude":-157.853991,
+    "iso:country":"US",
+    "sg:address":"1038 Alewa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 7213",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cOBDbKhglXs3ZX2u6sL4E_21.333080_-157.853991@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206732,
+    "wof:geomhash":"35f4f0a54ebc1f676ac7dca29e710f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857680095
+        }
+    ],
+    "wof:id":857680095,
+    "wof:lastmodified":1464206732,
+    "wof:name":"Maeda Electrical Service Inc",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.853991,
+    21.33308,
+    -157.853991,
+    21.33308
+],
+  "geometry": {"coordinates":[-157.85399100000001,21.33308],"type":"Point"}
+}

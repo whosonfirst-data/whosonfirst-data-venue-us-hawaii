@@ -1,0 +1,66 @@
+{
+  "id": 857534439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838018,21.457193,-157.838018,21.457193",
+    "geom:latitude":21.457193,
+    "geom:longitude":-157.838018,
+    "iso:country":"US",
+    "sg:address":"515 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 9983",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7789buoPTa4aaGkUER1xkY_21.457193_-157.838018@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202628,
+    "wof:geomhash":"168818cb4c0eae1b5915c955550117ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857534439
+        }
+    ],
+    "wof:id":857534439,
+    "wof:lastmodified":1464202628,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.838018,
+    21.457193,
+    -157.838018,
+    21.457193
+],
+  "geometry": {"coordinates":[-157.83801800000001,21.457193],"type":"Point"}
+}

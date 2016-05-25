@@ -1,0 +1,75 @@
+{
+  "id": 857536061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.671368,20.865044,-156.671368,20.865044",
+    "geom:latitude":20.865044,
+    "geom:longitude":-156.671368,
+    "iso:country":"US",
+    "sg:address":"90 Kahila Pl",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 6177",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rbxJCNWUL3h9z0iFO18Dr_20.865044_-156.671368@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202664,
+    "wof:geomhash":"f3cecc06d79c918007bc08e8079c2a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890533,
+            "region_id":85688671,
+            "venue_id":857536061
+        }
+    ],
+    "wof:id":857536061,
+    "wof:lastmodified":1464202664,
+    "wof:name":"Killett Enterprise",
+    "wof:parent_id":85890533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -156.671368,
+    20.865044,
+    -156.671368,
+    20.865044
+],
+  "geometry": {"coordinates":[-156.671368,20.865044],"type":"Point"}
+}

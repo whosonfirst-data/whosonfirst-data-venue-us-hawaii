@@ -1,0 +1,71 @@
+{
+  "id": 857654835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.764877,21.293379,-157.764877,21.293379",
+    "geom:latitude":21.293379,
+    "geom:longitude":-157.764877,
+    "iso:country":"US",
+    "sg:address":"2112 Hakanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 983 8559",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l0q6F0z4f1POPhoYjQXg9_21.293379_-157.764877@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205673,
+    "wof:geomhash":"0ff63e6e2e3749b33475d7b9636f5fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857654835
+        }
+    ],
+    "wof:id":857654835,
+    "wof:lastmodified":1464205673,
+    "wof:name":"Greigh Hirata MD",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.764877,
+    21.293379,
+    -157.764877,
+    21.293379
+],
+  "geometry": {"coordinates":[-157.76487700000001,21.293379],"type":"Point"}
+}

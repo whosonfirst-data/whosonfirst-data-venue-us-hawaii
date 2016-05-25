@@ -1,0 +1,73 @@
+{
+  "id": 857658799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809669,21.310032,-157.809669,21.310032",
+    "geom:latitude":21.310032,
+    "geom:longitude":-157.809669,
+    "iso:country":"US",
+    "sg:address":"2851 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 9973",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lF1ruMFTXKaktRW1cxv5B_21.310032_-157.809669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205855,
+    "wof:geomhash":"55401dc79e37371dc4989c285b868123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857658799
+        }
+    ],
+    "wof:id":857658799,
+    "wof:lastmodified":1464205855,
+    "wof:name":"Hawaii Yamaha Music School Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.809669,
+    21.310032,
+    -157.809669,
+    21.310032
+],
+  "geometry": {"coordinates":[-157.80966900000001,21.310032],"type":"Point"}
+}

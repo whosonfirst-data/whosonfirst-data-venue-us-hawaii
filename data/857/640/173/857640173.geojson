@@ -1,0 +1,73 @@
+{
+  "id": 857640173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.78452,21.279596,-157.78452,21.279596",
+    "geom:latitude":21.279596,
+    "geom:longitude":-157.78452,
+    "iso:country":"US",
+    "sg:address":"4848 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2535",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p38kvjhEnWuqkMNOnAjLD_21.279596_-157.784520@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205025,
+    "wof:geomhash":"64c4db7b12e1c5ba8904dfe6bbdfd489",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857640173
+        }
+    ],
+    "wof:id":857640173,
+    "wof:lastmodified":1464205025,
+    "wof:name":"JMJ String Studio",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.78452,
+    21.279596,
+    -157.78452,
+    21.279596
+],
+  "geometry": {"coordinates":[-157.78451999999999,21.279596],"type":"Point"}
+}

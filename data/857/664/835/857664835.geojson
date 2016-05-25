@@ -1,0 +1,73 @@
+{
+  "id": 857664835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.142761,19.685161,-155.142761,19.685161",
+    "geom:latitude":19.685161,
+    "geom:longitude":-155.142761,
+    "iso:country":"US",
+    "sg:address":"139 Amau Rd",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 2104",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D2tgzT25ruJUtAg4V6YY3_19.685161_-155.142761@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206116,
+    "wof:geomhash":"a034a87004bc72dced33992793201f5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890243,
+            "region_id":85688671,
+            "venue_id":857664835
+        }
+    ],
+    "wof:id":857664835,
+    "wof:lastmodified":1464206116,
+    "wof:name":"ARC Of Hilo",
+    "wof:parent_id":85890243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -155.142761,
+    19.685161,
+    -155.142761,
+    19.685161
+],
+  "geometry": {"coordinates":[-155.14276100000001,19.685161],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857632899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.817295,21.30728,-157.817295,21.30728",
+    "geom:latitude":21.30728,
+    "geom:longitude":-157.817295,
+    "iso:country":"US",
+    "sg:address":"2426 Oahu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6266",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XB276V21eAcL5lzsIso0Z_21.307280_-157.817295@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204752,
+    "wof:geomhash":"223e4e357be4c6db59ae3a136a3406a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857632899
+        }
+    ],
+    "wof:id":857632899,
+    "wof:lastmodified":1464204752,
+    "wof:name":"American Friends Svc Committee",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -157.817295,
+    21.30728,
+    -157.817295,
+    21.30728
+],
+  "geometry": {"coordinates":[-157.817295,21.30728],"type":"Point"}
+}

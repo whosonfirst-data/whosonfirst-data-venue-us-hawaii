@@ -1,0 +1,78 @@
+{
+  "id": 857681219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865189,21.307285,-157.865189,21.307285",
+    "geom:latitude":21.307285,
+    "geom:longitude":-157.865189,
+    "iso:country":"US",
+    "sg:address":"1 Aloha Tower Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3342-chais-island-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 0011",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pC3wNz8pVoP6cbV8GoK07_21.307285_-157.865189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206775,
+    "wof:geomhash":"19d02c37d5dcafecd159a510cfff10ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857681219
+        }
+    ],
+    "wof:id":857681219,
+    "wof:lastmodified":1464206775,
+    "wof:name":"Chai's Island Bistro",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.865189,
+    21.307285,
+    -157.865189,
+    21.307285
+],
+  "geometry": {"coordinates":[-157.86518899999999,21.307285],"type":"Point"}
+}

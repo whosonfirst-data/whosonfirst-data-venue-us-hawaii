@@ -1,0 +1,77 @@
+{
+  "id": 857592745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838089,21.305512,-157.838089,21.305512",
+    "geom:latitude":21.305512,
+    "geom:longitude":-157.838089,
+    "iso:country":"US",
+    "sg:address":"1249 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 2685",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79UdLTWd8uzs1qSMXJBoBC_21.305512_-157.838089@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203822,
+    "wof:geomhash":"439cacc4f46f8ea5f7b84de434841501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857592745
+        }
+    ],
+    "wof:id":857592745,
+    "wof:lastmodified":1464203822,
+    "wof:name":"Alpha Video",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.838089,
+    21.305512,
+    -157.838089,
+    21.305512
+],
+  "geometry": {"coordinates":[-157.838089,21.305512],"type":"Point"}
+}

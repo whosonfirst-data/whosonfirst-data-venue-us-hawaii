@@ -1,0 +1,73 @@
+{
+  "id": 857515721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.912916,21.344936,-157.912916,21.344936",
+    "geom:latitude":21.344936,
+    "geom:longitude":-157.912916,
+    "iso:country":"US",
+    "sg:address":"845 Ala Lilikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 3566",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p6AMozgiGzadRhYX23SNM_21.344936_-157.912916@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202266,
+    "wof:geomhash":"7e29728ed5cf9b95404b711f366f5ba6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857515721
+        }
+    ],
+    "wof:id":857515721,
+    "wof:lastmodified":1464202266,
+    "wof:name":"Aloha State Cab Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -157.912916,
+    21.344936,
+    -157.912916,
+    21.344936
+],
+  "geometry": {"coordinates":[-157.912916,21.344936],"type":"Point"}
+}

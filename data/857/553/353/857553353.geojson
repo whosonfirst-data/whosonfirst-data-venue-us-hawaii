@@ -1,0 +1,68 @@
+{
+  "id": 857553353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.063776,19.702955,-155.063776,19.702955",
+    "geom:latitude":19.702955,
+    "geom:longitude":-155.063776,
+    "iso:country":"US",
+    "sg:address":"50 Pohaku St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 933 3060",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40j4Ovb94wklJDu8N3rMab_19.702955_-155.063776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202996,
+    "wof:geomhash":"9d8eae19b2f3bba014e9b960e93c60f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857553353
+        }
+    ],
+    "wof:id":857553353,
+    "wof:lastmodified":1464202996,
+    "wof:name":"Sears Service Center",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.063776,
+    19.702955,
+    -155.063776,
+    19.702955
+],
+  "geometry": {"coordinates":[-155.06377599999999,19.702955],"type":"Point"}
+}

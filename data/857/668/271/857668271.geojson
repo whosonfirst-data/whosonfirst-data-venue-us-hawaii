@@ -1,0 +1,73 @@
+{
+  "id": 857668271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830227,21.283015,-157.830227,21.283015",
+    "geom:latitude":21.283015,
+    "geom:longitude":-157.830227,
+    "iso:country":"US",
+    "sg:address":"2118 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 8047",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04KJ2hBHxS8eiPa7HX0yKL_21.283015_-157.830227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206267,
+    "wof:geomhash":"de66d1e0bb42ad325987ea8624fffb82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857668271
+        }
+    ],
+    "wof:id":857668271,
+    "wof:lastmodified":1464206267,
+    "wof:name":"Kurita Tours",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.830227,
+    21.283015,
+    -157.830227,
+    21.283015
+],
+  "geometry": {"coordinates":[-157.83022700000001,21.283015],"type":"Point"}
+}

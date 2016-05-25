@@ -1,0 +1,73 @@
+{
+  "id": 857576327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.103273,21.309404,-158.103273,21.309404",
+    "geom:latitude":21.309404,
+    "geom:longitude":-158.103273,
+    "iso:country":"US",
+    "sg:address":"302 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 4680",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "scaffold",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lmRT7m9V5DpaSMEznKzAo_21.309404_-158.103273@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203477,
+    "wof:geomhash":"8af6850bf7bfa56d11ca645b1802b45f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857576327
+        }
+    ],
+    "wof:id":857576327,
+    "wof:lastmodified":1464203477,
+    "wof:name":"Atlas Sales Company Inc",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffold",
+        "rent"
+    ]
+},
+  "bbox": [
+    -158.103273,
+    21.309404,
+    -158.103273,
+    21.309404
+],
+  "geometry": {"coordinates":[-158.103273,21.309404],"type":"Point"}
+}

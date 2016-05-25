@@ -1,0 +1,71 @@
+{
+  "id": 857679841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878351,21.332134,-157.878351,21.332134",
+    "geom:latitude":21.332134,
+    "geom:longitude":-157.878351,
+    "iso:country":"US",
+    "sg:address":"1955 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4438",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rgs5NXUStj5rhSreM4iLy_21.332134_-157.878351@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206724,
+    "wof:geomhash":"2f901b65232de26c265088d01a6a1589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857679841
+        }
+    ],
+    "wof:id":857679841,
+    "wof:lastmodified":1464206724,
+    "wof:name":"Quality Transmission",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -157.878351,
+    21.332134,
+    -157.878351,
+    21.332134
+],
+  "geometry": {"coordinates":[-157.87835100000001,21.332134],"type":"Point"}
+}

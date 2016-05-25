@@ -1,0 +1,78 @@
+{
+  "id": 857554719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898662,21.335721,-157.898662,21.335721",
+    "geom:latitude":21.335721,
+    "geom:longitude":-157.898662,
+    "iso:country":"US",
+    "sg:address":"2722 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 0977",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.uhaul.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uvGo2gUjdQSAhjl76EsJ8_21.335721_-157.898662@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203022,
+    "wof:geomhash":"a0608a8ea40e7ebe8a8999f16e0c55af",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857554719
+        }
+    ],
+    "wof:id":857554719,
+    "wof:lastmodified":1464203022,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.898662,
+    21.335721,
+    -157.898662,
+    21.335721
+],
+  "geometry": {"coordinates":[-157.898662,21.335721],"type":"Point"}
+}

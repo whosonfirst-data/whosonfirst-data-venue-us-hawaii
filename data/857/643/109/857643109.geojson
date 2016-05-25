@@ -1,0 +1,73 @@
+{
+  "id": 857643109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.707942,21.338613,-157.707942,21.338613",
+    "geom:latitude":21.338613,
+    "geom:longitude":-157.707942,
+    "iso:country":"US",
+    "sg:address":"208 Hihimanu St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 330 6664",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "excavation",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62DBi0AcMhoFs0sVK31DaM_21.338613_-157.707942@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205150,
+    "wof:geomhash":"cfcb9221ab26b34298f62924b2a052de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857643109
+        }
+    ],
+    "wof:id":857643109,
+    "wof:lastmodified":1464205150,
+    "wof:name":"Keeno Farms",
+    "wof:parent_id":85854139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "work"
+    ]
+},
+  "bbox": [
+    -157.707942,
+    21.338613,
+    -157.707942,
+    21.338613
+],
+  "geometry": {"coordinates":[-157.707942,21.338613],"type":"Point"}
+}

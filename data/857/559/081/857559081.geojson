@@ -1,0 +1,75 @@
+{
+  "id": 857559081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.036646,21.493106,-158.036646,21.493106",
+    "geom:latitude":21.493106,
+    "geom:longitude":-158.036646,
+    "iso:country":"US",
+    "sg:address":"127 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 5241",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yrReGeKZ5kSm1MppSXPlz_21.493106_-158.036646@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203130,
+    "wof:geomhash":"2ccc6fdcbde115c719170f13ef0a3067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857559081
+        }
+    ],
+    "wof:id":857559081,
+    "wof:lastmodified":1464203130,
+    "wof:name":"Road Maintenance Div",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -158.036646,
+    21.493106,
+    -158.036646,
+    21.493106
+],
+  "geometry": {"coordinates":[-158.03664599999999,21.493106],"type":"Point"}
+}

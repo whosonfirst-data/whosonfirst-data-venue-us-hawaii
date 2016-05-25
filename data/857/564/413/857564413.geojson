@@ -1,0 +1,74 @@
+{
+  "id": 857564413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859028,21.295555,-157.859028,21.295555",
+    "geom:latitude":21.295555,
+    "geom:longitude":-157.859028,
+    "iso:country":"US",
+    "sg:address":"800 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 564 9100",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.cuttercars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19k70V2VXm4QOPf46uNWGj_21.295555_-157.859028@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203245,
+    "wof:geomhash":"4adcd0528198f2880a71e7262a43187d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857564413
+        }
+    ],
+    "wof:id":857564413,
+    "wof:lastmodified":1464203245,
+    "wof:name":"Cutter Motor Cars",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.859028,
+    21.295555,
+    -157.859028,
+    21.295555
+],
+  "geometry": {"coordinates":[-157.859028,21.295555],"type":"Point"}
+}

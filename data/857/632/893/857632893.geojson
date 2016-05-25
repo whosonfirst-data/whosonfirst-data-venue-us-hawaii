@@ -1,0 +1,73 @@
+{
+  "id": 857632893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785628,21.309545,-157.785628,21.309545",
+    "geom:latitude":21.309545,
+    "geom:longitude":-157.785628,
+    "iso:country":"US",
+    "sg:address":"2505 Lai Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 738 0084",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ISDuwMcyPXjDKCDJcepbq_21.309545_-157.785628@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204752,
+    "wof:geomhash":"3621b810bb50556aae1373fa8391ed91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857632893
+        }
+    ],
+    "wof:id":857632893,
+    "wof:lastmodified":1464204752,
+    "wof:name":"Ahupua's Action Alliance",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -157.785628,
+    21.309545,
+    -157.785628,
+    21.309545
+],
+  "geometry": {"coordinates":[-157.785628,21.309545],"type":"Point"}
+}

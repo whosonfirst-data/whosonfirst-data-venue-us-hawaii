@@ -1,0 +1,78 @@
+{
+  "id": 857579451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907843,21.34526,-157.907843,21.34526",
+    "geom:latitude":21.34526,
+    "geom:longitude":-157.907843,
+    "iso:country":"US",
+    "sg:address":"3030 Ala Ilima St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 0513",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J37hKru4XsyGD16BgMEno_21.345260_-157.907843@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203543,
+    "wof:geomhash":"f751c7f5aa30a36a7ae41f026590e03a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857579451
+        }
+    ],
+    "wof:id":857579451,
+    "wof:lastmodified":1464203543,
+    "wof:name":"Lakeside Manor Association",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.907843,
+    21.34526,
+    -157.907843,
+    21.34526
+],
+  "geometry": {"coordinates":[-157.90784300000001,21.34526],"type":"Point"}
+}

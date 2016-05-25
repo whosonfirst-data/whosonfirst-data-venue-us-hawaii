@@ -1,0 +1,71 @@
+{
+  "id": 857610295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.766817,21.360309,-157.766817,21.360309",
+    "geom:latitude":21.360309,
+    "geom:longitude":-157.766817,
+    "iso:country":"US",
+    "sg:address":"1248 Aloha Oe Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 4434",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "anesthesiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vBJGO0a4dO2Xa4qYhAgot_21.360309_-157.766817@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204215,
+    "wof:geomhash":"b894160a3c5d711a541c7a170d784bb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857610295
+        }
+    ],
+    "wof:id":857610295,
+    "wof:lastmodified":1464204215,
+    "wof:name":"Island Anesthesia Inc",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "anesthesiologist"
+    ]
+},
+  "bbox": [
+    -157.766817,
+    21.360309,
+    -157.766817,
+    21.360309
+],
+  "geometry": {"coordinates":[-157.766817,21.360309],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857576463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858603,21.313289,-157.858603,21.313289",
+    "geom:latitude":21.313289,
+    "geom:longitude":-157.858603,
+    "iso:country":"US",
+    "sg:address":"86 S Kukui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 4758",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K5Jg9VYRGNcebn9fA0sxQ_21.313289_-157.858603@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203479,
+    "wof:geomhash":"d2326b0f9534a6c78785d1dca3897dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857576463
+        }
+    ],
+    "wof:id":857576463,
+    "wof:lastmodified":1464203479,
+    "wof:name":"Short Cuts",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.858603,
+    21.313289,
+    -157.858603,
+    21.313289
+],
+  "geometry": {"coordinates":[-157.85860299999999,21.313289],"type":"Point"}
+}

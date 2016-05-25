@@ -1,0 +1,69 @@
+{
+  "id": 857524551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.70818,20.026322,-155.70818,20.026322",
+    "geom:latitude":20.026322,
+    "geom:longitude":-155.70818,
+    "iso:country":"US",
+    "sg:address":"1776 Kumulani St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 3534",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890367,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bJ9YANCz4IZrwlYQd4IvI_20.026322_-155.708180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202440,
+    "wof:geomhash":"2d9a67f1793ae445fcf0a72543af2e1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890367,
+            "region_id":85688671,
+            "venue_id":857524551
+        }
+    ],
+    "wof:id":857524551,
+    "wof:lastmodified":1464202440,
+    "wof:name":"Big Island Tents",
+    "wof:parent_id":85890367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camping"
+    ]
+},
+  "bbox": [
+    -155.70818,
+    20.026322,
+    -155.70818,
+    20.026322
+],
+  "geometry": {"coordinates":[-155.70818,20.026322],"type":"Point"}
+}

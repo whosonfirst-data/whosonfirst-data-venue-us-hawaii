@@ -1,0 +1,71 @@
+{
+  "id": 857528273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85522,21.333123,-157.85522,21.333123",
+    "geom:latitude":21.333123,
+    "geom:longitude":-157.85522,
+    "iso:country":"US",
+    "sg:address":"1096 Alewa Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 590 2111",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k5WzWw3g6rCyzQUfMTP5c_21.333123_-157.855220@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202510,
+    "wof:geomhash":"06d1a1c39431cccf820ddbbc862f19bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857528273
+        }
+    ],
+    "wof:id":857528273,
+    "wof:lastmodified":1464202510,
+    "wof:name":"Mitchell 1-Automotive",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.85522,
+    21.333123,
+    -157.85522,
+    21.333123
+],
+  "geometry": {"coordinates":[-157.85522,21.333123],"type":"Point"}
+}

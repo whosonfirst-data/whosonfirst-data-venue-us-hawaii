@@ -1,0 +1,73 @@
+{
+  "id": 857526447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803723,21.300243,-157.803723,21.300243",
+    "geom:latitude":21.300243,
+    "geom:longitude":-157.803723,
+    "iso:country":"US",
+    "sg:address":"1723 Bertram St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 5880",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dHHIeGEo7THctWiNp9Ngc_21.300243_-157.803723@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202476,
+    "wof:geomhash":"bafd11bb47563813faedf5c0db54328f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857526447
+        }
+    ],
+    "wof:id":857526447,
+    "wof:lastmodified":1464202476,
+    "wof:name":"A-Shima's Driving School",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -157.803723,
+    21.300243,
+    -157.803723,
+    21.300243
+],
+  "geometry": {"coordinates":[-157.80372299999999,21.300243],"type":"Point"}
+}

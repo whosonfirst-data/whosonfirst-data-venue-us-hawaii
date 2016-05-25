@@ -1,0 +1,73 @@
+{
+  "id": 857667331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.985534,21.395701,-157.985534,21.395701",
+    "geom:latitude":21.395701,
+    "geom:longitude":-157.985534,
+    "iso:country":"US",
+    "sg:address":"50 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1399",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YsBD8vchN0ox1DPQlNVxU_21.395701_-157.985534@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206236,
+    "wof:geomhash":"d49a916178245487739b1ecc7bded5c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857667331
+        }
+    ],
+    "wof:id":857667331,
+    "wof:lastmodified":1464206236,
+    "wof:name":"GNC",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -157.985534,
+    21.395701,
+    -157.985534,
+    21.395701
+],
+  "geometry": {"coordinates":[-157.985534,21.395701],"type":"Point"}
+}

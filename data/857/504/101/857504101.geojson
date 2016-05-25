@@ -1,0 +1,71 @@
+{
+  "id": 857504101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826348,21.279655,-157.826348,21.279655",
+    "geom:latitude":21.279655,
+    "geom:longitude":-157.826348,
+    "iso:country":"US",
+    "sg:address":"2266 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 8348",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SGeOf6dN0IKUoZqTZzwOH_21.279655_-157.826348@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202009,
+    "wof:geomhash":"bb62a17ae4a14d08d6ea1ac57c9b3568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857504101
+        }
+    ],
+    "wof:id":857504101,
+    "wof:lastmodified":1464202009,
+    "wof:name":"Main Ink Corp",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.826348,
+    21.279655,
+    -157.826348,
+    21.279655
+],
+  "geometry": {"coordinates":[-157.826348,21.279655],"type":"Point"}
+}

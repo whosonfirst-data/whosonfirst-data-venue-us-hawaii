@@ -1,0 +1,73 @@
+{
+  "id": 857641119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.039399,19.622491,-155.039399,19.622491",
+    "geom:latitude":19.622491,
+    "geom:longitude":-155.039399,
+    "iso:country":"US",
+    "sg:address":"577 Old Volcano Rd",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 7222",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_370xqLjazgsOgycspu2Z2O_19.622491_-155.039399@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205066,
+    "wof:geomhash":"7537c30aae968d7a8c693257f1175830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857641119
+        }
+    ],
+    "wof:id":857641119,
+    "wof:lastmodified":1464205066,
+    "wof:name":"Keaau Filipino Food Store",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -155.039399,
+    19.622491,
+    -155.039399,
+    19.622491
+],
+  "geometry": {"coordinates":[-155.039399,19.622491],"type":"Point"}
+}

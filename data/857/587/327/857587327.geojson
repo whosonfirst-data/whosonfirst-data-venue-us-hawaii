@@ -1,0 +1,75 @@
+{
+  "id": 857587327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.928497,21.355264,-157.928497,21.355264",
+    "geom:latitude":21.355264,
+    "geom:longitude":-157.928497,
+    "iso:country":"US",
+    "sg:address":"4380 Lawehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 4488",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G3VII6K8zDO5xZq0xhB2T_21.355264_-157.928497@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203700,
+    "wof:geomhash":"8b623ebb552d877f0b7a2e763a0b7fee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857587327
+        }
+    ],
+    "wof:id":857587327,
+    "wof:lastmodified":1464203700,
+    "wof:name":"One Fas Lube",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.928497,
+    21.355264,
+    -157.928497,
+    21.355264
+],
+  "geometry": {"coordinates":[-157.92849699999999,21.355264],"type":"Point"}
+}

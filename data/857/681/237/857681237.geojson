@@ -1,0 +1,74 @@
+{
+  "id": 857681237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861087,21.309953,-157.861087,21.309953",
+    "geom:latitude":21.309953,
+    "geom:longitude":-157.861087,
+    "iso:country":"US",
+    "sg:address":"1104 Fort Street Mall",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/217497-bad-ass-coffee-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 0888",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YPKLCsi5oyBLfCMi9m6uX_21.309953_-157.861087@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206776,
+    "wof:geomhash":"fb5faed4b853b593757acbd3e4ac7107",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857681237
+        }
+    ],
+    "wof:id":857681237,
+    "wof:lastmodified":1464206776,
+    "wof:name":"Bad Ass Coffee Company",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -157.861087,
+    21.309953,
+    -157.861087,
+    21.309953
+],
+  "geometry": {"coordinates":[-157.861087,21.309953],"type":"Point"}
+}

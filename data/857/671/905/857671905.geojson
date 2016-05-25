@@ -1,0 +1,71 @@
+{
+  "id": 857671905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82739,21.288653,-157.82739,21.288653",
+    "geom:latitude":21.288653,
+    "geom:longitude":-157.82739,
+    "iso:country":"US",
+    "sg:address":"748 Isenberg St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 4433",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JR7zXzVMHZmiNAP2XkRW5_21.288653_-157.827390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206407,
+    "wof:geomhash":"0a4595f1470d6316f25b678797ea6b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857671905
+        }
+    ],
+    "wof:id":857671905,
+    "wof:lastmodified":1464206407,
+    "wof:name":"Computer Services",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.82739,
+    21.288653,
+    -157.82739,
+    21.288653
+],
+  "geometry": {"coordinates":[-157.82739000000001,21.288653],"type":"Point"}
+}

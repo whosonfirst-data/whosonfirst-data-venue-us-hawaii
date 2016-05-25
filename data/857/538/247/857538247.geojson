@@ -1,0 +1,71 @@
+{
+  "id": 857538247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85064,21.296674,-157.85064,21.296674",
+    "geom:latitude":21.296674,
+    "geom:longitude":-157.85064,
+    "iso:country":"US",
+    "sg:address":"1065 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 9081",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mkzwvV0kCkYwsoE5aqmR0_21.296674_-157.850640@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202702,
+    "wof:geomhash":"ca4c31d6df1d10fcbfd071c9efc6f083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857538247
+        }
+    ],
+    "wof:id":857538247,
+    "wof:lastmodified":1464202702,
+    "wof:name":"Et Service Inc",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.85064,
+    21.296674,
+    -157.85064,
+    21.296674
+],
+  "geometry": {"coordinates":[-157.85064,21.296674],"type":"Point"}
+}

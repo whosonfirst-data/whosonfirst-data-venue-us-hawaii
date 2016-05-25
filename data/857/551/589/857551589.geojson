@@ -1,0 +1,71 @@
+{
+  "id": 857551589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813439,21.303894,-157.813439,21.303894",
+    "geom:latitude":21.303894,
+    "geom:longitude":-157.813439,
+    "iso:country":"US",
+    "sg:address":"2002 E West Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 7922",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09UX2ximRq01xNAg13HFCj_21.303894_-157.813439@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202963,
+    "wof:geomhash":"ced9c570e1d204031c5cb15b95810b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857551589
+        }
+    ],
+    "wof:id":857551589,
+    "wof:lastmodified":1464202963,
+    "wof:name":"Facilities Management",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -157.813439,
+    21.303894,
+    -157.813439,
+    21.303894
+],
+  "geometry": {"coordinates":[-157.81343899999999,21.303894],"type":"Point"}
+}

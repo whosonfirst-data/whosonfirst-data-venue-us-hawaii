@@ -1,0 +1,71 @@
+{
+  "id": 857580267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788561,21.306728,-157.788561,21.306728",
+    "geom:latitude":21.306728,
+    "geom:longitude":-157.788561,
+    "iso:country":"US",
+    "sg:address":"2552 Palolo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 322 1434",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sQA1lRwRp10LyBlKAMl1G_21.306728_-157.788561@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203558,
+    "wof:geomhash":"5b02cc3fde79b431eccf87aa2d591ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890275,
+            "region_id":85688671,
+            "venue_id":857580267
+        }
+    ],
+    "wof:id":857580267,
+    "wof:lastmodified":1464203558,
+    "wof:name":"Edwards At Kanaloa",
+    "wof:parent_id":85890275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.788561,
+    21.306728,
+    -157.788561,
+    21.306728
+],
+  "geometry": {"coordinates":[-157.78856099999999,21.306728],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857588083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.501445,20.892411,-156.501445,20.892411",
+    "geom:latitude":20.892411,
+    "geom:longitude":-156.501445,
+    "iso:country":"US",
+    "sg:address":"1803 Nani St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 5803",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cb2gdziJssZILD3VRDJrj_20.892411_-156.501445@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203716,
+    "wof:geomhash":"d9df17372ea108074fcd35152f9e306a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857588083
+        }
+    ],
+    "wof:id":857588083,
+    "wof:lastmodified":1464203716,
+    "wof:name":"Christian Ministry Church",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -156.501445,
+    20.892411,
+    -156.501445,
+    20.892411
+],
+  "geometry": {"coordinates":[-156.50144499999999,20.892411],"type":"Point"}
+}

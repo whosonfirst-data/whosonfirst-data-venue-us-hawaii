@@ -1,0 +1,76 @@
+{
+  "id": 857596891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.949267,21.40667,-157.949267,21.40667",
+    "geom:latitude":21.40667,
+    "geom:longitude":-157.949267,
+    "iso:country":"US",
+    "sg:address":"1856 Kaahumanu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 3020",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FenCtrfzQcFAwOJkaV9Re_21.406670_-157.949267@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203921,
+    "wof:geomhash":"6c8e58df18890aa18113a1ba4fe7d733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890705,
+            "region_id":85688671,
+            "venue_id":857596891
+        }
+    ],
+    "wof:id":857596891,
+    "wof:lastmodified":1464203921,
+    "wof:name":"Wailuna Recreation Association",
+    "wof:parent_id":85890705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -157.949267,
+    21.40667,
+    -157.949267,
+    21.40667
+],
+  "geometry": {"coordinates":[-157.94926699999999,21.40667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857520655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914555,21.613574,-157.914555,21.613574",
+    "geom:latitude":21.613574,
+    "geom:longitude":-157.914555,
+    "iso:country":"US",
+    "sg:address":"62 Waikulama St",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 9822",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m9ao7dEdY1lGbsBZ7yrfm_21.613574_-157.914555@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202365,
+    "wof:geomhash":"9c64579c9a52d730b175c794ed73652b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857520655
+        }
+    ],
+    "wof:id":857520655,
+    "wof:lastmodified":1464202365,
+    "wof:name":"Coastline Services",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.914555,
+    21.613574,
+    -157.914555,
+    21.613574
+],
+  "geometry": {"coordinates":[-157.91455500000001,21.613574],"type":"Point"}
+}

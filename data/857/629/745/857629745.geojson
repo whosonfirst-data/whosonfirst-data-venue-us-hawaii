@@ -1,0 +1,73 @@
+{
+  "id": 857629745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.682263,20.896725,-156.682263,20.896725",
+    "geom:latitude":20.896725,
+    "geom:longitude":-156.682263,
+    "iso:country":"US",
+    "sg:address":"1575 Kuuipo St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 9256",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Pi2fv5P4UCKVexZEpV1D_20.896725_-156.682263@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204655,
+    "wof:geomhash":"0c6da9bc2bc2a2f222ef196d6bbac30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857629745
+        }
+    ],
+    "wof:id":857629745,
+    "wof:lastmodified":1464204655,
+    "wof:name":"James G Ward Building Contr",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.682263,
+    20.896725,
+    -156.682263,
+    20.896725
+],
+  "geometry": {"coordinates":[-156.68226300000001,20.896725],"type":"Point"}
+}

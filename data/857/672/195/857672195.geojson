@@ -1,0 +1,73 @@
+{
+  "id": 857672195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865208,21.319174,-157.865208,21.319174",
+    "geom:latitude":21.319174,
+    "geom:longitude":-157.865208,
+    "iso:country":"US",
+    "sg:address":"555 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6441",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "group",
+        "karaoke"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zbPYEOOP2BdHoijZV7PdY_21.319174_-157.865208@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206417,
+    "wof:geomhash":"2e0d30f552e387fb4b2ec4aef5556f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857672195
+        }
+    ],
+    "wof:id":857672195,
+    "wof:lastmodified":1464206417,
+    "wof:name":"Karaoke World 2",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "karaoke"
+    ]
+},
+  "bbox": [
+    -157.865208,
+    21.319174,
+    -157.865208,
+    21.319174
+],
+  "geometry": {"coordinates":[-157.865208,21.319174],"type":"Point"}
+}

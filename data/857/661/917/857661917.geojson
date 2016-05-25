@@ -1,0 +1,71 @@
+{
+  "id": 857661917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.316015,20.875248,-156.316015,20.875248",
+    "geom:latitude":20.875248,
+    "geom:longitude":-156.316015,
+    "iso:country":"US",
+    "sg:address":"979 Kokomo Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 7300",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DsxyO4BeuyG3Q3FtWzcfx_20.875248_-156.316015@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206009,
+    "wof:geomhash":"8219e92606ac22437089b87ddded7c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857661917
+        }
+    ],
+    "wof:id":857661917,
+    "wof:lastmodified":1464206009,
+    "wof:name":"North Shore Fire Protection",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.316015,
+    20.875248,
+    -156.316015,
+    20.875248
+],
+  "geometry": {"coordinates":[-156.31601499999999,20.875248],"type":"Point"}
+}

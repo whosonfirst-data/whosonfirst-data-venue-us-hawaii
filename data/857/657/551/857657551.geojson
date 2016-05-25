@@ -1,0 +1,73 @@
+{
+  "id": 857657551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916606,21.361709,-157.916606,21.361709",
+    "geom:latitude":21.361709,
+    "geom:longitude":-157.916606,
+    "iso:country":"US",
+    "sg:address":"1790 Bougainvillea Loop",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 4599",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kiSLwaKwOSpNiMj490Iwq_21.361709_-157.916606@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205798,
+    "wof:geomhash":"e37708d424150f793f64d55c59c0df79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857657551
+        }
+    ],
+    "wof:id":857657551,
+    "wof:lastmodified":1464205798,
+    "wof:name":"US Army Chaplin Office",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -157.916606,
+    21.361709,
+    -157.916606,
+    21.361709
+],
+  "geometry": {"coordinates":[-157.916606,21.361709],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857654513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.991704,19.636708,-155.991704,19.636708",
+    "geom:latitude":19.636708,
+    "geom:longitude":-155.991704,
+    "iso:country":"US",
+    "sg:address":"5801 Alii Dr",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 331 0505",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17vjfKZynYNwUWpoiFMgWv_19.636708_-155.991704@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205656,
+    "wof:geomhash":"17d5779e0d6576ca6b9488b049c19ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890253,
+            "region_id":85688671,
+            "venue_id":857654513
+        }
+    ],
+    "wof:id":857654513,
+    "wof:lastmodified":1464205656,
+    "wof:name":"Weiss Properties",
+    "wof:parent_id":85890253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.991704,
+    19.636708,
+    -155.991704,
+    19.636708
+],
+  "geometry": {"coordinates":[-155.991704,19.636708],"type":"Point"}
+}

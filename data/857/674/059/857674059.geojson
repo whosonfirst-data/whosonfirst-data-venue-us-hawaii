@@ -1,0 +1,71 @@
+{
+  "id": 857674059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839104,21.300905,-157.839104,21.300905",
+    "geom:latitude":21.300905,
+    "geom:longitude":-157.839104,
+    "iso:country":"US",
+    "sg:address":"1223 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 7792",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3viWka9dbO5Sp3d9WwgF1x_21.300905_-157.839104@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206489,
+    "wof:geomhash":"e9a17dcc0dc497fac8a85afc7ec41b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857674059
+        }
+    ],
+    "wof:id":857674059,
+    "wof:lastmodified":1464206489,
+    "wof:name":"Vinnies Seafood",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.839104,
+    21.300905,
+    -157.839104,
+    21.300905
+],
+  "geometry": {"coordinates":[-157.83910399999999,21.300905],"type":"Point"}
+}

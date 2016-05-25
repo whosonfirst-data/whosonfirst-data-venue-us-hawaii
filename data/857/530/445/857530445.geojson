@@ -1,0 +1,71 @@
+{
+  "id": 857530445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867534,21.322329,-157.867534,21.322329",
+    "geom:latitude":21.322329,
+    "geom:longitude":-157.867534,
+    "iso:country":"US",
+    "sg:address":"802 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8047",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y6Sn3yhvjbRFd4Y1txlky_21.322329_-157.867534@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202553,
+    "wof:geomhash":"e1ae7275a476b931a62efbe6bbd44cce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857530445
+        }
+    ],
+    "wof:id":857530445,
+    "wof:lastmodified":1464202553,
+    "wof:name":"Tamashiro Market Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.867534,
+    21.322329,
+    -157.867534,
+    21.322329
+],
+  "geometry": {"coordinates":[-157.86753400000001,21.322329],"type":"Point"}
+}

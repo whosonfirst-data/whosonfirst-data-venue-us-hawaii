@@ -1,0 +1,78 @@
+{
+  "id": 857680905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.667133,20.985845,-156.667133,20.985845",
+    "geom:latitude":20.985845,
+    "geom:longitude":-156.667133,
+    "iso:country":"US",
+    "sg:address":"5095 Napilihau St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/232142-maui-tacos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 665 0222",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937677,
+        102085577,
+        85890521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X6UA5Sm53TD5rDrV0Pf6Z_20.985845_-156.667133@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206760,
+    "wof:geomhash":"a8197469bd7c496f7381c9cf11c33587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937677,
+            "neighbourhood_id":85890521,
+            "region_id":85688671,
+            "venue_id":857680905
+        }
+    ],
+    "wof:id":857680905,
+    "wof:lastmodified":1464206760,
+    "wof:name":"Maui Tacos",
+    "wof:parent_id":85890521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -156.667133,
+    20.985845,
+    -156.667133,
+    20.985845
+],
+  "geometry": {"coordinates":[-156.66713300000001,20.985845],"type":"Point"}
+}

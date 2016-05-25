@@ -1,0 +1,71 @@
+{
+  "id": 857587667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504246,20.890379,-156.504246,20.890379",
+    "geom:latitude":20.890379,
+    "geom:longitude":-156.504246,
+    "iso:country":"US",
+    "sg:address":"35 S Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7924",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "escrow"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jEN7MW7bHEQm1BtWeDw4i_20.890379_-156.504246@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203707,
+    "wof:geomhash":"0ea8f5e19463fc338b2a0db201ec5210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857587667
+        }
+    ],
+    "wof:id":857587667,
+    "wof:lastmodified":1464203707,
+    "wof:name":"Title Guaranty Escrow Svc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "escrow"
+    ]
+},
+  "bbox": [
+    -156.504246,
+    20.890379,
+    -156.504246,
+    20.890379
+],
+  "geometry": {"coordinates":[-156.50424599999999,20.890379],"type":"Point"}
+}

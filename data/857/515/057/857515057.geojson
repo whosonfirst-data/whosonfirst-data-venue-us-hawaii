@@ -1,0 +1,73 @@
+{
+  "id": 857515057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787428,21.273917,-157.787428,21.273917",
+    "geom:latitude":21.273917,
+    "geom:longitude":-157.787428,
+    "iso:country":"US",
+    "sg:address":"1366 Pueo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 4315",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23udlTalOASOgyLD7N7t9b_21.273917_-157.787428@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202252,
+    "wof:geomhash":"d2def289dae84cc4b391db9eb2024677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857515057
+        }
+    ],
+    "wof:id":857515057,
+    "wof:lastmodified":1464202252,
+    "wof:name":"Suzuki Assn Of Hawaii",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.787428,
+    21.273917,
+    -157.787428,
+    21.273917
+],
+  "geometry": {"coordinates":[-157.78742800000001,21.273917],"type":"Point"}
+}

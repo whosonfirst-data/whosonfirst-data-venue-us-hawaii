@@ -1,0 +1,77 @@
+{
+  "id": 857527503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899303,21.338021,-157.899303,21.338021",
+    "geom:latitude":21.338021,
+    "geom:longitude":-157.899303,
+    "iso:country":"US",
+    "sg:address":"2831 Awaawaloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 2004",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jTXDpmLMgkz3L5H4srolg_21.338021_-157.899303@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202494,
+    "wof:geomhash":"e20d5d46d11fc77edfa208cbdd284370",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857527503
+        }
+    ],
+    "wof:id":857527503,
+    "wof:lastmodified":1464202494,
+    "wof:name":"JNS Auto Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.899303,
+    21.338021,
+    -157.899303,
+    21.338021
+],
+  "geometry": {"coordinates":[-157.899303,21.338021],"type":"Point"}
+}

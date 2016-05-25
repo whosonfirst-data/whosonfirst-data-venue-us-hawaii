@@ -1,0 +1,75 @@
+{
+  "id": 857523705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839939,21.298295,-157.839939,21.298295",
+    "geom:latitude":21.298295,
+    "geom:longitude":-157.839939,
+    "iso:country":"US",
+    "sg:address":"1473 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8044",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OT3WDRU9YSmtC5xv0Vmdv_21.298295_-157.839939@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202425,
+    "wof:geomhash":"26a75cb336ea01b10e62c38a76d8b31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857523705
+        }
+    ],
+    "wof:id":857523705,
+    "wof:lastmodified":1464202425,
+    "wof:name":"Roy's Golf Works",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.839939,
+    21.298295,
+    -157.839939,
+    21.298295
+],
+  "geometry": {"coordinates":[-157.83993899999999,21.298295],"type":"Point"}
+}

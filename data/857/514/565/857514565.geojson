@@ -1,0 +1,71 @@
+{
+  "id": 857514565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752093,21.401961,-157.752093,21.401961",
+    "geom:latitude":21.401961,
+    "geom:longitude":-157.752093,
+    "iso:country":"US",
+    "sg:address":"534 Punaa St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 5758",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pmJfa9jgPjuxMAqPK0iAM_21.401961_-157.752093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202243,
+    "wof:geomhash":"41341a23f565488e3190436e9e12e7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857514565
+        }
+    ],
+    "wof:id":857514565,
+    "wof:lastmodified":1464202243,
+    "wof:name":"Police Activities League",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -157.752093,
+    21.401961,
+    -157.752093,
+    21.401961
+],
+  "geometry": {"coordinates":[-157.752093,21.401961],"type":"Point"}
+}

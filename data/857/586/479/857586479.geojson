@@ -1,0 +1,85 @@
+{
+  "id": 857586479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.918842,21.315087,-157.918842,21.315087",
+    "geom:latitude":21.315087,
+    "geom:longitude":-157.918842,
+    "iso:country":"US",
+    "sg:address":"129 Iako Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 837 4000",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LayVv6kwguFLV3KnszWuN_21.315087_-157.918842@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203683,
+    "wof:geomhash":"9339c86169af49e67254cae38cbb4f2e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857586479
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857586479
+        }
+    ],
+    "wof:id":857586479,
+    "wof:lastmodified":1464203683,
+    "wof:name":"Chelsea Catering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.918842,
+    21.315087,
+    -157.918842,
+    21.315087
+],
+  "geometry": {"coordinates":[-157.91884200000001,21.315087],"type":"Point"}
+}

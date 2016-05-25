@@ -1,0 +1,71 @@
+{
+  "id": 857503831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.01737,21.380855,-158.01737,21.380855",
+    "geom:latitude":21.380855,
+    "geom:longitude":-158.01737,
+    "iso:country":"US",
+    "sg:address":"210 Pupukahi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3181",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L4ViBImoghDbs4lcWKa7U_21.380855_-158.017370@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202002,
+    "wof:geomhash":"056e3255ac092c48ccc8ff8107c7957f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857503831
+        }
+    ],
+    "wof:id":857503831,
+    "wof:lastmodified":1464202002,
+    "wof:name":"City Bank",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -158.01737,
+    21.380855,
+    -158.01737,
+    21.380855
+],
+  "geometry": {"coordinates":[-158.01737,21.380855],"type":"Point"}
+}

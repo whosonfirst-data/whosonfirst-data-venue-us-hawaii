@@ -1,0 +1,73 @@
+{
+  "id": 857594085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835342,21.306313,-157.835342,21.306313",
+    "geom:latitude":21.306313,
+    "geom:longitude":-157.835342,
+    "iso:country":"US",
+    "sg:address":"1330 Heulu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 6046",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M7UH5GVj1secbpDmrxsnR_21.306313_-157.835342@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203850,
+    "wof:geomhash":"8b3cf3f6c311a868929da00d47f5b117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857594085
+        }
+    ],
+    "wof:id":857594085,
+    "wof:lastmodified":1464203850,
+    "wof:name":"W C W Corporation",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -157.835342,
+    21.306313,
+    -157.835342,
+    21.306313
+],
+  "geometry": {"coordinates":[-157.835342,21.306313],"type":"Point"}
+}

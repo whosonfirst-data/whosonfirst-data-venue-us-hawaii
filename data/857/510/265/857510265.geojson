@@ -1,0 +1,75 @@
+{
+  "id": 857510265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846338,21.298926,-157.846338,21.298926",
+    "geom:latitude":21.298926,
+    "geom:longitude":-157.846338,
+    "iso:country":"US",
+    "sg:address":"829 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 594 5433",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G8OFOJVRjUIXGY2AzcEqo_21.298926_-157.846338@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202149,
+    "wof:geomhash":"4e4774fa87489ff720a6bd754f758ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857510265
+        }
+    ],
+    "wof:id":857510265,
+    "wof:lastmodified":1464202149,
+    "wof:name":"Young Life",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.846338,
+    21.298926,
+    -157.846338,
+    21.298926
+],
+  "geometry": {"coordinates":[-157.846338,21.298926],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857568085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.075879,19.70179,-155.075879,19.70179",
+    "geom:latitude":19.70179,
+    "geom:longitude":-155.075879,
+    "iso:country":"US",
+    "sg:address":"200 W Kawili St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 974 7393",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sGGUuP9gpp5MlvJLyl1L1_19.701790_-155.075879@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203317,
+    "wof:geomhash":"b4fd9f7b8145fc5ae813108f5d0574e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857568085
+        }
+    ],
+    "wof:id":857568085,
+    "wof:lastmodified":1464203317,
+    "wof:name":"College of Agriculture",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.075879,
+    19.70179,
+    -155.075879,
+    19.70179
+],
+  "geometry": {"coordinates":[-155.07587899999999,19.70179],"type":"Point"}
+}

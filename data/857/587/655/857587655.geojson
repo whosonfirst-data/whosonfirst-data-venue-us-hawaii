@@ -1,0 +1,69 @@
+{
+  "id": 857587655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028094,21.355392,-158.028094,21.355392",
+    "geom:latitude":21.355392,
+    "geom:longitude":-158.028094,
+    "iso:country":"US",
+    "sg:address":"1034 Hamana St",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 4545",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14u5KXi92SQ9oZ9chYj2zu_21.355392_-158.028094@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203706,
+    "wof:geomhash":"01ddb1f776c4a80bcae160eb061176cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857587655
+        }
+    ],
+    "wof:id":857587655,
+    "wof:lastmodified":1464203706,
+    "wof:name":"Pacific Taxi & Limousine Svc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -158.028094,
+    21.355392,
+    -158.028094,
+    21.355392
+],
+  "geometry": {"coordinates":[-158.02809400000001,21.355392],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857629109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.738591,21.446347,-157.738591,21.446347",
+    "geom:latitude":21.446347,
+    "geom:longitude":-157.738591,
+    "iso:country":"US",
+    "sg:address":"1806 S Lawrence Rd",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 6324",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "daycare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x5MKYWbxmi5EVxG83iuId_21.446347_-157.738591@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204644,
+    "wof:geomhash":"35233d84b3413a0d1c08b33933105f22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857629109
+        }
+    ],
+    "wof:id":857629109,
+    "wof:lastmodified":1464204644,
+    "wof:name":"Norma Sanchez",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "daycare"
+    ]
+},
+  "bbox": [
+    -157.738591,
+    21.446347,
+    -157.738591,
+    21.446347
+],
+  "geometry": {"coordinates":[-157.73859100000001,21.446347],"type":"Point"}
+}

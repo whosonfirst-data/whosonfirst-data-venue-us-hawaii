@@ -1,0 +1,69 @@
+{
+  "id": 857503043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.085143,21.341468,-158.085143,21.341468",
+    "geom:latitude":21.341468,
+    "geom:longitude":-158.085143,
+    "iso:country":"US",
+    "sg:address":"411 Kaiaulu St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 9516",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jqmi14S9eptGVU1aZNCQG_21.341468_-158.085143@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201986,
+    "wof:geomhash":"326952707ea3e8dc372aa28bec57dadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857503043
+        }
+    ],
+    "wof:id":857503043,
+    "wof:lastmodified":1464201986,
+    "wof:name":"Fishing Vessel Seaspray",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fishing"
+    ]
+},
+  "bbox": [
+    -158.085143,
+    21.341468,
+    -158.085143,
+    21.341468
+],
+  "geometry": {"coordinates":[-158.08514299999999,21.341468],"type":"Point"}
+}

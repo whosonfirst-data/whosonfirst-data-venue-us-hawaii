@@ -1,0 +1,71 @@
+{
+  "id": 857602961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025997,21.43946,-158.025997,21.43946",
+    "geom:latitude":21.43946,
+    "geom:longitude":-158.025997,
+    "iso:country":"US",
+    "sg:address":"660 Lanikuhana Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 432 4200",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XnxpfNIyGsAsCsOKiHwTI_21.439460_-158.025997@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204049,
+    "wof:geomhash":"60229e01e174317cc92a420fed604f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857602961
+        }
+    ],
+    "wof:id":857602961,
+    "wof:lastmodified":1464204049,
+    "wof:name":"Mililani Clinic",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -158.025997,
+    21.43946,
+    -158.025997,
+    21.43946
+],
+  "geometry": {"coordinates":[-158.02599699999999,21.43946],"type":"Point"}
+}

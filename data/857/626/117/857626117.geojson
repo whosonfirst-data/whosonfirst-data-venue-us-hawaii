@@ -1,0 +1,75 @@
+{
+  "id": 857626117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.17819,21.423952,-158.17819,21.423952",
+    "geom:latitude":21.423952,
+    "geom:longitude":-158.17819,
+    "iso:country":"US",
+    "sg:address":"177 Kaukamana St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 1605",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CYvqUJbSUjAV13gvMFUiw_21.423952_-158.178190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204584,
+    "wof:geomhash":"56011652f9d8cf88f86b1516d238e6a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857626117
+        }
+    ],
+    "wof:id":857626117,
+    "wof:lastmodified":1464204584,
+    "wof:name":"Sean Demello",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.17819,
+    21.423952,
+    -158.17819,
+    21.423952
+],
+  "geometry": {"coordinates":[-158.17819,21.423952],"type":"Point"}
+}

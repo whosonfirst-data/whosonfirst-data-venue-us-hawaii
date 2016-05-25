@@ -1,0 +1,71 @@
+{
+  "id": 857678123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8476,21.326487,-157.8476,21.326487",
+    "geom:latitude":21.326487,
+    "geom:longitude":-157.8476,
+    "iso:country":"US",
+    "sg:address":"58 Kawananakoa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 1364",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dressmaker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xJjSFUnSMMVZjqwpW80gq_21.326487_-157.847600@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206659,
+    "wof:geomhash":"689f83467a403a22824a9d202dac5be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857678123
+        }
+    ],
+    "wof:id":857678123,
+    "wof:lastmodified":1464206659,
+    "wof:name":"Midori Dressmaker",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dressmaker"
+    ]
+},
+  "bbox": [
+    -157.8476,
+    21.326487,
+    -157.8476,
+    21.326487
+],
+  "geometry": {"coordinates":[-157.8476,21.326487],"type":"Point"}
+}

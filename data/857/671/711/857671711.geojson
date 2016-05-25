@@ -1,0 +1,78 @@
+{
+  "id": 857671711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.09818,21.305297,-158.09818,21.305297",
+    "geom:latitude":21.305297,
+    "geom:longitude":-158.09818,
+    "iso:country":"US",
+    "sg:address":"202 Kalaeloa Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 7362",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "structural",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dp0JO6nCSX5J04p5JiMbb_21.305297_-158.098180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206399,
+    "wof:geomhash":"2847bf9c259b5d0510973f793d092457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857671711
+        }
+    ],
+    "wof:id":857671711,
+    "wof:lastmodified":1464206399,
+    "wof:name":"R D's Welding & Repair",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "structural",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -158.09818,
+    21.305297,
+    -158.09818,
+    21.305297
+],
+  "geometry": {"coordinates":[-158.09818000000001,21.305297],"type":"Point"}
+}

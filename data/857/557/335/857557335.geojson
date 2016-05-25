@@ -1,0 +1,71 @@
+{
+  "id": 857557335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835643,21.292806,-157.835643,21.292806",
+    "geom:latitude":21.292806,
+    "geom:longitude":-157.835643,
+    "iso:country":"US",
+    "sg:address":"771 Punahou St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 8863",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l1c0gJIXShvhKnVY5OQnz_21.292806_-157.835643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203078,
+    "wof:geomhash":"137268eb47016d1103383ccb190686e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857557335
+        }
+    ],
+    "wof:id":857557335,
+    "wof:lastmodified":1464203078,
+    "wof:name":"Catering Connection",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.835643,
+    21.292806,
+    -157.835643,
+    21.292806
+],
+  "geometry": {"coordinates":[-157.835643,21.292806],"type":"Point"}
+}

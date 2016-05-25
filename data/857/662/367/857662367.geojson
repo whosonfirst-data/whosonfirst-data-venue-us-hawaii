@@ -1,0 +1,78 @@
+{
+  "id": 857662367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873335,21.323427,-157.873335,21.323427",
+    "geom:latitude":21.323427,
+    "geom:longitude":-157.873335,
+    "iso:country":"US",
+    "sg:address":"1234 Kaumualii St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5155",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "nutrition",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qa3rVIPtNBZQA9cK7MNeR_21.323427_-157.873335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206025,
+    "wof:geomhash":"a083ec30ff50922c33038ae3f497e948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857662367
+        }
+    ],
+    "wof:id":857662367,
+    "wof:lastmodified":1464206025,
+    "wof:name":"Advanced Wellness Center",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutrition",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.873335,
+    21.323427,
+    -157.873335,
+    21.323427
+],
+  "geometry": {"coordinates":[-157.873335,21.323427],"type":"Point"}
+}

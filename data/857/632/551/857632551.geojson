@@ -1,0 +1,76 @@
+{
+  "id": 857632551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.908904,21.33608,-157.908904,21.33608",
+    "geom:latitude":21.33608,
+    "geom:longitude":-157.908904,
+    "iso:country":"US",
+    "sg:address":"3223 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 2213",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TqvxeCM8JGjylW0eOGjEl_21.336080_-157.908904@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204735,
+    "wof:geomhash":"b9ce10dee2ec4977e27f85099035dd87",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857632551
+        }
+    ],
+    "wof:id":857632551,
+    "wof:lastmodified":1464204735,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.908904,
+    21.33608,
+    -157.908904,
+    21.33608
+],
+  "geometry": {"coordinates":[-157.90890400000001,21.33608],"type":"Point"}
+}

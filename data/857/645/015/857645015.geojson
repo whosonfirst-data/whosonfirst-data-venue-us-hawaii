@@ -1,0 +1,73 @@
+{
+  "id": 857645015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.456869,20.880095,-156.456869,20.880095",
+    "geom:latitude":20.880095,
+    "geom:longitude":-156.456869,
+    "iso:country":"US",
+    "sg:address":"305 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 2661",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VbayqZx8QwbUjWH9wRNCW_20.880095_-156.456869@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205239,
+    "wof:geomhash":"771365145b114b33b46574f839c39f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857645015
+        }
+    ],
+    "wof:id":857645015,
+    "wof:lastmodified":1464205239,
+    "wof:name":"Down To Earth Natural Foods",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -156.456869,
+    20.880095,
+    -156.456869,
+    20.880095
+],
+  "geometry": {"coordinates":[-156.45686900000001,20.880095],"type":"Point"}
+}

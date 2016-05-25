@@ -1,0 +1,74 @@
+{
+  "id": 857564437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.669643,20.021489,-155.669643,20.021489",
+    "geom:latitude":20.021489,
+    "geom:longitude":-155.669643,
+    "iso:country":"US",
+    "sg:address":"1224 Lindsey Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 7933",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "private"
+    ],
+    "sg:website":"www.parkerschool.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CHO6zsFRWtPV7ANjtXPsz_20.021489_-155.669643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203246,
+    "wof:geomhash":"c10639a10066924d5d757c10afceea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857564437
+        }
+    ],
+    "wof:id":857564437,
+    "wof:lastmodified":1464203246,
+    "wof:name":"Parker School",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private"
+    ]
+},
+  "bbox": [
+    -155.669643,
+    20.021489,
+    -155.669643,
+    20.021489
+],
+  "geometry": {"coordinates":[-155.66964300000001,20.021489],"type":"Point"}
+}

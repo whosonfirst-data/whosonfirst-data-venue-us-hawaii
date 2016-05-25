@@ -1,0 +1,71 @@
+{
+  "id": 857579801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825099,21.437079,-157.825099,21.437079",
+    "geom:latitude":21.437079,
+    "geom:longitude":-157.825099,
+    "iso:country":"US",
+    "sg:address":"232 Hui Akikiki Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 4128",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85869059,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78lD0hHQsnhgcaOyySaf0H_21.437079_-157.825099@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203549,
+    "wof:geomhash":"7cdef8a527d0fa4b7835d5ae5787b8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85869059,
+            "region_id":85688671,
+            "venue_id":857579801
+        }
+    ],
+    "wof:id":857579801,
+    "wof:lastmodified":1464203549,
+    "wof:name":"Hoala Hawaii",
+    "wof:parent_id":85869059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -157.825099,
+    21.437079,
+    -157.825099,
+    21.437079
+],
+  "geometry": {"coordinates":[-157.82509899999999,21.437079],"type":"Point"}
+}

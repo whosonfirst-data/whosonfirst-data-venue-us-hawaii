@@ -1,0 +1,71 @@
+{
+  "id": 857587953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831325,21.28912,-157.831325,21.28912",
+    "geom:latitude":21.28912,
+    "geom:longitude":-157.831325,
+    "iso:country":"US",
+    "sg:address":"2015 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 7266",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hjF6sTXiCsI1iCrIdoHrJ_21.289120_-157.831325@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203713,
+    "wof:geomhash":"969421c5c457de96d3f09d5eb106c23a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857587953
+        }
+    ],
+    "wof:id":857587953,
+    "wof:lastmodified":1464203713,
+    "wof:name":"Ala Wai Community Park",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.831325,
+    21.28912,
+    -157.831325,
+    21.28912
+],
+  "geometry": {"coordinates":[-157.83132499999999,21.28912],"type":"Point"}
+}

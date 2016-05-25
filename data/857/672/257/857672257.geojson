@@ -1,0 +1,76 @@
+{
+  "id": 857672257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826086,21.287318,-157.826086,21.287318",
+    "geom:latitude":21.287318,
+    "geom:longitude":-157.826086,
+    "iso:country":"US",
+    "sg:address":"509 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 2849",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dF4FGJ7KOwlzNEBUMjvxc_21.287318_-157.826086@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206425,
+    "wof:geomhash":"eeec62072236616f58a71b9806464767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857672257
+        }
+    ],
+    "wof:id":857672257,
+    "wof:lastmodified":1464206425,
+    "wof:name":"Ala Wai Cove Association",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.826086,
+    21.287318,
+    -157.826086,
+    21.287318
+],
+  "geometry": {"coordinates":[-157.826086,21.287318],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857553673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825299,21.291599,-157.825299,21.291599",
+    "geom:latitude":21.291599,
+    "geom:longitude":-157.825299,
+    "iso:country":"US",
+    "sg:address":"822 Coolidge St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4995",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lteuRwQXqJ2JvGbmlGm59_21.291599_-157.825299@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"67308e2c653fbfa0aabe6c33df778c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857553673
+        }
+    ],
+    "wof:id":857553673,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Honolulu Church Of God",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.825299,
+    21.291599,
+    -157.825299,
+    21.291599
+],
+  "geometry": {"coordinates":[-157.825299,21.291599],"type":"Point"}
+}

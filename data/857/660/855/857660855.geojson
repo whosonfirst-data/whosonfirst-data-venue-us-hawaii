@@ -1,0 +1,75 @@
+{
+  "id": 857660855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80986,21.309924,-157.80986,21.309924",
+    "geom:latitude":21.309924,
+    "geom:longitude":-157.80986,
+    "iso:country":"US",
+    "sg:address":"2927 E Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3622",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3taE71zDqdjT8GeTqJtNGC_21.309924_-157.809860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205952,
+    "wof:geomhash":"1dca9fdfe041360e90f8458775f6e948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857660855
+        }
+    ],
+    "wof:id":857660855,
+    "wof:lastmodified":1464205952,
+    "wof:name":"Manoa Service Station",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.80986,
+    21.309924,
+    -157.80986,
+    21.309924
+],
+  "geometry": {"coordinates":[-157.80985999999999,21.309924],"type":"Point"}
+}

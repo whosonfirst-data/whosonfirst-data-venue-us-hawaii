@@ -1,0 +1,80 @@
+{
+  "id": 857607683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911836,21.319419,-157.911836,21.319419",
+    "geom:latitude":21.319419,
+    "geom:longitude":-157.911836,
+    "iso:country":"US",
+    "sg:address":"95 Nakolo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 7747",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V0PB9arm1kOmXIcjRFDfO_21.319419_-157.911836@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204157,
+    "wof:geomhash":"ccda8d2d89b3fa5f3d3c9fad90ecdb0b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857607683
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857607683
+        }
+    ],
+    "wof:id":857607683,
+    "wof:lastmodified":1464204157,
+    "wof:name":"Pacific Aviation Museum",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.911836,
+    21.319419,
+    -157.911836,
+    21.319419
+],
+  "geometry": {"coordinates":[-157.91183599999999,21.319419],"type":"Point"}
+}

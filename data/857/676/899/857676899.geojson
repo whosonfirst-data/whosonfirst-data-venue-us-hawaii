@@ -1,0 +1,73 @@
+{
+  "id": 857676899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870862,21.312995,-157.870862,21.312995",
+    "geom:latitude":21.312995,
+    "geom:longitude":-157.870862,
+    "iso:country":"US",
+    "sg:address":"701 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 4721",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KnRG4oaaGaz5NmaxWzTcW_21.312995_-157.870862@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206610,
+    "wof:geomhash":"8830ab33783d2b538943c90a77a1724f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857676899
+        }
+    ],
+    "wof:id":857676899,
+    "wof:lastmodified":1464206610,
+    "wof:name":"New Earl Scheib Paint & Body",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "paint"
+    ]
+},
+  "bbox": [
+    -157.870862,
+    21.312995,
+    -157.870862,
+    21.312995
+],
+  "geometry": {"coordinates":[-157.87086199999999,21.312995],"type":"Point"}
+}

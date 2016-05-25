@@ -1,0 +1,71 @@
+{
+  "id": 857606749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.67487,21.298082,-157.67487,21.298082",
+    "geom:latitude":21.298082,
+    "geom:longitude":-157.67487,
+    "iso:country":"US",
+    "sg:address":"1094 Mokuhano St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5527",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EYb8dzzFpunhF3Rd6BZR0_21.298082_-157.674870@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204130,
+    "wof:geomhash":"1a0bcd0a556a63fc8eab3357b7f5bcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857606749
+        }
+    ],
+    "wof:id":857606749,
+    "wof:lastmodified":1464204130,
+    "wof:name":"Wireless Acquisition Cons",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.67487,
+    21.298082,
+    -157.67487,
+    21.298082
+],
+  "geometry": {"coordinates":[-157.67487,21.298082],"type":"Point"}
+}

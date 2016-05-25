@@ -1,0 +1,75 @@
+{
+  "id": 857573177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839756,21.300251,-157.839756,21.300251",
+    "geom:latitude":21.300251,
+    "geom:longitude":-157.839756,
+    "iso:country":"US",
+    "sg:address":"1363 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 2666",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications",
+        "datum",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50r2cirYUsFOogXxrqf6Zk_21.300251_-157.839756@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203414,
+    "wof:geomhash":"f908157ecd8c5a816f62a93c2277df26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857573177
+        }
+    ],
+    "wof:id":857573177,
+    "wof:lastmodified":1464203414,
+    "wof:name":"Bizwind Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "datum",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -157.839756,
+    21.300251,
+    -157.839756,
+    21.300251
+],
+  "geometry": {"coordinates":[-157.83975599999999,21.300251],"type":"Point"}
+}

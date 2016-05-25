@@ -1,0 +1,71 @@
+{
+  "id": 857672059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.782009,21.292831,-157.782009,21.292831",
+    "geom:latitude":21.292831,
+    "geom:longitude":-157.782009,
+    "iso:country":"US",
+    "sg:address":"5204 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 6178",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GCzW6p6RLNRLf9EhX2qk0_21.292831_-157.782009@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206412,
+    "wof:geomhash":"123daf4ad340a5b2d1fa100484c0ffbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857672059
+        }
+    ],
+    "wof:id":857672059,
+    "wof:lastmodified":1464206412,
+    "wof:name":"Kawakami Service Inc",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.782009,
+    21.292831,
+    -157.782009,
+    21.292831
+],
+  "geometry": {"coordinates":[-157.78200899999999,21.292831],"type":"Point"}
+}

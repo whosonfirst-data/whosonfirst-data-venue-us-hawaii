@@ -1,0 +1,69 @@
+{
+  "id": 857577221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.31923,22.066088,-159.31923,22.066088",
+    "geom:latitude":22.066088,
+    "geom:longitude":-159.31923,
+    "iso:country":"US",
+    "sg:address":"994 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 5318",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OONQ2FrSG2GzaWSGRBoAS_22.066088_-159.319230@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203496,
+    "wof:geomhash":"000efd79f00f7bb27ce2261e074f1938",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857577221
+        }
+    ],
+    "wof:id":857577221,
+    "wof:lastmodified":1464203496,
+    "wof:name":"Leonards Kapaa Service",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -159.31923,
+    22.066088,
+    -159.31923,
+    22.066088
+],
+  "geometry": {"coordinates":[-159.31923,22.066088],"type":"Point"}
+}

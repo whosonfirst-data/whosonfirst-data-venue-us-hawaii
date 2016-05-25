@@ -1,0 +1,71 @@
+{
+  "id": 857564213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.483556,20.898354,-156.483556,20.898354",
+    "geom:latitude":20.898354,
+    "geom:longitude":-156.483556,
+    "iso:country":"US",
+    "sg:address":"398 Kanaloa Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 5475",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HDTByCi1ZG4QTqYROSXz5_20.898354_-156.483556@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203242,
+    "wof:geomhash":"ed9485bb1ffeb1ba7cc01ac3a2bbc26b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857564213
+        }
+    ],
+    "wof:id":857564213,
+    "wof:lastmodified":1464203242,
+    "wof:name":"Central Maui Preschool",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -156.483556,
+    20.898354,
+    -156.483556,
+    20.898354
+],
+  "geometry": {"coordinates":[-156.48355599999999,20.898354],"type":"Point"}
+}

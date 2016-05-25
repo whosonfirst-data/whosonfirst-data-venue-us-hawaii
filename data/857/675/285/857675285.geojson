@@ -1,0 +1,71 @@
+{
+  "id": 857675285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.796324,21.289402,-157.796324,21.289402",
+    "geom:latitude":21.289402,
+    "geom:longitude":-157.796324,
+    "iso:country":"US",
+    "sg:address":"1515 Mokuna Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 1818",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vc2tLCYF1JQwABXKu5Rej_21.289402_-157.796324@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206536,
+    "wof:geomhash":"1d32fbab72f4bf24849b4ee49a1e8253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857675285
+        }
+    ],
+    "wof:id":857675285,
+    "wof:lastmodified":1464206536,
+    "wof:name":"Central Pacific Plumbing",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.796324,
+    21.289402,
+    -157.796324,
+    21.289402
+],
+  "geometry": {"coordinates":[-157.796324,21.289402],"type":"Point"}
+}

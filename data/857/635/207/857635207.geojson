@@ -1,0 +1,69 @@
+{
+  "id": 857635207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.061501,21.647721,-158.061501,21.647721",
+    "geom:latitude":21.647721,
+    "geom:longitude":-158.061501,
+    "iso:country":"US",
+    "sg:address":"732 Amaumau Pl",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 638 9138",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890115,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WFqtS4MeY8SstF2IvvkE4_21.647721_-158.061501@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204839,
+    "wof:geomhash":"be803ee4848846e6a18e4ecdd35cadea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890115,
+            "region_id":85688671,
+            "venue_id":857635207
+        }
+    ],
+    "wof:id":857635207,
+    "wof:lastmodified":1464204839,
+    "wof:name":"Fg Enterprises",
+    "wof:parent_id":85890115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -158.061501,
+    21.647721,
+    -158.061501,
+    21.647721
+],
+  "geometry": {"coordinates":[-158.06150099999999,21.647721],"type":"Point"}
+}

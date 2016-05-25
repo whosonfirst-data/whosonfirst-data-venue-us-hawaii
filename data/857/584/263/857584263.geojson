@@ -1,0 +1,80 @@
+{
+  "id": 857584263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50187,20.891307,-156.50187,20.891307",
+    "geom:latitude":20.891307,
+    "geom:longitude":-156.50187,
+    "iso:country":"US",
+    "sg:address":"10 Kinipopo St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 0743",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television",
+        "video",
+        "recorder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JO5beGF0wlJX7gdu7XQqQ_20.891307_-156.501870@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203629,
+    "wof:geomhash":"0cfc87b1dd708135aeb2522344ad6d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857584263
+        }
+    ],
+    "wof:id":857584263,
+    "wof:lastmodified":1464203629,
+    "wof:name":"Hokamas Music and Color TV Svc",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "video",
+        "recorder"
+    ]
+},
+  "bbox": [
+    -156.50187,
+    20.891307,
+    -156.50187,
+    20.891307
+],
+  "geometry": {"coordinates":[-156.50187,20.891307],"type":"Point"}
+}

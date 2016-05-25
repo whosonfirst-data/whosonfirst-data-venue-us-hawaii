@@ -1,0 +1,71 @@
+{
+  "id": 857646631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.515492,20.887072,-156.515492,20.887072",
+    "geom:latitude":20.887072,
+    "geom:longitude":-156.515492,
+    "iso:country":"US",
+    "sg:address":"2501 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 0999",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ydaqnkud3Uk9OND9i8RRg_20.887072_-156.515492@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205318,
+    "wof:geomhash":"eb6024e3c4bcca52e0fe2fcfbc9ac4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857646631
+        }
+    ],
+    "wof:id":857646631,
+    "wof:lastmodified":1464205318,
+    "wof:name":"Maui Music Conservatory",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -156.515492,
+    20.887072,
+    -156.515492,
+    20.887072
+],
+  "geometry": {"coordinates":[-156.51549199999999,20.887072],"type":"Point"}
+}

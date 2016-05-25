@@ -1,0 +1,73 @@
+{
+  "id": 857629265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.043631,19.636619,-155.043631,19.636619",
+    "geom:latitude":19.636619,
+    "geom:longitude":-155.043631,
+    "iso:country":"US",
+    "sg:address":"211 Wiliama Pl",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 7474",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QaNdXWNhTCSJPm7yGtdFA_19.636619_-155.043631@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204647,
+    "wof:geomhash":"1c187538451f88289e28aa3008851328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857629265
+        }
+    ],
+    "wof:id":857629265,
+    "wof:lastmodified":1464204647,
+    "wof:name":"Anheuser-Busch Sales Of Hi Inc",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -155.043631,
+    19.636619,
+    -155.043631,
+    19.636619
+],
+  "geometry": {"coordinates":[-155.043631,19.636619],"type":"Point"}
+}

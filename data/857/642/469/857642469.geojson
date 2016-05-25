@@ -1,0 +1,73 @@
+{
+  "id": 857642469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841531,21.309955,-157.841531,21.309955",
+    "geom:latitude":21.309955,
+    "geom:longitude":-157.841531,
+    "iso:country":"US",
+    "sg:address":"1011 Prospect St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 4411",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ObXJCywKKxyr5oYwCQ0nB_21.309955_-157.841531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205115,
+    "wof:geomhash":"93f8105e4246d15d505dc08950741ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857642469
+        }
+    ],
+    "wof:id":857642469,
+    "wof:lastmodified":1464205115,
+    "wof:name":"Callans Tours Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.841531,
+    21.309955,
+    -157.841531,
+    21.309955
+],
+  "geometry": {"coordinates":[-157.841531,21.309955],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857624411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839874,21.299329,-157.839874,21.299329",
+    "geom:latitude":21.299329,
+    "geom:longitude":-157.839874,
+    "iso:country":"US",
+    "sg:address":"1302 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 7366",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bakery",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vwh2TTeL89K455aaocKMo_21.299329_-157.839874@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204551,
+    "wof:geomhash":"963a7bf03ac3f81225da55ae6236c32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857624411
+        }
+    ],
+    "wof:id":857624411,
+    "wof:lastmodified":1464204551,
+    "wof:name":"Makiki Bake Shop",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "product"
+    ]
+},
+  "bbox": [
+    -157.839874,
+    21.299329,
+    -157.839874,
+    21.299329
+],
+  "geometry": {"coordinates":[-157.83987400000001,21.299329],"type":"Point"}
+}

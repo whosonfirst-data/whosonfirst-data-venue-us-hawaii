@@ -1,0 +1,71 @@
+{
+  "id": 857511825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.010019,21.39488,-158.010019,21.39488",
+    "geom:latitude":21.39488,
+    "geom:longitude":-158.010019,
+    "iso:country":"US",
+    "sg:address":"1047 Kuhaulua St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 9434",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K7aYbAiSjUL1XSZv7qTA5_21.394880_-158.010019@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202183,
+    "wof:geomhash":"f540efb6364b145ced21c8bd0eb08118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857511825
+        }
+    ],
+    "wof:id":857511825,
+    "wof:lastmodified":1464202183,
+    "wof:name":"Classic Res Care Hm",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -158.010019,
+    21.39488,
+    -158.010019,
+    21.39488
+],
+  "geometry": {"coordinates":[-158.010019,21.39488],"type":"Point"}
+}

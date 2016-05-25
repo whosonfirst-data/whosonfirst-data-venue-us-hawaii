@@ -1,0 +1,71 @@
+{
+  "id": 857638201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.368327,21.978024,-159.368327,21.978024",
+    "geom:latitude":21.978024,
+    "geom:longitude":-159.368327,
+    "iso:country":"US",
+    "sg:address":"3122 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 5158",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1veSp6LxDHExUjPQUoD66k_21.978024_-159.368327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204947,
+    "wof:geomhash":"61053be9e195b7a0bd23fb7e1c97bfc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857638201
+        }
+    ],
+    "wof:id":857638201,
+    "wof:lastmodified":1464204947,
+    "wof:name":"Washington Mutual Home Loans",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -159.368327,
+    21.978024,
+    -159.368327,
+    21.978024
+],
+  "geometry": {"coordinates":[-159.36832699999999,21.978024],"type":"Point"}
+}

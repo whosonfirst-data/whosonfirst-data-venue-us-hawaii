@@ -1,0 +1,73 @@
+{
+  "id": 857678899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8798,21.33224,-157.8798,21.33224",
+    "geom:latitude":21.33224,
+    "geom:longitude":-157.8798,
+    "iso:country":"US",
+    "sg:address":"815 Kopke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8471",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LmV8GteOLTwnhY4bMkFRq_21.332240_-157.879800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206686,
+    "wof:geomhash":"96806824173a14eea4768a9fe74550f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857678899
+        }
+    ],
+    "wof:id":857678899,
+    "wof:lastmodified":1464206686,
+    "wof:name":"R V Tech Automotive",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.8798,
+    21.33224,
+    -157.8798,
+    21.33224
+],
+  "geometry": {"coordinates":[-157.87979999999999,21.33224],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857677809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841696,21.300071,-157.841696,21.300071",
+    "geom:latitude":21.300071,
+    "geom:longitude":-157.841696,
+    "iso:country":"US",
+    "sg:address":"1270 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8083",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V4iM4Qi4ogALKNH2JxBZa_21.300071_-157.841696@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206646,
+    "wof:geomhash":"3509e1d3751f9650704a531993faeade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857677809
+        }
+    ],
+    "wof:id":857677809,
+    "wof:lastmodified":1464206646,
+    "wof:name":"Caryn's Okazu-Ya",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -157.841696,
+    21.300071,
+    -157.841696,
+    21.300071
+],
+  "geometry": {"coordinates":[-157.84169600000001,21.300071],"type":"Point"}
+}

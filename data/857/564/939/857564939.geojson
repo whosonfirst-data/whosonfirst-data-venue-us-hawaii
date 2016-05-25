@@ -1,0 +1,66 @@
+{
+  "id": 857564939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826832,21.299298,-157.826832,21.299298",
+    "geom:latitude":21.299298,
+    "geom:longitude":-157.826832,
+    "iso:country":"US",
+    "sg:address":"2028 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 9448",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AP6sHxStxDnpZHjrRyHI4_21.299298_-157.826832@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203254,
+    "wof:geomhash":"0eadf241267d941bd4052f342c19fa0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857564939
+        }
+    ],
+    "wof:id":857564939,
+    "wof:lastmodified":1464203254,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.826832,
+    21.299298,
+    -157.826832,
+    21.299298
+],
+  "geometry": {"coordinates":[-157.826832,21.299298],"type":"Point"}
+}

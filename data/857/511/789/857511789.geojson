@@ -1,0 +1,71 @@
+{
+  "id": 857511789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899734,21.366977,-157.899734,21.366977",
+    "geom:latitude":21.366977,
+    "geom:longitude":-157.899734,
+    "iso:country":"US",
+    "sg:address":"1269 Ala Kapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 387 9879",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D3tSYFL7zMHKqmSMbGGBY_21.366977_-157.899734@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202182,
+    "wof:geomhash":"db5765d02752313ccfa7a087df4d9cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857511789
+        }
+    ],
+    "wof:id":857511789,
+    "wof:lastmodified":1464202182,
+    "wof:name":"ABC Color Printing",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.899734,
+    21.366977,
+    -157.899734,
+    21.366977
+],
+  "geometry": {"coordinates":[-157.899734,21.366977],"type":"Point"}
+}

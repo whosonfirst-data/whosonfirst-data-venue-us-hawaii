@@ -1,0 +1,76 @@
+{
+  "id": 857550949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883259,21.327252,-157.883259,21.327252",
+    "geom:latitude":21.327252,
+    "geom:longitude":-157.883259,
+    "iso:country":"US",
+    "sg:address":"2033 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 1818",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38oxnWZKhwJCfro7DnOMbA_21.327252_-157.883259@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202948,
+    "wof:geomhash":"8b5531d567fb4e1376094c3fb7a87a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857550949
+        }
+    ],
+    "wof:id":857550949,
+    "wof:lastmodified":1464202948,
+    "wof:name":"Falcon Engineering",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.883259,
+    21.327252,
+    -157.883259,
+    21.327252
+],
+  "geometry": {"coordinates":[-157.88325900000001,21.327252],"type":"Point"}
+}

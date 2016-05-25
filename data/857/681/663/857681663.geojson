@@ -1,0 +1,78 @@
+{
+  "id": 857681663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916075,21.335451,-157.916075,21.335451",
+    "geom:latitude":21.335451,
+    "geom:longitude":-157.916075,
+    "iso:country":"US",
+    "sg:address":"550 Paiea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/92314-l--l-hawaiian-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1111",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xOl7kP1m8NoT295KHmVhM_21.335451_-157.916075@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206792,
+    "wof:geomhash":"fde0a7e91628ac15111cde6ba8c17e44",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857681663
+        }
+    ],
+    "wof:id":857681663,
+    "wof:lastmodified":1464206792,
+    "wof:name":"L & L Hawaiian BBQ",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -157.916075,
+    21.335451,
+    -157.916075,
+    21.335451
+],
+  "geometry": {"coordinates":[-157.91607500000001,21.335451],"type":"Point"}
+}

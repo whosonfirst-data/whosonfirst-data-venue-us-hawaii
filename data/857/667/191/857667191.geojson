@@ -1,0 +1,73 @@
+{
+  "id": 857667191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.452103,20.782398,-156.452103,20.782398",
+    "geom:latitude":20.782398,
+    "geom:longitude":-156.452103,
+    "iso:country":"US",
+    "sg:address":"411 Kaiolohia St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 0079",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KeX5NajUKiQGTTK0fP1Xr_20.782398_-156.452103@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206231,
+    "wof:geomhash":"13bb47df1ef53072239b6e65b36480e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857667191
+        }
+    ],
+    "wof:id":857667191,
+    "wof:lastmodified":1464206231,
+    "wof:name":"Michael Traphagen Painting",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.452103,
+    20.782398,
+    -156.452103,
+    20.782398
+],
+  "geometry": {"coordinates":[-156.45210299999999,20.782398],"type":"Point"}
+}

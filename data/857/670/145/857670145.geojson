@@ -1,0 +1,73 @@
+{
+  "id": 857670145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.312514,20.880446,-156.312514,20.880446",
+    "geom:latitude":20.880446,
+    "geom:longitude":-156.312514,
+    "iso:country":"US",
+    "sg:address":"810 Kokomo Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 9889",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N8qfbA2538vyxz5fTzbP6_20.880446_-156.312514@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206345,
+    "wof:geomhash":"cfe467b10ee3c2fc184fe354c706f289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857670145
+        }
+    ],
+    "wof:id":857670145,
+    "wof:lastmodified":1464206345,
+    "wof:name":"Tiffany's Sassy Salsa",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -156.312514,
+    20.880446,
+    -156.312514,
+    20.880446
+],
+  "geometry": {"coordinates":[-156.31251399999999,20.880446],"type":"Point"}
+}

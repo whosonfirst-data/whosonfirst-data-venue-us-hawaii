@@ -1,0 +1,71 @@
+{
+  "id": 857538437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797775,21.396662,-157.797775,21.396662",
+    "geom:latitude":21.396662,
+    "geom:longitude":-157.797775,
+    "iso:country":"US",
+    "sg:address":"528 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 8381",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kI2e4PYsdBqtJPhsqlGCa_21.396662_-157.797775@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202707,
+    "wof:geomhash":"68ec24f4d125dff965015d8115a10f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857538437
+        }
+    ],
+    "wof:id":857538437,
+    "wof:lastmodified":1464202707,
+    "wof:name":"Hygienic Store",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.797775,
+    21.396662,
+    -157.797775,
+    21.396662
+],
+  "geometry": {"coordinates":[-157.797775,21.396662],"type":"Point"}
+}

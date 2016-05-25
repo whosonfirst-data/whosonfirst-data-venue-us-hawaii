@@ -1,0 +1,71 @@
+{
+  "id": 857670601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.210104,21.46179,-158.210104,21.46179",
+    "geom:latitude":21.46179,
+    "geom:longitude":-158.210104,
+    "iso:country":"US",
+    "sg:address":"1070 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 2893",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zcufzXyoiVqHXJqSL1Q4M_21.461790_-158.210104@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206362,
+    "wof:geomhash":"da6c8072241745b8477ede56c34ce355",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857670601
+        }
+    ],
+    "wof:id":857670601,
+    "wof:lastmodified":1464206362,
+    "wof:name":"Water Supply Board",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -158.210104,
+    21.46179,
+    -158.210104,
+    21.46179
+],
+  "geometry": {"coordinates":[-158.210104,21.46179],"type":"Point"}
+}

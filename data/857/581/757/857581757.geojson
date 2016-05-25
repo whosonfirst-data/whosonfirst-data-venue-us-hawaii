@@ -1,0 +1,75 @@
+{
+  "id": 857581757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884078,21.33709,-157.884078,21.33709",
+    "geom:latitude":21.33709,
+    "geom:longitude":-157.884078,
+    "iso:country":"US",
+    "sg:address":"2361 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7002",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RaHMkkgFS4LD54iCZ3wq6_21.337090_-157.884078@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203584,
+    "wof:geomhash":"930ca926fbd792340389cf79cbdea001",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857581757
+        }
+    ],
+    "wof:id":857581757,
+    "wof:lastmodified":1464203584,
+    "wof:name":"Tony's EZ Dent Auto Rpr Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.884078,
+    21.33709,
+    -157.884078,
+    21.33709
+],
+  "geometry": {"coordinates":[-157.88407799999999,21.33709],"type":"Point"}
+}

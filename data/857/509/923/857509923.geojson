@@ -1,0 +1,75 @@
+{
+  "id": 857509923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.315553,22.084547,-159.315553,22.084547",
+    "geom:latitude":22.084547,
+    "geom:longitude":-159.315553,
+    "iso:country":"US",
+    "sg:address":"4671 Iwaena Loop",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3118",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s4IBSYUXJSBe7ezzqLPHq_22.084547_-159.315553@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202142,
+    "wof:geomhash":"e3215cf0e73f64efcd56ff2e4ea551be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857509923
+        }
+    ],
+    "wof:id":857509923,
+    "wof:lastmodified":1464202142,
+    "wof:name":"JG Electric",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.315553,
+    22.084547,
+    -159.315553,
+    22.084547
+],
+  "geometry": {"coordinates":[-159.31555299999999,22.084547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857670549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821045,21.275439,-157.821045,21.275439",
+    "geom:latitude":21.275439,
+    "geom:longitude":-157.821045,
+    "iso:country":"US",
+    "sg:address":"320 Ohua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 1531",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lfytHTUhdXUXFsBHihhkX_21.275439_-157.821045@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206359,
+    "wof:geomhash":"cefba24871ce843cfe49fa4ad5a59c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857670549
+        }
+    ],
+    "wof:id":857670549,
+    "wof:lastmodified":1464206359,
+    "wof:name":"A-1 Limousines By Neven",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.821045,
+    21.275439,
+    -157.821045,
+    21.275439
+],
+  "geometry": {"coordinates":[-157.821045,21.275439],"type":"Point"}
+}

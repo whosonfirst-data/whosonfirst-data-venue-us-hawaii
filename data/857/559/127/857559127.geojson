@@ -1,0 +1,71 @@
+{
+  "id": 857559127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.790132,21.307677,-157.790132,21.307677",
+    "geom:latitude":21.307677,
+    "geom:longitude":-157.790132,
+    "iso:country":"US",
+    "sg:address":"2437 Jasmine St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 1006",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GeuEJLpDWUApjY9lH9TxB_21.307677_-157.790132@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203131,
+    "wof:geomhash":"300adbc62e58d3e90e1d67e770b75a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857559127
+        }
+    ],
+    "wof:id":857559127,
+    "wof:lastmodified":1464203131,
+    "wof:name":"Palo Arc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.790132,
+    21.307677,
+    -157.790132,
+    21.307677
+],
+  "geometry": {"coordinates":[-157.790132,21.307677],"type":"Point"}
+}

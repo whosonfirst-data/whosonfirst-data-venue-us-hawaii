@@ -1,0 +1,73 @@
+{
+  "id": 857677549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857053,21.296599,-157.857053,21.296599",
+    "geom:latitude":21.296599,
+    "geom:longitude":-157.857053,
+    "iso:country":"US",
+    "sg:address":"831 Pohukaina St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2225",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "wash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PNce1O9tBrLkPBkTHTwkv_21.296599_-157.857053@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206634,
+    "wof:geomhash":"dc0ddc941eaf0d55bcc162090e7b7e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857677549
+        }
+    ],
+    "wof:id":857677549,
+    "wof:lastmodified":1464206634,
+    "wof:name":"Tsunami Express Wash",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "wash"
+    ]
+},
+  "bbox": [
+    -157.857053,
+    21.296599,
+    -157.857053,
+    21.296599
+],
+  "geometry": {"coordinates":[-157.85705300000001,21.296599],"type":"Point"}
+}

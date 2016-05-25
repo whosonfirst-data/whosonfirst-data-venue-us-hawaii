@@ -1,0 +1,73 @@
+{
+  "id": 857590809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.921095,21.352011,-157.921095,21.352011",
+    "geom:latitude":21.352011,
+    "geom:longitude":-157.921095,
+    "iso:country":"US",
+    "sg:address":"4627 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 7914",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EChUlGWDYXsl6Bq20PimA_21.352011_-157.921095@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203781,
+    "wof:geomhash":"e5b4266b6554f27e2f2edbba5a2e3c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857590809
+        }
+    ],
+    "wof:id":857590809,
+    "wof:lastmodified":1464203781,
+    "wof:name":"J C Interiors",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.921095,
+    21.352011,
+    -157.921095,
+    21.352011
+],
+  "geometry": {"coordinates":[-157.92109500000001,21.352011],"type":"Point"}
+}

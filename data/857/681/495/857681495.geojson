@@ -1,0 +1,72 @@
+{
+  "id": 857681495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832777,21.278312,-157.832777,21.278312",
+    "geom:latitude":21.278312,
+    "geom:longitude":-157.832777,
+    "iso:country":"US",
+    "sg:address":"2169 Kalia Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108569-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 8694",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZDTkgq8ZQ5munYhchYX99_21.278312_-157.832777@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206786,
+    "wof:geomhash":"58b06d765bb230f7e7241863fef71ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681495
+        }
+    ],
+    "wof:id":857681495,
+    "wof:lastmodified":1464206786,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.832777,
+    21.278312,
+    -157.832777,
+    21.278312
+],
+  "geometry": {"coordinates":[-157.83277699999999,21.278312],"type":"Point"}
+}

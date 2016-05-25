@@ -1,0 +1,73 @@
+{
+  "id": 857553691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788544,21.275152,-157.788544,21.275152",
+    "geom:latitude":21.275152,
+    "geom:longitude":-157.788544,
+    "iso:country":"US",
+    "sg:address":"1150 Hunakai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 5799",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kROHUMnvIkUPY4i7miNC9_21.275152_-157.788544@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"70af7e03d712cdad08a9aeba2036bade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857553691
+        }
+    ],
+    "wof:id":857553691,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Cmt-Hawaii Inc",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.788544,
+    21.275152,
+    -157.788544,
+    21.275152
+],
+  "geometry": {"coordinates":[-157.788544,21.275152],"type":"Point"}
+}

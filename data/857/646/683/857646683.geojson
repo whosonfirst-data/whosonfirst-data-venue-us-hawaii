@@ -1,0 +1,73 @@
+{
+  "id": 857646683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.88024,21.327406,-157.88024,21.327406",
+    "geom:latitude":21.327406,
+    "geom:longitude":-157.88024,
+    "iso:country":"US",
+    "sg:address":"1815 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6868",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQR37ZDopVaW6WXy7gj4e_21.327406_-157.880240@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205322,
+    "wof:geomhash":"d301bf3149351f4018cd1540bf2eb746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857646683
+        }
+    ],
+    "wof:id":857646683,
+    "wof:lastmodified":1464205322,
+    "wof:name":"Dillingham Used Car Sales",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.88024,
+    21.327406,
+    -157.88024,
+    21.327406
+],
+  "geometry": {"coordinates":[-157.88023999999999,21.327406],"type":"Point"}
+}

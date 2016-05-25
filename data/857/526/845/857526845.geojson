@@ -1,0 +1,71 @@
+{
+  "id": 857526845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840017,21.299183,-157.840017,21.299183",
+    "geom:latitude":21.299183,
+    "geom:longitude":-157.840017,
+    "iso:country":"US",
+    "sg:address":"1020 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 4707",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ldTA5acTR4ZEyocshETcU_21.299183_-157.840017@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202483,
+    "wof:geomhash":"02e1b7a73ab80c7aa5624f2ca7a146f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857526845
+        }
+    ],
+    "wof:id":857526845,
+    "wof:lastmodified":1464202483,
+    "wof:name":"Top Nails By Jennifer",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -157.840017,
+    21.299183,
+    -157.840017,
+    21.299183
+],
+  "geometry": {"coordinates":[-157.84001699999999,21.299183],"type":"Point"}
+}

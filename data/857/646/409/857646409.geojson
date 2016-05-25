@@ -1,0 +1,90 @@
+{
+  "id": 857646409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.710197,21.306249,-157.710197,21.306249",
+    "geom:latitude":21.306249,
+    "geom:longitude":-157.710197,
+    "iso:country":"US",
+    "sg:address":"868 Hahaione St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 8490",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "group",
+        "dancing"
+    ],
+    "sg:website":"www.drillteamhawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7id2ps1RYf14C2ldZFIPJB_21.306249_-157.710197@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205306,
+    "wof:geomhash":"f024f2f0f1a47035b133c5356bc78395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857646409
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857646409
+        }
+    ],
+    "wof:id":857646409,
+    "wof:lastmodified":1464205306,
+    "wof:name":"Drill Team Hawaii Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "group",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.710197,
+    21.306249,
+    -157.710197,
+    21.306249
+],
+  "geometry": {"coordinates":[-157.71019699999999,21.306249],"type":"Point"}
+}

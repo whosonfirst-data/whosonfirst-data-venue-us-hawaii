@@ -1,0 +1,68 @@
+{
+  "id": 857575435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.671678,20.867772,-156.671678,20.867772",
+    "geom:latitude":20.867772,
+    "geom:longitude":-156.671678,
+    "iso:country":"US",
+    "sg:address":"312 Aulike St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 8362",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57VZYdGN2LGVROMOBJYh2g_20.867772_-156.671678@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203460,
+    "wof:geomhash":"ae876f9dff4a3e12c9fe841da265d1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890507,
+            "region_id":85688671,
+            "venue_id":857575435
+        }
+    ],
+    "wof:id":857575435,
+    "wof:lastmodified":1464203460,
+    "wof:name":"Brad Wales",
+    "wof:parent_id":85890507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.671678,
+    20.867772,
+    -156.671678,
+    20.867772
+],
+  "geometry": {"coordinates":[-156.67167800000001,20.867772],"type":"Point"}
+}

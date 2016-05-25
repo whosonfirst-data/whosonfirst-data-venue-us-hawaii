@@ -1,0 +1,71 @@
+{
+  "id": 857589841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.376703,21.970676,-159.376703,21.970676",
+    "geom:latitude":21.970676,
+    "geom:longitude":-159.376703,
+    "iso:country":"US",
+    "sg:address":"4359 Kukui Grove St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7211",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fNcfL71zVbtd9MjB8uvzQ_21.970676_-159.376703@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203756,
+    "wof:geomhash":"92914c3f52edd3e80d4690b7d5ed4d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857589841
+        }
+    ],
+    "wof:id":857589841,
+    "wof:lastmodified":1464203756,
+    "wof:name":"Hawaii Health Care Profession",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -159.376703,
+    21.970676,
+    -159.376703,
+    21.970676
+],
+  "geometry": {"coordinates":[-159.37670299999999,21.970676],"type":"Point"}
+}

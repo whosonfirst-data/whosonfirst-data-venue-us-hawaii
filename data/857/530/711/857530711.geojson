@@ -1,0 +1,73 @@
+{
+  "id": 857530711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.672773,21.307245,-157.672773,21.307245",
+    "geom:latitude":21.307245,
+    "geom:longitude":-157.672773,
+    "iso:country":"US",
+    "sg:address":"7520 Laielua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 2101",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v1H3wtZxrZTo5pTtVDFgm_21.307245_-157.672773@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202558,
+    "wof:geomhash":"9e9a8fd72196e0150ccfb98bc31f92e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857530711
+        }
+    ],
+    "wof:id":857530711,
+    "wof:lastmodified":1464202558,
+    "wof:name":"Kokomotive Mobile Auto Repair",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.672773,
+    21.307245,
+    -157.672773,
+    21.307245
+],
+  "geometry": {"coordinates":[-157.67277300000001,21.307245],"type":"Point"}
+}

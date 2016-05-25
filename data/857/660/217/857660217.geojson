@@ -1,0 +1,72 @@
+{
+  "id": 857660217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799776,21.280812,-157.799776,21.280812",
+    "geom:latitude":21.280812,
+    "geom:longitude":-157.799776,
+    "iso:country":"US",
+    "sg:address":"1059 12th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 2431",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "sg:website":"www.elitelimohawaii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ee8RVnPT0N7GHxdIzT9Bu_21.280812_-157.799776@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205916,
+    "wof:geomhash":"98d7279cf14c1c90e55c34b9cac838f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857660217
+        }
+    ],
+    "wof:id":857660217,
+    "wof:lastmodified":1464205916,
+    "wof:name":"Elite Limousine Svc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.799776,
+    21.280812,
+    -157.799776,
+    21.280812
+],
+  "geometry": {"coordinates":[-157.79977600000001,21.280812],"type":"Point"}
+}

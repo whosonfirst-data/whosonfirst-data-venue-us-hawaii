@@ -1,0 +1,71 @@
+{
+  "id": 857630509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8148,21.271944,-157.8148,21.271944",
+    "geom:latitude":21.271944,
+    "geom:longitude":-157.8148,
+    "iso:country":"US",
+    "sg:address":"3060 Lakimau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 372 6823",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u9jxjE9nIkPlols5rbuQw_21.271944_-157.814800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204675,
+    "wof:geomhash":"57e5da1d94bf3b74f1ecd33c14a329a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857630509
+        }
+    ],
+    "wof:id":857630509,
+    "wof:lastmodified":1464204675,
+    "wof:name":"Tek Genesis Inc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -157.8148,
+    21.271944,
+    -157.8148,
+    21.271944
+],
+  "geometry": {"coordinates":[-157.81479999999999,21.271944],"type":"Point"}
+}

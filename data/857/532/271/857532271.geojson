@@ -1,0 +1,75 @@
+{
+  "id": 857532271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.685142,21.304,-157.685142,21.304",
+    "geom:latitude":21.304,
+    "geom:longitude":-157.685142,
+    "iso:country":"US",
+    "sg:address":"1050 Awawamalu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0090",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54DvsUabPs5d6dRfKS44Kk_21.304000_-157.685142@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202589,
+    "wof:geomhash":"405faa94c0484e991eb5e327f6903ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857532271
+        }
+    ],
+    "wof:id":857532271,
+    "wof:lastmodified":1464202589,
+    "wof:name":"Alzheimers Disease Association",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -157.685142,
+    21.304,
+    -157.685142,
+    21.304
+],
+  "geometry": {"coordinates":[-157.68514200000001,21.304],"type":"Point"}
+}

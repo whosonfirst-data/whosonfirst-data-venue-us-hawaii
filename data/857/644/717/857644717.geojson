@@ -1,0 +1,71 @@
+{
+  "id": 857644717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813531,21.275896,-157.813531,21.275896",
+    "geom:latitude":21.275896,
+    "geom:longitude":-157.813531,
+    "iso:country":"US",
+    "sg:address":"3134 Brokaw St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 738 1878",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rG3VyGI4L9gKBSq7ZRJUu_21.275896_-157.813531@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205227,
+    "wof:geomhash":"8cc154eea42faf54e010142d41ecfefe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857644717
+        }
+    ],
+    "wof:id":857644717,
+    "wof:lastmodified":1464205227,
+    "wof:name":"Dukes Limousine",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.813531,
+    21.275896,
+    -157.813531,
+    21.275896
+],
+  "geometry": {"coordinates":[-157.81353100000001,21.275896],"type":"Point"}
+}

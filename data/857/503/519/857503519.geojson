@@ -1,0 +1,77 @@
+{
+  "id": 857503519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.082172,19.719521,-155.082172,19.719521",
+    "geom:latitude":19.719521,
+    "geom:longitude":-155.082172,
+    "iso:country":"US",
+    "sg:address":"409 Kilauea Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 933 9187",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eCOMGhwgx5esjlmMAmBh3_19.719521_-155.082172@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201995,
+    "wof:geomhash":"fbb24b3542a93f3eb1326640454dff58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857503519
+        }
+    ],
+    "wof:id":857503519,
+    "wof:lastmodified":1464201995,
+    "wof:name":"Family Medicine Center",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -155.082172,
+    19.719521,
+    -155.082172,
+    19.719521
+],
+  "geometry": {"coordinates":[-155.08217200000001,19.719521],"type":"Point"}
+}

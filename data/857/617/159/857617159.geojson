@@ -1,0 +1,71 @@
+{
+  "id": 857617159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.486972,20.905515,-156.486972,20.905515",
+    "geom:latitude":20.905515,
+    "geom:longitude":-156.486972,
+    "iso:country":"US",
+    "sg:address":"871 Kolu St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 2281",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51LEatsLmGzZe2NBqSy5GN_20.905515_-156.486972@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204361,
+    "wof:geomhash":"4cc0a8396712c2084ae2e7fe7772099a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857617159
+        }
+    ],
+    "wof:id":857617159,
+    "wof:lastmodified":1464204361,
+    "wof:name":"Homestreet Bank",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -156.486972,
+    20.905515,
+    -156.486972,
+    20.905515
+],
+  "geometry": {"coordinates":[-156.48697200000001,20.905515],"type":"Point"}
+}

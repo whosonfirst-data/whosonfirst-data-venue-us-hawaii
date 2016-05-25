@@ -1,0 +1,67 @@
+{
+  "id": 857522125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845032,21.302239,-157.845032,21.302239",
+    "geom:latitude":21.302239,
+    "geom:longitude":-157.845032,
+    "iso:country":"US",
+    "sg:address":"1163 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 1933",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:website":"www.askoxy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rdYYOlNH7vCidfk0xzkiZ_21.302239_-157.845032@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202392,
+    "wof:geomhash":"cdf841f3ad0d4e71d4452e2490714247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857522125
+        }
+    ],
+    "wof:id":857522125,
+    "wof:lastmodified":1464202392,
+    "wof:name":"Occidental Underwriters Hawaii",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.845032,
+    21.302239,
+    -157.845032,
+    21.302239
+],
+  "geometry": {"coordinates":[-157.845032,21.302239],"type":"Point"}
+}

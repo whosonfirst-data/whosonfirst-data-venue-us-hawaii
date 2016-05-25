@@ -1,0 +1,84 @@
+{
+  "id": 857615415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.712646,21.309874,-157.712646,21.309874",
+    "geom:latitude":21.309874,
+    "geom:longitude":-157.712646,
+    "iso:country":"US",
+    "sg:address":"6725 Hahaione Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 9090",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "electrical",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GtLDeuRjmmy73e1ClbZIo_21.309874_-157.712646@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204329,
+    "wof:geomhash":"9ea981042212f31153a9ab9a3df6e03a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857615415
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857615415
+        }
+    ],
+    "wof:id":857615415,
+    "wof:lastmodified":1464204329,
+    "wof:name":"Mac Mahon Douglas V Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "electrical",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.712646,
+    21.309874,
+    -157.712646,
+    21.309874
+],
+  "geometry": {"coordinates":[-157.71264600000001,21.309874],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857671363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828997,21.295535,-157.828997,21.295535",
+    "geom:latitude":21.295535,
+    "geom:longitude":-157.828997,
+    "iso:country":"US",
+    "sg:address":"2074 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 5356",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RhupIr5FWjbulvAqKHF9b_21.295535_-157.828997@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206387,
+    "wof:geomhash":"c5873d8a0adafd49219dde000fdb6138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857671363
+        }
+    ],
+    "wof:id":857671363,
+    "wof:lastmodified":1464206387,
+    "wof:name":"Fairway Electric",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.828997,
+    21.295535,
+    -157.828997,
+    21.295535
+],
+  "geometry": {"coordinates":[-157.82899699999999,21.295535],"type":"Point"}
+}

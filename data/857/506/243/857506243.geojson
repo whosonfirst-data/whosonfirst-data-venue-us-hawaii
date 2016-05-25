@@ -1,0 +1,73 @@
+{
+  "id": 857506243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.505347,20.89257,-156.505347,20.89257",
+    "geom:latitude":20.89257,
+    "geom:longitude":-156.505347,
+    "iso:country":"US",
+    "sg:address":"92 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3344",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rubber",
+        "stamp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jsmlzIWmgozm9LgwMhl36_20.892570_-156.505347@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202064,
+    "wof:geomhash":"75ae42f957b721f5d7df566c45182122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857506243
+        }
+    ],
+    "wof:id":857506243,
+    "wof:lastmodified":1464202064,
+    "wof:name":"Maui Marking Device",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubber",
+        "stamp"
+    ]
+},
+  "bbox": [
+    -156.505347,
+    20.89257,
+    -156.505347,
+    20.89257
+],
+  "geometry": {"coordinates":[-156.505347,20.89257],"type":"Point"}
+}

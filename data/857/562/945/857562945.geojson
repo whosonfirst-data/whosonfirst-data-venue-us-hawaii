@@ -1,0 +1,71 @@
+{
+  "id": 857562945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803006,21.404793,-157.803006,21.404793",
+    "geom:latitude":21.404793,
+    "geom:longitude":-157.803006,
+    "iso:country":"US",
+    "sg:address":"751 Anoi Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 2705",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_607TpHTfUbqKX9l3FG1s8N_21.404793_-157.803006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203219,
+    "wof:geomhash":"3eccf7f2e5ec4dd9ad9cc6c353dc9b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857562945
+        }
+    ],
+    "wof:id":857562945,
+    "wof:lastmodified":1464203219,
+    "wof:name":"G L C Inc",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.803006,
+    21.404793,
+    -157.803006,
+    21.404793
+],
+  "geometry": {"coordinates":[-157.80300600000001,21.404793],"type":"Point"}
+}

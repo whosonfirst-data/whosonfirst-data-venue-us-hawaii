@@ -1,0 +1,73 @@
+{
+  "id": 857665799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802379,21.26958,-157.802379,21.26958",
+    "geom:latitude":21.26958,
+    "geom:longitude":-157.802379,
+    "iso:country":"US",
+    "sg:address":"4303 Diamond Head Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 9719",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "education",
+        "higher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AN5X5gjL1WKVBKaBWUk4r_21.269580_-157.802379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206164,
+    "wof:geomhash":"cb7fdc32bd417e0914841db21b95c0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857665799
+        }
+    ],
+    "wof:id":857665799,
+    "wof:lastmodified":1464206164,
+    "wof:name":"Hospitality Education",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "higher"
+    ]
+},
+  "bbox": [
+    -157.802379,
+    21.26958,
+    -157.802379,
+    21.26958
+],
+  "geometry": {"coordinates":[-157.802379,21.26958],"type":"Point"}
+}

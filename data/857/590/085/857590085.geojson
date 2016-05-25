@@ -1,0 +1,78 @@
+{
+  "id": 857590085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829729,21.280148,-157.829729,21.280148",
+    "geom:latitude":21.280148,
+    "geom:longitude":-157.829729,
+    "iso:country":"US",
+    "sg:address":"2142 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 6442",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "range",
+        "shooting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sxhFckbzj6csF8nFHf3YS_21.280148_-157.829729@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203760,
+    "wof:geomhash":"5364b908cfc1f7b9a6a0a0ca463ee8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857590085
+        }
+    ],
+    "wof:id":857590085,
+    "wof:lastmodified":1464203760,
+    "wof:name":"Waikiki Gun Club",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "shooting"
+    ]
+},
+  "bbox": [
+    -157.829729,
+    21.280148,
+    -157.829729,
+    21.280148
+],
+  "geometry": {"coordinates":[-157.82972899999999,21.280148],"type":"Point"}
+}

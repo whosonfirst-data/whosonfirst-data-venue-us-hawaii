@@ -1,0 +1,71 @@
+{
+  "id": 857641355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.953798,21.388443,-157.953798,21.388443",
+    "geom:latitude":21.388443,
+    "geom:longitude":-157.953798,
+    "iso:country":"US",
+    "sg:address":"1238 Kaahumanu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 1611",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l6p9KHueiO2uiobZOZkmz_21.388443_-157.953798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205074,
+    "wof:geomhash":"603ca2c415f888516d7f3715d62120b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857641355
+        }
+    ],
+    "wof:id":857641355,
+    "wof:lastmodified":1464205074,
+    "wof:name":"B W Giorgio MD Inc",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.953798,
+    21.388443,
+    -157.953798,
+    21.388443
+],
+  "geometry": {"coordinates":[-157.95379800000001,21.388443],"type":"Point"}
+}

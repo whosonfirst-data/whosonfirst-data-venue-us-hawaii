@@ -1,0 +1,71 @@
+{
+  "id": 857645517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847581,21.336995,-157.847581,21.336995",
+    "geom:latitude":21.336995,
+    "geom:longitude":-157.847581,
+    "iso:country":"US",
+    "sg:address":"829 Puunani Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5667",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IXfPxTAVFSsSIUE03ki3l_21.336995_-157.847581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205259,
+    "wof:geomhash":"ebb1197472e696152e9f50002675248b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857645517
+        }
+    ],
+    "wof:id":857645517,
+    "wof:lastmodified":1464205259,
+    "wof:name":"Frontline Service",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -157.847581,
+    21.336995,
+    -157.847581,
+    21.336995
+],
+  "geometry": {"coordinates":[-157.84758099999999,21.336995],"type":"Point"}
+}

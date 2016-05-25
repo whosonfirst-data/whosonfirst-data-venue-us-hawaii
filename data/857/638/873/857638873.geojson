@@ -1,0 +1,73 @@
+{
+  "id": 857638873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.96618,19.577173,-155.96618,19.577173",
+    "geom:latitude":19.577173,
+    "geom:longitude":-155.96618,
+    "iso:country":"US",
+    "sg:address":"6831 Alii Dr",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 322 9133",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937435,
+        102085433,
+        85890293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uq4ObVRNfG1ymQxEYCZJr_19.577173_-155.966180@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204978,
+    "wof:geomhash":"0d61ae35d4932d3a9276260ed08dbac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937435,
+            "neighbourhood_id":85890293,
+            "region_id":85688671,
+            "venue_id":857638873
+        }
+    ],
+    "wof:id":857638873,
+    "wof:lastmodified":1464204978,
+    "wof:name":"Alii Veterinary Clinic",
+    "wof:parent_id":85890293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -155.96618,
+    19.577173,
+    -155.96618,
+    19.577173
+],
+  "geometry": {"coordinates":[-155.96618000000001,19.577173],"type":"Point"}
+}

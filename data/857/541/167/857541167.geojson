@@ -1,0 +1,71 @@
+{
+  "id": 857541167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.462991,20.079687,-155.462991,20.079687",
+    "geom:latitude":20.079687,
+    "geom:longitude":-155.462991,
+    "iso:country":"US",
+    "sg:address":"497 Ilima St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 0624",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UiTLlPWDBh8K79EyDwRjn_20.079687_-155.462991@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202759,
+    "wof:geomhash":"c0e5ea4c27c0b0f3f15c403e6d6defb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857541167
+        }
+    ],
+    "wof:id":857541167,
+    "wof:lastmodified":1464202759,
+    "wof:name":"Edmund W O Akioka DDS",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -155.462991,
+    20.079687,
+    -155.462991,
+    20.079687
+],
+  "geometry": {"coordinates":[-155.46299099999999,20.079687],"type":"Point"}
+}

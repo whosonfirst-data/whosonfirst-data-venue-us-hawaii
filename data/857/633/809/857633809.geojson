@@ -1,0 +1,73 @@
+{
+  "id": 857633809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883161,21.330935,-157.883161,21.330935",
+    "geom:latitude":21.330935,
+    "geom:longitude":-157.883161,
+    "iso:country":"US",
+    "sg:address":"2126 Eluwene St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 0038",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h7tBip1Re8z5od5RCOibQ_21.330935_-157.883161@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204785,
+    "wof:geomhash":"a60b3265f89316eaf4424bd6d80c4753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857633809
+        }
+    ],
+    "wof:id":857633809,
+    "wof:lastmodified":1464204785,
+    "wof:name":"Larsen's Tool Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -157.883161,
+    21.330935,
+    -157.883161,
+    21.330935
+],
+  "geometry": {"coordinates":[-157.883161,21.330935],"type":"Point"}
+}

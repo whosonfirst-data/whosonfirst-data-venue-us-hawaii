@@ -1,0 +1,74 @@
+{
+  "id": 857546457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911986,21.395332,-157.911986,21.395332",
+    "geom:latitude":21.395332,
+    "geom:longitude":-157.911986,
+    "iso:country":"US",
+    "sg:address":"1504 Akaaka St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 4414",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890055,
+        102085417,
+        85937671,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73IxzFJJOxbyhmr6wiMG5W_21.395332_-157.911986@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202865,
+    "wof:geomhash":"26b6316105ca971ab839e3eca2406d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890055,
+            "region_id":85688671,
+            "venue_id":857546457
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857546457
+        }
+    ],
+    "wof:id":857546457,
+    "wof:lastmodified":1464202865,
+    "wof:name":"Hawaii Pacific Lumber Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.911986,
+    21.395332,
+    -157.911986,
+    21.395332
+],
+  "geometry": {"coordinates":[-157.91198600000001,21.395332],"type":"Point"}
+}

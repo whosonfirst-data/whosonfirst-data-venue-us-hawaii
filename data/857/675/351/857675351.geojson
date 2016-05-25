@@ -1,0 +1,74 @@
+{
+  "id": 857675351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.869079,21.324299,-157.869079,21.324299",
+    "geom:latitude":21.324299,
+    "geom:longitude":-157.869079,
+    "iso:country":"US",
+    "sg:address":"925 Kokea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 7474",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "supply"
+    ],
+    "sg:website":"www.ferguson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ezyTAPFFkBTSQZ2AOpeh_21.324299_-157.869079@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206538,
+    "wof:geomhash":"a088a796882fa80253a479a1cc7e3990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857675351
+        }
+    ],
+    "wof:id":857675351,
+    "wof:lastmodified":1464206538,
+    "wof:name":"Ferguson Enterprises Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.869079,
+    21.324299,
+    -157.869079,
+    21.324299
+],
+  "geometry": {"coordinates":[-157.869079,21.324299],"type":"Point"}
+}

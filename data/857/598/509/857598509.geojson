@@ -1,0 +1,71 @@
+{
+  "id": 857598509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.751615,21.278357,-157.751615,21.278357",
+    "geom:latitude":21.278357,
+    "geom:longitude":-157.751615,
+    "iso:country":"US",
+    "sg:address":"187 Nenue St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 8553",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nyN9Lqr9rIenUtZkoAspa_21.278357_-157.751615@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203951,
+    "wof:geomhash":"2bbe96853a15e46b61f1acf5903e0a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857598509
+        }
+    ],
+    "wof:id":857598509,
+    "wof:lastmodified":1464203951,
+    "wof:name":"Respite Hale",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -157.751615,
+    21.278357,
+    -157.751615,
+    21.278357
+],
+  "geometry": {"coordinates":[-157.75161499999999,21.278357],"type":"Point"}
+}

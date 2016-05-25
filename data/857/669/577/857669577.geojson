@@ -1,0 +1,71 @@
+{
+  "id": 857669577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881111,21.334565,-157.881111,21.334565",
+    "geom:latitude":21.334565,
+    "geom:longitude":-157.881111,
+    "iso:country":"US",
+    "sg:address":"905 Umi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8500",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mRpdlNJcFcWgAQekoeh2Q_21.334565_-157.881111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206323,
+    "wof:geomhash":"4a0245ac1e51e57673b07b267425c84b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857669577
+        }
+    ],
+    "wof:id":857669577,
+    "wof:lastmodified":1464206323,
+    "wof:name":"Rehma Dental Laboratory",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.881111,
+    21.334565,
+    -157.881111,
+    21.334565
+],
+  "geometry": {"coordinates":[-157.881111,21.334565],"type":"Point"}
+}

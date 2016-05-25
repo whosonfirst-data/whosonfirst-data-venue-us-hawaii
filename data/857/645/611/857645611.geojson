@@ -1,0 +1,76 @@
+{
+  "id": 857645611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029968,21.496858,-158.029968,21.496858",
+    "geom:latitude":21.496858,
+    "geom:longitude":-158.029968,
+    "iso:country":"US",
+    "sg:address":"25 N Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 2441",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y4qUHqywgyCEajzhULJyF_21.496858_-158.029968@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205263,
+    "wof:geomhash":"41dad6c5ff62cce5f4ff85b942c9496a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857645611
+        }
+    ],
+    "wof:id":857645611,
+    "wof:lastmodified":1464205263,
+    "wof:name":"Garrick & Sons Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -158.029968,
+    21.496858,
+    -158.029968,
+    21.496858
+],
+  "geometry": {"coordinates":[-158.029968,21.496858],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857633969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.368868,22.050758,-159.368868,22.050758",
+    "geom:latitude":22.050758,
+    "geom:longitude":-159.368868,
+    "iso:country":"US",
+    "sg:address":"137 Melia St",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 2887",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5boKI1vLnyz7xuejgDSzxH_22.050758_-159.368868@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204796,
+    "wof:geomhash":"d72e2eb8b54ec496f9574c3fbbbbe9c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857633969
+        }
+    ],
+    "wof:id":857633969,
+    "wof:lastmodified":1464204796,
+    "wof:name":"SSFM Intl Inc",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -159.368868,
+    22.050758,
+    -159.368868,
+    22.050758
+],
+  "geometry": {"coordinates":[-159.36886799999999,22.050758],"type":"Point"}
+}

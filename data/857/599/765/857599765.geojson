@@ -1,0 +1,73 @@
+{
+  "id": 857599765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861557,21.310245,-157.861557,21.310245",
+    "geom:latitude":21.310245,
+    "geom:longitude":-157.861557,
+    "iso:country":"US",
+    "sg:address":"81 S Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 1680",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEIwabsUNKyudbsuL8J6f_21.310245_-157.861557@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203979,
+    "wof:geomhash":"432d07b2c7627217e1eb4c26edb254f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857599765
+        }
+    ],
+    "wof:id":857599765,
+    "wof:lastmodified":1464203979,
+    "wof:name":"IMC Direct",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -157.861557,
+    21.310245,
+    -157.861557,
+    21.310245
+],
+  "geometry": {"coordinates":[-157.861557,21.310245],"type":"Point"}
+}

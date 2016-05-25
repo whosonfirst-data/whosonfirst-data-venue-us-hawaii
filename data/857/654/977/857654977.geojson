@@ -1,0 +1,71 @@
+{
+  "id": 857654977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823463,21.308549,-157.823463,21.308549",
+    "geom:latitude":21.308549,
+    "geom:longitude":-157.823463,
+    "iso:country":"US",
+    "sg:address":"2302 Sonoma St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 4484",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xnaBMkWtc4WetEvpjalaL_21.308549_-157.823463@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205681,
+    "wof:geomhash":"39f8a8d018cfbff7d6c0b3901df46f4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857654977
+        }
+    ],
+    "wof:id":857654977,
+    "wof:lastmodified":1464205681,
+    "wof:name":"Honu Group Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.823463,
+    21.308549,
+    -157.823463,
+    21.308549
+],
+  "geometry": {"coordinates":[-157.823463,21.308549],"type":"Point"}
+}

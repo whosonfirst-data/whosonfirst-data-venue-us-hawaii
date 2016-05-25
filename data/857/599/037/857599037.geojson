@@ -1,0 +1,73 @@
+{
+  "id": 857599037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814236,21.289815,-157.814236,21.289815",
+    "geom:latitude":21.289815,
+    "geom:longitude":-157.814236,
+    "iso:country":"US",
+    "sg:address":"2909 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 3576",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iXW2DEXoYLEBq2OwdxyBM_21.289815_-157.814236@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203962,
+    "wof:geomhash":"89ae2d45ad92488a06dc92540e84a54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857599037
+        }
+    ],
+    "wof:id":857599037,
+    "wof:lastmodified":1464203962,
+    "wof:name":"Libbyville Development Co Ltd",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apt"
+    ]
+},
+  "bbox": [
+    -157.814236,
+    21.289815,
+    -157.814236,
+    21.289815
+],
+  "geometry": {"coordinates":[-157.81423599999999,21.289815],"type":"Point"}
+}

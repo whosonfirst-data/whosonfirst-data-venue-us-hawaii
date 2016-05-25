@@ -1,0 +1,73 @@
+{
+  "id": 857544851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863243,21.3009,-157.863243,21.3009",
+    "geom:latitude":21.3009,
+    "geom:longitude":-157.863243,
+    "iso:country":"US",
+    "sg:address":"595 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 3721",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IrXX8TOBQKF2xuk2hfb0z_21.300900_-157.863243@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202837,
+    "wof:geomhash":"d4739dfcfae52a3d3d9bc8c9af4b4156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857544851
+        }
+    ],
+    "wof:id":857544851,
+    "wof:lastmodified":1464202837,
+    "wof:name":"US Immigration Naturalization",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -157.863243,
+    21.3009,
+    -157.863243,
+    21.3009
+],
+  "geometry": {"coordinates":[-157.86324300000001,21.3009],"type":"Point"}
+}

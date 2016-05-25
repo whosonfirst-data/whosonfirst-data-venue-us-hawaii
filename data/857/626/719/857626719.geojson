@@ -1,0 +1,74 @@
+{
+  "id": 857626719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86159,21.297347,-157.86159,21.297347",
+    "geom:latitude":21.297347,
+    "geom:longitude":-157.86159,
+    "iso:country":"US",
+    "sg:address":"711 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 532 1700",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.honolulu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z32iYwJ1B6fSIjUIu04qR_21.297347_-157.861590@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204595,
+    "wof:geomhash":"f93d971c64c30d0520f2b9866666b4ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857626719
+        }
+    ],
+    "wof:id":857626719,
+    "wof:lastmodified":1464204595,
+    "wof:name":"Honolulu Ford Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.86159,
+    21.297347,
+    -157.86159,
+    21.297347
+],
+  "geometry": {"coordinates":[-157.86159000000001,21.297347],"type":"Point"}
+}

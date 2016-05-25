@@ -1,0 +1,82 @@
+{
+  "id": 857571461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.709912,21.309688,-157.709912,21.309688",
+    "geom:latitude":21.309688,
+    "geom:longitude":-157.709912,
+    "iso:country":"US",
+    "sg:address":"902 Puuomao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5236",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X68MwJR5MAfEEwZHVB7HT_21.309688_-157.709912@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203379,
+    "wof:geomhash":"4dbbda3f214c5e6b27757e2079b0b73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857571461
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857571461
+        }
+    ],
+    "wof:id":857571461,
+    "wof:lastmodified":1464203379,
+    "wof:name":"Shell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -157.709912,
+    21.309688,
+    -157.709912,
+    21.309688
+],
+  "geometry": {"coordinates":[-157.709912,21.309688],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857680787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.673482,20.02205,-155.673482,20.02205",
+    "geom:latitude":20.02205,
+    "geom:longitude":-155.673482,
+    "iso:country":"US",
+    "sg:address":"65-1259 Kawaihae Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/south-kohala/3299-daniel-thiebaut-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 887 2200",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vLYq60L4rLuO2WqYslndZ_20.022050_-155.673482@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206756,
+    "wof:geomhash":"29cd63af920173b423021fc3c9892a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857680787
+        }
+    ],
+    "wof:id":857680787,
+    "wof:lastmodified":1464206756,
+    "wof:name":"Daniel Thiebaut Restaurant",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "seafood",
+        "sandwich",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.673482,
+    20.02205,
+    -155.673482,
+    20.02205
+],
+  "geometry": {"coordinates":[-155.67348200000001,20.02205],"type":"Point"}
+}

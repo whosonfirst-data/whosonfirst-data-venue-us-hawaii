@@ -1,0 +1,75 @@
+{
+  "id": 857525779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876431,21.304281,-157.876431,21.304281",
+    "geom:latitude":21.304281,
+    "geom:longitude":-157.876431,
+    "iso:country":"US",
+    "sg:address":"1187 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 4321",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tnqi4J3Jgcfap3TmMrPkN_21.304281_-157.876431@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202465,
+    "wof:geomhash":"2b485e44d8d4f3b9839afd817597cb76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857525779
+        }
+    ],
+    "wof:id":857525779,
+    "wof:lastmodified":1464202465,
+    "wof:name":"Welsys Enterprises",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.876431,
+    21.304281,
+    -157.876431,
+    21.304281
+],
+  "geometry": {"coordinates":[-157.876431,21.304281],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857673191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.337312,22.092816,-159.337312,22.092816",
+    "geom:latitude":22.092816,
+    "geom:longitude":-159.337312,
+    "iso:country":"US",
+    "sg:address":"5721 Kaehulua Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 6925",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3anlzmEnm1ZwylCJyLwh3z_22.092816_-159.337312@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206458,
+    "wof:geomhash":"44389bfa740cc94f0cb65c775da70f47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857673191
+        }
+    ],
+    "wof:id":857673191,
+    "wof:lastmodified":1464206458,
+    "wof:name":"Divan Plumbing",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.337312,
+    22.092816,
+    -159.337312,
+    22.092816
+],
+  "geometry": {"coordinates":[-159.337312,22.092816],"type":"Point"}
+}

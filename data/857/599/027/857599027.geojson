@@ -1,0 +1,73 @@
+{
+  "id": 857599027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.76082,21.279425,-157.76082,21.279425",
+    "geom:latitude":21.279425,
+    "geom:longitude":-157.76082,
+    "iso:country":"US",
+    "sg:address":"5070 Poola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 8828",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FXoPzExYBgtHvDXabLJLO_21.279425_-157.760820@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203962,
+    "wof:geomhash":"31f9f0a6b32cf1974f936d7c06761a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857599027
+        }
+    ],
+    "wof:id":857599027,
+    "wof:lastmodified":1464203962,
+    "wof:name":"SWC Marketing",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.76082,
+    21.279425,
+    -157.76082,
+    21.279425
+],
+  "geometry": {"coordinates":[-157.76082,21.279425],"type":"Point"}
+}

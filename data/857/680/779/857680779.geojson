@@ -1,0 +1,76 @@
+{
+  "id": 857680779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.857623,19.940422,-155.857623,19.940422",
+    "geom:latitude":19.940422,
+    "geom:longitude":-155.857623,
+    "iso:country":"US",
+    "sg:address":"62 Mauna Lani Dr",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/south-kohala/3352-oceanside-clambake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 882 7222",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937387,
+        102085433,
+        85890691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fiKB8xWjns79AuaS8Py66_19.940422_-155.857623@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206755,
+    "wof:geomhash":"d112e82cf2537450c485510e11eeca6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937387,
+            "neighbourhood_id":85890691,
+            "region_id":85688671,
+            "venue_id":857680779
+        }
+    ],
+    "wof:id":857680779,
+    "wof:lastmodified":1464206755,
+    "wof:name":"Oceanside Clambake",
+    "wof:parent_id":85890691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.857623,
+    19.940422,
+    -155.857623,
+    19.940422
+],
+  "geometry": {"coordinates":[-155.85762299999999,19.940422],"type":"Point"}
+}

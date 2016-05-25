@@ -1,0 +1,73 @@
+{
+  "id": 857604151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.754007,21.295442,-157.754007,21.295442",
+    "geom:latitude":21.295442,
+    "geom:longitude":-157.754007,
+    "iso:country":"US",
+    "sg:address":"843 Kainoa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 8827",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N71iw7sCfjHqTfhl9Ymdv_21.295442_-157.754007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204078,
+    "wof:geomhash":"7b9ed2d004f1445a442adfe08f9832dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857604151
+        }
+    ],
+    "wof:id":857604151,
+    "wof:lastmodified":1464204078,
+    "wof:name":"Construct Inc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.754007,
+    21.295442,
+    -157.754007,
+    21.295442
+],
+  "geometry": {"coordinates":[-157.754007,21.295442],"type":"Point"}
+}

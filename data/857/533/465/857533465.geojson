@@ -1,0 +1,66 @@
+{
+  "id": 857533465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927091,21.648059,-157.927091,21.648059",
+    "geom:latitude":21.648059,
+    "geom:longitude":-157.927091,
+    "iso:country":"US",
+    "sg:address":"615 Moana St",
+    "sg:city":"Laie",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 2629",
+    "sg:postcode":"96762",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937579,
+        102085417,
+        85890543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PBHnG9UJ98xig8sZMMdKp_21.648059_-157.927091@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202612,
+    "wof:geomhash":"3ed7286ce581ca5d75e47b21eb320f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937579,
+            "neighbourhood_id":85890543,
+            "region_id":85688671,
+            "venue_id":857533465
+        }
+    ],
+    "wof:id":857533465,
+    "wof:lastmodified":1464202612,
+    "wof:name":"A Barrel of Crafts",
+    "wof:parent_id":85890543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.927091,
+    21.648059,
+    -157.927091,
+    21.648059
+],
+  "geometry": {"coordinates":[-157.92709099999999,21.648059],"type":"Point"}
+}

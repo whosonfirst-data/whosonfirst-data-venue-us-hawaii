@@ -1,0 +1,71 @@
+{
+  "id": 857678207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809205,21.285808,-157.809205,21.285808",
+    "geom:latitude":21.285808,
+    "geom:longitude":-157.809205,
+    "iso:country":"US",
+    "sg:address":"3151 Harding Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 1683",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pf0VHHNN7gUQ95CmBUyOY_21.285808_-157.809205@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206662,
+    "wof:geomhash":"1a9e5dc78296c7dd16efebc9ff16abdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857678207
+        }
+    ],
+    "wof:id":857678207,
+    "wof:lastmodified":1464206662,
+    "wof:name":"Mike's Towing Svc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.809205,
+    21.285808,
+    -157.809205,
+    21.285808
+],
+  "geometry": {"coordinates":[-157.80920499999999,21.285808],"type":"Point"}
+}

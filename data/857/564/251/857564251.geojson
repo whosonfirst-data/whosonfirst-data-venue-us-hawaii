@@ -1,0 +1,66 @@
+{
+  "id": 857564251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882632,21.372429,-157.882632,21.372429",
+    "geom:latitude":21.372429,
+    "geom:longitude":-157.882632,
+    "iso:country":"US",
+    "sg:address":"1856 Ala Noe Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 3701",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70NzHAgtCpowpsIl9qkAjL_21.372429_-157.882632@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203243,
+    "wof:geomhash":"1cb47c6d679ce97d2c95096a92c0af5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857564251
+        }
+    ],
+    "wof:id":857564251,
+    "wof:lastmodified":1464203243,
+    "wof:name":"Nathan Suzuki",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.882632,
+    21.372429,
+    -157.882632,
+    21.372429
+],
+  "geometry": {"coordinates":[-157.882632,21.372429],"type":"Point"}
+}

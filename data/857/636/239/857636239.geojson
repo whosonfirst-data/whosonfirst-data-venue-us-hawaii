@@ -1,0 +1,71 @@
+{
+  "id": 857636239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826881,21.280276,-157.826881,21.280276",
+    "geom:latitude":21.280276,
+    "geom:longitude":-157.826881,
+    "iso:country":"US",
+    "sg:address":"413 Seaside Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 0519",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hl7sSStip7ouqAOuD49gz_21.280276_-157.826881@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204877,
+    "wof:geomhash":"184fc009ea6bc169a281ca13f81d615e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857636239
+        }
+    ],
+    "wof:id":857636239,
+    "wof:lastmodified":1464204877,
+    "wof:name":"Toyo Building Svc Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -157.826881,
+    21.280276,
+    -157.826881,
+    21.280276
+],
+  "geometry": {"coordinates":[-157.82688099999999,21.280276],"type":"Point"}
+}

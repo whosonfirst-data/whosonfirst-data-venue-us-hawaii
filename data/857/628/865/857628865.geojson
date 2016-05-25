@@ -1,0 +1,91 @@
+{
+  "id": 857628865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.915083,21.317534,-157.915083,21.317534",
+    "geom:latitude":21.317534,
+    "geom:longitude":-157.915083,
+    "iso:country":"US",
+    "sg:address":"110 Keehi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 4300",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "scheduled",
+        "courier",
+        "transport",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NSFplD8JtkLf68aVLK29r_21.317534_-157.915083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204640,
+    "wof:geomhash":"bfa7d69e1ccb6c1c92b99da4dc92ee02",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857628865
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857628865
+        }
+    ],
+    "wof:id":857628865,
+    "wof:lastmodified":1464204640,
+    "wof:name":"Fedex",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "courier",
+        "transport",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.915083,
+    21.317534,
+    -157.915083,
+    21.317534
+],
+  "geometry": {"coordinates":[-157.91508300000001,21.317534],"type":"Point"}
+}

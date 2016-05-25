@@ -1,0 +1,73 @@
+{
+  "id": 857504291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.322731,20.895258,-156.322731,20.895258",
+    "geom:latitude":20.895258,
+    "geom:longitude":-156.322731,
+    "iso:country":"US",
+    "sg:address":"100 Laenani St",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 0050",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specification",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aSWw8YvjdM5TYY4rW4Fn1_20.895258_-156.322731@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202013,
+    "wof:geomhash":"4153bd6ddca63298fd9055f3734e2968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857504291
+        }
+    ],
+    "wof:id":857504291,
+    "wof:lastmodified":1464202013,
+    "wof:name":"Fred Loesberg Architect",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specification",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -156.322731,
+    20.895258,
+    -156.322731,
+    20.895258
+],
+  "geometry": {"coordinates":[-156.322731,20.895258],"type":"Point"}
+}

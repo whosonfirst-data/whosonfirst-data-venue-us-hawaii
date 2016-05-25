@@ -1,0 +1,73 @@
+{
+  "id": 857676747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79544,21.284015,-157.79544,21.284015",
+    "geom:latitude":21.284015,
+    "geom:longitude":-157.79544,
+    "iso:country":"US",
+    "sg:address":"3733 Claudine St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 4658",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YMRdMhHet60cmpsswyWxv_21.284015_-157.795440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206604,
+    "wof:geomhash":"f30a384d453a26885a18ed01dfaa6fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857676747
+        }
+    ],
+    "wof:id":857676747,
+    "wof:lastmodified":1464206604,
+    "wof:name":"Jim's Roofing",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.79544,
+    21.284015,
+    -157.79544,
+    21.284015
+],
+  "geometry": {"coordinates":[-157.79544000000001,21.284015],"type":"Point"}
+}

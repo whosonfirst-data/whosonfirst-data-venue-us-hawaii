@@ -1,0 +1,73 @@
+{
+  "id": 857680063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81043,21.313422,-157.81043,21.313422",
+    "geom:latitude":21.313422,
+    "geom:longitude":-157.81043,
+    "iso:country":"US",
+    "sg:address":"2726 Lowrey Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 1238",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JycNoVG5vuDjWji4lb377_21.313422_-157.810430@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206731,
+    "wof:geomhash":"340d4b0a4b3c1e3d9433c015df93cafd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857680063
+        }
+    ],
+    "wof:id":857680063,
+    "wof:lastmodified":1464206731,
+    "wof:name":"S2 Consulting LLC",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -157.81043,
+    21.313422,
+    -157.81043,
+    21.313422
+],
+  "geometry": {"coordinates":[-157.81043,21.313422],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857608859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.723392,21.287805,-157.723392,21.287805",
+    "geom:latitude":21.287805,
+    "geom:longitude":-157.723392,
+    "iso:country":"US",
+    "sg:address":"252 Kuliouou Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 1377",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tSdvwO3elDKjB9iEaYkjd_21.287805_-157.723392@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204183,
+    "wof:geomhash":"82f48bb785b85699dec7da5301b400af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857608859
+        }
+    ],
+    "wof:id":857608859,
+    "wof:lastmodified":1464204183,
+    "wof:name":"Kapahulu Beauty Salon",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.723392,
+    21.287805,
+    -157.723392,
+    21.287805
+],
+  "geometry": {"coordinates":[-157.72339199999999,21.287805],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857503297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.952499,21.422375,-157.952499,21.422375",
+    "geom:latitude":21.422375,
+    "geom:longitude":-157.952499,
+    "iso:country":"US",
+    "sg:address":"2339 Ahamoa St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 4411",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33cLHs28woaTRyEsI4xT0Z_21.422375_-157.952499@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201991,
+    "wof:geomhash":"783648b69053d4cf4fc4aaeca8a4042f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857503297
+        }
+    ],
+    "wof:id":857503297,
+    "wof:lastmodified":1464201991,
+    "wof:name":"T G Haulaway LLC",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -157.952499,
+    21.422375,
+    -157.952499,
+    21.422375
+],
+  "geometry": {"coordinates":[-157.95249899999999,21.422375],"type":"Point"}
+}

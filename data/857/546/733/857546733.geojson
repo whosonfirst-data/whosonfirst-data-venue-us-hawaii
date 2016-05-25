@@ -1,0 +1,73 @@
+{
+  "id": 857546733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.47943,20.08121,-155.47943,20.08121",
+    "geom:latitude":20.08121,
+    "geom:longitude":-155.47943,
+    "iso:country":"US",
+    "sg:address":"3958 Waipio Rd",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 9322",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LnZ4lozUbhB2mR10aYRRo_20.081210_-155.479430@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202869,
+    "wof:geomhash":"e5cb83a1ef7190dee1de355c3d1b0a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857546733
+        }
+    ],
+    "wof:id":857546733,
+    "wof:lastmodified":1464202869,
+    "wof:name":"Mauna Kea Physical Therapy",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -155.47943,
+    20.08121,
+    -155.47943,
+    20.08121
+],
+  "geometry": {"coordinates":[-155.47943000000001,20.08121],"type":"Point"}
+}

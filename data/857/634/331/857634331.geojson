@@ -1,0 +1,71 @@
+{
+  "id": 857634331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.756642,21.294118,-157.756642,21.294118",
+    "geom:latitude":21.294118,
+    "geom:longitude":-157.756642,
+    "iso:country":"US",
+    "sg:address":"810 Ahuwale St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 9222",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hHqTdEMo0NSpEdyLWzELb_21.294118_-157.756642@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204809,
+    "wof:geomhash":"18917ba5712b0c8219ab8800c306fbe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857634331
+        }
+    ],
+    "wof:id":857634331,
+    "wof:lastmodified":1464204809,
+    "wof:name":"Tru Built Construction LLC",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.756642,
+    21.294118,
+    -157.756642,
+    21.294118
+],
+  "geometry": {"coordinates":[-157.756642,21.294118],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857529591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793965,21.290659,-157.793965,21.290659",
+    "geom:latitude":21.290659,
+    "geom:longitude":-157.793965,
+    "iso:country":"US",
+    "sg:address":"1704 Mikahala Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2177",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QmVrCqJQt6GinfoBRY3eL_21.290659_-157.793965@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202535,
+    "wof:geomhash":"5e16ef5fe9ee4449cb17ab0e0740ad6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857529591
+        }
+    ],
+    "wof:id":857529591,
+    "wof:lastmodified":1464202535,
+    "wof:name":"James B Walfish Consulting Str",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.793965,
+    21.290659,
+    -157.793965,
+    21.290659
+],
+  "geometry": {"coordinates":[-157.79396499999999,21.290659],"type":"Point"}
+}

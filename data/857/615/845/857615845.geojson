@@ -1,0 +1,71 @@
+{
+  "id": 857615845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851022,21.292926,-157.851022,21.292926",
+    "geom:latitude":21.292926,
+    "geom:longitude":-157.851022,
+    "iso:country":"US",
+    "sg:address":"1116 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 9133",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q8F5xvLeg8HXUV9GT1kBj_21.292926_-157.851022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204337,
+    "wof:geomhash":"67a9aba7afb816a464208c2122512d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857615845
+        }
+    ],
+    "wof:id":857615845,
+    "wof:lastmodified":1464204337,
+    "wof:name":"Kua Aina Sandwich Corp",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.851022,
+    21.292926,
+    -157.851022,
+    21.292926
+],
+  "geometry": {"coordinates":[-157.851022,21.292926],"type":"Point"}
+}

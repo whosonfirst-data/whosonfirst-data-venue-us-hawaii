@@ -1,0 +1,71 @@
+{
+  "id": 857592013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.502186,20.882268,-156.502186,20.882268",
+    "geom:latitude":20.882268,
+    "geom:longitude":-156.502186,
+    "iso:country":"US",
+    "sg:address":"547 Waiale Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 2786",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gQuZhwMK3t88vkzusnovg_20.882268_-156.502186@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203806,
+    "wof:geomhash":"409b5efa54abfb13ea1d60b3dde70a21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857592013
+        }
+    ],
+    "wof:id":857592013,
+    "wof:lastmodified":1464203806,
+    "wof:name":"G Ibara Heavy Equipment Rntls",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -156.502186,
+    20.882268,
+    -156.502186,
+    20.882268
+],
+  "geometry": {"coordinates":[-156.50218599999999,20.882268],"type":"Point"}
+}

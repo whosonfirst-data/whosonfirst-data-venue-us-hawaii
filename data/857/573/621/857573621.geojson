@@ -1,0 +1,73 @@
+{
+  "id": 857573621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.871836,21.30199,-157.871836,21.30199",
+    "geom:latitude":21.30199,
+    "geom:longitude":-157.871836,
+    "iso:country":"US",
+    "sg:address":"1026 Puuwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 8598",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hwwFNpTJFB1VgELpA5zjN_21.301990_-157.871836@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203422,
+    "wof:geomhash":"07cd84023bbfcf3b58b2fef68138e3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857573621
+        }
+    ],
+    "wof:id":857573621,
+    "wof:lastmodified":1464203422,
+    "wof:name":"Matt's Transmission Repair Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -157.871836,
+    21.30199,
+    -157.871836,
+    21.30199
+],
+  "geometry": {"coordinates":[-157.871836,21.30199],"type":"Point"}
+}

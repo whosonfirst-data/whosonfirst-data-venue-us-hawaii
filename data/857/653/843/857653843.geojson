@@ -1,0 +1,73 @@
+{
+  "id": 857653843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.087277,19.724671,-155.087277,19.724671",
+    "geom:latitude":19.724671,
+    "geom:longitude":-155.087277,
+    "iso:country":"US",
+    "sg:address":"190 Keawe St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 969 6966",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DisxUWT2uNcaLFZ0cOCDH_19.724671_-155.087277@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205630,
+    "wof:geomhash":"a62077a4755906e269df60b3f365372c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857653843
+        }
+    ],
+    "wof:id":857653843,
+    "wof:lastmodified":1464205630,
+    "wof:name":"Dr Lillan P Holcomb",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -155.087277,
+    19.724671,
+    -155.087277,
+    19.724671
+],
+  "geometry": {"coordinates":[-155.087277,19.724671],"type":"Point"}
+}

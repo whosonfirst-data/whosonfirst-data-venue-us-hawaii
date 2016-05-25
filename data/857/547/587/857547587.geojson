@@ -1,0 +1,71 @@
+{
+  "id": 857547587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793772,21.41489,-157.793772,21.41489",
+    "geom:latitude":21.41489,
+    "geom:longitude":-157.793772,
+    "iso:country":"US",
+    "sg:address":"147 Waikalua Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 233 4400",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22eTVad0W0nhHae0bgEfEJ_21.414890_-157.793772@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202884,
+    "wof:geomhash":"8c6b6b722dc1217b08d5f218ee2a7edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857547587
+        }
+    ],
+    "wof:id":857547587,
+    "wof:lastmodified":1464202884,
+    "wof:name":"Greenhaven Memorial Park",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -157.793772,
+    21.41489,
+    -157.793772,
+    21.41489
+],
+  "geometry": {"coordinates":[-157.79377199999999,21.41489],"type":"Point"}
+}

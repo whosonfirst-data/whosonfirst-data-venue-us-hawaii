@@ -1,0 +1,71 @@
+{
+  "id": 857632663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853457,21.318983,-157.853457,21.318983",
+    "geom:latitude":21.318983,
+    "geom:longitude":-157.853457,
+    "iso:country":"US",
+    "sg:address":"1755 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 1711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "chain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MCE36sKvofjGzkutg3rSf_21.318983_-157.853457@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204742,
+    "wof:geomhash":"39c04301c6511433090ae9058093397c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857632663
+        }
+    ],
+    "wof:id":857632663,
+    "wof:lastmodified":1464204742,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chain"
+    ]
+},
+  "bbox": [
+    -157.853457,
+    21.318983,
+    -157.853457,
+    21.318983
+],
+  "geometry": {"coordinates":[-157.85345699999999,21.318983],"type":"Point"}
+}

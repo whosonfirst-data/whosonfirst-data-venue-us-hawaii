@@ -1,0 +1,75 @@
+{
+  "id": 857529343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829773,21.298451,-157.829773,21.298451",
+    "geom:latitude":21.298451,
+    "geom:longitude":-157.829773,
+    "iso:country":"US",
+    "sg:address":"1942 Metcalf St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8492",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carpentry",
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sibwoVv482anVuswkNYat_21.298451_-157.829773@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202531,
+    "wof:geomhash":"9bc803f5d9f148eb42900477fe9de7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857529343
+        }
+    ],
+    "wof:id":857529343,
+    "wof:lastmodified":1464202531,
+    "wof:name":"M Okamura Contractor Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.829773,
+    21.298451,
+    -157.829773,
+    21.298451
+],
+  "geometry": {"coordinates":[-157.82977299999999,21.298451],"type":"Point"}
+}

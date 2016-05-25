@@ -1,0 +1,73 @@
+{
+  "id": 857638031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829939,21.296832,-157.829939,21.296832",
+    "geom:latitude":21.296832,
+    "geom:longitude":-157.829939,
+    "iso:country":"US",
+    "sg:address":"1924 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 2011",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59deYE4uI242pV2pLOEQDY_21.296832_-157.829939@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204941,
+    "wof:geomhash":"543a3970181d2d322d6c44d5d606b36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857638031
+        }
+    ],
+    "wof:id":857638031,
+    "wof:lastmodified":1464204941,
+    "wof:name":"Ideal Key & Machine Shop",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.829939,
+    21.296832,
+    -157.829939,
+    21.296832
+],
+  "geometry": {"coordinates":[-157.829939,21.296832],"type":"Point"}
+}

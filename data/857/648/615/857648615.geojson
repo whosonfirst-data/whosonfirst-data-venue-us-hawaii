@@ -1,0 +1,73 @@
+{
+  "id": 857648615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.906267,21.346126,-157.906267,21.346126",
+    "geom:latitude":21.346126,
+    "geom:longitude":-157.906267,
+    "iso:country":"US",
+    "sg:address":"5180 Likini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1193",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xj58Pmu1lWcPvI87O7SBs_21.346126_-157.906267@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205399,
+    "wof:geomhash":"de5aa9d277119c48a1d8bbc2dbd0cbe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857648615
+        }
+    ],
+    "wof:id":857648615,
+    "wof:lastmodified":1464205399,
+    "wof:name":"Royal Towers",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.906267,
+    21.346126,
+    -157.906267,
+    21.346126
+],
+  "geometry": {"coordinates":[-157.90626700000001,21.346126],"type":"Point"}
+}

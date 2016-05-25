@@ -1,0 +1,73 @@
+{
+  "id": 857677323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851749,21.328647,-157.851749,21.328647",
+    "geom:latitude":21.328647,
+    "geom:longitude":-157.851749,
+    "iso:country":"US",
+    "sg:address":"2230 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 547 6481",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xewfLUTI4fwYHgKxr5aLl_21.328647_-157.851749@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206625,
+    "wof:geomhash":"b8b71f428188b750928751b8bb1c8a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890271,
+            "region_id":85688671,
+            "venue_id":857677323
+        }
+    ],
+    "wof:id":857677323,
+    "wof:lastmodified":1464206625,
+    "wof:name":"St Francis Med Ctr Med Library",
+    "wof:parent_id":85890271,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -157.851749,
+    21.328647,
+    -157.851749,
+    21.328647
+],
+  "geometry": {"coordinates":[-157.85174900000001,21.328647],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857642223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.932086,21.340029,-157.932086,21.340029",
+    "geom:latitude":21.340029,
+    "geom:longitude":-157.932086,
+    "iso:country":"US",
+    "sg:address":"3950 Paine Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 8622",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.trinityhawaii.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XIApPkI36jQ5Xw0ETr7io_21.340029_-157.932086@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205107,
+    "wof:geomhash":"61a85c8534b5f8921f445e20d506b041",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857642223
+        }
+    ],
+    "wof:id":857642223,
+    "wof:lastmodified":1464205107,
+    "wof:name":"Trinity Missionary Baptist",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.932086,
+    21.340029,
+    -157.932086,
+    21.340029
+],
+  "geometry": {"coordinates":[-157.932086,21.340029],"type":"Point"}
+}

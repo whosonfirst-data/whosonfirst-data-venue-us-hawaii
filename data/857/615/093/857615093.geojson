@@ -1,0 +1,71 @@
+{
+  "id": 857615093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.803184,21.278679,-157.803184,21.278679",
+    "geom:latitude":21.278679,
+    "geom:longitude":-157.803184,
+    "iso:country":"US",
+    "sg:address":"3515 Kaimuki Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 5714",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kDNoeRQlwsuUAFUl943Sm_21.278679_-157.803184@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204324,
+    "wof:geomhash":"5c8889f38ad343c49a70c45d66a2bd67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857615093
+        }
+    ],
+    "wof:id":857615093,
+    "wof:lastmodified":1464204324,
+    "wof:name":"Surf & Turf Cafe The",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.803184,
+    21.278679,
+    -157.803184,
+    21.278679
+],
+  "geometry": {"coordinates":[-157.80318399999999,21.278679],"type":"Point"}
+}

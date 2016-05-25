@@ -1,0 +1,69 @@
+{
+  "id": 857533813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.092952,21.306745,-158.092952,21.306745",
+    "geom:latitude":21.306745,
+    "geom:longitude":-158.092952,
+    "iso:country":"US",
+    "sg:address":"320 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 1202",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "can"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ykI4CqQht9YDgzTE0Cvl_21.306745_-158.092952@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202618,
+    "wof:geomhash":"fccff6ed6b50d50b8a5f03c1ca6a2d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857533813
+        }
+    ],
+    "wof:id":857533813,
+    "wof:lastmodified":1464202618,
+    "wof:name":"Ball Corp",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "can"
+    ]
+},
+  "bbox": [
+    -158.092952,
+    21.306745,
+    -158.092952,
+    21.306745
+],
+  "geometry": {"coordinates":[-158.092952,21.306745],"type":"Point"}
+}

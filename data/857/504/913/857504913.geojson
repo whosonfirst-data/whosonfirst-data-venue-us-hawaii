@@ -1,0 +1,71 @@
+{
+  "id": 857504913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.839689,21.306022,-157.839689,21.306022",
+    "geom:latitude":21.306022,
+    "geom:longitude":-157.839689,
+    "iso:country":"US",
+    "sg:address":"1571 Piikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 2841",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ig0AGD9GAcm3FS4EhnJ1Y_21.306022_-157.839689@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202026,
+    "wof:geomhash":"cd8a2b2297983e5ce94b6773c6f8e049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857504913
+        }
+    ],
+    "wof:id":857504913,
+    "wof:lastmodified":1464202026,
+    "wof:name":"Lee Wing Loy",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -157.839689,
+    21.306022,
+    -157.839689,
+    21.306022
+],
+  "geometry": {"coordinates":[-157.83968899999999,21.306022],"type":"Point"}
+}

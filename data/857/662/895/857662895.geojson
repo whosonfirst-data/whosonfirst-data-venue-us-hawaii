@@ -1,0 +1,69 @@
+{
+  "id": 857662895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.541105,22.212102,-159.541105,22.212102",
+    "geom:latitude":22.212102,
+    "geom:longitude":-159.541105,
+    "iso:country":"US",
+    "sg:address":"4630 Ananalu Rd",
+    "sg:city":"Hanalei",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 826 6566",
+    "sg:postcode":"96714",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890175,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j1Hx3GNQ83Couvv7mNPiy_22.212102_-159.541105@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206044,
+    "wof:geomhash":"9346d0b004a9b2e324ccd7a92779036f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890175,
+            "region_id":85688671,
+            "venue_id":857662895
+        }
+    ],
+    "wof:id":857662895,
+    "wof:lastmodified":1464206044,
+    "wof:name":"Amazing Grace Church",
+    "wof:parent_id":85890175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -159.541105,
+    22.212102,
+    -159.541105,
+    22.212102
+],
+  "geometry": {"coordinates":[-159.54110499999999,22.212102],"type":"Point"}
+}

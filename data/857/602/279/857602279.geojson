@@ -1,0 +1,71 @@
+{
+  "id": 857602279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.333873,22.09855,-159.333873,22.09855",
+    "geom:latitude":22.09855,
+    "geom:longitude":-159.333873,
+    "iso:country":"US",
+    "sg:address":"5651 Kawaihau Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 5437",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IhcJY9Ec5oyFZI5QhDVf0_22.098550_-159.333873@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204034,
+    "wof:geomhash":"e647034b64eccf386206dfc45c841370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857602279
+        }
+    ],
+    "wof:id":857602279,
+    "wof:lastmodified":1464204034,
+    "wof:name":"Rainbow Isle Restoration",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -159.333873,
+    22.09855,
+    -159.333873,
+    22.09855
+],
+  "geometry": {"coordinates":[-159.33387300000001,22.09855],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857518321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907913,21.333958,-157.907913,21.333958",
+    "geom:latitude":21.333958,
+    "geom:longitude":-157.907913,
+    "iso:country":"US",
+    "sg:address":"544 Ohohia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2351",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aqsuASwjAlzl498a1lSNS_21.333958_-157.907913@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202314,
+    "wof:geomhash":"00222722a27bf9d4bd80779d0facc0cd",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857518321
+        }
+    ],
+    "wof:id":857518321,
+    "wof:lastmodified":1464202314,
+    "wof:name":"Pacific United Ltd",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.907913,
+    21.333958,
+    -157.907913,
+    21.333958
+],
+  "geometry": {"coordinates":[-157.90791300000001,21.333958],"type":"Point"}
+}

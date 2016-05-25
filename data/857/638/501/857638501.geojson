@@ -1,0 +1,71 @@
+{
+  "id": 857638501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.031858,21.49517,-158.031858,21.49517",
+    "geom:latitude":21.49517,
+    "geom:longitude":-158.031858,
+    "iso:country":"US",
+    "sg:address":"302 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 7959",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4qLMGG9FhktJ88B2vnZb_21.495170_-158.031858@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204960,
+    "wof:geomhash":"cd9c65c0ac0acc94c05f2c5e118f2a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857638501
+        }
+    ],
+    "wof:id":857638501,
+    "wof:lastmodified":1464204960,
+    "wof:name":"Richard S Oh MD",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -158.031858,
+    21.49517,
+    -158.031858,
+    21.49517
+],
+  "geometry": {"coordinates":[-158.031858,21.49517],"type":"Point"}
+}

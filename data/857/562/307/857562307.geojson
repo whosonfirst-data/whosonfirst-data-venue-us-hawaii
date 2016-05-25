@@ -1,0 +1,71 @@
+{
+  "id": 857562307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.999035,21.471718,-157.999035,21.471718",
+    "geom:latitude":21.471718,
+    "geom:longitude":-157.999035,
+    "iso:country":"US",
+    "sg:address":"1111 Makaikai St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 3000",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jDcAB7DxWXL8V2Ul2KBEj_21.471718_-157.999035@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203208,
+    "wof:geomhash":"63a3437a7a5d282f85f78e0df5617117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857562307
+        }
+    ],
+    "wof:id":857562307,
+    "wof:lastmodified":1464203208,
+    "wof:name":"Mililani-Mauka Elementary Schl",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.999035,
+    21.471718,
+    -157.999035,
+    21.471718
+],
+  "geometry": {"coordinates":[-157.99903499999999,21.471718],"type":"Point"}
+}

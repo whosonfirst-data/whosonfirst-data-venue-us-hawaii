@@ -1,0 +1,73 @@
+{
+  "id": 857624007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846926,21.321685,-157.846926,21.321685",
+    "geom:latitude":21.321685,
+    "geom:longitude":-157.846926,
+    "iso:country":"US",
+    "sg:address":"2221 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 3944",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HhgEFzjwr6e8p1TtCrYn0_21.321685_-157.846926@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204542,
+    "wof:geomhash":"52a72e278083adad569be5fe20b03f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857624007
+        }
+    ],
+    "wof:id":857624007,
+    "wof:lastmodified":1464204542,
+    "wof:name":"Erik Christensen",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -157.846926,
+    21.321685,
+    -157.846926,
+    21.321685
+],
+  "geometry": {"coordinates":[-157.846926,21.321685],"type":"Point"}
+}

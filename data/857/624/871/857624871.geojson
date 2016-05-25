@@ -1,0 +1,71 @@
+{
+  "id": 857624871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.319828,22.066658,-159.319828,22.066658",
+    "geom:latitude":22.066658,
+    "geom:longitude":-159.319828,
+    "iso:country":"US",
+    "sg:address":"970 Kipuni Way",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 0488",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05b2MIPRKAdffWpQuCRDof_22.066658_-159.319828@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204559,
+    "wof:geomhash":"5ba8153439cc7faf5c4c85704b89a8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857624871
+        }
+    ],
+    "wof:id":857624871,
+    "wof:lastmodified":1464204559,
+    "wof:name":"Kapaa Mini Repair & Svc",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -159.319828,
+    22.066658,
+    -159.319828,
+    22.066658
+],
+  "geometry": {"coordinates":[-159.319828,22.066658],"type":"Point"}
+}

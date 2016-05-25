@@ -1,0 +1,67 @@
+{
+  "id": 857645889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841489,21.295235,-157.841489,21.295235",
+    "geom:latitude":21.295235,
+    "geom:longitude":-157.841489,
+    "iso:country":"US",
+    "sg:address":"711 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 0848",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:website":"www.ross.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eTQSziMb166Wb1GvA6lBF_21.295235_-157.841489@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205273,
+    "wof:geomhash":"c945ad98adc3bffb5b7a879843862c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857645889
+        }
+    ],
+    "wof:id":857645889,
+    "wof:lastmodified":1464205273,
+    "wof:name":"Ross Dress For Less",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.841489,
+    21.295235,
+    -157.841489,
+    21.295235
+],
+  "geometry": {"coordinates":[-157.841489,21.295235],"type":"Point"}
+}

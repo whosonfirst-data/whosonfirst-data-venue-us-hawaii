@@ -1,0 +1,71 @@
+{
+  "id": 857577759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859288,21.299021,-157.859288,21.299021",
+    "geom:latitude":21.299021,
+    "geom:longitude":-157.859288,
+    "iso:country":"US",
+    "sg:address":"407 Coral St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 7867",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UW6Dci6GBZu79Oyqgafnf_21.299021_-157.859288@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203506,
+    "wof:geomhash":"ee9d43ceff967fa02ae287006cb0bd4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857577759
+        }
+    ],
+    "wof:id":857577759,
+    "wof:lastmodified":1464203506,
+    "wof:name":"Storage Roon The",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -157.859288,
+    21.299021,
+    -157.859288,
+    21.299021
+],
+  "geometry": {"coordinates":[-157.85928799999999,21.299021],"type":"Point"}
+}

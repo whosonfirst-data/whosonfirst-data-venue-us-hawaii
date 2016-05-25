@@ -1,0 +1,71 @@
+{
+  "id": 857670811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804177,21.278725,-157.804177,21.278725",
+    "geom:latitude":21.278725,
+    "geom:longitude":-157.804177,
+    "iso:country":"US",
+    "sg:address":"826 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8555",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W5QL84EDIYDR8wjjskgQF_21.278725_-157.804177@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206369,
+    "wof:geomhash":"9988635df344b4ded39b34d21ec04baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857670811
+        }
+    ],
+    "wof:id":857670811,
+    "wof:lastmodified":1464206369,
+    "wof:name":"Expetec Technology Svc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.804177,
+    21.278725,
+    -157.804177,
+    21.278725
+],
+  "geometry": {"coordinates":[-157.80417700000001,21.278725],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857572027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883062,21.33067,-157.883062,21.33067",
+    "geom:latitude":21.33067,
+    "geom:longitude":-157.883062,
+    "iso:country":"US",
+    "sg:address":"2143 Eluwene St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 6265",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCGE6c8smHeCBGFUFrNBz_21.330670_-157.883062@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203389,
+    "wof:geomhash":"a11cb1824505822a3430c884cf4a48c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857572027
+        }
+    ],
+    "wof:id":857572027,
+    "wof:lastmodified":1464203389,
+    "wof:name":"R S Toyama Roofing Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.883062,
+    21.33067,
+    -157.883062,
+    21.33067
+],
+  "geometry": {"coordinates":[-157.883062,21.33067],"type":"Point"}
+}

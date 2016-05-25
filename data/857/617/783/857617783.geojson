@@ -1,0 +1,71 @@
+{
+  "id": 857617783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864189,21.32395,-157.864189,21.32395",
+    "geom:latitude":21.32395,
+    "geom:longitude":-157.864189,
+    "iso:country":"US",
+    "sg:address":"1521 Palama St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3448",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uBtPjFjJTlxXrefKeHiKu_21.323950_-157.864189@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204373,
+    "wof:geomhash":"9b0a5483ac6e868e9002f419caa30a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857617783
+        }
+    ],
+    "wof:id":857617783,
+    "wof:lastmodified":1464204373,
+    "wof:name":"Likelike Market",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.864189,
+    21.32395,
+    -157.864189,
+    21.32395
+],
+  "geometry": {"coordinates":[-157.86418900000001,21.32395],"type":"Point"}
+}

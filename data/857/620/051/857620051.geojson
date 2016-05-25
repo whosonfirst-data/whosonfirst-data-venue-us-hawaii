@@ -1,0 +1,71 @@
+{
+  "id": 857620051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.176898,21.404442,-158.176898,21.404442",
+    "geom:latitude":21.404442,
+    "geom:longitude":-158.176898,
+    "iso:country":"US",
+    "sg:address":"915 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 697 1383",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MChX28Wt8nTSEf6f52JVM_21.404442_-158.176898@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204435,
+    "wof:geomhash":"2b50c42e331246b4a0181c4f410bcd85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857620051
+        }
+    ],
+    "wof:id":857620051,
+    "wof:lastmodified":1464204435,
+    "wof:name":"Red Baron's Pizza",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.176898,
+    21.404442,
+    -158.176898,
+    21.404442
+],
+  "geometry": {"coordinates":[-158.17689799999999,21.404442],"type":"Point"}
+}

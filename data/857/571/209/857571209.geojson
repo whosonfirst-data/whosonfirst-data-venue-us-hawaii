@@ -1,0 +1,89 @@
+{
+  "id": 857571209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828344,21.299937,-157.828344,21.299937",
+    "geom:latitude":21.299937,
+    "geom:longitude":-157.828344,
+    "iso:country":"US",
+    "sg:address":"1518 Evelyn Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Race Track",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 3393",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "center",
+        "religious",
+        "youth",
+        "organization",
+        "operation",
+        "racing",
+        "or"
+    ],
+    "sg:website":"www.boxcarracing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T4KSzLi3rHRoSlakBclSG_21.299937_-157.828344@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203375,
+    "wof:geomhash":"c39e17862a1393809b438899e88a5cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857571209
+        }
+    ],
+    "wof:id":857571209,
+    "wof:lastmodified":1464203375,
+    "wof:name":"American Box Car Racing Intl",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "religious",
+        "youth",
+        "organization",
+        "operation",
+        "racing",
+        "or"
+    ]
+},
+  "bbox": [
+    -157.828344,
+    21.299937,
+    -157.828344,
+    21.299937
+],
+  "geometry": {"coordinates":[-157.82834399999999,21.299937],"type":"Point"}
+}

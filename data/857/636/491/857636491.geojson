@@ -1,0 +1,71 @@
+{
+  "id": 857636491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866253,21.32043,-157.866253,21.32043",
+    "geom:latitude":21.32043,
+    "geom:longitude":-157.866253,
+    "iso:country":"US",
+    "sg:address":"628 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5456",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vj5AFDopav1zdKF5mvwoo_21.320430_-157.866253@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204886,
+    "wof:geomhash":"d20f36171c808595c3ef22c9b92cbee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857636491
+        }
+    ],
+    "wof:id":857636491,
+    "wof:lastmodified":1464204886,
+    "wof:name":"A Happy Pawn",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -157.866253,
+    21.32043,
+    -157.866253,
+    21.32043
+],
+  "geometry": {"coordinates":[-157.866253,21.32043],"type":"Point"}
+}

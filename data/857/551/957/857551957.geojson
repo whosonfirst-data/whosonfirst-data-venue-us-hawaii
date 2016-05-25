@@ -1,0 +1,73 @@
+{
+  "id": 857551957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.076261,19.710175,-155.076261,19.710175",
+    "geom:latitude":19.710175,
+    "geom:longitude":-155.076261,
+    "iso:country":"US",
+    "sg:address":"1257 Kilauea Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 932 2049",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x5EXqtavQrCCHltigvrP6_19.710175_-155.076261@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202971,
+    "wof:geomhash":"05d9824b73c36611984f52a750871313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857551957
+        }
+    ],
+    "wof:id":857551957,
+    "wof:lastmodified":1464202971,
+    "wof:name":"Oceanic Time Warner Cable",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -155.076261,
+    19.710175,
+    -155.076261,
+    19.710175
+],
+  "geometry": {"coordinates":[-155.07626099999999,19.710175],"type":"Point"}
+}

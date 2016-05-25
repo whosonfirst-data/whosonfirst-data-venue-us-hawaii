@@ -1,0 +1,75 @@
+{
+  "id": 857537833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883738,21.354147,-157.883738,21.354147",
+    "geom:latitude":21.354147,
+    "geom:longitude":-157.883738,
+    "iso:country":"US",
+    "sg:address":"1707 Ala Amoamo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 7526",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NtyjgtDg6gV6xwOV1oURI_21.354147_-157.883738@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202695,
+    "wof:geomhash":"318a0388e85d5a50d25f295d445d7cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857537833
+        }
+    ],
+    "wof:id":857537833,
+    "wof:lastmodified":1464202695,
+    "wof:name":"Pro Glass Tinting Specialist",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -157.883738,
+    21.354147,
+    -157.883738,
+    21.354147
+],
+  "geometry": {"coordinates":[-157.88373799999999,21.354147],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857543275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809241,21.293146,-157.809241,21.293146",
+    "geom:latitude":21.293146,
+    "geom:longitude":-157.809241,
+    "iso:country":"US",
+    "sg:address":"1362 Saint Louis Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 3945",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NdnHVu8QZOd4Oj2fnhm0k_21.293146_-157.809241@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202807,
+    "wof:geomhash":"b807193d8fbb28db8d68c63bd798cd49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857543275
+        }
+    ],
+    "wof:id":857543275,
+    "wof:lastmodified":1464202807,
+    "wof:name":"Coast Recreation Inc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.809241,
+    21.293146,
+    -157.809241,
+    21.293146
+],
+  "geometry": {"coordinates":[-157.80924099999999,21.293146],"type":"Point"}
+}

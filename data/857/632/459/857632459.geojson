@@ -1,0 +1,69 @@
+{
+  "id": 857632459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.606493,20.044046,-155.606493,20.044046",
+    "geom:latitude":20.044046,
+    "geom:longitude":-155.606493,
+    "iso:country":"US",
+    "sg:address":"5237 Puanuanu Pl",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 6303",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LXSawtCzJa7ZO5FxRNkNM_20.044046_-155.606493@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204731,
+    "wof:geomhash":"8af79f560ca3dafd5368980dccb2cfe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857632459
+        }
+    ],
+    "wof:id":857632459,
+    "wof:lastmodified":1464204731,
+    "wof:name":"Lowney Contracting Co Inc",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.606493,
+    20.044046,
+    -155.606493,
+    20.044046
+],
+  "geometry": {"coordinates":[-155.606493,20.044046],"type":"Point"}
+}

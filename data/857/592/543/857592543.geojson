@@ -1,0 +1,66 @@
+{
+  "id": 857592543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861446,21.313474,-157.861446,21.313474",
+    "geom:latitude":21.313474,
+    "geom:longitude":-157.861446,
+    "iso:country":"US",
+    "sg:address":"171 N Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 3074",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bLRUqOWDpPIyVvth6zD5Z_21.313474_-157.861446@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203817,
+    "wof:geomhash":"13dc1ce97bad378d82772ac81a85e068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857592543
+        }
+    ],
+    "wof:id":857592543,
+    "wof:lastmodified":1464203817,
+    "wof:name":"Noi General Store",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.861446,
+    21.313474,
+    -157.861446,
+    21.313474
+],
+  "geometry": {"coordinates":[-157.861446,21.313474],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857670203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840825,21.327958,-157.840825,21.327958",
+    "geom:latitude":21.327958,
+    "geom:longitude":-157.840825,
+    "iso:country":"US",
+    "sg:address":"2990 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 4140",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qcnh5P3vYo6E7J0cdcufa_21.327958_-157.840825@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206347,
+    "wof:geomhash":"6778bf79352329c09e08a130048cfbd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857670203
+        }
+    ],
+    "wof:id":857670203,
+    "wof:lastmodified":1464206347,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.840825,
+    21.327958,
+    -157.840825,
+    21.327958
+],
+  "geometry": {"coordinates":[-157.840825,21.327958],"type":"Point"}
+}

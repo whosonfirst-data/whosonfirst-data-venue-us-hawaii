@@ -1,0 +1,77 @@
+{
+  "id": 857522201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.08409,19.72255,-155.08409,19.72255",
+    "geom:latitude":19.72255,
+    "geom:longitude":-155.08409,
+    "iso:country":"US",
+    "sg:address":"52 Ponahawai St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 1417",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "beverage",
+        "eating",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YTu9zd5I0KiQiTbwkUsG9_19.722550_-155.084090@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202394,
+    "wof:geomhash":"9b6f61cace49867eb6551a969907d6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857522201
+        }
+    ],
+    "wof:id":857522201,
+    "wof:lastmodified":1464202394,
+    "wof:name":"Koji Bento Korner",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "eating",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -155.08409,
+    19.72255,
+    -155.08409,
+    19.72255
+],
+  "geometry": {"coordinates":[-155.08409,19.72255],"type":"Point"}
+}

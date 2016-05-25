@@ -1,0 +1,73 @@
+{
+  "id": 857662417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.910073,21.346041,-157.910073,21.346041",
+    "geom:latitude":21.346041,
+    "geom:longitude":-157.910073,
+    "iso:country":"US",
+    "sg:address":"949 Ala Nanala St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 8845",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MY4ZRaKloxUFOMaOMCgUt_21.346041_-157.910073@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206026,
+    "wof:geomhash":"7374223e827d57e7e29c94eba938f66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857662417
+        }
+    ],
+    "wof:id":857662417,
+    "wof:lastmodified":1464206026,
+    "wof:name":"Coko",
+    "wof:parent_id":85869065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.910073,
+    21.346041,
+    -157.910073,
+    21.346041
+],
+  "geometry": {"coordinates":[-157.91007300000001,21.346041],"type":"Point"}
+}

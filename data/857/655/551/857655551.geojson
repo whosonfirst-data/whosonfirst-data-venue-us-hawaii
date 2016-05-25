@@ -1,0 +1,76 @@
+{
+  "id": 857655551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.920354,21.332647,-157.920354,21.332647",
+    "geom:latitude":21.332647,
+    "geom:longitude":-157.920354,
+    "iso:country":"US",
+    "sg:address":"324 Rodgers Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 4930",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating",
+        "caterer"
+    ],
+    "sg:website":"www.gategourmet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mb0R4mLCrs7vHWuwuojbm_21.332647_-157.920354@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205704,
+    "wof:geomhash":"2614af6f83d3a2c5feed3f03f3b90491",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857655551
+        }
+    ],
+    "wof:id":857655551,
+    "wof:lastmodified":1464205704,
+    "wof:name":"Gate Gourmet Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.920354,
+    21.332647,
+    -157.920354,
+    21.332647
+],
+  "geometry": {"coordinates":[-157.920354,21.332647],"type":"Point"}
+}

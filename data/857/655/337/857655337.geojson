@@ -1,0 +1,73 @@
+{
+  "id": 857655337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787251,21.289631,-157.787251,21.289631",
+    "geom:latitude":21.289631,
+    "geom:longitude":-157.787251,
+    "iso:country":"US",
+    "sg:address":"3903 Pili Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 4040",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "photographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gFL4UONVg0YZRjdGmWat3_21.289631_-157.787251@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205696,
+    "wof:geomhash":"3e2e98bf20f49048aefcae5c301653fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857655337
+        }
+    ],
+    "wof:id":857655337,
+    "wof:lastmodified":1464205696,
+    "wof:name":"Honolulu Photo Agency",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "photographic"
+    ]
+},
+  "bbox": [
+    -157.787251,
+    21.289631,
+    -157.787251,
+    21.289631
+],
+  "geometry": {"coordinates":[-157.787251,21.289631],"type":"Point"}
+}

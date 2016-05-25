@@ -1,0 +1,71 @@
+{
+  "id": 857570879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.019755,21.375313,-158.019755,21.375313",
+    "geom:latitude":21.375313,
+    "geom:longitude":-158.019755,
+    "iso:country":"US",
+    "sg:address":"75 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 1122",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yrWWAc2oYNtQx7y70kViy_21.375313_-158.019755@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203369,
+    "wof:geomhash":"37ab5648f3a4416e62d7e3fcced8f6fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857570879
+        }
+    ],
+    "wof:id":857570879,
+    "wof:lastmodified":1464203369,
+    "wof:name":"Snyders Machine Works Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.019755,
+    21.375313,
+    -158.019755,
+    21.375313
+],
+  "geometry": {"coordinates":[-158.019755,21.375313],"type":"Point"}
+}

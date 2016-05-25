@@ -1,0 +1,73 @@
+{
+  "id": 857678187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863237,21.300821,-157.863237,21.300821",
+    "geom:latitude":21.300821,
+    "geom:longitude":-157.863237,
+    "iso:country":"US",
+    "sg:address":"591 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 4725",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ta5QSazFLsCaSJsn1b43x_21.300821_-157.863237@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206661,
+    "wof:geomhash":"02435174a2da4bceb39dcb35e90535cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857678187
+        }
+    ],
+    "wof:id":857678187,
+    "wof:lastmodified":1464206661,
+    "wof:name":"Food & Drug",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.863237,
+    21.300821,
+    -157.863237,
+    21.300821
+],
+  "geometry": {"coordinates":[-157.863237,21.300821],"type":"Point"}
+}

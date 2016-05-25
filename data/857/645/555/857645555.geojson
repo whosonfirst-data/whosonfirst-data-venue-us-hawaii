@@ -1,0 +1,73 @@
+{
+  "id": 857645555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884548,21.323081,-157.884548,21.323081",
+    "geom:latitude":21.323081,
+    "geom:longitude":-157.884548,
+    "iso:country":"US",
+    "sg:address":"1814 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 3655",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CaKnrFjmVV8ejjESCLCFL_21.323081_-157.884548@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205261,
+    "wof:geomhash":"6b49037a5ce812941cfaa43334482fa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857645555
+        }
+    ],
+    "wof:id":857645555,
+    "wof:lastmodified":1464205261,
+    "wof:name":"Naka's Auto Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.884548,
+    21.323081,
+    -157.884548,
+    21.323081
+],
+  "geometry": {"coordinates":[-157.884548,21.323081],"type":"Point"}
+}

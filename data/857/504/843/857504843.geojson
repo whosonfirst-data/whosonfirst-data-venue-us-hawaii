@@ -1,0 +1,75 @@
+{
+  "id": 857504843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.681953,20.963125,-156.681953,20.963125",
+    "geom:latitude":20.963125,
+    "geom:longitude":-156.681953,
+    "iso:country":"US",
+    "sg:address":"33 Nia Pl",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 667 1936",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937613,
+        102085577,
+        85890515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UxqxRPcgRB1ND67M1u9fN_20.963125_-156.681953@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202025,
+    "wof:geomhash":"bf9fffbb8abed3ed743506e91d7bee5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937613,
+            "neighbourhood_id":85890515,
+            "region_id":85688671,
+            "venue_id":857504843
+        }
+    ],
+    "wof:id":857504843,
+    "wof:lastmodified":1464202025,
+    "wof:name":"Sunshine Plumbing",
+    "wof:parent_id":85890515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.681953,
+    20.963125,
+    -156.681953,
+    20.963125
+],
+  "geometry": {"coordinates":[-156.68195299999999,20.963125],"type":"Point"}
+}

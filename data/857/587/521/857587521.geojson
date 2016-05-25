@@ -1,0 +1,71 @@
+{
+  "id": 857587521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911622,21.390045,-157.911622,21.390045",
+    "geom:latitude":21.390045,
+    "geom:longitude":-157.911622,
+    "iso:country":"US",
+    "sg:address":"139 Napuanani Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 1889",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "camping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ScLPs6viBQKeyctvigs0P_21.390045_-157.911622@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203704,
+    "wof:geomhash":"cdcdd873d601789382cc804de76a7599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857587521
+        }
+    ],
+    "wof:id":857587521,
+    "wof:lastmodified":1464203704,
+    "wof:name":"A Plus Party Tent Rentals",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camping"
+    ]
+},
+  "bbox": [
+    -157.911622,
+    21.390045,
+    -157.911622,
+    21.390045
+],
+  "geometry": {"coordinates":[-157.91162199999999,21.390045],"type":"Point"}
+}

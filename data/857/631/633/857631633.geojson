@@ -1,0 +1,73 @@
+{
+  "id": 857631633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.079833,19.710662,-155.079833,19.710662",
+    "geom:latitude":19.710662,
+    "geom:longitude":-155.079833,
+    "iso:country":"US",
+    "sg:address":"1142 Kinoole St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 3911",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YhkxMWjMYq7TIUQ6rLCiL_19.710662_-155.079833@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204701,
+    "wof:geomhash":"6fa1b07d2497730329f73d40db11263f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857631633
+        }
+    ],
+    "wof:id":857631633,
+    "wof:lastmodified":1464204701,
+    "wof:name":"Ken M Yamashiro DDS Inc",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -155.079833,
+    19.710662,
+    -155.079833,
+    19.710662
+],
+  "geometry": {"coordinates":[-155.07983300000001,19.710662],"type":"Point"}
+}

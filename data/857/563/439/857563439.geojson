@@ -1,0 +1,71 @@
+{
+  "id": 857563439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.80553,21.321795,-157.80553,21.321795",
+    "geom:latitude":21.321795,
+    "geom:longitude":-157.80553,
+    "iso:country":"US",
+    "sg:address":"3325 Loulu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3480",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YbCD8lWLRpzjBDb6xvCyV_21.321795_-157.805530@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203228,
+    "wof:geomhash":"acb902cb474c8dcd87d6070e88b4c92b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857563439
+        }
+    ],
+    "wof:id":857563439,
+    "wof:lastmodified":1464203228,
+    "wof:name":"Donald W T Fong DDS",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.80553,
+    21.321795,
+    -157.80553,
+    21.321795
+],
+  "geometry": {"coordinates":[-157.80553,21.321795],"type":"Point"}
+}

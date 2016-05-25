@@ -1,0 +1,82 @@
+{
+  "id": 857681547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.774167,21.271954,-157.774167,21.271954",
+    "geom:latitude":21.271954,
+    "geom:longitude":-157.774167,
+    "iso:country":"US",
+    "sg:address":"5000 Kahala Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3321-the-veranda/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 8895",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51de1xcx5RxqkfzSk8Rvyi_21.271954_-157.774167@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206788,
+    "wof:geomhash":"046b7b4ba1857f380a73d406f5c5bbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857681547
+        }
+    ],
+    "wof:id":857681547,
+    "wof:lastmodified":1464206788,
+    "wof:name":"The Veranda",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -157.774167,
+    21.271954,
+    -157.774167,
+    21.271954
+],
+  "geometry": {"coordinates":[-157.77416700000001,21.271954],"type":"Point"}
+}

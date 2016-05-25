@@ -1,0 +1,77 @@
+{
+  "id": 857668081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.455704,20.73665,-156.455704,20.73665",
+    "geom:latitude":20.73665,
+    "geom:longitude":-156.455704,
+    "iso:country":"US",
+    "sg:address":"1710 Halama St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 879 4298",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04cNnrbXlLY37iFIHMrrM2_20.736650_-156.455704@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206262,
+    "wof:geomhash":"dd700f579af0ec1572da806433e18191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857668081
+        }
+    ],
+    "wof:id":857668081,
+    "wof:lastmodified":1464206262,
+    "wof:name":"Hawaiian Auto Leasing Ren",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -156.455704,
+    20.73665,
+    -156.455704,
+    20.73665
+],
+  "geometry": {"coordinates":[-156.455704,20.73665],"type":"Point"}
+}

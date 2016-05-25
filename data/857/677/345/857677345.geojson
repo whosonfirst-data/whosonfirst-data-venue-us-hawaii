@@ -1,0 +1,71 @@
+{
+  "id": 857677345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916704,21.366973,-157.916704,21.366973",
+    "geom:latitude":21.366973,
+    "geom:longitude":-157.916704,
+    "iso:country":"US",
+    "sg:address":"1689 Piikea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 1834",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ritUAWsaHKRCbT35gPGN_21.366973_-157.916704@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206626,
+    "wof:geomhash":"3c6256f3ae2b5f99d9470e2bc5f955b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857677345
+        }
+    ],
+    "wof:id":857677345,
+    "wof:lastmodified":1464206626,
+    "wof:name":"Zz Type",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -157.916704,
+    21.366973,
+    -157.916704,
+    21.366973
+],
+  "geometry": {"coordinates":[-157.91670400000001,21.366973],"type":"Point"}
+}

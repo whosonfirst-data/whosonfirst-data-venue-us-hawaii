@@ -1,0 +1,72 @@
+{
+  "id": 857655199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808374,21.317547,-157.808374,21.317547",
+    "geom:latitude":21.317547,
+    "geom:longitude":-157.808374,
+    "iso:country":"US",
+    "sg:address":"3155 Manoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 1868",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.manoa.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IOD9wRd5EM94K9yeVMnOf_21.317547_-157.808374@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205691,
+    "wof:geomhash":"f6c79c50ad2051a0c1a90fb04cd1d382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857655199
+        }
+    ],
+    "wof:id":857655199,
+    "wof:lastmodified":1464205691,
+    "wof:name":"Manoa School",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.808374,
+    21.317547,
+    -157.808374,
+    21.317547
+],
+  "geometry": {"coordinates":[-157.80837399999999,21.317547],"type":"Point"}
+}

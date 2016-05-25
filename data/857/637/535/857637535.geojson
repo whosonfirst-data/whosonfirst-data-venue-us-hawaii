@@ -1,0 +1,71 @@
+{
+  "id": 857637535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810046,21.307362,-157.810046,21.307362",
+    "geom:latitude":21.307362,
+    "geom:longitude":-157.810046,
+    "iso:country":"US",
+    "sg:address":"2752 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6762",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qBAhvWCOwjmHrtwBjuDIp_21.307362_-157.810046@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204924,
+    "wof:geomhash":"843b7b5c5e18a25a462886e3c8ce08c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857637535
+        }
+    ],
+    "wof:id":857637535,
+    "wof:lastmodified":1464204924,
+    "wof:name":"Young Laundry & Dry Cleaning",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -157.810046,
+    21.307362,
+    -157.810046,
+    21.307362
+],
+  "geometry": {"coordinates":[-157.810046,21.307362],"type":"Point"}
+}

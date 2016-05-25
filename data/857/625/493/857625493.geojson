@@ -1,0 +1,73 @@
+{
+  "id": 857625493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788896,21.404852,-157.788896,21.404852",
+    "geom:latitude":21.404852,
+    "geom:longitude":-157.788896,
+    "iso:country":"US",
+    "sg:address":"244 Iole St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 216 9473",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S2al4KO97jO4e6HytqIid_21.404852_-157.788896@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204572,
+    "wof:geomhash":"7ec269da9e021dfec740fe9f9792dae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857625493
+        }
+    ],
+    "wof:id":857625493,
+    "wof:lastmodified":1464204572,
+    "wof:name":"Shockwave Electric",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.788896,
+    21.404852,
+    -157.788896,
+    21.404852
+],
+  "geometry": {"coordinates":[-157.78889599999999,21.404852],"type":"Point"}
+}

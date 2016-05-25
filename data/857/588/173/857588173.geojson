@@ -1,0 +1,69 @@
+{
+  "id": 857588173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.03716,20.798052,-156.03716,20.798052",
+    "geom:latitude":20.798052,
+    "geom:longitude":-156.03716,
+    "iso:country":"US",
+    "sg:address":"100 Ulaino Rd",
+    "sg:city":"Hana",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 248 8655",
+    "sg:postcode":"96713",
+    "sg:province":"HI",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890129,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04OSlyWREUEgvP8jH1sDaY_20.798052_-156.037160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203718,
+    "wof:geomhash":"eb956df6e108bdb1b200fbcebac61cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890129,
+            "region_id":85688671,
+            "venue_id":857588173
+        }
+    ],
+    "wof:id":857588173,
+    "wof:lastmodified":1464203718,
+    "wof:name":"Tropical Flowers Direct",
+    "wof:parent_id":85890129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -156.03716,
+    20.798052,
+    -156.03716,
+    20.798052
+],
+  "geometry": {"coordinates":[-156.03716,20.798052],"type":"Point"}
+}

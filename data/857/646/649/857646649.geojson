@@ -1,0 +1,71 @@
+{
+  "id": 857646649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026699,21.498078,-158.026699,21.498078",
+    "geom:latitude":21.498078,
+    "geom:longitude":-158.026699,
+    "iso:country":"US",
+    "sg:address":"929 Center St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 3961",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D44sjhvTzyERwBCwJAnmf_21.498078_-158.026699@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205320,
+    "wof:geomhash":"3eedee63a76c474d640563ccc92fd880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857646649
+        }
+    ],
+    "wof:id":857646649,
+    "wof:lastmodified":1464205320,
+    "wof:name":"Financial & Food Stamps",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -158.026699,
+    21.498078,
+    -158.026699,
+    21.498078
+],
+  "geometry": {"coordinates":[-158.02669900000001,21.498078],"type":"Point"}
+}

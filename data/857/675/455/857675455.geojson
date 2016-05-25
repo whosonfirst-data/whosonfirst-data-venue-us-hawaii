@@ -1,0 +1,73 @@
+{
+  "id": 857675455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901234,21.375293,-157.901234,21.375293",
+    "geom:latitude":21.375293,
+    "geom:longitude":-157.901234,
+    "iso:country":"US",
+    "sg:address":"125 Waiua Way",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 0136",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "candle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KDrcDFXJbPmdblJiYW2Bw_21.375293_-157.901234@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206542,
+    "wof:geomhash":"40c1a4d79130ff8b361867016cc31589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857675455
+        }
+    ],
+    "wof:id":857675455,
+    "wof:lastmodified":1464206542,
+    "wof:name":"Warehouse",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.901234,
+    21.375293,
+    -157.901234,
+    21.375293
+],
+  "geometry": {"coordinates":[-157.90123399999999,21.375293],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857555275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84484,21.300039,-157.84484,21.300039",
+    "geom:latitude":21.300039,
+    "geom:longitude":-157.84484,
+    "iso:country":"US",
+    "sg:address":"1145 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 9262",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31N7cOur5sNhJWJuZcAzar_21.300039_-157.844840@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203038,
+    "wof:geomhash":"5efb5970a901890a6c6fd1d1da5ed2a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857555275
+        }
+    ],
+    "wof:id":857555275,
+    "wof:lastmodified":1464203038,
+    "wof:name":"Restaurant Yama Chan",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.84484,
+    21.300039,
+    -157.84484,
+    21.300039
+],
+  "geometry": {"coordinates":[-157.84484,21.300039],"type":"Point"}
+}

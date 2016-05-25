@@ -1,0 +1,71 @@
+{
+  "id": 857543125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806187,21.324035,-157.806187,21.324035",
+    "geom:latitude":21.324035,
+    "geom:longitude":-157.806187,
+    "iso:country":"US",
+    "sg:address":"3483 Keahi Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 5385",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D4rjK2Lb2By7xFyZQ0LVo_21.324035_-157.806187@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202804,
+    "wof:geomhash":"9610743b41353ace7878e03edc7d2667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857543125
+        }
+    ],
+    "wof:id":857543125,
+    "wof:lastmodified":1464202804,
+    "wof:name":"Harry M Nakata AIA",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.806187,
+    21.324035,
+    -157.806187,
+    21.324035
+],
+  "geometry": {"coordinates":[-157.80618699999999,21.324035],"type":"Point"}
+}

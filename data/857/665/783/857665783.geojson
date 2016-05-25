@@ -1,0 +1,71 @@
+{
+  "id": 857665783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.705333,21.281648,-157.705333,21.281648",
+    "geom:latitude":21.281648,
+    "geom:longitude":-157.705333,
+    "iso:country":"US",
+    "sg:address":"815 Koko Isle Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 2900",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LQhBrxlHUbBjAbact9377_21.281648_-157.705333@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206163,
+    "wof:geomhash":"3464e7fe857b98ef5f3b07024bda3ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857665783
+        }
+    ],
+    "wof:id":857665783,
+    "wof:lastmodified":1464206163,
+    "wof:name":"Aaspire Communications LLC",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -157.705333,
+    21.281648,
+    -157.705333,
+    21.281648
+],
+  "geometry": {"coordinates":[-157.705333,21.281648],"type":"Point"}
+}

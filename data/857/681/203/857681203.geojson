@@ -1,0 +1,72 @@
+{
+  "id": 857681203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865043,21.307459,-157.865043,21.307459",
+    "geom:latitude":21.307459,
+    "geom:longitude":-157.865043,
+    "iso:country":"US",
+    "sg:address":"1 Aloha Tower Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Brewery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/21437-gordon-biersch-brewery-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 4877",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sNDqosrEjUB7T8sfLuqMz_21.307459_-157.865043@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206775,
+    "wof:geomhash":"3a7408471b23553131a475e7cf86f47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857681203
+        }
+    ],
+    "wof:id":857681203,
+    "wof:lastmodified":1464206775,
+    "wof:name":"Gordon Biersch Brewery Restaurant",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.865043,
+    21.307459,
+    -157.865043,
+    21.307459
+],
+  "geometry": {"coordinates":[-157.86504299999999,21.307459],"type":"Point"}
+}

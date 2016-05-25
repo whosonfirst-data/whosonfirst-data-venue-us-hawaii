@@ -1,0 +1,71 @@
+{
+  "id": 857670503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.708592,21.286789,-157.708592,21.286789",
+    "geom:latitude":21.286789,
+    "geom:longitude":-157.708592,
+    "iso:country":"US",
+    "sg:address":"309 Kukuau Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 1139",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXcVR0iuCVgVJzofS7uSp_21.286789_-157.708592@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206358,
+    "wof:geomhash":"fe14eaddcac80212eada29d05df52759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857670503
+        }
+    ],
+    "wof:id":857670503,
+    "wof:lastmodified":1464206358,
+    "wof:name":"Pro-Touch Painting Co",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.708592,
+    21.286789,
+    -157.708592,
+    21.286789
+],
+  "geometry": {"coordinates":[-157.70859200000001,21.286789],"type":"Point"}
+}

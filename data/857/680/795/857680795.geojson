@@ -1,0 +1,72 @@
+{
+  "id": 857680795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826359,21.436697,-157.826359,21.436697",
+    "geom:latitude":21.436697,
+    "geom:longitude":-157.826359,
+    "iso:country":"US",
+    "sg:address":"47-388 Hui Iwa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/koolaupoko/109763-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 8711",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85869059,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wjhvAu34IjYYKtPsZHBvC_21.436697_-157.826359@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206756,
+    "wof:geomhash":"a00927146bc9c8c5eb7cac0f3d57bfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85869059,
+            "region_id":85688671,
+            "venue_id":857680795
+        }
+    ],
+    "wof:id":857680795,
+    "wof:lastmodified":1464206756,
+    "wof:name":"Subway",
+    "wof:parent_id":85869059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.826359,
+    21.436697,
+    -157.826359,
+    21.436697
+],
+  "geometry": {"coordinates":[-157.826359,21.436697],"type":"Point"}
+}

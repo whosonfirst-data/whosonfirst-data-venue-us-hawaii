@@ -1,0 +1,70 @@
+{
+  "id": 857680735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.787086,19.926416,-155.787086,19.926416",
+    "geom:latitude":19.926416,
+    "geom:longitude":-155.787086,
+    "iso:country":"US",
+    "sg:address":"681701 Waikoloa Rd",
+    "sg:city":"Waikoloa",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/south-kohala/3279-orchid-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 886 1234",
+    "sg:postcode":"96738",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890693,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08InCW0enMPPQmUiEz8Zpl_19.926416_-155.787086@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206754,
+    "wof:geomhash":"bac5fa3f90410df11035c84985ca46e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890693,
+            "region_id":85688671,
+            "venue_id":857680735
+        }
+    ],
+    "wof:id":857680735,
+    "wof:lastmodified":1464206754,
+    "wof:name":"Orchid Cafe",
+    "wof:parent_id":85890693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -155.787086,
+    19.926416,
+    -155.787086,
+    19.926416
+],
+  "geometry": {"coordinates":[-155.78708599999999,19.926416],"type":"Point"}
+}

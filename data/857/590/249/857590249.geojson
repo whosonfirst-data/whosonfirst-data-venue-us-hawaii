@@ -1,0 +1,73 @@
+{
+  "id": 857590249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.91688,21.36675,-157.91688,21.36675",
+    "geom:latitude":21.36675,
+    "geom:longitude":-157.91688,
+    "iso:country":"US",
+    "sg:address":"4325 Piikea Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 3993",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aNMZ0gCwAMsSbL7YSoqwu_21.366750_-157.916880@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203768,
+    "wof:geomhash":"3f129c2cf02d245711f25382abb50c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857590249
+        }
+    ],
+    "wof:id":857590249,
+    "wof:lastmodified":1464203768,
+    "wof:name":"Nationwide Roofing Company",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.91688,
+    21.36675,
+    -157.91688,
+    21.36675
+],
+  "geometry": {"coordinates":[-157.91687999999999,21.36675],"type":"Point"}
+}

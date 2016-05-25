@@ -1,0 +1,71 @@
+{
+  "id": 857604073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.826568,21.277104,-157.826568,21.277104",
+    "geom:latitude":21.277104,
+    "geom:longitude":-157.826568,
+    "iso:country":"US",
+    "sg:address":"2330 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 921 9065",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nLpE9yUoikEN00JCscTPL_21.277104_-157.826568@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204076,
+    "wof:geomhash":"aa13d2aa6bdf891b6ded3d32ee0eafc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857604073
+        }
+    ],
+    "wof:id":857604073,
+    "wof:lastmodified":1464204076,
+    "wof:name":"Hawaii Ms Gift Shop",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.826568,
+    21.277104,
+    -157.826568,
+    21.277104
+],
+  "geometry": {"coordinates":[-157.82656800000001,21.277104],"type":"Point"}
+}

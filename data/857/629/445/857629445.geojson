@@ -1,0 +1,66 @@
+{
+  "id": 857629445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830665,21.279347,-157.830665,21.279347",
+    "geom:latitude":21.279347,
+    "geom:longitude":-157.830665,
+    "iso:country":"US",
+    "sg:address":"247 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 971 2910",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U4uL11ifzepeKlAx3BOM5_21.279347_-157.830665@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204650,
+    "wof:geomhash":"c20b3246f0a4cda369d36dfd4e48e57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857629445
+        }
+    ],
+    "wof:id":857629445,
+    "wof:lastmodified":1464204650,
+    "wof:name":"Waikiki Trader",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.830665,
+    21.279347,
+    -157.830665,
+    21.279347
+],
+  "geometry": {"coordinates":[-157.83066500000001,21.279347],"type":"Point"}
+}

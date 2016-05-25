@@ -1,0 +1,73 @@
+{
+  "id": 857631773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.3313,20.855106,-156.3313,20.855106",
+    "geom:latitude":20.855106,
+    "geom:longitude":-156.3313,
+    "iso:country":"US",
+    "sg:address":"121 Pau Hana Rd",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 9665",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937687,
+        102085577,
+        85890581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76jV1oTbv5GqkRVHyiDTgo_20.855106_-156.331300@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204706,
+    "wof:geomhash":"0f46e8dc8775cf8a3b277c7e44a14a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937687,
+            "neighbourhood_id":85890581,
+            "region_id":85688671,
+            "venue_id":857631773
+        }
+    ],
+    "wof:id":857631773,
+    "wof:lastmodified":1464204706,
+    "wof:name":"Upcountry Veterinary Svc",
+    "wof:parent_id":85890581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -156.3313,
+    20.855106,
+    -156.3313,
+    20.855106
+],
+  "geometry": {"coordinates":[-156.3313,20.855106],"type":"Point"}
+}

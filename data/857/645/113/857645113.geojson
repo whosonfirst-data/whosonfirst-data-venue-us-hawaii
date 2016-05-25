@@ -1,0 +1,75 @@
+{
+  "id": 857645113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.07831,19.71307,-155.07831,19.71307",
+    "geom:latitude":19.71307,
+    "geom:longitude":-155.07831,
+    "iso:country":"US",
+    "sg:address":"33 Mohouli St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 5781",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "steamship"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qSbl2iSZ0CVnAJEcg9uXr_19.713070_-155.078310@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205243,
+    "wof:geomhash":"5d51e174d666033077c8387c1168e6ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857645113
+        }
+    ],
+    "wof:id":857645113,
+    "wof:lastmodified":1464205243,
+    "wof:name":"Matson Navigation Co",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "steamship"
+    ]
+},
+  "bbox": [
+    -155.07831,
+    19.71307,
+    -155.07831,
+    19.71307
+],
+  "geometry": {"coordinates":[-155.07830999999999,19.71307],"type":"Point"}
+}

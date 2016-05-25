@@ -1,0 +1,89 @@
+{
+  "id": 857629931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911936,21.319303,-157.911936,21.319303",
+    "geom:latitude":21.319303,
+    "geom:longitude":-157.911936,
+    "iso:country":"US",
+    "sg:address":"90 Nakolo Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 0808",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kbaVnKqoOSRXEKrijf9mV_21.319303_-157.911936@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204659,
+    "wof:geomhash":"d2a6876c7abef5080a0e6666ba37f182",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857629931
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857629931
+        }
+    ],
+    "wof:id":857629931,
+    "wof:lastmodified":1464204659,
+    "wof:name":"Maritime Expeditions Air Chrtr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ]
+},
+  "bbox": [
+    -157.911936,
+    21.319303,
+    -157.911936,
+    21.319303
+],
+  "geometry": {"coordinates":[-157.911936,21.319303],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857578723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86025,21.293018,-157.86025,21.293018",
+    "geom:latitude":21.293018,
+    "geom:longitude":-157.86025,
+    "iso:country":"US",
+    "sg:address":"160 Ahui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 4285",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Qws6v8v9WEuAqiGgh4Ga_21.293018_-157.860250@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203526,
+    "wof:geomhash":"9d79967aad50394239bd1650cd017765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857578723
+        }
+    ],
+    "wof:id":857578723,
+    "wof:lastmodified":1464203526,
+    "wof:name":"Road Maintenance Div",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -157.86025,
+    21.293018,
+    -157.86025,
+    21.293018
+],
+  "geometry": {"coordinates":[-157.86025000000001,21.293018],"type":"Point"}
+}

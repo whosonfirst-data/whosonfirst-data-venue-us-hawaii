@@ -1,0 +1,73 @@
+{
+  "id": 857539241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.99331,21.408745,-157.99331,21.408745",
+    "geom:latitude":21.408745,
+    "geom:longitude":-157.99331,
+    "iso:country":"US",
+    "sg:address":"802 Lumikuke Loop",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 0028",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ma7uylYBQQDpWhqg034s6_21.408745_-157.993310@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202724,
+    "wof:geomhash":"540d72038715852fafbc2f4d4bc55a5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857539241
+        }
+    ],
+    "wof:id":857539241,
+    "wof:lastmodified":1464202724,
+    "wof:name":"A B Lock & Key",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.99331,
+    21.408745,
+    -157.99331,
+    21.408745
+],
+  "geometry": {"coordinates":[-157.99331000000001,21.408745],"type":"Point"}
+}

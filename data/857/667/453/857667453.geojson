@@ -1,0 +1,71 @@
+{
+  "id": 857667453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82771,21.280745,-157.82771,21.280745",
+    "geom:latitude":21.280745,
+    "geom:longitude":-157.82771,
+    "iso:country":"US",
+    "sg:address":"353 Royal Hawaiian Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 3645",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C0pbHy3fi3ghymLbnGmlP_21.280745_-157.827710@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206241,
+    "wof:geomhash":"1c500ac9837888eeceb86070dc03104b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857667453
+        }
+    ],
+    "wof:id":857667453,
+    "wof:lastmodified":1464206241,
+    "wof:name":"Discount Store Lucky",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.82771,
+    21.280745,
+    -157.82771,
+    21.280745
+],
+  "geometry": {"coordinates":[-157.82771,21.280745],"type":"Point"}
+}

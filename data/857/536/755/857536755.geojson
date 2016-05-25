@@ -1,0 +1,73 @@
+{
+  "id": 857536755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856038,21.297244,-157.856038,21.297244",
+    "geom:latitude":21.297244,
+    "geom:longitude":-157.856038,
+    "iso:country":"US",
+    "sg:address":"307 Kamani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2380",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xRupRaw65cFsDudI8ra0t_21.297244_-157.856038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202676,
+    "wof:geomhash":"b9759ed6da5ce5ef6fe79a7d18289215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857536755
+        }
+    ],
+    "wof:id":857536755,
+    "wof:lastmodified":1464202676,
+    "wof:name":"Southland Industries",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.856038,
+    21.297244,
+    -157.856038,
+    21.297244
+],
+  "geometry": {"coordinates":[-157.85603800000001,21.297244],"type":"Point"}
+}

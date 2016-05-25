@@ -1,0 +1,85 @@
+{
+  "id": 857660483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.096462,21.305482,-158.096462,21.305482",
+    "geom:latitude":21.305482,
+    "geom:longitude":-158.096462,
+    "iso:country":"US",
+    "sg:address":"400 Komohana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 673 2000",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "dry",
+        "mixture",
+        "mfg",
+        "material",
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26y9kLLpTz7q4W5xcOAPbD_21.305482_-158.096462@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205931,
+    "wof:geomhash":"ae93c6fb5a7a234e0f322327c9969f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857660483
+        }
+    ],
+    "wof:id":857660483,
+    "wof:lastmodified":1464205931,
+    "wof:name":"Bonded Materials Company",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "dry",
+        "mixture",
+        "mfg",
+        "material",
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [
+    -158.096462,
+    21.305482,
+    -158.096462,
+    21.305482
+],
+  "geometry": {"coordinates":[-158.096462,21.305482],"type":"Point"}
+}

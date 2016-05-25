@@ -1,0 +1,71 @@
+{
+  "id": 857550025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840323,21.298463,-157.840323,21.298463",
+    "geom:latitude":21.298463,
+    "geom:longitude":-157.840323,
+    "iso:country":"US",
+    "sg:address":"934 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8301",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46dR7SgPi2wqyZeRuHLREB_21.298463_-157.840323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202932,
+    "wof:geomhash":"b3356312e28ebe5ea55624dafc59c898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857550025
+        }
+    ],
+    "wof:id":857550025,
+    "wof:lastmodified":1464202932,
+    "wof:name":"Tanabe Superette",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.840323,
+    21.298463,
+    -157.840323,
+    21.298463
+],
+  "geometry": {"coordinates":[-157.84032300000001,21.298463],"type":"Point"}
+}

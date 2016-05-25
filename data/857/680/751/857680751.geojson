@@ -1,0 +1,75 @@
+{
+  "id": 857680751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.991115,19.639589,-155.991115,19.639589",
+    "geom:latitude":19.639589,
+    "geom:longitude":-155.991115,
+    "iso:country":"US",
+    "sg:address":"75-5729 Kuakini Hwy",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/north-kona/202801-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sw1OxPG4KEUH3dJPj9u5v_19.639589_-155.991115@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206754,
+    "wof:geomhash":"7a3f528bba1ae263e838da96f4d8acab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857680751
+        }
+    ],
+    "wof:id":857680751,
+    "wof:lastmodified":1464206754,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -155.991115,
+    19.639589,
+    -155.991115,
+    19.639589
+],
+  "geometry": {"coordinates":[-155.99111500000001,19.639589],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857639531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.363645,22.064569,-159.363645,22.064569",
+    "geom:latitude":22.064569,
+    "geom:longitude":-159.363645,
+    "iso:country":"US",
+    "sg:address":"848 Kamalu Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 1197",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W9gLNcBMug9NyV3SOkSvM_22.064569_-159.363645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205002,
+    "wof:geomhash":"3c59adf2ca26ab5813ef270d4201561f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857639531
+        }
+    ],
+    "wof:id":857639531,
+    "wof:lastmodified":1464205002,
+    "wof:name":"Criss A Kidder Jr MD",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -159.363645,
+    22.064569,
+    -159.363645,
+    22.064569
+],
+  "geometry": {"coordinates":[-159.36364499999999,22.064569],"type":"Point"}
+}

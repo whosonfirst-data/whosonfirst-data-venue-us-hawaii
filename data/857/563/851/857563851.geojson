@@ -1,0 +1,68 @@
+{
+  "id": 857563851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.352831,21.960704,-159.352831,21.960704",
+    "geom:latitude":21.960704,
+    "geom:longitude":-159.352831,
+    "iso:country":"US",
+    "sg:address":"3474 Rice St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 6330",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7llT74cBKKQMRu3CicOt6P_21.960704_-159.352831@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203236,
+    "wof:geomhash":"9dc7d36ca7dae7586417ed23b65881b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857563851
+        }
+    ],
+    "wof:id":857563851,
+    "wof:lastmodified":1464203236,
+    "wof:name":"Kalapaki Beach Hut",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.352831,
+    21.960704,
+    -159.352831,
+    21.960704
+],
+  "geometry": {"coordinates":[-159.35283100000001,21.960704],"type":"Point"}
+}

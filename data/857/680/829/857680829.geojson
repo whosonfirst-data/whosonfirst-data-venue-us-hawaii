@@ -1,0 +1,72 @@
+{
+  "id": 857680829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.321184,22.060971,-159.321184,22.060971",
+    "geom:latitude":22.060971,
+    "geom:longitude":-159.321184,
+    "iso:country":"US",
+    "sg:address":"4-831 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/wailua-anahola/240191-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 9696",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fEajjW3afpqSv5fx8rc9Y_22.060971_-159.321184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206757,
+    "wof:geomhash":"98c1b05cb85f17e7ee75a995c5a1a3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857680829
+        }
+    ],
+    "wof:id":857680829,
+    "wof:lastmodified":1464206757,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -159.321184,
+    22.060971,
+    -159.321184,
+    22.060971
+],
+  "geometry": {"coordinates":[-159.32118399999999,22.060971],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857535839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863872,21.309445,-157.863872,21.309445",
+    "geom:latitude":21.309445,
+    "geom:longitude":-157.863872,
+    "iso:country":"US",
+    "sg:address":"800 Bethel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 5566",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "sg:website":"www.hawaiifirst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02yvFYXrl3ECp5iuQL5Pzc_21.309445_-157.863872@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202660,
+    "wof:geomhash":"96f251d0d130ff4f1ef0c1d1f20464a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857535839
+        }
+    ],
+    "wof:id":857535839,
+    "wof:lastmodified":1464202660,
+    "wof:name":"Hawaii First Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -157.863872,
+    21.309445,
+    -157.863872,
+    21.309445
+],
+  "geometry": {"coordinates":[-157.86387199999999,21.309445],"type":"Point"}
+}

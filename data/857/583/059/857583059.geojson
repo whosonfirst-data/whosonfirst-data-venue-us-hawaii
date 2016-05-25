@@ -1,0 +1,73 @@
+{
+  "id": 857583059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024975,21.496326,-158.024975,21.496326",
+    "geom:latitude":21.496326,
+    "geom:longitude":-158.024975,
+    "iso:country":"US",
+    "sg:address":"823 Olive Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 1432",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lock",
+        "towing",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rMNy7mtLz1vQJDq8wmIGl_21.496326_-158.024975@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203609,
+    "wof:geomhash":"dbf6a90639d2f11b0d3f6a8cf9944ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857583059
+        }
+    ],
+    "wof:id":857583059,
+    "wof:lastmodified":1464203609,
+    "wof:name":"Country Locksmith & Towing",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "towing",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -158.024975,
+    21.496326,
+    -158.024975,
+    21.496326
+],
+  "geometry": {"coordinates":[-158.02497500000001,21.496326],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857587901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794785,21.283812,-157.794785,21.283812",
+    "geom:latitude":21.283812,
+    "geom:longitude":-157.794785,
+    "iso:country":"US",
+    "sg:address":"3713 Claudine St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 9955",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cx4bk4VGHoVj0H9ZQOv9d_21.283812_-157.794785@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203711,
+    "wof:geomhash":"384c45eae8babc004291105d1029a917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857587901
+        }
+    ],
+    "wof:id":857587901,
+    "wof:lastmodified":1464203711,
+    "wof:name":"Edwin Chu Realty Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.794785,
+    21.283812,
+    -157.794785,
+    21.283812
+],
+  "geometry": {"coordinates":[-157.79478499999999,21.283812],"type":"Point"}
+}

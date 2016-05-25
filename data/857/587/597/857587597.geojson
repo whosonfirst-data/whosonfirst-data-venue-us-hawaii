@@ -1,0 +1,68 @@
+{
+  "id": 857587597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.685951,20.882604,-156.685951,20.882604",
+    "geom:latitude":20.882604,
+    "geom:longitude":-156.685951,
+    "iso:country":"US",
+    "sg:address":"1045 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 6868",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60XAa2U1vYY5opqTXWbBw3_20.882604_-156.685951@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203705,
+    "wof:geomhash":"a4b070f5d4d21bb9953989c96348d4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890517,
+            "region_id":85688671,
+            "venue_id":857587597
+        }
+    ],
+    "wof:id":857587597,
+    "wof:lastmodified":1464203705,
+    "wof:name":"Maui Properties",
+    "wof:parent_id":85890517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.685951,
+    20.882604,
+    -156.685951,
+    20.882604
+],
+  "geometry": {"coordinates":[-156.68595099999999,20.882604],"type":"Point"}
+}

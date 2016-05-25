@@ -1,0 +1,71 @@
+{
+  "id": 857630795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.722407,21.344465,-157.722407,21.344465",
+    "geom:latitude":21.344465,
+    "geom:longitude":-157.722407,
+    "iso:country":"US",
+    "sg:address":"545 Hihimanu St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 5649",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85854139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BEjdwizzkdj7WZjtjoDYH_21.344465_-157.722407@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204680,
+    "wof:geomhash":"ad1f29ec75585df5d2c23b547d57fe42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85854139,
+            "region_id":85688671,
+            "venue_id":857630795
+        }
+    ],
+    "wof:id":857630795,
+    "wof:lastmodified":1464204680,
+    "wof:name":"Waimanalo Apartments",
+    "wof:parent_id":85854139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.722407,
+    21.344465,
+    -157.722407,
+    21.344465
+],
+  "geometry": {"coordinates":[-157.722407,21.344465],"type":"Point"}
+}

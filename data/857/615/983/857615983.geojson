@@ -1,0 +1,69 @@
+{
+  "id": 857615983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02617,21.502086,-158.02617,21.502086",
+    "geom:latitude":21.502086,
+    "geom:longitude":-158.02617,
+    "iso:country":"US",
+    "sg:address":"330 N Cane St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8442",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RxWls3LYOuqpF3UZRlL8u_21.502086_-158.026170@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204339,
+    "wof:geomhash":"cb4978f9c80b739e90c6918e02a9e763",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857615983
+        }
+    ],
+    "wof:id":857615983,
+    "wof:lastmodified":1464204339,
+    "wof:name":"Wahiawa City Police Station",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -158.02617,
+    21.502086,
+    -158.02617,
+    21.502086
+],
+  "geometry": {"coordinates":[-158.02617000000001,21.502086],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857679883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.837173,21.290737,-157.837173,21.290737",
+    "geom:latitude":21.290737,
+    "geom:longitude":-157.837173,
+    "iso:country":"US",
+    "sg:address":"1601 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 391 4421",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oHosSVtEGduhi4cg6WyRv_21.290737_-157.837173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206725,
+    "wof:geomhash":"497f79dead1ce71f9a6f349b5ff0560a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857679883
+        }
+    ],
+    "wof:id":857679883,
+    "wof:lastmodified":1464206725,
+    "wof:name":"Jupiter Cyber Cafe",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "internet"
+    ]
+},
+  "bbox": [
+    -157.837173,
+    21.290737,
+    -157.837173,
+    21.290737
+],
+  "geometry": {"coordinates":[-157.83717300000001,21.290737],"type":"Point"}
+}

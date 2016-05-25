@@ -1,0 +1,71 @@
+{
+  "id": 857506503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.457212,20.885023,-156.457212,20.885023",
+    "geom:latitude":20.885023,
+    "geom:longitude":-156.457212,
+    "iso:country":"US",
+    "sg:address":"221 Lalo St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 9184",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fQ4nR4RV52mGVWW9r4F4A_20.885023_-156.457212@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202069,
+    "wof:geomhash":"ddaf88a5fc24118a89e6ccc7691d21f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857506503
+        }
+    ],
+    "wof:id":857506503,
+    "wof:lastmodified":1464202069,
+    "wof:name":"Maui Tow & Transport Co",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -156.457212,
+    20.885023,
+    -156.457212,
+    20.885023
+],
+  "geometry": {"coordinates":[-156.457212,20.885023],"type":"Point"}
+}

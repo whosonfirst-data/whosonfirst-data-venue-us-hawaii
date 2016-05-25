@@ -1,0 +1,72 @@
+{
+  "id": 857681483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82631,21.276788,-157.82631,21.276788",
+    "geom:latitude":21.276788,
+    "geom:longitude":-157.82631,
+    "iso:country":"US",
+    "sg:address":"2365 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3244-the-banyan-veranda/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 3111",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01CuRh4qUxgxO3LRMTJ34t_21.276788_-157.826310@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206786,
+    "wof:geomhash":"eb2a9c804d2e86706aec0fa46b5583e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681483
+        }
+    ],
+    "wof:id":857681483,
+    "wof:lastmodified":1464206786,
+    "wof:name":"The Banyan Veranda",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.82631,
+    21.276788,
+    -157.82631,
+    21.276788
+],
+  "geometry": {"coordinates":[-157.82631000000001,21.276788],"type":"Point"}
+}

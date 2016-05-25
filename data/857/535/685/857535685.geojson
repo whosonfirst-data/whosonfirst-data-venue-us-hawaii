@@ -1,0 +1,71 @@
+{
+  "id": 857535685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.940038,21.42986,-157.940038,21.42986",
+    "geom:latitude":21.42986,
+    "geom:longitude":-157.940038,
+    "iso:country":"US",
+    "sg:address":"2540 Komo Mai Dr",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 5219",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hHP99p4lBLuJYrGn7j7gz_21.429860_-157.940038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202656,
+    "wof:geomhash":"cc1e79e6fdee7ff959868844fc034834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857535685
+        }
+    ],
+    "wof:id":857535685,
+    "wof:lastmodified":1464202656,
+    "wof:name":"Air Cool Services Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -157.940038,
+    21.42986,
+    -157.940038,
+    21.42986
+],
+  "geometry": {"coordinates":[-157.94003799999999,21.42986],"type":"Point"}
+}

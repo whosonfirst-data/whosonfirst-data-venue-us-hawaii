@@ -1,0 +1,71 @@
+{
+  "id": 857673555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821695,21.301074,-157.821695,21.301074",
+    "geom:latitude":21.301074,
+    "geom:longitude":-157.821695,
+    "iso:country":"US",
+    "sg:address":"2042 Vancouver Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 9581",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g9P1hjpNydCZH2c4KisJD_21.301074_-157.821695@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206471,
+    "wof:geomhash":"5d78d84670bf99ea02ff4b1952195115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857673555
+        }
+    ],
+    "wof:id":857673555,
+    "wof:lastmodified":1464206471,
+    "wof:name":"Hawaii Baptist Convention",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.821695,
+    21.301074,
+    -157.821695,
+    21.301074
+],
+  "geometry": {"coordinates":[-157.82169500000001,21.301074],"type":"Point"}
+}

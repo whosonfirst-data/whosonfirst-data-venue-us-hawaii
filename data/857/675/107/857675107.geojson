@@ -1,0 +1,71 @@
+{
+  "id": 857675107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.336763,22.055627,-159.336763,22.055627",
+    "geom:latitude":22.055627,
+    "geom:longitude":-159.336763,
+    "iso:country":"US",
+    "sg:address":"377 Likeke Pl",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 9608",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yyDOs2cfmhIkzCssaRgIR_22.055627_-159.336763@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206529,
+    "wof:geomhash":"b3f5490d5ab9da0afe4167235a9534fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857675107
+        }
+    ],
+    "wof:id":857675107,
+    "wof:lastmodified":1464206529,
+    "wof:name":"KERR & Sons Plumbing",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.336763,
+    22.055627,
+    -159.336763,
+    22.055627
+],
+  "geometry": {"coordinates":[-159.33676299999999,22.055627],"type":"Point"}
+}

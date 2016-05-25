@@ -1,0 +1,76 @@
+{
+  "id": 857560595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907765,21.333933,-157.907765,21.333933",
+    "geom:latitude":21.333933,
+    "geom:longitude":-157.907765,
+    "iso:country":"US",
+    "sg:address":"545 Ohohia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 831 3000",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "sg:website":"www.concentra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vK6HUOUNLSjUK6JbuGIm9_21.333933_-157.907765@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203172,
+    "wof:geomhash":"5a162884cf6e494d493aa7cecfce6f53",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857560595
+        }
+    ],
+    "wof:id":857560595,
+    "wof:lastmodified":1464203172,
+    "wof:name":"Concentra Medical Center",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.907765,
+    21.333933,
+    -157.907765,
+    21.333933
+],
+  "geometry": {"coordinates":[-157.90776500000001,21.333933],"type":"Point"}
+}

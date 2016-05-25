@@ -1,0 +1,71 @@
+{
+  "id": 857563589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.499995,20.871636,-156.499995,20.871636",
+    "geom:latitude":20.871636,
+    "geom:longitude":-156.499995,
+    "iso:country":"US",
+    "sg:address":"670 Waiale Rd",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 4626",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fXXKQrVN9fMLl7Txc0MvS_20.871636_-156.499995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203231,
+    "wof:geomhash":"def31305db85b5bc6e5a9c363555e0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857563589
+        }
+    ],
+    "wof:id":857563589,
+    "wof:lastmodified":1464203231,
+    "wof:name":"Wailuku Head Start",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -156.499995,
+    20.871636,
+    -156.499995,
+    20.871636
+],
+  "geometry": {"coordinates":[-156.49999500000001,20.871636],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857662805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.676859,20.870133,-156.676859,20.870133",
+    "geom:latitude":20.870133,
+    "geom:longitude":-156.676859,
+    "iso:country":"US",
+    "sg:address":"418 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0358",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fvockJv6DjRX1CycTWwkz_20.870133_-156.676859@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206039,
+    "wof:geomhash":"21de3c77d119a8732ee0e31376960c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890527,
+            "region_id":85688671,
+            "venue_id":857662805
+        }
+    ],
+    "wof:id":857662805,
+    "wof:lastmodified":1464206039,
+    "wof:name":"Bella Donna Inn",
+    "wof:parent_id":85890527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -156.676859,
+    20.870133,
+    -156.676859,
+    20.870133
+],
+  "geometry": {"coordinates":[-156.67685900000001,20.870133],"type":"Point"}
+}

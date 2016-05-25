@@ -1,0 +1,71 @@
+{
+  "id": 857589235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.333672,22.051888,-159.333672,22.051888",
+    "geom:latitude":22.051888,
+    "geom:longitude":-159.333672,
+    "iso:country":"US",
+    "sg:address":"361 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 0015",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uTpSAXNAO3bfkC4Jb2Rrs_22.051888_-159.333672@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203744,
+    "wof:geomhash":"442ccb59c82db4a201786d58a992ee6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857589235
+        }
+    ],
+    "wof:id":857589235,
+    "wof:lastmodified":1464203744,
+    "wof:name":"Kauai Kritters",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -159.333672,
+    22.051888,
+    -159.333672,
+    22.051888
+],
+  "geometry": {"coordinates":[-159.33367200000001,22.051888],"type":"Point"}
+}

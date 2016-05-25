@@ -1,0 +1,71 @@
+{
+  "id": 857553641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.710194,21.383513,-157.710194,21.383513",
+    "geom:latitude":21.383513,
+    "geom:longitude":-157.710194,
+    "iso:country":"US",
+    "sg:address":"1405 Mokulua Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 1647",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85829775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tIhnd6OB4I1NOq06oQu1c_21.383513_-157.710194@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203001,
+    "wof:geomhash":"2a1d293148cdd7cc07efe829233f4c84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85829775,
+            "region_id":85688671,
+            "venue_id":857553641
+        }
+    ],
+    "wof:id":857553641,
+    "wof:lastmodified":1464203001,
+    "wof:name":"Whitty Construction",
+    "wof:parent_id":85829775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -157.710194,
+    21.383513,
+    -157.710194,
+    21.383513
+],
+  "geometry": {"coordinates":[-157.710194,21.383513],"type":"Point"}
+}

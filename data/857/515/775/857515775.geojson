@@ -1,0 +1,73 @@
+{
+  "id": 857515775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86139,21.333757,-157.86139,21.333757",
+    "geom:latitude":21.333757,
+    "geom:longitude":-157.86139,
+    "iso:country":"US",
+    "sg:address":"1937 Aupuni St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 927 4292",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WoSwSK3963BotMsv7ZWZE_21.333757_-157.861390@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202267,
+    "wof:geomhash":"8aad8491341548bd9a95045f14be90d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857515775
+        }
+    ],
+    "wof:id":857515775,
+    "wof:lastmodified":1464202267,
+    "wof:name":"Woo Construction",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "construction"
+    ]
+},
+  "bbox": [
+    -157.86139,
+    21.333757,
+    -157.86139,
+    21.333757
+],
+  "geometry": {"coordinates":[-157.86139,21.333757],"type":"Point"}
+}

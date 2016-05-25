@@ -1,0 +1,73 @@
+{
+  "id": 857562153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788573,21.31042,-157.788573,21.31042",
+    "geom:latitude":21.31042,
+    "geom:longitude":-157.788573,
+    "iso:country":"US",
+    "sg:address":"2530 Myrtle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7725",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85867469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EyBjqwSUWOsWAssDDDvvs_21.310420_-157.788573@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203206,
+    "wof:geomhash":"e563227498d3627609615ec4e0f13a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85867469,
+            "region_id":85688671,
+            "venue_id":857562153
+        }
+    ],
+    "wof:id":857562153,
+    "wof:lastmodified":1464203206,
+    "wof:name":"David J Mols Rpt Inc",
+    "wof:parent_id":85867469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -157.788573,
+    21.31042,
+    -157.788573,
+    21.31042
+],
+  "geometry": {"coordinates":[-157.78857300000001,21.31042],"type":"Point"}
+}

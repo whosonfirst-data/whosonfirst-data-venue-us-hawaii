@@ -1,0 +1,71 @@
+{
+  "id": 857616069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.594212,21.909122,-159.594212,21.909122",
+    "geom:latitude":21.909122,
+    "geom:longitude":-159.594212,
+    "iso:country":"US",
+    "sg:address":"3567 Hanapepe Rd",
+    "sg:city":"Hanapepe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 6469",
+    "sg:postcode":"96716",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ngdDJt407fz8PToAVfSJ5_21.909122_-159.594212@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204341,
+    "wof:geomhash":"ea06a48b183cc1c40b83e8227376c14c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857616069
+        }
+    ],
+    "wof:id":857616069,
+    "wof:lastmodified":1464204341,
+    "wof:name":"Talk Story Books Coffee",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -159.594212,
+    21.909122,
+    -159.594212,
+    21.909122
+],
+  "geometry": {"coordinates":[-159.594212,21.909122],"type":"Point"}
+}

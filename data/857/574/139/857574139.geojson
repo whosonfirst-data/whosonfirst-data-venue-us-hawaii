@@ -1,0 +1,75 @@
+{
+  "id": 857574139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.490265,20.898159,-156.490265,20.898159",
+    "geom:latitude":20.898159,
+    "geom:longitude":-156.490265,
+    "iso:country":"US",
+    "sg:address":"1191 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 5831",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "towing",
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yJLaaEDOb2GvHppXWqBzV_20.898159_-156.490265@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203436,
+    "wof:geomhash":"c2112536fa7bd95dabeaa061ad4e6d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857574139
+        }
+    ],
+    "wof:id":857574139,
+    "wof:lastmodified":1464203436,
+    "wof:name":"Campos Auto Body & Towing",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "towing",
+        "detailing"
+    ]
+},
+  "bbox": [
+    -156.490265,
+    20.898159,
+    -156.490265,
+    20.898159
+],
+  "geometry": {"coordinates":[-156.49026499999999,20.898159],"type":"Point"}
+}

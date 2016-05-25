@@ -1,0 +1,73 @@
+{
+  "id": 857631963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905714,21.333141,-157.905714,21.333141",
+    "geom:latitude":21.333141,
+    "geom:longitude":-157.905714,
+    "iso:country":"US",
+    "sg:address":"2875 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 7667",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ou9UxYEnNTfyzbL6cpZfF_21.333141_-157.905714@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204712,
+    "wof:geomhash":"004f88df3638e973fae7d7c06c1a5037",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857631963
+        }
+    ],
+    "wof:id":857631963,
+    "wof:lastmodified":1464204712,
+    "wof:name":"AJA Motors Corp",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus"
+    ]
+},
+  "bbox": [
+    -157.905714,
+    21.333141,
+    -157.905714,
+    21.333141
+],
+  "geometry": {"coordinates":[-157.90571399999999,21.333141],"type":"Point"}
+}

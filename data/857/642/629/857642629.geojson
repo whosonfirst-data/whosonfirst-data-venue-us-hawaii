@@ -1,0 +1,73 @@
+{
+  "id": 857642629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8273,21.280549,-157.8273,21.280549",
+    "geom:latitude":21.280549,
+    "geom:longitude":-157.8273,
+    "iso:country":"US",
+    "sg:address":"2240 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 535 1506",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "affairs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D1nuhTbD6mUVKZr8Ez16X_21.280549_-157.827300@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205121,
+    "wof:geomhash":"c0b76a3c097738204cf9611262430918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857642629
+        }
+    ],
+    "wof:id":857642629,
+    "wof:lastmodified":1464205121,
+    "wof:name":"Consulate Of Chile",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs"
+    ]
+},
+  "bbox": [
+    -157.8273,
+    21.280549,
+    -157.8273,
+    21.280549
+],
+  "geometry": {"coordinates":[-157.82730000000001,21.280549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857649049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840786,21.324489,-157.840786,21.324489",
+    "geom:latitude":21.324489,
+    "geom:longitude":-157.840786,
+    "iso:country":"US",
+    "sg:address":"2726 Laniloa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 2036",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "basketball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6708yrMRwqBcOlJ9QwAO4Z_21.324489_-157.840786@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205414,
+    "wof:geomhash":"0ab9bfadbefe6eb9bd759114efd2b74a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857649049
+        }
+    ],
+    "wof:id":857649049,
+    "wof:lastmodified":1464205414,
+    "wof:name":"SAHBO",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basketball"
+    ]
+},
+  "bbox": [
+    -157.840786,
+    21.324489,
+    -157.840786,
+    21.324489
+],
+  "geometry": {"coordinates":[-157.84078600000001,21.324489],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857662035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.797085,21.405817,-157.797085,21.405817",
+    "geom:latitude":21.405817,
+    "geom:longitude":-157.797085,
+    "iso:country":"US",
+    "sg:address":"436 Makalani St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 1006",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rrrRr44G7AkJm4zZ11oMc_21.405817_-157.797085@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206013,
+    "wof:geomhash":"7eb2176ae304226fa03fcafec1e32469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857662035
+        }
+    ],
+    "wof:id":857662035,
+    "wof:lastmodified":1464206013,
+    "wof:name":"B R & J Electric Inc",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.797085,
+    21.405817,
+    -157.797085,
+    21.405817
+],
+  "geometry": {"coordinates":[-157.79708500000001,21.405817],"type":"Point"}
+}

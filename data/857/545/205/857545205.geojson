@@ -1,0 +1,71 @@
+{
+  "id": 857545205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914476,21.36671,-157.914476,21.36671",
+    "geom:latitude":21.36671,
+    "geom:longitude":-157.914476,
+    "iso:country":"US",
+    "sg:address":"1744 Piikea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3010",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71obX9l6RFannoZpKmmGwx_21.366710_-157.914476@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202843,
+    "wof:geomhash":"3904ad8330ab15fa63a717a26a1804f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857545205
+        }
+    ],
+    "wof:id":857545205,
+    "wof:lastmodified":1464202843,
+    "wof:name":"Carl Shaneff Photography",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -157.914476,
+    21.36671,
+    -157.914476,
+    21.36671
+],
+  "geometry": {"coordinates":[-157.91447600000001,21.36671],"type":"Point"}
+}

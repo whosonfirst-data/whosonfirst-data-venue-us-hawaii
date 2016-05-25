@@ -1,0 +1,71 @@
+{
+  "id": 857651867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.780739,21.26677,-157.780739,21.26677",
+    "geom:latitude":21.26677,
+    "geom:longitude":-157.780739,
+    "iso:country":"US",
+    "sg:address":"4715 Kahala Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 479 0807",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GzKArXvtMyDwSQBGDqAFh_21.266770_-157.780739@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205537,
+    "wof:geomhash":"57b41d6ead8b146a034e1fceaf71f040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857651867
+        }
+    ],
+    "wof:id":857651867,
+    "wof:lastmodified":1464205537,
+    "wof:name":"M Dungate Assoc",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.780739,
+    21.26677,
+    -157.780739,
+    21.26677
+],
+  "geometry": {"coordinates":[-157.78073900000001,21.26677],"type":"Point"}
+}

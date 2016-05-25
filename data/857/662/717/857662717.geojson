@@ -1,0 +1,75 @@
+{
+  "id": 857662717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.089052,19.723345,-155.089052,19.723345",
+    "geom:latitude":19.723345,
+    "geom:longitude":-155.089052,
+    "iso:country":"US",
+    "sg:address":"145 Ululani St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 7141",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "membership",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xQ94ahTvLMEFXIkRu9IPK_19.723345_-155.089052@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206036,
+    "wof:geomhash":"c585a6b9edb193e721b7ef5e68d4aea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857662717
+        }
+    ],
+    "wof:id":857662717,
+    "wof:lastmodified":1464206036,
+    "wof:name":"YWCA",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership",
+        "social"
+    ]
+},
+  "bbox": [
+    -155.089052,
+    19.723345,
+    -155.089052,
+    19.723345
+],
+  "geometry": {"coordinates":[-155.08905200000001,19.723345],"type":"Point"}
+}

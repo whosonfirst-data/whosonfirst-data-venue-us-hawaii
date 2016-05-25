@@ -1,0 +1,71 @@
+{
+  "id": 857532333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79956,21.403425,-157.79956,21.403425",
+    "geom:latitude":21.403425,
+    "geom:longitude":-157.79956,
+    "iso:country":"US",
+    "sg:address":"602 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 432 3800",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HLfoyjnfcYl4qRgn6Fj9j_21.403425_-157.799560@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202590,
+    "wof:geomhash":"536d7e1da49954cdb8d27cfd7741b4a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857532333
+        }
+    ],
+    "wof:id":857532333,
+    "wof:lastmodified":1464202590,
+    "wof:name":"Koolau Clinic",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -157.79956,
+    21.403425,
+    -157.79956,
+    21.403425
+],
+  "geometry": {"coordinates":[-157.79956000000001,21.403425],"type":"Point"}
+}

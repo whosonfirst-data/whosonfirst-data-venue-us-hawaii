@@ -1,0 +1,71 @@
+{
+  "id": 857604993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813926,21.278058,-157.813926,21.278058",
+    "geom:latitude":21.278058,
+    "geom:longitude":-157.813926,
+    "iso:country":"US",
+    "sg:address":"3297 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7378",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IoSK36NNwlOCdr4WUQfry_21.278058_-157.813926@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204096,
+    "wof:geomhash":"96fbac834b427647f1e798251b950a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857604993
+        }
+    ],
+    "wof:id":857604993,
+    "wof:lastmodified":1464204096,
+    "wof:name":"Campbell Avenue Bakery",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.813926,
+    21.278058,
+    -157.813926,
+    21.278058
+],
+  "geometry": {"coordinates":[-157.81392600000001,21.278058],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857661029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862229,21.307997,-157.862229,21.307997",
+    "geom:latitude":21.307997,
+    "geom:longitude":-157.862229,
+    "iso:country":"US",
+    "sg:address":"999 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 525 5120",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61p6nxZXAF5aan2mqkbGWd_21.307997_-157.862229@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205962,
+    "wof:geomhash":"29eed181ecd154384074ff9428c9f95a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857661029
+        }
+    ],
+    "wof:id":857661029,
+    "wof:lastmodified":1464205962,
+    "wof:name":"Bishop Street Capital Mgmt",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -157.862229,
+    21.307997,
+    -157.862229,
+    21.307997
+],
+  "geometry": {"coordinates":[-157.86222900000001,21.307997],"type":"Point"}
+}

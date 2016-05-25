@@ -1,0 +1,71 @@
+{
+  "id": 857593277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911498,21.390605,-157.911498,21.390605",
+    "geom:latitude":21.390605,
+    "geom:longitude":-157.911498,
+    "iso:country":"US",
+    "sg:address":"139 Chester Way",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 485 4957",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qbVvtM02hDJFkrbXPATMB_21.390605_-157.911498@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203833,
+    "wof:geomhash":"422b79899e87833dd55ac1853e51a0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857593277
+        }
+    ],
+    "wof:id":857593277,
+    "wof:lastmodified":1464203833,
+    "wof:name":"Pomaika'i Transport Svc",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.911498,
+    21.390605,
+    -157.911498,
+    21.390605
+],
+  "geometry": {"coordinates":[-157.91149799999999,21.390605],"type":"Point"}
+}

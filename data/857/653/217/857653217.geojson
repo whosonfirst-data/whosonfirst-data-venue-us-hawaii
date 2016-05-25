@@ -1,0 +1,71 @@
+{
+  "id": 857653217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834993,21.303641,-157.834993,21.303641",
+    "geom:latitude":21.303641,
+    "geom:longitude":-157.834993,
+    "iso:country":"US",
+    "sg:address":"1517 Makiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9099",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pLcrL9Ej6JkQtyIRyUeV2_21.303641_-157.834993@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205597,
+    "wof:geomhash":"4172a04a25664ebb0d43063b2ddc6f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857653217
+        }
+    ],
+    "wof:id":857653217,
+    "wof:lastmodified":1464205597,
+    "wof:name":"Daytona Auto Center Corp",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.834993,
+    21.303641,
+    -157.834993,
+    21.303641
+],
+  "geometry": {"coordinates":[-157.834993,21.303641],"type":"Point"}
+}

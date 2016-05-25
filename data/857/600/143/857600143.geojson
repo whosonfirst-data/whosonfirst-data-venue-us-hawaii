@@ -1,0 +1,73 @@
+{
+  "id": 857600143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913549,21.61102,-157.913549,21.61102",
+    "geom:latitude":21.61102,
+    "geom:longitude":-157.913549,
+    "iso:country":"US",
+    "sg:address":"280 Hauula Homestead Rd",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 6300",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qKIQd3PhsyLhcQAyaVkXW_21.611020_-157.913549@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203990,
+    "wof:geomhash":"ab16e188d7691e7014c499ec4298a4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890191,
+            "region_id":85688671,
+            "venue_id":857600143
+        }
+    ],
+    "wof:id":857600143,
+    "wof:lastmodified":1464203990,
+    "wof:name":"Vaifo'Ou Contractor",
+    "wof:parent_id":85890191,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.913549,
+    21.61102,
+    -157.913549,
+    21.61102
+],
+  "geometry": {"coordinates":[-157.91354899999999,21.61102],"type":"Point"}
+}

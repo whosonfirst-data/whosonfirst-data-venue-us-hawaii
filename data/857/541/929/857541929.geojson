@@ -1,0 +1,71 @@
+{
+  "id": 857541929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848066,21.307318,-157.848066,21.307318",
+    "geom:latitude":21.307318,
+    "geom:longitude":-157.848066,
+    "iso:country":"US",
+    "sg:address":"1440 Ward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 6049",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mMRJXTq4U4epvdyv3loiH_21.307318_-157.848066@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202772,
+    "wof:geomhash":"78b416d0e903828138db4d9022b1d8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857541929
+        }
+    ],
+    "wof:id":857541929,
+    "wof:lastmodified":1464202772,
+    "wof:name":"Dalton Jack C Locksmith & Key",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -157.848066,
+    21.307318,
+    -157.848066,
+    21.307318
+],
+  "geometry": {"coordinates":[-157.84806599999999,21.307318],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857514137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.032676,21.337322,-158.032676,21.337322",
+    "geom:latitude":21.337322,
+    "geom:longitude":-158.032676,
+    "iso:country":"US",
+    "sg:address":"5007 Kapolei Pkwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 692 8210",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FDQvpCia5v2rZZOzWrPcV_21.337322_-158.032676@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202234,
+    "wof:geomhash":"5258b9c17e37ade8584e4aa1fe9b363a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857514137
+        }
+    ],
+    "wof:id":857514137,
+    "wof:lastmodified":1464202234,
+    "wof:name":"Kapolei Community School-Adult",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.032676,
+    21.337322,
+    -158.032676,
+    21.337322
+],
+  "geometry": {"coordinates":[-158.03267600000001,21.337322],"type":"Point"}
+}

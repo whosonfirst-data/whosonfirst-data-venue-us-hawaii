@@ -1,0 +1,68 @@
+{
+  "id": 857668609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.664941,20.023746,-155.664941,20.023746",
+    "geom:latitude":20.023746,
+    "geom:longitude":-155.664941,
+    "iso:country":"US",
+    "sg:address":"1058 Mamalahoa Hwy",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 4633",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PvnQuAkWpYN78s7bEDStM_20.023746_-155.664941@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206279,
+    "wof:geomhash":"9214d7e0d708556860849e83d835f01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857668609
+        }
+    ],
+    "wof:id":857668609,
+    "wof:lastmodified":1464206279,
+    "wof:name":"Kamuela Elementary Campus",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.664941,
+    20.023746,
+    -155.664941,
+    20.023746
+],
+  "geometry": {"coordinates":[-155.664941,20.023746],"type":"Point"}
+}

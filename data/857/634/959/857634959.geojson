@@ -1,0 +1,73 @@
+{
+  "id": 857634959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850176,21.317164,-157.850176,21.317164",
+    "geom:latitude":21.317164,
+    "geom:longitude":-157.850176,
+    "iso:country":"US",
+    "sg:address":"128 Boyd Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 7200",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_796pGsiaEvUEBexr8ArWJr_21.317164_-157.850176@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204831,
+    "wof:geomhash":"05a06d85b98787e11f62ce70acfc2893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857634959
+        }
+    ],
+    "wof:id":857634959,
+    "wof:lastmodified":1464204831,
+    "wof:name":"M H Zaa Electrical",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.850176,
+    21.317164,
+    -157.850176,
+    21.317164
+],
+  "geometry": {"coordinates":[-157.850176,21.317164],"type":"Point"}
+}

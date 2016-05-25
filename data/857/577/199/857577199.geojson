@@ -1,0 +1,75 @@
+{
+  "id": 857577199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820306,21.261989,-157.820306,21.261989",
+    "geom:latitude":21.261989,
+    "geom:longitude":-157.820306,
+    "iso:country":"US",
+    "sg:address":"2885 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 3111",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operation",
+        "management",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QNMi4CKzYrt2SPsGXUx68_21.261989_-157.820306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203496,
+    "wof:geomhash":"c48c875088b03d8940ad4ef1230a9575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857577199
+        }
+    ],
+    "wof:id":857577199,
+    "wof:lastmodified":1464203496,
+    "wof:name":"Colony Surf",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "management",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -157.820306,
+    21.261989,
+    -157.820306,
+    21.261989
+],
+  "geometry": {"coordinates":[-157.82030599999999,21.261989],"type":"Point"}
+}

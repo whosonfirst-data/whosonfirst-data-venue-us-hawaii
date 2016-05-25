@@ -1,0 +1,71 @@
+{
+  "id": 857578821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.957084,21.386416,-157.957084,21.386416",
+    "geom:latitude":21.386416,
+    "geom:longitude":-157.957084,
+    "iso:country":"US",
+    "sg:address":"241 Kaluamoi Pl",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6504",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AH88lcc63fWgUtmBNS3jY_21.386416_-157.957084@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203528,
+    "wof:geomhash":"8f5530182f85404f93f94c2d51e36d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857578821
+        }
+    ],
+    "wof:id":857578821,
+    "wof:lastmodified":1464203528,
+    "wof:name":"L T Sheet Metal",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.957084,
+    21.386416,
+    -157.957084,
+    21.386416
+],
+  "geometry": {"coordinates":[-157.95708400000001,21.386416],"type":"Point"}
+}

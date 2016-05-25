@@ -1,0 +1,73 @@
+{
+  "id": 857665081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831697,21.307081,-157.831697,21.307081",
+    "geom:latitude":21.307081,
+    "geom:longitude":-157.831697,
+    "iso:country":"US",
+    "sg:address":"1922 Makiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6461",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7Ukg3ARpmcztefEsXI3x_21.307081_-157.831697@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206130,
+    "wof:geomhash":"cde2382b39e5c1426d8918886e71114d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857665081
+        }
+    ],
+    "wof:id":857665081,
+    "wof:lastmodified":1464206130,
+    "wof:name":"Hanahau Oli School",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "private"
+    ]
+},
+  "bbox": [
+    -157.831697,
+    21.307081,
+    -157.831697,
+    21.307081
+],
+  "geometry": {"coordinates":[-157.83169699999999,21.307081],"type":"Point"}
+}

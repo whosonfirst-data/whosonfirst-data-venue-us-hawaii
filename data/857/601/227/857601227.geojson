@@ -1,0 +1,71 @@
+{
+  "id": 857601227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842903,21.301554,-157.842903,21.301554",
+    "geom:latitude":21.301554,
+    "geom:longitude":-157.842903,
+    "iso:country":"US",
+    "sg:address":"1330 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 2742",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78KzPT98wmKSOqqmrhfnhQ_21.301554_-157.842903@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204012,
+    "wof:geomhash":"894f93d7e89db6414ebbbc8e62ec6f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857601227
+        }
+    ],
+    "wof:id":857601227,
+    "wof:lastmodified":1464204012,
+    "wof:name":"Asia Tailor",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -157.842903,
+    21.301554,
+    -157.842903,
+    21.301554
+],
+  "geometry": {"coordinates":[-157.84290300000001,21.301554],"type":"Point"}
+}

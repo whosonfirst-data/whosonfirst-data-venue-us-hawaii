@@ -1,0 +1,75 @@
+{
+  "id": 857632449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85669,21.300316,-157.85669,21.300316",
+    "geom:latitude":21.300316,
+    "geom:longitude":-157.85669,
+    "iso:country":"US",
+    "sg:address":"703 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 1888",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77sj9UVQ8IGmDimT0LgnGt_21.300316_-157.856690@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204731,
+    "wof:geomhash":"4dc340225d4bdfb6936e46eaa9443585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857632449
+        }
+    ],
+    "wof:id":857632449,
+    "wof:lastmodified":1464204731,
+    "wof:name":"Club Sundance Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.85669,
+    21.300316,
+    -157.85669,
+    21.300316
+],
+  "geometry": {"coordinates":[-157.85668999999999,21.300316],"type":"Point"}
+}

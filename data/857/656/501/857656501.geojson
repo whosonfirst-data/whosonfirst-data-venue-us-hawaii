@@ -1,0 +1,73 @@
+{
+  "id": 857656501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898962,21.359523,-157.898962,21.359523",
+    "geom:latitude":21.359523,
+    "geom:longitude":-157.898962,
+    "iso:country":"US",
+    "sg:address":"1250 Ala Aolani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2311",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hP9qgml90pHrD6DWN0HVi_21.359523_-157.898962@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205745,
+    "wof:geomhash":"9e0cb92f9a8b3ae1e0c6aae9f0a4f4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857656501
+        }
+    ],
+    "wof:id":857656501,
+    "wof:lastmodified":1464205745,
+    "wof:name":"Moanalua Golf Club Inc",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -157.898962,
+    21.359523,
+    -157.898962,
+    21.359523
+],
+  "geometry": {"coordinates":[-157.89896200000001,21.359523],"type":"Point"}
+}

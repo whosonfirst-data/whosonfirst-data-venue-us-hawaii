@@ -1,0 +1,71 @@
+{
+  "id": 857507177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861128,21.320787,-157.861128,21.320787",
+    "geom:latitude":21.320787,
+    "geom:longitude":-157.861128,
+    "iso:country":"US",
+    "sg:address":"1472 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 538 3318",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08pLr5fOg5kf3pqALCBYjl_21.320787_-157.861128@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202084,
+    "wof:geomhash":"be7c9543591ecef41ce70cae8cb6cee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857507177
+        }
+    ],
+    "wof:id":857507177,
+    "wof:lastmodified":1464202084,
+    "wof:name":"Eddie's Refrigeration Svc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -157.861128,
+    21.320787,
+    -157.861128,
+    21.320787
+],
+  "geometry": {"coordinates":[-157.86112800000001,21.320787],"type":"Point"}
+}

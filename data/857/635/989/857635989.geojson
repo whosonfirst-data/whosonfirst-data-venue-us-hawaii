@@ -1,0 +1,73 @@
+{
+  "id": 857635989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.84349,21.293644,-157.84349,21.293644",
+    "geom:latitude":21.293644,
+    "geom:longitude":-157.84349,
+    "iso:country":"US",
+    "sg:address":"1418 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 2755",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06rnMrUJpaq14uytEIpnLO_21.293644_-157.843490@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204867,
+    "wof:geomhash":"446c0dfdacb0228943c2ae50e7f645fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857635989
+        }
+    ],
+    "wof:id":857635989,
+    "wof:lastmodified":1464204867,
+    "wof:name":"Hawaii State Ballet",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.84349,
+    21.293644,
+    -157.84349,
+    21.293644
+],
+  "geometry": {"coordinates":[-157.84349,21.293644],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857526625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821764,21.291795,-157.821764,21.291795",
+    "geom:latitude":21.291795,
+    "geom:longitude":-157.821764,
+    "iso:country":"US",
+    "sg:address":"2633 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 1001",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YMHpW1uQmPsjbyNamsHDj_21.291795_-157.821764@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202479,
+    "wof:geomhash":"8996b4520f95d80e92af9acf65527249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857526625
+        }
+    ],
+    "wof:id":857526625,
+    "wof:lastmodified":1464202479,
+    "wof:name":"Momotaro Bento & Catering",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.821764,
+    21.291795,
+    -157.821764,
+    21.291795
+],
+  "geometry": {"coordinates":[-157.821764,21.291795],"type":"Point"}
+}

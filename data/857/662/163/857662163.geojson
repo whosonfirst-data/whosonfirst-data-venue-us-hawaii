@@ -1,0 +1,75 @@
+{
+  "id": 857662163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.173432,21.412125,-158.173432,21.412125",
+    "geom:latitude":21.412125,
+    "geom:longitude":-158.173432,
+    "iso:country":"US",
+    "sg:address":"122 Mamoalii Pl",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 6570",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQwOpwA7AspiVnaoMTga1_21.412125_-158.173432@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206017,
+    "wof:geomhash":"1bf7a08648aa941b3e6fac88671fc2ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857662163
+        }
+    ],
+    "wof:id":857662163,
+    "wof:lastmodified":1464206017,
+    "wof:name":"Maneafaiga & Sons Trucking",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.173432,
+    21.412125,
+    -158.173432,
+    21.412125
+],
+  "geometry": {"coordinates":[-158.17343199999999,21.412125],"type":"Point"}
+}

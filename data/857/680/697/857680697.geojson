@@ -1,0 +1,72 @@
+{
+  "id": 857680697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.72924,21.378043,-157.72924,21.378043",
+    "geom:latitude":21.378043,
+    "geom:longitude":-157.72924,
+    "iso:country":"US",
+    "sg:address":"1020 Keolu Dr",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/koolaupoko/108581-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 3061",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937587,
+        102085417,
+        85828183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c4uIjYYSx7VJb01mHsue8_21.378043_-157.729240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"af3b73c2965d99b14a8c32100fdaf883",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937587,
+            "neighbourhood_id":85828183,
+            "region_id":85688671,
+            "venue_id":857680697
+        }
+    ],
+    "wof:id":857680697,
+    "wof:lastmodified":1464206752,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85828183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.72924,
+    21.378043,
+    -157.72924,
+    21.378043
+],
+  "geometry": {"coordinates":[-157.72924,21.378043],"type":"Point"}
+}

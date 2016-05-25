@@ -1,0 +1,71 @@
+{
+  "id": 857653867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835468,21.306226,-157.835468,21.306226",
+    "geom:latitude":21.306226,
+    "geom:longitude":-157.835468,
+    "iso:country":"US",
+    "sg:address":"1333 Heulu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 2247",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tpVZFwY4fvNxga8gDiBhc_21.306226_-157.835468@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205631,
+    "wof:geomhash":"5035fbc58770fb22af44437a38018db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857653867
+        }
+    ],
+    "wof:id":857653867,
+    "wof:lastmodified":1464205631,
+    "wof:name":"AOAO Princess Kealoha",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.835468,
+    21.306226,
+    -157.835468,
+    21.306226
+],
+  "geometry": {"coordinates":[-157.83546799999999,21.306226],"type":"Point"}
+}

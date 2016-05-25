@@ -1,0 +1,73 @@
+{
+  "id": 857503077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.458716,20.882918,-156.458716,20.882918",
+    "geom:latitude":20.882918,
+    "geom:longitude":-156.458716,
+    "iso:country":"US",
+    "sg:address":"295 Lalo St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3652",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "potato"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dXd5sdLBykHQtqDXGtWYh_20.882918_-156.458716@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201987,
+    "wof:geomhash":"038e475255707b094664be763e1e7b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857503077
+        }
+    ],
+    "wof:id":857503077,
+    "wof:lastmodified":1464201987,
+    "wof:name":"Maui Potato Chip Factory",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "potato"
+    ]
+},
+  "bbox": [
+    -156.458716,
+    20.882918,
+    -156.458716,
+    20.882918
+],
+  "geometry": {"coordinates":[-156.45871600000001,20.882918],"type":"Point"}
+}

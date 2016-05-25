@@ -1,0 +1,73 @@
+{
+  "id": 857576631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.993922,21.314637,-157.993922,21.314637",
+    "geom:latitude":21.314637,
+    "geom:longitude":-157.993922,
+    "iso:country":"US",
+    "sg:address":"101 Fort Weaver Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 2688",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LxV6AjdjKSGqQouSKusGB_21.314637_-157.993922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203482,
+    "wof:geomhash":"f21a9b328b22ba8898c91ed24aa1303e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857576631
+        }
+    ],
+    "wof:id":857576631,
+    "wof:lastmodified":1464203482,
+    "wof:name":"Spina Therapy",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -157.993922,
+    21.314637,
+    -157.993922,
+    21.314637
+],
+  "geometry": {"coordinates":[-157.993922,21.314637],"type":"Point"}
+}

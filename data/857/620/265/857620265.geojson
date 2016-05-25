@@ -1,0 +1,73 @@
+{
+  "id": 857620265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816153,21.4121,-157.816153,21.4121",
+    "geom:latitude":21.4121,
+    "geom:longitude":-157.816153,
+    "iso:country":"US",
+    "sg:address":"431 Kahuhipa St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5542",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85890373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cD05wa3GMWmg20e2lMvvC_21.412100_-157.816153@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204439,
+    "wof:geomhash":"67ec903ef1ae887b61f0aa5b68a3ad72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85890373,
+            "region_id":85688671,
+            "venue_id":857620265
+        }
+    ],
+    "wof:id":857620265,
+    "wof:lastmodified":1464204439,
+    "wof:name":"Advanced Roofing Technology",
+    "wof:parent_id":85890373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.816153,
+    21.4121,
+    -157.816153,
+    21.4121
+],
+  "geometry": {"coordinates":[-157.81615300000001,21.4121],"type":"Point"}
+}

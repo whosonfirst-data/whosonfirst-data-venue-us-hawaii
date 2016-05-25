@@ -1,0 +1,73 @@
+{
+  "id": 857588237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083543,21.35689,-158.083543,21.35689",
+    "geom:latitude":21.35689,
+    "geom:longitude":-158.083543,
+    "iso:country":"US",
+    "sg:address":"1243 Panana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 454 0330",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xwky7O3GWqaVs9AFxR1VV_21.356890_-158.083543@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203720,
+    "wof:geomhash":"e9edd9c9367b47f04a8ca9b7920bdce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857588237
+        }
+    ],
+    "wof:id":857588237,
+    "wof:lastmodified":1464203720,
+    "wof:name":"Bates of Hawaii",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -158.083543,
+    21.35689,
+    -158.083543,
+    21.35689
+],
+  "geometry": {"coordinates":[-158.08354299999999,21.35689],"type":"Point"}
+}

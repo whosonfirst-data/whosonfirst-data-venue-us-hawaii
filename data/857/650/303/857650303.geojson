@@ -1,0 +1,71 @@
+{
+  "id": 857650303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824605,21.277866,-157.824605,21.277866",
+    "geom:latitude":21.277866,
+    "geom:longitude":-157.824605,
+    "iso:country":"US",
+    "sg:address":"2379 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 3828",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QbmpvfeEMLTW2JSOwHseE_21.277866_-157.824605@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205471,
+    "wof:geomhash":"34e34a94cce9d717f18e8c585b763c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857650303
+        }
+    ],
+    "wof:id":857650303,
+    "wof:lastmodified":1464205471,
+    "wof:name":"King Jewelry",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.824605,
+    21.277866,
+    -157.824605,
+    21.277866
+],
+  "geometry": {"coordinates":[-157.82460499999999,21.277866],"type":"Point"}
+}

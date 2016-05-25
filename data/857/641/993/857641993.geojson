@@ -1,0 +1,68 @@
+{
+  "id": 857641993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.031038,19.626819,-155.031038,19.626819",
+    "geom:latitude":19.626819,
+    "geom:longitude":-155.031038,
+    "iso:country":"US",
+    "sg:address":"675 Milo St",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 8866",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wP07jZatx67UpqT5h75ia_19.626819_-155.031038@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205098,
+    "wof:geomhash":"207cfa5c77d4b79f4ca6957baf55eea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857641993
+        }
+    ],
+    "wof:id":857641993,
+    "wof:lastmodified":1464205098,
+    "wof:name":"Christian Liberty School",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.031038,
+    19.626819,
+    -155.031038,
+    19.626819
+],
+  "geometry": {"coordinates":[-155.031038,19.626819],"type":"Point"}
+}

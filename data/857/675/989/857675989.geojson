@@ -1,0 +1,70 @@
+{
+  "id": 857675989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.076295,21.3406,-158.076295,21.3406",
+    "geom:latitude":21.3406,
+    "geom:longitude":-158.076295,
+    "iso:country":"US",
+    "sg:address":"455 Makakilo Dr",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 8669",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.stjudehawaii.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ONoC3AXcHlqyWSexwb3zW_21.340600_-158.076295@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206576,
+    "wof:geomhash":"deb937b66458e30d93009796e3adf416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857675989
+        }
+    ],
+    "wof:id":857675989,
+    "wof:lastmodified":1464206576,
+    "wof:name":"St Jude",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -158.076295,
+    21.3406,
+    -158.076295,
+    21.3406
+],
+  "geometry": {"coordinates":[-158.07629499999999,21.3406],"type":"Point"}
+}

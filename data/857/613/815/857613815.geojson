@@ -1,0 +1,73 @@
+{
+  "id": 857613815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.689341,21.295848,-157.689341,21.295848",
+    "geom:latitude":21.295848,
+    "geom:longitude":-157.689341,
+    "iso:country":"US",
+    "sg:address":"780 Lunalilo Home Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 393 2337",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_238a1naoeew6H1DiP5GCYw_21.295848_-157.689341@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204298,
+    "wof:geomhash":"d7a2135789a6d4330094f257ca91ad08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857613815
+        }
+    ],
+    "wof:id":857613815,
+    "wof:lastmodified":1464204298,
+    "wof:name":"M K Tile",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.689341,
+    21.295848,
+    -157.689341,
+    21.295848
+],
+  "geometry": {"coordinates":[-157.68934100000001,21.295848],"type":"Point"}
+}

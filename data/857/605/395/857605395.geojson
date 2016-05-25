@@ -1,0 +1,75 @@
+{
+  "id": 857605395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.686611,21.303827,-157.686611,21.303827",
+    "geom:latitude":21.303827,
+    "geom:longitude":-157.686611,
+    "iso:country":"US",
+    "sg:address":"1136 Wainiha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 375 7837",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "datum",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HVUCgkwMa5bnU1ATYP365_21.303827_-157.686611@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204105,
+    "wof:geomhash":"ab5679401e769275247e27146526f76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857605395
+        }
+    ],
+    "wof:id":857605395,
+    "wof:lastmodified":1464204105,
+    "wof:name":"My Front Step Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "datum",
+        "house"
+    ]
+},
+  "bbox": [
+    -157.686611,
+    21.303827,
+    -157.686611,
+    21.303827
+],
+  "geometry": {"coordinates":[-157.686611,21.303827],"type":"Point"}
+}

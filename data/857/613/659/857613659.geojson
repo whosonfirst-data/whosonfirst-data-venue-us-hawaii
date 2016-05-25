@@ -1,0 +1,75 @@
+{
+  "id": 857613659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.97627,21.408243,-157.97627,21.408243",
+    "geom:latitude":21.408243,
+    "geom:longitude":-157.97627,
+    "iso:country":"US",
+    "sg:address":"1272 Waihona St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 2408",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sm2i84v85jcatF0oDdI3N_21.408243_-157.976270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204295,
+    "wof:geomhash":"8352d862ed47692c2951c4e7f201a916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857613659
+        }
+    ],
+    "wof:id":857613659,
+    "wof:lastmodified":1464204295,
+    "wof:name":"Pacific Auto Trk Body & Paint",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.97627,
+    21.408243,
+    -157.97627,
+    21.408243
+],
+  "geometry": {"coordinates":[-157.97627,21.408243],"type":"Point"}
+}

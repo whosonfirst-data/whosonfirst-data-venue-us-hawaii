@@ -1,0 +1,75 @@
+{
+  "id": 857658129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.126801,21.347901,-158.126801,21.347901",
+    "geom:latitude":21.347901,
+    "geom:longitude":-158.126801,
+    "iso:country":"US",
+    "sg:address":"340 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2989",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "satellite",
+        "provides",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24fr8cC1qwGCHjg1bFeMm4_21.347901_-158.126801@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205826,
+    "wof:geomhash":"ea34a688a9449c26925c04af4dd2998c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857658129
+        }
+    ],
+    "wof:id":857658129,
+    "wof:lastmodified":1464205826,
+    "wof:name":"Loral Skynet Network Services",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "provides",
+        "facility"
+    ]
+},
+  "bbox": [
+    -158.126801,
+    21.347901,
+    -158.126801,
+    21.347901
+],
+  "geometry": {"coordinates":[-158.126801,21.347901],"type":"Point"}
+}

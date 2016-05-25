@@ -1,0 +1,73 @@
+{
+  "id": 857608525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.939218,21.406855,-157.939218,21.406855",
+    "geom:latitude":21.406855,
+    "geom:longitude":-157.939218,
+    "iso:country":"US",
+    "sg:address":"1921 Hapaki St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 9334",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01zReDm0TIxVWTAWxo3xh2_21.406855_-157.939218@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204176,
+    "wof:geomhash":"151965f43cdb85514109f4e2f64013c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890705,
+            "region_id":85688671,
+            "venue_id":857608525
+        }
+    ],
+    "wof:id":857608525,
+    "wof:lastmodified":1464204176,
+    "wof:name":"Omega Scientific Inc",
+    "wof:parent_id":85890705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.939218,
+    21.406855,
+    -157.939218,
+    21.406855
+],
+  "geometry": {"coordinates":[-157.93921800000001,21.406855],"type":"Point"}
+}

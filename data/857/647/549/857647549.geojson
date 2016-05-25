@@ -1,0 +1,73 @@
+{
+  "id": 857647549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.900098,21.367057,-157.900098,21.367057",
+    "geom:latitude":21.367057,
+    "geom:longitude":-157.900098,
+    "iso:country":"US",
+    "sg:address":"1270 Ala Kapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 1777",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2darIPLH9Az95TanMGxGPi_21.367057_-157.900098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205361,
+    "wof:geomhash":"9a006afca175f2121082eb41c548bb13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857647549
+        }
+    ],
+    "wof:id":857647549,
+    "wof:lastmodified":1464205361,
+    "wof:name":"A Paige's Towing",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.900098,
+    21.367057,
+    -157.900098,
+    21.367057
+],
+  "geometry": {"coordinates":[-157.90009800000001,21.367057],"type":"Point"}
+}

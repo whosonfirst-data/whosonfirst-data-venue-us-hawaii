@@ -1,0 +1,73 @@
+{
+  "id": 857548977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.489282,20.899368,-156.489282,20.899368",
+    "geom:latitude":20.899368,
+    "geom:longitude":-156.489282,
+    "iso:country":"US",
+    "sg:address":"928 Lower Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 5547",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DEmko7A25tyH3wU6816R5_20.899368_-156.489282@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202911,
+    "wof:geomhash":"406e8ec48f3ef6a930748ee0bff73b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857548977
+        }
+    ],
+    "wof:id":857548977,
+    "wof:lastmodified":1464202911,
+    "wof:name":"Club KOA",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -156.489282,
+    20.899368,
+    -156.489282,
+    20.899368
+],
+  "geometry": {"coordinates":[-156.489282,20.899368],"type":"Point"}
+}

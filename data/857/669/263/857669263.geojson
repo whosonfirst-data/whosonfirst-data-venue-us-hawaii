@@ -1,0 +1,71 @@
+{
+  "id": 857669263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82062,21.271857,-157.82062,21.271857",
+    "geom:latitude":21.271857,
+    "geom:longitude":-157.82062,
+    "iso:country":"US",
+    "sg:address":"150 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 1544",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FE4fxJ14QqDTcD1qt5zMr_21.271857_-157.820620@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206312,
+    "wof:geomhash":"d6cea95831656a17e7c2f68ec414cd11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857669263
+        }
+    ],
+    "wof:id":857669263,
+    "wof:lastmodified":1464206312,
+    "wof:name":"Instant Power Foods",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -157.82062,
+    21.271857,
+    -157.82062,
+    21.271857
+],
+  "geometry": {"coordinates":[-157.82061999999999,21.271857],"type":"Point"}
+}

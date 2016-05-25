@@ -1,0 +1,71 @@
+{
+  "id": 857671847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.016801,21.381402,-158.016801,21.381402",
+    "geom:latitude":21.381402,
+    "geom:longitude":-158.016801,
+    "iso:country":"US",
+    "sg:address":"366 Pupupani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 7441",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gO60zC1kqoHO9PtoUEeeV_21.381402_-158.016801@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206405,
+    "wof:geomhash":"5537c5381dee19b64941b97d42483720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857671847
+        }
+    ],
+    "wof:id":857671847,
+    "wof:lastmodified":1464206405,
+    "wof:name":"Star Lounge",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -158.016801,
+    21.381402,
+    -158.016801,
+    21.381402
+],
+  "geometry": {"coordinates":[-158.01680099999999,21.381402],"type":"Point"}
+}

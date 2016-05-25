@@ -1,0 +1,73 @@
+{
+  "id": 857565633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506093,20.89348,-156.506093,20.89348",
+    "geom:latitude":20.89348,
+    "geom:longitude":-156.506093,
+    "iso:country":"US",
+    "sg:address":"175 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 7981",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69kxDaBj8m4rYi5oe8U4MY_20.893480_-156.506093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203266,
+    "wof:geomhash":"7c3f12eb8925aed187540e9636f85bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857565633
+        }
+    ],
+    "wof:id":857565633,
+    "wof:lastmodified":1464203266,
+    "wof:name":"Wailuku Federal Credit Union",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "agency"
+    ]
+},
+  "bbox": [
+    -156.506093,
+    20.89348,
+    -156.506093,
+    20.89348
+],
+  "geometry": {"coordinates":[-156.50609299999999,20.89348],"type":"Point"}
+}

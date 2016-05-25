@@ -1,0 +1,73 @@
+{
+  "id": 857646807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.738381,21.286017,-157.738381,21.286017",
+    "geom:latitude":21.286017,
+    "geom:longitude":-157.738381,
+    "iso:country":"US",
+    "sg:address":"274 Halemaumau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 7174",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d0BJWjxkNTvDnSA4YiTnA_21.286017_-157.738381@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205328,
+    "wof:geomhash":"7db8395a824b2437aa19be463cceecc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857646807
+        }
+    ],
+    "wof:id":857646807,
+    "wof:lastmodified":1464205328,
+    "wof:name":"International Plumbing Inc",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.738381,
+    21.286017,
+    -157.738381,
+    21.286017
+],
+  "geometry": {"coordinates":[-157.738381,21.286017],"type":"Point"}
+}

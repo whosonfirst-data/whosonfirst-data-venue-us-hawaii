@@ -1,0 +1,72 @@
+{
+  "id": 857681371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835602,21.284225,-157.835602,21.284225",
+    "geom:latitude":21.284225,
+    "geom:longitude":-157.835602,
+    "iso:country":"US",
+    "sg:address":"2005 Kalia Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3287-rainbow-lanai/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4321",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YrdWM1kP4RaCGP114OsUK_21.284225_-157.835602@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206781,
+    "wof:geomhash":"23c07eb8d6b3346a40b749a160698e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681371
+        }
+    ],
+    "wof:id":857681371,
+    "wof:lastmodified":1464206781,
+    "wof:name":"Rainbow Lanai",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.835602,
+    21.284225,
+    -157.835602,
+    21.284225
+],
+  "geometry": {"coordinates":[-157.83560199999999,21.284225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857617379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.463213,20.889508,-156.463213,20.889508",
+    "geom:latitude":20.889508,
+    "geom:longitude":-156.463213,
+    "iso:country":"US",
+    "sg:address":"170 E Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 8218",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n26NL4dvGevyI9HCqFfUG_20.889508_-156.463213@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204364,
+    "wof:geomhash":"a85ff760ab7fb3aa1984cb7cbfa1f3f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857617379
+        }
+    ],
+    "wof:id":857617379,
+    "wof:lastmodified":1464204364,
+    "wof:name":"Bank Of Hawaii",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -156.463213,
+    20.889508,
+    -156.463213,
+    20.889508
+],
+  "geometry": {"coordinates":[-156.463213,20.889508],"type":"Point"}
+}

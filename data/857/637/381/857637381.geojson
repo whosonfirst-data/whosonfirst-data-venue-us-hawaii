@@ -1,0 +1,71 @@
+{
+  "id": 857637381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859558,21.303853,-157.859558,21.303853",
+    "geom:latitude":21.303853,
+    "geom:longitude":-157.859558,
+    "iso:country":"US",
+    "sg:address":"545 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 522 7919",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bPTDOH6MBCj5ghBi1G4SE_21.303853_-157.859558@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204919,
+    "wof:geomhash":"9e09bc7666b97cce4c13becde0ed6713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857637381
+        }
+    ],
+    "wof:id":857637381,
+    "wof:lastmodified":1464204919,
+    "wof:name":"Honuakaha Development",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.859558,
+    21.303853,
+    -157.859558,
+    21.303853
+],
+  "geometry": {"coordinates":[-157.85955799999999,21.303853],"type":"Point"}
+}

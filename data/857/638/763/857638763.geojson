@@ -1,0 +1,71 @@
+{
+  "id": 857638763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842494,21.308452,-157.842494,21.308452",
+    "geom:latitude":21.308452,
+    "geom:longitude":-157.842494,
+    "iso:country":"US",
+    "sg:address":"1001 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 9461",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O770FGS6GIAuX4M7ebFWF_21.308452_-157.842494@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204973,
+    "wof:geomhash":"6e0d4e45ae2dedb52d42bc6da7e46fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857638763
+        }
+    ],
+    "wof:id":857638763,
+    "wof:lastmodified":1464204973,
+    "wof:name":"Zais Martin H DDS",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [
+    -157.842494,
+    21.308452,
+    -157.842494,
+    21.308452
+],
+  "geometry": {"coordinates":[-157.84249399999999,21.308452],"type":"Point"}
+}

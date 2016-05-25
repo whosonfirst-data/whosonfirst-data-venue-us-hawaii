@@ -1,0 +1,73 @@
+{
+  "id": 857561303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021693,21.437334,-158.021693,21.437334",
+    "geom:latitude":21.437334,
+    "geom:longitude":-158.021693,
+    "iso:country":"US",
+    "sg:address":"322 Kikiula Way",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 625 0132",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dd3iPKL2XtFBqeUERgTQX_21.437334_-158.021693@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203188,
+    "wof:geomhash":"90f31bac9dd0fca0e71aadc0d45a9281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857561303
+        }
+    ],
+    "wof:id":857561303,
+    "wof:lastmodified":1464203188,
+    "wof:name":"Tolentino Builders",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -158.021693,
+    21.437334,
+    -158.021693,
+    21.437334
+],
+  "geometry": {"coordinates":[-158.021693,21.437334],"type":"Point"}
+}

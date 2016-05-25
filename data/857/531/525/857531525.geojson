@@ -1,0 +1,73 @@
+{
+  "id": 857531525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.743326,21.288079,-157.743326,21.288079",
+    "geom:latitude":21.288079,
+    "geom:longitude":-157.743326,
+    "iso:country":"US",
+    "sg:address":"738 Kaulana Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 265 6623",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fDV43XHOcpbV3FlkeRGbF_21.288079_-157.743326@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202577,
+    "wof:geomhash":"317d007c6a8faeb3510d0dd41dcba98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857531525
+        }
+    ],
+    "wof:id":857531525,
+    "wof:lastmodified":1464202577,
+    "wof:name":"Grip Video LLC",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.743326,
+    21.288079,
+    -157.743326,
+    21.288079
+],
+  "geometry": {"coordinates":[-157.743326,21.288079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857660081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.970243,21.393874,-157.970243,21.393874",
+    "geom:latitude":21.393874,
+    "geom:longitude":-157.970243,
+    "iso:country":"US",
+    "sg:address":"1099 Waimano Home Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 2099",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_034qw21qvUPRBLuNgp0vZE_21.393874_-157.970243@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205906,
+    "wof:geomhash":"02ed9a06e346f2859d46114b5e1f4041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857660081
+        }
+    ],
+    "wof:id":857660081,
+    "wof:lastmodified":1464205906,
+    "wof:name":"20 20 Auto Detailing LLC",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -157.970243,
+    21.393874,
+    -157.970243,
+    21.393874
+],
+  "geometry": {"coordinates":[-157.97024300000001,21.393874],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857618601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.685385,20.955884,-156.685385,20.955884",
+    "geom:latitude":20.955884,
+    "geom:longitude":-156.685385,
+    "iso:country":"US",
+    "sg:address":"3676 Lower Honoapiilani Rd",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 5338",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937613,
+        102085577,
+        85890515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CaNEO4kaBxCp5MnysfEK7_20.955884_-156.685385@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204390,
+    "wof:geomhash":"28c1d8af661a1d94cea045531b511fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937613,
+            "neighbourhood_id":85890515,
+            "region_id":85688671,
+            "venue_id":857618601
+        }
+    ],
+    "wof:id":857618601,
+    "wof:lastmodified":1464204390,
+    "wof:name":"Lahaina Pool Svc",
+    "wof:parent_id":85890515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coping",
+        "plastering",
+        "tiling",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -156.685385,
+    20.955884,
+    -156.685385,
+    20.955884
+],
+  "geometry": {"coordinates":[-156.685385,20.955884],"type":"Point"}
+}

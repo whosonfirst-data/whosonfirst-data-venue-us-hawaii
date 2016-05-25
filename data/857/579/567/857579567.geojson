@@ -1,0 +1,71 @@
+{
+  "id": 857579567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833191,21.295906,-157.833191,21.295906",
+    "geom:latitude":21.295906,
+    "geom:longitude":-157.833191,
+    "iso:country":"US",
+    "sg:address":"1785 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 7538",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oEinY3JnWX00m2SNryLMz_21.295906_-157.833191@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203545,
+    "wof:geomhash":"7456289970109ff7567fa712ef608064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857579567
+        }
+    ],
+    "wof:id":857579567,
+    "wof:lastmodified":1464203545,
+    "wof:name":"Club Genji",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.833191,
+    21.295906,
+    -157.833191,
+    21.295906
+],
+  "geometry": {"coordinates":[-157.833191,21.295906],"type":"Point"}
+}

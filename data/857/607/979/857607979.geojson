@@ -1,0 +1,74 @@
+{
+  "id": 857607979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.766399,21.36256,-157.766399,21.36256",
+    "geom:latitude":21.36256,
+    "geom:longitude":-157.766399,
+    "iso:country":"US",
+    "sg:address":"1118 Maunawili Rd",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 5339",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.earthtrust.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Itar8pZmMQ9wOjglDJax_21.362560_-157.766399@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204165,
+    "wof:geomhash":"3216747d6d4ea254421b0c3ada4a8d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857607979
+        }
+    ],
+    "wof:id":857607979,
+    "wof:lastmodified":1464204165,
+    "wof:name":"Earthtrust",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -157.766399,
+    21.36256,
+    -157.766399,
+    21.36256
+],
+  "geometry": {"coordinates":[-157.76639900000001,21.36256],"type":"Point"}
+}

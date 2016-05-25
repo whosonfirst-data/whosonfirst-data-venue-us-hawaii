@@ -1,0 +1,71 @@
+{
+  "id": 857667295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878848,21.332779,-157.878848,21.332779",
+    "geom:latitude":21.332779,
+    "geom:longitude":-157.878848,
+    "iso:country":"US",
+    "sg:address":"2003 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4953",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LQiFOB1kaIXGIr2FhpOdD_21.332779_-157.878848@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206235,
+    "wof:geomhash":"cfb66b95b515ba5d0c86b6f271112a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857667295
+        }
+    ],
+    "wof:id":857667295,
+    "wof:lastmodified":1464206235,
+    "wof:name":"Kalihi Pawn Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -157.878848,
+    21.332779,
+    -157.878848,
+    21.332779
+],
+  "geometry": {"coordinates":[-157.878848,21.332779],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857559815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.688822,21.295431,-157.688822,21.295431",
+    "geom:latitude":21.295431,
+    "geom:longitude":-157.688822,
+    "iso:country":"US",
+    "sg:address":"820 Aipo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 754 1933",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ssPeQbtiZdQrWcLwbYqZP_21.295431_-157.688822@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203145,
+    "wof:geomhash":"e721cdcd5b7b93a4e4797046de48dc17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857559815
+        }
+    ],
+    "wof:id":857559815,
+    "wof:lastmodified":1464203145,
+    "wof:name":"HIDE'S/Tlc Towing Svc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.688822,
+    21.295431,
+    -157.688822,
+    21.295431
+],
+  "geometry": {"coordinates":[-157.68882199999999,21.295431],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857539815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882035,21.337421,-157.882035,21.337421",
+    "geom:latitude":21.337421,
+    "geom:longitude":-157.882035,
+    "iso:country":"US",
+    "sg:address":"2321 Ahu Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 5888",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DtAyTGxZUJejGChqk8RYR_21.337421_-157.882035@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202733,
+    "wof:geomhash":"6e9564f169e3f5abbaa5e096ec8cd250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857539815
+        }
+    ],
+    "wof:id":857539815,
+    "wof:lastmodified":1464202733,
+    "wof:name":"Pats Palisades Barber",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.882035,
+    21.337421,
+    -157.882035,
+    21.337421
+],
+  "geometry": {"coordinates":[-157.882035,21.337421],"type":"Point"}
+}

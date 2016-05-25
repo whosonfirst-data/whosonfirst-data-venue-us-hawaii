@@ -1,0 +1,73 @@
+{
+  "id": 857602531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885446,21.323684,-157.885446,21.323684",
+    "geom:latitude":21.323684,
+    "geom:longitude":-157.885446,
+    "iso:country":"US",
+    "sg:address":"1715 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3877",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qFo1Toad9dEMc1ehe1kjt_21.323684_-157.885446@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204039,
+    "wof:geomhash":"e7384aff1bf184c8a9d504f65152ba2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857602531
+        }
+    ],
+    "wof:id":857602531,
+    "wof:lastmodified":1464204039,
+    "wof:name":"Gil's Plumbing",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.885446,
+    21.323684,
+    -157.885446,
+    21.323684
+],
+  "geometry": {"coordinates":[-157.885446,21.323684],"type":"Point"}
+}

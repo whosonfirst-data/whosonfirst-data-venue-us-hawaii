@@ -1,0 +1,71 @@
+{
+  "id": 857648483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.912315,21.349591,-157.912315,21.349591",
+    "geom:latitude":21.349591,
+    "geom:longitude":-157.912315,
+    "iso:country":"US",
+    "sg:address":"3354 Ala Lilia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 5008",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32yUlslf3kJyO6ZPoWn5rW_21.349591_-157.912315@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205394,
+    "wof:geomhash":"627ff8781c0d3086f06bbe96178855fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857648483
+        }
+    ],
+    "wof:id":857648483,
+    "wof:lastmodified":1464205394,
+    "wof:name":"Investors Management Property",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -157.912315,
+    21.349591,
+    -157.912315,
+    21.349591
+],
+  "geometry": {"coordinates":[-157.91231500000001,21.349591],"type":"Point"}
+}

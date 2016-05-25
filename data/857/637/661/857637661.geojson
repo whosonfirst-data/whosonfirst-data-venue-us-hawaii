@@ -1,0 +1,73 @@
+{
+  "id": 857637661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.901895,21.345955,-157.901895,21.345955",
+    "geom:latitude":21.345955,
+    "geom:longitude":-157.901895,
+    "iso:country":"US",
+    "sg:address":"1080 Ala Napunani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1962",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EYcBl77ujyXkR9JPGKBi1_21.345955_-157.901895@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204928,
+    "wof:geomhash":"5c4a5a0a65f856fc0eac7c99283d3162",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857637661
+        }
+    ],
+    "wof:id":857637661,
+    "wof:lastmodified":1464204928,
+    "wof:name":"Alan's Appliance Svc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.901895,
+    21.345955,
+    -157.901895,
+    21.345955
+],
+  "geometry": {"coordinates":[-157.901895,21.345955],"type":"Point"}
+}

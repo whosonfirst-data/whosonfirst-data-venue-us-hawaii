@@ -1,0 +1,66 @@
+{
+  "id": 857551141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878899,21.326288,-157.878899,21.326288",
+    "geom:latitude":21.326288,
+    "geom:longitude":-157.878899,
+    "iso:country":"US",
+    "sg:address":"1617 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 4050",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ehGDELZTqIEfrO3zngqsP_21.326288_-157.878899@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202951,
+    "wof:geomhash":"28b68f7c63c8f1be22da9d9c0d6d4094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857551141
+        }
+    ],
+    "wof:id":857551141,
+    "wof:lastmodified":1464202951,
+    "wof:name":"Bank Of Hawaii",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.878899,
+    21.326288,
+    -157.878899,
+    21.326288
+],
+  "geometry": {"coordinates":[-157.87889899999999,21.326288],"type":"Point"}
+}

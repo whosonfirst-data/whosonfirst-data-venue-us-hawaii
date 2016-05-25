@@ -1,0 +1,71 @@
+{
+  "id": 857645947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860225,21.299946,-157.860225,21.299946",
+    "geom:latitude":21.299946,
+    "geom:longitude":-157.860225,
+    "iso:country":"US",
+    "sg:address":"412 Keawe St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 234 7171",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sf4crKRSG7ZQxVaJL1krj_21.299946_-157.860225@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205275,
+    "wof:geomhash":"f35fa35ac02ab753fff56448b5c90b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857645947
+        }
+    ],
+    "wof:id":857645947,
+    "wof:lastmodified":1464205275,
+    "wof:name":"Wasco Builders",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.860225,
+    21.299946,
+    -157.860225,
+    21.299946
+],
+  "geometry": {"coordinates":[-157.86022500000001,21.299946],"type":"Point"}
+}

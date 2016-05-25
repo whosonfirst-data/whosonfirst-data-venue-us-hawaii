@@ -1,0 +1,71 @@
+{
+  "id": 857632745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.754668,21.293342,-157.754668,21.293342",
+    "geom:latitude":21.293342,
+    "geom:longitude":-157.754668,
+    "iso:country":"US",
+    "sg:address":"997 Hind Iuka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 5615",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BU2NF98DCjwHq3uaKdmdH_21.293342_-157.754668@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204746,
+    "wof:geomhash":"f157196ef4770fb51e3be29121b89805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857632745
+        }
+    ],
+    "wof:id":857632745,
+    "wof:lastmodified":1464204746,
+    "wof:name":"B & R Maintenance",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -157.754668,
+    21.293342,
+    -157.754668,
+    21.293342
+],
+  "geometry": {"coordinates":[-157.75466800000001,21.293342],"type":"Point"}
+}

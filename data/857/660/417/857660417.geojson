@@ -1,0 +1,73 @@
+{
+  "id": 857660417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810321,21.26974,-157.810321,21.26974",
+    "geom:latitude":21.26974,
+    "geom:longitude":-157.810321,
+    "iso:country":"US",
+    "sg:address":"3206 Monsarrat Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 8948",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zLmmHsavYy3T3KLBiY2AO_21.269740_-157.810321@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205929,
+    "wof:geomhash":"7fc27e08079aacc92a156d1429871af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857660417
+        }
+    ],
+    "wof:id":857660417,
+    "wof:lastmodified":1464205929,
+    "wof:name":"Dick's Monsarrat Svc Inc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.810321,
+    21.26974,
+    -157.810321,
+    21.26974
+],
+  "geometry": {"coordinates":[-157.81032099999999,21.26974],"type":"Point"}
+}

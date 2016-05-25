@@ -1,0 +1,71 @@
+{
+  "id": 857505527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838395,21.297754,-157.838395,21.297754",
+    "geom:latitude":21.297754,
+    "geom:longitude":-157.838395,
+    "iso:country":"US",
+    "sg:address":"1415 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 3532",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "optical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Due0Zyw9BxnBXw6gWtohr_21.297754_-157.838395@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202048,
+    "wof:geomhash":"cb759cd89f0541986c1c558b4bf14634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857505527
+        }
+    ],
+    "wof:id":857505527,
+    "wof:lastmodified":1464202048,
+    "wof:name":"Paradise Optical Co",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical"
+    ]
+},
+  "bbox": [
+    -157.838395,
+    21.297754,
+    -157.838395,
+    21.297754
+],
+  "geometry": {"coordinates":[-157.83839499999999,21.297754],"type":"Point"}
+}

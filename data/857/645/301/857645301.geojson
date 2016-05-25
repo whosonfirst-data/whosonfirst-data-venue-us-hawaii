@@ -1,0 +1,67 @@
+{
+  "id": 857645301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824457,21.280136,-157.824457,21.280136",
+    "geom:latitude":21.280136,
+    "geom:longitude":-157.824457,
+    "iso:country":"US",
+    "sg:address":"415 Nahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 1616",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.astonhotels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yW03X8sN3H87Wkr29LIzS_21.280136_-157.824457@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205250,
+    "wof:geomhash":"580d264c209afb36798b19cc66c470d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857645301
+        }
+    ],
+    "wof:id":857645301,
+    "wof:lastmodified":1464205250,
+    "wof:name":"Honolulu Prince",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.824457,
+    21.280136,
+    -157.824457,
+    21.280136
+],
+  "geometry": {"coordinates":[-157.824457,21.280136],"type":"Point"}
+}

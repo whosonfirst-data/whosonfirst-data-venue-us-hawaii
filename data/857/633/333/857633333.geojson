@@ -1,0 +1,66 @@
+{
+  "id": 857633333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.670383,21.29156,-157.670383,21.29156",
+    "geom:latitude":21.29156,
+    "geom:longitude":-157.670383,
+    "iso:country":"US",
+    "sg:address":"365 Kuanalu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5576",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15QGMX4tVsTLZgyGVCwPkI_21.291560_-157.670383@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204768,
+    "wof:geomhash":"da9c6a38dd8d3b08d8c827ade8cb20d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857633333
+        }
+    ],
+    "wof:id":857633333,
+    "wof:lastmodified":1464204768,
+    "wof:name":"Home Treasures Hawaii",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.670383,
+    21.29156,
+    -157.670383,
+    21.29156
+],
+  "geometry": {"coordinates":[-157.67038299999999,21.29156],"type":"Point"}
+}

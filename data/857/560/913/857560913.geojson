@@ -1,0 +1,73 @@
+{
+  "id": 857560913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814238,21.281293,-157.814238,21.281293",
+    "geom:latitude":21.281293,
+    "geom:longitude":-157.814238,
+    "iso:country":"US",
+    "sg:address":"758 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 6685",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bu1u9gQeML3qJyfouff06_21.281293_-157.814238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203180,
+    "wof:geomhash":"ca17c7ecf2cc868781563f42fe495123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857560913
+        }
+    ],
+    "wof:id":857560913,
+    "wof:lastmodified":1464203180,
+    "wof:name":"Euro USA",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -157.814238,
+    21.281293,
+    -157.814238,
+    21.281293
+],
+  "geometry": {"coordinates":[-157.81423799999999,21.281293],"type":"Point"}
+}

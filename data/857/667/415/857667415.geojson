@@ -1,0 +1,71 @@
+{
+  "id": 857667415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.092414,21.3646,-158.092414,21.3646",
+    "geom:latitude":21.3646,
+    "geom:longitude":-158.092414,
+    "iso:country":"US",
+    "sg:address":"6039 Makeke St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 216 5169",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01cHXHEJEr2AqXONRRwofI_21.364600_-158.092414@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206238,
+    "wof:geomhash":"72701ca54093610afccc636a208d02f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857667415
+        }
+    ],
+    "wof:id":857667415,
+    "wof:lastmodified":1464206238,
+    "wof:name":"Ld Drywall Inc",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.092414,
+    21.3646,
+    -158.092414,
+    21.3646
+],
+  "geometry": {"coordinates":[-158.09241399999999,21.3646],"type":"Point"}
+}

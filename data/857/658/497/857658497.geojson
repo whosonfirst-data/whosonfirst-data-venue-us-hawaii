@@ -1,0 +1,71 @@
+{
+  "id": 857658497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820174,21.276699,-157.820174,21.276699",
+    "geom:latitude":21.276699,
+    "geom:longitude":-157.820174,
+    "iso:country":"US",
+    "sg:address":"2509 Ala Wai Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 6004",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kJ8dOao4YLrZwmmbAMht4_21.276699_-157.820174@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205839,
+    "wof:geomhash":"f87d037d22637c8852b99e8e72cd7db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857658497
+        }
+    ],
+    "wof:id":857658497,
+    "wof:lastmodified":1464205839,
+    "wof:name":"Pacific International Condo",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.820174,
+    21.276699,
+    -157.820174,
+    21.276699
+],
+  "geometry": {"coordinates":[-157.82017400000001,21.276699],"type":"Point"}
+}

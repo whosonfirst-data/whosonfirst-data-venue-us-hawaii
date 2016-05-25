@@ -1,0 +1,71 @@
+{
+  "id": 857609655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876668,21.321803,-157.876668,21.321803",
+    "geom:latitude":21.321803,
+    "geom:longitude":-157.876668,
+    "iso:country":"US",
+    "sg:address":"1284 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5059",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jq4VGsaL1k8Bsk2n49WL8_21.321803_-157.876668@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204200,
+    "wof:geomhash":"474c8b8e49a05bea7cc39f3d3b92eba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857609655
+        }
+    ],
+    "wof:id":857609655,
+    "wof:lastmodified":1464204200,
+    "wof:name":"Crab Tank",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.876668,
+    21.321803,
+    -157.876668,
+    21.321803
+],
+  "geometry": {"coordinates":[-157.876668,21.321803],"type":"Point"}
+}

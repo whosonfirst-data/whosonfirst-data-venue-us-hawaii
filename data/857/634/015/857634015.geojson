@@ -1,0 +1,66 @@
+{
+  "id": 857634015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.874681,21.315479,-157.874681,21.315479",
+    "geom:latitude":21.315479,
+    "geom:longitude":-157.874681,
+    "iso:country":"US",
+    "sg:address":"933 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 0258",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4upalqgo5yLkHLHpQOveGU_21.315479_-157.874681@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204798,
+    "wof:geomhash":"5b3402c31e7d6f0c257c057e03804560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857634015
+        }
+    ],
+    "wof:id":857634015,
+    "wof:lastmodified":1464204798,
+    "wof:name":"Honolulu Freight Svc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.874681,
+    21.315479,
+    -157.874681,
+    21.315479
+],
+  "geometry": {"coordinates":[-157.87468100000001,21.315479],"type":"Point"}
+}

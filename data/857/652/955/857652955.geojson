@@ -1,0 +1,71 @@
+{
+  "id": 857652955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883534,21.322653,-157.883534,21.322653",
+    "geom:latitude":21.322653,
+    "geom:longitude":-157.883534,
+    "iso:country":"US",
+    "sg:address":"247 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 8078",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rx2hWxaNMGBtOPA7bNUWY_21.322653_-157.883534@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205586,
+    "wof:geomhash":"37c757a3ba54e29571421d19b8e76bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857652955
+        }
+    ],
+    "wof:id":857652955,
+    "wof:lastmodified":1464205586,
+    "wof:name":"Ridgeway Construction",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.883534,
+    21.322653,
+    -157.883534,
+    21.322653
+],
+  "geometry": {"coordinates":[-157.883534,21.322653],"type":"Point"}
+}

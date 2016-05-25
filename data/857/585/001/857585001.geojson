@@ -1,0 +1,73 @@
+{
+  "id": 857585001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.014719,21.455794,-158.014719,21.455794",
+    "geom:latitude":21.455794,
+    "geom:longitude":-158.014719,
+    "iso:country":"US",
+    "sg:address":"344 Pohina Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 8156",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "govt",
+        "project"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ukhIl9RTIcBdXWjcPc99n_21.455794_-158.014719@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203645,
+    "wof:geomhash":"ba8d7bf762bc49c13fe1b86bfe2d98a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857585001
+        }
+    ],
+    "wof:id":857585001,
+    "wof:lastmodified":1464203645,
+    "wof:name":"Donna Gabriel",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "project"
+    ]
+},
+  "bbox": [
+    -158.014719,
+    21.455794,
+    -158.014719,
+    21.455794
+],
+  "geometry": {"coordinates":[-158.01471900000001,21.455794],"type":"Point"}
+}

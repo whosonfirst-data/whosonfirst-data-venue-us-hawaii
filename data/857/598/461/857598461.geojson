@@ -1,0 +1,71 @@
+{
+  "id": 857598461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.31956,22.063171,-159.31956,22.063171",
+    "geom:latitude":22.063171,
+    "geom:longitude":-159.31956,
+    "iso:country":"US",
+    "sg:address":"901 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 823 9593",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KJCtOdFqnr7KXiYBXCFOm_22.063171_-159.319560@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203950,
+    "wof:geomhash":"0b896baa4d43a17793267a86ac86e9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857598461
+        }
+    ],
+    "wof:id":857598461,
+    "wof:lastmodified":1464203950,
+    "wof:name":"KCRS",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -159.31956,
+    22.063171,
+    -159.31956,
+    22.063171
+],
+  "geometry": {"coordinates":[-159.31956,22.063171],"type":"Point"}
+}

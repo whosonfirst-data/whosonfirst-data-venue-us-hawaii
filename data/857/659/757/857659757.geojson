@@ -1,0 +1,74 @@
+{
+  "id": 857659757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862979,21.310416,-157.862979,21.310416",
+    "geom:latitude":21.310416,
+    "geom:longitude":-157.862979,
+    "iso:country":"US",
+    "sg:address":"923 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4508",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.nature.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I4ZHeygrabZh2jUqDq82W_21.310416_-157.862979@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205895,
+    "wof:geomhash":"cede16466a08ebb2eed22628b3b1c522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857659757
+        }
+    ],
+    "wof:id":857659757,
+    "wof:lastmodified":1464205895,
+    "wof:name":"Nature Conservancy",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -157.862979,
+    21.310416,
+    -157.862979,
+    21.310416
+],
+  "geometry": {"coordinates":[-157.862979,21.310416],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857676863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825251,21.275605,-157.825251,21.275605",
+    "geom:latitude":21.275605,
+    "geom:longitude":-157.825251,
+    "iso:country":"US",
+    "sg:address":"2425 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 529 3801",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AtgKcva39HKX8SWdT2Ghi_21.275605_-157.825251@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206609,
+    "wof:geomhash":"4139717921eb17bbb17a8dfed5eeeb37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857676863
+        }
+    ],
+    "wof:id":857676863,
+    "wof:lastmodified":1464206609,
+    "wof:name":"Waikiki City Police Station",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -157.825251,
+    21.275605,
+    -157.825251,
+    21.275605
+],
+  "geometry": {"coordinates":[-157.82525100000001,21.275605],"type":"Point"}
+}

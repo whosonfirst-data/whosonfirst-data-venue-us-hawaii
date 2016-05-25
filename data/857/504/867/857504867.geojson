@@ -1,0 +1,84 @@
+{
+  "id": 857504867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831565,21.29621,-157.831565,21.29621",
+    "geom:latitude":21.29621,
+    "geom:longitude":-157.831565,
+    "iso:country":"US",
+    "sg:address":"1016 Artesian St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 0866",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "automobile",
+        "conditioning",
+        "automotive",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzKMhutkIXryjJXKQlOUF_21.296210_-157.831565@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202025,
+    "wof:geomhash":"d0af16d233df1160656a1aca7d8647a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857504867
+        }
+    ],
+    "wof:id":857504867,
+    "wof:lastmodified":1464202025,
+    "wof:name":"Tony Auto Air",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "automobile",
+        "conditioning",
+        "automotive",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.831565,
+    21.29621,
+    -157.831565,
+    21.29621
+],
+  "geometry": {"coordinates":[-157.83156500000001,21.29621],"type":"Point"}
+}

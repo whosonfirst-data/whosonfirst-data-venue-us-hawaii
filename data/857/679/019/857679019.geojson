@@ -1,0 +1,71 @@
+{
+  "id": 857679019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.810348,21.288454,-157.810348,21.288454",
+    "geom:latitude":21.288454,
+    "geom:longitude":-157.810348,
+    "iso:country":"US",
+    "sg:address":"3113 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 1911",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sj33Fwhw5wXQeFZVqRmnj_21.288454_-157.810348@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206691,
+    "wof:geomhash":"6554fca665829a90a27bd2eae6867386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857679019
+        }
+    ],
+    "wof:id":857679019,
+    "wof:lastmodified":1464206691,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.810348,
+    21.288454,
+    -157.810348,
+    21.288454
+],
+  "geometry": {"coordinates":[-157.810348,21.288454],"type":"Point"}
+}

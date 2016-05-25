@@ -1,0 +1,71 @@
+{
+  "id": 857637253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.815029,21.276099,-157.815029,21.276099",
+    "geom:latitude":21.276099,
+    "geom:longitude":-157.815029,
+    "iso:country":"US",
+    "sg:address":"505 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 2515",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79PmFB7BTH39w7G1QGlblT_21.276099_-157.815029@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204914,
+    "wof:geomhash":"43da4dd184be3b6c99927abcf1c70f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857637253
+        }
+    ],
+    "wof:id":857637253,
+    "wof:lastmodified":1464204914,
+    "wof:name":"George's Union Svc",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.815029,
+    21.276099,
+    -157.815029,
+    21.276099
+],
+  "geometry": {"coordinates":[-157.81502900000001,21.276099],"type":"Point"}
+}

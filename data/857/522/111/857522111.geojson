@@ -1,0 +1,73 @@
+{
+  "id": 857522111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.948146,21.395347,-157.948146,21.395347",
+    "geom:latitude":21.395347,
+    "geom:longitude":-157.948146,
+    "iso:country":"US",
+    "sg:address":"500 Lulu St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 1395",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03HIZSMhnnqHIVEwkQBi8T_21.395347_-157.948146@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202392,
+    "wof:geomhash":"d0dcc25f6a661b5a52ac172f4ca49803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857522111
+        }
+    ],
+    "wof:id":857522111,
+    "wof:lastmodified":1464202392,
+    "wof:name":"Tripler Army Medical Center",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.948146,
+    21.395347,
+    -157.948146,
+    21.395347
+],
+  "geometry": {"coordinates":[-157.94814600000001,21.395347],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857647135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832488,21.284729,-157.832488,21.284729",
+    "geom:latitude":21.284729,
+    "geom:longitude":-157.832488,
+    "iso:country":"US",
+    "sg:address":"2025 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8725",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D4Vb0kraekZreI8OHgEMx_21.284729_-157.832488@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205342,
+    "wof:geomhash":"85211966bcf1f388bee6ae0d657d70e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857647135
+        }
+    ],
+    "wof:id":857647135,
+    "wof:lastmodified":1464205342,
+    "wof:name":"Ferrari Rentals",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.832488,
+    21.284729,
+    -157.832488,
+    21.284729
+],
+  "geometry": {"coordinates":[-157.83248800000001,21.284729],"type":"Point"}
+}

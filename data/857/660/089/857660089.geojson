@@ -1,0 +1,71 @@
+{
+  "id": 857660089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028688,21.493195,-158.028688,21.493195",
+    "geom:latitude":21.493195,
+    "geom:longitude":-158.028688,
+    "iso:country":"US",
+    "sg:address":"187 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 4102",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lTQ0bclIpesjVuGuSKjtK_21.493195_-158.028688@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205911,
+    "wof:geomhash":"a34fc95bc0bcdc37d1e3a690f2941826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857660089
+        }
+    ],
+    "wof:id":857660089,
+    "wof:lastmodified":1464205911,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -158.028688,
+    21.493195,
+    -158.028688,
+    21.493195
+],
+  "geometry": {"coordinates":[-158.02868799999999,21.493195],"type":"Point"}
+}

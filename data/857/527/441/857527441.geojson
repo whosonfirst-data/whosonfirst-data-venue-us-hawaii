@@ -1,0 +1,71 @@
+{
+  "id": 857527441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.858233,21.31383,-157.858233,21.31383",
+    "geom:latitude":21.31383,
+    "geom:longitude":-157.858233,
+    "iso:country":"US",
+    "sg:address":"1351 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6169",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q48OkM9JFZEODImWvglBb_21.313830_-157.858233@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202494,
+    "wof:geomhash":"63c2b0db071d070b769fa63cf8b8364b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857527441
+        }
+    ],
+    "wof:id":857527441,
+    "wof:lastmodified":1464202494,
+    "wof:name":"Nuuanu Okazu Ya",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.858233,
+    21.31383,
+    -157.858233,
+    21.31383
+],
+  "geometry": {"coordinates":[-157.85823300000001,21.31383],"type":"Point"}
+}

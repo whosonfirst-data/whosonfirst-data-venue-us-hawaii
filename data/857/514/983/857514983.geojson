@@ -1,0 +1,73 @@
+{
+  "id": 857514983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856301,21.299007,-157.856301,21.299007",
+    "geom:latitude":21.299007,
+    "geom:longitude":-157.856301,
+    "iso:country":"US",
+    "sg:address":"812 Ilaniwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 0335",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79PqSOw6lifTFRW7YZUVo0_21.299007_-157.856301@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202251,
+    "wof:geomhash":"140609745f4573c0b9d7d4f4aea5b793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857514983
+        }
+    ],
+    "wof:id":857514983,
+    "wof:lastmodified":1464202251,
+    "wof:name":"Volx German  Llc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "parts"
+    ]
+},
+  "bbox": [
+    -157.856301,
+    21.299007,
+    -157.856301,
+    21.299007
+],
+  "geometry": {"coordinates":[-157.856301,21.299007],"type":"Point"}
+}

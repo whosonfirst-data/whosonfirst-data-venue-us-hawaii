@@ -1,0 +1,73 @@
+{
+  "id": 857600871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886594,21.350981,-157.886594,21.350981",
+    "geom:latitude":21.350981,
+    "geom:longitude":-157.886594,
+    "iso:country":"US",
+    "sg:address":"1538 Ala Amoamo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 1507",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DI2M9KWFkca4h8zBtrE6E_21.350981_-157.886594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204005,
+    "wof:geomhash":"1f589da47f7320afc92746a36903560a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857600871
+        }
+    ],
+    "wof:id":857600871,
+    "wof:lastmodified":1464204005,
+    "wof:name":"Hashimoto Godwin T Electrical",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.886594,
+    21.350981,
+    -157.886594,
+    21.350981
+],
+  "geometry": {"coordinates":[-157.886594,21.350981],"type":"Point"}
+}

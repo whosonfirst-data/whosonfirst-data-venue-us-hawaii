@@ -1,0 +1,75 @@
+{
+  "id": 857642881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873887,21.304074,-157.873887,21.304074",
+    "geom:latitude":21.304074,
+    "geom:longitude":-157.873887,
+    "iso:country":"US",
+    "sg:address":"1029 Ulupono St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5100",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JY1J9piIhGGrAWaqzOsCC_21.304074_-157.873887@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205134,
+    "wof:geomhash":"517ba718b9bf20b7b38a079f64cdf880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857642881
+        }
+    ],
+    "wof:id":857642881,
+    "wof:lastmodified":1464205134,
+    "wof:name":"Economy Plumbing & Sheet Metal",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.873887,
+    21.304074,
+    -157.873887,
+    21.304074
+],
+  "geometry": {"coordinates":[-157.873887,21.304074],"type":"Point"}
+}

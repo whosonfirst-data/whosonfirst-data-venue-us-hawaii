@@ -1,0 +1,71 @@
+{
+  "id": 857642305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861207,21.308807,-157.861207,21.308807",
+    "geom:latitude":21.308807,
+    "geom:longitude":-157.861207,
+    "iso:country":"US",
+    "sg:address":"1060 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 0722",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j8z2udHryDOPstAKsidTk_21.308807_-157.861207@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205110,
+    "wof:geomhash":"6b80ef76346bedbb924511ac585d5c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857642305
+        }
+    ],
+    "wof:id":857642305,
+    "wof:lastmodified":1464205110,
+    "wof:name":"American Express",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.861207,
+    21.308807,
+    -157.861207,
+    21.308807
+],
+  "geometry": {"coordinates":[-157.86120700000001,21.308807],"type":"Point"}
+}

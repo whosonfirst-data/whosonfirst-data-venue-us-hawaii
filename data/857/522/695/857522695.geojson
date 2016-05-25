@@ -1,0 +1,72 @@
+{
+  "id": 857522695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838111,21.305291,-157.838111,21.305291",
+    "geom:latitude":21.305291,
+    "geom:longitude":-157.838111,
+    "iso:country":"US",
+    "sg:address":"1430 Kewalo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 585 8620",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "accountant"
+    ],
+    "sg:website":"www.danielstaxservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_144rtrZmfJkVCikqMeTS5q_21.305291_-157.838111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202402,
+    "wof:geomhash":"9524e4cec0c9d2f1cb36d367e4015aae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857522695
+        }
+    ],
+    "wof:id":857522695,
+    "wof:lastmodified":1464202402,
+    "wof:name":"Daniel's Tax & Business Svc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -157.838111,
+    21.305291,
+    -157.838111,
+    21.305291
+],
+  "geometry": {"coordinates":[-157.838111,21.305291],"type":"Point"}
+}

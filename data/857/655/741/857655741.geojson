@@ -1,0 +1,75 @@
+{
+  "id": 857655741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.949308,21.344987,-157.949308,21.344987",
+    "geom:latitude":21.344987,
+    "geom:longitude":-157.949308,
+    "iso:country":"US",
+    "sg:address":"104 18th St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 778 6224",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "aircraft",
+        "support"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wzS2wmssQmhYA7AHiS3qE_21.344987_-157.949308@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205712,
+    "wof:geomhash":"b470621d6f936633189e06fe5478944a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857655741
+        }
+    ],
+    "wof:id":857655741,
+    "wof:lastmodified":1464205712,
+    "wof:name":"A&M Aviation LLC",
+    "wof:parent_id":102526539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "support"
+    ]
+},
+  "bbox": [
+    -157.949308,
+    21.344987,
+    -157.949308,
+    21.344987
+],
+  "geometry": {"coordinates":[-157.949308,21.344987],"type":"Point"}
+}

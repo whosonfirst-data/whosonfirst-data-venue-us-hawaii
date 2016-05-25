@@ -1,0 +1,80 @@
+{
+  "id": 857525161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800429,21.420734,-157.800429,21.420734",
+    "geom:latitude":21.420734,
+    "geom:longitude":-157.800429,
+    "iso:country":"US",
+    "sg:address":"58 Aliianela Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 0320",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "townhouse",
+        "manager",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eUbg92KUMoTTyRUaSkbI8_21.420734_-157.800429@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202453,
+    "wof:geomhash":"3a3ec18ada5a68b8ac8d4aa4679230e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857525161
+        }
+    ],
+    "wof:id":857525161,
+    "wof:lastmodified":1464202453,
+    "wof:name":"Puualii Community Association",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "townhouse",
+        "manager",
+        "complex"
+    ]
+},
+  "bbox": [
+    -157.800429,
+    21.420734,
+    -157.800429,
+    21.420734
+],
+  "geometry": {"coordinates":[-157.80042900000001,21.420734],"type":"Point"}
+}

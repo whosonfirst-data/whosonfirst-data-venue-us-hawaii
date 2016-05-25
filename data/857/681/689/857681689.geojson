@@ -1,0 +1,74 @@
+{
+  "id": 857681689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.709152,21.285071,-157.709152,21.285071",
+    "geom:latitude":21.285071,
+    "geom:longitude":-157.709152,
+    "iso:country":"US",
+    "sg:address":"333 Keahole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/160859-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 8300",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rzJi9IzlkHmAY12qPgK2O_21.285071_-157.709152@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206792,
+    "wof:geomhash":"a8eb7b17bdd41463870fd55082a854b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857681689
+        }
+    ],
+    "wof:id":857681689,
+    "wof:lastmodified":1464206792,
+    "wof:name":"Burger King",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.709152,
+    21.285071,
+    -157.709152,
+    21.285071
+],
+  "geometry": {"coordinates":[-157.70915199999999,21.285071],"type":"Point"}
+}

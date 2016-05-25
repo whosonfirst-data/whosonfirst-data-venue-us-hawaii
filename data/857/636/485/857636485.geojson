@@ -1,0 +1,71 @@
+{
+  "id": 857636485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745341,21.291723,-157.745341,21.291723",
+    "geom:latitude":21.291723,
+    "geom:longitude":-157.745341,
+    "iso:country":"US",
+    "sg:address":"841 Ikena Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 5330",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KkkyZdUhG433Q1nYukxnn_21.291723_-157.745341@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204886,
+    "wof:geomhash":"26a1a90ade493b645ecae4217b0bf7cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857636485
+        }
+    ],
+    "wof:id":857636485,
+    "wof:lastmodified":1464204886,
+    "wof:name":"Magnetic Media Information Svc",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.745341,
+    21.291723,
+    -157.745341,
+    21.291723
+],
+  "geometry": {"coordinates":[-157.745341,21.291723],"type":"Point"}
+}

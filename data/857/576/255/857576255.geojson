@@ -1,0 +1,66 @@
+{
+  "id": 857576255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.928047,20.831464,-156.928047,20.831464",
+    "geom:latitude":20.831464,
+    "geom:longitude":-156.928047,
+    "iso:country":"US",
+    "sg:address":"346 Ahakea St",
+    "sg:city":"Lanai City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 565 6393",
+    "sg:postcode":"96763",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937657,
+        102085577,
+        85890547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w4yLp1UEnVFsLSToKTO1C_20.831464_-156.928047@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203475,
+    "wof:geomhash":"9c01a573b71a313087313920a01162e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937657,
+            "neighbourhood_id":85890547,
+            "region_id":85688671,
+            "venue_id":857576255
+        }
+    ],
+    "wof:id":857576255,
+    "wof:lastmodified":1464203475,
+    "wof:name":"Island Appliance Sales & Svc",
+    "wof:parent_id":85890547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.928047,
+    20.831464,
+    -156.928047,
+    20.831464
+],
+  "geometry": {"coordinates":[-156.92804699999999,20.831464],"type":"Point"}
+}

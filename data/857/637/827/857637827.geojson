@@ -1,0 +1,66 @@
+{
+  "id": 857637827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867226,21.318701,-157.867226,21.318701",
+    "geom:latitude":21.318701,
+    "geom:longitude":-157.867226,
+    "iso:country":"US",
+    "sg:address":"620 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 0500",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OozWXXlDA9iN65uDi4Oaa_21.318701_-157.867226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204934,
+    "wof:geomhash":"1167d93e838d3a1400bf4d793afa27b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857637827
+        }
+    ],
+    "wof:id":857637827,
+    "wof:lastmodified":1464204934,
+    "wof:name":"Sweet Leilani Florist",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.867226,
+    21.318701,
+    -157.867226,
+    21.318701
+],
+  "geometry": {"coordinates":[-157.86722599999999,21.318701],"type":"Point"}
+}

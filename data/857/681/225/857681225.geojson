@@ -1,0 +1,72 @@
+{
+  "id": 857681225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861369,21.308875,-157.861369,21.308875",
+    "geom:latitude":21.308875,
+    "geom:longitude":-157.861369,
+    "iso:country":"US",
+    "sg:address":"1000 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108551-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 4833",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XOhHrrwXKVgLi5pHFpU8U_21.308875_-157.861369@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206776,
+    "wof:geomhash":"dc25bc537347e5f4482be2be47d84b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857681225
+        }
+    ],
+    "wof:id":857681225,
+    "wof:lastmodified":1464206776,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.861369,
+    21.308875,
+    -157.861369,
+    21.308875
+],
+  "geometry": {"coordinates":[-157.861369,21.308875],"type":"Point"}
+}

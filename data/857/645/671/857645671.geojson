@@ -1,0 +1,71 @@
+{
+  "id": 857645671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793511,21.417392,-157.793511,21.417392",
+    "geom:latitude":21.417392,
+    "geom:longitude":-157.793511,
+    "iso:country":"US",
+    "sg:address":"124 William Henry Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 330 6524",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hCcNdZKLox2J56jEbkOG2_21.417392_-157.793511@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205266,
+    "wof:geomhash":"e9e0c111d2531a945ff8173bbd69b6b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857645671
+        }
+    ],
+    "wof:id":857645671,
+    "wof:lastmodified":1464205266,
+    "wof:name":"Sergios Drywall Plaster",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.793511,
+    21.417392,
+    -157.793511,
+    21.417392
+],
+  "geometry": {"coordinates":[-157.793511,21.417392],"type":"Point"}
+}

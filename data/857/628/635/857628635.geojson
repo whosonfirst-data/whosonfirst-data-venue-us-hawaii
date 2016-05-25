@@ -1,0 +1,71 @@
+{
+  "id": 857628635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.664203,21.315774,-157.664203,21.315774",
+    "geom:latitude":21.315774,
+    "geom:longitude":-157.664203,
+    "iso:country":"US",
+    "sg:address":"202 Kalanianaole Hwy",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 7966",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vH7IBWkkxsW6Kwj9cNTDV_21.315774_-157.664203@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204636,
+    "wof:geomhash":"10a537bf86759ffac3ac0a4a8f9f78dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857628635
+        }
+    ],
+    "wof:id":857628635,
+    "wof:lastmodified":1464204636,
+    "wof:name":"Sea Engineering Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.664203,
+    21.315774,
+    -157.664203,
+    21.315774
+],
+  "geometry": {"coordinates":[-157.66420299999999,21.315774],"type":"Point"}
+}

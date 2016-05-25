@@ -1,0 +1,71 @@
+{
+  "id": 857601419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842388,21.303793,-157.842388,21.303793",
+    "geom:latitude":21.303793,
+    "geom:longitude":-157.842388,
+    "iso:country":"US",
+    "sg:address":"1112 Lunalilo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4148",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04wpWco2J8coqeqlZpsJuo_21.303793_-157.842388@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204016,
+    "wof:geomhash":"49299d89b71061b8815f0c40e187c28d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857601419
+        }
+    ],
+    "wof:id":857601419,
+    "wof:lastmodified":1464204016,
+    "wof:name":"A & G Appliance Repair",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -157.842388,
+    21.303793,
+    -157.842388,
+    21.303793
+],
+  "geometry": {"coordinates":[-157.842388,21.303793],"type":"Point"}
+}

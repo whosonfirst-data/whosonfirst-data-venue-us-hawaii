@@ -1,0 +1,71 @@
+{
+  "id": 857631877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.35842,21.99375,-159.35842,21.99375",
+    "geom:latitude":21.99375,
+    "geom:longitude":-159.35842,
+    "iso:country":"US",
+    "sg:address":"4685 Laukona St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 635 5433",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GXijPJSBJYNmgMbM3x6Ef_21.993750_-159.358420@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204709,
+    "wof:geomhash":"07dd11ecab4328ea312af6ad79c903c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857631877
+        }
+    ],
+    "wof:id":857631877,
+    "wof:lastmodified":1464204709,
+    "wof:name":"Derek's Mobile Oil Change",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -159.35842,
+    21.99375,
+    -159.35842,
+    21.99375
+],
+  "geometry": {"coordinates":[-159.35842,21.99375],"type":"Point"}
+}

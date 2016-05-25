@@ -1,0 +1,71 @@
+{
+  "id": 857553249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856998,21.312387,-157.856998,21.312387",
+    "geom:latitude":21.312387,
+    "geom:longitude":-157.856998,
+    "iso:country":"US",
+    "sg:address":"1302 Pali Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 1543",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19YYX61qKkmlDzASQAp73I_21.312387_-157.856998@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202993,
+    "wof:geomhash":"5520f10fa7c3c7943817767d534afb00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857553249
+        }
+    ],
+    "wof:id":857553249,
+    "wof:lastmodified":1464202993,
+    "wof:name":"Acme Computer Svc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -157.856998,
+    21.312387,
+    -157.856998,
+    21.312387
+],
+  "geometry": {"coordinates":[-157.856998,21.312387],"type":"Point"}
+}

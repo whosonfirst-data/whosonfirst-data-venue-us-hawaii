@@ -1,0 +1,73 @@
+{
+  "id": 857659379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85951,21.321852,-157.85951,21.321852",
+    "geom:latitude":21.321852,
+    "geom:longitude":-157.85951,
+    "iso:country":"US",
+    "sg:address":"1625 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6760",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "flower",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33KUYKXpyOBWf7WLAMic3t_21.321852_-157.859510@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205877,
+    "wof:geomhash":"8b9b3d7e8a228ecdbf23c6bfa0bc2cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857659379
+        }
+    ],
+    "wof:id":857659379,
+    "wof:lastmodified":1464205877,
+    "wof:name":"Spinning Web Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower",
+        "gift"
+    ]
+},
+  "bbox": [
+    -157.85951,
+    21.321852,
+    -157.85951,
+    21.321852
+],
+  "geometry": {"coordinates":[-157.85951,21.321852],"type":"Point"}
+}

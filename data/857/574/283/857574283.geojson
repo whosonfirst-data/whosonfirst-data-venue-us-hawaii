@@ -1,0 +1,73 @@
+{
+  "id": 857574283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844723,21.300155,-157.844723,21.300155",
+    "geom:latitude":21.300155,
+    "geom:longitude":-157.844723,
+    "iso:country":"US",
+    "sg:address":"1140 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 4466",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vMmRW7ovi7tazxz76oDN2_21.300155_-157.844723@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203438,
+    "wof:geomhash":"8ff6795f98a78e9115ca0cdc8d72abe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857574283
+        }
+    ],
+    "wof:id":857574283,
+    "wof:lastmodified":1464203438,
+    "wof:name":"Pacific Check Exchange LLC",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -157.844723,
+    21.300155,
+    -157.844723,
+    21.300155
+],
+  "geometry": {"coordinates":[-157.84472299999999,21.300155],"type":"Point"}
+}

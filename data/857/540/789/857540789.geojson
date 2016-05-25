@@ -1,0 +1,71 @@
+{
+  "id": 857540789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.466694,20.889865,-156.466694,20.889865",
+    "geom:latitude":20.889865,
+    "geom:longitude":-156.466694,
+    "iso:country":"US",
+    "sg:address":"53 S Puunene Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 4894",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41RwJ4Zj53ngdkZ25tRH1I_20.889865_-156.466694@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202750,
+    "wof:geomhash":"61b8214838b5e26dba14f03b157d33e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857540789
+        }
+    ],
+    "wof:id":857540789,
+    "wof:lastmodified":1464202750,
+    "wof:name":"Clinical Laboratories of Hawa",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -156.466694,
+    20.889865,
+    -156.466694,
+    20.889865
+],
+  "geometry": {"coordinates":[-156.46669399999999,20.889865],"type":"Point"}
+}

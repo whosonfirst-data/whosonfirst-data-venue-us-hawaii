@@ -1,0 +1,75 @@
+{
+  "id": 857668803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876975,21.321903,-157.876975,21.321903",
+    "geom:latitude":21.321903,
+    "geom:longitude":-157.876975,
+    "iso:country":"US",
+    "sg:address":"1311 Kalani St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 9188",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3baBD1dMFz7uuKNU6eLDOU_21.321903_-157.876975@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206286,
+    "wof:geomhash":"ee9d70a1cecb09f1982c1252fced4f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857668803
+        }
+    ],
+    "wof:id":857668803,
+    "wof:lastmodified":1464206286,
+    "wof:name":"Kalakaua Transmission Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ]
+},
+  "bbox": [
+    -157.876975,
+    21.321903,
+    -157.876975,
+    21.321903
+],
+  "geometry": {"coordinates":[-157.87697499999999,21.321903],"type":"Point"}
+}

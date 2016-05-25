@@ -1,0 +1,66 @@
+{
+  "id": 857676803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836805,21.28459,-157.836805,21.28459",
+    "geom:latitude":21.28459,
+    "geom:longitude":-157.836805,
+    "iso:country":"US",
+    "sg:address":"1831 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 4991",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HY8wyYBpZMlyiGqgm5zqa_21.284590_-157.836805@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206606,
+    "wof:geomhash":"7419029216d69d31e9699ee559b1f99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857676803
+        }
+    ],
+    "wof:id":857676803,
+    "wof:lastmodified":1464206606,
+    "wof:name":"House Of Gifts",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.836805,
+    21.28459,
+    -157.836805,
+    21.28459
+],
+  "geometry": {"coordinates":[-157.836805,21.28459],"type":"Point"}
+}

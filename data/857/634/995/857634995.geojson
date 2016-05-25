@@ -1,0 +1,75 @@
+{
+  "id": 857634995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.917239,21.344956,-157.917239,21.344956",
+    "geom:latitude":21.344956,
+    "geom:longitude":-157.917239,
+    "iso:country":"US",
+    "sg:address":"4275 Radford Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 423 0093",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "satellite",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w5GnKZuXkzZpFejTnPuZe_21.344956_-157.917239@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204832,
+    "wof:geomhash":"2ae743f5a4d180a9e2cf733b952bf55a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857634995
+        }
+    ],
+    "wof:id":857634995,
+    "wof:lastmodified":1464204832,
+    "wof:name":"Microcom",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -157.917239,
+    21.344956,
+    -157.917239,
+    21.344956
+],
+  "geometry": {"coordinates":[-157.917239,21.344956],"type":"Point"}
+}

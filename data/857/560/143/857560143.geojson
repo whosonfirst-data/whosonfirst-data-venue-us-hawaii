@@ -1,0 +1,73 @@
+{
+  "id": 857560143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.844289,21.303813,-157.844289,21.303813",
+    "geom:latitude":21.303813,
+    "geom:longitude":-157.844289,
+    "iso:country":"US",
+    "sg:address":"1327 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7887",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YXj1FfcbXD1x8T2xOfQUC_21.303813_-157.844289@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203153,
+    "wof:geomhash":"cf53255d6bda664c2b46264a2b8b283d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857560143
+        }
+    ],
+    "wof:id":857560143,
+    "wof:lastmodified":1464203153,
+    "wof:name":"Happy Travel",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.844289,
+    21.303813,
+    -157.844289,
+    21.303813
+],
+  "geometry": {"coordinates":[-157.844289,21.303813],"type":"Point"}
+}

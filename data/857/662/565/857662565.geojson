@@ -1,0 +1,75 @@
+{
+  "id": 857662565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.973068,21.391714,-157.973068,21.391714",
+    "geom:latitude":21.391714,
+    "geom:longitude":-157.973068,
+    "iso:country":"US",
+    "sg:address":"944 Hugh St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 6851",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RLKmpafVewPK5isYqOswx_21.391714_-157.973068@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206031,
+    "wof:geomhash":"b31c9127149666286a4687019d93745f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857662565
+        }
+    ],
+    "wof:id":857662565,
+    "wof:lastmodified":1464206031,
+    "wof:name":"Alex Among's Piano Svc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -157.973068,
+    21.391714,
+    -157.973068,
+    21.391714
+],
+  "geometry": {"coordinates":[-157.97306800000001,21.391714],"type":"Point"}
+}

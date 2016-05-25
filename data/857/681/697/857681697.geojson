@@ -1,0 +1,74 @@
+{
+  "id": 857681697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.705394,21.278525,-157.705394,21.278525",
+    "geom:latitude":21.278525,
+    "geom:longitude":-157.705394,
+    "iso:country":"US",
+    "sg:address":"7192 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/83573-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 5188",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lpbndc5rg3aOW7FhyyEHB_21.278525_-157.705394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206793,
+    "wof:geomhash":"1d7f52467f84f0a102cbffa388079112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857681697
+        }
+    ],
+    "wof:id":857681697,
+    "wof:lastmodified":1464206793,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.705394,
+    21.278525,
+    -157.705394,
+    21.278525
+],
+  "geometry": {"coordinates":[-157.70539400000001,21.278525],"type":"Point"}
+}

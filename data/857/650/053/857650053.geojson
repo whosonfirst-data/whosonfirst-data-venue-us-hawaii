@@ -1,0 +1,73 @@
+{
+  "id": 857650053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.827806,21.295983,-157.827806,21.295983",
+    "geom:latitude":21.295983,
+    "geom:longitude":-157.827806,
+    "iso:country":"US",
+    "sg:address":"2000 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 953 2366",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tPWYcYUEXQ28rqx0rDeUn_21.295983_-157.827806@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205462,
+    "wof:geomhash":"b27e202d6d06846d9f7cb09786ffe819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857650053
+        }
+    ],
+    "wof:id":857650053,
+    "wof:lastmodified":1464205462,
+    "wof:name":"Cashing Ace Check",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -157.827806,
+    21.295983,
+    -157.827806,
+    21.295983
+],
+  "geometry": {"coordinates":[-157.82780600000001,21.295983],"type":"Point"}
+}

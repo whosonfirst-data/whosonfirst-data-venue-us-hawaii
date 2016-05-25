@@ -1,0 +1,71 @@
+{
+  "id": 857598645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.021827,21.374238,-158.021827,21.374238",
+    "geom:latitude":21.374238,
+    "geom:longitude":-158.021827,
+    "iso:country":"US",
+    "sg:address":"45 Leokane St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4776",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MCbSK3XGoY1rt9PoKfr0W_21.374238_-158.021827@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203954,
+    "wof:geomhash":"f3913a6e8db863167c086d4c4e9108d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857598645
+        }
+    ],
+    "wof:id":857598645,
+    "wof:lastmodified":1464203954,
+    "wof:name":"RPM Svc Ctr Inc",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -158.021827,
+    21.374238,
+    -158.021827,
+    21.374238
+],
+  "geometry": {"coordinates":[-158.021827,21.374238],"type":"Point"}
+}

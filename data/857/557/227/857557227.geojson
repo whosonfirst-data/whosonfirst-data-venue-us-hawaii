@@ -1,0 +1,69 @@
+{
+  "id": 857557227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.096293,21.311911,-158.096293,21.311911",
+    "geom:latitude":21.311911,
+    "geom:longitude":-158.096293,
+    "iso:country":"US",
+    "sg:address":"235 Oihana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 1564",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tkzX3q2TwBW3JsELcJHXw_21.311911_-158.096293@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203076,
+    "wof:geomhash":"21d0f702bff01fd1a3222de6d1d92ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857557227
+        }
+    ],
+    "wof:id":857557227,
+    "wof:lastmodified":1464203076,
+    "wof:name":"Columbia Analytical Svc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -158.096293,
+    21.311911,
+    -158.096293,
+    21.311911
+],
+  "geometry": {"coordinates":[-158.096293,21.311911],"type":"Point"}
+}

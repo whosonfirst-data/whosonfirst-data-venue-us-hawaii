@@ -1,0 +1,71 @@
+{
+  "id": 857559407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.009433,21.461399,-158.009433,21.461399",
+    "geom:latitude":21.461399,
+    "geom:longitude":-158.009433,
+    "iso:country":"US",
+    "sg:address":"175 Kulua Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 6270",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vBlSU6DAdV9gW1pwpsPEq_21.461399_-158.009433@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203137,
+    "wof:geomhash":"c2a0584d1425c3bedf5f65d68f7b526a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857559407
+        }
+    ],
+    "wof:id":857559407,
+    "wof:lastmodified":1464203137,
+    "wof:name":"Southern Pacific Funding",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -158.009433,
+    21.461399,
+    -158.009433,
+    21.461399
+],
+  "geometry": {"coordinates":[-158.009433,21.461399],"type":"Point"}
+}

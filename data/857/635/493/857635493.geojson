@@ -1,0 +1,69 @@
+{
+  "id": 857635493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.017153,21.381273,-158.017153,21.381273",
+    "geom:latitude":21.381273,
+    "geom:longitude":-158.017153,
+    "iso:country":"US",
+    "sg:address":"380 Pupupani St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1795",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Nsdji2esXudAsd9sljbT_21.381273_-158.017153@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204849,
+    "wof:geomhash":"66614d9e9a79e79cd407c8204d74045f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857635493
+        }
+    ],
+    "wof:id":857635493,
+    "wof:lastmodified":1464204849,
+    "wof:name":"Shell",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -158.017153,
+    21.381273,
+    -158.017153,
+    21.381273
+],
+  "geometry": {"coordinates":[-158.01715300000001,21.381273],"type":"Point"}
+}

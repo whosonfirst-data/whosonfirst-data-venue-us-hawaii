@@ -1,0 +1,73 @@
+{
+  "id": 857647103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.817443,21.258744,-157.817443,21.258744",
+    "geom:latitude":21.258744,
+    "geom:longitude":-157.817443,
+    "iso:country":"US",
+    "sg:address":"3001 Diamond Head Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 2266",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "psychologist",
+        "forensic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2szW2Sj74N5qa2YBiimEvz_21.258744_-157.817443@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205341,
+    "wof:geomhash":"80da9f44bf58a6fcfe5a9720a7fac101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857647103
+        }
+    ],
+    "wof:id":857647103,
+    "wof:lastmodified":1464205341,
+    "wof:name":"Kennedy Reneau",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist",
+        "forensic"
+    ]
+},
+  "bbox": [
+    -157.817443,
+    21.258744,
+    -157.817443,
+    21.258744
+],
+  "geometry": {"coordinates":[-157.817443,21.258744],"type":"Point"}
+}

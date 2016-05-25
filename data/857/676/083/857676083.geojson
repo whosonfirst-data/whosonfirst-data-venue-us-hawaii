@@ -1,0 +1,71 @@
+{
+  "id": 857676083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.791261,21.265569,-157.791261,21.265569",
+    "geom:latitude":21.265569,
+    "geom:longitude":-157.791261,
+    "iso:country":"US",
+    "sg:address":"4219 Huanui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 1855",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C1y9IQ7if3yuyLroAJQht_21.265569_-157.791261@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206580,
+    "wof:geomhash":"6c77b6d8cbff8fed7e63fa2cff1ea85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857676083
+        }
+    ],
+    "wof:id":857676083,
+    "wof:lastmodified":1464206580,
+    "wof:name":"Lee Kut Shiu",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.791261,
+    21.265569,
+    -157.791261,
+    21.265569
+],
+  "geometry": {"coordinates":[-157.79126099999999,21.265569],"type":"Point"}
+}

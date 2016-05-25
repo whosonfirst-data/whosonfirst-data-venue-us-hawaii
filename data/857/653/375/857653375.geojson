@@ -1,0 +1,67 @@
+{
+  "id": 857653375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.697102,21.287032,-157.697102,21.287032",
+    "geom:latitude":21.287032,
+    "geom:longitude":-157.697102,
+    "iso:country":"US",
+    "sg:address":"511 Lunalilo Home Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 1200",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:website":"www.k12.hi.us/~kaiserhs",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4grm0T0pDZB5xYsK3B00aO_21.287032_-157.697102@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205606,
+    "wof:geomhash":"b892ea25ef12e7e368d4c34014143ae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857653375
+        }
+    ],
+    "wof:id":857653375,
+    "wof:lastmodified":1464205606,
+    "wof:name":"Kaiser High School",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.697102,
+    21.287032,
+    -157.697102,
+    21.287032
+],
+  "geometry": {"coordinates":[-157.697102,21.287032],"type":"Point"}
+}

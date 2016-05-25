@@ -1,0 +1,73 @@
+{
+  "id": 857675563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859318,21.310152,-157.859318,21.310152",
+    "geom:latitude":21.310152,
+    "geom:longitude":-157.859318,
+    "iso:country":"US",
+    "sg:address":"1184 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 1791",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "catholic",
+        "diocese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tgb37KT9VsCv63L4TCTWo_21.310152_-157.859318@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206554,
+    "wof:geomhash":"5108abe1f83d51c0933a386114eb1cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857675563
+        }
+    ],
+    "wof:id":857675563,
+    "wof:lastmodified":1464206554,
+    "wof:name":"Hawaii Catholic Herald",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "diocese"
+    ]
+},
+  "bbox": [
+    -157.859318,
+    21.310152,
+    -157.859318,
+    21.310152
+],
+  "geometry": {"coordinates":[-157.859318,21.310152],"type":"Point"}
+}

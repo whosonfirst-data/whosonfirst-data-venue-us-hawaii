@@ -1,0 +1,71 @@
+{
+  "id": 857622333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.773269,21.300505,-157.773269,21.300505",
+    "geom:latitude":21.300505,
+    "geom:longitude":-157.773269,
+    "iso:country":"US",
+    "sg:address":"2500 Aha Aina Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 2553",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61mO6NQiO95XpPB6ChMtoh_21.300505_-157.773269@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204488,
+    "wof:geomhash":"f0f36cfcc6f2d40ef140368ba7af76ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857622333
+        }
+    ],
+    "wof:id":857622333,
+    "wof:lastmodified":1464204488,
+    "wof:name":"Libbie & Company Inc",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -157.773269,
+    21.300505,
+    -157.773269,
+    21.300505
+],
+  "geometry": {"coordinates":[-157.773269,21.300505],"type":"Point"}
+}

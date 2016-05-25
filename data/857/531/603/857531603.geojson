@@ -1,0 +1,71 @@
+{
+  "id": 857531603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813327,21.285497,-157.813327,21.285497",
+    "geom:latitude":21.285497,
+    "geom:longitude":-157.813327,
+    "iso:country":"US",
+    "sg:address":"945 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 1116",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q4ztP5J6aTiVdgueyHrdM_21.285497_-157.813327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202578,
+    "wof:geomhash":"151c7bdb798d519a28d26903fed7feb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857531603
+        }
+    ],
+    "wof:id":857531603,
+    "wof:lastmodified":1464202578,
+    "wof:name":"Choi's Hairstyling & Barber",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.813327,
+    21.285497,
+    -157.813327,
+    21.285497
+],
+  "geometry": {"coordinates":[-157.81332699999999,21.285497],"type":"Point"}
+}

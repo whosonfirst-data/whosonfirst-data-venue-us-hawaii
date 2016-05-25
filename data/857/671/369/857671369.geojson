@@ -1,0 +1,71 @@
+{
+  "id": 857671369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.878396,21.304462,-157.878396,21.304462",
+    "geom:latitude":21.304462,
+    "geom:longitude":-157.878396,
+    "iso:country":"US",
+    "sg:address":"1220 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 1977",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TIHfUZkkCRzUFLt7mdyiS_21.304462_-157.878396@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206387,
+    "wof:geomhash":"1c8b8b764df5e82aca08d70c4bca2734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857671369
+        }
+    ],
+    "wof:id":857671369,
+    "wof:lastmodified":1464206387,
+    "wof:name":"Pacific Freight Forwarding",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipment"
+    ]
+},
+  "bbox": [
+    -157.878396,
+    21.304462,
+    -157.878396,
+    21.304462
+],
+  "geometry": {"coordinates":[-157.87839600000001,21.304462],"type":"Point"}
+}

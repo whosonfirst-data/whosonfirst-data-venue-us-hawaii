@@ -1,0 +1,73 @@
+{
+  "id": 857572297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.970323,21.393493,-157.970323,21.393493",
+    "geom:latitude":21.393493,
+    "geom:longitude":-157.970323,
+    "iso:country":"US",
+    "sg:address":"1011 Lehua Ave",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 5500",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oW6Sqn7T292oVHK3xH6Z7_21.393493_-157.970323@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203393,
+    "wof:geomhash":"ec91205737719188041ca86471254117",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857572297
+        }
+    ],
+    "wof:id":857572297,
+    "wof:lastmodified":1464203393,
+    "wof:name":"Hokama Auto Repair",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.970323,
+    21.393493,
+    -157.970323,
+    21.393493
+],
+  "geometry": {"coordinates":[-157.97032300000001,21.393493],"type":"Point"}
+}

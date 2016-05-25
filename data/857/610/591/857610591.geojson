@@ -1,0 +1,71 @@
+{
+  "id": 857610591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87379,21.314101,-157.87379,21.314101",
+    "geom:latitude":21.314101,
+    "geom:longitude":-157.87379,
+    "iso:country":"US",
+    "sg:address":"867 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 3103",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dPde8jtGRY0knd9nt46Fi_21.314101_-157.873790@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204220,
+    "wof:geomhash":"c12bc31282806b9cef4470f94624be86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857610591
+        }
+    ],
+    "wof:id":857610591,
+    "wof:lastmodified":1464204220,
+    "wof:name":"R C Intl Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.87379,
+    21.314101,
+    -157.87379,
+    21.314101
+],
+  "geometry": {"coordinates":[-157.87379000000001,21.314101],"type":"Point"}
+}

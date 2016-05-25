@@ -1,0 +1,71 @@
+{
+  "id": 857645589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.807708,21.287296,-157.807708,21.287296",
+    "geom:latitude":21.287296,
+    "geom:longitude":-157.807708,
+    "iso:country":"US",
+    "sg:address":"3174 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7777",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ie6NqEFvJwMdH1L7ARpXT_21.287296_-157.807708@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205262,
+    "wof:geomhash":"ba9cb81bb7bfc29a74e68be01eb3b170",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857645589
+        }
+    ],
+    "wof:id":857645589,
+    "wof:lastmodified":1464205262,
+    "wof:name":"Harrison M Ishida Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.807708,
+    21.287296,
+    -157.807708,
+    21.287296
+],
+  "geometry": {"coordinates":[-157.80770799999999,21.287296],"type":"Point"}
+}

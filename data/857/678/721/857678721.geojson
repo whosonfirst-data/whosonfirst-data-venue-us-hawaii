@@ -1,0 +1,73 @@
+{
+  "id": 857678721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.808682,21.281023,-157.808682,21.281023",
+    "geom:latitude":21.281023,
+    "geom:longitude":-157.808682,
+    "iso:country":"US",
+    "sg:address":"827 Paahana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 7385",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "florist",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wZr7fZFR47xlY4FjoAPab_21.281023_-157.808682@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206680,
+    "wof:geomhash":"cb9d9d0830a6c3631a56cdec3469173d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857678721
+        }
+    ],
+    "wof:id":857678721,
+    "wof:lastmodified":1464206680,
+    "wof:name":"Leis of Hawaii",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.808682,
+    21.281023,
+    -157.808682,
+    21.281023
+],
+  "geometry": {"coordinates":[-157.808682,21.281023],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857619365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.178997,21.427799,-158.178997,21.427799",
+    "geom:latitude":21.427799,
+    "geom:longitude":-158.178997,
+    "iso:country":"US",
+    "sg:address":"78 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 6137",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BfrPEsWBR8RdYCS0Jhamv_21.427799_-158.178997@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204418,
+    "wof:geomhash":"4db1393ce97e6990ac2fea783222b535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857619365
+        }
+    ],
+    "wof:id":857619365,
+    "wof:lastmodified":1464204418,
+    "wof:name":"Hannara Restaurant",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.178997,
+    21.427799,
+    -158.178997,
+    21.427799
+],
+  "geometry": {"coordinates":[-158.17899700000001,21.427799],"type":"Point"}
+}

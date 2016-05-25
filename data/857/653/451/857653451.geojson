@@ -1,0 +1,71 @@
+{
+  "id": 857653451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.679138,21.305103,-157.679138,21.305103",
+    "geom:latitude":21.305103,
+    "geom:longitude":-157.679138,
+    "iso:country":"US",
+    "sg:address":"1326 Kamehame Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 9229",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IZEd5QGYyqtX7q4uKgwmn_21.305103_-157.679138@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205609,
+    "wof:geomhash":"918595cedaa6d4ca4a2041292515d218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857653451
+        }
+    ],
+    "wof:id":857653451,
+    "wof:lastmodified":1464205609,
+    "wof:name":"Subway",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.679138,
+    21.305103,
+    -157.679138,
+    21.305103
+],
+  "geometry": {"coordinates":[-157.67913799999999,21.305103],"type":"Point"}
+}

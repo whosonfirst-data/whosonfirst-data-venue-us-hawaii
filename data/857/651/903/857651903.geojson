@@ -1,0 +1,73 @@
+{
+  "id": 857651903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857136,21.299773,-157.857136,21.299773",
+    "geom:latitude":21.299773,
+    "geom:longitude":-157.857136,
+    "iso:country":"US",
+    "sg:address":"575 Cooke St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 0655",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LutrOZy7BZpPdBcc1AMQe_21.299773_-157.857136@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205538,
+    "wof:geomhash":"705d3aee6e0d1c59cee9a1a19501f8d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857651903
+        }
+    ],
+    "wof:id":857651903,
+    "wof:lastmodified":1464205538,
+    "wof:name":"Fed Ex",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -157.857136,
+    21.299773,
+    -157.857136,
+    21.299773
+],
+  "geometry": {"coordinates":[-157.857136,21.299773],"type":"Point"}
+}

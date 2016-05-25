@@ -1,0 +1,71 @@
+{
+  "id": 857547163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868355,21.323754,-157.868355,21.323754",
+    "geom:latitude":21.323754,
+    "geom:longitude":-157.868355,
+    "iso:country":"US",
+    "sg:address":"1013 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 7443",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GKDXMGbVytHvvguJlq32w_21.323754_-157.868355@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202876,
+    "wof:geomhash":"7a3cd105c2d645f8b80d50128534bbbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857547163
+        }
+    ],
+    "wof:id":857547163,
+    "wof:lastmodified":1464202876,
+    "wof:name":"Takahashi Noodle Factory",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.868355,
+    21.323754,
+    -157.868355,
+    21.323754
+],
+  "geometry": {"coordinates":[-157.86835500000001,21.323754],"type":"Point"}
+}

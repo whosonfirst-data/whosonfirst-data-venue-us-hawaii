@@ -1,0 +1,78 @@
+{
+  "id": 857574303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.766947,21.412798,-157.766947,21.412798",
+    "geom:latitude":21.412798,
+    "geom:longitude":-157.766947,
+    "iso:country":"US",
+    "sg:address":"106 Bayview Haven Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 3885",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "yacht",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NFSTKvoVrd0d0FpNSSASz_21.412798_-157.766947@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203438,
+    "wof:geomhash":"92da6f70fe3dad35ec1ede5027a67181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857574303
+        }
+    ],
+    "wof:id":857574303,
+    "wof:lastmodified":1464203438,
+    "wof:name":"Royal Yacht Sales",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.766947,
+    21.412798,
+    -157.766947,
+    21.412798
+],
+  "geometry": {"coordinates":[-157.76694699999999,21.412798],"type":"Point"}
+}

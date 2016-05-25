@@ -1,0 +1,75 @@
+{
+  "id": 857616985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820071,21.29554,-157.820071,21.29554",
+    "geom:latitude":21.29554,
+    "geom:longitude":-157.820071,
+    "iso:country":"US",
+    "sg:address":"1410 Lower Campus Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 8279",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audiology",
+        "pathology",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MW6CKKOKzYmoMWEWms5ql_21.295540_-157.820071@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204358,
+    "wof:geomhash":"5edc73681d8e727429c09b5408fc0eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857616985
+        }
+    ],
+    "wof:id":857616985,
+    "wof:lastmodified":1464204358,
+    "wof:name":"Speech Pthology Audiology Dept",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiology",
+        "pathology",
+        "speech"
+    ]
+},
+  "bbox": [
+    -157.820071,
+    21.29554,
+    -157.820071,
+    21.29554
+],
+  "geometry": {"coordinates":[-157.82007100000001,21.29554],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857580701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.89728,21.599623,-157.89728,21.599623",
+    "geom:latitude":21.599623,
+    "geom:longitude":-157.89728,
+    "iso:country":"US",
+    "sg:address":"797 Kamehameha Hwy",
+    "sg:city":"Hauula",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 232 0601",
+    "sg:postcode":"96717",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937641,
+        102085417,
+        85890189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xf4bfFlJoq2NeEazSnGCA_21.599623_-157.897280@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203566,
+    "wof:geomhash":"210535337f9e4dd56c08a766a3d76339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937641,
+            "neighbourhood_id":85890189,
+            "region_id":85688671,
+            "venue_id":857580701
+        }
+    ],
+    "wof:id":857580701,
+    "wof:lastmodified":1464203566,
+    "wof:name":"Kekona & Son Electrical Svc",
+    "wof:parent_id":85890189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.89728,
+    21.599623,
+    -157.89728,
+    21.599623
+],
+  "geometry": {"coordinates":[-157.89727999999999,21.599623],"type":"Point"}
+}

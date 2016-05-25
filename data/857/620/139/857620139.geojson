@@ -1,0 +1,79 @@
+{
+  "id": 857620139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.904813,21.336309,-157.904813,21.336309",
+    "geom:latitude":21.336309,
+    "geom:longitude":-157.904813,
+    "iso:country":"US",
+    "sg:address":"530 Peltier Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 6399",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "station",
+        "recruiting",
+        "naval",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dz0OFL78yjfNvClImcpLP_21.336309_-157.904813@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204436,
+    "wof:geomhash":"3a5c539a73c687c2164ccda4cab67355",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857620139
+        }
+    ],
+    "wof:id":857620139,
+    "wof:lastmodified":1464204436,
+    "wof:name":"Naval Reserve Recruiting",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "recruiting",
+        "naval",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -157.904813,
+    21.336309,
+    -157.904813,
+    21.336309
+],
+  "geometry": {"coordinates":[-157.90481299999999,21.336309],"type":"Point"}
+}

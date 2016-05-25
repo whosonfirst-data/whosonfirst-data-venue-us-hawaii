@@ -1,0 +1,71 @@
+{
+  "id": 857561883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.017493,21.37769,-158.017493,21.37769",
+    "geom:latitude":21.37769,
+    "geom:longitude":-158.017493,
+    "iso:country":"US",
+    "sg:address":"295 Pupuole St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 3738",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IU1JNUNf8g0AHrGZRLFrZ_21.377690_-158.017493@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203200,
+    "wof:geomhash":"edba554a638bfaeb19e11d694eacfce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857561883
+        }
+    ],
+    "wof:id":857561883,
+    "wof:lastmodified":1464203200,
+    "wof:name":"L A Painting",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -158.017493,
+    21.37769,
+    -158.017493,
+    21.37769
+],
+  "geometry": {"coordinates":[-158.017493,21.37769],"type":"Point"}
+}

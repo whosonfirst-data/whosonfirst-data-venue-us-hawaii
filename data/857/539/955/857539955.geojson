@@ -1,0 +1,71 @@
+{
+  "id": 857539955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.360484,22.069341,-159.360484,22.069341",
+    "geom:latitude":22.069341,
+    "geom:longitude":-159.360484,
+    "iso:country":"US",
+    "sg:address":"5914 Polani Pl",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 2546",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890387,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jdcpjudysHD6hfUZ4m94D_22.069341_-159.360484@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202736,
+    "wof:geomhash":"643b92f8c223e240d63db361836e0ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890387,
+            "region_id":85688671,
+            "venue_id":857539955
+        }
+    ],
+    "wof:id":857539955,
+    "wof:lastmodified":1464202736,
+    "wof:name":"Cook's Cabinets",
+    "wof:parent_id":85890387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -159.360484,
+    22.069341,
+    -159.360484,
+    22.069341
+],
+  "geometry": {"coordinates":[-159.36048400000001,22.069341],"type":"Point"}
+}

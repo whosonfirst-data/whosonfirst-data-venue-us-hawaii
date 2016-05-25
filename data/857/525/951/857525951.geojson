@@ -1,0 +1,78 @@
+{
+  "id": 857525951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872309,21.303105,-157.872309,21.303105",
+    "geom:latitude":21.303105,
+    "geom:longitude":-157.872309,
+    "iso:country":"US",
+    "sg:address":"1036 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6685",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "underground",
+        "utility",
+        "contractor"
+    ],
+    "sg:website":"www.mmtanks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UiGotiyxfHMiQO7o65HH0_21.303105_-157.872309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202467,
+    "wof:geomhash":"0a257bfa470c2064c4777563cc1b0860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857525951
+        }
+    ],
+    "wof:id":857525951,
+    "wof:lastmodified":1464202467,
+    "wof:name":"M & M Tanks Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "underground",
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.872309,
+    21.303105,
+    -157.872309,
+    21.303105
+],
+  "geometry": {"coordinates":[-157.872309,21.303105],"type":"Point"}
+}

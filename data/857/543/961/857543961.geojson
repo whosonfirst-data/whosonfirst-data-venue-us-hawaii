@@ -1,0 +1,80 @@
+{
+  "id": 857543961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.065581,21.339977,-158.065581,21.339977",
+    "geom:latitude":21.339977,
+    "geom:longitude":-158.065581,
+    "iso:country":"US",
+    "sg:address":"1089 Lipo St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 2483",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "household",
+        "commercial",
+        "refrigerator",
+        "refrigerating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oFJjSmGYdaGec6zL3XWkC_21.339977_-158.065581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202820,
+    "wof:geomhash":"e4a22e9954b0b34c3ac7e9f22f51edcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857543961
+        }
+    ],
+    "wof:id":857543961,
+    "wof:lastmodified":1464202820,
+    "wof:name":"Royal Refrigeration Service",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "commercial",
+        "refrigerator",
+        "refrigerating"
+    ]
+},
+  "bbox": [
+    -158.065581,
+    21.339977,
+    -158.065581,
+    21.339977
+],
+  "geometry": {"coordinates":[-158.06558100000001,21.339977],"type":"Point"}
+}

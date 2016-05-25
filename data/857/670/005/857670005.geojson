@@ -1,0 +1,68 @@
+{
+  "id": 857670005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.330488,20.849138,-156.330488,20.849138",
+    "geom:latitude":20.849138,
+    "geom:longitude":-156.330488,
+    "iso:country":"US",
+    "sg:address":"220 Kaupea St",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 3549",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45r1Kb5Ng8mucs2gCt04my_20.849138_-156.330488@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206340,
+    "wof:geomhash":"fc605e63f6d189364e166c58b9fe4e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857670005
+        }
+    ],
+    "wof:id":857670005,
+    "wof:lastmodified":1464206340,
+    "wof:name":"Zenshin Daiko",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.330488,
+    20.849138,
+    -156.330488,
+    20.849138
+],
+  "geometry": {"coordinates":[-156.330488,20.849138],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857629663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.216973,21.471752,-158.216973,21.471752",
+    "geom:latitude":21.471752,
+    "geom:longitude":-158.216973,
+    "iso:country":"US",
+    "sg:address":"658 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 6559",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tj5kVFNcme3UzkSHslzjo_21.471752_-158.216973@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204654,
+    "wof:geomhash":"42aca8c328fdfe85347dc5a633389f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857629663
+        }
+    ],
+    "wof:id":857629663,
+    "wof:lastmodified":1464204654,
+    "wof:name":"Your Friend",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -158.216973,
+    21.471752,
+    -158.216973,
+    21.471752
+],
+  "geometry": {"coordinates":[-158.216973,21.471752],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857680773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.988721,19.644998,-155.988721,19.644998",
+    "geom:latitude":19.644998,
+    "geom:longitude":-155.988721,
+    "iso:country":"US",
+    "sg:address":"75-1022 Henry St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/north-kona/124640-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 9696",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G27Uh6iHrmXniiTUy33h0_19.644998_-155.988721@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206755,
+    "wof:geomhash":"040cde5d6a1549636535b05e95ef5542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857680773
+        }
+    ],
+    "wof:id":857680773,
+    "wof:lastmodified":1464206755,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -155.988721,
+    19.644998,
+    -155.988721,
+    19.644998
+],
+  "geometry": {"coordinates":[-155.988721,19.644998],"type":"Point"}
+}

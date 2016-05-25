@@ -1,0 +1,71 @@
+{
+  "id": 857641159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.884625,21.323152,-157.884625,21.323152",
+    "geom:latitude":21.323152,
+    "geom:longitude":-157.884625,
+    "iso:country":"US",
+    "sg:address":"1804 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6856",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4miVWpe93Ul0smhTo1Hh8J_21.323152_-157.884625@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205067,
+    "wof:geomhash":"a0469b0d73edb3d76bf33bdeb69dbfb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857641159
+        }
+    ],
+    "wof:id":857641159,
+    "wof:lastmodified":1464205067,
+    "wof:name":"Okuda Metal Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -157.884625,
+    21.323152,
+    -157.884625,
+    21.323152
+],
+  "geometry": {"coordinates":[-157.884625,21.323152],"type":"Point"}
+}

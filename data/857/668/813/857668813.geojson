@@ -1,0 +1,71 @@
+{
+  "id": 857668813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800331,21.314562,-157.800331,21.314562",
+    "geom:latitude":21.314562,
+    "geom:longitude":-157.800331,
+    "iso:country":"US",
+    "sg:address":"3346 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 9966",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "audit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LsNU7SOwhovqMKM308CEG_21.314562_-157.800331@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206286,
+    "wof:geomhash":"bc0dd70290b7930f38a018cffc10a441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857668813
+        }
+    ],
+    "wof:id":857668813,
+    "wof:lastmodified":1464206286,
+    "wof:name":"Hawaii Insurance Audit Svc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit"
+    ]
+},
+  "bbox": [
+    -157.800331,
+    21.314562,
+    -157.800331,
+    21.314562
+],
+  "geometry": {"coordinates":[-157.800331,21.314562],"type":"Point"}
+}

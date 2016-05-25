@@ -1,0 +1,67 @@
+{
+  "id": 857675201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87903,21.326409,-157.87903,21.326409",
+    "geom:latitude":21.326409,
+    "geom:longitude":-157.87903,
+    "iso:country":"US",
+    "sg:address":"1603 Dillingham Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2005",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:website":"www.ekicyclery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yyeI4TVUpfCJN1hUyZtAp_21.326409_-157.879030@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206533,
+    "wof:geomhash":"c47b3dfcc74ef196aba85fc880aa8868",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857675201
+        }
+    ],
+    "wof:id":857675201,
+    "wof:lastmodified":1464206533,
+    "wof:name":"Eki Cyclery",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.87903,
+    21.326409,
+    -157.87903,
+    21.326409
+],
+  "geometry": {"coordinates":[-157.87903,21.326409],"type":"Point"}
+}

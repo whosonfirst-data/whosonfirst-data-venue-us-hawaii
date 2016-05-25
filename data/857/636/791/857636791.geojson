@@ -1,0 +1,73 @@
+{
+  "id": 857636791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.505558,20.890786,-156.505558,20.890786",
+    "geom:latitude":20.890786,
+    "geom:longitude":-156.505558,
+    "iso:country":"US",
+    "sg:address":"1942 Main St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 9696",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GI0rSqnwyIiCWtbEwYvMg_20.890786_-156.505558@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204897,
+    "wof:geomhash":"1944caba7ac8d4742043a6aff8030974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857636791
+        }
+    ],
+    "wof:id":857636791,
+    "wof:lastmodified":1464204897,
+    "wof:name":"Road & Track Performance Ctr",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -156.505558,
+    20.890786,
+    -156.505558,
+    20.890786
+],
+  "geometry": {"coordinates":[-156.50555800000001,20.890786],"type":"Point"}
+}

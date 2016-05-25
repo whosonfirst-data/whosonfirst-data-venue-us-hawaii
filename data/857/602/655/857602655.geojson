@@ -1,0 +1,85 @@
+{
+  "id": 857602655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.902111,21.332956,-157.902111,21.332956",
+    "geom:latitude":21.332956,
+    "geom:longitude":-157.902111,
+    "iso:country":"US",
+    "sg:address":"2988 Ualena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 0988",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mIUmGxnTd6udEdlfRwKpb_21.332956_-157.902111@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204041,
+    "wof:geomhash":"8c6830a55f36c0d258280b0f31923b40",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857602655
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857602655
+        }
+    ],
+    "wof:id":857602655,
+    "wof:lastmodified":1464204041,
+    "wof:name":"All American Taxi Truck",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -157.902111,
+    21.332956,
+    -157.902111,
+    21.332956
+],
+  "geometry": {"coordinates":[-157.90211099999999,21.332956],"type":"Point"}
+}

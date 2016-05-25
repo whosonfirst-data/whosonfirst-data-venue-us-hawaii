@@ -1,0 +1,75 @@
+{
+  "id": 857601329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.072359,19.707175,-155.072359,19.707175",
+    "geom:latitude":19.707175,
+    "geom:longitude":-155.072359,
+    "iso:country":"US",
+    "sg:address":"207 E Lanikaula St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 1868",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HRBKCgOV51BW8gZcY6orV_19.707175_-155.072359@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204015,
+    "wof:geomhash":"a883cc9119a4ed4ceb527b3f2cb47e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857601329
+        }
+    ],
+    "wof:id":857601329,
+    "wof:lastmodified":1464204015,
+    "wof:name":"Walter's Electric Inc",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.072359,
+    19.707175,
+    -155.072359,
+    19.707175
+],
+  "geometry": {"coordinates":[-155.07235900000001,19.707175],"type":"Point"}
+}

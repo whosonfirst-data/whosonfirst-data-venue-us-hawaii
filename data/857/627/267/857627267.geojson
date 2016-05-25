@@ -1,0 +1,69 @@
+{
+  "id": 857627267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.351635,21.996705,-159.351635,21.996705",
+    "geom:latitude":21.996705,
+    "geom:longitude":-159.351635,
+    "iso:country":"US",
+    "sg:address":"4820 Kuhio Hwy",
+    "sg:city":"Princeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 826 1122",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SyJP77b02zNsrwR370Jfe_21.996705_-159.351635@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204609,
+    "wof:geomhash":"31b3999c1123faf32c78589400699b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857627267
+        }
+    ],
+    "wof:id":857627267,
+    "wof:lastmodified":1464204609,
+    "wof:name":"Princeville Service Station",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -159.351635,
+    21.996705,
+    -159.351635,
+    21.996705
+],
+  "geometry": {"coordinates":[-159.35163499999999,21.996705],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857657001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.190158,21.449104,-158.190158,21.449104",
+    "geom:latitude":21.449104,
+    "geom:longitude":-158.190158,
+    "iso:country":"US",
+    "sg:address":"720 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 9901",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R8ch8AYgfYQ0k9NzyTYDg_21.449104_-158.190158@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205767,
+    "wof:geomhash":"722b8a9391653036f91ffbcd2bae9804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857657001
+        }
+    ],
+    "wof:id":857657001,
+    "wof:lastmodified":1464205767,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.190158,
+    21.449104,
+    -158.190158,
+    21.449104
+],
+  "geometry": {"coordinates":[-158.190158,21.449104],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857555093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.739211,21.336562,-157.739211,21.336562",
+    "geom:latitude":21.336562,
+    "geom:longitude":-157.739211,
+    "iso:country":"US",
+    "sg:address":"920 Kakaina St",
+    "sg:city":"Waimanalo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 259 5364",
+    "sg:postcode":"96795",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937537,
+        102085417,
+        85890313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s9hqeenn6GK1BxKmGfGKA_21.336562_-157.739211@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203029,
+    "wof:geomhash":"eb38039b2590e161e116575bf61121c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937537,
+            "neighbourhood_id":85890313,
+            "region_id":85688671,
+            "venue_id":857555093
+        }
+    ],
+    "wof:id":857555093,
+    "wof:lastmodified":1464203029,
+    "wof:name":"Windward Personal Touch",
+    "wof:parent_id":85890313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.739211,
+    21.336562,
+    -157.739211,
+    21.336562
+],
+  "geometry": {"coordinates":[-157.73921100000001,21.336562],"type":"Point"}
+}

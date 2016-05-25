@@ -1,0 +1,73 @@
+{
+  "id": 857508859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.812664,21.274943,-157.812664,21.274943",
+    "geom:latitude":21.274943,
+    "geom:longitude":-157.812664,
+    "iso:country":"US",
+    "sg:address":"3387 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 282 3377",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ielSWtzj02pjLy1TRH0RB_21.274943_-157.812664@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202121,
+    "wof:geomhash":"8c14de243a54a08be09085b52fb46cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857508859
+        }
+    ],
+    "wof:id":857508859,
+    "wof:lastmodified":1464202121,
+    "wof:name":"Rainbow Driving School",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -157.812664,
+    21.274943,
+    -157.812664,
+    21.274943
+],
+  "geometry": {"coordinates":[-157.81266400000001,21.274943],"type":"Point"}
+}

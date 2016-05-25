@@ -1,0 +1,75 @@
+{
+  "id": 857610309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.007824,21.423037,-158.007824,21.423037",
+    "geom:latitude":21.423037,
+    "geom:longitude":-158.007824,
+    "iso:country":"US",
+    "sg:address":"560 Kamehameha Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 6150",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_392SGNG001bKBtHjzd3b5t_21.423037_-158.007824@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204215,
+    "wof:geomhash":"b7325b4bf02dae5fb22a1a72db195394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857610309
+        }
+    ],
+    "wof:id":857610309,
+    "wof:lastmodified":1464204215,
+    "wof:name":"Waiawa Correctional Facility",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -158.007824,
+    21.423037,
+    -158.007824,
+    21.423037
+],
+  "geometry": {"coordinates":[-158.007824,21.423037],"type":"Point"}
+}

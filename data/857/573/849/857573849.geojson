@@ -1,0 +1,78 @@
+{
+  "id": 857573849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.955216,21.424651,-157.955216,21.424651",
+    "geom:latitude":21.424651,
+    "geom:longitude":-157.955216,
+    "iso:country":"US",
+    "sg:address":"2251 Auhuhu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 9066",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c2i5WpowePX1C3kHGtpUu_21.424651_-157.955216@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203428,
+    "wof:geomhash":"fbd0ed9716b24ace2b560537062df7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857573849
+        }
+    ],
+    "wof:id":857573849,
+    "wof:lastmodified":1464203428,
+    "wof:name":"Palisades Baptist Church",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "church"
+    ]
+},
+  "bbox": [
+    -157.955216,
+    21.424651,
+    -157.955216,
+    21.424651
+],
+  "geometry": {"coordinates":[-157.95521600000001,21.424651],"type":"Point"}
+}

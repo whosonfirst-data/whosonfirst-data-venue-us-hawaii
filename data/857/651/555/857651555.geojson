@@ -1,0 +1,73 @@
+{
+  "id": 857651555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.989272,21.698194,-157.989272,21.698194",
+    "geom:latitude":21.698194,
+    "geom:longitude":-157.989272,
+    "iso:country":"US",
+    "sg:address":"91 Kamehameha Hwy",
+    "sg:city":"Kahuku",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 2570",
+    "sg:postcode":"96731",
+    "sg:province":"HI",
+    "sg:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890305,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N8AYTbEOwDLzJrgW4w0bz_21.698194_-157.989272@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205524,
+    "wof:geomhash":"213f9da61fd7f7b1288b077fc4b07b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890305,
+            "region_id":85688671,
+            "venue_id":857651555
+        }
+    ],
+    "wof:id":857651555,
+    "wof:lastmodified":1464205524,
+    "wof:name":"Paradise Helicopters",
+    "wof:parent_id":85890305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "helicopter",
+        "charter",
+        "tours"
+    ]
+},
+  "bbox": [
+    -157.989272,
+    21.698194,
+    -157.989272,
+    21.698194
+],
+  "geometry": {"coordinates":[-157.989272,21.698194],"type":"Point"}
+}

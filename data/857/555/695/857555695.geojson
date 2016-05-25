@@ -1,0 +1,75 @@
+{
+  "id": 857555695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.101938,21.301794,-158.101938,21.301794",
+    "geom:latitude":21.301794,
+    "geom:longitude":-158.101938,
+    "iso:country":"US",
+    "sg:address":"119 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 5721",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bulk",
+        "oil",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j8Smtc0rSoTPg00XWCoVW_21.301794_-158.101938@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203047,
+    "wof:geomhash":"6be3b5a4eacac3fdf7a347ba5a93421a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857555695
+        }
+    ],
+    "wof:id":857555695,
+    "wof:lastmodified":1464203047,
+    "wof:name":"ALOHA Petroleum",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "oil",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -158.101938,
+    21.301794,
+    -158.101938,
+    21.301794
+],
+  "geometry": {"coordinates":[-158.10193799999999,21.301794],"type":"Point"}
+}

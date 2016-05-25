@@ -1,0 +1,71 @@
+{
+  "id": 857658525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.738069,21.288153,-157.738069,21.288153",
+    "geom:latitude":21.288153,
+    "geom:longitude":-157.738069,
+    "iso:country":"US",
+    "sg:address":"5636 Haleola Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 2733",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DwGABfJT5GYtIJiMnxNjw_21.288153_-157.738069@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205840,
+    "wof:geomhash":"66afa272c7a9ff1d8305008ed0fb728d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857658525
+        }
+    ],
+    "wof:id":857658525,
+    "wof:lastmodified":1464205840,
+    "wof:name":"Hurricane Pacific Builders",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.738069,
+    21.288153,
+    -157.738069,
+    21.288153
+],
+  "geometry": {"coordinates":[-157.738069,21.288153],"type":"Point"}
+}

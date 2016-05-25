@@ -1,0 +1,69 @@
+{
+  "id": 857545197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.367099,21.979433,-159.367099,21.979433",
+    "geom:latitude":21.979433,
+    "geom:longitude":-159.367099,
+    "iso:country":"US",
+    "sg:address":"3205 Akahi St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 632 0466",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tGBd1Najb0E8BeqGNyFBO_21.979433_-159.367099@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202843,
+    "wof:geomhash":"5e2b59b1f54beffa39072340ff1051d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857545197
+        }
+    ],
+    "wof:id":857545197,
+    "wof:lastmodified":1464202843,
+    "wof:name":"Mental Health Kokua",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -159.367099,
+    21.979433,
+    -159.367099,
+    21.979433
+],
+  "geometry": {"coordinates":[-159.367099,21.979433],"type":"Point"}
+}

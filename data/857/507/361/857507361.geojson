@@ -1,0 +1,71 @@
+{
+  "id": 857507361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.764925,21.359613,-157.764925,21.359613",
+    "geom:latitude":21.359613,
+    "geom:longitude":-157.764925,
+    "iso:country":"US",
+    "sg:address":"1234 Lola Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 8707",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28PhPGrFxOPGtsMRnK3bRS_21.359613_-157.764925@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202088,
+    "wof:geomhash":"ddbf7a086ddc8e81ae9314078a1092b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857507361
+        }
+    ],
+    "wof:id":857507361,
+    "wof:lastmodified":1464202088,
+    "wof:name":"Ashford & Associates",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "law"
+    ]
+},
+  "bbox": [
+    -157.764925,
+    21.359613,
+    -157.764925,
+    21.359613
+],
+  "geometry": {"coordinates":[-157.76492500000001,21.359613],"type":"Point"}
+}

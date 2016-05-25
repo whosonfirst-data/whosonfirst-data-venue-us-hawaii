@@ -1,0 +1,71 @@
+{
+  "id": 857576251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8018,21.410122,-157.8018,21.410122",
+    "geom:latitude":21.410122,
+    "geom:longitude":-157.8018,
+    "iso:country":"US",
+    "sg:address":"550 Keluka Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 0751",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65EW58azJ0tSk74rGQRaZd_21.410122_-157.801800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203475,
+    "wof:geomhash":"8ce49c2c9e25e8804746a0db38f515b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857576251
+        }
+    ],
+    "wof:id":857576251,
+    "wof:lastmodified":1464203475,
+    "wof:name":"Hale Pake Foods",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.8018,
+    21.410122,
+    -157.8018,
+    21.410122
+],
+  "geometry": {"coordinates":[-157.80179999999999,21.410122],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857631603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005517,21.455127,-158.005517,21.455127",
+    "geom:latitude":21.455127,
+    "geom:longitude":-158.005517,
+    "iso:country":"US",
+    "sg:address":"720 Lanikuhana Ave",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 266 4040",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "sg:website":"www.regaltravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dQsHouNrk79KSGhcFO2Vw_21.455127_-158.005517@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204700,
+    "wof:geomhash":"e59cd9b8ce22857591f81b4c7153f392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857631603
+        }
+    ],
+    "wof:id":857631603,
+    "wof:lastmodified":1464204700,
+    "wof:name":"Regal Travel",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -158.005517,
+    21.455127,
+    -158.005517,
+    21.455127
+],
+  "geometry": {"coordinates":[-158.005517,21.455127],"type":"Point"}
+}

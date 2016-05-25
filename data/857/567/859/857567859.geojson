@@ -1,0 +1,71 @@
+{
+  "id": 857567859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862528,21.308275,-157.862528,21.308275",
+    "geom:latitude":21.308275,
+    "geom:longitude":-157.862528,
+    "iso:country":"US",
+    "sg:address":"119 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 548 2100",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qEOS3jSAszPUwTwN1WnvR_21.308275_-157.862528@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203313,
+    "wof:geomhash":"90cc3b44ae022f04a4e64d1451928c24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857567859
+        }
+    ],
+    "wof:id":857567859,
+    "wof:lastmodified":1464203313,
+    "wof:name":"Ho'Okako'o",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.862528,
+    21.308275,
+    -157.862528,
+    21.308275
+],
+  "geometry": {"coordinates":[-157.862528,21.308275],"type":"Point"}
+}

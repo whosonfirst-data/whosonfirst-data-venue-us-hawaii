@@ -1,0 +1,71 @@
+{
+  "id": 857656211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872921,21.327068,-157.872921,21.327068",
+    "geom:latitude":21.327068,
+    "geom:longitude":-157.872921,
+    "iso:country":"US",
+    "sg:address":"1301 Moonui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5851",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WgaH6EckTJt8pqfJKlDGB_21.327068_-157.872921@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205733,
+    "wof:geomhash":"5995a7211ef2ffdba5b7e2da65f17a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857656211
+        }
+    ],
+    "wof:id":857656211,
+    "wof:lastmodified":1464205733,
+    "wof:name":"Auto TEC Service Center",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.872921,
+    21.327068,
+    -157.872921,
+    21.327068
+],
+  "geometry": {"coordinates":[-157.87292099999999,21.327068],"type":"Point"}
+}

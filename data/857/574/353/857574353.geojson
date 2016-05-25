@@ -1,0 +1,71 @@
+{
+  "id": 857574353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861332,21.310179,-157.861332,21.310179",
+    "geom:latitude":21.310179,
+    "geom:longitude":-157.861332,
+    "iso:country":"US",
+    "sg:address":"66 S Hotel St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 1891",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KkolvrS911QSZrSzPsmKO_21.310179_-157.861332@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203439,
+    "wof:geomhash":"480748c0ca8d29295fcdd214d25009a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857574353
+        }
+    ],
+    "wof:id":857574353,
+    "wof:lastmodified":1464203439,
+    "wof:name":"Love's Bakery",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.861332,
+    21.310179,
+    -157.861332,
+    21.310179
+],
+  "geometry": {"coordinates":[-157.861332,21.310179],"type":"Point"}
+}

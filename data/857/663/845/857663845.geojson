@@ -1,0 +1,80 @@
+{
+  "id": 857663845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.82997,21.2956,-157.82997,21.2956",
+    "geom:latitude":21.2956,
+    "geom:longitude":-157.82997,
+    "iso:country":"US",
+    "sg:address":"1018 Mc Cully St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8142",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer",
+        "business",
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VWeMhCg92uUtioRqn8fAO_21.295600_-157.829970@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206079,
+    "wof:geomhash":"c3a52966318f6c055d22935aa491be99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857663845
+        }
+    ],
+    "wof:id":857663845,
+    "wof:lastmodified":1464206079,
+    "wof:name":"Printing Group of Hawaii Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "business",
+        "form"
+    ]
+},
+  "bbox": [
+    -157.82997,
+    21.2956,
+    -157.82997,
+    21.2956
+],
+  "geometry": {"coordinates":[-157.82997,21.2956],"type":"Point"}
+}

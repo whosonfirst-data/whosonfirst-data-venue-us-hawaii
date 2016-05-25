@@ -1,0 +1,71 @@
+{
+  "id": 857572933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864248,21.307731,-157.864248,21.307731",
+    "geom:latitude":21.307731,
+    "geom:longitude":-157.864248,
+    "iso:country":"US",
+    "sg:address":"101 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 524 1118",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JFRogI053sjeq0wiXsQTN_21.307731_-157.864248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203409,
+    "wof:geomhash":"ad400b572fbe70556edef7b8d7fa237d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857572933
+        }
+    ],
+    "wof:id":857572933,
+    "wof:lastmodified":1464203409,
+    "wof:name":"Casa Mia's",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -157.864248,
+    21.307731,
+    -157.864248,
+    21.307731
+],
+  "geometry": {"coordinates":[-157.864248,21.307731],"type":"Point"}
+}

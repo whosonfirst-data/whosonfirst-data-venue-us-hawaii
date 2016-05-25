@@ -1,0 +1,71 @@
+{
+  "id": 857644403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882412,21.334017,-157.882412,21.334017",
+    "geom:latitude":21.334017,
+    "geom:longitude":-157.882412,
+    "iso:country":"US",
+    "sg:address":"716 Umi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0300",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CmhMGaxoc2PEt8ahrLcNP_21.334017_-157.882412@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205209,
+    "wof:geomhash":"947a7c81c240f17f3c4956653750bf6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857644403
+        }
+    ],
+    "wof:id":857644403,
+    "wof:lastmodified":1464205209,
+    "wof:name":"William Dean Alcon & Assoc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.882412,
+    21.334017,
+    -157.882412,
+    21.334017
+],
+  "geometry": {"coordinates":[-157.88241199999999,21.334017],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857664481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883046,21.32338,-157.883046,21.32338",
+    "geom:latitude":21.32338,
+    "geom:longitude":-157.883046,
+    "iso:country":"US",
+    "sg:address":"264 Kalihi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5559",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y6fNaoW7NJRTJbCJvEzTI_21.323380_-157.883046@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206102,
+    "wof:geomhash":"383805f7527aee9b1d6e15e2089cc3ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857664481
+        }
+    ],
+    "wof:id":857664481,
+    "wof:lastmodified":1464206102,
+    "wof:name":"Frelaine Electrical Service",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.883046,
+    21.32338,
+    -157.883046,
+    21.32338
+],
+  "geometry": {"coordinates":[-157.88304600000001,21.32338],"type":"Point"}
+}

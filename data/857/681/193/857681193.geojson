@@ -1,0 +1,73 @@
+{
+  "id": 857681193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005715,21.400152,-158.005715,21.400152",
+    "geom:latitude":21.400152,
+    "geom:longitude":-158.005715,
+    "iso:country":"US",
+    "sg:address":"94-795 Lumiaina St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/202831-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YhaDCiLBE13nChhy7riGq_21.400152_-158.005715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206775,
+    "wof:geomhash":"416b9872b10a80d3264a3fb69e06af3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857681193
+        }
+    ],
+    "wof:id":857681193,
+    "wof:lastmodified":1464206775,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.005715,
+    21.400152,
+    -158.005715,
+    21.400152
+],
+  "geometry": {"coordinates":[-158.00571500000001,21.400152],"type":"Point"}
+}

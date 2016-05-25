@@ -1,0 +1,75 @@
+{
+  "id": 857517235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841594,21.299951,-157.841594,21.299951",
+    "geom:latitude":21.299951,
+    "geom:longitude":-157.841594,
+    "iso:country":"US",
+    "sg:address":"1340 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2322",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QbApg3QqF4ihgMAEX7dPB_21.299951_-157.841594@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202295,
+    "wof:geomhash":"f2bc46bcad54199c6bade4769fb25410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857517235
+        }
+    ],
+    "wof:id":857517235,
+    "wof:lastmodified":1464202295,
+    "wof:name":"Ar-Dans Grooming Salon Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -157.841594,
+    21.299951,
+    -157.841594,
+    21.299951
+],
+  "geometry": {"coordinates":[-157.84159399999999,21.299951],"type":"Point"}
+}

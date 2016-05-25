@@ -1,0 +1,72 @@
+{
+  "id": 857681301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851847,21.293266,-157.851847,21.293266",
+    "geom:latitude":21.293266,
+    "geom:longitude":-157.851847,
+    "iso:country":"US",
+    "sg:address":"1142 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108577-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 2012",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5siOxqjjCGLICFVgpTzGzG_21.293266_-157.851847@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206778,
+    "wof:geomhash":"a3161b51d79672c05bfa2965e2a48710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857681301
+        }
+    ],
+    "wof:id":857681301,
+    "wof:lastmodified":1464206778,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.851847,
+    21.293266,
+    -157.851847,
+    21.293266
+],
+  "geometry": {"coordinates":[-157.85184699999999,21.293266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857581505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880241,21.339104,-157.880241,21.339104",
+    "geom:latitude":21.339104,
+    "geom:longitude":-157.880241,
+    "iso:country":"US",
+    "sg:address":"1103 Kahauiki Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 4849",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xn2HcaLlF5itokzUVBC4W_21.339104_-157.880241@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203579,
+    "wof:geomhash":"3240d581f5a60566e10707dce51c2129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857581505
+        }
+    ],
+    "wof:id":857581505,
+    "wof:lastmodified":1464203579,
+    "wof:name":"Island Auto Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.880241,
+    21.339104,
+    -157.880241,
+    21.339104
+],
+  "geometry": {"coordinates":[-157.88024100000001,21.339104],"type":"Point"}
+}

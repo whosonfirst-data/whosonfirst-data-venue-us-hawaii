@@ -1,0 +1,66 @@
+{
+  "id": 857531645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862375,21.298332,-157.862375,21.298332",
+    "geom:latitude":21.298332,
+    "geom:longitude":-157.862375,
+    "iso:country":"US",
+    "sg:address":"604 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 1355",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jUwQby2V3kJCujUOF4R6C_21.298332_-157.862375@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202579,
+    "wof:geomhash":"f443114af89640053ed5d6cc42992940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857531645
+        }
+    ],
+    "wof:id":857531645,
+    "wof:lastmodified":1464202579,
+    "wof:name":"Comp U S A 793",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.862375,
+    21.298332,
+    -157.862375,
+    21.298332
+],
+  "geometry": {"coordinates":[-157.86237499999999,21.298332],"type":"Point"}
+}

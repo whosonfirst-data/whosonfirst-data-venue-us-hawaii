@@ -1,0 +1,71 @@
+{
+  "id": 857678339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.215391,21.478972,-158.215391,21.478972",
+    "geom:latitude":21.478972,
+    "geom:longitude":-158.215391,
+    "iso:country":"US",
+    "sg:address":"84 Kili Dr",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 695 8605",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xPJ0EBA6woYLD3M1v7VBj_21.478972_-158.215391@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206667,
+    "wof:geomhash":"ffd0d22962cde502cdb4a18bb9e6648d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857678339
+        }
+    ],
+    "wof:id":857678339,
+    "wof:lastmodified":1464206667,
+    "wof:name":"Makaha Resort Beauty Salon",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -158.215391,
+    21.478972,
+    -158.215391,
+    21.478972
+],
+  "geometry": {"coordinates":[-158.21539100000001,21.478972],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857578327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820875,21.291331,-157.820875,21.291331",
+    "geom:latitude":21.291331,
+    "geom:longitude":-157.820875,
+    "iso:country":"US",
+    "sg:address":"2600 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 2600",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UnYLuc1cmgxVXicg01AJ8_21.291331_-157.820875@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203517,
+    "wof:geomhash":"f8b325377884b9ead9c0b62bf55f1fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857578327
+        }
+    ],
+    "wof:id":857578327,
+    "wof:lastmodified":1464203517,
+    "wof:name":"Hawaiian Tattoo Company",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -157.820875,
+    21.291331,
+    -157.820875,
+    21.291331
+],
+  "geometry": {"coordinates":[-157.820875,21.291331],"type":"Point"}
+}

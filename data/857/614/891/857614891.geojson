@@ -1,0 +1,72 @@
+{
+  "id": 857614891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863328,21.311275,-157.863328,21.311275",
+    "geom:latitude":21.311275,
+    "geom:longitude":-157.863328,
+    "iso:country":"US",
+    "sg:address":"2 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 525 6888",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.fhv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j9FHSSe0NENbsYmi3jncB_21.311275_-157.863328@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204318,
+    "wof:geomhash":"631e5318885ca0588e5239da1eecb108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857614891
+        }
+    ],
+    "wof:id":857614891,
+    "wof:lastmodified":1464204318,
+    "wof:name":"First Hawaiian Bank",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -157.863328,
+    21.311275,
+    -157.863328,
+    21.311275
+],
+  "geometry": {"coordinates":[-157.863328,21.311275],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857516881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824581,21.277787,-157.824581,21.277787",
+    "geom:latitude":21.277787,
+    "geom:longitude":-157.824581,
+    "iso:country":"US",
+    "sg:address":"156 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 2700",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "moped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qdZkQBbyWvYLZgSrMyZhZ_21.277787_-157.824581@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202288,
+    "wof:geomhash":"121cadc635c5d5528be689124e6e2b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857516881
+        }
+    ],
+    "wof:id":857516881,
+    "wof:lastmodified":1464202288,
+    "wof:name":"Adventure Rentals LLC",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moped"
+    ]
+},
+  "bbox": [
+    -157.824581,
+    21.277787,
+    -157.824581,
+    21.277787
+],
+  "geometry": {"coordinates":[-157.82458099999999,21.277787],"type":"Point"}
+}

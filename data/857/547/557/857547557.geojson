@@ -1,0 +1,71 @@
+{
+  "id": 857547557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821102,21.291561,-157.821102,21.291561",
+    "geom:latitude":21.291561,
+    "geom:longitude":-157.821102,
+    "iso:country":"US",
+    "sg:address":"2634 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 0371",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qeKXPaf2OF4Cz0PddTvA0_21.291561_-157.821102@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202883,
+    "wof:geomhash":"3950f2eb5d88562c8bd03c991c91e9ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857547557
+        }
+    ],
+    "wof:id":857547557,
+    "wof:lastmodified":1464202883,
+    "wof:name":"Haunt The",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.821102,
+    21.291561,
+    -157.821102,
+    21.291561
+],
+  "geometry": {"coordinates":[-157.821102,21.291561],"type":"Point"}
+}

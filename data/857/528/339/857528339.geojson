@@ -1,0 +1,69 @@
+{
+  "id": 857528339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.098351,21.306387,-158.098351,21.306387",
+    "geom:latitude":21.306387,
+    "geom:longitude":-158.098351,
+    "iso:country":"US",
+    "sg:address":"220 Kalaeloa Blvd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 9300",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CXkjgVoEeBOM8GlsI1rZj_21.306387_-158.098351@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202512,
+    "wof:geomhash":"3c41277474e4e672d6278cc2bf46148e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857528339
+        }
+    ],
+    "wof:id":857528339,
+    "wof:lastmodified":1464202512,
+    "wof:name":"Custom Rod Shop",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -158.098351,
+    21.306387,
+    -158.098351,
+    21.306387
+],
+  "geometry": {"coordinates":[-158.09835100000001,21.306387],"type":"Point"}
+}

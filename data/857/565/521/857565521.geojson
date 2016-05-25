@@ -1,0 +1,71 @@
+{
+  "id": 857565521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855,21.293813,-157.855,21.293813",
+    "geom:latitude":21.293813,
+    "geom:longitude":-157.855,
+    "iso:country":"US",
+    "sg:address":"1020 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 9001",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MLwZIhsbjl5h2vDrxtXGD_21.293813_-157.855000@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203264,
+    "wof:geomhash":"89cb6d605cd4b7e5c789d6b5e8523ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857565521
+        }
+    ],
+    "wof:id":857565521,
+    "wof:lastmodified":1464203264,
+    "wof:name":"Nohea Gallery",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.855,
+    21.293813,
+    -157.855,
+    21.293813
+],
+  "geometry": {"coordinates":[-157.85499999999999,21.293813],"type":"Point"}
+}

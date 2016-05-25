@@ -1,0 +1,73 @@
+{
+  "id": 857584489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916349,21.351048,-157.916349,21.351048",
+    "geom:latitude":21.351048,
+    "geom:longitude":-157.916349,
+    "iso:country":"US",
+    "sg:address":"3523 Ala Haukulu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 8852",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wzVZbROd1hjEmPRFEgoqb_21.351048_-157.916349@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203633,
+    "wof:geomhash":"34db3e1ab4effa2ac1f695b3cc2e6634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857584489
+        }
+    ],
+    "wof:id":857584489,
+    "wof:lastmodified":1464203633,
+    "wof:name":"S K Electric Inc",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.916349,
+    21.351048,
+    -157.916349,
+    21.351048
+],
+  "geometry": {"coordinates":[-157.916349,21.351048],"type":"Point"}
+}

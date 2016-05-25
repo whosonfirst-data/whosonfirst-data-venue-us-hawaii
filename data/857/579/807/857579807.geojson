@@ -1,0 +1,69 @@
+{
+  "id": 857579807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.079795,21.318502,-158.079795,21.318502",
+    "geom:latitude":21.318502,
+    "geom:longitude":-158.079795,
+    "iso:country":"US",
+    "sg:address":"3001 Boxer Rd",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 673 7411",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Oi9X0mopw2gn13f2pwMyW_21.318502_-158.079795@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203549,
+    "wof:geomhash":"9d909a2e64fb51e40fe49229898542c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857579807
+        }
+    ],
+    "wof:id":857579807,
+    "wof:lastmodified":1464203549,
+    "wof:name":"Barbers Point Head Start",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -158.079795,
+    21.318502,
+    -158.079795,
+    21.318502
+],
+  "geometry": {"coordinates":[-158.07979499999999,21.318502],"type":"Point"}
+}

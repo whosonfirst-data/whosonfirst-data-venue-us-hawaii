@@ -1,0 +1,75 @@
+{
+  "id": 857674765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.317227,22.087712,-159.317227,22.087712",
+    "geom:latitude":22.087712,
+    "geom:longitude":-159.317227,
+    "iso:country":"US",
+    "sg:address":"4774 Pelehu Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3038",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nu8hfubk71rFGR2W0mOFc_22.087712_-159.317227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206515,
+    "wof:geomhash":"b11d4edafdb3eb6d9bbc05b9db50f4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857674765
+        }
+    ],
+    "wof:id":857674765,
+    "wof:lastmodified":1464206515,
+    "wof:name":"Nakamura Electric",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.317227,
+    22.087712,
+    -159.317227,
+    22.087712
+],
+  "geometry": {"coordinates":[-159.317227,22.087712],"type":"Point"}
+}

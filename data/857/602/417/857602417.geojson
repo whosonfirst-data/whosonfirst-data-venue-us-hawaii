@@ -1,0 +1,71 @@
+{
+  "id": 857602417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855024,21.29744,-157.855024,21.29744",
+    "geom:latitude":21.29744,
+    "geom:longitude":-157.855024,
+    "iso:country":"US",
+    "sg:address":"912 Ilaniwai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 592 9000",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PL49M6JgnAeFKfBq5SKV4_21.297440_-157.855024@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204037,
+    "wof:geomhash":"5169977ea9b89f1916637b0c769fc49b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857602417
+        }
+    ],
+    "wof:id":857602417,
+    "wof:lastmodified":1464204037,
+    "wof:name":"Suspension & Brake Service",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.855024,
+    21.29744,
+    -157.855024,
+    21.29744
+],
+  "geometry": {"coordinates":[-157.85502399999999,21.29744],"type":"Point"}
+}

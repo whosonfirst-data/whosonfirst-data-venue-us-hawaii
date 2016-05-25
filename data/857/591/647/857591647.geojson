@@ -1,0 +1,71 @@
+{
+  "id": 857591647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.462896,20.077074,-155.462896,20.077074",
+    "geom:latitude":20.077074,
+    "geom:longitude":-155.462896,
+    "iso:country":"US",
+    "sg:address":"3362 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 8849",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qbc7S2I7PpGt09PC6e3dK_20.077074_-155.462896@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203797,
+    "wof:geomhash":"14d453e0570a6ba2655b7af9ab3d62ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857591647
+        }
+    ],
+    "wof:id":857591647,
+    "wof:lastmodified":1464203797,
+    "wof:name":"District Court Probation Svc",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -155.462896,
+    20.077074,
+    -155.462896,
+    20.077074
+],
+  "geometry": {"coordinates":[-155.462896,20.077074],"type":"Point"}
+}

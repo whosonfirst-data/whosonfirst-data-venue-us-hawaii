@@ -1,0 +1,89 @@
+{
+  "id": 857609551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.903616,21.334291,-157.903616,21.334291",
+    "geom:latitude":21.334291,
+    "geom:longitude":-157.903616,
+    "iso:country":"US",
+    "sg:address":"2933 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 3449",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "sales",
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZR79NtPLhcEBQNPYbHSoN_21.334291_-157.903616@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204198,
+    "wof:geomhash":"2666302c6d39968c2c08bd44608793c1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857609551
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857609551
+        }
+    ],
+    "wof:id":857609551,
+    "wof:lastmodified":1464204198,
+    "wof:name":"Marblehaus Hawaii",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "sales",
+        "marble"
+    ]
+},
+  "bbox": [
+    -157.903616,
+    21.334291,
+    -157.903616,
+    21.334291
+],
+  "geometry": {"coordinates":[-157.903616,21.334291],"type":"Point"}
+}

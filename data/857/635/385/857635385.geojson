@@ -1,0 +1,69 @@
+{
+  "id": 857635385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.034811,21.49401,-158.034811,21.49401",
+    "geom:latitude":21.49401,
+    "geom:longitude":-158.034811,
+    "iso:country":"US",
+    "sg:address":"164 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6775",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BowDn7B8zxonDlRshjXVp_21.494010_-158.034811@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204846,
+    "wof:geomhash":"f0740d2e5d7af1f638bf9f7a27755950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857635385
+        }
+    ],
+    "wof:id":857635385,
+    "wof:lastmodified":1464204846,
+    "wof:name":"Kumon USA",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -158.034811,
+    21.49401,
+    -158.034811,
+    21.49401
+],
+  "geometry": {"coordinates":[-158.03481099999999,21.49401],"type":"Point"}
+}

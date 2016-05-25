@@ -1,0 +1,73 @@
+{
+  "id": 857572153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.506688,20.892211,-156.506688,20.892211",
+    "geom:latitude":20.892211,
+    "geom:longitude":-156.506688,
+    "iso:country":"US",
+    "sg:address":"193 N Church St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 8172",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fPRT9QnmlP9FtJSQ8yfYf_20.892211_-156.506688@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203391,
+    "wof:geomhash":"9ac9652ab27fd7b97b03779209758416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857572153
+        }
+    ],
+    "wof:id":857572153,
+    "wof:lastmodified":1464203391,
+    "wof:name":"Island Tours LLC",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -156.506688,
+    20.892211,
+    -156.506688,
+    20.892211
+],
+  "geometry": {"coordinates":[-156.506688,20.892211],"type":"Point"}
+}

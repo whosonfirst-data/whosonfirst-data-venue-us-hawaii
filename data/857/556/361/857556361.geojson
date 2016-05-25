@@ -1,0 +1,71 @@
+{
+  "id": 857556361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.607275,20.041846,-155.607275,20.041846",
+    "geom:latitude":20.041846,
+    "geom:longitude":-155.607275,
+    "iso:country":"US",
+    "sg:address":"5249 Noekolo St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 0405",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50ZYvh6LVze9Nanarnq4u7_20.041846_-155.607275@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203059,
+    "wof:geomhash":"c6a2541c1db7d17a6f74e951fd4dbc10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857556361
+        }
+    ],
+    "wof:id":857556361,
+    "wof:lastmodified":1464203059,
+    "wof:name":"Electric Shoppe Of Hawaii",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.607275,
+    20.041846,
+    -155.607275,
+    20.041846
+],
+  "geometry": {"coordinates":[-155.60727499999999,20.041846],"type":"Point"}
+}

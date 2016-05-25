@@ -1,0 +1,71 @@
+{
+  "id": 857584969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820718,21.305107,-157.820718,21.305107",
+    "geom:latitude":21.305107,
+    "geom:longitude":-157.820718,
+    "iso:country":"US",
+    "sg:address":"2379 Liloa Rise St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 1845",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UK3si6i7ffijpu5Ls6WvW_21.305107_-157.820718@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203644,
+    "wof:geomhash":"49a8d5e154a922ff23927fdf7a14a79d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857584969
+        }
+    ],
+    "wof:id":857584969,
+    "wof:lastmodified":1464203644,
+    "wof:name":"Francisco Architect",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -157.820718,
+    21.305107,
+    -157.820718,
+    21.305107
+],
+  "geometry": {"coordinates":[-157.820718,21.305107],"type":"Point"}
+}

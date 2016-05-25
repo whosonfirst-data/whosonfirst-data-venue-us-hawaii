@@ -1,0 +1,71 @@
+{
+  "id": 857623831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.178501,21.425909,-158.178501,21.425909",
+    "geom:latitude":21.425909,
+    "geom:longitude":-158.178501,
+    "iso:country":"US",
+    "sg:address":"100 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 7731",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oJoJJecCYJ2x9jkO45qGl_21.425909_-158.178501@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204533,
+    "wof:geomhash":"87c0fd0802b48997aec21e934159ded9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857623831
+        }
+    ],
+    "wof:id":857623831,
+    "wof:lastmodified":1464204533,
+    "wof:name":"Honolulu City Waianae Wstwtr",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -158.178501,
+    21.425909,
+    -158.178501,
+    21.425909
+],
+  "geometry": {"coordinates":[-158.17850100000001,21.425909],"type":"Point"}
+}

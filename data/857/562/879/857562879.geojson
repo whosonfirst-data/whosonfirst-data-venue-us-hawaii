@@ -1,0 +1,73 @@
+{
+  "id": 857562879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848065,21.295049,-157.848065,21.295049",
+    "geom:latitude":21.295049,
+    "geom:longitude":-157.848065,
+    "iso:country":"US",
+    "sg:address":"560 Pensacola St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 2111",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sfegUNKFOJrkSmI3PmKIm_21.295049_-157.848065@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203218,
+    "wof:geomhash":"547a43c1037b45800ff83f575c6a8c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857562879
+        }
+    ],
+    "wof:id":857562879,
+    "wof:lastmodified":1464203218,
+    "wof:name":"Tintwerks",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -157.848065,
+    21.295049,
+    -157.848065,
+    21.295049
+],
+  "geometry": {"coordinates":[-157.84806499999999,21.295049],"type":"Point"}
+}

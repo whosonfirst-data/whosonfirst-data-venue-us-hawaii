@@ -1,0 +1,73 @@
+{
+  "id": 857634149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927091,21.365187,-157.927091,21.365187",
+    "geom:latitude":21.365187,
+    "geom:longitude":-157.927091,
+    "iso:country":"US",
+    "sg:address":"4506 Luapele Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 5842",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "commercial",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ERNvn6DtPBUxsWxNtiIH2_21.365187_-157.927091@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204803,
+    "wof:geomhash":"c699e2b2eaa9add1aeec6072e11041c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857634149
+        }
+    ],
+    "wof:id":857634149,
+    "wof:lastmodified":1464204803,
+    "wof:name":"Sea Dragon",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -157.927091,
+    21.365187,
+    -157.927091,
+    21.365187
+],
+  "geometry": {"coordinates":[-157.92709099999999,21.365187],"type":"Point"}
+}

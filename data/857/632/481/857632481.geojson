@@ -1,0 +1,66 @@
+{
+  "id": 857632481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868462,21.322847,-157.868462,21.322847",
+    "geom:latitude":21.322847,
+    "geom:longitude":-157.868462,
+    "iso:country":"US",
+    "sg:address":"924 Hikina Ln",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 7704",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YI771TnXUfIckia15WHE2_21.322847_-157.868462@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204732,
+    "wof:geomhash":"fa64d89b4437a1124cd8d52acfff0342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857632481
+        }
+    ],
+    "wof:id":857632481,
+    "wof:lastmodified":1464204732,
+    "wof:name":"Corner Groceteria",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.868462,
+    21.322847,
+    -157.868462,
+    21.322847
+],
+  "geometry": {"coordinates":[-157.86846199999999,21.322847],"type":"Point"}
+}

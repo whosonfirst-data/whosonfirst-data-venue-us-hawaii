@@ -1,0 +1,73 @@
+{
+  "id": 857589571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.735465,21.285076,-157.735465,21.285076",
+    "geom:latitude":21.285076,
+    "geom:longitude":-157.735465,
+    "iso:country":"US",
+    "sg:address":"484 Halemaumau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 1517",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27SWgYdPnpgHOTEBeuDScm_21.285076_-157.735465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203750,
+    "wof:geomhash":"217824398e8c9194f8ed5576d22b9c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857589571
+        }
+    ],
+    "wof:id":857589571,
+    "wof:lastmodified":1464203750,
+    "wof:name":"Craig Park Painting",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.735465,
+    21.285076,
+    -157.735465,
+    21.285076
+],
+  "geometry": {"coordinates":[-157.735465,21.285076],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857575753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85602,21.300691,-157.85602,21.300691",
+    "geom:latitude":21.300691,
+    "geom:longitude":-157.85602,
+    "iso:country":"US",
+    "sg:address":"869 Kawaiahao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 9269",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hq5UMhfNeYaCyfMNyK6DA_21.300691_-157.856020@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203466,
+    "wof:geomhash":"7251f3d8fc87b4a807fb6a1f11a6ccf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857575753
+        }
+    ],
+    "wof:id":857575753,
+    "wof:lastmodified":1464203466,
+    "wof:name":"G M Automotive",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.85602,
+    21.300691,
+    -157.85602,
+    21.300691
+],
+  "geometry": {"coordinates":[-157.85602,21.300691],"type":"Point"}
+}

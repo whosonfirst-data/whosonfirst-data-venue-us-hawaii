@@ -1,0 +1,71 @@
+{
+  "id": 857601607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847117,21.29451,-157.847117,21.29451",
+    "geom:latitude":21.29451,
+    "geom:longitude":-157.847117,
+    "iso:country":"US",
+    "sg:address":"1235 Hopaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 0983",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68EnmPWdESr93mrR2cCFUv_21.294510_-157.847117@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204020,
+    "wof:geomhash":"5e5d3475ad572e5926a71a520fd4774f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857601607
+        }
+    ],
+    "wof:id":857601607,
+    "wof:lastmodified":1464204020,
+    "wof:name":"Celebrities",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.847117,
+    21.29451,
+    -157.847117,
+    21.29451
+],
+  "geometry": {"coordinates":[-157.847117,21.29451],"type":"Point"}
+}

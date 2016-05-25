@@ -1,0 +1,71 @@
+{
+  "id": 857662899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.746277,21.419182,-157.746277,21.419182",
+    "geom:latitude":21.419182,
+    "geom:longitude":-157.746277,
+    "iso:country":"US",
+    "sg:address":"129 Kaihone Way",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 7622",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gr8Tg1onUig3WDdnZwZe6_21.419182_-157.746277@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206045,
+    "wof:geomhash":"555c348cf0a5f26cf23c6dedba1bfc91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857662899
+        }
+    ],
+    "wof:id":857662899,
+    "wof:lastmodified":1464206045,
+    "wof:name":"Jonathan K Cho MD Inc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.746277,
+    21.419182,
+    -157.746277,
+    21.419182
+],
+  "geometry": {"coordinates":[-157.74627699999999,21.419182],"type":"Point"}
+}

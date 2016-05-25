@@ -1,0 +1,71 @@
+{
+  "id": 857619269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.371582,21.979685,-159.371582,21.979685",
+    "geom:latitude":21.979685,
+    "geom:longitude":-159.371582,
+    "iso:country":"US",
+    "sg:address":"3150 Fujii St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7407",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yqBAajQoaua1pisyCVwZf_21.979685_-159.371582@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204416,
+    "wof:geomhash":"2eff96b5fc6a3f2bf499cdd6e35ca201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857619269
+        }
+    ],
+    "wof:id":857619269,
+    "wof:lastmodified":1464204416,
+    "wof:name":"ServiceMaster",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -159.371582,
+    21.979685,
+    -159.371582,
+    21.979685
+],
+  "geometry": {"coordinates":[-159.37158199999999,21.979685],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857632561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866632,21.315866,-157.866632,21.315866",
+    "geom:latitude":21.315866,
+    "geom:longitude":-157.866632,
+    "iso:country":"US",
+    "sg:address":"850 Iwilei Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 6671",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:website":"www.sushi-chef.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uln9J4lsVWHRemi7EAxtL_21.315866_-157.866632@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204735,
+    "wof:geomhash":"eb26e8de5bda29afe30118998ffb80c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857632561
+        }
+    ],
+    "wof:id":857632561,
+    "wof:lastmodified":1464204735,
+    "wof:name":"Sushi Chef",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.866632,
+    21.315866,
+    -157.866632,
+    21.315866
+],
+  "geometry": {"coordinates":[-157.86663200000001,21.315866],"type":"Point"}
+}

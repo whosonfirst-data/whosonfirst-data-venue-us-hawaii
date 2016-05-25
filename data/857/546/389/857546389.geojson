@@ -1,0 +1,71 @@
+{
+  "id": 857546389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.877744,21.332021,-157.877744,21.332021",
+    "geom:latitude":21.332021,
+    "geom:longitude":-157.877744,
+    "iso:country":"US",
+    "sg:address":"1874 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 6866",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UeAdRx3Pypv6o8VUmHhMi_21.332021_-157.877744@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202863,
+    "wof:geomhash":"e4900d3fec807af4e3e541eab3cb97d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857546389
+        }
+    ],
+    "wof:id":857546389,
+    "wof:lastmodified":1464202863,
+    "wof:name":"Jimmy Produce",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -157.877744,
+    21.332021,
+    -157.877744,
+    21.332021
+],
+  "geometry": {"coordinates":[-157.87774400000001,21.332021],"type":"Point"}
+}

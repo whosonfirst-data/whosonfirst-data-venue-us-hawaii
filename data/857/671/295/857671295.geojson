@@ -1,0 +1,73 @@
+{
+  "id": 857671295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829924,21.301221,-157.829924,21.301221",
+    "geom:latitude":21.301221,
+    "geom:longitude":-157.829924,
+    "iso:country":"US",
+    "sg:address":"1701 Wilder Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 973 2211",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "profit",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27RSls7NpBNrR9qDYCEaDL_21.301221_-157.829924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206385,
+    "wof:geomhash":"d412ccfbb38b21191d07436934cee18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857671295
+        }
+    ],
+    "wof:id":857671295,
+    "wof:lastmodified":1464206385,
+    "wof:name":"Sacred Heart Church",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "church"
+    ]
+},
+  "bbox": [
+    -157.829924,
+    21.301221,
+    -157.829924,
+    21.301221
+],
+  "geometry": {"coordinates":[-157.82992400000001,21.301221],"type":"Point"}
+}

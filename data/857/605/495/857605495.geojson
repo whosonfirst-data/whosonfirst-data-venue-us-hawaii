@@ -1,0 +1,73 @@
+{
+  "id": 857605495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868379,21.324154,-157.868379,21.324154",
+    "geom:latitude":21.324154,
+    "geom:longitude":-157.868379,
+    "iso:country":"US",
+    "sg:address":"1010 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 5800",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rUHjEmsrgSDkNYKU60IrA_21.324154_-157.868379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204107,
+    "wof:geomhash":"cf1aa0bb022dce5b3caffcec304a0a9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857605495
+        }
+    ],
+    "wof:id":857605495,
+    "wof:lastmodified":1464204107,
+    "wof:name":"Century Car Care LLC",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.868379,
+    21.324154,
+    -157.868379,
+    21.324154
+],
+  "geometry": {"coordinates":[-157.868379,21.324154],"type":"Point"}
+}

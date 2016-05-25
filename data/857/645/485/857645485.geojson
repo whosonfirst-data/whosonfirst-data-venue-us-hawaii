@@ -1,0 +1,71 @@
+{
+  "id": 857645485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011023,21.464775,-158.011023,21.464775",
+    "geom:latitude":21.464775,
+    "geom:longitude":-158.011023,
+    "iso:country":"US",
+    "sg:address":"247 Waimakua Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 3981",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CvV1Zrab19yhVFalhfozz_21.464775_-158.011023@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205258,
+    "wof:geomhash":"7dea1d83696b358177892e7407af8f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857645485
+        }
+    ],
+    "wof:id":857645485,
+    "wof:lastmodified":1464205258,
+    "wof:name":"Lils Travel",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -158.011023,
+    21.464775,
+    -158.011023,
+    21.464775
+],
+  "geometry": {"coordinates":[-158.01102299999999,21.464775],"type":"Point"}
+}

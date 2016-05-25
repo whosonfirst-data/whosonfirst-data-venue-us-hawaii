@@ -1,0 +1,71 @@
+{
+  "id": 857543795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.824527,21.27679,-157.824527,21.27679",
+    "geom:latitude":21.27679,
+    "geom:longitude":-157.824527,
+    "iso:country":"US",
+    "sg:address":"2417 Prince Edward St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 8313",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0atsjY9Bs2gADTQLLv6NHx_21.276790_-157.824527@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202817,
+    "wof:geomhash":"ffe0f919e7d81df36fc95aae544b946c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857543795
+        }
+    ],
+    "wof:id":857543795,
+    "wof:lastmodified":1464202817,
+    "wof:name":"Hosteling International",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -157.824527,
+    21.27679,
+    -157.824527,
+    21.27679
+],
+  "geometry": {"coordinates":[-157.82452699999999,21.27679],"type":"Point"}
+}

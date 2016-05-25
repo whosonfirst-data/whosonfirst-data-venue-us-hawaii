@@ -1,0 +1,78 @@
+{
+  "id": 857503835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861748,21.312028,-157.861748,21.312028",
+    "geom:latitude":21.312028,
+    "geom:longitude":-157.861748,
+    "iso:country":"US",
+    "sg:address":"9 N Pauahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 4442",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant",
+        "forensic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YDSuYqmK5gdMfOMkb2Gkq_21.312028_-157.861748@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202003,
+    "wof:geomhash":"876c96ac70b88497bb4c33334312bd89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857503835
+        }
+    ],
+    "wof:id":857503835,
+    "wof:lastmodified":1464202003,
+    "wof:name":"Engineering Partners Intl Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "forensic"
+    ]
+},
+  "bbox": [
+    -157.861748,
+    21.312028,
+    -157.861748,
+    21.312028
+],
+  "geometry": {"coordinates":[-157.86174800000001,21.312028],"type":"Point"}
+}

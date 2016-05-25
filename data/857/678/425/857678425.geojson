@@ -1,0 +1,73 @@
+{
+  "id": 857678425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873444,21.324,-157.873444,21.324",
+    "geom:latitude":21.324,
+    "geom:longitude":-157.873444,
+    "iso:country":"US",
+    "sg:address":"819 Moowaa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 1143",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SxnUU50sNUAIS0JHEC9BH_21.324000_-157.873444@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206670,
+    "wof:geomhash":"79d4032eb128c7c670aef97c4d14f223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857678425
+        }
+    ],
+    "wof:id":857678425,
+    "wof:lastmodified":1464206670,
+    "wof:name":"General Medical Supply",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.873444,
+    21.324,
+    -157.873444,
+    21.324
+],
+  "geometry": {"coordinates":[-157.87344400000001,21.324],"type":"Point"}
+}

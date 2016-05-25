@@ -1,0 +1,73 @@
+{
+  "id": 857642863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851319,21.313217,-157.851319,21.313217",
+    "geom:latitude":21.313217,
+    "geom:longitude":-157.851319,
+    "iso:country":"US",
+    "sg:address":"1691 Kamamalu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 534 1996",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZqsLb7053BFXhhuH0Di5T_21.313217_-157.851319@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205133,
+    "wof:geomhash":"d6fff2843635a32b307bef02c5e0f666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857642863
+        }
+    ],
+    "wof:id":857642863,
+    "wof:lastmodified":1464205133,
+    "wof:name":"Servco Construction",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -157.851319,
+    21.313217,
+    -157.851319,
+    21.313217
+],
+  "geometry": {"coordinates":[-157.85131899999999,21.313217],"type":"Point"}
+}

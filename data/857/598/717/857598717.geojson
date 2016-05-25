@@ -1,0 +1,71 @@
+{
+  "id": 857598717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813546,21.285234,-157.813546,21.285234",
+    "geom:latitude":21.285234,
+    "geom:longitude":-157.813546,
+    "iso:country":"US",
+    "sg:address":"932 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 6222",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51clkGir8yuW5qH9h974za_21.285234_-157.813546@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203956,
+    "wof:geomhash":"950a36c876e8c92a728d75c948878d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857598717
+        }
+    ],
+    "wof:id":857598717,
+    "wof:lastmodified":1464203956,
+    "wof:name":"Hawaii Antique Center",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -157.813546,
+    21.285234,
+    -157.813546,
+    21.285234
+],
+  "geometry": {"coordinates":[-157.813546,21.285234],"type":"Point"}
+}

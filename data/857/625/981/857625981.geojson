@@ -1,0 +1,66 @@
+{
+  "id": 857625981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.873315,21.323402,-157.873315,21.323402",
+    "geom:latitude":21.323402,
+    "geom:longitude":-157.873315,
+    "iso:country":"US",
+    "sg:address":"1236 Kaumualii St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 2339",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43PwwJRWtnyMh2cbymS4Wg_21.323402_-157.873315@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204582,
+    "wof:geomhash":"782672c6e2fa79a9d6643e82c4e1a924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857625981
+        }
+    ],
+    "wof:id":857625981,
+    "wof:lastmodified":1464204582,
+    "wof:name":"Barley Green",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.873315,
+    21.323402,
+    -157.873315,
+    21.323402
+],
+  "geometry": {"coordinates":[-157.87331499999999,21.323402],"type":"Point"}
+}

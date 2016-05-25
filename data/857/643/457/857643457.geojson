@@ -1,0 +1,71 @@
+{
+  "id": 857643457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787382,21.268147,-157.787382,21.268147",
+    "geom:latitude":21.268147,
+    "geom:longitude":-157.787382,
+    "iso:country":"US",
+    "sg:address":"823 Onaha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 5000",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nEO4pffzEo8kVmuAvh2w0_21.268147_-157.787382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205173,
+    "wof:geomhash":"85210432cb8b22d1c3b3af32f007e812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857643457
+        }
+    ],
+    "wof:id":857643457,
+    "wof:lastmodified":1464205173,
+    "wof:name":"Rainbow Painting & Decorating",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -157.787382,
+    21.268147,
+    -157.787382,
+    21.268147
+],
+  "geometry": {"coordinates":[-157.78738200000001,21.268147],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857657305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028114,21.49669,-158.028114,21.49669",
+    "geom:latitude":21.49669,
+    "geom:longitude":-158.028114,
+    "iso:country":"US",
+    "sg:address":"668 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 0377",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P6kTl39eFt0X76gePwuid_21.496690_-158.028114@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205783,
+    "wof:geomhash":"78dac7efbb2dd25e2c009dffdbb479f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857657305
+        }
+    ],
+    "wof:id":857657305,
+    "wof:lastmodified":1464205783,
+    "wof:name":"Na Mea Ho'Okani Pila O Hawaii",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -158.028114,
+    21.49669,
+    -158.028114,
+    21.49669
+],
+  "geometry": {"coordinates":[-158.02811399999999,21.49669],"type":"Point"}
+}

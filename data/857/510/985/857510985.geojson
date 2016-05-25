@@ -1,0 +1,71 @@
+{
+  "id": 857510985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.695582,21.290807,-157.695582,21.290807",
+    "geom:latitude":21.290807,
+    "geom:longitude":-157.695582,
+    "iso:country":"US",
+    "sg:address":"642 Kalanipuu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 7033",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BnRhqbZV5m2xXiaYel87b_21.290807_-157.695582@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202167,
+    "wof:geomhash":"416590978d8f9cbab6906276c3b2f464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857510985
+        }
+    ],
+    "wof:id":857510985,
+    "wof:lastmodified":1464202167,
+    "wof:name":"Rbt Adjusters",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -157.695582,
+    21.290807,
+    -157.695582,
+    21.290807
+],
+  "geometry": {"coordinates":[-157.695582,21.290807],"type":"Point"}
+}

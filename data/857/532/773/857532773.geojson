@@ -1,0 +1,71 @@
+{
+  "id": 857532773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857921,21.350362,-157.857921,21.350362",
+    "geom:latitude":21.350362,
+    "geom:longitude":-157.857921,
+    "iso:country":"US",
+    "sg:address":"1820 Akone Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2639",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09CAqiszPepQQ4D4m52wZc_21.350362_-157.857921@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202599,
+    "wof:geomhash":"8bd5d641ff3cb60733fcdb76965cc2b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857532773
+        }
+    ],
+    "wof:id":857532773,
+    "wof:lastmodified":1464202599,
+    "wof:name":"Andys Repair Service",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -157.857921,
+    21.350362,
+    -157.857921,
+    21.350362
+],
+  "geometry": {"coordinates":[-157.857921,21.350362],"type":"Point"}
+}

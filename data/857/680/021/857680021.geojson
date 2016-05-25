@@ -1,0 +1,73 @@
+{
+  "id": 857680021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.083925,21.341606,-158.083925,21.341606",
+    "geom:latitude":21.341606,
+    "geom:longitude":-158.083925,
+    "iso:country":"US",
+    "sg:address":"423 Akaula St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 306 1210",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marine",
+        "electric",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0moirrmA5zWKeUgZXUvwkh_21.341606_-158.083925@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206730,
+    "wof:geomhash":"f9d64328ec2a3c82e43a472a723078e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680021
+        }
+    ],
+    "wof:id":857680021,
+    "wof:lastmodified":1464206730,
+    "wof:name":"KS Marine Electric Co",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "electric",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -158.083925,
+    21.341606,
+    -158.083925,
+    21.341606
+],
+  "geometry": {"coordinates":[-158.08392499999999,21.341606],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857514469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02498,21.499788,-158.02498,21.499788",
+    "geom:latitude":21.499788,
+    "geom:longitude":-158.02498,
+    "iso:country":"US",
+    "sg:address":"1017 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 7188",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nap8YeCFYacZo77EIRp8t_21.499788_-158.024980@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202242,
+    "wof:geomhash":"34d3e7586ff3b8b71b8a32d49edf8626",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857514469
+        }
+    ],
+    "wof:id":857514469,
+    "wof:lastmodified":1464202242,
+    "wof:name":"Sunny Side Restaurant",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -158.02498,
+    21.499788,
+    -158.02498,
+    21.499788
+],
+  "geometry": {"coordinates":[-158.02498,21.499788],"type":"Point"}
+}

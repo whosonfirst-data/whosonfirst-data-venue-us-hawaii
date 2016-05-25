@@ -1,0 +1,73 @@
+{
+  "id": 857524649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.511534,20.889919,-156.511534,20.889919",
+    "geom:latitude":20.889919,
+    "geom:longitude":-156.511534,
+    "iso:country":"US",
+    "sg:address":"2044 W Vineyard St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3294",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ho1bv7Z9wakbLPH5gSm5h_20.889919_-156.511534@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202444,
+    "wof:geomhash":"59cd1194c6132751de21030d23f82f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857524649
+        }
+    ],
+    "wof:id":857524649,
+    "wof:lastmodified":1464202444,
+    "wof:name":"Bungalow",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "operation"
+    ]
+},
+  "bbox": [
+    -156.511534,
+    20.889919,
+    -156.511534,
+    20.889919
+],
+  "geometry": {"coordinates":[-156.51153400000001,20.889919],"type":"Point"}
+}

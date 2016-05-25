@@ -1,0 +1,73 @@
+{
+  "id": 857619679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.659883,20.024723,-155.659883,20.024723",
+    "geom:latitude":20.024723,
+    "geom:longitude":-155.659883,
+    "iso:country":"US",
+    "sg:address":"5191 Kinohou St",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 8465",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nsdC9lAKHGq96VXMiGm5x_20.024723_-155.659883@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204425,
+    "wof:geomhash":"d9196bfe1f728ba48f4b26820a803032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857619679
+        }
+    ],
+    "wof:id":857619679,
+    "wof:lastmodified":1464204425,
+    "wof:name":"Brian S Kubo INC",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -155.659883,
+    20.024723,
+    -155.659883,
+    20.024723
+],
+  "geometry": {"coordinates":[-155.65988300000001,20.024723],"type":"Point"}
+}

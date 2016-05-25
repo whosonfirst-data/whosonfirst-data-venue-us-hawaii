@@ -1,0 +1,71 @@
+{
+  "id": 857670405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.084813,21.334981,-158.084813,21.334981",
+    "geom:latitude":21.334981,
+    "geom:longitude":-158.084813,
+    "iso:country":"US",
+    "sg:address":"460 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 668 2985",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landfill",
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ZNUoOeWM5EhFKtm09YRK_21.334981_-158.084813@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206355,
+    "wof:geomhash":"eafcde78e9854cde6651acc06342eca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857670405
+        }
+    ],
+    "wof:id":857670405,
+    "wof:lastmodified":1464206355,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill",
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -158.084813,
+    21.334981,
+    -158.084813,
+    21.334981
+],
+  "geometry": {"coordinates":[-158.084813,21.334981],"type":"Point"}
+}

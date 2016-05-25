@@ -1,0 +1,80 @@
+{
+  "id": 857617361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.982541,19.679026,-155.982541,19.679026",
+    "geom:latitude":19.679026,
+    "geom:longitude":-155.982541,
+    "iso:country":"US",
+    "sg:address":"4929 Kiwi St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 329 9292",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937431,
+        102085433,
+        85890335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T0ilvSuvPZAkv0mXz7Xbx_19.679026_-155.982541@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204364,
+    "wof:geomhash":"56f286958c41a16d2075715fbf136585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937431,
+            "neighbourhood_id":85890335,
+            "region_id":85688671,
+            "venue_id":857617361
+        }
+    ],
+    "wof:id":857617361,
+    "wof:lastmodified":1464204364,
+    "wof:name":"Lucky's Concrete Pumping",
+    "wof:parent_id":85890335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -155.982541,
+    19.679026,
+    -155.982541,
+    19.679026
+],
+  "geometry": {"coordinates":[-155.982541,19.679026],"type":"Point"}
+}

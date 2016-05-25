@@ -1,0 +1,71 @@
+{
+  "id": 857567113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811708,21.272203,-157.811708,21.272203",
+    "geom:latitude":21.272203,
+    "geom:longitude":-157.811708,
+    "iso:country":"US",
+    "sg:address":"3518 Campbell Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 478 4136",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5juVH3VqlXUe3k2w9Aa30r_21.272203_-157.811708@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203300,
+    "wof:geomhash":"2f15cfc2185a7ad9f727e3abf6471e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857567113
+        }
+    ],
+    "wof:id":857567113,
+    "wof:lastmodified":1464203300,
+    "wof:name":"Krystal Enterprise Limousine",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -157.811708,
+    21.272203,
+    -157.811708,
+    21.272203
+],
+  "geometry": {"coordinates":[-157.81170800000001,21.272203],"type":"Point"}
+}

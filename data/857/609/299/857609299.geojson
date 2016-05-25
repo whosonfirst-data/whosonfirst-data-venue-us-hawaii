@@ -1,0 +1,73 @@
+{
+  "id": 857609299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.693144,20.930045,-156.693144,20.930045",
+    "geom:latitude":20.930045,
+    "geom:longitude":-156.693144,
+    "iso:country":"US",
+    "sg:address":"2580 Kekaa Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 2020",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cruise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937683,
+        102085577,
+        85890509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LxKpFgaosspCSaeZUtsry_20.930045_-156.693144@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204193,
+    "wof:geomhash":"2ea66fbda2a0702b78b3a83b2ef71cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937683,
+            "neighbourhood_id":85890509,
+            "region_id":85688671,
+            "venue_id":857609299
+        }
+    ],
+    "wof:id":857609299,
+    "wof:lastmodified":1464204193,
+    "wof:name":"Luxury By Sea",
+    "wof:parent_id":85890509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cruise"
+    ]
+},
+  "bbox": [
+    -156.693144,
+    20.930045,
+    -156.693144,
+    20.930045
+],
+  "geometry": {"coordinates":[-156.69314399999999,20.930045],"type":"Point"}
+}

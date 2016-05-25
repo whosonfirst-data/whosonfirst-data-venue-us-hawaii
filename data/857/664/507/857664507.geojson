@@ -1,0 +1,66 @@
+{
+  "id": 857664507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830089,21.294762,-157.830089,21.294762",
+    "geom:latitude":21.294762,
+    "geom:longitude":-157.830089,
+    "iso:country":"US",
+    "sg:address":"939 Mc Cully St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 5778",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xxzo2BtcG3AMwwwi75LyB_21.294762_-157.830089@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206102,
+    "wof:geomhash":"40c57ff9344670b8fff2bde447f4c68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857664507
+        }
+    ],
+    "wof:id":857664507,
+    "wof:lastmodified":1464206102,
+    "wof:name":"St Louis Florist & Fruits",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.830089,
+    21.294762,
+    -157.830089,
+    21.294762
+],
+  "geometry": {"coordinates":[-157.83008899999999,21.294762],"type":"Point"}
+}

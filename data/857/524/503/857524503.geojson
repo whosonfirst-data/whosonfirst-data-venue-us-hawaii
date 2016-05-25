@@ -1,0 +1,71 @@
+{
+  "id": 857524503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836607,21.292757,-157.836607,21.292757",
+    "geom:latitude":21.292757,
+    "geom:longitude":-157.836607,
+    "iso:country":"US",
+    "sg:address":"1694 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 8774",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_229nCDvHqlSpaBhP5IWbj4_21.292757_-157.836607@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202439,
+    "wof:geomhash":"675a083729345a1ae3bf51d448a6432e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857524503
+        }
+    ],
+    "wof:id":857524503,
+    "wof:lastmodified":1464202439,
+    "wof:name":"Hawaii Acupuncture Clinic",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [
+    -157.836607,
+    21.292757,
+    -157.836607,
+    21.292757
+],
+  "geometry": {"coordinates":[-157.83660699999999,21.292757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857559471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.023439,21.335466,-158.023439,21.335466",
+    "geom:latitude":21.335466,
+    "geom:longitude":-158.023439,
+    "iso:country":"US",
+    "sg:address":"1401 Fort Weaver Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 685 5600",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RUlzWcXPgY1rVkhgXMyQl_21.335466_-158.023439@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203139,
+    "wof:geomhash":"b346eb27b6e1ecf1d05d844b356e6d38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857559471
+        }
+    ],
+    "wof:id":857559471,
+    "wof:lastmodified":1464203139,
+    "wof:name":"Longs Drug Store",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -158.023439,
+    21.335466,
+    -158.023439,
+    21.335466
+],
+  "geometry": {"coordinates":[-158.023439,21.335466],"type":"Point"}
+}

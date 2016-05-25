@@ -1,0 +1,73 @@
+{
+  "id": 857549935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.969443,21.408104,-157.969443,21.408104",
+    "geom:latitude":21.408104,
+    "geom:longitude":-157.969443,
+    "iso:country":"US",
+    "sg:address":"1550 Kuahaka St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 7556",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z9RW5q1lKW80Bgz64GSym_21.408104_-157.969443@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202930,
+    "wof:geomhash":"e95a2289fed0cc0e81174ab1568e5188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857549935
+        }
+    ],
+    "wof:id":857549935,
+    "wof:lastmodified":1464202930,
+    "wof:name":"Manana Swimming Pool",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -157.969443,
+    21.408104,
+    -157.969443,
+    21.408104
+],
+  "geometry": {"coordinates":[-157.96944300000001,21.408104],"type":"Point"}
+}

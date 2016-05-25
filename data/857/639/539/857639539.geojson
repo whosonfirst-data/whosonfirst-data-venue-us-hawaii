@@ -1,0 +1,71 @@
+{
+  "id": 857639539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816087,21.301313,-157.816087,21.301313",
+    "geom:latitude":21.301313,
+    "geom:longitude":-157.816087,
+    "iso:country":"US",
+    "sg:address":"2565 Maile Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 8883",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C7wbD09BSIEwKHoyuQXbs_21.301313_-157.816087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205003,
+    "wof:geomhash":"14ad1e685bec14fd6b1abebbbfd83d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857639539
+        }
+    ],
+    "wof:id":857639539,
+    "wof:lastmodified":1464205003,
+    "wof:name":"Its Help Desk -Computing Ctr",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -157.816087,
+    21.301313,
+    -157.816087,
+    21.301313
+],
+  "geometry": {"coordinates":[-157.81608700000001,21.301313],"type":"Point"}
+}

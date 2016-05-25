@@ -1,0 +1,73 @@
+{
+  "id": 857592861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.870022,21.324821,-157.870022,21.324821",
+    "geom:latitude":21.324821,
+    "geom:longitude":-157.870022,
+    "iso:country":"US",
+    "sg:address":"1253 Mookaula St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2785",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F0hr6KyEUnrWcf6lGPHll_21.324821_-157.870022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203824,
+    "wof:geomhash":"2bb0189b7ee31be9a76c0995b1c62426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857592861
+        }
+    ],
+    "wof:id":857592861,
+    "wof:lastmodified":1464203824,
+    "wof:name":"Penny's Lounge",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -157.870022,
+    21.324821,
+    -157.870022,
+    21.324821
+],
+  "geometry": {"coordinates":[-157.87002200000001,21.324821],"type":"Point"}
+}

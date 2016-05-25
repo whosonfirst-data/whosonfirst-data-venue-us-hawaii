@@ -1,0 +1,71 @@
+{
+  "id": 857582599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.945795,21.383964,-157.945795,21.383964",
+    "geom:latitude":21.383964,
+    "geom:longitude":-157.945795,
+    "iso:country":"US",
+    "sg:address":"718 Moanalua Loop",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 1912",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AMxqwV86Plz9kTExqDI5D_21.383964_-157.945795@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203601,
+    "wof:geomhash":"23f194a4953749d6aacf0bfca0cbf889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857582599
+        }
+    ],
+    "wof:id":857582599,
+    "wof:lastmodified":1464203601,
+    "wof:name":"Equipment Maintenance Svc Corp",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.945795,
+    21.383964,
+    -157.945795,
+    21.383964
+],
+  "geometry": {"coordinates":[-157.945795,21.383964],"type":"Point"}
+}

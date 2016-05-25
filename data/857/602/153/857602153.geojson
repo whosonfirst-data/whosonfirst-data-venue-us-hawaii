@@ -1,0 +1,73 @@
+{
+  "id": 857602153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.802354,21.414264,-157.802354,21.414264",
+    "geom:latitude":21.414264,
+    "geom:longitude":-157.802354,
+    "iso:country":"US",
+    "sg:address":"512 Keaahala Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 2768",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7drEkF2EwePGM1nZhoiT5I_21.414264_-157.802354@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204032,
+    "wof:geomhash":"2ae39cb781b0da8c01a49f29b5a5ba55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857602153
+        }
+    ],
+    "wof:id":857602153,
+    "wof:lastmodified":1464204032,
+    "wof:name":"Nay's Auto Repair",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.802354,
+    21.414264,
+    -157.802354,
+    21.414264
+],
+  "geometry": {"coordinates":[-157.80235400000001,21.414264],"type":"Point"}
+}

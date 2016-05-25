@@ -1,0 +1,73 @@
+{
+  "id": 857514147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863091,21.310677,-157.863091,21.310677",
+    "geom:latitude":21.310677,
+    "geom:longitude":-157.863091,
+    "iso:country":"US",
+    "sg:address":"45 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 528 7711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fXM3JgOfxslDZ6HeWL6kL_21.310677_-157.863091@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202234,
+    "wof:geomhash":"74f676953d424ac6e21f531cc8c2b486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857514147
+        }
+    ],
+    "wof:id":857514147,
+    "wof:lastmodified":1464202234,
+    "wof:name":"Hawaii National Bancshares Inc",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -157.863091,
+    21.310677,
+    -157.863091,
+    21.310677
+],
+  "geometry": {"coordinates":[-157.863091,21.310677],"type":"Point"}
+}

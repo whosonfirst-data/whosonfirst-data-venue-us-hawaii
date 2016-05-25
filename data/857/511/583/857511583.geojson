@@ -1,0 +1,73 @@
+{
+  "id": 857511583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.502508,20.895473,-156.502508,20.895473",
+    "geom:latitude":20.895473,
+    "geom:longitude":-156.502508,
+    "iso:country":"US",
+    "sg:address":"1760 Mill St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 3328",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "equipment",
+        "skateboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tPbbBWRrtsJvsuoXE9ATR_20.895473_-156.502508@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202178,
+    "wof:geomhash":"97b6497d69945a0a8b93ae8af4ddf8d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857511583
+        }
+    ],
+    "wof:id":857511583,
+    "wof:lastmodified":1464202178,
+    "wof:name":"Maui Sk8er",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skateboard"
+    ]
+},
+  "bbox": [
+    -156.502508,
+    20.895473,
+    -156.502508,
+    20.895473
+],
+  "geometry": {"coordinates":[-156.50250800000001,20.895473],"type":"Point"}
+}

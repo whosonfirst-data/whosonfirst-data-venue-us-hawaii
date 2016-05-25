@@ -1,0 +1,75 @@
+{
+  "id": 857652695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867706,21.322725,-157.867706,21.322725",
+    "geom:latitude":21.322725,
+    "geom:longitude":-157.867706,
+    "iso:country":"US",
+    "sg:address":"888 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0808",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ja4mcYw4XYDE6EtjWG28g_21.322725_-157.867706@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205573,
+    "wof:geomhash":"a7a90fec4531b2ad3354ccd4f07309f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857652695
+        }
+    ],
+    "wof:id":857652695,
+    "wof:lastmodified":1464205573,
+    "wof:name":"Satoru's Art Gallery",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.867706,
+    21.322725,
+    -157.867706,
+    21.322725
+],
+  "geometry": {"coordinates":[-157.867706,21.322725],"type":"Point"}
+}

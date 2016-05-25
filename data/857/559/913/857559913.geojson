@@ -1,0 +1,75 @@
+{
+  "id": 857559913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745876,21.404829,-157.745876,21.404829",
+    "geom:latitude":21.404829,
+    "geom:longitude":-157.745876,
+    "iso:country":"US",
+    "sg:address":"447 Manono St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 263 3604",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engine",
+        "marine",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yWlVVoNd8qksH3Wiwj4HN_21.404829_-157.745876@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203148,
+    "wof:geomhash":"01892c113741b879f6ac55151dd312a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857559913
+        }
+    ],
+    "wof:id":857559913,
+    "wof:lastmodified":1464203148,
+    "wof:name":"Bob Hoevel Mar Repr Specialist",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "marine",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.745876,
+    21.404829,
+    -157.745876,
+    21.404829
+],
+  "geometry": {"coordinates":[-157.74587600000001,21.404829],"type":"Point"}
+}

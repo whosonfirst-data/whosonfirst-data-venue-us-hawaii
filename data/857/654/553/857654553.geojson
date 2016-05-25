@@ -1,0 +1,71 @@
+{
+  "id": 857654553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.342769,22.094169,-159.342769,22.094169",
+    "geom:latitude":22.094169,
+    "geom:longitude":-159.342769,
+    "iso:country":"US",
+    "sg:address":"5773 Kaapuni Rd",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 1424",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "home",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xmbemFuC0nDq8PcXaatsk_22.094169_-159.342769@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205657,
+    "wof:geomhash":"9c72c619bea69365ff6323c3747aeff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857654553
+        }
+    ],
+    "wof:id":857654553,
+    "wof:lastmodified":1464205657,
+    "wof:name":"Kalanis Construction",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.342769,
+    22.094169,
+    -159.342769,
+    22.094169
+],
+  "geometry": {"coordinates":[-159.342769,22.094169],"type":"Point"}
+}

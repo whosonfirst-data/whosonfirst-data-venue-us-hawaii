@@ -1,0 +1,72 @@
+{
+  "id": 857594111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.005808,21.387456,-158.005808,21.387456",
+    "geom:latitude":21.387456,
+    "geom:longitude":-158.005808,
+    "iso:country":"US",
+    "sg:address":"440 Mokuola St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 6939",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:website":"www.waipahucommunity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ujj7F9PNZzaCeOVSTrOo1_21.387456_-158.005808@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203851,
+    "wof:geomhash":"8d65bec63d7836250b01b115ff3afafa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857594111
+        }
+    ],
+    "wof:id":857594111,
+    "wof:lastmodified":1464203851,
+    "wof:name":"Waipahu Community Association",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.005808,
+    21.387456,
+    -158.005808,
+    21.387456
+],
+  "geometry": {"coordinates":[-158.005808,21.387456],"type":"Point"}
+}

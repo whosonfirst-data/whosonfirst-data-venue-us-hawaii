@@ -1,0 +1,71 @@
+{
+  "id": 857589949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.732807,21.287601,-157.732807,21.287601",
+    "geom:latitude":21.287601,
+    "geom:longitude":-157.732807,
+    "iso:country":"US",
+    "sg:address":"410 Mamaki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 4133",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ETnUcvAIJkV9jn8CLM80C_21.287601_-157.732807@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203758,
+    "wof:geomhash":"d02dd56edff17847eea0cc17d1d7724d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857589949
+        }
+    ],
+    "wof:id":857589949,
+    "wof:lastmodified":1464203758,
+    "wof:name":"Fisher Ried General Contractor",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -157.732807,
+    21.287601,
+    -157.732807,
+    21.287601
+],
+  "geometry": {"coordinates":[-157.73280700000001,21.287601],"type":"Point"}
+}

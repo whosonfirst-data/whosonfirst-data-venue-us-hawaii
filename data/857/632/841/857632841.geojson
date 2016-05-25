@@ -1,0 +1,80 @@
+{
+  "id": 857632841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886379,21.324466,-157.886379,21.324466",
+    "geom:latitude":21.324466,
+    "geom:longitude":-157.886379,
+    "iso:country":"US",
+    "sg:address":"2001 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 4484",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "control",
+        "instrument",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3udui4DoBNkaLMjojiDmvM_21.324466_-157.886379@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204750,
+    "wof:geomhash":"52de617ed225be175c5962869077bd4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857632841
+        }
+    ],
+    "wof:id":857632841,
+    "wof:lastmodified":1464204750,
+    "wof:name":"American Controls & Equipment",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "instrument",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -157.886379,
+    21.324466,
+    -157.886379,
+    21.324466
+],
+  "geometry": {"coordinates":[-157.88637900000001,21.324466],"type":"Point"}
+}

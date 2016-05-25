@@ -1,0 +1,71 @@
+{
+  "id": 857679289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867251,21.33339,-157.867251,21.33339",
+    "geom:latitude":21.33339,
+    "geom:longitude":-157.867251,
+    "iso:country":"US",
+    "sg:address":"1426 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 9938",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ezlk9LoYhfkD9Dw6Le63N_21.333390_-157.867251@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206702,
+    "wof:geomhash":"c79c11e7893bb7cf984506fee0003b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857679289
+        }
+    ],
+    "wof:id":857679289,
+    "wof:lastmodified":1464206702,
+    "wof:name":"Impressions Ink",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.867251,
+    21.33339,
+    -157.867251,
+    21.33339
+],
+  "geometry": {"coordinates":[-157.86725100000001,21.33339],"type":"Point"}
+}

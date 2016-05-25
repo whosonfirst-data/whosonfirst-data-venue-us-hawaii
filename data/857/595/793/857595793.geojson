@@ -1,0 +1,73 @@
+{
+  "id": 857595793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.691535,21.290156,-157.691535,21.290156",
+    "geom:latitude":21.290156,
+    "geom:longitude":-157.691535,
+    "iso:country":"US",
+    "sg:address":"711 Kalalea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 221 9146",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0820B1wXbqzpOe2ddvUq5d_21.290156_-157.691535@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203890,
+    "wof:geomhash":"8419a30825327cba4c4860ea20e94a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857595793
+        }
+    ],
+    "wof:id":857595793,
+    "wof:lastmodified":1464203890,
+    "wof:name":"Below Sea Level Records",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -157.691535,
+    21.290156,
+    -157.691535,
+    21.290156
+],
+  "geometry": {"coordinates":[-157.69153499999999,21.290156],"type":"Point"}
+}

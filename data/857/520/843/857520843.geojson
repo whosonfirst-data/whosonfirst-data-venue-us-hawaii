@@ -1,0 +1,66 @@
+{
+  "id": 857520843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.868991,21.325134,-157.868991,21.325134",
+    "geom:latitude":21.325134,
+    "geom:longitude":-157.868991,
+    "iso:country":"US",
+    "sg:address":"1136 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 1711",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IwReEbd0ak8VWROgJZ1aE_21.325134_-157.868991@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202369,
+    "wof:geomhash":"cd262f5f07e34878e71288b4a9c96874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857520843
+        }
+    ],
+    "wof:id":857520843,
+    "wof:lastmodified":1464202369,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.868991,
+    21.325134,
+    -157.868991,
+    21.325134
+],
+  "geometry": {"coordinates":[-157.86899099999999,21.325134],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857538721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.176659,21.414312,-158.176659,21.414312",
+    "geom:latitude":21.414312,
+    "geom:longitude":-158.176659,
+    "iso:country":"US",
+    "sg:address":"520 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 7209",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xoVolQ0s5t0Q47fWgnyb9_21.414312_-158.176659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202712,
+    "wof:geomhash":"3494e7609bf43fe96e40a009859275eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857538721
+        }
+    ],
+    "wof:id":857538721,
+    "wof:lastmodified":1464202712,
+    "wof:name":"7-Ms Auto Care Home Service",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.176659,
+    21.414312,
+    -158.176659,
+    21.414312
+],
+  "geometry": {"coordinates":[-158.176659,21.414312],"type":"Point"}
+}

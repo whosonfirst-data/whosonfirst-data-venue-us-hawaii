@@ -1,0 +1,75 @@
+{
+  "id": 857649359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.918821,21.337595,-157.918821,21.337595",
+    "geom:latitude":21.337595,
+    "geom:longitude":-157.918821,
+    "iso:country":"US",
+    "sg:address":"3599 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 9608",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mail",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29TSaEOesNnMQ7EmoWKQz1_21.337595_-157.918821@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205430,
+    "wof:geomhash":"6939d5eee8a59f080690815224daf143",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857649359
+        }
+    ],
+    "wof:id":857649359,
+    "wof:lastmodified":1464205430,
+    "wof:name":"US Customs Mail Facility",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "facility"
+    ]
+},
+  "bbox": [
+    -157.918821,
+    21.337595,
+    -157.918821,
+    21.337595
+],
+  "geometry": {"coordinates":[-157.91882100000001,21.337595],"type":"Point"}
+}

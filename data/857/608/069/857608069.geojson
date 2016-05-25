@@ -1,0 +1,71 @@
+{
+  "id": 857608069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.850226,21.311107,-157.850226,21.311107",
+    "geom:latitude":21.311107,
+    "geom:longitude":-157.850226,
+    "iso:country":"US",
+    "sg:address":"1563 Pele St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 7235",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LtOmAFOWcnySfrUvQCpp7_21.311107_-157.850226@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204167,
+    "wof:geomhash":"274aea2dee258d3130cd19439e57d8d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857608069
+        }
+    ],
+    "wof:id":857608069,
+    "wof:lastmodified":1464204167,
+    "wof:name":"Nguyen Son Van",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.850226,
+    21.311107,
+    -157.850226,
+    21.311107
+],
+  "geometry": {"coordinates":[-157.85022599999999,21.311107],"type":"Point"}
+}

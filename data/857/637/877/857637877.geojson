@@ -1,0 +1,71 @@
+{
+  "id": 857637877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857861,21.324228,-157.857861,21.324228",
+    "geom:latitude":21.324228,
+    "geom:longitude":-157.857861,
+    "iso:country":"US",
+    "sg:address":"512 N Kuakini St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 3092",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2joCDIPxbHsl1kZiTLNVMK_21.324228_-157.857861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204936,
+    "wof:geomhash":"d1ee3c9be325f77bf636c1c43a8a8c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857637877
+        }
+    ],
+    "wof:id":857637877,
+    "wof:lastmodified":1464204936,
+    "wof:name":"Cut Rite Barber Shop",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.857861,
+    21.324228,
+    -157.857861,
+    21.324228
+],
+  "geometry": {"coordinates":[-157.85786100000001,21.324228],"type":"Point"}
+}

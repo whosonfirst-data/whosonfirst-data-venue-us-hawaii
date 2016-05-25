@@ -1,0 +1,73 @@
+{
+  "id": 857612543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857999,21.314096,-157.857999,21.314096",
+    "geom:latitude":21.314096,
+    "geom:longitude":-157.857999,
+    "iso:country":"US",
+    "sg:address":"1325 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 2784",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_605zrSbICwlfE1Ri68gtVf_21.314096_-157.857999@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204268,
+    "wof:geomhash":"e4b3c49e24ac38889e69eadb74ca23d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857612543
+        }
+    ],
+    "wof:id":857612543,
+    "wof:lastmodified":1464204268,
+    "wof:name":"Urata Music Studio",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -157.857999,
+    21.314096,
+    -157.857999,
+    21.314096
+],
+  "geometry": {"coordinates":[-157.85799900000001,21.314096],"type":"Point"}
+}

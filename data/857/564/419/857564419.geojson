@@ -1,0 +1,74 @@
+{
+  "id": 857564419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.088748,21.37092,-158.088748,21.37092",
+    "geom:latitude":21.37092,
+    "geom:longitude":-158.088748,
+    "iso:country":"US",
+    "sg:address":"1207 Mekila St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 8460",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "sg:website":"www.manuwaplumbing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HtTQL76NzmkRuRSfgN9Qq_21.370920_-158.088748@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203245,
+    "wof:geomhash":"a8ea72434a0b1ccf9e54a53bf95f1504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857564419
+        }
+    ],
+    "wof:id":857564419,
+    "wof:lastmodified":1464203245,
+    "wof:name":"Manuwa Plumbing Inc",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.088748,
+    21.37092,
+    -158.088748,
+    21.37092
+],
+  "geometry": {"coordinates":[-158.08874800000001,21.37092],"type":"Point"}
+}

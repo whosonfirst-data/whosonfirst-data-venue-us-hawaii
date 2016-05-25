@@ -1,0 +1,74 @@
+{
+  "id": 857669533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798762,21.399173,-157.798762,21.399173",
+    "geom:latitude":21.399173,
+    "geom:longitude":-157.798762,
+    "iso:country":"US",
+    "sg:address":"568 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 6568",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.kaneohesubaru.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85828775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QZalWlohakKazc2cR194r_21.399173_-157.798762@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206321,
+    "wof:geomhash":"1df4f2ddb89c164888eeba9380191da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85828775,
+            "region_id":85688671,
+            "venue_id":857669533
+        }
+    ],
+    "wof:id":857669533,
+    "wof:lastmodified":1464206321,
+    "wof:name":"Kaneohe Subaru",
+    "wof:parent_id":85828775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -157.798762,
+    21.399173,
+    -157.798762,
+    21.399173
+],
+  "geometry": {"coordinates":[-157.79876200000001,21.399173],"type":"Point"}
+}

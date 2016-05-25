@@ -1,0 +1,72 @@
+{
+  "id": 857550887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.711856,21.285862,-157.711856,21.285862",
+    "geom:latitude":21.285862,
+    "geom:longitude":-157.711856,
+    "iso:country":"US",
+    "sg:address":"379 Opihikao Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 5006",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.hnlnews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ayEORhBVVFClGJM9JGc2R_21.285862_-157.711856@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202947,
+    "wof:geomhash":"fe155d873c11bff5d9c8e62e12f5a59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857550887
+        }
+    ],
+    "wof:id":857550887,
+    "wof:lastmodified":1464202947,
+    "wof:name":"Honolulu News",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -157.711856,
+    21.285862,
+    -157.711856,
+    21.285862
+],
+  "geometry": {"coordinates":[-157.71185600000001,21.285862],"type":"Point"}
+}

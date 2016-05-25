@@ -1,0 +1,73 @@
+{
+  "id": 857523919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.996281,21.702662,-157.996281,21.702662",
+    "geom:latitude":21.702662,
+    "geom:longitude":-157.996281,
+    "iso:country":"US",
+    "sg:address":"49 Kuilima Dr",
+    "sg:city":"Kahuku",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 293 2662",
+    "sg:postcode":"96731",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood",
+        "steak"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937581,
+        102085417,
+        85827837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z7iz5ZY91OV6Z1ar6tEqD_21.702662_-157.996281@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202428,
+    "wof:geomhash":"02d6d0bc6edda93be220c203e951f941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937581,
+            "neighbourhood_id":85827837,
+            "region_id":85688671,
+            "venue_id":857523919
+        }
+    ],
+    "wof:id":857523919,
+    "wof:lastmodified":1464202428,
+    "wof:name":"Lei Leis Bar & Grill",
+    "wof:parent_id":85827837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "steak"
+    ]
+},
+  "bbox": [
+    -157.996281,
+    21.702662,
+    -157.996281,
+    21.702662
+],
+  "geometry": {"coordinates":[-157.99628100000001,21.702662],"type":"Point"}
+}

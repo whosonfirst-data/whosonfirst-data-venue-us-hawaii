@@ -1,0 +1,74 @@
+{
+  "id": 857637887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832238,21.310699,-157.832238,21.310699",
+    "geom:latitude":21.310699,
+    "geom:longitude":-157.832238,
+    "iso:country":"US",
+    "sg:address":"2131 Makiki Heights Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 955 0100",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.hawaiinaturecenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dgvwXrKIlLSk7HrRnF2Fu_21.310699_-157.832238@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204936,
+    "wof:geomhash":"0cd72ae6ee045ba06d2d9d662fde2c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857637887
+        }
+    ],
+    "wof:id":857637887,
+    "wof:lastmodified":1464204936,
+    "wof:name":"Hawaii Nature Ctr",
+    "wof:parent_id":85872711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -157.832238,
+    21.310699,
+    -157.832238,
+    21.310699
+],
+  "geometry": {"coordinates":[-157.83223799999999,21.310699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857571863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83094,21.297783,-157.83094,21.297783",
+    "geom:latitude":21.297783,
+    "geom:longitude":-157.83094,
+    "iso:country":"US",
+    "sg:address":"1210 Artesian St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 8722",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WXyvJftgnAb4C3HrrbMX2_21.297783_-157.830940@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203386,
+    "wof:geomhash":"64d35e8cc28a96fc386df9d5b9f3463e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857571863
+        }
+    ],
+    "wof:id":857571863,
+    "wof:lastmodified":1464203386,
+    "wof:name":"Akamai Learning Ctr",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -157.83094,
+    21.297783,
+    -157.83094,
+    21.297783
+],
+  "geometry": {"coordinates":[-157.83094,21.297783],"type":"Point"}
+}

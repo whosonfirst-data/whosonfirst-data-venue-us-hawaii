@@ -1,0 +1,73 @@
+{
+  "id": 857635541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.920198,21.397544,-157.920198,21.397544",
+    "geom:latitude":21.397544,
+    "geom:longitude":-157.920198,
+    "iso:country":"US",
+    "sg:address":"1109 Malualua St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 5878",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GZ8CRDObWT10dylktvaR9_21.397544_-157.920198@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204851,
+    "wof:geomhash":"c58626e9b0c43ebea11f1f5038ec8b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857635541
+        }
+    ],
+    "wof:id":857635541,
+    "wof:lastmodified":1464204851,
+    "wof:name":"Heddys Beauty Hideaway",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -157.920198,
+    21.397544,
+    -157.920198,
+    21.397544
+],
+  "geometry": {"coordinates":[-157.920198,21.397544],"type":"Point"}
+}

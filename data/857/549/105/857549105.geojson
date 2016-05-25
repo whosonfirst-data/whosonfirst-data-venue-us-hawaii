@@ -1,0 +1,73 @@
+{
+  "id": 857549105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.881971,21.372395,-157.881971,21.372395",
+    "geom:latitude":21.372395,
+    "geom:longitude":-157.881971,
+    "iso:country":"US",
+    "sg:address":"1836 Ala Noe Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 853 1111",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85868437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kfgDHCvdotP84K5uvBQbE_21.372395_-157.881971@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202914,
+    "wof:geomhash":"7bd39edd8f1b50c28e72b6a2b5bb8b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85868437,
+            "region_id":85688671,
+            "venue_id":857549105
+        }
+    ],
+    "wof:id":857549105,
+    "wof:lastmodified":1464202914,
+    "wof:name":"Sanitec Services Of Hawaii",
+    "wof:parent_id":85868437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -157.881971,
+    21.372395,
+    -157.881971,
+    21.372395
+],
+  "geometry": {"coordinates":[-157.88197099999999,21.372395],"type":"Point"}
+}

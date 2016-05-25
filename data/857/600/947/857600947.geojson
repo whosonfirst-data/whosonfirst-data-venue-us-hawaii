@@ -1,0 +1,71 @@
+{
+  "id": 857600947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.295365,20.888313,-156.295365,20.888313",
+    "geom:latitude":20.888313,
+    "geom:longitude":-156.295365,
+    "iso:country":"US",
+    "sg:address":"900 Kaupakalua Rd",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 8036",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UH8h8ob0f9YRtajxU37qt_20.888313_-156.295365@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204006,
+    "wof:geomhash":"8f76cacca29d39317feac9e92376374b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857600947
+        }
+    ],
+    "wof:id":857600947,
+    "wof:lastmodified":1464204006,
+    "wof:name":"Kapalua Land Company Ltd",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -156.295365,
+    20.888313,
+    -156.295365,
+    20.888313
+],
+  "geometry": {"coordinates":[-156.295365,20.888313],"type":"Point"}
+}

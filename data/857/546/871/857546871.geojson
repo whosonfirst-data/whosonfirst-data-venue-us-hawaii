@@ -1,0 +1,71 @@
+{
+  "id": 857546871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.792519,21.265865,-157.792519,21.265865",
+    "geom:latitude":21.265865,
+    "geom:longitude":-157.792519,
+    "iso:country":"US",
+    "sg:address":"4244 Huanui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 4604",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g1xbAyPuPStzD1VAj9gwF_21.265865_-157.792519@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202872,
+    "wof:geomhash":"537c9905aa94fd3410ce51029abb5bab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827711,
+            "region_id":85688671,
+            "venue_id":857546871
+        }
+    ],
+    "wof:id":857546871,
+    "wof:lastmodified":1464202872,
+    "wof:name":"Walter S F Lung Inc",
+    "wof:parent_id":85827711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -157.792519,
+    21.265865,
+    -157.792519,
+    21.265865
+],
+  "geometry": {"coordinates":[-157.792519,21.265865],"type":"Point"}
+}

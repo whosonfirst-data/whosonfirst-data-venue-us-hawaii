@@ -1,0 +1,73 @@
+{
+  "id": 857537173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.860934,21.297931,-157.860934,21.297931",
+    "geom:latitude":21.297931,
+    "geom:longitude":-157.860934,
+    "iso:country":"US",
+    "sg:address":"330 Coral St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 5535",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lDFhEYeArFRJ2iQDCs4Z7_21.297931_-157.860934@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202684,
+    "wof:geomhash":"12788f9e4d5476793b736a3d1bb65b67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857537173
+        }
+    ],
+    "wof:id":857537173,
+    "wof:lastmodified":1464202684,
+    "wof:name":"Kokua Travel Svc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -157.860934,
+    21.297931,
+    -157.860934,
+    21.297931
+],
+  "geometry": {"coordinates":[-157.86093399999999,21.297931],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857625681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.914854,21.37238,-157.914854,21.37238",
+    "geom:latitude":21.37238,
+    "geom:longitude":-157.914854,
+    "iso:country":"US",
+    "sg:address":"840 Iwaiwa St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 2193",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.anisbakeshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L8OV4hbQbs4CS421C7dwd_21.372380_-157.914854@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204576,
+    "wof:geomhash":"36cf3f7eb27d63609a2796960ab61959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857625681
+        }
+    ],
+    "wof:id":857625681,
+    "wof:lastmodified":1464204576,
+    "wof:name":"Ani's Bake Shop",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.914854,
+    21.37238,
+    -157.914854,
+    21.37238
+],
+  "geometry": {"coordinates":[-157.91485399999999,21.37238],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857641945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880179,21.338805,-157.880179,21.338805",
+    "geom:latitude":21.338805,
+    "geom:longitude":-157.880179,
+    "iso:country":"US",
+    "sg:address":"2305 Kahauiki St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6444",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zVTFtIZ1VR4lW7wi3Qxw7_21.338805_-157.880179@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205097,
+    "wof:geomhash":"784e680106d1badb0b60c98f56f3682f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857641945
+        }
+    ],
+    "wof:id":857641945,
+    "wof:lastmodified":1464205097,
+    "wof:name":"Masonry Institute Of Hawaii",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -157.880179,
+    21.338805,
+    -157.880179,
+    21.338805
+],
+  "geometry": {"coordinates":[-157.880179,21.338805],"type":"Point"}
+}

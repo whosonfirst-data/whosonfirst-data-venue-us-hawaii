@@ -1,0 +1,66 @@
+{
+  "id": 857632179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.466545,20.888524,-156.466545,20.888524",
+    "geom:latitude":20.888524,
+    "geom:longitude":-156.466545,
+    "iso:country":"US",
+    "sg:address":"10 W Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 2402",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MjMqG6Uw2GJShlvDosm2Z_20.888524_-156.466545@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204720,
+    "wof:geomhash":"62e4afbd6fed5db0c939014617f112b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857632179
+        }
+    ],
+    "wof:id":857632179,
+    "wof:lastmodified":1464204720,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.466545,
+    20.888524,
+    -156.466545,
+    20.888524
+],
+  "geometry": {"coordinates":[-156.466545,20.888524],"type":"Point"}
+}

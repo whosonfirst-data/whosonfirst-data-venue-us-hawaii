@@ -1,0 +1,75 @@
+{
+  "id": 857652727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.939759,21.38206,-157.939759,21.38206",
+    "geom:latitude":21.38206,
+    "geom:longitude":-157.939759,
+    "iso:country":"US",
+    "sg:address":"151 Pali Momi St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 3331",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09cw0wxiymhZ1n7DbKpwjN_21.382060_-157.939759@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205575,
+    "wof:geomhash":"84f84048c2a1ed087c4fd0ef811dbaf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857652727
+        }
+    ],
+    "wof:id":857652727,
+    "wof:lastmodified":1464205575,
+    "wof:name":"US Army Recruiting",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -157.939759,
+    21.38206,
+    -157.939759,
+    21.38206
+],
+  "geometry": {"coordinates":[-157.93975900000001,21.38206],"type":"Point"}
+}

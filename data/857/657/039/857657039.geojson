@@ -1,0 +1,73 @@
+{
+  "id": 857657039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.210141,21.464777,-158.210141,21.464777",
+    "geom:latitude":21.464777,
+    "geom:longitude":-158.210141,
+    "iso:country":"US",
+    "sg:address":"946 Hanalei St",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 695 9097",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sUmEmPYme31uhVjYV8KMz_21.464777_-158.210141@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205769,
+    "wof:geomhash":"0e8cdba6e7bd818a62fb83637b3e5074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857657039
+        }
+    ],
+    "wof:id":857657039,
+    "wof:lastmodified":1464205769,
+    "wof:name":"Mkd Enterprises Trucking",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.210141,
+    21.464777,
+    -158.210141,
+    21.464777
+],
+  "geometry": {"coordinates":[-158.21014099999999,21.464777],"type":"Point"}
+}

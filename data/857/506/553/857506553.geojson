@@ -1,0 +1,69 @@
+{
+  "id": 857506553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.671083,20.889109,-156.671083,20.889109",
+    "geom:latitude":20.889109,
+    "geom:longitude":-156.671083,
+    "iso:country":"US",
+    "sg:address":"916 N Hakau Pl",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 0881",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890535,
+        102085577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fQNQFdjRpADiIsAbf5QU8_20.889109_-156.671083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202070,
+    "wof:geomhash":"553c6f727d4c85425a89b6838cb4816f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "neighbourhood_id":85890535,
+            "region_id":85688671,
+            "venue_id":857506553
+        }
+    ],
+    "wof:id":857506553,
+    "wof:lastmodified":1464202070,
+    "wof:name":"Rainbow Taxi",
+    "wof:parent_id":85890535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -156.671083,
+    20.889109,
+    -156.671083,
+    20.889109
+],
+  "geometry": {"coordinates":[-156.67108300000001,20.889109],"type":"Point"}
+}

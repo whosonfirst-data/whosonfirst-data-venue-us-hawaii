@@ -1,0 +1,72 @@
+{
+  "id": 857680591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.068089,21.345813,-158.068089,21.345813",
+    "geom:latitude":21.345813,
+    "geom:longitude":-158.068089,
+    "iso:country":"US",
+    "sg:address":"591 Farrington Hwy",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/180342-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 674 9607",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_193SwDkb9IfV9st3sVozJE_21.345813_-158.068089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206749,
+    "wof:geomhash":"5adf299e4d07ffd4d04d25259351477a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857680591
+        }
+    ],
+    "wof:id":857680591,
+    "wof:lastmodified":1464206749,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.068089,
+    21.345813,
+    -158.068089,
+    21.345813
+],
+  "geometry": {"coordinates":[-158.06808899999999,21.345813],"type":"Point"}
+}

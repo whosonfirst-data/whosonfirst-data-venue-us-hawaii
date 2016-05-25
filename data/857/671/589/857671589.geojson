@@ -1,0 +1,73 @@
+{
+  "id": 857671589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820034,21.296241,-157.820034,21.296241",
+    "geom:latitude":21.296241,
+    "geom:longitude":-157.820034,
+    "iso:country":"US",
+    "sg:address":"1460 Lower Campus Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 7734",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KBv65bgtbuBRSQdhzV48o_21.296241_-157.820034@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206395,
+    "wof:geomhash":"5449b3cc378c7da7191429409454be81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857671589
+        }
+    ],
+    "wof:id":857671589,
+    "wof:lastmodified":1464206395,
+    "wof:name":"Air Force ROTC",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -157.820034,
+    21.296241,
+    -157.820034,
+    21.296241
+],
+  "geometry": {"coordinates":[-157.82003399999999,21.296241],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857651057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.969121,21.396476,-157.969121,21.396476",
+    "geom:latitude":21.396476,
+    "geom:longitude":-157.969121,
+    "iso:country":"US",
+    "sg:address":"1100 Waimano Home Rd",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 9055",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.honolulupd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WIpMOt8SIpbzAic5G5XfX_21.396476_-157.969121@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205497,
+    "wof:geomhash":"1cfdd4e8b3699514b23152fad319326f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857651057
+        }
+    ],
+    "wof:id":857651057,
+    "wof:lastmodified":1464205497,
+    "wof:name":"Pearl City Police Station Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -157.969121,
+    21.396476,
+    -157.969121,
+    21.396476
+],
+  "geometry": {"coordinates":[-157.969121,21.396476],"type":"Point"}
+}

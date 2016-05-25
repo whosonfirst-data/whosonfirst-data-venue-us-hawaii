@@ -1,0 +1,73 @@
+{
+  "id": 857609049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.751767,21.278372,-157.751767,21.278372",
+    "geom:latitude":21.278372,
+    "geom:longitude":-157.751767,
+    "iso:country":"US",
+    "sg:address":"182 Nenue St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 3111",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LFk5ejQrv5xOqzsEkFnlj_21.278372_-157.751767@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204188,
+    "wof:geomhash":"5b16902157632ae914c63e2df40d8214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857609049
+        }
+    ],
+    "wof:id":857609049,
+    "wof:lastmodified":1464204188,
+    "wof:name":"Towncar Leasing Inc",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -157.751767,
+    21.278372,
+    -157.751767,
+    21.278372
+],
+  "geometry": {"coordinates":[-157.751767,21.278372],"type":"Point"}
+}

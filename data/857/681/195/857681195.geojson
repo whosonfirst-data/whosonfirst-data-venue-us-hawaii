@@ -1,0 +1,70 @@
+{
+  "id": 857681195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001949,21.42626,-158.001949,21.42626",
+    "geom:latitude":21.42626,
+    "geom:longitude":-158.001949,
+    "iso:country":"US",
+    "sg:address":"94-1201 Ka Uka Blvd",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/104854-taco-del-mar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 1117",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59dysht7h5BbcuOWi7icFs_21.426260_-158.001949@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206775,
+    "wof:geomhash":"39e7355c6d15703ef614efc921ffc715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857681195
+        }
+    ],
+    "wof:id":857681195,
+    "wof:lastmodified":1464206775,
+    "wof:name":"Taco Del Mar",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -158.001949,
+    21.42626,
+    -158.001949,
+    21.42626
+],
+  "geometry": {"coordinates":[-158.001949,21.42626],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857635505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876771,21.302649,-157.876771,21.302649",
+    "geom:latitude":21.302649,
+    "geom:longitude":-157.876771,
+    "iso:country":"US",
+    "sg:address":"50 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 2026",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1exwxWiNqddTYRvuYpR8K1_21.302649_-157.876771@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204850,
+    "wof:geomhash":"4c00e01ed7c5145d47597b6740c24c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857635505
+        }
+    ],
+    "wof:id":857635505,
+    "wof:lastmodified":1464204850,
+    "wof:name":"Transmission Hotline Inc",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -157.876771,
+    21.302649,
+    -157.876771,
+    21.302649
+],
+  "geometry": {"coordinates":[-157.87677099999999,21.302649],"type":"Point"}
+}

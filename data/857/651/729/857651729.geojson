@@ -1,0 +1,71 @@
+{
+  "id": 857651729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.458041,20.883503,-156.458041,20.883503",
+    "geom:latitude":20.883503,
+    "geom:longitude":-156.458041,
+    "iso:country":"US",
+    "sg:address":"270 Lalo St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 2665",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kxqVLIXPscrIjH4HrasgF_20.883503_-156.458041@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205532,
+    "wof:geomhash":"fd321c97c4834da2a23604fef974b159",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857651729
+        }
+    ],
+    "wof:id":857651729,
+    "wof:lastmodified":1464205532,
+    "wof:name":"Scotts Refrigeration Htg & A/C",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.458041,
+    20.883503,
+    -156.458041,
+    20.883503
+],
+  "geometry": {"coordinates":[-156.45804100000001,20.883503],"type":"Point"}
+}

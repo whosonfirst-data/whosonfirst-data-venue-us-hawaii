@@ -1,0 +1,71 @@
+{
+  "id": 857649957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028549,21.492893,-158.028549,21.492893",
+    "geom:latitude":21.492893,
+    "geom:longitude":-158.028549,
+    "iso:country":"US",
+    "sg:address":"217 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1040",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YQXco9eM8uyeXv4LIXBRc_21.492893_-158.028549@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205459,
+    "wof:geomhash":"2b37ba91fcdc8441e444114e7509f93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857649957
+        }
+    ],
+    "wof:id":857649957,
+    "wof:lastmodified":1464205459,
+    "wof:name":"213 Speed Garage Inc",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -158.028549,
+    21.492893,
+    -158.028549,
+    21.492893
+],
+  "geometry": {"coordinates":[-158.028549,21.492893],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857594993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832231,21.295573,-157.832231,21.295573",
+    "geom:latitude":21.295573,
+    "geom:longitude":-157.832231,
+    "iso:country":"US",
+    "sg:address":"1857 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 2757",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vl5txvOv24h6iOhBvxQbs_21.295573_-157.832231@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203873,
+    "wof:geomhash":"aaa0cd2139fa738887c314767a97c7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857594993
+        }
+    ],
+    "wof:id":857594993,
+    "wof:lastmodified":1464203873,
+    "wof:name":"Realty Factors Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales"
+    ]
+},
+  "bbox": [
+    -157.832231,
+    21.295573,
+    -157.832231,
+    21.295573
+],
+  "geometry": {"coordinates":[-157.83223100000001,21.295573],"type":"Point"}
+}

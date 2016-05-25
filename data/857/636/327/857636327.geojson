@@ -1,0 +1,75 @@
+{
+  "id": 857636327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.825503,21.293021,-157.825503,21.293021",
+    "geom:latitude":21.293021,
+    "geom:longitude":-157.825503,
+    "iso:country":"US",
+    "sg:address":"905 Isenberg St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 941 9955",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n8JAPtLZZrwRPKrgl9V2u_21.293021_-157.825503@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204880,
+    "wof:geomhash":"a7c7400edef29b20dc7940986ec82458",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857636327
+        }
+    ],
+    "wof:id":857636327,
+    "wof:lastmodified":1464204880,
+    "wof:name":"Frank's Auto Paint Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.825503,
+    21.293021,
+    -157.825503,
+    21.293021
+],
+  "geometry": {"coordinates":[-157.825503,21.293021],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857680981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.63791,21.005899,-156.63791,21.005899",
+    "geom:latitude":21.005899,
+    "geom:longitude":-156.63791,
+    "iso:country":"US",
+    "sg:address":"2000 Plantation Club Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/268555-the-plantation-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 6299",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937677,
+        102085577,
+        85890521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12wm4SrvvuIfSiY8VcQSzd_21.005899_-156.637910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206764,
+    "wof:geomhash":"e30080003e79fa142763b3c4a63f55d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937677,
+            "neighbourhood_id":85890521,
+            "region_id":85688671,
+            "venue_id":857680981
+        }
+    ],
+    "wof:id":857680981,
+    "wof:lastmodified":1464206764,
+    "wof:name":"The Plantation House",
+    "wof:parent_id":85890521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -156.63791,
+    21.005899,
+    -156.63791,
+    21.005899
+],
+  "geometry": {"coordinates":[-156.63791000000001,21.005899],"type":"Point"}
+}

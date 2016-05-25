@@ -1,0 +1,71 @@
+{
+  "id": 857595309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800276,21.414154,-157.800276,21.414154",
+    "geom:latitude":21.414154,
+    "geom:longitude":-157.800276,
+    "iso:country":"US",
+    "sg:address":"955 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 2629",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rAfAPKoaQnmCA6Ii4extm_21.414154_-157.800276@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203879,
+    "wof:geomhash":"46a260323e42876935e32d1dc4d19029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857595309
+        }
+    ],
+    "wof:id":857595309,
+    "wof:lastmodified":1464203879,
+    "wof:name":"Mc Peak Claims Svc Inc",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -157.800276,
+    21.414154,
+    -157.800276,
+    21.414154
+],
+  "geometry": {"coordinates":[-157.800276,21.414154],"type":"Point"}
+}

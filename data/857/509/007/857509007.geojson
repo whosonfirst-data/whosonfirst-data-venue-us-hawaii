@@ -1,0 +1,73 @@
+{
+  "id": 857509007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.454729,20.887067,-156.454729,20.887067",
+    "geom:latitude":20.887067,
+    "geom:longitude":-156.454729,
+    "iso:country":"US",
+    "sg:address":"425 Koloa St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 3611",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfing",
+        "wind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1snXCvaN7NCEJOk3mG9WJj_20.887067_-156.454729@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202124,
+    "wof:geomhash":"7533a24933b9006dcead82f39cded005",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857509007
+        }
+    ],
+    "wof:id":857509007,
+    "wof:lastmodified":1464202124,
+    "wof:name":"Wind & Surf Report",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfing",
+        "wind"
+    ]
+},
+  "bbox": [
+    -156.454729,
+    20.887067,
+    -156.454729,
+    20.887067
+],
+  "geometry": {"coordinates":[-156.45472899999999,20.887067],"type":"Point"}
+}

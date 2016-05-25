@@ -1,0 +1,73 @@
+{
+  "id": 857519633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833143,21.457691,-157.833143,21.457691",
+    "geom:latitude":21.457691,
+    "geom:longitude":-157.833143,
+    "iso:country":"US",
+    "sg:address":"101 Lulani Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 239 5584",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "heavy",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937673,
+        102085417,
+        85890377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1katgYx0Ujwt2Bs0ChwmPK_21.457691_-157.833143@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202343,
+    "wof:geomhash":"3303e50f428334ee7184015fcb89be1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937673,
+            "neighbourhood_id":85890377,
+            "region_id":85688671,
+            "venue_id":857519633
+        }
+    ],
+    "wof:id":857519633,
+    "wof:lastmodified":1464202343,
+    "wof:name":"Vertical Technologies",
+    "wof:parent_id":85890377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "rent"
+    ]
+},
+  "bbox": [
+    -157.833143,
+    21.457691,
+    -157.833143,
+    21.457691
+],
+  "geometry": {"coordinates":[-157.83314300000001,21.457691],"type":"Point"}
+}

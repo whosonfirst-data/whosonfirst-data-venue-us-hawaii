@@ -1,0 +1,71 @@
+{
+  "id": 857640479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.794248,21.279926,-157.794248,21.279926",
+    "geom:latitude":21.279926,
+    "geom:longitude":-157.794248,
+    "iso:country":"US",
+    "sg:address":"1119 16th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 255 1533",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JP78YpjQpw1DFsvjfPCIJ_21.279926_-157.794248@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205044,
+    "wof:geomhash":"35f65d8170541e37affc5de4e5c6e982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857640479
+        }
+    ],
+    "wof:id":857640479,
+    "wof:lastmodified":1464205044,
+    "wof:name":"Design Systems International",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -157.794248,
+    21.279926,
+    -157.794248,
+    21.279926
+],
+  "geometry": {"coordinates":[-157.79424800000001,21.279926],"type":"Point"}
+}

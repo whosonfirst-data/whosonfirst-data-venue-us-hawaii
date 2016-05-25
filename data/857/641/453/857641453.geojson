@@ -1,0 +1,71 @@
+{
+  "id": 857641453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.928657,21.375493,-157.928657,21.375493",
+    "geom:latitude":21.375493,
+    "geom:longitude":-157.928657,
+    "iso:country":"US",
+    "sg:address":"370 Moanalua Rd",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 483 7200",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YlkumlQpQfsQwLxtcShiw_21.375493_-157.928657@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205078,
+    "wof:geomhash":"d26cb748603368a1c1d494c63cd4c1ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857641453
+        }
+    ],
+    "wof:id":857641453,
+    "wof:lastmodified":1464205078,
+    "wof:name":"Aiea Elementary School",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.928657,
+    21.375493,
+    -157.928657,
+    21.375493
+],
+  "geometry": {"coordinates":[-157.92865699999999,21.375493],"type":"Point"}
+}

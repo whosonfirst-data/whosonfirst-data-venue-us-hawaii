@@ -1,0 +1,85 @@
+{
+  "id": 857635107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916337,21.316309,-157.916337,21.316309",
+    "geom:latitude":21.316309,
+    "geom:longitude":-157.916337,
+    "iso:country":"US",
+    "sg:address":"110 Pohakulana Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 9032",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cVRz4kErtDNCD86zTnOt0_21.316309_-157.916337@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204836,
+    "wof:geomhash":"7260edf8160276b70e276028a74759e3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857635107
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857635107
+        }
+    ],
+    "wof:id":857635107,
+    "wof:lastmodified":1464204836,
+    "wof:name":"Sky Chefs Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    -157.916337,
+    21.316309,
+    -157.916337,
+    21.316309
+],
+  "geometry": {"coordinates":[-157.916337,21.316309],"type":"Point"}
+}

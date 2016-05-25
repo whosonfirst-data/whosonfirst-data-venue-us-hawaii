@@ -1,0 +1,73 @@
+{
+  "id": 857661089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.020187,21.43454,-158.020187,21.43454",
+    "geom:latitude":21.43454,
+    "geom:longitude":-158.020187,
+    "iso:country":"US",
+    "sg:address":"326 Nanamua Pl",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 5290",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FOFTMWeYuZwihMoK1XMWq_21.434540_-158.020187@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205967,
+    "wof:geomhash":"f46d59d2785ff0e0ee5fdec3afe21776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857661089
+        }
+    ],
+    "wof:id":857661089,
+    "wof:lastmodified":1464205967,
+    "wof:name":"Jmi Dental Lab",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -158.020187,
+    21.43454,
+    -158.020187,
+    21.43454
+],
+  "geometry": {"coordinates":[-158.02018699999999,21.43454],"type":"Point"}
+}

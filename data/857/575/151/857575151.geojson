@@ -1,0 +1,73 @@
+{
+  "id": 857575151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.752464,21.414819,-157.752464,21.414819",
+    "geom:latitude":21.414819,
+    "geom:longitude":-157.752464,
+    "iso:country":"US",
+    "sg:address":"551 Iliaina St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 254 8561",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7n1Dbwk6obTzLLKhEx6CZb_21.414819_-157.752464@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203453,
+    "wof:geomhash":"02fa548a2a84269ed2e901d21e9c1afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857575151
+        }
+    ],
+    "wof:id":857575151,
+    "wof:lastmodified":1464203453,
+    "wof:name":"Tropical Toms",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -157.752464,
+    21.414819,
+    -157.752464,
+    21.414819
+],
+  "geometry": {"coordinates":[-157.752464,21.414819],"type":"Point"}
+}

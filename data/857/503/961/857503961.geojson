@@ -1,0 +1,71 @@
+{
+  "id": 857503961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863839,21.328489,-157.863839,21.328489",
+    "geom:latitude":21.328489,
+    "geom:longitude":-157.863839,
+    "iso:country":"US",
+    "sg:address":"1060 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 9063",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ueyMpBhC2BfACeJjQz3iC_21.328489_-157.863839@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202005,
+    "wof:geomhash":"bae53268dd847b5992e10621ff27d829",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857503961
+        }
+    ],
+    "wof:id":857503961,
+    "wof:lastmodified":1464202005,
+    "wof:name":"Hung Hang Seafood Market",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -157.863839,
+    21.328489,
+    -157.863839,
+    21.328489
+],
+  "geometry": {"coordinates":[-157.86383900000001,21.328489],"type":"Point"}
+}

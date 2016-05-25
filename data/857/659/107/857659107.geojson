@@ -1,0 +1,69 @@
+{
+  "id": 857659107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.02189,21.390531,-158.02189,21.390531",
+    "geom:latitude":21.390531,
+    "geom:longitude":-158.02189,
+    "iso:country":"US",
+    "sg:address":"817 Hohiu Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 7161",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zuC6NpWKTCwMdlqwtsqFj_21.390531_-158.021890@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205866,
+    "wof:geomhash":"e29f5de2f8a054e067d549cea682145c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857659107
+        }
+    ],
+    "wof:id":857659107,
+    "wof:lastmodified":1464205866,
+    "wof:name":"Gagarin Appliance Repair",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.02189,
+    21.390531,
+    -158.02189,
+    21.390531
+],
+  "geometry": {"coordinates":[-158.02189000000001,21.390531],"type":"Point"}
+}

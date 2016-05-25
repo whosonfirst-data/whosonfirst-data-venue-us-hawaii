@@ -1,0 +1,72 @@
+{
+  "id": 857681017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.367051,21.982687,-159.367051,21.982687",
+    "geom:latitude":21.982687,
+    "geom:longitude":-159.367051,
+    "iso:country":"US",
+    "sg:address":"3-3300 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lihue/202816-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 8617",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gp1AwVATKeSOyAWMBzG5p_21.982687_-159.367051@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206765,
+    "wof:geomhash":"d41992c704f9561c20be9f6cf80d4650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857681017
+        }
+    ],
+    "wof:id":857681017,
+    "wof:lastmodified":1464206765,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -159.367051,
+    21.982687,
+    -159.367051,
+    21.982687
+],
+  "geometry": {"coordinates":[-159.367051,21.982687],"type":"Point"}
+}

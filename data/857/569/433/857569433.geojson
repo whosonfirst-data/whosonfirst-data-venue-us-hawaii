@@ -1,0 +1,72 @@
+{
+  "id": 857569433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.746611,21.295212,-157.746611,21.295212",
+    "geom:latitude":21.295212,
+    "geom:longitude":-157.746611,
+    "iso:country":"US",
+    "sg:address":"1103 Ikena Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 1551",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "programming"
+    ],
+    "sg:website":"www.rachelvictoria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TaPaDBGvrmhvWZY6KoIab_21.295212_-157.746611@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203342,
+    "wof:geomhash":"f0fe2b17ded9752a1c1b81e8b33d02c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857569433
+        }
+    ],
+    "wof:id":857569433,
+    "wof:lastmodified":1464203342,
+    "wof:name":"Comm-Tel",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -157.746611,
+    21.295212,
+    -157.746611,
+    21.295212
+],
+  "geometry": {"coordinates":[-157.746611,21.295212],"type":"Point"}
+}

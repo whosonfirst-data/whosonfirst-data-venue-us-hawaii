@@ -1,0 +1,72 @@
+{
+  "id": 857681625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.891332,21.323959,-157.891332,21.323959",
+    "geom:latitude":21.323959,
+    "geom:longitude":-157.891332,
+    "iso:country":"US",
+    "sg:address":"120 Sand Island Access Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108571-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 9915",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09RVAOemmAViISyJslTvo6_21.323959_-157.891332@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"9dc050f472d488ce22210d6823fa415d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857681625
+        }
+    ],
+    "wof:id":857681625,
+    "wof:lastmodified":1464206790,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.891332,
+    21.323959,
+    -157.891332,
+    21.323959
+],
+  "geometry": {"coordinates":[-157.89133200000001,21.323959],"type":"Point"}
+}

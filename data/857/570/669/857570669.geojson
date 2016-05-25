@@ -1,0 +1,75 @@
+{
+  "id": 857570669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.87654,21.331329,-157.87654,21.331329",
+    "geom:latitude":21.331329,
+    "geom:longitude":-157.87654,
+    "iso:country":"US",
+    "sg:address":"1803 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 5777",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "comprehensive",
+        "agency",
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dANhs1ukYb84w1ZfcIcve_21.331329_-157.876540@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203365,
+    "wof:geomhash":"3da56f237f2247824afc508ff9dd0433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857570669
+        }
+    ],
+    "wof:id":857570669,
+    "wof:lastmodified":1464203365,
+    "wof:name":"Hawaii Credit Counseling Svc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comprehensive",
+        "agency",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -157.87654,
+    21.331329,
+    -157.87654,
+    21.331329
+],
+  "geometry": {"coordinates":[-157.87654000000001,21.331329],"type":"Point"}
+}

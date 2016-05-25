@@ -1,0 +1,71 @@
+{
+  "id": 857647771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85505,21.317387,-157.85505,21.317387",
+    "geom:latitude":21.317387,
+    "geom:longitude":-157.85505,
+    "iso:country":"US",
+    "sg:address":"1641 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 6521",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ppo8FUCF8pROf2aBHudoK_21.317387_-157.855050@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205369,
+    "wof:geomhash":"8daef292d334425dcea20c58de8ab142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857647771
+        }
+    ],
+    "wof:id":857647771,
+    "wof:lastmodified":1464205369,
+    "wof:name":"Lester Yee & Arnold Yee MD",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.85505,
+    21.317387,
+    -157.85505,
+    21.317387
+],
+  "geometry": {"coordinates":[-157.85505000000001,21.317387],"type":"Point"}
+}

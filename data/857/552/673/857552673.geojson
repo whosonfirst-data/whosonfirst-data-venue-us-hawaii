@@ -1,0 +1,66 @@
+{
+  "id": 857552673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848685,21.319509,-157.848685,21.319509",
+    "geom:latitude":21.319509,
+    "geom:longitude":-157.848685,
+    "iso:country":"US",
+    "sg:address":"2036 Pauoa Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 8565",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_125Etx8e06gwnjhWyi4RYs_21.319509_-157.848685@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202983,
+    "wof:geomhash":"72460f7fde3bddfa9c9fb1f3c5cc97d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857552673
+        }
+    ],
+    "wof:id":857552673,
+    "wof:lastmodified":1464202983,
+    "wof:name":"AAA Mini Mart",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.848685,
+    21.319509,
+    -157.848685,
+    21.319509
+],
+  "geometry": {"coordinates":[-157.84868499999999,21.319509],"type":"Point"}
+}

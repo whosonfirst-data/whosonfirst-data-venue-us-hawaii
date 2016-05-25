@@ -1,0 +1,73 @@
+{
+  "id": 857641295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.996625,21.466451,-157.996625,21.466451",
+    "geom:latitude":21.466451,
+    "geom:longitude":-157.996625,
+    "iso:country":"US",
+    "sg:address":"1509 Ainamakua Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 0690",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "trimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B27VN4wTnLSDNwpEDrlJj_21.466451_-157.996625@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205072,
+    "wof:geomhash":"a0de4f3ec806365e013649fd2fa88ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857641295
+        }
+    ],
+    "wof:id":857641295,
+    "wof:lastmodified":1464205072,
+    "wof:name":"Pacific T-Shirts Co",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "trimming"
+    ]
+},
+  "bbox": [
+    -157.996625,
+    21.466451,
+    -157.996625,
+    21.466451
+],
+  "geometry": {"coordinates":[-157.99662499999999,21.466451],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857534423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814676,21.301283,-157.814676,21.301283",
+    "geom:latitude":21.301283,
+    "geom:longitude":-157.814676,
+    "iso:country":"US",
+    "sg:address":"1910 E West Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 2642",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cmsiP6aLwmPqOyMEjmNZI_21.301283_-157.814676@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202628,
+    "wof:geomhash":"f6e95bb0318948ea2c1aa2c814befe3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857534423
+        }
+    ],
+    "wof:id":857534423,
+    "wof:lastmodified":1464202628,
+    "wof:name":"Sherman Lab",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -157.814676,
+    21.301283,
+    -157.814676,
+    21.301283
+],
+  "geometry": {"coordinates":[-157.81467599999999,21.301283],"type":"Point"}
+}

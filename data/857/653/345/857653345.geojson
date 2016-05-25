@@ -1,0 +1,76 @@
+{
+  "id": 857653345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841671,21.29741,-157.841671,21.29741",
+    "geom:latitude":21.29741,
+    "geom:longitude":-157.841671,
+    "iso:country":"US",
+    "sg:address":"818 Sheridan St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6858",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alteration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ziM9lvvyTRbinyTOC30u_21.297410_-157.841671@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205603,
+    "wof:geomhash":"d060765e66ca99fade7c3533bc97e950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857653345
+        }
+    ],
+    "wof:id":857653345,
+    "wof:lastmodified":1464205603,
+    "wof:name":"Sook Hi's Alteration",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alteration"
+    ]
+},
+  "bbox": [
+    -157.841671,
+    21.29741,
+    -157.841671,
+    21.29741
+],
+  "geometry": {"coordinates":[-157.84167099999999,21.29741],"type":"Point"}
+}

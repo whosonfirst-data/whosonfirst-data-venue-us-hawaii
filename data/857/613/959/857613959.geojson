@@ -1,0 +1,78 @@
+{
+  "id": 857613959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861929,21.314152,-157.861929,21.314152",
+    "geom:latitude":21.314152,
+    "geom:longitude":-157.861929,
+    "iso:country":"US",
+    "sg:address":"100 N Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 8128",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bF1slSSKTx7Sx5AV11AnI_21.314152_-157.861929@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204300,
+    "wof:geomhash":"f78b1a92a4a464d79f83b48f3fc3a19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857613959
+        }
+    ],
+    "wof:id":857613959,
+    "wof:lastmodified":1464204300,
+    "wof:name":"Onna Massage Center Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -157.861929,
+    21.314152,
+    -157.861929,
+    21.314152
+],
+  "geometry": {"coordinates":[-157.861929,21.314152],"type":"Point"}
+}

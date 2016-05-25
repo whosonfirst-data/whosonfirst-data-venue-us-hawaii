@@ -1,0 +1,82 @@
+{
+  "id": 857647983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852002,21.306683,-157.852002,21.306683",
+    "geom:latitude":21.306683,
+    "geom:longitude":-157.852002,
+    "iso:country":"US",
+    "sg:address":"1329 Lusitana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 1600",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "physician",
+        "surgeon",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZwhiTRgKprtWPQw7rvEME_21.306683_-157.852002@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205376,
+    "wof:geomhash":"ab46700dda280237deeafb02db191ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857647983
+        }
+    ],
+    "wof:id":857647983,
+    "wof:lastmodified":1464205376,
+    "wof:name":"Allergy Clinic Inc",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "physician",
+        "surgeon",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -157.852002,
+    21.306683,
+    -157.852002,
+    21.306683
+],
+  "geometry": {"coordinates":[-157.852002,21.306683],"type":"Point"}
+}

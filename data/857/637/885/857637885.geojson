@@ -1,0 +1,71 @@
+{
+  "id": 857637885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785087,21.274555,-157.785087,21.274555",
+    "geom:latitude":21.274555,
+    "geom:longitude":-157.785087,
+    "iso:country":"US",
+    "sg:address":"4559 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 8445",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D084x4sAfRpQUtNllVEVQ_21.274555_-157.785087@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204936,
+    "wof:geomhash":"762f5afcc32f80ff264cbe32741a6004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857637885
+        }
+    ],
+    "wof:id":857637885,
+    "wof:lastmodified":1464204936,
+    "wof:name":"Kahala Elementary School",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.785087,
+    21.274555,
+    -157.785087,
+    21.274555
+],
+  "geometry": {"coordinates":[-157.785087,21.274555],"type":"Point"}
+}

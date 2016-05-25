@@ -1,0 +1,73 @@
+{
+  "id": 857645521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.872506,21.343922,-157.872506,21.343922",
+    "geom:latitude":21.343922,
+    "geom:longitude":-157.872506,
+    "iso:country":"US",
+    "sg:address":"1720 Kilohi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 8887",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WPqb1glmh5vF6CTWPzKtW_21.343922_-157.872506@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205260,
+    "wof:geomhash":"287e14186d3416b33cf09461fb35a715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827733,
+            "region_id":85688671,
+            "venue_id":857645521
+        }
+    ],
+    "wof:id":857645521,
+    "wof:lastmodified":1464205260,
+    "wof:name":"Affordable Electric",
+    "wof:parent_id":85827733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.872506,
+    21.343922,
+    -157.872506,
+    21.343922
+],
+  "geometry": {"coordinates":[-157.87250599999999,21.343922],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857681503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822038,21.273822,-157.822038,21.273822",
+    "geom:latitude":21.273822,
+    "geom:longitude":-157.822038,
+    "iso:country":"US",
+    "sg:address":"2552 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/137043-seattles-best-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 4722",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AxcdftYWG9AJh4UNH78Jh_21.273822_-157.822038@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206786,
+    "wof:geomhash":"ec37e7a00a362c9711fc964c60158e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857681503
+        }
+    ],
+    "wof:id":857681503,
+    "wof:lastmodified":1464206786,
+    "wof:name":"Seattle's Best Coffee",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -157.822038,
+    21.273822,
+    -157.822038,
+    21.273822
+],
+  "geometry": {"coordinates":[-157.82203799999999,21.273822],"type":"Point"}
+}

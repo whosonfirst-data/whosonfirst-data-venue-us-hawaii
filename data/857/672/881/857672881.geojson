@@ -1,0 +1,73 @@
+{
+  "id": 857672881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.177034,21.405282,-158.177034,21.405282",
+    "geom:latitude":21.405282,
+    "geom:longitude":-158.177034,
+    "iso:country":"US",
+    "sg:address":"910 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 6348",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937577,
+        102085417,
+        85831973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MTGn4gHkuXKyUVypQ4sEF_21.405282_-158.177034@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206447,
+    "wof:geomhash":"e23cffc9fabfca3ed7b2e3cb6e31a0d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937577,
+            "neighbourhood_id":85831973,
+            "region_id":85688671,
+            "venue_id":857672881
+        }
+    ],
+    "wof:id":857672881,
+    "wof:lastmodified":1464206447,
+    "wof:name":"Waianae Drug",
+    "wof:parent_id":85831973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -158.177034,
+    21.405282,
+    -158.177034,
+    21.405282
+],
+  "geometry": {"coordinates":[-158.17703399999999,21.405282],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857673985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799083,21.316651,-157.799083,21.316651",
+    "geom:latitude":21.316651,
+    "geom:longitude":-157.799083,
+    "iso:country":"US",
+    "sg:address":"3467 Alani Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 5125",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KzwDnLRdkGZ6td7aINeMu_21.316651_-157.799083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206486,
+    "wof:geomhash":"292666f29e79c48944f328b5e7fc4d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857673985
+        }
+    ],
+    "wof:id":857673985,
+    "wof:lastmodified":1464206486,
+    "wof:name":"Hawaii Web Ctr Inc",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -157.799083,
+    21.316651,
+    -157.799083,
+    21.316651
+],
+  "geometry": {"coordinates":[-157.799083,21.316651],"type":"Point"}
+}

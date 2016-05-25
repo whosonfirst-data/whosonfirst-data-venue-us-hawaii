@@ -1,0 +1,77 @@
+{
+  "id": 857519985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102643,21.306308,-158.102643,21.306308",
+    "geom:latitude":21.306308,
+    "geom:longitude":-158.102643,
+    "iso:country":"US",
+    "sg:address":"227 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2800",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caisson",
+        "pile",
+        "drilling",
+        "driving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qa7GlggILjzlTL4NBkJ0v_21.306308_-158.102643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202349,
+    "wof:geomhash":"079d432c319e50b633e62e79cce9eb74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857519985
+        }
+    ],
+    "wof:id":857519985,
+    "wof:lastmodified":1464202349,
+    "wof:name":"Foundation International Inc",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caisson",
+        "pile",
+        "drilling",
+        "driving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.102643,
+    21.306308,
+    -158.102643,
+    21.306308
+],
+  "geometry": {"coordinates":[-158.102643,21.306308],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857568455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.334635,20.935142,-156.334635,20.935142",
+    "geom:latitude":20.935142,
+    "geom:longitude":-156.334635,
+    "iso:country":"US",
+    "sg:address":"152 Apuwai St",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 2779",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937689,
+        102085577,
+        85890097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30TLTqVhAvUIOXE7EG9Nli_20.935142_-156.334635@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203323,
+    "wof:geomhash":"436ff89ebe39156b3e69c2a2aeb0bb22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890097,
+            "region_id":85688671,
+            "venue_id":857568455
+        }
+    ],
+    "wof:id":857568455,
+    "wof:lastmodified":1464203323,
+    "wof:name":"Better Builders",
+    "wof:parent_id":85890097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.334635,
+    20.935142,
+    -156.334635,
+    20.935142
+],
+  "geometry": {"coordinates":[-156.33463499999999,20.935142],"type":"Point"}
+}

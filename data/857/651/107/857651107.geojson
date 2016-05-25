@@ -1,0 +1,71 @@
+{
+  "id": 857651107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846227,21.294764,-157.846227,21.294764",
+    "geom:latitude":21.294764,
+    "geom:longitude":-157.846227,
+    "iso:country":"US",
+    "sg:address":"1318 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 2532",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1smMg9Dv4ouRRyklwRuQJv_21.294764_-157.846227@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205499,
+    "wof:geomhash":"8239f218c9dd4c7e7cbdc1561475f0b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857651107
+        }
+    ],
+    "wof:id":857651107,
+    "wof:lastmodified":1464205499,
+    "wof:name":"Blue Cross & Blue Shield",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -157.846227,
+    21.294764,
+    -157.846227,
+    21.294764
+],
+  "geometry": {"coordinates":[-157.846227,21.294764],"type":"Point"}
+}

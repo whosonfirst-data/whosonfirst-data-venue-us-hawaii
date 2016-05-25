@@ -1,0 +1,66 @@
+{
+  "id": 857596715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.79626,21.292323,-157.79626,21.292323",
+    "geom:latitude":21.292323,
+    "geom:longitude":-157.79626,
+    "iso:country":"US",
+    "sg:address":"1638 10th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 2398",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D75T3PfUK4ouOeHNpU73F_21.292323_-157.796260@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203916,
+    "wof:geomhash":"8d500f18aff39d9e866b401b846b82f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857596715
+        }
+    ],
+    "wof:id":857596715,
+    "wof:lastmodified":1464203916,
+    "wof:name":"Number One Store",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.79626,
+    21.292323,
+    -157.79626,
+    21.292323
+],
+  "geometry": {"coordinates":[-157.79625999999999,21.292323],"type":"Point"}
+}

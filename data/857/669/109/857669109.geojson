@@ -1,0 +1,71 @@
+{
+  "id": 857669109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863328,21.324495,-157.863328,21.324495",
+    "geom:latitude":21.324495,
+    "geom:longitude":-157.863328,
+    "iso:country":"US",
+    "sg:address":"1618 Palama St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 832 3370",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uxmJiu3gZSOKQK2UrJ9im_21.324495_-157.863328@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206306,
+    "wof:geomhash":"873041c36f4b2e9532ae18ade9aa623a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857669109
+        }
+    ],
+    "wof:id":857669109,
+    "wof:lastmodified":1464206306,
+    "wof:name":"Likelike Elementary School",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.863328,
+    21.324495,
+    -157.863328,
+    21.324495
+],
+  "geometry": {"coordinates":[-157.863328,21.324495],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857585827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-154.92257,19.460509,-154.92257,19.460509",
+    "geom:latitude":19.460509,
+    "geom:longitude":-154.92257,
+    "iso:country":"US",
+    "sg:address":"3564 Alapai St",
+    "sg:city":"Pahoa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 965 9976",
+    "sg:postcode":"96778",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937415,
+        102085433,
+        85890623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Pyb9i7YZYH6Xwgweucdo_19.460509_-154.922570@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203668,
+    "wof:geomhash":"bdc21f4d4d3e2431886323e532be76f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937415,
+            "neighbourhood_id":85890623,
+            "region_id":85688671,
+            "venue_id":857585827
+        }
+    ],
+    "wof:id":857585827,
+    "wof:lastmodified":1464203668,
+    "wof:name":"Puna Construction",
+    "wof:parent_id":85890623,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -154.92257,
+    19.460509,
+    -154.92257,
+    19.460509
+],
+  "geometry": {"coordinates":[-154.92257000000001,19.460509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857608415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.841738,21.291855,-157.841738,21.291855",
+    "geom:latitude":21.291855,
+    "geom:longitude":-157.841738,
+    "iso:country":"US",
+    "sg:address":"1558 Kona St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8181",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iu1qTisGFIs7do0z6zere_21.291855_-157.841738@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204173,
+    "wof:geomhash":"0c4a9fb1190932d858afc60db298add0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857608415
+        }
+    ],
+    "wof:id":857608415,
+    "wof:lastmodified":1464204173,
+    "wof:name":"Club Princess",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -157.841738,
+    21.291855,
+    -157.841738,
+    21.291855
+],
+  "geometry": {"coordinates":[-157.84173799999999,21.291855],"type":"Point"}
+}

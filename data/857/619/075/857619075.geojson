@@ -1,0 +1,69 @@
+{
+  "id": 857619075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029409,21.495106,-158.029409,21.495106",
+    "geom:latitude":21.495106,
+    "geom:longitude":-158.029409,
+    "iso:country":"US",
+    "sg:address":"58 S Kamehameha Hwy",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 9145",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FclpxRpiRNtKhelzKjXdJ_21.495106_-158.029409@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204403,
+    "wof:geomhash":"0c4b079c61dcc76ec74e70611c8410f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857619075
+        }
+    ],
+    "wof:id":857619075,
+    "wof:lastmodified":1464204403,
+    "wof:name":"Wahiawa Automotive",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -158.029409,
+    21.495106,
+    -158.029409,
+    21.495106
+],
+  "geometry": {"coordinates":[-158.02940899999999,21.495106],"type":"Point"}
+}

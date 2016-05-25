@@ -1,0 +1,71 @@
+{
+  "id": 857637005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.003714,21.384406,-158.003714,21.384406",
+    "geom:latitude":21.384406,
+    "geom:longitude":-158.003714,
+    "iso:country":"US",
+    "sg:address":"826 Moloalo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 3401",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IbsMkHpPcifltmOp3Mz52_21.384406_-158.003714@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204905,
+    "wof:geomhash":"fbd8642fd6f5568c60554b23aa0552c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857637005
+        }
+    ],
+    "wof:id":857637005,
+    "wof:lastmodified":1464204905,
+    "wof:name":"Katsumi Miyano DDS Inc",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -158.003714,
+    21.384406,
+    -158.003714,
+    21.384406
+],
+  "geometry": {"coordinates":[-158.003714,21.384406],"type":"Point"}
+}

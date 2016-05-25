@@ -1,0 +1,75 @@
+{
+  "id": 857572599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885598,21.336451,-157.885598,21.336451",
+    "geom:latitude":21.336451,
+    "geom:longitude":-157.885598,
+    "iso:country":"US",
+    "sg:address":"911 Middle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 2088",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eBH2cEf0GGF8S7SOc22Y3_21.336451_-157.885598@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203401,
+    "wof:geomhash":"5889ddcfc81f938db6013bdfbc12e96e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857572599
+        }
+    ],
+    "wof:id":857572599,
+    "wof:lastmodified":1464203401,
+    "wof:name":"Love's Bakery",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -157.885598,
+    21.336451,
+    -157.885598,
+    21.336451
+],
+  "geometry": {"coordinates":[-157.88559799999999,21.336451],"type":"Point"}
+}

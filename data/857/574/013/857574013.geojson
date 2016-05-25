@@ -1,0 +1,75 @@
+{
+  "id": 857574013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.889496,21.355936,-157.889496,21.355936",
+    "geom:latitude":21.355936,
+    "geom:longitude":-157.889496,
+    "iso:country":"US",
+    "sg:address":"1736 Hakuaina Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1413",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FrCwIc8UwkYR09g9NhNzl_21.355936_-157.889496@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203433,
+    "wof:geomhash":"c50c90ef0ae158aaa0021c511ba49e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857574013
+        }
+    ],
+    "wof:id":857574013,
+    "wof:lastmodified":1464203433,
+    "wof:name":"Auto Grooming Hawaii",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.889496,
+    21.355936,
+    -157.889496,
+    21.355936
+],
+  "geometry": {"coordinates":[-157.88949600000001,21.355936],"type":"Point"}
+}

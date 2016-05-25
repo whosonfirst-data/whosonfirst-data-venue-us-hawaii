@@ -1,0 +1,73 @@
+{
+  "id": 857597737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882342,21.328253,-157.882342,21.328253",
+    "geom:latitude":21.328253,
+    "geom:longitude":-157.882342,
+    "iso:country":"US",
+    "sg:address":"2031 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3777",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W0qWisT3NdY6YTxJPQyu1_21.328253_-157.882342@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203936,
+    "wof:geomhash":"5bc4497c420b6e143880f4840a187bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857597737
+        }
+    ],
+    "wof:id":857597737,
+    "wof:lastmodified":1464203936,
+    "wof:name":"Fantastik Auto Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.882342,
+    21.328253,
+    -157.882342,
+    21.328253
+],
+  "geometry": {"coordinates":[-157.88234199999999,21.328253],"type":"Point"}
+}

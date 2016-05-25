@@ -1,0 +1,97 @@
+{
+  "id": 857681783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.360076,21.969179,-159.360076,21.969179",
+    "geom:latitude":21.969179,
+    "geom:longitude":-159.360076,
+    "iso:country":"US",
+    "sg:address":"4100 Rice St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lihue/231086-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 7414",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937497,
+        102085457,
+        85890567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iMkxfnPsvlWAuyCmyxCKR_21.968950_-159.359940@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206806,
+    "wof:geomhash":"f9dee8b4a6d76e4e1168503295ec69ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937497,
+            "neighbourhood_id":85890567,
+            "region_id":85688671,
+            "venue_id":857681783
+        }
+    ],
+    "wof:id":857681783,
+    "wof:lastmodified":1464206806,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85890567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -159.360076,
+    21.969179,
+    -159.360076,
+    21.969179
+],
+  "geometry": {"coordinates":[-159.36007599999999,21.969179],"type":"Point"}
+}

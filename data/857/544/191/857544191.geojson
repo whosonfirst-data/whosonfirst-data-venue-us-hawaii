@@ -1,0 +1,69 @@
+{
+  "id": 857544191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.024022,21.500339,-158.024022,21.500339",
+    "geom:latitude":21.500339,
+    "geom:longitude":-158.024022,
+    "iso:country":"US",
+    "sg:address":"1060 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6694",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lhT8uq9xpIn2a73FBYE1p_21.500339_-158.024022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202824,
+    "wof:geomhash":"ebfbce19b63f18c6e8f5fa1655f7e068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857544191
+        }
+    ],
+    "wof:id":857544191,
+    "wof:lastmodified":1464202824,
+    "wof:name":"Kilani Village Apartments",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -158.024022,
+    21.500339,
+    -158.024022,
+    21.500339
+],
+  "geometry": {"coordinates":[-158.024022,21.500339],"type":"Point"}
+}

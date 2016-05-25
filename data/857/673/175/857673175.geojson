@@ -1,0 +1,75 @@
+{
+  "id": 857673175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.082499,21.358963,-158.082499,21.358963",
+    "geom:latitude":21.358963,
+    "geom:longitude":-158.082499,
+    "iso:country":"US",
+    "sg:address":"1300 Panana St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 1100",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O8BnJdDeGvEOMDDpsoicX_21.358963_-158.082499@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206458,
+    "wof:geomhash":"bf3e41413421e572083eb4c5f65d48b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857673175
+        }
+    ],
+    "wof:id":857673175,
+    "wof:lastmodified":1464206458,
+    "wof:name":"Mauka Lani Elementary School",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -158.082499,
+    21.358963,
+    -158.082499,
+    21.358963
+],
+  "geometry": {"coordinates":[-158.08249900000001,21.358963],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857639773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861243,21.313342,-157.861243,21.313342",
+    "geom:latitude":21.313342,
+    "geom:longitude":-157.861243,
+    "iso:country":"US",
+    "sg:address":"1152 Maunakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 529 8819",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TMQiXMmoo2FcfiFh1hg37_21.313342_-157.861243@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205011,
+    "wof:geomhash":"2ac9905f987d36d798401dce68ad41a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857639773
+        }
+    ],
+    "wof:id":857639773,
+    "wof:lastmodified":1464205011,
+    "wof:name":"My Canh Restaurant",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.861243,
+    21.313342,
+    -157.861243,
+    21.313342
+],
+  "geometry": {"coordinates":[-157.861243,21.313342],"type":"Point"}
+}

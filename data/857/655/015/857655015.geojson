@@ -1,0 +1,66 @@
+{
+  "id": 857655015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828491,21.281473,-157.828491,21.281473",
+    "geom:latitude":21.281473,
+    "geom:longitude":-157.828491,
+    "iso:country":"US",
+    "sg:address":"342 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 926 8245",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vj4rvBgppMTYpY9E9DVOh_21.281473_-157.828491@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205682,
+    "wof:geomhash":"a00b4215ff61cd7f9c527dccb037e3c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857655015
+        }
+    ],
+    "wof:id":857655015,
+    "wof:lastmodified":1464205682,
+    "wof:name":"Pineapple County",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.828491,
+    21.281473,
+    -157.828491,
+    21.281473
+],
+  "geometry": {"coordinates":[-157.82849100000001,21.281473],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857544173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.038082,21.338376,-158.038082,21.338376",
+    "geom:latitude":21.338376,
+    "geom:longitude":-158.038082,
+    "iso:country":"US",
+    "sg:address":"1177 Renton Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 0035",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZTgWboPzeMdD2HS5Z4thJ_21.338376_-158.038082@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202824,
+    "wof:geomhash":"7a7132e0962c996e12ce4b1a7be486b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857544173
+        }
+    ],
+    "wof:id":857544173,
+    "wof:lastmodified":1464202824,
+    "wof:name":"D & G Equipment & Hauling",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -158.038082,
+    21.338376,
+    -158.038082,
+    21.338376
+],
+  "geometry": {"coordinates":[-158.038082,21.338376],"type":"Point"}
+}

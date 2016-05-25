@@ -1,0 +1,71 @@
+{
+  "id": 857595139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.010335,21.445092,-158.010335,21.445092",
+    "geom:latitude":21.445092,
+    "geom:longitude":-158.010335,
+    "iso:country":"US",
+    "sg:address":"184 Anania Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 438 6535",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F0XEcpGo0ArNc98ZMgDnw_21.445092_-158.010335@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203876,
+    "wof:geomhash":"4155af64ad80b29b979308877900c788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857595139
+        }
+    ],
+    "wof:id":857595139,
+    "wof:lastmodified":1464203876,
+    "wof:name":"Maeda Technical Repair",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -158.010335,
+    21.445092,
+    -158.010335,
+    21.445092
+],
+  "geometry": {"coordinates":[-158.010335,21.445092],"type":"Point"}
+}

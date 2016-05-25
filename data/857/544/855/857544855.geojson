@@ -1,0 +1,73 @@
+{
+  "id": 857544855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848812,21.320427,-157.848812,21.320427",
+    "geom:latitude":21.320427,
+    "geom:longitude":-157.848812,
+    "iso:country":"US",
+    "sg:address":"2004 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 5412",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3chxi4jLYE7nB0sdHLdbwI_21.320427_-157.848812@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202837,
+    "wof:geomhash":"a45e965bf6683f98493b3500d062b04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857544855
+        }
+    ],
+    "wof:id":857544855,
+    "wof:lastmodified":1464202837,
+    "wof:name":"Keith's Service & Sales Inc",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.848812,
+    21.320427,
+    -157.848812,
+    21.320427
+],
+  "geometry": {"coordinates":[-157.84881200000001,21.320427],"type":"Point"}
+}

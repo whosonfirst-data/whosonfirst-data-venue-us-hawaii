@@ -1,0 +1,71 @@
+{
+  "id": 857570721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.845676,21.337003,-157.845676,21.337003",
+    "geom:latitude":21.337003,
+    "geom:longitude":-157.845676,
+    "iso:country":"US",
+    "sg:address":"2746 Rooke Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 7774",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZY5isGS2uYWrEOqhSzCn4_21.337003_-157.845676@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203366,
+    "wof:geomhash":"ab0f6a4633ffd9ed3264e7f550f10411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857570721
+        }
+    ],
+    "wof:id":857570721,
+    "wof:lastmodified":1464203366,
+    "wof:name":"Connect Japan",
+    "wof:parent_id":85872725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -157.845676,
+    21.337003,
+    -157.845676,
+    21.337003
+],
+  "geometry": {"coordinates":[-157.845676,21.337003],"type":"Point"}
+}

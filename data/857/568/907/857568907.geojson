@@ -1,0 +1,67 @@
+{
+  "id": 857568907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.712923,21.282,-157.712923,21.282",
+    "geom:latitude":21.282,
+    "geom:longitude":-157.712923,
+    "iso:country":"US",
+    "sg:address":"6650 Kalanianaole Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 7576",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:website":"www.outback.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_284il9EvWP9m9picjtRCsI_21.282000_-157.712923@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203332,
+    "wof:geomhash":"5a0f2b0c5ebcb097ace8c60085d7ce66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857568907
+        }
+    ],
+    "wof:id":857568907,
+    "wof:lastmodified":1464203332,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.712923,
+    21.282,
+    -157.712923,
+    21.282
+],
+  "geometry": {"coordinates":[-157.71292299999999,21.282],"type":"Point"}
+}

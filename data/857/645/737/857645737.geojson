@@ -1,0 +1,71 @@
+{
+  "id": 857645737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.953633,21.394529,-157.953633,21.394529",
+    "geom:latitude":21.394529,
+    "geom:longitude":-157.953633,
+    "iso:country":"US",
+    "sg:address":"1363 Nola St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 5406",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wpnrhwIt3hbuH72o7bghm_21.394529_-157.953633@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205268,
+    "wof:geomhash":"a4e0512c148fbddd71bbd7ab5e683dc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857645737
+        }
+    ],
+    "wof:id":857645737,
+    "wof:lastmodified":1464205268,
+    "wof:name":"Waiau Gardens Kai B",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.953633,
+    21.394529,
+    -157.953633,
+    21.394529
+],
+  "geometry": {"coordinates":[-157.953633,21.394529],"type":"Point"}
+}

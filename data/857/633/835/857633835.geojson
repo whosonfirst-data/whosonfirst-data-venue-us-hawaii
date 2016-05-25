@@ -1,0 +1,71 @@
+{
+  "id": 857633835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.694019,21.287319,-157.694019,21.287319",
+    "geom:latitude":21.287319,
+    "geom:longitude":-157.694019,
+    "iso:country":"US",
+    "sg:address":"577 Kapaia St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 291 2372",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wQG4UNMIu6m4qRb4Xjeyq_21.287319_-157.694019@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204786,
+    "wof:geomhash":"67a73835755d489fa4d351eeed31bc49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857633835
+        }
+    ],
+    "wof:id":857633835,
+    "wof:lastmodified":1464204786,
+    "wof:name":"S & V Landscaping Inc",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -157.694019,
+    21.287319,
+    -157.694019,
+    21.287319
+],
+  "geometry": {"coordinates":[-157.694019,21.287319],"type":"Point"}
+}

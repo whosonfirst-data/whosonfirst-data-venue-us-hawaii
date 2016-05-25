@@ -1,0 +1,71 @@
+{
+  "id": 857634855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842297,21.300135,-157.842297,21.300135",
+    "geom:latitude":21.300135,
+    "geom:longitude":-157.842297,
+    "iso:country":"US",
+    "sg:address":"1245 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 0092",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RK7UMRFSaJEbJTbDSjEwW_21.300135_-157.842297@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204827,
+    "wof:geomhash":"ba8b08b24057c0f480eac63e746b4b47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857634855
+        }
+    ],
+    "wof:id":857634855,
+    "wof:lastmodified":1464204827,
+    "wof:name":"Carl Erdman Travel",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.842297,
+    21.300135,
+    -157.842297,
+    21.300135
+],
+  "geometry": {"coordinates":[-157.842297,21.300135],"type":"Point"}
+}

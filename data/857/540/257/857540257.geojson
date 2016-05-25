@@ -1,0 +1,71 @@
+{
+  "id": 857540257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861548,21.308484,-157.861548,21.308484",
+    "geom:latitude":21.308484,
+    "geom:longitude":-157.861548,
+    "iso:country":"US",
+    "sg:address":"1088 Bishop St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 526 4767",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t4jJ4TcSlog1qbiABrf15_21.308484_-157.861548@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202741,
+    "wof:geomhash":"e5dffa45e6203f83fabe1c68ec27c146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857540257
+        }
+    ],
+    "wof:id":857540257,
+    "wof:lastmodified":1464202741,
+    "wof:name":"Island Smr",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -157.861548,
+    21.308484,
+    -157.861548,
+    21.308484
+],
+  "geometry": {"coordinates":[-157.861548,21.308484],"type":"Point"}
+}

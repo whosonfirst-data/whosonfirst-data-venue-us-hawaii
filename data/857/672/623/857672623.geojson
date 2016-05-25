@@ -1,0 +1,73 @@
+{
+  "id": 857672623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86444,21.308439,-157.86444,21.308439",
+    "geom:latitude":21.308439,
+    "geom:longitude":-157.86444,
+    "iso:country":"US",
+    "sg:address":"79 S Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9260",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aAuHeiIuF5l5cWSDX22Hh_21.308439_-157.864440@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206439,
+    "wof:geomhash":"ae62b1eeb83b023f4ed3a12c1e2df36e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857672623
+        }
+    ],
+    "wof:id":857672623,
+    "wof:lastmodified":1464206439,
+    "wof:name":"Harbors Division",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.86444,
+    21.308439,
+    -157.86444,
+    21.308439
+],
+  "geometry": {"coordinates":[-157.86444,21.308439],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857664677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854465,21.29764,-157.854465,21.29764",
+    "geom:latitude":21.29764,
+    "geom:longitude":-157.854465,
+    "iso:country":"US",
+    "sg:address":"907 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 0211",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67tUN2lgpctmasUMY13tNG_21.297640_-157.854465@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206111,
+    "wof:geomhash":"9ae4ee2cd90e7d676f814baae4187211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857664677
+        }
+    ],
+    "wof:id":857664677,
+    "wof:lastmodified":1464206111,
+    "wof:name":"Tropical Blends",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -157.854465,
+    21.29764,
+    -157.854465,
+    21.29764
+],
+  "geometry": {"coordinates":[-157.854465,21.29764],"type":"Point"}
+}

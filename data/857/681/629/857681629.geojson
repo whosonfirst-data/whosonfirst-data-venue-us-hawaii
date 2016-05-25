@@ -1,0 +1,73 @@
+{
+  "id": 857681629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.886041,21.327189,-157.886041,21.327189",
+    "geom:latitude":21.327189,
+    "geom:longitude":-157.886041,
+    "iso:country":"US",
+    "sg:address":"2121 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/202773-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nQlpLbGCNYMEkzU6pVMcz_21.327189_-157.886041@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"dce3ff059a333e7ed0a8097b21dea326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827737,
+            "region_id":85688671,
+            "venue_id":857681629
+        }
+    ],
+    "wof:id":857681629,
+    "wof:lastmodified":1464206790,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85827737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.886041,
+    21.327189,
+    -157.886041,
+    21.327189
+],
+  "geometry": {"coordinates":[-157.88604100000001,21.327189],"type":"Point"}
+}

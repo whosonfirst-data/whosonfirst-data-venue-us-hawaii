@@ -1,0 +1,66 @@
+{
+  "id": 857636225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831723,21.294353,-157.831723,21.294353",
+    "geom:latitude":21.294353,
+    "geom:longitude":-157.831723,
+    "iso:country":"US",
+    "sg:address":"906 Pumehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 1334",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XRdDXbfjTmYhitEQIIiEY_21.294353_-157.831723@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204876,
+    "wof:geomhash":"14166dd7a8d76ddf41e9cd18b5a39678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857636225
+        }
+    ],
+    "wof:id":857636225,
+    "wof:lastmodified":1464204876,
+    "wof:name":"Adams Enterprise",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.831723,
+    21.294353,
+    -157.831723,
+    21.294353
+],
+  "geometry": {"coordinates":[-157.83172300000001,21.294353],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857559073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86116,21.306569,-157.86116,21.306569",
+    "geom:latitude":21.306569,
+    "geom:longitude":-157.86116,
+    "iso:country":"US",
+    "sg:address":"850 Richards St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 4248",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V0UhB3llt3EXt6C1mPjCS_21.306569_-157.861160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203130,
+    "wof:geomhash":"0c27dadb736ee8f6de7f7bbbf028e257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857559073
+        }
+    ],
+    "wof:id":857559073,
+    "wof:lastmodified":1464203130,
+    "wof:name":"Vista Enterprises",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.86116,
+    21.306569,
+    -157.86116,
+    21.306569
+],
+  "geometry": {"coordinates":[-157.86116000000001,21.306569],"type":"Point"}
+}

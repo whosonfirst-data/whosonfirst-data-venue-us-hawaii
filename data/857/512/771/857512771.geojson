@@ -1,0 +1,71 @@
+{
+  "id": 857512771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821327,21.291531,-157.821327,21.291531",
+    "geom:latitude":21.291531,
+    "geom:longitude":-157.821327,
+    "iso:country":"US",
+    "sg:address":"2617 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 1178",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M8tneyT28yCxLvzz3fXo7_21.291531_-157.821327@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202202,
+    "wof:geomhash":"93c12ef6ef68f202e4c6d879fa890302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857512771
+        }
+    ],
+    "wof:id":857512771,
+    "wof:lastmodified":1464202202,
+    "wof:name":"Hair Today",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.821327,
+    21.291531,
+    -157.821327,
+    21.291531
+],
+  "geometry": {"coordinates":[-157.821327,21.291531],"type":"Point"}
+}

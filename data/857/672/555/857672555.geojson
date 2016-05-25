@@ -1,0 +1,75 @@
+{
+  "id": 857672555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.899643,21.341645,-157.899643,21.341645",
+    "geom:latitude":21.341645,
+    "geom:longitude":-157.899643,
+    "iso:country":"US",
+    "sg:address":"852 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 1133",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "waste",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s7NfQMEwvkVWmFzxYzHbj_21.341645_-157.899643@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206436,
+    "wof:geomhash":"04285692335f9fa26497bd625efbc09b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857672555
+        }
+    ],
+    "wof:id":857672555,
+    "wof:lastmodified":1464206436,
+    "wof:name":"LYC Co",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "container"
+    ]
+},
+  "bbox": [
+    -157.899643,
+    21.341645,
+    -157.899643,
+    21.341645
+],
+  "geometry": {"coordinates":[-157.899643,21.341645],"type":"Point"}
+}

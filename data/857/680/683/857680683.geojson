@@ -1,0 +1,74 @@
+{
+  "id": 857680683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461721,20.885912,-156.461721,20.885912",
+    "geom:latitude":20.885912,
+    "geom:longitude":-156.461721,
+    "iso:country":"US",
+    "sg:address":"144 E Wakea Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/kahului/198272-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 9109",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L6gcVdToJjXEUOAJkwrrd_20.885912_-156.461721@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"78398e97a6321523305114a0e5b89e29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680683
+        }
+    ],
+    "wof:id":857680683,
+    "wof:lastmodified":1464206752,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -156.461721,
+    20.885912,
+    -156.461721,
+    20.885912
+],
+  "geometry": {"coordinates":[-156.46172100000001,20.885912],"type":"Point"}
+}

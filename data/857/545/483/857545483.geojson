@@ -1,0 +1,75 @@
+{
+  "id": 857545483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.043814,19.636628,-155.043814,19.636628",
+    "geom:latitude":19.636628,
+    "geom:longitude":-155.043814,
+    "iso:country":"US",
+    "sg:address":"216 Wiliama Pl",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 966 5422",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e3YS6OJwyt5Qq50x8cxiN_19.636628_-155.043814@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202848,
+    "wof:geomhash":"a298d9368aa643add9e69bee7004dcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857545483
+        }
+    ],
+    "wof:id":857545483,
+    "wof:lastmodified":1464202848,
+    "wof:name":"HRC Co",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.043814,
+    19.636628,
+    -155.043814,
+    19.636628
+],
+  "geometry": {"coordinates":[-155.043814,19.636628],"type":"Point"}
+}

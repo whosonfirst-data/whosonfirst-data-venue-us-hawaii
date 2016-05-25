@@ -1,0 +1,76 @@
+{
+  "id": 857523497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86027,21.313886,-157.86027,21.313886",
+    "geom:latitude":21.313886,
+    "geom:longitude":-157.86027,
+    "iso:country":"US",
+    "sg:address":"1245 Maunakea St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 9905",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15xBQ7mYImqtjQsCNmhSK6_21.313886_-157.860270@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202421,
+    "wof:geomhash":"42f9dacfa830d09addeefa0a0891a9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857523497
+        }
+    ],
+    "wof:id":857523497,
+    "wof:lastmodified":1464202421,
+    "wof:name":"Maunakea Tower",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.86027,
+    21.313886,
+    -157.86027,
+    21.313886
+],
+  "geometry": {"coordinates":[-157.86027000000001,21.313886],"type":"Point"}
+}

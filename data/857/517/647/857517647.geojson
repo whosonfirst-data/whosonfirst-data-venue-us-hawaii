@@ -1,0 +1,73 @@
+{
+  "id": 857517647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.50682,20.894297,-156.50682,20.894297",
+    "geom:latitude":20.894297,
+    "geom:longitude":-156.50682,
+    "iso:country":"US",
+    "sg:address":"2015 Holowai Pl",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 243 5001",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M1BteXQeCcKQenpBPvb65_20.894297_-156.506820@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202302,
+    "wof:geomhash":"7d25e3d79ef7b62c86de1f2c84c9a7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857517647
+        }
+    ],
+    "wof:id":857517647,
+    "wof:lastmodified":1464202302,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -156.50682,
+    20.894297,
+    -156.50682,
+    20.894297
+],
+  "geometry": {"coordinates":[-156.50682,20.894297],"type":"Point"}
+}

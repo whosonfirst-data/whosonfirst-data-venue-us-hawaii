@@ -1,0 +1,71 @@
+{
+  "id": 857549289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.857173,21.314956,-157.857173,21.314956",
+    "geom:latitude":21.314956,
+    "geom:longitude":-157.857173,
+    "iso:country":"US",
+    "sg:address":"1515 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 371 3571",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VnAQi9f9PM3E5TFn5WiMy_21.314956_-157.857173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202917,
+    "wof:geomhash":"8002c32653c8e1a875948deb78afa0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872713,
+            "region_id":85688671,
+            "venue_id":857549289
+        }
+    ],
+    "wof:id":857549289,
+    "wof:lastmodified":1464202917,
+    "wof:name":"Security X",
+    "wof:parent_id":85872713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -157.857173,
+    21.314956,
+    -157.857173,
+    21.314956
+],
+  "geometry": {"coordinates":[-157.85717299999999,21.314956],"type":"Point"}
+}

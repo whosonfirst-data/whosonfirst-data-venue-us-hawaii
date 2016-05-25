@@ -1,0 +1,75 @@
+{
+  "id": 857526825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859377,21.311431,-157.859377,21.311431",
+    "geom:latitude":21.311431,
+    "geom:longitude":-157.859377,
+    "iso:country":"US",
+    "sg:address":"50 S Beretania St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 2334",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dOHBQBMJWwgOmfXT99Mwk_21.311431_-157.859377@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202483,
+    "wof:geomhash":"cec753ecb7a279dee7bc8fa4fa91b101",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857526825
+        }
+    ],
+    "wof:id":857526825,
+    "wof:lastmodified":1464202483,
+    "wof:name":"P K Ng MD",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.859377,
+    21.311431,
+    -157.859377,
+    21.311431
+],
+  "geometry": {"coordinates":[-157.85937699999999,21.311431],"type":"Point"}
+}

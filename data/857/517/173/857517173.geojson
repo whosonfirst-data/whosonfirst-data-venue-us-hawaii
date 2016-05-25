@@ -1,0 +1,73 @@
+{
+  "id": 857517173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.811296,21.267608,-157.811296,21.267608",
+    "geom:latitude":21.267608,
+    "geom:longitude":-157.811296,
+    "iso:country":"US",
+    "sg:address":"3755 Diamond Head Cir",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 4929",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dBQpZ3e4lOKZMNuJywfOi_21.267608_-157.811296@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202293,
+    "wof:geomhash":"6de1eb58fe93d6309a971bd9b3b1db76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857517173
+        }
+    ],
+    "wof:id":857517173,
+    "wof:lastmodified":1464202293,
+    "wof:name":"Angel's Construction",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.811296,
+    21.267608,
+    -157.811296,
+    21.267608
+],
+  "geometry": {"coordinates":[-157.811296,21.267608],"type":"Point"}
+}

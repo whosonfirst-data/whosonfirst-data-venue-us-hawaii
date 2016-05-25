@@ -1,0 +1,71 @@
+{
+  "id": 857625119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.838416,21.328542,-157.838416,21.328542",
+    "geom:latitude":21.328542,
+    "geom:longitude":-157.838416,
+    "iso:country":"US",
+    "sg:address":"3101 Pacific Heights Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 3534",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OZiB1cwoyaoVuc6mN274J_21.328542_-157.838416@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204564,
+    "wof:geomhash":"49ad1cb93262c3a867ee0670a5c0977b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857625119
+        }
+    ],
+    "wof:id":857625119,
+    "wof:lastmodified":1464204564,
+    "wof:name":"Sanford S Asahina Dr",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.838416,
+    21.328542,
+    -157.838416,
+    21.328542
+],
+  "geometry": {"coordinates":[-157.838416,21.328542],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857600711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866267,21.331905,-157.866267,21.331905",
+    "geom:latitude":21.331905,
+    "geom:longitude":-157.866267,
+    "iso:country":"US",
+    "sg:address":"1315 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 3940",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IPkUujknzcDnTOZJfccDc_21.331905_-157.866267@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204001,
+    "wof:geomhash":"442f8ade5de8e27a644ad9a6dd30bee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857600711
+        }
+    ],
+    "wof:id":857600711,
+    "wof:lastmodified":1464204001,
+    "wof:name":"Keos Sundry Store",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.866267,
+    21.331905,
+    -157.866267,
+    21.331905
+],
+  "geometry": {"coordinates":[-157.86626699999999,21.331905],"type":"Point"}
+}

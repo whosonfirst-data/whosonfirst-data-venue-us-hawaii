@@ -1,0 +1,71 @@
+{
+  "id": 857678609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85945,21.332264,-157.85945,21.332264",
+    "geom:latitude":21.332264,
+    "geom:longitude":-157.85945,
+    "iso:country":"US",
+    "sg:address":"2062 Makanani Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 8657",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mMhfIa5mvThBiCJ7KBqo7_21.332264_-157.859450@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206677,
+    "wof:geomhash":"43bbf04ca218f2d3758de5d1e03bf9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827759,
+            "region_id":85688671,
+            "venue_id":857678609
+        }
+    ],
+    "wof:id":857678609,
+    "wof:lastmodified":1464206677,
+    "wof:name":"Trilles Auto Services Inc",
+    "wof:parent_id":85827759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.85945,
+    21.332264,
+    -157.85945,
+    21.332264
+],
+  "geometry": {"coordinates":[-157.85945000000001,21.332264],"type":"Point"}
+}

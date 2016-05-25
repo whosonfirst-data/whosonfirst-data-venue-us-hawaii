@@ -1,0 +1,75 @@
+{
+  "id": 857676887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.493724,20.889682,-156.493724,20.889682",
+    "geom:latitude":20.889682,
+    "geom:longitude":-156.493724,
+    "iso:country":"US",
+    "sg:address":"35 Lunalilo St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 249 2285",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10H6UKRmpOUW9tiCmWLGfu_20.889682_-156.493724@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206610,
+    "wof:geomhash":"862931a49da79f367fe9ff873bf1dbe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857676887
+        }
+    ],
+    "wof:id":857676887,
+    "wof:lastmodified":1464206610,
+    "wof:name":"William B Meinke MD",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -156.493724,
+    20.889682,
+    -156.493724,
+    20.889682
+],
+  "geometry": {"coordinates":[-156.49372399999999,20.889682],"type":"Point"}
+}

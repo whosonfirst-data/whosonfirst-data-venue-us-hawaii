@@ -1,0 +1,73 @@
+{
+  "id": 857516115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806484,21.321923,-157.806484,21.321923",
+    "geom:latitude":21.321923,
+    "geom:longitude":-157.806484,
+    "iso:country":"US",
+    "sg:address":"3343 Oahu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 3955",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GCaNkKA3z2LtbXe6bczys_21.321923_-157.806484@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202272,
+    "wof:geomhash":"bd900875d3abf3cfd6e301526ed273c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872729,
+            "region_id":85688671,
+            "venue_id":857516115
+        }
+    ],
+    "wof:id":857516115,
+    "wof:lastmodified":1464202272,
+    "wof:name":"Kamaile Sunrise",
+    "wof:parent_id":85872729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -157.806484,
+    21.321923,
+    -157.806484,
+    21.321923
+],
+  "geometry": {"coordinates":[-157.80648400000001,21.321923],"type":"Point"}
+}

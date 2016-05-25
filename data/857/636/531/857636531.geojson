@@ -1,0 +1,71 @@
+{
+  "id": 857636531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.449793,20.899619,-156.449793,20.899619",
+    "geom:latitude":20.899619,
+    "geom:longitude":-156.449793,
+    "iso:country":"US",
+    "sg:address":"261 Amala Pl",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 8012",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kfBWnz9AC0CYoimqr8dqR_20.899619_-156.449793@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204887,
+    "wof:geomhash":"9c6313268ca9e54980dd8f87fe9efc9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857636531
+        }
+    ],
+    "wof:id":857636531,
+    "wof:lastmodified":1464204887,
+    "wof:name":"Ace Mechanical Plumbing Contr",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.449793,
+    20.899619,
+    -156.449793,
+    20.899619
+],
+  "geometry": {"coordinates":[-156.449793,20.899619],"type":"Point"}
+}

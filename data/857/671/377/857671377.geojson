@@ -1,0 +1,73 @@
+{
+  "id": 857671377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856669,21.298269,-157.856669,21.298269",
+    "geom:latitude":21.298269,
+    "geom:longitude":-157.856669,
+    "iso:country":"US",
+    "sg:address":"810 Halekauwila St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 8193",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZeCL22V1wKDihMl1jfLz4_21.298269_-157.856669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206388,
+    "wof:geomhash":"c650b2ca9b5d9ef9f78387d742144c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857671377
+        }
+    ],
+    "wof:id":857671377,
+    "wof:lastmodified":1464206388,
+    "wof:name":"Todoki Machine & Marine Works",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.856669,
+    21.298269,
+    -157.856669,
+    21.298269
+],
+  "geometry": {"coordinates":[-157.85666900000001,21.298269],"type":"Point"}
+}

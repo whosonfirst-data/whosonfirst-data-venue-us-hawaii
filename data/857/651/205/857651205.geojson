@@ -1,0 +1,73 @@
+{
+  "id": 857651205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.051203,19.718179,-155.051203,19.718179",
+    "geom:latitude":19.718179,
+    "geom:longitude":-155.051203,
+    "iso:country":"US",
+    "sg:address":"110 Operations St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 969 7323",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H5zSZAX7OuIW5VJzEJC6c_19.718179_-155.051203@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205503,
+    "wof:geomhash":"95d7c8f1b5b2a7ed0cad26fb3832e3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857651205
+        }
+    ],
+    "wof:id":857651205,
+    "wof:lastmodified":1464205503,
+    "wof:name":"Federal Express Corporation",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -155.051203,
+    19.718179,
+    -155.051203,
+    19.718179
+],
+  "geometry": {"coordinates":[-155.05120299999999,19.718179],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857681147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.034574,21.391115,-158.034574,21.391115",
+    "geom:latitude":21.391115,
+    "geom:longitude":-158.034574,
+    "iso:country":"US",
+    "sg:address":"94-595 Kupuohi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/202830-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 688 0990",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937549,
+        102085417,
+        85890707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XKmifOavG7KFX6HVzjf6i_21.391115_-158.034574@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"a0b75991d7e72b7f0dd342d67e179dbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937549,
+            "neighbourhood_id":85890707,
+            "region_id":85688671,
+            "venue_id":857681147
+        }
+    ],
+    "wof:id":857681147,
+    "wof:lastmodified":1464206770,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85890707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -158.034574,
+    21.391115,
+    -158.034574,
+    21.391115
+],
+  "geometry": {"coordinates":[-158.03457399999999,21.391115],"type":"Point"}
+}

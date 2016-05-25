@@ -1,0 +1,73 @@
+{
+  "id": 857505475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806602,21.293888,-157.806602,21.293888",
+    "geom:latitude":21.293888,
+    "geom:longitude":-157.806602,
+    "iso:country":"US",
+    "sg:address":"1457 Pule Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 8492",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Szoqe6W5cIvlfol7HQrQV_21.293888_-157.806602@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202047,
+    "wof:geomhash":"f6f5aeab33a95dcc11a750ea98cc4ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857505475
+        }
+    ],
+    "wof:id":857505475,
+    "wof:lastmodified":1464202047,
+    "wof:name":"Cheap Plumbing & Repair Svc",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.806602,
+    21.293888,
+    -157.806602,
+    21.293888
+],
+  "geometry": {"coordinates":[-157.806602,21.293888],"type":"Point"}
+}

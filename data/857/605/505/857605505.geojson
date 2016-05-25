@@ -1,0 +1,71 @@
+{
+  "id": 857605505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.852067,21.320464,-157.852067,21.320464",
+    "geom:latitude":21.320464,
+    "geom:longitude":-157.852067,
+    "iso:country":"US",
+    "sg:address":"1909 Nuuanu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 2994",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_173dbfQHem3DtAmZddx62U_21.320464_-157.852067@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204107,
+    "wof:geomhash":"186ab16662fb5f4dd4fb8b4e99998d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857605505
+        }
+    ],
+    "wof:id":857605505,
+    "wof:lastmodified":1464204107,
+    "wof:name":"Melim Service Center",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -157.852067,
+    21.320464,
+    -157.852067,
+    21.320464
+],
+  "geometry": {"coordinates":[-157.85206700000001,21.320464],"type":"Point"}
+}

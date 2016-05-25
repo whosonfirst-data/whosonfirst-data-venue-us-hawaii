@@ -1,0 +1,64 @@
+{
+  "id": 857609371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.111995,19.874054,-155.111995,19.874054",
+    "geom:latitude":19.874054,
+    "geom:longitude":-155.111995,
+    "iso:country":"US",
+    "sg:address":"171 Honomu Rd",
+    "sg:city":"Honomu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 000 1111",
+    "sg:postcode":"96728",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890649,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cf7KD34UWsy0NxCvE2w7y_19.874054_-155.111995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204194,
+    "wof:geomhash":"5eb98d852b7076dd3e98f636ddc47c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890649,
+            "region_id":85688671,
+            "venue_id":857609371
+        }
+    ],
+    "wof:id":857609371,
+    "wof:lastmodified":1464204194,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85890649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.111995,
+    19.874054,
+    -155.111995,
+    19.874054
+],
+  "geometry": {"coordinates":[-155.11199500000001,19.874054],"type":"Point"}
+}

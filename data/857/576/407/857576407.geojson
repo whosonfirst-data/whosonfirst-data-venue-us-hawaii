@@ -1,0 +1,71 @@
+{
+  "id": 857576407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.846494,21.321094,-157.846494,21.321094",
+    "geom:latitude":21.321094,
+    "geom:longitude":-157.846494,
+    "iso:country":"US",
+    "sg:address":"2111 Booth Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 545 2537",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6htGAHreXmZUzAS2gSDZiJ_21.321094_-157.846494@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203478,
+    "wof:geomhash":"14b94dc3047e7b9a3c855cc456d9afeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857576407
+        }
+    ],
+    "wof:id":857576407,
+    "wof:lastmodified":1464203478,
+    "wof:name":"Lau's Repair Svc Inc LLC",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.846494,
+    21.321094,
+    -157.846494,
+    21.321094
+],
+  "geometry": {"coordinates":[-157.84649400000001,21.321094],"type":"Point"}
+}

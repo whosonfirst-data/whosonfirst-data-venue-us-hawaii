@@ -1,0 +1,71 @@
+{
+  "id": 857622803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867892,21.323103,-157.867892,21.323103",
+    "geom:latitude":21.323103,
+    "geom:longitude":-157.867892,
+    "iso:country":"US",
+    "sg:address":"936 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 4212",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lNx9g3AQVDeagOoS81cAN_21.323103_-157.867892@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204504,
+    "wof:geomhash":"942a907bd9be0205b138ba2223aacc60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857622803
+        }
+    ],
+    "wof:id":857622803,
+    "wof:lastmodified":1464204504,
+    "wof:name":"Beas Barber Shop",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.867892,
+    21.323103,
+    -157.867892,
+    21.323103
+],
+  "geometry": {"coordinates":[-157.86789200000001,21.323103],"type":"Point"}
+}

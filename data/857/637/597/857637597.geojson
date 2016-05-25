@@ -1,0 +1,71 @@
+{
+  "id": 857637597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.465406,20.07813,-155.465406,20.07813",
+    "geom:latitude":20.07813,
+    "geom:longitude":-155.465406,
+    "iso:country":"US",
+    "sg:address":"3490 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 0911",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CQqlkQBES5cBUC9lABw3T_20.078130_-155.465406@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204926,
+    "wof:geomhash":"7685d7165cf5d54d0ab80f7e2b736882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857637597
+        }
+    ],
+    "wof:id":857637597,
+    "wof:lastmodified":1464204926,
+    "wof:name":"Catz Clawz",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -155.465406,
+    20.07813,
+    -155.465406,
+    20.07813
+],
+  "geometry": {"coordinates":[-155.465406,20.07813],"type":"Point"}
+}

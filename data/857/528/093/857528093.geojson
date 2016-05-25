@@ -1,0 +1,75 @@
+{
+  "id": 857528093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.102214,21.303622,-158.102214,21.303622",
+    "geom:latitude":21.303622,
+    "geom:longitude":-158.102214,
+    "iso:country":"US",
+    "sg:address":"163 Hanua St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 2100",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "gas",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zwympkiSe3oe9FRtl0Fqy_21.303622_-158.102214@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202507,
+    "wof:geomhash":"30f34c7b1cb1305b2a592cd54e543ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857528093
+        }
+    ],
+    "wof:id":857528093,
+    "wof:lastmodified":1464202507,
+    "wof:name":"Air Liquide America Corp",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "industrial",
+        "gas",
+        "supply"
+    ]
+},
+  "bbox": [
+    -158.102214,
+    21.303622,
+    -158.102214,
+    21.303622
+],
+  "geometry": {"coordinates":[-158.102214,21.303622],"type":"Point"}
+}

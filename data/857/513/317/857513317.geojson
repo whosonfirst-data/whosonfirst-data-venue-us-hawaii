@@ -1,0 +1,71 @@
+{
+  "id": 857513317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859583,21.321792,-157.859583,21.321792",
+    "geom:latitude":21.321792,
+    "geom:longitude":-157.859583,
+    "iso:country":"US",
+    "sg:address":"1639 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 5522",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EF2Uv8GNO4OOg93g89JsP_21.321792_-157.859583@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202217,
+    "wof:geomhash":"4ed1e75a6ac8f9642045f693311b5a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857513317
+        }
+    ],
+    "wof:id":857513317,
+    "wof:lastmodified":1464202217,
+    "wof:name":"Always Flowers",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower"
+    ]
+},
+  "bbox": [
+    -157.859583,
+    21.321792,
+    -157.859583,
+    21.321792
+],
+  "geometry": {"coordinates":[-157.85958299999999,21.321792],"type":"Point"}
+}

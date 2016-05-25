@@ -1,0 +1,73 @@
+{
+  "id": 857583471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.466991,20.078811,-155.466991,20.078811",
+    "geom:latitude":20.078811,
+    "geom:longitude":-155.466991,
+    "iso:country":"US",
+    "sg:address":"3626 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 0290",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "bookkeeping",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K38VFdHNThVEqhUotPZjT_20.078811_-155.466991@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203616,
+    "wof:geomhash":"95021f2c6c71469f451f42a098f3a000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857583471
+        }
+    ],
+    "wof:id":857583471,
+    "wof:lastmodified":1464203616,
+    "wof:name":"Smith & Co",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "general"
+    ]
+},
+  "bbox": [
+    -155.466991,
+    20.078811,
+    -155.466991,
+    20.078811
+],
+  "geometry": {"coordinates":[-155.46699100000001,20.078811],"type":"Point"}
+}

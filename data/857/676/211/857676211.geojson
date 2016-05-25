@@ -1,0 +1,75 @@
+{
+  "id": 857676211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.75701,21.280715,-157.75701,21.280715",
+    "geom:latitude":21.280715,
+    "geom:longitude":-157.75701,
+    "iso:country":"US",
+    "sg:address":"209 Hao St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 9825",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "company",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85854135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ON9z0nQmuLMKcXQr0tsua_21.280715_-157.757010@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206584,
+    "wof:geomhash":"8e4618f99d6c2d5d196953f0246ae29a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85854135,
+            "region_id":85688671,
+            "venue_id":857676211
+        }
+    ],
+    "wof:id":857676211,
+    "wof:lastmodified":1464206584,
+    "wof:name":"Kevin Akana Trucking",
+    "wof:parent_id":85854135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -157.75701,
+    21.280715,
+    -157.75701,
+    21.280715
+],
+  "geometry": {"coordinates":[-157.75701000000001,21.280715],"type":"Point"}
+}

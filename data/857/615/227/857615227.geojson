@@ -1,0 +1,77 @@
+{
+  "id": 857615227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.349623,20.848175,-156.349623,20.848175",
+    "geom:latitude":20.848175,
+    "geom:longitude":-156.349623,
+    "iso:country":"US",
+    "sg:address":"2848 Old Haleakala Hwy",
+    "sg:city":"Makawao",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 1839",
+    "sg:postcode":"96768",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937635,
+        102085577,
+        85890585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8s32kn0h2snc9bTeyx4t_20.848175_-156.349623@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204326,
+    "wof:geomhash":"18a43be2810d7ed4d88f02e54bb4be3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937635,
+            "neighbourhood_id":85890585,
+            "region_id":85688671,
+            "venue_id":857615227
+        }
+    ],
+    "wof:id":857615227,
+    "wof:lastmodified":1464204326,
+    "wof:name":"Island Pet Mobile Groomer",
+    "wof:parent_id":85890585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -156.349623,
+    20.848175,
+    -156.349623,
+    20.848175
+],
+  "geometry": {"coordinates":[-156.34962300000001,20.848175],"type":"Point"}
+}

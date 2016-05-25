@@ -1,0 +1,68 @@
+{
+  "id": 857506849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.913084,21.344877,-157.913084,21.344877",
+    "geom:latitude":21.344877,
+    "geom:longitude":-157.913084,
+    "iso:country":"US",
+    "sg:address":"848 Ala Lilikoi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 2544",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vFJSYUfqsDc7HPcHcb4Hh_21.344877_-157.913084@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202076,
+    "wof:geomhash":"ab15633d9f290eb12a055eef1c5c70f3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857506849
+        }
+    ],
+    "wof:id":857506849,
+    "wof:lastmodified":1464202076,
+    "wof:name":"Supercuts",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.913084,
+    21.344877,
+    -157.913084,
+    21.344877
+],
+  "geometry": {"coordinates":[-157.913084,21.344877],"type":"Point"}
+}

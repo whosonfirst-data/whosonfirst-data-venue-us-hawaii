@@ -1,0 +1,71 @@
+{
+  "id": 857669905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.968259,21.393261,-157.968259,21.393261",
+    "geom:latitude":21.393261,
+    "geom:longitude":-157.968259,
+    "iso:country":"US",
+    "sg:address":"826 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 1027",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r96LAbeOyvnuf19jFrhjD_21.393261_-157.968259@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206337,
+    "wof:geomhash":"60397247e90c39bdc1c91df0f94ec3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857669905
+        }
+    ],
+    "wof:id":857669905,
+    "wof:lastmodified":1464206337,
+    "wof:name":"Pacific Towing Inc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.968259,
+    21.393261,
+    -157.968259,
+    21.393261
+],
+  "geometry": {"coordinates":[-157.96825899999999,21.393261],"type":"Point"}
+}

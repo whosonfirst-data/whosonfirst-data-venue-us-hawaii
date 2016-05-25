@@ -1,0 +1,78 @@
+{
+  "id": 857680859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.447593,20.723142,-156.447593,20.723142",
+    "geom:latitude":20.723142,
+    "geom:longitude":-156.447593,
+    "iso:country":"US",
+    "sg:address":"2411 S Kihei Rd",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/kihei/124289-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 891 1333",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KBmXBZvX6FkjIlDdRhgNi_20.723142_-156.447593@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206758,
+    "wof:geomhash":"20cc2e29b50e46efe6008b9850e73d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857680859
+        }
+    ],
+    "wof:id":857680859,
+    "wof:lastmodified":1464206758,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -156.447593,
+    20.723142,
+    -156.447593,
+    20.723142
+],
+  "geometry": {"coordinates":[-156.44759300000001,20.723142],"type":"Point"}
+}

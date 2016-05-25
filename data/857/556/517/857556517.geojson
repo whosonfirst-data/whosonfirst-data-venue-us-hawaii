@@ -1,0 +1,73 @@
+{
+  "id": 857556517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.21241,21.463527,-158.21241,21.463527",
+    "geom:latitude":21.463527,
+    "geom:longitude":-158.21241,
+    "iso:country":"US",
+    "sg:address":"942 Farrington Hwy",
+    "sg:city":"Waianae",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 696 4884",
+    "sg:postcode":"96792",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937575,
+        102085417,
+        85831991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iB00h0H9SAGUNt7TjJSJQ_21.463527_-158.212410@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203062,
+    "wof:geomhash":"e4850b752e8692fd2ff20b28346dd066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937575,
+            "neighbourhood_id":85831991,
+            "region_id":85688671,
+            "venue_id":857556517
+        }
+    ],
+    "wof:id":857556517,
+    "wof:lastmodified":1464203062,
+    "wof:name":"K & W Inspection Station",
+    "wof:parent_id":85831991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -158.21241,
+    21.463527,
+    -158.21241,
+    21.463527
+],
+  "geometry": {"coordinates":[-158.21241000000001,21.463527],"type":"Point"}
+}

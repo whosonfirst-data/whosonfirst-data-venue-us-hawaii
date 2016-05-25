@@ -1,0 +1,66 @@
+{
+  "id": 857640143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.707692,21.285752,-157.707692,21.285752",
+    "geom:latitude":21.285752,
+    "geom:longitude":-157.707692,
+    "iso:country":"US",
+    "sg:address":"377 Keahole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 7885",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44vfVW7uyZmsXbGACaOXy7_21.285752_-157.707692@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205023,
+    "wof:geomhash":"5e9f8a6ebc084d0119f7b6b88c3643a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857640143
+        }
+    ],
+    "wof:id":857640143,
+    "wof:lastmodified":1464205023,
+    "wof:name":"Hawaii Kai",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.707692,
+    21.285752,
+    -157.707692,
+    21.285752
+],
+  "geometry": {"coordinates":[-157.70769200000001,21.285752],"type":"Point"}
+}

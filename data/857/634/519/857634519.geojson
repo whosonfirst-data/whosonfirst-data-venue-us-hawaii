@@ -1,0 +1,71 @@
+{
+  "id": 857634519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.832798,21.291299,-157.832798,21.291299",
+    "geom:latitude":21.291299,
+    "geom:longitude":-157.832798,
+    "iso:country":"US",
+    "sg:address":"731 Pumehana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 722 6037",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JP20wtNWRgXcjzXg3Hfcl_21.291299_-157.832798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204816,
+    "wof:geomhash":"be1ccb1f9f1f17aa1cf646162f8a4442",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857634519
+        }
+    ],
+    "wof:id":857634519,
+    "wof:lastmodified":1464204816,
+    "wof:name":"First Royal Limousine Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -157.832798,
+    21.291299,
+    -157.832798,
+    21.291299
+],
+  "geometry": {"coordinates":[-157.832798,21.291299],"type":"Point"}
+}

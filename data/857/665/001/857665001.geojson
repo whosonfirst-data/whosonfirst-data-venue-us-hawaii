@@ -1,0 +1,75 @@
+{
+  "id": 857665001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.782782,21.270757,-157.782782,21.270757",
+    "geom:latitude":21.270757,
+    "geom:longitude":-157.782782,
+    "iso:country":"US",
+    "sg:address":"4767 Farmers Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 732 4449",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "hotel",
+        "management",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X5Fngox301lfiDWZ4SLf3_21.270757_-157.782782@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206127,
+    "wof:geomhash":"acc45141e906bac384703142a7e7ea21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857665001
+        }
+    ],
+    "wof:id":857665001,
+    "wof:lastmodified":1464206127,
+    "wof:name":"C H R Ltd",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotel",
+        "management",
+        "agency"
+    ]
+},
+  "bbox": [
+    -157.782782,
+    21.270757,
+    -157.782782,
+    21.270757
+],
+  "geometry": {"coordinates":[-157.782782,21.270757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857619655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.462471,20.889703,-156.462471,20.889703",
+    "geom:latitude":20.889703,
+    "geom:longitude":-156.462471,
+    "iso:country":"US",
+    "sg:address":"173 Alamaha St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 8887",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "steam",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fcm4IXgJm87Ntzn08mQ9r_20.889703_-156.462471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204424,
+    "wof:geomhash":"24f5f430210c1825b7903dd642022e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857619655
+        }
+    ],
+    "wof:id":857619655,
+    "wof:lastmodified":1464204424,
+    "wof:name":"Extreme Steam",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steam",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -156.462471,
+    20.889703,
+    -156.462471,
+    20.889703
+],
+  "geometry": {"coordinates":[-156.46247099999999,20.889703],"type":"Point"}
+}

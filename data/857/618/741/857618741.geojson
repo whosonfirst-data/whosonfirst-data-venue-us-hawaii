@@ -1,0 +1,73 @@
+{
+  "id": 857618741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.787492,21.292896,-157.787492,21.292896",
+    "geom:latitude":21.292896,
+    "geom:longitude":-157.787492,
+    "iso:country":"US",
+    "sg:address":"3815 Monterey Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 0370",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary",
+        "preschool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kkFb67IzZCaIxAOPrsUH3_21.292896_-157.787492@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204396,
+    "wof:geomhash":"a3755eb7894d111f07d1b87494ac9ad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857618741
+        }
+    ],
+    "wof:id":857618741,
+    "wof:lastmodified":1464204396,
+    "wof:name":"Small Private School",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "preschool"
+    ]
+},
+  "bbox": [
+    -157.787492,
+    21.292896,
+    -157.787492,
+    21.292896
+],
+  "geometry": {"coordinates":[-157.78749199999999,21.292896],"type":"Point"}
+}

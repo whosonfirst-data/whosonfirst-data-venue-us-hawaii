@@ -1,0 +1,68 @@
+{
+  "id": 857664709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.894751,21.344855,-157.894751,21.344855",
+    "geom:latitude":21.344855,
+    "geom:longitude":-157.894751,
+    "iso:country":"US",
+    "sg:address":"1050 Ahua St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1638",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_079V4NC8lnv67VlUuqL0f8_21.344855_-157.894751@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206112,
+    "wof:geomhash":"93402f1797e38de86360b6eea61851db",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857664709
+        }
+    ],
+    "wof:id":857664709,
+    "wof:lastmodified":1464206112,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.894751,
+    21.344855,
+    -157.894751,
+    21.344855
+],
+  "geometry": {"coordinates":[-157.89475100000001,21.344855],"type":"Point"}
+}

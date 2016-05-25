@@ -1,0 +1,73 @@
+{
+  "id": 857623849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.767946,21.370353,-157.767946,21.370353",
+    "geom:latitude":21.370353,
+    "geom:longitude":-157.767946,
+    "iso:country":"US",
+    "sg:address":"1082 Lunaanela St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 7229",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YjVs5OdLNtgbHUt2qftZ1_21.370353_-157.767946@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204534,
+    "wof:geomhash":"ac98daa316e851ec05d9c65c086006a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857623849
+        }
+    ],
+    "wof:id":857623849,
+    "wof:lastmodified":1464204534,
+    "wof:name":"Robert Love",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.767946,
+    21.370353,
+    -157.767946,
+    21.370353
+],
+  "geometry": {"coordinates":[-157.76794599999999,21.370353],"type":"Point"}
+}

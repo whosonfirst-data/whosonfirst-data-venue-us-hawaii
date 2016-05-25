@@ -1,0 +1,73 @@
+{
+  "id": 857660809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862772,21.29611,-157.862772,21.29611",
+    "geom:latitude":21.29611,
+    "geom:longitude":-157.862772,
+    "iso:country":"US",
+    "sg:address":"725 Ilalo St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 586 0870",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agricultural",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AXoo910V57isLgjUpE9vu_21.296110_-157.862772@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205944,
+    "wof:geomhash":"50a2ac6a28e99baf5842d1eea5905cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857660809
+        }
+    ],
+    "wof:id":857660809,
+    "wof:lastmodified":1464205944,
+    "wof:name":"Measurement Standards",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "state"
+    ]
+},
+  "bbox": [
+    -157.862772,
+    21.29611,
+    -157.862772,
+    21.29611
+],
+  "geometry": {"coordinates":[-157.86277200000001,21.29611],"type":"Point"}
+}

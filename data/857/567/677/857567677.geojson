@@ -1,0 +1,73 @@
+{
+  "id": 857567677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.830466,21.284892,-157.830466,21.284892",
+    "geom:latitude":21.284892,
+    "geom:longitude":-157.830466,
+    "iso:country":"US",
+    "sg:address":"432 Namahana St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 6700",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pEZR6VBuWLLXYTxJY31FT_21.284892_-157.830466@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203310,
+    "wof:geomhash":"f15fc6b5365d4eec4c093f0ceece66e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857567677
+        }
+    ],
+    "wof:id":857567677,
+    "wof:lastmodified":1464203310,
+    "wof:name":"Surftide Namahana Inc",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.830466,
+    21.284892,
+    -157.830466,
+    21.284892
+],
+  "geometry": {"coordinates":[-157.830466,21.284892],"type":"Point"}
+}

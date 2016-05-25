@@ -1,0 +1,71 @@
+{
+  "id": 857627561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798399,21.285969,-157.798399,21.285969",
+    "geom:latitude":21.285969,
+    "geom:longitude":-157.798399,
+    "iso:country":"US",
+    "sg:address":"3355 Sierra Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 330 6212",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DVVFdbYBdcFUhT2xHa8GS_21.285969_-157.798399@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204614,
+    "wof:geomhash":"223cd20fcf9b7e6017630fd0cab0014c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857627561
+        }
+    ],
+    "wof:id":857627561,
+    "wof:lastmodified":1464204614,
+    "wof:name":"Meta Oahu",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -157.798399,
+    21.285969,
+    -157.798399,
+    21.285969
+],
+  "geometry": {"coordinates":[-157.79839899999999,21.285969],"type":"Point"}
+}

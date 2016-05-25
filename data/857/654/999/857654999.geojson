@@ -1,0 +1,71 @@
+{
+  "id": 857654999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863037,21.309004,-157.863037,21.309004",
+    "geom:latitude":21.309004,
+    "geom:longitude":-157.863037,
+    "iso:country":"US",
+    "sg:address":"55 Merchant St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 237 4100",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UaijnrNvy8HLMXhJ8eQR4_21.309004_-157.863037@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205682,
+    "wof:geomhash":"88490d2a5b2ff7b11d431a2090d4e757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857654999
+        }
+    ],
+    "wof:id":857654999,
+    "wof:lastmodified":1464205682,
+    "wof:name":"Brandon T Ito",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.863037,
+    21.309004,
+    -157.863037,
+    21.309004
+],
+  "geometry": {"coordinates":[-157.86303699999999,21.309004],"type":"Point"}
+}

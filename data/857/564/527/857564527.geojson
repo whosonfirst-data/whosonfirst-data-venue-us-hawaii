@@ -1,0 +1,73 @@
+{
+  "id": 857564527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905654,21.334515,-157.905654,21.334515",
+    "geom:latitude":21.334515,
+    "geom:longitude":-157.905654,
+    "iso:country":"US",
+    "sg:address":"2869 Koapaka St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 834 8161",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iN8TQ305xo2cWDcTTI5s2_21.334515_-157.905654@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203247,
+    "wof:geomhash":"390515e406126ecc03888891b96e449d",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857564527
+        }
+    ],
+    "wof:id":857564527,
+    "wof:lastmodified":1464203247,
+    "wof:name":"Interior",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.905654,
+    21.334515,
+    -157.905654,
+    21.334515
+],
+  "geometry": {"coordinates":[-157.905654,21.334515],"type":"Point"}
+}

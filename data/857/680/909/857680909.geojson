@@ -1,0 +1,74 @@
+{
+  "id": 857680909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.693184,20.915015,-156.693184,20.915015",
+    "geom:latitude":20.915015,
+    "geom:longitude":-156.693184,
+    "iso:country":"US",
+    "sg:address":"200 Nohea Kai Dr",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/lahaina/3282-pavillion-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 1234",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937683,
+        102085577,
+        85890509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OqbxT6WQrGryHYhDhKQ70_20.915015_-156.693184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206761,
+    "wof:geomhash":"c8bb13ed0f3c13e561f0c36685019704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937683,
+            "neighbourhood_id":85890509,
+            "region_id":85688671,
+            "venue_id":857680909
+        }
+    ],
+    "wof:id":857680909,
+    "wof:lastmodified":1464206761,
+    "wof:name":"Pavillion Restaurant",
+    "wof:parent_id":85890509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -156.693184,
+    20.915015,
+    -156.693184,
+    20.915015
+],
+  "geometry": {"coordinates":[-156.693184,20.915015],"type":"Point"}
+}

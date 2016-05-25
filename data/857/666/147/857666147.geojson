@@ -1,0 +1,75 @@
+{
+  "id": 857666147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.990382,21.469196,-157.990382,21.469196",
+    "geom:latitude":21.469196,
+    "geom:longitude":-157.990382,
+    "iso:country":"US",
+    "sg:address":"1069 Alakaina St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 7568",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "refrigeration",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47CliPpCSb9fisCIy1r9ad_21.469196_-157.990382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206191,
+    "wof:geomhash":"ebd60087f78c366760fe3380313b0d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857666147
+        }
+    ],
+    "wof:id":857666147,
+    "wof:lastmodified":1464206191,
+    "wof:name":"Century AC & Rfrgn",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -157.990382,
+    21.469196,
+    -157.990382,
+    21.469196
+],
+  "geometry": {"coordinates":[-157.99038200000001,21.469196],"type":"Point"}
+}

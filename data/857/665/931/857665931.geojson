@@ -1,0 +1,68 @@
+{
+  "id": 857665931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.66686,20.859555,-156.66686,20.859555",
+    "geom:latitude":20.859555,
+    "geom:longitude":-156.66686,
+    "iso:country":"US",
+    "sg:address":"40 Puakukui Pl",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 662 8780",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937615,
+        102085577,
+        85890529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AVgX1HDFQzvva1fj6QBJe_20.859555_-156.666860@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206177,
+    "wof:geomhash":"ccce50e9d806039bda04257c9c733b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937615,
+            "neighbourhood_id":85890529,
+            "region_id":85688671,
+            "venue_id":857665931
+        }
+    ],
+    "wof:id":857665931,
+    "wof:lastmodified":1464206177,
+    "wof:name":"Erik's Seafood & Sushi Bar",
+    "wof:parent_id":85890529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.66686,
+    20.859555,
+    -156.66686,
+    20.859555
+],
+  "geometry": {"coordinates":[-156.66686000000001,20.859555],"type":"Point"}
+}

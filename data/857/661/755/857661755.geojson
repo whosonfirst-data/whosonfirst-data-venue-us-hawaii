@@ -1,0 +1,73 @@
+{
+  "id": 857661755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.700216,21.278032,-157.700216,21.278032",
+    "geom:latitude":21.278032,
+    "geom:longitude":-157.700216,
+    "iso:country":"US",
+    "sg:address":"7284 Kauhako St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 393 2434",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2155p4Fq7DNvZGy5r6TjgQ_21.278032_-157.700216@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206003,
+    "wof:geomhash":"bdfb707ab4f72f8b4472ac7ce33cdc14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857661755
+        }
+    ],
+    "wof:id":857661755,
+    "wof:lastmodified":1464206003,
+    "wof:name":"Schenks Specialized Services",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.700216,
+    21.278032,
+    -157.700216,
+    21.278032
+],
+  "geometry": {"coordinates":[-157.70021600000001,21.278032],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857650847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.783822,21.288543,-157.783822,21.288543",
+    "geom:latitude":21.288543,
+    "geom:longitude":-157.783822,
+    "iso:country":"US",
+    "sg:address":"1650 Akiaki Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 0541",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85872721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T6fuZmdX7jwSDZBGYjBkJ_21.288543_-157.783822@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205489,
+    "wof:geomhash":"3ac1fb42a431819df9d062ea15abd2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857650847
+        }
+    ],
+    "wof:id":857650847,
+    "wof:lastmodified":1464205489,
+    "wof:name":"Dance Co",
+    "wof:parent_id":85872721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -157.783822,
+    21.288543,
+    -157.783822,
+    21.288543
+],
+  "geometry": {"coordinates":[-157.78382199999999,21.288543],"type":"Point"}
+}

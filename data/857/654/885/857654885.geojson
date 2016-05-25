@@ -1,0 +1,71 @@
+{
+  "id": 857654885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.45416,20.07228,-155.45416,20.07228",
+    "geom:latitude":20.07228,
+    "geom:longitude":-155.45416,
+    "iso:country":"US",
+    "sg:address":"1380 Ohia St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 8850",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890261,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5To1CJmE2iLPFiFLHwNEA6_20.072280_-155.454160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205675,
+    "wof:geomhash":"5e88a7846ed3cc6e2fe77608f27e93bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890261,
+            "region_id":85688671,
+            "venue_id":857654885
+        }
+    ],
+    "wof:id":857654885,
+    "wof:lastmodified":1464205675,
+    "wof:name":"Highways Division",
+    "wof:parent_id":85890261,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.45416,
+    20.07228,
+    -155.45416,
+    20.07228
+],
+  "geometry": {"coordinates":[-155.45416,20.07228],"type":"Point"}
+}

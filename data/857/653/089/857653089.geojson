@@ -1,0 +1,73 @@
+{
+  "id": 857653089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.08822,21.370702,-158.08822,21.370702",
+    "geom:latitude":21.370702,
+    "geom:longitude":-158.08822,
+    "iso:country":"US",
+    "sg:address":"1282 Hookeha St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 672 3970",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937569,
+        102085417,
+        85890075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WL3oHVi6RrK9l1cZa56pH_21.370702_-158.088220@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205591,
+    "wof:geomhash":"89e2d1f711e18fc88a6bfdb4f331fbbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857653089
+        }
+    ],
+    "wof:id":857653089,
+    "wof:lastmodified":1464205591,
+    "wof:name":"Floor Gear",
+    "wof:parent_id":85890075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.08822,
+    21.370702,
+    -158.08822,
+    21.370702
+],
+  "geometry": {"coordinates":[-158.08822000000001,21.370702],"type":"Point"}
+}

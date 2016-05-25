@@ -1,0 +1,71 @@
+{
+  "id": 857507825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.754758,21.293001,-157.754758,21.293001",
+    "geom:latitude":21.293001,
+    "geom:longitude":-157.754758,
+    "iso:country":"US",
+    "sg:address":"939 Hind Iuka Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 2414",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X2OdOKCwnQGwunmkcjBjQ_21.293001_-157.754758@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202102,
+    "wof:geomhash":"7bf25e12a66fd138a3513d5cfd8956b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857507825
+        }
+    ],
+    "wof:id":857507825,
+    "wof:lastmodified":1464202102,
+    "wof:name":"Wailupe Valley School",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -157.754758,
+    21.293001,
+    -157.754758,
+    21.293001
+],
+  "geometry": {"coordinates":[-157.75475800000001,21.293001],"type":"Point"}
+}

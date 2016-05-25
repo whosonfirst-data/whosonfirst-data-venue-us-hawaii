@@ -1,0 +1,82 @@
+{
+  "id": 857678449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.711545,21.306637,-157.711545,21.306637",
+    "geom:latitude":21.306637,
+    "geom:longitude":-157.711545,
+    "iso:country":"US",
+    "sg:address":"909 Kahena St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 394 6161",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85890703,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GQXdIv2Zpp14W3pcxFpKy_21.306637_-157.711545@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206671,
+    "wof:geomhash":"6a2f7e97dbebf0638dc3e7834c2f683a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85890703,
+            "region_id":85688671,
+            "venue_id":857678449
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857678449
+        }
+    ],
+    "wof:id":857678449,
+    "wof:lastmodified":1464206671,
+    "wof:name":"Make Waves",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -157.711545,
+    21.306637,
+    -157.711545,
+    21.306637
+],
+  "geometry": {"coordinates":[-157.711545,21.306637],"type":"Point"}
+}

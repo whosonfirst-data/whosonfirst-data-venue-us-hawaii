@@ -1,0 +1,77 @@
+{
+  "id": 857633233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.854904,21.35384,-157.854904,21.35384",
+    "geom:latitude":21.35384,
+    "geom:longitude":-157.854904,
+    "iso:country":"US",
+    "sg:address":"3057 Papali St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 5667",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "cleaning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NHx6FOHYcvr8q4dQqdzdH_21.353840_-157.854904@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204764,
+    "wof:geomhash":"2c58c2d0953e53c8207732cd3872f26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857633233
+        }
+    ],
+    "wof:id":857633233,
+    "wof:lastmodified":1464204764,
+    "wof:name":"Performance Floors & Coatings",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "cleaning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.854904,
+    21.35384,
+    -157.854904,
+    21.35384
+],
+  "geometry": {"coordinates":[-157.854904,21.35384],"type":"Point"}
+}

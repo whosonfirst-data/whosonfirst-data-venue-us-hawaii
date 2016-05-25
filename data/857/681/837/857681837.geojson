@@ -1,0 +1,72 @@
+{
+  "id": 857681837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.833645,21.286742,-157.833645,21.286742",
+    "geom:latitude":21.286742,
+    "geom:longitude":-157.833645,
+    "iso:country":"US",
+    "sg:address":"1911 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3256-eggs-n-things/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 949 0820",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RD3pXgDrGdA8BaAoFnbpy_21.286721_-157.833638@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206808,
+    "wof:geomhash":"dbfe4df2d03d02f85f2b4149cda140c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857681837
+        }
+    ],
+    "wof:id":857681837,
+    "wof:lastmodified":1464206808,
+    "wof:name":"Eggs 'N Things",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.833645,
+    21.286742,
+    -157.833645,
+    21.286742
+],
+  "geometry": {"coordinates":[-157.83364499999999,21.286742],"type":"Point"}
+}

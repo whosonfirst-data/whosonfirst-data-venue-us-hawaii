@@ -1,0 +1,73 @@
+{
+  "id": 857607303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.595867,20.040899,-155.595867,20.040899",
+    "geom:latitude":20.040899,
+    "geom:longitude":-155.595867,
+    "iso:country":"US",
+    "sg:address":"763 Kalena Pl",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 887 0766",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890269,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nckfSVxaBwNtYvUQ1wQcl_20.040899_-155.595867@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204146,
+    "wof:geomhash":"b8bf679c88b825a25e1a72560cb3f41e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890269,
+            "region_id":85688671,
+            "venue_id":857607303
+        }
+    ],
+    "wof:id":857607303,
+    "wof:lastmodified":1464204146,
+    "wof:name":"Sweet Water Too",
+    "wof:parent_id":85890269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -155.595867,
+    20.040899,
+    -155.595867,
+    20.040899
+],
+  "geometry": {"coordinates":[-155.595867,20.040899],"type":"Point"}
+}

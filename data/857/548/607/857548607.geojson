@@ -1,0 +1,73 @@
+{
+  "id": 857548607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.814905,21.281134,-157.814905,21.281134",
+    "geom:latitude":21.281134,
+    "geom:longitude":-157.814905,
+    "iso:country":"US",
+    "sg:address":"750 Palani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 739 1188",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xH028Q7yZvzmhHwoKen7f_21.281134_-157.814905@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202904,
+    "wof:geomhash":"402a799ae255826453e7ff28e8bf71bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857548607
+        }
+    ],
+    "wof:id":857548607,
+    "wof:lastmodified":1464202904,
+    "wof:name":"City Pharmacy Kapahulu Inc",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -157.814905,
+    21.281134,
+    -157.814905,
+    21.281134
+],
+  "geometry": {"coordinates":[-157.81490500000001,21.281134],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857655083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.453002,20.746971,-156.453002,20.746971",
+    "geom:latitude":20.746971,
+    "geom:longitude":-156.453002,
+    "iso:country":"US",
+    "sg:address":"39 Kuapapa Pl",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 874 7485",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ioqWTUSeu2YYlPyjerbS_20.746971_-156.453002@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205686,
+    "wof:geomhash":"1be8ef790d783f2ad14b12ac2bcb52a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857655083
+        }
+    ],
+    "wof:id":857655083,
+    "wof:lastmodified":1464205686,
+    "wof:name":"Diane's Cleaning",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -156.453002,
+    20.746971,
+    -156.453002,
+    20.746971
+],
+  "geometry": {"coordinates":[-156.453002,20.746971],"type":"Point"}
+}

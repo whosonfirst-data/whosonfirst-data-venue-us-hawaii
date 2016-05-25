@@ -1,0 +1,73 @@
+{
+  "id": 857664623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.011511,21.4078,-158.011511,21.4078",
+    "geom:latitude":21.4078,
+    "geom:longitude":-158.011511,
+    "iso:country":"US",
+    "sg:address":"200 Huewai Pl",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 678 0767",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VgORRmefT3IY1bRwqnbP9_21.407800_-158.011511@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206109,
+    "wof:geomhash":"2256fd1f9e52a718b54e8dfe5c5b4bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857664623
+        }
+    ],
+    "wof:id":857664623,
+    "wof:lastmodified":1464206109,
+    "wof:name":"A & E Electric",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.011511,
+    21.4078,
+    -158.011511,
+    21.4078
+],
+  "geometry": {"coordinates":[-158.01151100000001,21.4078],"type":"Point"}
+}

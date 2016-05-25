@@ -1,0 +1,71 @@
+{
+  "id": 857549751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.801389,21.414822,-157.801389,21.414822",
+    "geom:latitude":21.414822,
+    "geom:longitude":-157.801389,
+    "iso:country":"US",
+    "sg:address":"529 Keaahala Rd",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 233 7330",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70dQWFeIucP577qFwXxcap_21.414822_-157.801389@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202926,
+    "wof:geomhash":"33534529614f4fa84e136dee6e2e5510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857549751
+        }
+    ],
+    "wof:id":857549751,
+    "wof:lastmodified":1464202926,
+    "wof:name":"Kaneohe Community Park",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -157.801389,
+    21.414822,
+    -157.801389,
+    21.414822
+],
+  "geometry": {"coordinates":[-157.801389,21.414822],"type":"Point"}
+}

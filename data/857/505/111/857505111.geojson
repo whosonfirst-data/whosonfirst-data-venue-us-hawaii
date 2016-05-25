@@ -1,0 +1,71 @@
+{
+  "id": 857505111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.905306,21.368909,-157.905306,21.368909",
+    "geom:latitude":21.368909,
+    "geom:longitude":-157.905306,
+    "iso:country":"US",
+    "sg:address":"3535 Forward Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 6651",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ubYxbKkLzh1VWud4faPws_21.368909_-157.905306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202035,
+    "wof:geomhash":"7e66ef8e2ded65bb07ea82fd068550cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857505111
+        }
+    ],
+    "wof:id":857505111,
+    "wof:lastmodified":1464202035,
+    "wof:name":"The Patchwork Garden",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -157.905306,
+    21.368909,
+    -157.905306,
+    21.368909
+],
+  "geometry": {"coordinates":[-157.905306,21.368909],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857514427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.698869,21.280718,-157.698869,21.280718",
+    "geom:latitude":21.280718,
+    "geom:longitude":-157.698869,
+    "iso:country":"US",
+    "sg:address":"364 Waiopua Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 396 6618",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85842893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a6GqohS4uHUTRsBWBtfWl_21.280718_-157.698869@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202241,
+    "wof:geomhash":"af161e7d9c02205615ad9a406f62fa91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85842893,
+            "region_id":85688671,
+            "venue_id":857514427
+        }
+    ],
+    "wof:id":857514427,
+    "wof:lastmodified":1464202241,
+    "wof:name":"Island Boilers",
+    "wof:parent_id":85842893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler"
+    ]
+},
+  "bbox": [
+    -157.698869,
+    21.280718,
+    -157.698869,
+    21.280718
+],
+  "geometry": {"coordinates":[-157.698869,21.280718],"type":"Point"}
+}

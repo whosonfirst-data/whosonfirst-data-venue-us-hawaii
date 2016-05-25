@@ -1,0 +1,67 @@
+{
+  "id": 857539321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853614,21.326255,-157.853614,21.326255",
+    "geom:latitude":21.326255,
+    "geom:longitude":-157.853614,
+    "iso:country":"US",
+    "sg:address":"467 N Judd St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 536 8418",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:website":"www.uccjudd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gmx0IYse56GNR1P85TRrl_21.326255_-157.853614@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202725,
+    "wof:geomhash":"aa2fabff96a00a90fc0e2c5388c42f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857539321
+        }
+    ],
+    "wof:id":857539321,
+    "wof:lastmodified":1464202725,
+    "wof:name":"United Church Of Christ",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.853614,
+    21.326255,
+    -157.853614,
+    21.326255
+],
+  "geometry": {"coordinates":[-157.85361399999999,21.326255],"type":"Point"}
+}

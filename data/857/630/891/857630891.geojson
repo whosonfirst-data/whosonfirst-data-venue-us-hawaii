@@ -1,0 +1,69 @@
+{
+  "id": 857630891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.830162,20.237944,-155.830162,20.237944",
+    "geom:latitude":20.237944,
+    "geom:longitude":-155.830162,
+    "iso:country":"US",
+    "sg:address":"3456 Akoni Pule Hwy",
+    "sg:city":"Hawi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 889 5813",
+    "sg:postcode":"96719",
+    "sg:province":"HI",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890219,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aPXrbqFbGAEuqKXGROtIn_20.237944_-155.830162@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204682,
+    "wof:geomhash":"6dfea11335bc081589317695626b736b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890219,
+            "region_id":85688671,
+            "venue_id":857630891
+        }
+    ],
+    "wof:id":857630891,
+    "wof:lastmodified":1464204682,
+    "wof:name":"Ohana Lending",
+    "wof:parent_id":85890219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -155.830162,
+    20.237944,
+    -155.830162,
+    20.237944
+],
+  "geometry": {"coordinates":[-155.830162,20.237944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857517763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.892655,21.350452,-157.892655,21.350452",
+    "geom:latitude":21.350452,
+    "geom:longitude":-157.892655,
+    "iso:country":"US",
+    "sg:address":"1204 Mahiole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 8395",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ohzjYlSvSTXM5KztfQ3UQ_21.350452_-157.892655@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202304,
+    "wof:geomhash":"af480a49190ca98c8ed0a65340334f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857517763
+        }
+    ],
+    "wof:id":857517763,
+    "wof:lastmodified":1464202304,
+    "wof:name":"ITC Hawaii Inc",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -157.892655,
+    21.350452,
+    -157.892655,
+    21.350452
+],
+  "geometry": {"coordinates":[-157.89265499999999,21.350452],"type":"Point"}
+}

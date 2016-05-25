@@ -1,0 +1,69 @@
+{
+  "id": 857672551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.361645,22.189437,-159.361645,22.189437",
+    "geom:latitude":22.189437,
+    "geom:longitude":-159.361645,
+    "iso:country":"US",
+    "sg:address":"4552 Kapuna Rd",
+    "sg:city":"Kilauea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 828 6767",
+    "sg:postcode":"96754",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rxq5chzceomwKmSNnX8RE_22.189437_-159.361645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206436,
+    "wof:geomhash":"dd951cf3b610b8879f621429dc07bbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857672551
+        }
+    ],
+    "wof:id":857672551,
+    "wof:lastmodified":1464206436,
+    "wof:name":"Bob Wooton Construction",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -159.361645,
+    22.189437,
+    -159.361645,
+    22.189437
+],
+  "geometry": {"coordinates":[-159.36164500000001,22.189437],"type":"Point"}
+}

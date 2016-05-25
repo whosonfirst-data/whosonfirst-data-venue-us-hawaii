@@ -1,0 +1,85 @@
+{
+  "id": 857578039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.917423,21.314828,-157.917423,21.314828",
+    "geom:latitude":21.314828,
+    "geom:longitude":-157.917423,
+    "iso:country":"US",
+    "sg:address":"18 Lagoon Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 521 7555",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526539,
+        85688671,
+        85633793,
+        85937603,
+        102085417,
+        85824753,
+        102533997,
+        85937601,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y2li2s2dLUrIrk6PCPfaj_21.314828_-157.917423@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203511,
+    "wof:geomhash":"1aec44f2058d9191cc5a37f405ef7f48",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526539,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937603,
+            "neighbourhood_id":85824753,
+            "region_id":85688671,
+            "venue_id":857578039
+        },
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857578039
+        }
+    ],
+    "wof:id":857578039,
+    "wof:lastmodified":1464203511,
+    "wof:name":"David L Turk LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.917423,
+    21.314828,
+    -157.917423,
+    21.314828
+],
+  "geometry": {"coordinates":[-157.91742300000001,21.314828],"type":"Point"}
+}

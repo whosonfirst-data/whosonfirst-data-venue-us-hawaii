@@ -1,0 +1,71 @@
+{
+  "id": 857564067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.46301,20.889581,-156.46301,20.889581",
+    "geom:latitude":20.889581,
+    "geom:longitude":-156.46301,
+    "iso:country":"US",
+    "sg:address":"164 E Kamehameha Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 4296",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tYDWQtE75h9cGirk5vtUJ_20.889581_-156.463010@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203240,
+    "wof:geomhash":"9b6e380104f30c8369176b35772904f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857564067
+        }
+    ],
+    "wof:id":857564067,
+    "wof:lastmodified":1464203240,
+    "wof:name":"Church Of World Messianity",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -156.46301,
+    20.889581,
+    -156.46301,
+    20.889581
+],
+  "geometry": {"coordinates":[-156.46301,20.889581],"type":"Point"}
+}

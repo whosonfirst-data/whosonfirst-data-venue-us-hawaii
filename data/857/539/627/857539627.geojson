@@ -1,0 +1,77 @@
+{
+  "id": 857539627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.064245,19.707138,-155.064245,19.707138",
+    "geom:latitude":19.707138,
+    "geom:longitude":-155.064245,
+    "iso:country":"US",
+    "sg:address":"797 Kanoelehua Ave",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 961 6330",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "collision",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bIHo7E6TgPfOSChtYx88g_19.707138_-155.064245@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202730,
+    "wof:geomhash":"79ba51db5e33970d23a05bac88f4135f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857539627
+        }
+    ],
+    "wof:id":857539627,
+    "wof:lastmodified":1464202730,
+    "wof:name":"Seniors Discount",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "collision",
+        "paint"
+    ]
+},
+  "bbox": [
+    -155.064245,
+    19.707138,
+    -155.064245,
+    19.707138
+],
+  "geometry": {"coordinates":[-155.064245,19.707138],"type":"Point"}
+}

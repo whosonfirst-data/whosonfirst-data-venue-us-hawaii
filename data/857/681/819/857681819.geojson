@@ -1,0 +1,74 @@
+{
+  "id": 857681819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.853061,21.299001,-157.853061,21.299001",
+    "geom:latitude":21.299001,
+    "geom:longitude":-157.853061,
+    "iso:country":"US",
+    "sg:address":"875 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/180332-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 8076",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YVeY8CqmGkQYqinfndrUv_21.299463_-157.853143@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206807,
+    "wof:geomhash":"d0a061442c7db61b2049d826fceb6333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857681819
+        }
+    ],
+    "wof:id":857681819,
+    "wof:lastmodified":1464206807,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -157.853061,
+    21.299001,
+    -157.853061,
+    21.299001
+],
+  "geometry": {"coordinates":[-157.853061,21.299001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857520241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847264,21.328903,-157.847264,21.328903",
+    "geom:latitude":21.328903,
+    "geom:longitude":-157.847264,
+    "iso:country":"US",
+    "sg:address":"319 Wyllie St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 3131",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FPkvISOqvnnXYtESCnmDj_21.328903_-157.847264@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202355,
+    "wof:geomhash":"c6be201bb476cd98cf3900e4be3fd954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857520241
+        }
+    ],
+    "wof:id":857520241,
+    "wof:lastmodified":1464202355,
+    "wof:name":"Kumon USA",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -157.847264,
+    21.328903,
+    -157.847264,
+    21.328903
+],
+  "geometry": {"coordinates":[-157.847264,21.328903],"type":"Point"}
+}

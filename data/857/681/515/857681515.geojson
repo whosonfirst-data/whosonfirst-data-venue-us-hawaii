@@ -1,0 +1,74 @@
+{
+  "id": 857681515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.785545,21.274896,-157.785545,21.274896",
+    "geom:latitude":21.274896,
+    "geom:longitude":-157.785545,
+    "iso:country":"US",
+    "sg:address":"4614 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/109802-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 2240",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54YQ9xbXZDpJMDnmtYl8IO_21.274896_-157.785545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206787,
+    "wof:geomhash":"e2167490bb809e6de02376beb97e30d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857681515
+        }
+    ],
+    "wof:id":857681515,
+    "wof:lastmodified":1464206787,
+    "wof:name":"Subway",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -157.785545,
+    21.274896,
+    -157.785545,
+    21.274896
+],
+  "geometry": {"coordinates":[-157.78554500000001,21.274896],"type":"Point"}
+}

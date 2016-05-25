@@ -1,0 +1,80 @@
+{
+  "id": 857656623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.931109,21.391499,-157.931109,21.391499",
+    "geom:latitude":21.391499,
+    "geom:longitude":-157.931109,
+    "iso:country":"US",
+    "sg:address":"909 Iho Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8337",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "popcorn",
+        "eating",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wGaMrNZ5Pz1AZe1Cl5lge_21.391499_-157.931109@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205752,
+    "wof:geomhash":"7c026333acc9d497e29a2ab126996c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857656623
+        }
+    ],
+    "wof:id":857656623,
+    "wof:lastmodified":1464205752,
+    "wof:name":"Ono Kettle Korn LLC",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "popcorn",
+        "eating",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.931109,
+    21.391499,
+    -157.931109,
+    21.391499
+],
+  "geometry": {"coordinates":[-157.93110899999999,21.391499],"type":"Point"}
+}

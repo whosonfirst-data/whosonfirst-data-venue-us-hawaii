@@ -1,0 +1,77 @@
+{
+  "id": 857660529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.898966,21.335614,-157.898966,21.335614",
+    "geom:latitude":21.335614,
+    "geom:longitude":-157.898966,
+    "iso:country":"US",
+    "sg:address":"2833 Kilihau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 836 8829",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hOu6tvIaplhHIbA8CxDRb_21.335614_-157.898966@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205933,
+    "wof:geomhash":"10781db76f9e67c13083e314b6763e3f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857660529
+        }
+    ],
+    "wof:id":857660529,
+    "wof:lastmodified":1464205933,
+    "wof:name":"Ken's Auto Fender",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.898966,
+    21.335614,
+    -157.898966,
+    21.335614
+],
+  "geometry": {"coordinates":[-157.898966,21.335614],"type":"Point"}
+}

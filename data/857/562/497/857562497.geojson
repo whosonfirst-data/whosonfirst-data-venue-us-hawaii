@@ -1,0 +1,72 @@
+{
+  "id": 857562497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859689,21.321899,-157.859689,21.321899",
+    "geom:latitude":21.321899,
+    "geom:longitude":-157.859689,
+    "iso:country":"US",
+    "sg:address":"1640 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 5690",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.clch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IE39i5h0R0m4p83suoNRo_21.321899_-157.859689@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203211,
+    "wof:geomhash":"efa9d61986cb9cc511084c1968517999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857562497
+        }
+    ],
+    "wof:id":857562497,
+    "wof:lastmodified":1464203211,
+    "wof:name":"Chinese Lutheran Church",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.859689,
+    21.321899,
+    -157.859689,
+    21.321899
+],
+  "geometry": {"coordinates":[-157.859689,21.321899],"type":"Point"}
+}

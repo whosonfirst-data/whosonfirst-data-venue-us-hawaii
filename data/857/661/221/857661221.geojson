@@ -1,0 +1,75 @@
+{
+  "id": 857661221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.804438,21.285614,-157.804438,21.285614",
+    "geom:latitude":21.285614,
+    "geom:longitude":-157.804438,
+    "iso:country":"US",
+    "sg:address":"3392 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 9525",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product",
+        "skin",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DixMd8mn2ERJg4UC9p5JB_21.285614_-157.804438@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205974,
+    "wof:geomhash":"3c4f91ddceafdce4e93800951d5e029c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857661221
+        }
+    ],
+    "wof:id":857661221,
+    "wof:lastmodified":1464205974,
+    "wof:name":"Biogime Skin Care",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "skin",
+        "care"
+    ]
+},
+  "bbox": [
+    -157.804438,
+    21.285614,
+    -157.804438,
+    21.285614
+],
+  "geometry": {"coordinates":[-157.804438,21.285614],"type":"Point"}
+}

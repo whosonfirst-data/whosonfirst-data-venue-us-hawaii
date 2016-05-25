@@ -1,0 +1,73 @@
+{
+  "id": 857612991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.806193,21.280122,-157.806193,21.280122",
+    "geom:latitude":21.280122,
+    "geom:longitude":-157.806193,
+    "iso:country":"US",
+    "sg:address":"809 8th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 733 4860",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DsKEUyyIuVp1EM5juZ7kA_21.280122_-157.806193@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204281,
+    "wof:geomhash":"9eb277e81ad923aa99b82af009575282",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857612991
+        }
+    ],
+    "wof:id":857612991,
+    "wof:lastmodified":1464204281,
+    "wof:name":"Education Dept",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -157.806193,
+    21.280122,
+    -157.806193,
+    21.280122
+],
+  "geometry": {"coordinates":[-157.80619300000001,21.280122],"type":"Point"}
+}

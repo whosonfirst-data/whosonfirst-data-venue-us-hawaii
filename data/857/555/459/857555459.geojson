@@ -1,0 +1,72 @@
+{
+  "id": 857555459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.997223,21.480688,-157.997223,21.480688",
+    "geom:latitude":21.480688,
+    "geom:longitude":-157.997223,
+    "iso:country":"US",
+    "sg:address":"1140 Lehiwa Dr",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 626 7355",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "middle"
+    ],
+    "sg:website":"www.milmdl.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fZEp02k2owtgbSLBCZc7k_21.480688_-157.997223@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203043,
+    "wof:geomhash":"1dfc985b6d18faa3577875ea2c1ecf14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857555459
+        }
+    ],
+    "wof:id":857555459,
+    "wof:lastmodified":1464203043,
+    "wof:name":"Mililani Middle School",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -157.997223,
+    21.480688,
+    -157.997223,
+    21.480688
+],
+  "geometry": {"coordinates":[-157.99722299999999,21.480688],"type":"Point"}
+}

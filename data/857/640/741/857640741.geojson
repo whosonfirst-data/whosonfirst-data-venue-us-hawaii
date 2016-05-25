@@ -1,0 +1,77 @@
+{
+  "id": 857640741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855098,21.298652,-157.855098,21.298652",
+    "geom:latitude":21.298652,
+    "geom:longitude":-157.855098,
+    "iso:country":"US",
+    "sg:address":"762 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 0255",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "machine",
+        "repair",
+        "industrial",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jdUR9876vvgimVLrYdFWx_21.298652_-157.855098@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205053,
+    "wof:geomhash":"50e2c1ca5d8a11b5feb41e8a80bb8abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857640741
+        }
+    ],
+    "wof:id":857640741,
+    "wof:lastmodified":1464205053,
+    "wof:name":"Okuhara Machine Shop LLC",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "repair",
+        "industrial",
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.855098,
+    21.298652,
+    -157.855098,
+    21.298652
+],
+  "geometry": {"coordinates":[-157.855098,21.298652],"type":"Point"}
+}

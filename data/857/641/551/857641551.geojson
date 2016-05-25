@@ -1,0 +1,80 @@
+{
+  "id": 857641551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.771653,21.367285,-157.771653,21.367285",
+    "geom:latitude":21.367285,
+    "geom:longitude":-157.771653,
+    "iso:country":"US",
+    "sg:address":"1170 Lunaapono Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 0985",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "theatrical",
+        "leasing",
+        "lighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937567,
+        102085417,
+        85832899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b0xji8MhaKbRq6qoAjAUc_21.367285_-157.771653@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205082,
+    "wof:geomhash":"3b16c501dc8fe7a602e254f749701d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937567,
+            "neighbourhood_id":85832899,
+            "region_id":85688671,
+            "venue_id":857641551
+        }
+    ],
+    "wof:id":857641551,
+    "wof:lastmodified":1464205082,
+    "wof:name":"K L Automated Lighting",
+    "wof:parent_id":85832899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "leasing",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -157.771653,
+    21.367285,
+    -157.771653,
+    21.367285
+],
+  "geometry": {"coordinates":[-157.77165299999999,21.367285],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857623093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800443,21.389506,-157.800443,21.389506",
+    "geom:latitude":21.389506,
+    "geom:longitude":-157.800443,
+    "iso:country":"US",
+    "sg:address":"503 Haamaile Pl",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 8973",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x7BWFsO0fLuegr0EHOlpF_21.389506_-157.800443@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204510,
+    "wof:geomhash":"d80b51473512120bbf5585f4b76ebde4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857623093
+        }
+    ],
+    "wof:id":857623093,
+    "wof:lastmodified":1464204510,
+    "wof:name":"RBA Hawaii Word Processing",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -157.800443,
+    21.389506,
+    -157.800443,
+    21.389506
+],
+  "geometry": {"coordinates":[-157.800443,21.389506],"type":"Point"}
+}

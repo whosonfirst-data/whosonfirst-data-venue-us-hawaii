@@ -1,0 +1,74 @@
+{
+  "id": 857681421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81381,21.277652,-157.81381,21.277652",
+    "geom:latitude":21.277652,
+    "geom:longitude":-157.81381,
+    "iso:country":"US",
+    "sg:address":"559 Kapahulu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/280440-uncle-bos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 8311",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "hawaiian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EcrnIeQWX8qFnG5UhNTIz_21.277652_-157.813810@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206782,
+    "wof:geomhash":"8e729e9cbadac183d9c1d7d09b23059d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681421
+        }
+    ],
+    "wof:id":857681421,
+    "wof:lastmodified":1464206782,
+    "wof:name":"Uncle Bo's",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hawaiian"
+    ]
+},
+  "bbox": [
+    -157.81381,
+    21.277652,
+    -157.81381,
+    21.277652
+],
+  "geometry": {"coordinates":[-157.81380999999999,21.277652],"type":"Point"}
+}

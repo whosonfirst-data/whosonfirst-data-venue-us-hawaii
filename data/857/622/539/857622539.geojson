@@ -1,0 +1,76 @@
+{
+  "id": 857622539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.0022,21.454378,-158.0022,21.454378",
+    "geom:latitude":21.454378,
+    "geom:longitude":-158.0022,
+    "iso:country":"US",
+    "sg:address":"737 Kaululena St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 226 4281",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XQ25kl0DcEJRWh61xVQqz_21.454378_-158.002200@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204494,
+    "wof:geomhash":"c64f080165db6f9659a5e405f3f745cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857622539
+        }
+    ],
+    "wof:id":857622539,
+    "wof:lastmodified":1464204494,
+    "wof:name":"Hunter's Architectural Constr",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -158.0022,
+    21.454378,
+    -158.0022,
+    21.454378
+],
+  "geometry": {"coordinates":[-158.00219999999999,21.454378],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857591187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954003,21.404356,-157.954003,21.404356",
+    "geom:latitude":21.404356,
+    "geom:longitude":-157.954003,
+    "iso:country":"US",
+    "sg:address":"104 Hoomalu St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 0424",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DREj6qByxB4wKVHz9U66K_21.404356_-157.954003@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203788,
+    "wof:geomhash":"60adcdc781c2ce836ba8dde7522fe59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857591187
+        }
+    ],
+    "wof:id":857591187,
+    "wof:lastmodified":1464203788,
+    "wof:name":"Aiea Ishii's Towing",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.954003,
+    21.404356,
+    -157.954003,
+    21.404356
+],
+  "geometry": {"coordinates":[-157.954003,21.404356],"type":"Point"}
+}

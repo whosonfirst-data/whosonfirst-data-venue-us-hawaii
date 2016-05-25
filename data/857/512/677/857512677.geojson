@@ -1,0 +1,71 @@
+{
+  "id": 857512677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.835947,21.298012,-157.835947,21.298012",
+    "geom:latitude":21.298012,
+    "geom:longitude":-157.835947,
+    "iso:country":"US",
+    "sg:address":"1542 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 8880",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IrMkwSFaWWY2IEnNAnFB1_21.298012_-157.835947@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202200,
+    "wof:geomhash":"807d697c543d626e17a86dccad4f13f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857512677
+        }
+    ],
+    "wof:id":857512677,
+    "wof:lastmodified":1464202200,
+    "wof:name":"NTW Assoc Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.835947,
+    21.298012,
+    -157.835947,
+    21.298012
+],
+  "geometry": {"coordinates":[-157.835947,21.298012],"type":"Point"}
+}

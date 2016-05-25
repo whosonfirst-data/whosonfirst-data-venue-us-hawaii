@@ -1,0 +1,75 @@
+{
+  "id": 857503443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.964861,19.603743,-155.964861,19.603743",
+    "geom:latitude":19.603743,
+    "geom:longitude":-155.964861,
+    "iso:country":"US",
+    "sg:address":"6495 Leialoha St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 326 5439",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937447,
+        102085433,
+        85890319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mJxN0onqIwlbdJr0uCOyZ_19.603743_-155.964861@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201993,
+    "wof:geomhash":"373e4a8cf512051706dc21e70943adb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937447,
+            "neighbourhood_id":85890319,
+            "region_id":85688671,
+            "venue_id":857503443
+        }
+    ],
+    "wof:id":857503443,
+    "wof:lastmodified":1464201993,
+    "wof:name":"G & M Maintenance Svc",
+    "wof:parent_id":85890319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.964861,
+    19.603743,
+    -155.964861,
+    19.603743
+],
+  "geometry": {"coordinates":[-155.96486100000001,19.603743],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857637817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.809515,21.307736,-157.809515,21.307736",
+    "geom:latitude":21.307736,
+    "geom:longitude":-157.809515,
+    "iso:country":"US",
+    "sg:address":"2716 Woodlawn Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 6655",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wx7jOcRzDLTggRrRU7OX1_21.307736_-157.809515@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204934,
+    "wof:geomhash":"d2dbbb5c408e977ee3e7dc26c8938b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857637817
+        }
+    ],
+    "wof:id":857637817,
+    "wof:lastmodified":1464204934,
+    "wof:name":"Manoa Public Library",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.809515,
+    21.307736,
+    -157.809515,
+    21.307736
+],
+  "geometry": {"coordinates":[-157.809515,21.307736],"type":"Point"}
+}

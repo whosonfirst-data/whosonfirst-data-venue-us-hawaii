@@ -1,0 +1,71 @@
+{
+  "id": 857573635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.851022,21.292926,-157.851022,21.292926",
+    "geom:latitude":21.292926,
+    "geom:longitude":-157.851022,
+    "iso:country":"US",
+    "sg:address":"1116 Auahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 589 1818",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jD5s4qaWmWjvUJxAUVt7D_21.292926_-157.851022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203422,
+    "wof:geomhash":"67a9aba7afb816a464208c2122512d2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857573635
+        }
+    ],
+    "wof:id":857573635,
+    "wof:lastmodified":1464203422,
+    "wof:name":"Swirl",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -157.851022,
+    21.292926,
+    -157.851022,
+    21.292926
+],
+  "geometry": {"coordinates":[-157.851022,21.292926],"type":"Point"}
+}

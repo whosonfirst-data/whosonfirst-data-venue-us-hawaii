@@ -1,0 +1,71 @@
+{
+  "id": 857647119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.466922,20.078612,-155.466922,20.078612",
+    "geom:latitude":20.078612,
+    "geom:longitude":-155.466922,
+    "iso:country":"US",
+    "sg:address":"3593 Mamane St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 8255",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d3aRNDnnhwtvmxCHu4SWk_20.078612_-155.466922@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205342,
+    "wof:geomhash":"968a600acdbd555a601dbbacc9549483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857647119
+        }
+    ],
+    "wof:id":857647119,
+    "wof:lastmodified":1464205342,
+    "wof:name":"Mary Guava Designs",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -155.466922,
+    20.078612,
+    -155.466922,
+    20.078612
+],
+  "geometry": {"coordinates":[-155.46692200000001,20.078612],"type":"Point"}
+}

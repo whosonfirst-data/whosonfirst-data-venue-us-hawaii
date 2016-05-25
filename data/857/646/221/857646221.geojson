@@ -1,0 +1,71 @@
+{
+  "id": 857646221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864145,21.313442,-157.864145,21.313442",
+    "geom:latitude":21.313442,
+    "geom:longitude":-157.864145,
+    "iso:country":"US",
+    "sg:address":"180 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 6212",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P9oGPr3WOhiGXMQ8pk4Jd_21.313442_-157.864145@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205295,
+    "wof:geomhash":"33a3c5c7a88b473c23007a0cd00ae1b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857646221
+        }
+    ],
+    "wof:id":857646221,
+    "wof:lastmodified":1464205295,
+    "wof:name":"Kim Hai Jewelry",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -157.864145,
+    21.313442,
+    -157.864145,
+    21.313442
+],
+  "geometry": {"coordinates":[-157.86414500000001,21.313442],"type":"Point"}
+}

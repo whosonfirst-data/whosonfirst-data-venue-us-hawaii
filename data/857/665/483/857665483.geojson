@@ -1,0 +1,73 @@
+{
+  "id": 857665483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.461728,20.884093,-156.461728,20.884093",
+    "geom:latitude":20.884093,
+    "geom:longitude":-156.461728,
+    "iso:country":"US",
+    "sg:address":"350 Hoohana St",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 2182",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BJfSVw2XNr68MhRlYtmNA_20.884093_-156.461728@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206151,
+    "wof:geomhash":"35987b86e091a505e2929c968b01b84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857665483
+        }
+    ],
+    "wof:id":857665483,
+    "wof:lastmodified":1464206151,
+    "wof:name":"Cami's Coffee Shop & Lounge",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -156.461728,
+    20.884093,
+    -156.461728,
+    20.884093
+],
+  "geometry": {"coordinates":[-156.46172799999999,20.884093],"type":"Point"}
+}

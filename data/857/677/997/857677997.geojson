@@ -1,0 +1,73 @@
+{
+  "id": 857677997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.876337,21.323035,-157.876337,21.323035",
+    "geom:latitude":21.323035,
+    "geom:longitude":-157.876337,
+    "iso:country":"US",
+    "sg:address":"1347 Colburn St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 2001",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b6Z4ByXZKmfBBneSf6Zys_21.323035_-157.876337@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206655,
+    "wof:geomhash":"30fee2448235f9244a1b593d2850b92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857677997
+        }
+    ],
+    "wof:id":857677997,
+    "wof:lastmodified":1464206655,
+    "wof:name":"AC Autotech",
+    "wof:parent_id":85827209,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.876337,
+    21.323035,
+    -157.876337,
+    21.323035
+],
+  "geometry": {"coordinates":[-157.87633700000001,21.323035],"type":"Point"}
+}

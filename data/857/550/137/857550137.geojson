@@ -1,0 +1,75 @@
+{
+  "id": 857550137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.972066,21.391326,-157.972066,21.391326",
+    "geom:latitude":21.391326,
+    "geom:longitude":-157.972066,
+    "iso:country":"US",
+    "sg:address":"962 2nd St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 5981",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "university",
+        "cooperative",
+        "extension"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fxw1ZZSjc67kkwEhbZZ7r_21.391326_-157.972066@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202933,
+    "wof:geomhash":"105d76220fd0e36c23bfa5586d15df18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857550137
+        }
+    ],
+    "wof:id":857550137,
+    "wof:lastmodified":1464202933,
+    "wof:name":"Cooperative Extension Service",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university",
+        "cooperative",
+        "extension"
+    ]
+},
+  "bbox": [
+    -157.972066,
+    21.391326,
+    -157.972066,
+    21.391326
+],
+  "geometry": {"coordinates":[-157.97206600000001,21.391326],"type":"Point"}
+}

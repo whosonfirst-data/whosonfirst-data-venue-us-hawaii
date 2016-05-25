@@ -1,0 +1,72 @@
+{
+  "id": 857639315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008943,21.400864,-158.008943,21.400864",
+    "geom:latitude":21.400864,
+    "geom:longitude":-158.008943,
+    "iso:country":"US",
+    "sg:address":"821 Lumiaina St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 6699",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A7SkyDRgae7BKVcyKemsk_21.400864_-158.008943@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204995,
+    "wof:geomhash":"107b2fbd9feef0da08e821bab1d199e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857639315
+        }
+    ],
+    "wof:id":857639315,
+    "wof:lastmodified":1464204995,
+    "wof:name":"Borders Books & Music",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.008943,
+    21.400864,
+    -158.008943,
+    21.400864
+],
+  "geometry": {"coordinates":[-158.00894299999999,21.400864],"type":"Point"}
+}

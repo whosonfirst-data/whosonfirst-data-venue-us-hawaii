@@ -1,0 +1,71 @@
+{
+  "id": 857657561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.847029,21.331052,-157.847029,21.331052",
+    "geom:latitude":21.331052,
+    "geom:longitude":-157.847029,
+    "iso:country":"US",
+    "sg:address":"2408 Burbank St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 595 3737",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JrcMqxXsifOo5rPL9EBgw_21.331052_-157.847029@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205799,
+    "wof:geomhash":"a116b799ccb0dd13c7c9061ad6d17f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857657561
+        }
+    ],
+    "wof:id":857657561,
+    "wof:lastmodified":1464205799,
+    "wof:name":"Internet Concept Solutions LLC",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -157.847029,
+    21.331052,
+    -157.847029,
+    21.331052
+],
+  "geometry": {"coordinates":[-157.84702899999999,21.331052],"type":"Point"}
+}

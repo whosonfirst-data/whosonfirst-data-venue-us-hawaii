@@ -1,0 +1,73 @@
+{
+  "id": 857534145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.963911,21.397985,-157.963911,21.397985",
+    "geom:latitude":21.397985,
+    "geom:longitude":-157.963911,
+    "iso:country":"US",
+    "sg:address":"1240 Nanakai St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 454 5876",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rgKJgudvujTg0ymsVGpai_21.397985_-157.963911@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202624,
+    "wof:geomhash":"b5f56565a2d97cdfeb0032953cef1342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857534145
+        }
+    ],
+    "wof:id":857534145,
+    "wof:lastmodified":1464202624,
+    "wof:name":"Timmy's Concrete Pumping Svc",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -157.963911,
+    21.397985,
+    -157.963911,
+    21.397985
+],
+  "geometry": {"coordinates":[-157.963911,21.397985],"type":"Point"}
+}

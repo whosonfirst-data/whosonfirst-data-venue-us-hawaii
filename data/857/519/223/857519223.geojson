@@ -1,0 +1,75 @@
+{
+  "id": 857519223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855022,21.298553,-157.855022,21.298553",
+    "geom:latitude":21.298553,
+    "geom:longitude":-157.855022,
+    "iso:country":"US",
+    "sg:address":"754 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 596 0777",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rvQ7prBUs3Sq4aLCdw1JR_21.298553_-157.855022@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202335,
+    "wof:geomhash":"9cfa42cb9e99dd1b0ce20cf03d644583",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857519223
+        }
+    ],
+    "wof:id":857519223,
+    "wof:lastmodified":1464202335,
+    "wof:name":"Queen's Body & Paint Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.855022,
+    21.298553,
+    -157.855022,
+    21.298553
+],
+  "geometry": {"coordinates":[-157.85502199999999,21.298553],"type":"Point"}
+}

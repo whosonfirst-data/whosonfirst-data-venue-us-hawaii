@@ -1,0 +1,73 @@
+{
+  "id": 857667211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.708104,21.297708,-157.708104,21.297708",
+    "geom:latitude":21.297708,
+    "geom:longitude":-157.708104,
+    "iso:country":"US",
+    "sg:address":"709 Hahaione St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 7711",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PQo6nk4SRajvwbj0pv9Y8_21.297708_-157.708104@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206232,
+    "wof:geomhash":"d4572e0bd0e9d232557133e16602d1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857667211
+        }
+    ],
+    "wof:id":857667211,
+    "wof:lastmodified":1464206232,
+    "wof:name":"Kim Apts",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.708104,
+    21.297708,
+    -157.708104,
+    21.297708
+],
+  "geometry": {"coordinates":[-157.70810399999999,21.297708],"type":"Point"}
+}

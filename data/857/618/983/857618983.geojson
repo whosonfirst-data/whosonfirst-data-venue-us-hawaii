@@ -1,0 +1,71 @@
+{
+  "id": 857618983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.793471,21.259549,-157.793471,21.259549",
+    "geom:latitude":21.259549,
+    "geom:longitude":-157.793471,
+    "iso:country":"US",
+    "sg:address":"4075 Black Point Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 7764",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IZEaz7VKpDwdpuZwq1aag_21.259549_-157.793471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204401,
+    "wof:geomhash":"75be4ee899418c372fbd56bb68f2f478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827715,
+            "region_id":85688671,
+            "venue_id":857618983
+        }
+    ],
+    "wof:id":857618983,
+    "wof:lastmodified":1464204401,
+    "wof:name":"Video Rights Corp",
+    "wof:parent_id":85827715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -157.793471,
+    21.259549,
+    -157.793471,
+    21.259549
+],
+  "geometry": {"coordinates":[-157.79347100000001,21.259549],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857634055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883119,21.324355,-157.883119,21.324355",
+    "geom:latitude":21.324355,
+    "geom:longitude":-157.883119,
+    "iso:country":"US",
+    "sg:address":"1827 Republican St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 845 1702",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24CHxxWIf50cpgamKiF5yN_21.324355_-157.883119@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204799,
+    "wof:geomhash":"e0db670b865ff32c69cc9e1fe65e9f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857634055
+        }
+    ],
+    "wof:id":857634055,
+    "wof:lastmodified":1464204799,
+    "wof:name":"Yamada's Plumbing & Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.883119,
+    21.324355,
+    -157.883119,
+    21.324355
+],
+  "geometry": {"coordinates":[-157.88311899999999,21.324355],"type":"Point"}
+}

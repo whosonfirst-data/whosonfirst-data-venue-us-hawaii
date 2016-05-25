@@ -1,0 +1,68 @@
+{
+  "id": 857517257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.674281,20.866635,-156.674281,20.866635",
+    "geom:latitude":20.866635,
+    "geom:longitude":-156.674281,
+    "iso:country":"US",
+    "sg:address":"475 Front St",
+    "sg:city":"Lahaina",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 661 4835",
+    "sg:postcode":"96761",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937659,
+        102085577,
+        85890533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nuCVAoKyzpUHz1Je8f7pb_20.866635_-156.674281@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202295,
+    "wof:geomhash":"cc7e40a8ac0b98f2368bdcea30405e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937659,
+            "neighbourhood_id":85890533,
+            "region_id":85688671,
+            "venue_id":857517257
+        }
+    ],
+    "wof:id":857517257,
+    "wof:lastmodified":1464202295,
+    "wof:name":"Lahaina Shores",
+    "wof:parent_id":85890533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.674281,
+    20.866635,
+    -156.674281,
+    20.866635
+],
+  "geometry": {"coordinates":[-156.67428100000001,20.866635],"type":"Point"}
+}

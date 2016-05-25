@@ -1,0 +1,73 @@
+{
+  "id": 857615839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.386699,20.918211,-156.386699,20.918211",
+    "geom:latitude":20.918211,
+    "geom:longitude":-156.386699,
+    "iso:country":"US",
+    "sg:address":"111 Hana Hwy",
+    "sg:city":"Paia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 579 8680",
+    "sg:postcode":"96779",
+    "sg:province":"HI",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937637,
+        102085577,
+        85890641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30c879Wa8xKHjYp89r5eJd_20.918211_-156.386699@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204337,
+    "wof:geomhash":"b165702275c59c3f8d9bea3315562bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937637,
+            "neighbourhood_id":85890641,
+            "region_id":85688671,
+            "venue_id":857615839
+        }
+    ],
+    "wof:id":857615839,
+    "wof:lastmodified":1464204337,
+    "wof:name":"Bob's On A Roll Deli",
+    "wof:parent_id":85890641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -156.386699,
+    20.918211,
+    -156.386699,
+    20.918211
+],
+  "geometry": {"coordinates":[-156.38669899999999,20.918211],"type":"Point"}
+}

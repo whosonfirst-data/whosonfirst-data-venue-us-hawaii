@@ -1,0 +1,66 @@
+{
+  "id": 857609767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.318468,22.075824,-159.318468,22.075824",
+    "geom:latitude":22.075824,
+    "geom:longitude":-159.318468,
+    "iso:country":"US",
+    "sg:address":"1354 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 8888",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937511,
+        102085457,
+        85890391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PnSseur9UBTKJPtjWxmZN_22.075824_-159.318468@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204201,
+    "wof:geomhash":"10a7399cb4f3f536c0f20de55efef8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890391,
+            "region_id":85688671,
+            "venue_id":857609767
+        }
+    ],
+    "wof:id":857609767,
+    "wof:lastmodified":1464204201,
+    "wof:name":"Adornments",
+    "wof:parent_id":85890391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.318468,
+    22.075824,
+    -159.318468,
+    22.075824
+],
+  "geometry": {"coordinates":[-159.318468,22.075824],"type":"Point"}
+}

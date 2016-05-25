@@ -1,0 +1,79 @@
+{
+  "id": 857681159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001187,21.427243,-158.001187,21.427243",
+    "geom:latitude":21.427243,
+    "geom:longitude":-158.001187,
+    "iso:country":"US",
+    "sg:address":"94-1235 Ka Uka Blvd",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/137048-seattles-best-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 676 8330",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23KggsLeb2IIVlZkbNc1mV_21.427243_-158.001187@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206770,
+    "wof:geomhash":"905387c7a7d1eeae5d93a6defc634302",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857681159
+        }
+    ],
+    "wof:id":857681159,
+    "wof:lastmodified":1464206770,
+    "wof:name":"Seattle's Best Coffee",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -158.001187,
+    21.427243,
+    -158.001187,
+    21.427243
+],
+  "geometry": {"coordinates":[-158.00118699999999,21.427243],"type":"Point"}
+}

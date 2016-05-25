@@ -1,0 +1,75 @@
+{
+  "id": 857651415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.035481,21.341741,-158.035481,21.341741",
+    "geom:latitude":21.341741,
+    "geom:longitude":-158.035481,
+    "iso:country":"US",
+    "sg:address":"1207 Renton Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 8838",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "youth",
+        "center",
+        "activity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZjGtR6RDFpeHYY5B5z3J0_21.341741_-158.035481@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205518,
+    "wof:geomhash":"baf8381324a89388abfdb46585ebd6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857651415
+        }
+    ],
+    "wof:id":857651415,
+    "wof:lastmodified":1464205518,
+    "wof:name":"Friendship Youth Center",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "center",
+        "activity"
+    ]
+},
+  "bbox": [
+    -158.035481,
+    21.341741,
+    -158.035481,
+    21.341741
+],
+  "geometry": {"coordinates":[-158.035481,21.341741],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857527415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.848247,21.30244,-157.848247,21.30244",
+    "geom:latitude":21.30244,
+    "geom:longitude":-157.848247,
+    "iso:country":"US",
+    "sg:address":"1084 Young St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 8222",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72WCRCJ4vSL7BQ4huJsn3E_21.302440_-157.848247@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202493,
+    "wof:geomhash":"1e73bba5fb5bdc71f552260b9c3839aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857527415
+        }
+    ],
+    "wof:id":857527415,
+    "wof:lastmodified":1464202493,
+    "wof:name":"Air-Cooled Engines Inc",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -157.848247,
+    21.30244,
+    -157.848247,
+    21.30244
+],
+  "geometry": {"coordinates":[-157.84824699999999,21.30244],"type":"Point"}
+}

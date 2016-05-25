@@ -1,0 +1,71 @@
+{
+  "id": 857637293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.973261,21.39501,-157.973261,21.39501",
+    "geom:latitude":21.39501,
+    "geom:longitude":-157.973261,
+    "iso:country":"US",
+    "sg:address":"1060 Kamehameha Hwy",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 8697",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kyDgLZUC1bEBroziJWw9z_21.395010_-157.973261@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204915,
+    "wof:geomhash":"e459bfa1af220f476eb8afab304863ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857637293
+        }
+    ],
+    "wof:id":857637293,
+    "wof:lastmodified":1464204915,
+    "wof:name":"T & T Towing & Recovery",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.973261,
+    21.39501,
+    -157.973261,
+    21.39501
+],
+  "geometry": {"coordinates":[-157.97326100000001,21.39501],"type":"Point"}
+}

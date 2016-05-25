@@ -1,0 +1,71 @@
+{
+  "id": 857634589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.831269,21.278753,-157.831269,21.278753",
+    "geom:latitude":21.278753,
+    "geom:longitude":-157.831269,
+    "iso:country":"US",
+    "sg:address":"205 Lewers St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 1827",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zkgu1o0bqjDgmm5Z62Fmy_21.278753_-157.831269@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204818,
+    "wof:geomhash":"ae5d74066f81e36f416a01a3a3dd63c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857634589
+        }
+    ],
+    "wof:id":857634589,
+    "wof:lastmodified":1464204818,
+    "wof:name":"Association Imperial HI Resort",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.831269,
+    21.278753,
+    -157.831269,
+    21.278753
+],
+  "geometry": {"coordinates":[-157.83126899999999,21.278753],"type":"Point"}
+}

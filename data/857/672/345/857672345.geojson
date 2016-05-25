@@ -1,0 +1,71 @@
+{
+  "id": 857672345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.867103,21.314189,-157.867103,21.314189",
+    "geom:latitude":21.314189,
+    "geom:longitude":-157.867103,
+    "iso:country":"US",
+    "sg:address":"405 N Nimitz Hwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 453 6780",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gJOaB8QFUMXhUHqrIZZnt_21.314189_-157.867103@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206429,
+    "wof:geomhash":"2bb488b1f860211ca99ebb8fe5b105c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857672345
+        }
+    ],
+    "wof:id":857672345,
+    "wof:lastmodified":1464206429,
+    "wof:name":"DLNR",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -157.867103,
+    21.314189,
+    -157.867103,
+    21.314189
+],
+  "geometry": {"coordinates":[-157.86710299999999,21.314189],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857591949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026434,21.500978,-158.026434,21.500978",
+    "geom:latitude":21.500978,
+    "geom:longitude":-158.026434,
+    "iso:country":"US",
+    "sg:address":"911 Palm Pl",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 622 1695",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AhnzuLMEYRNhb9UUTXW53_21.500978_-158.026434@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203804,
+    "wof:geomhash":"86822693bf9e2d176bb4ec1ee5809db5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857591949
+        }
+    ],
+    "wof:id":857591949,
+    "wof:lastmodified":1464203804,
+    "wof:name":"TNH Plumbing Inc",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.026434,
+    21.500978,
+    -158.026434,
+    21.500978
+],
+  "geometry": {"coordinates":[-158.02643399999999,21.500978],"type":"Point"}
+}

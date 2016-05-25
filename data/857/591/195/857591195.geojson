@@ -1,0 +1,66 @@
+{
+  "id": 857591195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.822637,21.27562,-157.822637,21.27562",
+    "geom:latitude":21.27562,
+    "geom:longitude":-157.822637,
+    "iso:country":"US",
+    "sg:address":"2463 Kuhio Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 575 2408",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JIWEddju7zDvCNjSsxZOm_21.275620_-157.822637@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203788,
+    "wof:geomhash":"69c846929d0d7563299ad34860beb39e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857591195
+        }
+    ],
+    "wof:id":857591195,
+    "wof:lastmodified":1464203788,
+    "wof:name":"Hil Mart",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.822637,
+    21.27562,
+    -157.822637,
+    21.27562
+],
+  "geometry": {"coordinates":[-157.82263699999999,21.27562],"type":"Point"}
+}

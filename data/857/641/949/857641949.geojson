@@ -1,0 +1,71 @@
+{
+  "id": 857641949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.907795,21.364602,-157.907795,21.364602",
+    "geom:latitude":21.364602,
+    "geom:longitude":-157.907795,
+    "iso:country":"US",
+    "sg:address":"534 Olive Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6944",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85802703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lURm6sAIp566AeiZp2Vuu_21.364602_-157.907795@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205097,
+    "wof:geomhash":"a3d2aabbd9dd8531233ea622f65337e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85802703,
+            "region_id":85688671,
+            "venue_id":857641949
+        }
+    ],
+    "wof:id":857641949,
+    "wof:lastmodified":1464205097,
+    "wof:name":"Rosas Lounge",
+    "wof:parent_id":85802703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.907795,
+    21.364602,
+    -157.907795,
+    21.364602
+],
+  "geometry": {"coordinates":[-157.90779499999999,21.364602],"type":"Point"}
+}

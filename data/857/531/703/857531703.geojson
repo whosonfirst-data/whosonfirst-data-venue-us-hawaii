@@ -1,0 +1,73 @@
+{
+  "id": 857531703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.391771,21.966626,-159.391771,21.966626",
+    "geom:latitude":21.966626,
+    "geom:longitude":-159.391771,
+    "iso:country":"US",
+    "sg:address":"4420 Nani St",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 245 9162",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J9HqztrHBVr1IthN9Z5MN_21.966626_-159.391771@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202580,
+    "wof:geomhash":"cc2d18cbacb6086ba2c5695c2b15c310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857531703
+        }
+    ],
+    "wof:id":857531703,
+    "wof:lastmodified":1464202580,
+    "wof:name":"Segu's Repair & Paint",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -159.391771,
+    21.966626,
+    -159.391771,
+    21.966626
+],
+  "geometry": {"coordinates":[-159.39177100000001,21.966626],"type":"Point"}
+}

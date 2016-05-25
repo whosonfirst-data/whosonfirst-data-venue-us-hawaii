@@ -1,0 +1,71 @@
+{
+  "id": 857668533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800461,21.414222,-157.800461,21.414222",
+    "geom:latitude":21.414222,
+    "geom:longitude":-157.800461,
+    "iso:country":"US",
+    "sg:address":"946 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 235 5589",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73gPuIFs5wRG5q4vU3JrKV_21.414222_-157.800461@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206276,
+    "wof:geomhash":"2e8299cf52b0d6a6d19553d9f770047b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857668533
+        }
+    ],
+    "wof:id":857668533,
+    "wof:lastmodified":1464206276,
+    "wof:name":"Young Laundry & Dry Cleaning",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -157.800461,
+    21.414222,
+    -157.800461,
+    21.414222
+],
+  "geometry": {"coordinates":[-157.80046100000001,21.414222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857672267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799083,21.311911,-157.799083,21.311911",
+    "geom:latitude":21.311911,
+    "geom:longitude":-157.799083,
+    "iso:country":"US",
+    "sg:address":"3141 Paty Dr",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 988 7518",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85858787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jAToJDl0F5nbBlJzusdZO_21.311911_-157.799083@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206425,
+    "wof:geomhash":"620db1688fd47cc032d77cb8625edff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85858787,
+            "region_id":85688671,
+            "venue_id":857672267
+        }
+    ],
+    "wof:id":857672267,
+    "wof:lastmodified":1464206425,
+    "wof:name":"Tri-States Imports",
+    "wof:parent_id":85858787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -157.799083,
+    21.311911,
+    -157.799083,
+    21.311911
+],
+  "geometry": {"coordinates":[-157.799083,21.311911],"type":"Point"}
+}

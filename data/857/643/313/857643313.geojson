@@ -1,0 +1,73 @@
+{
+  "id": 857643313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.508682,20.888752,-156.508682,20.888752",
+    "geom:latitude":20.888752,
+    "geom:longitude":-156.508682,
+    "iso:country":"US",
+    "sg:address":"2264 Aupuni St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 243 5322",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Obo3A4KiymNS0qgNrYwj5_20.888752_-156.508682@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205162,
+    "wof:geomhash":"63c96a63f215d568eb94824962897e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857643313
+        }
+    ],
+    "wof:id":857643313,
+    "wof:lastmodified":1464205162,
+    "wof:name":"Workers' Compensation",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -156.508682,
+    20.888752,
+    -156.508682,
+    20.888752
+],
+  "geometry": {"coordinates":[-156.50868199999999,20.888752],"type":"Point"}
+}

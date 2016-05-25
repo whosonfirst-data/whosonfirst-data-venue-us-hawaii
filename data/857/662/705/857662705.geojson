@@ -1,0 +1,73 @@
+{
+  "id": 857662705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.916449,21.392509,-157.916449,21.392509",
+    "geom:latitude":21.392509,
+    "geom:longitude":-157.916449,
+    "iso:country":"US",
+    "sg:address":"1389 Akaaka St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 8950",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uFkLkEPGmVAPm9Gg0Tzy3_21.392509_-157.916449@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206036,
+    "wof:geomhash":"b6f3de13f1327dd7d384e2b1efd0e139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857662705
+        }
+    ],
+    "wof:id":857662705,
+    "wof:lastmodified":1464206036,
+    "wof:name":"E KAAA Masonry",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.916449,
+    21.392509,
+    -157.916449,
+    21.392509
+],
+  "geometry": {"coordinates":[-157.916449,21.392509],"type":"Point"}
+}

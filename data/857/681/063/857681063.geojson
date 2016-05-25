@@ -1,0 +1,70 @@
+{
+  "id": 857681063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.025618,21.496776,-158.025618,21.496776",
+    "geom:latitude":21.496776,
+    "geom:longitude":-158.025618,
+    "iso:country":"US",
+    "sg:address":"823 California Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/wahiawa/243098-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 6631",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wWLBkfxTknMDt5mNcNjSD_21.496776_-158.025618@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206766,
+    "wof:geomhash":"16f8896e691175a999984544b6b962df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857681063
+        }
+    ],
+    "wof:id":857681063,
+    "wof:lastmodified":1464206766,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -158.025618,
+    21.496776,
+    -158.025618,
+    21.496776
+],
+  "geometry": {"coordinates":[-158.02561800000001,21.496776],"type":"Point"}
+}

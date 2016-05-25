@@ -1,0 +1,73 @@
+{
+  "id": 857673385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.315854,22.078129,-159.315854,22.078129",
+    "geom:latitude":22.078129,
+    "geom:longitude":-159.315854,
+    "iso:country":"US",
+    "sg:address":"1485 Kuhio Hwy",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 822 3511",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937511,
+        102085457,
+        85890383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ElMRjAaXeF28oij9Sglfh_22.078129_-159.315854@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206465,
+    "wof:geomhash":"50997baa8e2b466ab58a5b7b81e291e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085457,
+            "locality_id":85937511,
+            "neighbourhood_id":85890383,
+            "region_id":85688671,
+            "venue_id":857673385
+        }
+    ],
+    "wof:id":857673385,
+    "wof:lastmodified":1464206465,
+    "wof:name":"Kountry Kitchen Restaurant",
+    "wof:parent_id":85890383,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -159.315854,
+    22.078129,
+    -159.315854,
+    22.078129
+],
+  "geometry": {"coordinates":[-159.315854,22.078129],"type":"Point"}
+}

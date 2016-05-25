@@ -1,0 +1,73 @@
+{
+  "id": 857636689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.816402,21.289366,-157.816402,21.289366",
+    "geom:latitude":21.289366,
+    "geom:longitude":-157.816402,
+    "iso:country":"US",
+    "sg:address":"2920 S King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 669 0011",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "development",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07OC065lIM62qxCjAUhOmV_21.289366_-157.816402@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204893,
+    "wof:geomhash":"67189596c1ed100b071d6128a4dc87f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857636689
+        }
+    ],
+    "wof:id":857636689,
+    "wof:lastmodified":1464204893,
+    "wof:name":"Honokowai Villa Co",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "rental"
+    ]
+},
+  "bbox": [
+    -157.816402,
+    21.289366,
+    -157.816402,
+    21.289366
+],
+  "geometry": {"coordinates":[-157.81640200000001,21.289366],"type":"Point"}
+}

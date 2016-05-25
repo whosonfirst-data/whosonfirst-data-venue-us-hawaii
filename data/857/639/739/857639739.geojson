@@ -1,0 +1,71 @@
+{
+  "id": 857639739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.477324,20.888739,-156.477324,20.888739",
+    "geom:latitude":20.888739,
+    "geom:longitude":-156.477324,
+    "iso:country":"US",
+    "sg:address":"275 Kaahumanu Ave",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 7873",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TfUrL1pULeVypBdWm0yzw_20.888739_-156.477324@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205010,
+    "wof:geomhash":"9803bfc55241cb9a8bbacdc6244a1e38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857639739
+        }
+    ],
+    "wof:id":857639739,
+    "wof:lastmodified":1464205010,
+    "wof:name":"Shapers",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -156.477324,
+    20.888739,
+    -156.477324,
+    20.888739
+],
+  "geometry": {"coordinates":[-156.47732400000001,20.888739],"type":"Point"}
+}

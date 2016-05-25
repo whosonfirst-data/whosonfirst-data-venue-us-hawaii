@@ -1,0 +1,71 @@
+{
+  "id": 857661445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001342,21.384549,-158.001342,21.384549",
+    "geom:latitude":21.384549,
+    "geom:longitude":-158.001342,
+    "iso:country":"US",
+    "sg:address":"873 Farrington Hwy",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 677 9741",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xOZIc2yNgafHzLMuhG4mn_21.384549_-158.001342@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205988,
+    "wof:geomhash":"b9efaaf60b32d066f73766321f650725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857661445
+        }
+    ],
+    "wof:id":857661445,
+    "wof:lastmodified":1464205988,
+    "wof:name":"Howard T Fujino Inc",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -158.001342,
+    21.384549,
+    -158.001342,
+    21.384549
+],
+  "geometry": {"coordinates":[-158.00134199999999,21.384549],"type":"Point"}
+}

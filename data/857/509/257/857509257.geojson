@@ -1,0 +1,71 @@
+{
+  "id": 857509257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.820306,21.261989,-157.820306,21.261989",
+    "geom:latitude":21.261989,
+    "geom:longitude":-157.820306,
+    "iso:country":"US",
+    "sg:address":"2999 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 5735",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "astronomy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EO691gaColEGYFHq0OeYm_21.261989_-157.820306@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202129,
+    "wof:geomhash":"c48c875088b03d8940ad4ef1230a9575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857509257
+        }
+    ],
+    "wof:id":857509257,
+    "wof:lastmodified":1464202129,
+    "wof:name":"Liberty Scientific",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "astronomy"
+    ]
+},
+  "bbox": [
+    -157.820306,
+    21.261989,
+    -157.820306,
+    21.261989
+],
+  "geometry": {"coordinates":[-157.82030599999999,21.261989],"type":"Point"}
+}

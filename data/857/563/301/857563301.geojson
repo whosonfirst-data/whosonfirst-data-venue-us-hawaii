@@ -1,0 +1,75 @@
+{
+  "id": 857563301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.859562,21.321809,-157.859562,21.321809",
+    "geom:latitude":21.321809,
+    "geom:longitude":-157.859562,
+    "iso:country":"US",
+    "sg:address":"1635 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 533 6478",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "preparation",
+        "noodle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aGqPT88xCGiNkiJgzzc2B_21.321809_-157.859562@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203226,
+    "wof:geomhash":"e50fcbb808ea53438aefcf154a784537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857563301
+        }
+    ],
+    "wof:id":857563301,
+    "wof:lastmodified":1464203226,
+    "wof:name":"Young's Noodle Factory Inc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "noodle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.859562,
+    21.321809,
+    -157.859562,
+    21.321809
+],
+  "geometry": {"coordinates":[-157.85956200000001,21.321809],"type":"Point"}
+}

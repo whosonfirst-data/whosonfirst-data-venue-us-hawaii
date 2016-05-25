@@ -1,0 +1,71 @@
+{
+  "id": 857665721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.357429,22.087993,-159.357429,22.087993",
+    "geom:latitude":22.087993,
+    "geom:longitude":-159.357429,
+    "iso:country":"US",
+    "sg:address":"5949 Kini Pl",
+    "sg:city":"Kapaa",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 821 2180",
+    "sg:postcode":"96746",
+    "sg:province":"HI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890389,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F93nlY480q8rH2VYFIdNw_22.087993_-159.357429@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206159,
+    "wof:geomhash":"e826fc09ed9f24c03bf48a84dafc0926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890389,
+            "region_id":85688671,
+            "venue_id":857665721
+        }
+    ],
+    "wof:id":857665721,
+    "wof:lastmodified":1464206159,
+    "wof:name":"Pro Coats Hawaii",
+    "wof:parent_id":85890389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -159.357429,
+    22.087993,
+    -159.357429,
+    22.087993
+],
+  "geometry": {"coordinates":[-159.357429,22.087993],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857509757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.865749,21.322656,-157.865749,21.322656",
+    "geom:latitude":21.322656,
+    "geom:longitude":-157.865749,
+    "iso:country":"US",
+    "sg:address":"1311 Palama St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 547 3002",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FYN26mzOUKmwZqi9sR9QM_21.322656_-157.865749@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202138,
+    "wof:geomhash":"bf9c128d9349feaa4afaad7356dfa5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857509757
+        }
+    ],
+    "wof:id":857509757,
+    "wof:lastmodified":1464202138,
+    "wof:name":"TESORO Gas Express",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -157.865749,
+    21.322656,
+    -157.865749,
+    21.322656
+],
+  "geometry": {"coordinates":[-157.86574899999999,21.322656],"type":"Point"}
+}

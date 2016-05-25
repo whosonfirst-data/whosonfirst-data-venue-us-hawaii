@@ -1,0 +1,73 @@
+{
+  "id": 857610211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.03946,19.63742,-155.03946,19.63742",
+    "geom:latitude":19.63742,
+    "geom:longitude":-155.03946,
+    "iso:country":"US",
+    "sg:address":"313 Shipman Rd",
+    "sg:city":"Keaau",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 982 9694",
+    "sg:postcode":"96749",
+    "sg:province":"HI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937425,
+        102085433,
+        85890505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NfSfZwJ5T9upQxLUplBky_19.637420_-155.039460@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204213,
+    "wof:geomhash":"dd062bd50700d3b622a76abfbbf4a7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937425,
+            "neighbourhood_id":85890505,
+            "region_id":85688671,
+            "venue_id":857610211
+        }
+    ],
+    "wof:id":857610211,
+    "wof:lastmodified":1464204213,
+    "wof:name":"Hawaiian Rainbow Produce",
+    "wof:parent_id":85890505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -155.03946,
+    19.63742,
+    -155.03946,
+    19.63742
+],
+  "geometry": {"coordinates":[-155.03945999999999,19.63742],"type":"Point"}
+}

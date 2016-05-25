@@ -1,0 +1,71 @@
+{
+  "id": 857643731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.883549,21.336311,-157.883549,21.336311",
+    "geom:latitude":21.336311,
+    "geom:longitude":-157.883549,
+    "iso:country":"US",
+    "sg:address":"944 Owen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 7911",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01rHGgieXTqxnqxrlQeUTe_21.336311_-157.883549@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205182,
+    "wof:geomhash":"26cab373b811d8c6796f1a34e6f59df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857643731
+        }
+    ],
+    "wof:id":857643731,
+    "wof:lastmodified":1464205182,
+    "wof:name":"Triple Five Auto Repair",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -157.883549,
+    21.336311,
+    -157.883549,
+    21.336311
+],
+  "geometry": {"coordinates":[-157.88354899999999,21.336311],"type":"Point"}
+}

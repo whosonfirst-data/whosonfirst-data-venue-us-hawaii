@@ -1,0 +1,75 @@
+{
+  "id": 857587207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.836982,21.296678,-157.836982,21.296678",
+    "geom:latitude":21.296678,
+    "geom:longitude":-157.836982,
+    "iso:country":"US",
+    "sg:address":"1523 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 7727",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6yLzaSdRtKd4NINjSU3w_21.296678_-157.836982@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203698,
+    "wof:geomhash":"c867beacddcbb4586ba6ec458ed70df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857587207
+        }
+    ],
+    "wof:id":857587207,
+    "wof:lastmodified":1464203698,
+    "wof:name":"Patrick J Lam MD",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -157.836982,
+    21.296678,
+    -157.836982,
+    21.296678
+],
+  "geometry": {"coordinates":[-157.83698200000001,21.296678],"type":"Point"}
+}

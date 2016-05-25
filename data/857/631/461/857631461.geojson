@@ -1,0 +1,71 @@
+{
+  "id": 857631461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.704277,21.298822,-157.704277,21.298822",
+    "geom:latitude":21.298822,
+    "geom:longitude":-157.704277,
+    "iso:country":"US",
+    "sg:address":"963 Kailiu Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 395 7102",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nvQAwfaKgyLbZaojDgFUu_21.298822_-157.704277@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204694,
+    "wof:geomhash":"6adc264bcf58e8cc547c83b1cfe4d114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857631461
+        }
+    ],
+    "wof:id":857631461,
+    "wof:lastmodified":1464204694,
+    "wof:name":"American Tax Associates Ltd",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -157.704277,
+    21.298822,
+    -157.704277,
+    21.298822
+],
+  "geometry": {"coordinates":[-157.70427699999999,21.298822],"type":"Point"}
+}

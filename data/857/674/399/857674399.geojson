@@ -1,0 +1,71 @@
+{
+  "id": 857674399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.0071,21.444362,-158.0071,21.444362",
+    "geom:latitude":21.444362,
+    "geom:longitude":-158.0071,
+    "iso:country":"US",
+    "sg:address":"218 Noholoa Ct",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 1441",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67LVzhRUfEgkdxeU4QafEm_21.444362_-158.007100@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206502,
+    "wof:geomhash":"4803e406699ca20aa07289d647a8f034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857674399
+        }
+    ],
+    "wof:id":857674399,
+    "wof:lastmodified":1464206502,
+    "wof:name":"L T Appliance & Svc",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.0071,
+    21.444362,
+    -158.0071,
+    21.444362
+],
+  "geometry": {"coordinates":[-158.00710000000001,21.444362],"type":"Point"}
+}

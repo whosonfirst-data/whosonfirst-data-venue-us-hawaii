@@ -1,0 +1,71 @@
+{
+  "id": 857577931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.866757,21.315983,-157.866757,21.315983",
+    "geom:latitude":21.315983,
+    "geom:longitude":-157.866757,
+    "iso:country":"US",
+    "sg:address":"806 Iwilei Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 6228",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iyWXGuzhpgWvRKlMOUqZ2_21.315983_-157.866757@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203509,
+    "wof:geomhash":"6dcb542cedcba8fbb889e49db6da9bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857577931
+        }
+    ],
+    "wof:id":857577931,
+    "wof:lastmodified":1464203509,
+    "wof:name":"Personal Printing Svc",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -157.866757,
+    21.315983,
+    -157.866757,
+    21.315983
+],
+  "geometry": {"coordinates":[-157.86675700000001,21.315983],"type":"Point"}
+}

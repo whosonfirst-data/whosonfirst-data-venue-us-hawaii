@@ -1,0 +1,80 @@
+{
+  "id": 857609797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.828332,21.280108,-157.828332,21.280108",
+    "geom:latitude":21.280108,
+    "geom:longitude":-157.828332,
+    "iso:country":"US",
+    "sg:address":"339 Royal Hawaiian Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 924 8337",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "range",
+        "pistol",
+        "rifle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71KWerNQUxd7T1DVzR4m7Q_21.280108_-157.828332@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204202,
+    "wof:geomhash":"7460df73b4d60a29d06cf8cb7b435743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857609797
+        }
+    ],
+    "wof:id":857609797,
+    "wof:lastmodified":1464204202,
+    "wof:name":"Hawaii Gun Club",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "pistol",
+        "rifle"
+    ]
+},
+  "bbox": [
+    -157.828332,
+    21.280108,
+    -157.828332,
+    21.280108
+],
+  "geometry": {"coordinates":[-157.82833199999999,21.280108],"type":"Point"}
+}

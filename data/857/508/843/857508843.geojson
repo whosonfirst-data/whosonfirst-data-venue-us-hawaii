@@ -1,0 +1,71 @@
+{
+  "id": 857508843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.000743,21.424547,-158.000743,21.424547",
+    "geom:latitude":21.424547,
+    "geom:longitude":-158.000743,
+    "iso:country":"US",
+    "sg:address":"340 Ukee St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 6751",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l3xNaaV7hbnfgRUvBbazc_21.424547_-158.000743@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202121,
+    "wof:geomhash":"08739ff55a61ea7f670d218dc254a68c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857508843
+        }
+    ],
+    "wof:id":857508843,
+    "wof:lastmodified":1464202121,
+    "wof:name":"M Watanabe Electrical Cntrctng",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -158.000743,
+    21.424547,
+    -158.000743,
+    21.424547
+],
+  "geometry": {"coordinates":[-158.000743,21.424547],"type":"Point"}
+}

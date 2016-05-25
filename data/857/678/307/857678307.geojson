@@ -1,0 +1,71 @@
+{
+  "id": 857678307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.81505,21.301492,-157.81505,21.301492",
+    "geom:latitude":21.301492,
+    "geom:longitude":-157.81505,
+    "iso:country":"US",
+    "sg:address":"3050 Maile Way",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 956 6735",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oNZu8xq6qaDwabwKlbVqZ_21.301492_-157.815050@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206665,
+    "wof:geomhash":"40e14097a4a8e6d5e4c93585ffea883c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857678307
+        }
+    ],
+    "wof:id":857678307,
+    "wof:lastmodified":1464206665,
+    "wof:name":"Planning & MGT Systems Off",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -157.81505,
+    21.301492,
+    -157.81505,
+    21.301492
+],
+  "geometry": {"coordinates":[-157.81505000000001,21.301492],"type":"Point"}
+}

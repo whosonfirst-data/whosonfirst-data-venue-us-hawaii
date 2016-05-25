@@ -1,0 +1,74 @@
+{
+  "id": 857680671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.452504,20.88626,-156.452504,20.88626",
+    "geom:latitude":20.88626,
+    "geom:longitude":-156.452504,
+    "iso:country":"US",
+    "sg:address":"424 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/puunene/87342-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 871 7566",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XsABgmgcCQAGeV9n4dnwU_20.886260_-156.452504@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206752,
+    "wof:geomhash":"2704b191746cd3e7edd4342c1a0de61b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857680671
+        }
+    ],
+    "wof:id":857680671,
+    "wof:lastmodified":1464206752,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -156.452504,
+    20.88626,
+    -156.452504,
+    20.88626
+],
+  "geometry": {"coordinates":[-156.452504,20.88626],"type":"Point"}
+}

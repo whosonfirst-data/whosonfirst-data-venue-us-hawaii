@@ -1,0 +1,71 @@
+{
+  "id": 857664307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.015422,21.432332,-158.015422,21.432332",
+    "geom:latitude":21.432332,
+    "geom:longitude":-158.015422,
+    "iso:country":"US",
+    "sg:address":"422 Papolohiwa St",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 3694",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937565,
+        102085417,
+        85890587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ShJU0hTm4TXISRJ41hqi_21.432332_-158.015422@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206095,
+    "wof:geomhash":"6a7497c063c7ed43100fe9cda3145cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937565,
+            "neighbourhood_id":85890587,
+            "region_id":85688671,
+            "venue_id":857664307
+        }
+    ],
+    "wof:id":857664307,
+    "wof:lastmodified":1464206095,
+    "wof:name":"S & R Refrigeration",
+    "wof:parent_id":85890587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -158.015422,
+    21.432332,
+    -158.015422,
+    21.432332
+],
+  "geometry": {"coordinates":[-158.015422,21.432332],"type":"Point"}
+}

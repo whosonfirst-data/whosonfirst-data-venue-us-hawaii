@@ -1,0 +1,71 @@
+{
+  "id": 857665893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.861593,21.320236,-157.861593,21.320236",
+    "geom:latitude":21.320236,
+    "geom:longitude":-157.861593,
+    "iso:country":"US",
+    "sg:address":"1425 Liliha St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 4752",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qpHzYsJaiKx0Birlmj8s6_21.320236_-157.861593@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206175,
+    "wof:geomhash":"ffd810b0952e7e77e74817c3a39374f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857665893
+        }
+    ],
+    "wof:id":857665893,
+    "wof:lastmodified":1464206175,
+    "wof:name":"Toyo Sushi",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -157.861593,
+    21.320236,
+    -157.861593,
+    21.320236
+],
+  "geometry": {"coordinates":[-157.861593,21.320236],"type":"Point"}
+}

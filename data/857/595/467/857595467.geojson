@@ -1,0 +1,76 @@
+{
+  "id": 857595467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856159,21.299752,-157.856159,21.299752",
+    "geom:latitude":21.299752,
+    "geom:longitude":-157.856159,
+    "iso:country":"US",
+    "sg:address":"859 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2204",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.cityfender.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vd0S4nD9mv0jv1gVXxldq_21.299752_-157.856159@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203882,
+    "wof:geomhash":"44057d179f739efb61f0eddc2abedc8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857595467
+        }
+    ],
+    "wof:id":857595467,
+    "wof:lastmodified":1464203882,
+    "wof:name":"City Fender & Body Svc LTD",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -157.856159,
+    21.299752,
+    -157.856159,
+    21.299752
+],
+  "geometry": {"coordinates":[-157.85615899999999,21.299752],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857520589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8058,21.404905,-157.8058,21.404905",
+    "geom:latitude":21.404905,
+    "geom:longitude":-157.8058,
+    "iso:country":"US",
+    "sg:address":"633 Keneke St",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 233 2900",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:website":"www.koolaubc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ufblX4rYjjdVimb0Hz1I6_21.404905_-157.805800@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202364,
+    "wof:geomhash":"15a16924d5d894dedb7345c6de23bf8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857520589
+        }
+    ],
+    "wof:id":857520589,
+    "wof:lastmodified":1464202364,
+    "wof:name":"Koolau Baptist Church",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.8058,
+    21.404905,
+    -157.8058,
+    21.404905
+],
+  "geometry": {"coordinates":[-157.8058,21.404905],"type":"Point"}
+}

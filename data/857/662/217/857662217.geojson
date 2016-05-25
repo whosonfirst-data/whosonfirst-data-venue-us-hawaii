@@ -1,0 +1,77 @@
+{
+  "id": 857662217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.788321,21.278688,-157.788321,21.278688",
+    "geom:latitude":21.278688,
+    "geom:longitude":-157.788321,
+    "iso:country":"US",
+    "sg:address":"4137 Waialae Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 7500",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WIHzqKPjcahyV1WwF9tkt_21.278688_-157.788321@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206019,
+    "wof:geomhash":"4259896342e2c21e49ad1aa3fcf9acd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857662217
+        }
+    ],
+    "wof:id":857662217,
+    "wof:lastmodified":1464206019,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -157.788321,
+    21.278688,
+    -157.788321,
+    21.278688
+],
+  "geometry": {"coordinates":[-157.788321,21.278688],"type":"Point"}
+}

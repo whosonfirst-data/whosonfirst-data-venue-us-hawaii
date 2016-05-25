@@ -1,0 +1,69 @@
+{
+  "id": 857656117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.346886,22.002493,-159.346886,22.002493",
+    "geom:latitude":22.002493,
+    "geom:longitude":-159.346886,
+    "iso:country":"US",
+    "sg:address":"5350 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 241 6666",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mPhsI7aH3s4DgGALsjjAs_22.002493_-159.346886@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205729,
+    "wof:geomhash":"9cb45de1d59217701b96355a687130a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857656117
+        }
+    ],
+    "wof:id":857656117,
+    "wof:lastmodified":1464205729,
+    "wof:name":"Wailua Golf Course",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -159.346886,
+    22.002493,
+    -159.346886,
+    22.002493
+],
+  "geometry": {"coordinates":[-159.34688600000001,22.002493],"type":"Point"}
+}

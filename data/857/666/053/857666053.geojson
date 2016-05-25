@@ -1,0 +1,73 @@
+{
+  "id": 857666053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.821513,21.2925,-157.821513,21.2925",
+    "geom:latitude":21.2925,
+    "geom:longitude":-157.821513,
+    "iso:country":"US",
+    "sg:address":"1009 University Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 945 0880",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06iVp9YYP64RWRV89ntywQ_21.292500_-157.821513@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206186,
+    "wof:geomhash":"4c9e7ecb58d87a429e56646916931cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857666053
+        }
+    ],
+    "wof:id":857666053,
+    "wof:lastmodified":1464206186,
+    "wof:name":"U H Cue",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -157.821513,
+    21.2925,
+    -157.821513,
+    21.2925
+],
+  "geometry": {"coordinates":[-157.82151300000001,21.2925],"type":"Point"}
+}

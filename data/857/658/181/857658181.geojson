@@ -1,0 +1,65 @@
+{
+  "id": 857658181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.351251,21.994925,-159.351251,21.994925",
+    "geom:latitude":21.994925,
+    "geom:longitude":-159.351251,
+    "iso:country":"US",
+    "sg:address":"4380 Hanamaulu Rd",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 241 3150",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:website":"www.kaumualii.k12.hi.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890183,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P6ZkyBlt99e7JVkuaBYSa_21.994925_-159.351251@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205828,
+    "wof:geomhash":"ebdce3547182be021e9f22fe54c6927a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890183,
+            "region_id":85688671,
+            "venue_id":857658181
+        }
+    ],
+    "wof:id":857658181,
+    "wof:lastmodified":1464205828,
+    "wof:name":"King Kaumauli'i Elementary Sch",
+    "wof:parent_id":85890183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.351251,
+    21.994925,
+    -159.351251,
+    21.994925
+],
+  "geometry": {"coordinates":[-159.35125099999999,21.994925],"type":"Point"}
+}

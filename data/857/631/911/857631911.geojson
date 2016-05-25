@@ -1,0 +1,71 @@
+{
+  "id": 857631911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.86806,21.323115,-157.86806,21.323115",
+    "geom:latitude":21.323115,
+    "geom:longitude":-157.86806,
+    "iso:country":"US",
+    "sg:address":"927 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 8064",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08JdVg3oxSS1JYZ52TooEL_21.323115_-157.868060@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204710,
+    "wof:geomhash":"2633eddd9c6ec7b19e1edf0e11159b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857631911
+        }
+    ],
+    "wof:id":857631911,
+    "wof:lastmodified":1464204710,
+    "wof:name":"Tsukenjo Cafe",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -157.86806,
+    21.323115,
+    -157.86806,
+    21.323115
+],
+  "geometry": {"coordinates":[-157.86806000000001,21.323115],"type":"Point"}
+}

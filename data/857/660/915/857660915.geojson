@@ -1,0 +1,75 @@
+{
+  "id": 857660915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.954096,21.40221,-157.954096,21.40221",
+    "geom:latitude":21.40221,
+    "geom:longitude":-157.954096,
+    "iso:country":"US",
+    "sg:address":"1458 Hoomahie Loop",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 455 6174",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_428Vhgq63FeMgtGd098uKt_21.402210_-157.954096@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205955,
+    "wof:geomhash":"c68c8e780bcd0b3d57873ed286083603",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890647,
+            "region_id":85688671,
+            "venue_id":857660915
+        }
+    ],
+    "wof:id":857660915,
+    "wof:lastmodified":1464205955,
+    "wof:name":"Bears Carpet Care",
+    "wof:parent_id":85890647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -157.954096,
+    21.40221,
+    -157.954096,
+    21.40221
+],
+  "geometry": {"coordinates":[-157.95409599999999,21.40221],"type":"Point"}
+}

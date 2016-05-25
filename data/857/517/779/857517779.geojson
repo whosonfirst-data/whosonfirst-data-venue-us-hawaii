@@ -1,0 +1,73 @@
+{
+  "id": 857517779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823425,21.2766,-157.823425,21.2766",
+    "geom:latitude":21.2766,
+    "geom:longitude":-157.823425,
+    "iso:country":"US",
+    "sg:address":"151 Uluniu Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 2224",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H9Q9GOA9BLVjqSkmzapmH_21.276600_-157.823425@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202304,
+    "wof:geomhash":"ce330fc93ebbedd1cfff6a8451407da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857517779
+        }
+    ],
+    "wof:id":857517779,
+    "wof:lastmodified":1464202304,
+    "wof:name":"Paradise Isle Rental",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -157.823425,
+    21.2766,
+    -157.823425,
+    21.2766
+],
+  "geometry": {"coordinates":[-157.82342499999999,21.2766],"type":"Point"}
+}

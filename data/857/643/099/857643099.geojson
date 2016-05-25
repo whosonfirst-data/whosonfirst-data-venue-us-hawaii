@@ -1,0 +1,84 @@
+{
+  "id": 857643099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.103077,21.591906,-158.103077,21.591906",
+    "geom:latitude":21.591906,
+    "geom:longitude":-158.103077,
+    "iso:country":"US",
+    "sg:address":"57 Kamehameha Hwy",
+    "sg:city":"Haleiwa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 637 4845",
+    "sg:postcode":"96712",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop",
+        "tailoring",
+        "snack",
+        "tailor",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937645,
+        102085417,
+        85890121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VdGWT6of7mfIdwjj1501n_21.591906_-158.103077@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205148,
+    "wof:geomhash":"376272dbff778ae23885236061e3d633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937645,
+            "neighbourhood_id":85890121,
+            "region_id":85688671,
+            "venue_id":857643099
+        }
+    ],
+    "wof:id":857643099,
+    "wof:lastmodified":1464205148,
+    "wof:name":"Miura H Store & Tailor Shop",
+    "wof:parent_id":85890121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "tailoring",
+        "snack",
+        "tailor",
+        "custom"
+    ]
+},
+  "bbox": [
+    -158.103077,
+    21.591906,
+    -158.103077,
+    21.591906
+],
+  "geometry": {"coordinates":[-158.10307700000001,21.591906],"type":"Point"}
+}

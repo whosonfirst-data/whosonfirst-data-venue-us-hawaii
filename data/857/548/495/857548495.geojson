@@ -1,0 +1,71 @@
+{
+  "id": 857548495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.585298,21.903726,-159.585298,21.903726",
+    "geom:latitude":21.903726,
+    "geom:longitude":-159.585298,
+    "iso:country":"US",
+    "sg:address":"4382 Waialo Rd",
+    "sg:city":"Eleele",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 335 0499",
+    "sg:postcode":"96705",
+    "sg:province":"HI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890073,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mWsA8zkk2Y2fNvHvoR0qf_21.903726_-159.585298@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202902,
+    "wof:geomhash":"5ecfd6a4fdc47b85605588a622197664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890073,
+            "region_id":85688671,
+            "venue_id":857548495
+        }
+    ],
+    "wof:id":857548495,
+    "wof:lastmodified":1464202902,
+    "wof:name":"Kauai Medical Clinic",
+    "wof:parent_id":85890073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -159.585298,
+    21.903726,
+    -159.585298,
+    21.903726
+],
+  "geometry": {"coordinates":[-159.58529799999999,21.903726],"type":"Point"}
+}

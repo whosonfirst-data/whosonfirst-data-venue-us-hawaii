@@ -1,0 +1,78 @@
+{
+  "id": 857540447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856892,21.297671,-157.856892,21.297671",
+    "geom:latitude":21.297671,
+    "geom:longitude":-157.856892,
+    "iso:country":"US",
+    "sg:address":"537 Ahui St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 593 0100",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transmission",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qm8o7lfTMx9sPnElOHxUL_21.297671_-157.856892@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202744,
+    "wof:geomhash":"f93ed47bd8d46290f1dba53fb0e3438c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857540447
+        }
+    ],
+    "wof:id":857540447,
+    "wof:lastmodified":1464202744,
+    "wof:name":"Trans-Parts Express",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "supply"
+    ]
+},
+  "bbox": [
+    -157.856892,
+    21.297671,
+    -157.856892,
+    21.297671
+],
+  "geometry": {"coordinates":[-157.85689199999999,21.297671],"type":"Point"}
+}

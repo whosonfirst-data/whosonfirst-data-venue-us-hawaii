@@ -1,0 +1,72 @@
+{
+  "id": 857555635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856946,21.300623,-157.856946,21.300623",
+    "geom:latitude":21.300623,
+    "geom:longitude":-157.856946,
+    "iso:country":"US",
+    "sg:address":"711 Queen St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 597 8880",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "sg:website":"www.panyabakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kj3o454p5ea4paOUKuR6S_21.300623_-157.856946@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203046,
+    "wof:geomhash":"6a2664fce330bbe4a6f5439269113a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857555635
+        }
+    ],
+    "wof:id":857555635,
+    "wof:lastmodified":1464203046,
+    "wof:name":"Panya",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.856946,
+    21.300623,
+    -157.856946,
+    21.300623
+],
+  "geometry": {"coordinates":[-157.85694599999999,21.300623],"type":"Point"}
+}

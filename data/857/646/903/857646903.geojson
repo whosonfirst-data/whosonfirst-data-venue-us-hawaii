@@ -1,0 +1,77 @@
+{
+  "id": 857646903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882995,21.330808,-157.882995,21.330808",
+    "geom:latitude":21.330808,
+    "geom:longitude":-157.882995,
+    "iso:country":"US",
+    "sg:address":"2140 Eluwene St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 847 4237",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "general",
+        "industrial",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AQcJeBRzcLunSZY7Jbnof_21.330808_-157.882995@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205333,
+    "wof:geomhash":"02379619ca70210e764cd964ffde3072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857646903
+        }
+    ],
+    "wof:id":857646903,
+    "wof:lastmodified":1464205333,
+    "wof:name":"Richard Tom Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "industrial",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.882995,
+    21.330808,
+    -157.882995,
+    21.330808
+],
+  "geometry": {"coordinates":[-157.88299499999999,21.330808],"type":"Point"}
+}

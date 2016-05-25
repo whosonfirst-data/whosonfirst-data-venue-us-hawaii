@@ -1,0 +1,71 @@
+{
+  "id": 857591155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.094865,21.309029,-158.094865,21.309029",
+    "geom:latitude":21.309029,
+    "geom:longitude":-158.094865,
+    "iso:country":"US",
+    "sg:address":"238 Kauhi St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 673 3200",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "record",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_523j5EZrnv5pKnmqQrVPAJ_21.309029_-158.094865@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203787,
+    "wof:geomhash":"da1db6c5cff7fa61ba796b840529e394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857591155
+        }
+    ],
+    "wof:id":857591155,
+    "wof:lastmodified":1464203787,
+    "wof:name":"Fileminders",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "management"
+    ]
+},
+  "bbox": [
+    -158.094865,
+    21.309029,
+    -158.094865,
+    21.309029
+],
+  "geometry": {"coordinates":[-158.094865,21.309029],"type":"Point"}
+}

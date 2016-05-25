@@ -1,0 +1,71 @@
+{
+  "id": 857641103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.027884,21.392583,-158.027884,21.392583",
+    "geom:latitude":21.392583,
+    "geom:longitude":-158.027884,
+    "iso:country":"US",
+    "sg:address":"632 Puhau Way",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 4135",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85826167,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OQKGkjkgIToJ2oPai6PHz_21.392583_-158.027884@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205066,
+    "wof:geomhash":"462ba22e2ec30ef6c094c349399af95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85826167,
+            "region_id":85688671,
+            "venue_id":857641103
+        }
+    ],
+    "wof:id":857641103,
+    "wof:lastmodified":1464205066,
+    "wof:name":"Paul's Crating",
+    "wof:parent_id":85826167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -158.027884,
+    21.392583,
+    -158.027884,
+    21.392583
+],
+  "geometry": {"coordinates":[-158.027884,21.392583],"type":"Point"}
+}

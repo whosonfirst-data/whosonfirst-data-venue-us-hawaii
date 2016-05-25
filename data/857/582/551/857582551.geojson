@@ -1,0 +1,75 @@
+{
+  "id": 857582551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.927283,21.345346,-157.927283,21.345346",
+    "geom:latitude":21.345346,
+    "geom:longitude":-157.927283,
+    "iso:country":"US",
+    "sg:address":"1048 Valkenburgh St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 6929",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3scB4vQpHzAxhhBgr8izuk_21.345346_-157.927283@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203600,
+    "wof:geomhash":"48ec99a77cb79c88ad7f33904d29b229",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857582551
+        }
+    ],
+    "wof:id":857582551,
+    "wof:lastmodified":1464203600,
+    "wof:name":"Linda Mae Skin Care Salon",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -157.927283,
+    21.345346,
+    -157.927283,
+    21.345346
+],
+  "geometry": {"coordinates":[-157.92728299999999,21.345346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857587589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.834604,21.288553,-157.834604,21.288553",
+    "geom:latitude":21.288553,
+    "geom:longitude":-157.834604,
+    "iso:country":"US",
+    "sg:address":"1801 Kalakaua Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 3500",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:website":"www.hawaiiconvention.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dIVRw0tYKwDUVQeO8gd5K_21.288553_-157.834604@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203705,
+    "wof:geomhash":"75c61dd1f82babeebd59240371b131e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854131,
+            "region_id":85688671,
+            "venue_id":857587589
+        }
+    ],
+    "wof:id":857587589,
+    "wof:lastmodified":1464203705,
+    "wof:name":"Hawaii Convention Ctr",
+    "wof:parent_id":85854131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.834604,
+    21.288553,
+    -157.834604,
+    21.288553
+],
+  "geometry": {"coordinates":[-157.83460400000001,21.288553],"type":"Point"}
+}

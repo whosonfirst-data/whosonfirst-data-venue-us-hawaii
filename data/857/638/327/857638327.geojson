@@ -1,0 +1,69 @@
+{
+  "id": 857638327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.995269,21.419456,-157.995269,21.419456",
+    "geom:latitude":21.419456,
+    "geom:longitude":-157.995269,
+    "iso:country":"US",
+    "sg:address":"1196 Nanilihilihi St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 2328",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890709,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LaPR5OiLJTr8C7zIMweTo_21.419456_-157.995269@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204951,
+    "wof:geomhash":"a3e0ce98bec16a052f427b34b03c787b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
+            "region_id":85688671,
+            "venue_id":857638327
+        }
+    ],
+    "wof:id":857638327,
+    "wof:lastmodified":1464204951,
+    "wof:name":"Toms Electrical Repair",
+    "wof:parent_id":85890709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -157.995269,
+    21.419456,
+    -157.995269,
+    21.419456
+],
+  "geometry": {"coordinates":[-157.99526900000001,21.419456],"type":"Point"}
+}

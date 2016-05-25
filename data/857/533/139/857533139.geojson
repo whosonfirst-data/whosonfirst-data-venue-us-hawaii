@@ -1,0 +1,66 @@
+{
+  "id": 857533139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.703765,21.301851,-157.703765,21.301851",
+    "geom:latitude":21.301851,
+    "geom:longitude":-157.703765,
+    "iso:country":"US",
+    "sg:address":"1105 Kaluanui Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 554 6324",
+    "sg:postcode":"96825",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85824285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iBpN62Ke4YEDUtn5m5BrT_21.301851_-157.703765@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202606,
+    "wof:geomhash":"c9cdf7282a43b02d8ea144a7f14677a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857533139
+        }
+    ],
+    "wof:id":857533139,
+    "wof:lastmodified":1464202606,
+    "wof:name":"Pacific Rim Chemical & Envrmnt",
+    "wof:parent_id":85824285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.703765,
+    21.301851,
+    -157.703765,
+    21.301851
+],
+  "geometry": {"coordinates":[-157.703765,21.301851],"type":"Point"}
+}

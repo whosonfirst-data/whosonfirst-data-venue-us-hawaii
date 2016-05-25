@@ -1,0 +1,75 @@
+{
+  "id": 857631705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.73266,21.2836,-157.73266,21.2836",
+    "geom:latitude":21.2836,
+    "geom:longitude":-157.73266,
+    "iso:country":"US",
+    "sg:address":"5829 Mahimahi St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 373 4434",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85869061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Bo5jajEeJG1nPF05WY5b_21.283600_-157.732660@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204703,
+    "wof:geomhash":"47b90a63ec4db53f25b4272ff3453b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85869061,
+            "region_id":85688671,
+            "venue_id":857631705
+        }
+    ],
+    "wof:id":857631705,
+    "wof:lastmodified":1464204703,
+    "wof:name":"Kilohana Preschool",
+    "wof:parent_id":85869061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -157.73266,
+    21.2836,
+    -157.73266,
+    21.2836
+],
+  "geometry": {"coordinates":[-157.73266000000001,21.2836],"type":"Point"}
+}

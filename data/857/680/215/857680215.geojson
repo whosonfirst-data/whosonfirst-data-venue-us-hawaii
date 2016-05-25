@@ -1,0 +1,77 @@
+{
+  "id": 857680215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.885307,21.323556,-157.885307,21.323556",
+    "geom:latitude":21.323556,
+    "geom:longitude":-157.885307,
+    "iso:country":"US",
+    "sg:address":"1733 Kahai St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 5009",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bRcHujb9jmi5riiCGaLEX_21.323556_-157.885307@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206736,
+    "wof:geomhash":"130ecb311d6e3f30ec934147ff7a4f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857680215
+        }
+    ],
+    "wof:id":857680215,
+    "wof:lastmodified":1464206736,
+    "wof:name":"Tagami Auto Service Ltd",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -157.885307,
+    21.323556,
+    -157.885307,
+    21.323556
+],
+  "geometry": {"coordinates":[-157.88530700000001,21.323556],"type":"Point"}
+}

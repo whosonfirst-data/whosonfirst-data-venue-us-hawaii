@@ -1,0 +1,73 @@
+{
+  "id": 857673359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.879181,21.333293,-157.879181,21.333293",
+    "geom:latitude":21.333293,
+    "geom:longitude":-157.879181,
+    "iso:country":"US",
+    "sg:address":"2041 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 843 0990",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "money",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nIYglx8PrnKyOzqZHKHmV_21.333293_-157.879181@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206465,
+    "wof:geomhash":"4d0f2236f95e225553492ae1dff3ac74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857673359
+        }
+    ],
+    "wof:id":857673359,
+    "wof:lastmodified":1464206465,
+    "wof:name":"J P Global Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order"
+    ]
+},
+  "bbox": [
+    -157.879181,
+    21.333293,
+    -157.879181,
+    21.333293
+],
+  "geometry": {"coordinates":[-157.87918099999999,21.333293],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857635721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.796507,21.276318,-157.796507,21.276318",
+    "geom:latitude":21.276318,
+    "geom:longitude":-157.796507,
+    "iso:country":"US",
+    "sg:address":"952 16th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 8185",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "business",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FFD4Rvx3zU7PGogL4211D_21.276318_-157.796507@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204859,
+    "wof:geomhash":"1489ecbd4e23533fbc4903fee89a7ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857635721
+        }
+    ],
+    "wof:id":857635721,
+    "wof:lastmodified":1464204859,
+    "wof:name":"Inner Image",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -157.796507,
+    21.276318,
+    -157.796507,
+    21.276318
+],
+  "geometry": {"coordinates":[-157.79650699999999,21.276318],"type":"Point"}
+}

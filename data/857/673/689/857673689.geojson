@@ -1,0 +1,75 @@
+{
+  "id": 857673689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.90016,21.340416,-157.90016,21.340416",
+    "geom:latitude":21.340416,
+    "geom:longitude":-157.90016,
+    "iso:country":"US",
+    "sg:address":"770 Mapunapuna St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 833 5861",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rTSSaseZYPMx8r1g5FWn1_21.340416_-157.900160@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206476,
+    "wof:geomhash":"5723603afde544a5747be81f95c51aa1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857673689
+        }
+    ],
+    "wof:id":857673689,
+    "wof:lastmodified":1464206476,
+    "wof:name":"Pacific Fence Inc",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.90016,
+    21.340416,
+    -157.90016,
+    21.340416
+],
+  "geometry": {"coordinates":[-157.90016,21.340416],"type":"Point"}
+}

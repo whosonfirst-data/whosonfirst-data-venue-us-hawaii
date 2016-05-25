@@ -1,0 +1,71 @@
+{
+  "id": 857544901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745624,21.282531,-157.745624,21.282531",
+    "geom:latitude":21.282531,
+    "geom:longitude":-157.745624,
+    "iso:country":"US",
+    "sg:address":"301 Kaialii Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 377 8444",
+    "sg:postcode":"96821",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937695,
+        102085417,
+        85828863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tIkAAbvIut6gjkSynD5YC_21.282531_-157.745624@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202838,
+    "wof:geomhash":"7e895f2f60fdd98e293c0b312e73dbc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85828863,
+            "region_id":85688671,
+            "venue_id":857544901
+        }
+    ],
+    "wof:id":857544901,
+    "wof:lastmodified":1464202838,
+    "wof:name":"T J Lane Law Offices",
+    "wof:parent_id":85828863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -157.745624,
+    21.282531,
+    -157.745624,
+    21.282531
+],
+  "geometry": {"coordinates":[-157.74562399999999,21.282531],"type":"Point"}
+}

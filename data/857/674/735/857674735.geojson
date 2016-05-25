@@ -1,0 +1,71 @@
+{
+  "id": 857674735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843391,21.302788,-157.843391,21.302788",
+    "geom:latitude":21.302788,
+    "geom:longitude":-157.843391,
+    "iso:country":"US",
+    "sg:address":"1134 Kinau St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 599 7780",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WtPsFu3IO84OoGyz8UtEY_21.302788_-157.843391@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206514,
+    "wof:geomhash":"97c8b4e0b7214aa3ca51e80a30b20361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857674735
+        }
+    ],
+    "wof:id":857674735,
+    "wof:lastmodified":1464206514,
+    "wof:name":"1134 Kinau Condominium",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.843391,
+    21.302788,
+    -157.843391,
+    21.302788
+],
+  "geometry": {"coordinates":[-157.843391,21.302788],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857639815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.097173,21.308718,-158.097173,21.308718",
+    "geom:latitude":21.308718,
+    "geom:longitude":-158.097173,
+    "iso:country":"US",
+    "sg:address":"290 Kauhi St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 3520",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85865243,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CS0SRfC9yesn5rdTIsLsK_21.308718_-158.097173@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205012,
+    "wof:geomhash":"8e0f71b1fe48a72662c25a41cf441781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85865243,
+            "region_id":85688671,
+            "venue_id":857639815
+        }
+    ],
+    "wof:id":857639815,
+    "wof:lastmodified":1464205012,
+    "wof:name":"Kraft Foods",
+    "wof:parent_id":85865243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -158.097173,
+    21.308718,
+    -158.097173,
+    21.308718
+],
+  "geometry": {"coordinates":[-158.097173,21.308718],"type":"Point"}
+}

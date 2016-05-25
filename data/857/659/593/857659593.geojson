@@ -1,0 +1,71 @@
+{
+  "id": 857659593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840228,21.298302,-157.840228,21.298302",
+    "geom:latitude":21.298302,
+    "geom:longitude":-157.840228,
+    "iso:country":"US",
+    "sg:address":"939 Keeaumoku St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 946 7072",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kYAR0CTjtWUv9GtoP8JdB_21.298302_-157.840228@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205885,
+    "wof:geomhash":"12da4b63c10a81334319224a324c634c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857659593
+        }
+    ],
+    "wof:id":857659593,
+    "wof:lastmodified":1464205885,
+    "wof:name":"Club Rose",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -157.840228,
+    21.298302,
+    -157.840228,
+    21.298302
+],
+  "geometry": {"coordinates":[-157.840228,21.298302],"type":"Point"}
+}

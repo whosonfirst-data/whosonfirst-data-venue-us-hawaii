@@ -1,0 +1,75 @@
+{
+  "id": 857582641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.791669,21.278667,-157.791669,21.278667",
+    "geom:latitude":21.278667,
+    "geom:longitude":-157.791669,
+    "iso:country":"US",
+    "sg:address":"1108 19th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 735 3919",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XLsrpjh9A1EL0UXTZPlCG_21.278667_-157.791669@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203602,
+    "wof:geomhash":"64239b7c508a39c710ef9faea027d7a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857582641
+        }
+    ],
+    "wof:id":857582641,
+    "wof:lastmodified":1464203602,
+    "wof:name":"Diamond Electric Co Inc",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.791669,
+    21.278667,
+    -157.791669,
+    21.278667
+],
+  "geometry": {"coordinates":[-157.79166900000001,21.278667],"type":"Point"}
+}

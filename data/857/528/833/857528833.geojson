@@ -1,0 +1,71 @@
+{
+  "id": 857528833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.813869,21.266502,-157.813869,21.266502",
+    "geom:latitude":21.266502,
+    "geom:longitude":-157.813869,
+    "iso:country":"US",
+    "sg:address":"3719 Kanaina Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3027",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oZJgG8dsarnnO6WDjxlbS_21.266502_-157.813869@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202521,
+    "wof:geomhash":"8606b9926d66943ecb3cc1e73a8c31bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872719,
+            "region_id":85688671,
+            "venue_id":857528833
+        }
+    ],
+    "wof:id":857528833,
+    "wof:lastmodified":1464202521,
+    "wof:name":"Yuk Fut Temple",
+    "wof:parent_id":85872719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.813869,
+    21.266502,
+    -157.813869,
+    21.266502
+],
+  "geometry": {"coordinates":[-157.81386900000001,21.266502],"type":"Point"}
+}

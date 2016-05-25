@@ -1,0 +1,71 @@
+{
+  "id": 857650117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.800276,21.414154,-157.800276,21.414154",
+    "geom:latitude":21.414154,
+    "geom:longitude":-157.800276,
+    "iso:country":"US",
+    "sg:address":"955 Kamehameha Hwy",
+    "sg:city":"Kaneohe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 247 8766",
+    "sg:postcode":"96744",
+    "sg:province":"HI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937605,
+        102085417,
+        85824543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58oY10O3iHJ9rScpxNLBKc_21.414154_-157.800276@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205464,
+    "wof:geomhash":"46a260323e42876935e32d1dc4d19029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937605,
+            "neighbourhood_id":85824543,
+            "region_id":85688671,
+            "venue_id":857650117
+        }
+    ],
+    "wof:id":857650117,
+    "wof:lastmodified":1464205464,
+    "wof:name":"Denis Realty Inc",
+    "wof:parent_id":85824543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -157.800276,
+    21.414154,
+    -157.800276,
+    21.414154
+],
+  "geometry": {"coordinates":[-157.800276,21.414154],"type":"Point"}
+}

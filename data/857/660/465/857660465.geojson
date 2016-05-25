@@ -1,0 +1,73 @@
+{
+  "id": 857660465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.329924,20.799265,-156.329924,20.799265",
+    "geom:latitude":20.799265,
+    "geom:longitude":-156.329924,
+    "iso:country":"US",
+    "sg:address":"133 Kahala Pl",
+    "sg:city":"Kula",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 878 8559",
+    "sg:postcode":"96790",
+    "sg:province":"HI",
+    "sg:tags":[
+        "rental",
+        "vacation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937627,
+        102085577,
+        85890503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PiMwKXDcYZ07mLIY1KlH9_20.799265_-156.329924@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205931,
+    "wof:geomhash":"1086fcf2afb038b6b28ce1a2bc75bd77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937627,
+            "neighbourhood_id":85890503,
+            "region_id":85688671,
+            "venue_id":857660465
+        }
+    ],
+    "wof:id":857660465,
+    "wof:lastmodified":1464205931,
+    "wof:name":"Hawaii Hideaways Inc",
+    "wof:parent_id":85890503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "vacation"
+    ]
+},
+  "bbox": [
+    -156.329924,
+    20.799265,
+    -156.329924,
+    20.799265
+],
+  "geometry": {"coordinates":[-156.32992400000001,20.799265],"type":"Point"}
+}

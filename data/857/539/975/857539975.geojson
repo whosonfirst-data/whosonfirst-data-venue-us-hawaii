@@ -1,0 +1,68 @@
+{
+  "id": 857539975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.671073,20.02326,-155.671073,20.02326",
+    "geom:latitude":20.02326,
+    "geom:longitude":-155.671073,
+    "iso:country":"US",
+    "sg:address":"1214 Lindsey Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 4377",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zIBWYAqSvbUqSHOxta29s_20.023260_-155.671073@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202736,
+    "wof:geomhash":"f57001de303a9c7f26aff4882447e567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890369,
+            "region_id":85688671,
+            "venue_id":857539975
+        }
+    ],
+    "wof:id":857539975,
+    "wof:lastmodified":1464202736,
+    "wof:name":"Paniolo Country Inn",
+    "wof:parent_id":85890369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.671073,
+    20.02326,
+    -155.671073,
+    20.02326
+],
+  "geometry": {"coordinates":[-155.67107300000001,20.02326],"type":"Point"}
+}

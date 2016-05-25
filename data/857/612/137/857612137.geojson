@@ -1,0 +1,71 @@
+{
+  "id": 857612137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.887154,21.335444,-157.887154,21.335444",
+    "geom:latitude":21.335444,
+    "geom:longitude":-157.887154,
+    "iso:country":"US",
+    "sg:address":"811 Middle St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 842 0313",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B2cr9KSg7MAcpBC5JKahB_21.335444_-157.887154@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204256,
+    "wof:geomhash":"9b407c5036efefc3a8b10752dc18ad13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857612137
+        }
+    ],
+    "wof:id":857612137,
+    "wof:lastmodified":1464204256,
+    "wof:name":"Siemens Corp",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -157.887154,
+    21.335444,
+    -157.887154,
+    21.335444
+],
+  "geometry": {"coordinates":[-157.88715400000001,21.335444],"type":"Point"}
+}

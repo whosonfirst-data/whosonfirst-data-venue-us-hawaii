@@ -1,0 +1,71 @@
+{
+  "id": 857598503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.784502,21.278175,-157.784502,21.278175",
+    "geom:latitude":21.278175,
+    "geom:longitude":-157.784502,
+    "iso:country":"US",
+    "sg:address":"4705 Kilauea Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 737 0541",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85854121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dEjDdp6GEbLMqteJWvzkm_21.278175_-157.784502@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203950,
+    "wof:geomhash":"d001b5fa2593a502a9b52e1fde326543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857598503
+        }
+    ],
+    "wof:id":857598503,
+    "wof:lastmodified":1464203950,
+    "wof:name":"Waiokeola Congregational Chr",
+    "wof:parent_id":85854121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -157.784502,
+    21.278175,
+    -157.784502,
+    21.278175
+],
+  "geometry": {"coordinates":[-157.784502,21.278175],"type":"Point"}
+}

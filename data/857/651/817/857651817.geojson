@@ -1,0 +1,68 @@
+{
+  "id": 857651817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.453659,20.734931,-156.453659,20.734931",
+    "geom:latitude":20.734931,
+    "geom:longitude":-156.453659,
+    "iso:country":"US",
+    "sg:address":"35 Waimahaihai St",
+    "sg:city":"Kihei",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 875 6833",
+    "sg:postcode":"96753",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937595,
+        102085577,
+        85890695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUfjRDuiyJTmAThwzagCM_20.734931_-156.453659@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205535,
+    "wof:geomhash":"c182cc0827810a68b131017db6d617e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937595,
+            "neighbourhood_id":85890695,
+            "region_id":85688671,
+            "venue_id":857651817
+        }
+    ],
+    "wof:id":857651817,
+    "wof:lastmodified":1464205535,
+    "wof:name":"Kihei Public Library",
+    "wof:parent_id":85890695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -156.453659,
+    20.734931,
+    -156.453659,
+    20.734931
+],
+  "geometry": {"coordinates":[-156.45365899999999,20.734931],"type":"Point"}
+}

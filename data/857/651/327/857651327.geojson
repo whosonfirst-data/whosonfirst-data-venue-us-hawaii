@@ -1,0 +1,71 @@
+{
+  "id": 857651327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-159.366854,21.984245,-159.366854,21.984245",
+    "geom:latitude":21.984245,
+    "geom:longitude":-159.366854,
+    "iso:country":"US",
+    "sg:address":"3367 Kuhio Hwy",
+    "sg:city":"Lihue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 246 1163",
+    "sg:postcode":"96766",
+    "sg:province":"HI",
+    "sg:tags":[
+        "veteran",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890571,
+        102085457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d9q08ilEVAjKvc5Ofnx9P_21.984245_-159.366854@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205513,
+    "wof:geomhash":"a903b391864dc0ffb9d5bbdc0d0e2a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085457,
+            "neighbourhood_id":85890571,
+            "region_id":85688671,
+            "venue_id":857651327
+        }
+    ],
+    "wof:id":857651327,
+    "wof:lastmodified":1464205513,
+    "wof:name":"Kauai Vet Center",
+    "wof:parent_id":85890571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veteran",
+        "center"
+    ]
+},
+  "bbox": [
+    -159.366854,
+    21.984245,
+    -159.366854,
+    21.984245
+],
+  "geometry": {"coordinates":[-159.36685399999999,21.984245],"type":"Point"}
+}

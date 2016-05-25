@@ -1,0 +1,75 @@
+{
+  "id": 857538803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.949236,21.428725,-157.949236,21.428725",
+    "geom:latitude":21.428725,
+    "geom:longitude":-157.949236,
+    "iso:country":"US",
+    "sg:address":"2550 Akepa St",
+    "sg:city":"Pearl City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 456 0404",
+    "sg:postcode":"96782",
+    "sg:province":"HI",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85840149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_679VDFQlbdmS3pR3Raaegm_21.428725_-157.949236@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202713,
+    "wof:geomhash":"4d6bc837fed9192a6dde55cbfdcf71ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85840149,
+            "region_id":85688671,
+            "venue_id":857538803
+        }
+    ],
+    "wof:id":857538803,
+    "wof:lastmodified":1464202713,
+    "wof:name":"A & T Electrical Svc",
+    "wof:parent_id":85840149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    -157.949236,
+    21.428725,
+    -157.949236,
+    21.428725
+],
+  "geometry": {"coordinates":[-157.94923600000001,21.428725],"type":"Point"}
+}

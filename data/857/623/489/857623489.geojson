@@ -1,0 +1,73 @@
+{
+  "id": 857623489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.864295,21.315902,-157.864295,21.315902",
+    "geom:latitude":21.315902,
+    "geom:longitude":-157.864295,
+    "iso:country":"US",
+    "sg:address":"333 N King St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 587 3850",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qL6d5ncyX3F4uXIDo05ky_21.315902_-157.864295@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204517,
+    "wof:geomhash":"bb540e6fd52efd2c69283f448c8148b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857623489
+        }
+    ],
+    "wof:id":857623489,
+    "wof:lastmodified":1464204517,
+    "wof:name":"Human Services Dept",
+    "wof:parent_id":85866917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -157.864295,
+    21.315902,
+    -157.864295,
+    21.315902
+],
+  "geometry": {"coordinates":[-157.864295,21.315902],"type":"Point"}
+}

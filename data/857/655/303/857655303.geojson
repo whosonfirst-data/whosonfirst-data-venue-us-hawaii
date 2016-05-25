@@ -1,0 +1,73 @@
+{
+  "id": 857655303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.463824,20.076449,-155.463824,20.076449",
+    "geom:latitude":20.076449,
+    "geom:longitude":-155.463824,
+    "iso:country":"US",
+    "sg:address":"505 Pakalana St",
+    "sg:city":"Honokaa",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 775 0650",
+    "sg:postcode":"96727",
+    "sg:province":"HI",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937439,
+        102085433,
+        85890265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0osHp7s44toPTya0RQodr3_20.076449_-155.463824@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205695,
+    "wof:geomhash":"43e67351ed930f8f18aae0e4b18af180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937439,
+            "neighbourhood_id":85890265,
+            "region_id":85688671,
+            "venue_id":857655303
+        }
+    ],
+    "wof:id":857655303,
+    "wof:lastmodified":1464205695,
+    "wof:name":"Swimming Pool",
+    "wof:parent_id":85890265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -155.463824,
+    20.076449,
+    -155.463824,
+    20.076449
+],
+  "geometry": {"coordinates":[-155.46382399999999,20.076449],"type":"Point"}
+}

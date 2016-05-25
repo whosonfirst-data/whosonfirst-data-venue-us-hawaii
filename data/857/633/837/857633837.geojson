@@ -1,0 +1,78 @@
+{
+  "id": 857633837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.990987,21.314995,-157.990987,21.314995",
+    "geom:latitude":21.314995,
+    "geom:longitude":-157.990987,
+    "iso:country":"US",
+    "sg:address":"39 Popoi Pl",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 689 5486",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "transcription",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937599,
+        102085417,
+        85865241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04FkDXnIk7w7jX8G9kUU5A_21.314995_-157.990987@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204786,
+    "wof:geomhash":"9ca4278103de683c4dfde568205cb649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937599,
+            "neighbourhood_id":85865241,
+            "region_id":85688671,
+            "venue_id":857633837
+        }
+    ],
+    "wof:id":857633837,
+    "wof:lastmodified":1464204786,
+    "wof:name":"Aloha Transcription LLC",
+    "wof:parent_id":85865241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transcription",
+        "medical"
+    ]
+},
+  "bbox": [
+    -157.990987,
+    21.314995,
+    -157.990987,
+    21.314995
+],
+  "geometry": {"coordinates":[-157.99098699999999,21.314995],"type":"Point"}
+}

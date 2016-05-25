@@ -1,0 +1,69 @@
+{
+  "id": 857675865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.832798,20.246428,-155.832798,20.246428",
+    "geom:latitude":20.246428,
+    "geom:longitude":-155.832798,
+    "iso:country":"US",
+    "sg:address":"358 Hoea Rd",
+    "sg:city":"Kapaau",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 889 5624",
+    "sg:postcode":"96719",
+    "sg:province":"HI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890219,
+        102085433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ed18fUuQhqS5G0AehVt9z_20.246428_-155.832798@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206569,
+    "wof:geomhash":"0ebd8e3c3cba4832749ea64557e86550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085433,
+            "neighbourhood_id":85890219,
+            "region_id":85688671,
+            "venue_id":857675865
+        }
+    ],
+    "wof:id":857675865,
+    "wof:lastmodified":1464206569,
+    "wof:name":"Moko Enterprises",
+    "wof:parent_id":85890219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -155.832798,
+    20.246428,
+    -155.832798,
+    20.246428
+],
+  "geometry": {"coordinates":[-155.832798,20.246428],"type":"Point"}
+}

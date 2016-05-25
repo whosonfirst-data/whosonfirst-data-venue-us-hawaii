@@ -1,0 +1,77 @@
+{
+  "id": 857595963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.882569,21.330118,-157.882569,21.330118",
+    "geom:latitude":21.330118,
+    "geom:longitude":-157.882569,
+    "iso:country":"US",
+    "sg:address":"608 Puuhale Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 848 1922",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "vegetable",
+        "fresh",
+        "market",
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q7duxtfGnJ1KRD1n98A5b_21.330118_-157.882569@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203894,
+    "wof:geomhash":"c448637332af8703c6397379639bc971",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857595963
+        }
+    ],
+    "wof:id":857595963,
+    "wof:lastmodified":1464203894,
+    "wof:name":"Puuhale Market Inc",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "fresh",
+        "market",
+        "fast"
+    ]
+},
+  "bbox": [
+    -157.882569,
+    21.330118,
+    -157.882569,
+    21.330118
+],
+  "geometry": {"coordinates":[-157.88256899999999,21.330118],"type":"Point"}
+}

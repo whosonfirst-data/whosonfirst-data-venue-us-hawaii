@@ -1,0 +1,74 @@
+{
+  "id": 857681099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.008112,21.453544,-158.008112,21.453544",
+    "geom:latitude":21.453544,
+    "geom:longitude":-158.008112,
+    "iso:country":"US",
+    "sg:address":"95-1250 Meheula Pkwy",
+    "sg:city":"Mililani",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/ewa/72371-sbarro-italian-eatery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 623 3900",
+    "sg:postcode":"96789",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937713,
+        102085417,
+        85854149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B2O9uWSKsTiSBu9iOXjF5_21.453544_-158.008112@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206768,
+    "wof:geomhash":"55301595366ae8b22b17f80c7c2aae30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937713,
+            "neighbourhood_id":85854149,
+            "region_id":85688671,
+            "venue_id":857681099
+        }
+    ],
+    "wof:id":857681099,
+    "wof:lastmodified":1464206768,
+    "wof:name":"Sbarro Italian Eatery",
+    "wof:parent_id":85854149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -158.008112,
+    21.453544,
+    -158.008112,
+    21.453544
+],
+  "geometry": {"coordinates":[-158.00811200000001,21.453544],"type":"Point"}
+}

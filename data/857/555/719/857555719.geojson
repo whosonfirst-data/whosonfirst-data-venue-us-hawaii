@@ -1,0 +1,71 @@
+{
+  "id": 857555719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.911963,21.385175,-157.911963,21.385175",
+    "geom:latitude":21.385175,
+    "geom:longitude":-157.911963,
+    "iso:country":"US",
+    "sg:address":"1020 Puumakani St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 8887",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937671,
+        102085417,
+        85890057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02sH0XAxcisZkKkyHFYbf3_21.385175_-157.911963@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203047,
+    "wof:geomhash":"9624d32c2c2d68bc3d0d9281b7ecf0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937671,
+            "neighbourhood_id":85890057,
+            "region_id":85688671,
+            "venue_id":857555719
+        }
+    ],
+    "wof:id":857555719,
+    "wof:lastmodified":1464203047,
+    "wof:name":"J M Yoshimura Plumbing",
+    "wof:parent_id":85890057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.911963,
+    21.385175,
+    -157.911963,
+    21.385175
+],
+  "geometry": {"coordinates":[-157.91196299999999,21.385175],"type":"Point"}
+}

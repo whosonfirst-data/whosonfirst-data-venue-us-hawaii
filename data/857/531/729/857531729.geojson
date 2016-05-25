@@ -1,0 +1,71 @@
+{
+  "id": 857531729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.746421,21.415886,-157.746421,21.415886",
+    "geom:latitude":21.415886,
+    "geom:longitude":-157.746421,
+    "iso:country":"US",
+    "sg:address":"14 Namala Pl",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 261 3389",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937583,
+        102085417,
+        85827847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gB5v64s8zIyjbR2LrLz4T_21.415886_-157.746421@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202580,
+    "wof:geomhash":"6e895eaf0608d85f6e117981c0029156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937583,
+            "neighbourhood_id":85827847,
+            "region_id":85688671,
+            "venue_id":857531729
+        }
+    ],
+    "wof:id":857531729,
+    "wof:lastmodified":1464202580,
+    "wof:name":"Kailua Arts Inc",
+    "wof:parent_id":85827847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -157.746421,
+    21.415886,
+    -157.746421,
+    21.415886
+],
+  "geometry": {"coordinates":[-157.746421,21.415886],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857648001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.113859,21.31606,-158.113859,21.31606",
+    "geom:latitude":21.31606,
+    "geom:longitude":-158.113859,
+    "iso:country":"US",
+    "sg:address":"607 Malakole St",
+    "sg:city":"Kapolei",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 1333",
+    "sg:postcode":"96707",
+    "sg:province":"HI",
+    "sg:tags":[
+        "dry",
+        "dock"
+    ],
+    "sg:website":"www.marisco.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937701,
+        102085417,
+        85826163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NAjr1Y2r2El7nrp9QoElP_21.316060_-158.113859@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205377,
+    "wof:geomhash":"3f1b5b2a8bcceafa50145b936f75fec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937701,
+            "neighbourhood_id":85826163,
+            "region_id":85688671,
+            "venue_id":857648001
+        }
+    ],
+    "wof:id":857648001,
+    "wof:lastmodified":1464205377,
+    "wof:name":"Marisco Limited",
+    "wof:parent_id":85826163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "dock"
+    ]
+},
+  "bbox": [
+    -158.113859,
+    21.31606,
+    -158.113859,
+    21.31606
+],
+  "geometry": {"coordinates":[-158.11385899999999,21.31606],"type":"Point"}
+}

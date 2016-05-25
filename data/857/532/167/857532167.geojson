@@ -1,0 +1,69 @@
+{
+  "id": 857532167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.028495,21.498529,-158.028495,21.498529",
+    "geom:latitude":21.498529,
+    "geom:longitude":-158.028495,
+    "iso:country":"US",
+    "sg:address":"606 Kilani Ave",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 621 8448",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11XjUppdxTINk0LVBotzYM_21.498529_-158.028495@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202588,
+    "wof:geomhash":"0ba07d8718b0ca1ac94ca85e8ec93ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857532167
+        }
+    ],
+    "wof:id":857532167,
+    "wof:lastmodified":1464202588,
+    "wof:name":"Hawaiian Eye Ctr",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -158.028495,
+    21.498529,
+    -158.028495,
+    21.498529
+],
+  "geometry": {"coordinates":[-158.02849499999999,21.498529],"type":"Point"}
+}

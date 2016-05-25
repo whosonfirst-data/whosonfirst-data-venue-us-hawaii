@@ -1,0 +1,71 @@
+{
+  "id": 857513545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.922007,21.373696,-157.922007,21.373696",
+    "geom:latitude":21.373696,
+    "geom:longitude":-157.922007,
+    "iso:country":"US",
+    "sg:address":"615 Hoohalawai Pl",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 487 1284",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937647,
+        102085417,
+        85823515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o4jozLS1LwdFZhBOMrKr0_21.373696_-157.922007@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202222,
+    "wof:geomhash":"52c5f2c3f32cf31db97e22a5265de74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937647,
+            "neighbourhood_id":85823515,
+            "region_id":85688671,
+            "venue_id":857513545
+        }
+    ],
+    "wof:id":857513545,
+    "wof:lastmodified":1464202222,
+    "wof:name":"Dan's Contracting",
+    "wof:parent_id":85823515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.922007,
+    21.373696,
+    -157.922007,
+    21.373696
+],
+  "geometry": {"coordinates":[-157.92200700000001,21.373696],"type":"Point"}
+}

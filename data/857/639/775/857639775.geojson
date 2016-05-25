@@ -1,0 +1,73 @@
+{
+  "id": 857639775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.504821,20.89177,-156.504821,20.89177",
+    "geom:latitude":20.89177,
+    "geom:longitude":-156.504821,
+    "iso:country":"US",
+    "sg:address":"44 N Market St",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 242 8809",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "photographer",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qql6UlgqBtbMlk2f0xUjl_20.891770_-156.504821@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205011,
+    "wof:geomhash":"1af4cd76a54abdacbad0b002c19d93c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857639775
+        }
+    ],
+    "wof:id":857639775,
+    "wof:lastmodified":1464205011,
+    "wof:name":"Steve Brinkman Photography",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -156.504821,
+    20.89177,
+    -156.504821,
+    20.89177
+],
+  "geometry": {"coordinates":[-156.50482099999999,20.89177],"type":"Point"}
+}

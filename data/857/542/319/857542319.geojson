@@ -1,0 +1,77 @@
+{
+  "id": 857542319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.85319,21.298531,-157.85319,21.298531",
+    "geom:latitude":21.298531,
+    "geom:longitude":-157.85319,
+    "iso:country":"US",
+    "sg:address":"904 Waimanu St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 591 2030",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "fender",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KUjXeWJWlgePmxe0hrNih_21.298531_-157.853190@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202787,
+    "wof:geomhash":"0af44aec18c6def4989032bb8d73fae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857542319
+        }
+    ],
+    "wof:id":857542319,
+    "wof:lastmodified":1464202787,
+    "wof:name":"Busters Repair Service Inc",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "fender",
+        "paint"
+    ]
+},
+  "bbox": [
+    -157.85319,
+    21.298531,
+    -157.85319,
+    21.298531
+],
+  "geometry": {"coordinates":[-157.85319000000001,21.298531],"type":"Point"}
+}

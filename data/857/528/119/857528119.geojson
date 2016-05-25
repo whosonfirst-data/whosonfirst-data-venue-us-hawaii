@@ -1,0 +1,73 @@
+{
+  "id": 857528119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.029382,21.331381,-158.029382,21.331381",
+    "geom:latitude":21.331381,
+    "geom:longitude":-158.029382,
+    "iso:country":"US",
+    "sg:address":"1010 Geiger Rd",
+    "sg:city":"Ewa Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 681 5353",
+    "sg:postcode":"96706",
+    "sg:province":"HI",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937667,
+        102085417,
+        85818355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41j6H6S5pk3vElZkW8LjBC_21.331381_-158.029382@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202507,
+    "wof:geomhash":"5906982531201f9026f5aff8eaabe711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937667,
+            "neighbourhood_id":85818355,
+            "region_id":85688671,
+            "venue_id":857528119
+        }
+    ],
+    "wof:id":857528119,
+    "wof:lastmodified":1464202507,
+    "wof:name":"US Filter",
+    "wof:parent_id":85818355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -158.029382,
+    21.331381,
+    -158.029382,
+    21.331381
+],
+  "geometry": {"coordinates":[-158.029382,21.331381],"type":"Point"}
+}

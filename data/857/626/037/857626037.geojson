@@ -1,0 +1,71 @@
+{
+  "id": 857626037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.001239,21.384964,-158.001239,21.384964",
+    "geom:latitude":21.384964,
+    "geom:longitude":-158.001239,
+    "iso:country":"US",
+    "sg:address":"866 Moloalo St",
+    "sg:city":"Waipahu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 671 5143",
+    "sg:postcode":"96797",
+    "sg:province":"HI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937531,
+        102085417,
+        85812891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gq8TWgiYSb8T66UoFhJVg_21.384964_-158.001239@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204583,
+    "wof:geomhash":"abb8cc51d9d16f2cc24ee807f27fb5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937531,
+            "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857626037
+        }
+    ],
+    "wof:id":857626037,
+    "wof:lastmodified":1464204583,
+    "wof:name":"Pump Waipahu",
+    "wof:parent_id":85812891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -158.001239,
+    21.384964,
+    -158.001239,
+    21.384964
+],
+  "geometry": {"coordinates":[-158.001239,21.384964],"type":"Point"}
+}

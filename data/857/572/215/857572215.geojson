@@ -1,0 +1,71 @@
+{
+  "id": 857572215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.855485,21.358689,-157.855485,21.358689",
+    "geom:latitude":21.358689,
+    "geom:longitude":-157.855485,
+    "iso:country":"US",
+    "sg:address":"3058 Uaawa Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 375 4749",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iLZufkG63MBz100NMZPLT_21.358689_-157.855485@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203392,
+    "wof:geomhash":"fb44241f535d7f812c4ba35cd57bcf77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872709,
+            "region_id":85688671,
+            "venue_id":857572215
+        }
+    ],
+    "wof:id":857572215,
+    "wof:lastmodified":1464203392,
+    "wof:name":"Autow Towing & Roadside Svc",
+    "wof:parent_id":85872709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -157.855485,
+    21.358689,
+    -157.855485,
+    21.358689
+],
+  "geometry": {"coordinates":[-157.85548499999999,21.358689],"type":"Point"}
+}

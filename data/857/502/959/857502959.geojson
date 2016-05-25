@@ -1,0 +1,73 @@
+{
+  "id": 857502959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.294448,20.860535,-156.294448,20.860535",
+    "geom:latitude":20.860535,
+    "geom:longitude":-156.294448,
+    "iso:country":"US",
+    "sg:address":"2955 Kailiili Rd",
+    "sg:city":"Haiku",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 572 8605",
+    "sg:postcode":"96708",
+    "sg:province":"HI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937689,
+        102085577,
+        85890079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vo7JLOSnyOwFp7dmbMC65_20.860535_-156.294448@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464201985,
+    "wof:geomhash":"c55625c99464885776ddc3a1f5ad754f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937689,
+            "neighbourhood_id":85890079,
+            "region_id":85688671,
+            "venue_id":857502959
+        }
+    ],
+    "wof:id":857502959,
+    "wof:lastmodified":1464201985,
+    "wof:name":"Gsh Electriks",
+    "wof:parent_id":85890079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -156.294448,
+    20.860535,
+    -156.294448,
+    20.860535
+],
+  "geometry": {"coordinates":[-156.29444799999999,20.860535],"type":"Point"}
+}

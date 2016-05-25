@@ -1,0 +1,74 @@
+{
+  "id": 857663351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875024,21.30607,-157.875024,21.30607",
+    "geom:latitude":21.30607,
+    "geom:longitude":-157.875024,
+    "iso:country":"US",
+    "sg:address":"1240 Sand Island Pkwy",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 841 2319",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.sandisland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V95yqrZzmRMDSc1fAGOZe_21.306070_-157.875024@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206062,
+    "wof:geomhash":"898316cfda6ddec2c156a5b09b07ba38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857663351
+        }
+    ],
+    "wof:id":857663351,
+    "wof:lastmodified":1464206062,
+    "wof:name":"Hawaii Alcoholism Foundation",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -157.875024,
+    21.30607,
+    -157.875024,
+    21.30607
+],
+  "geometry": {"coordinates":[-157.875024,21.30607],"type":"Point"}
+}

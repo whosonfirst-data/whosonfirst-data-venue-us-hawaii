@@ -1,0 +1,76 @@
+{
+  "id": 857557151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.862005,21.297705,-157.862005,21.297705",
+    "geom:latitude":21.297705,
+    "geom:longitude":-157.862005,
+    "iso:country":"US",
+    "sg:address":"677 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 531 2198",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "sg:website":"www.hysn.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSo9uGOc4jiF3C5qS4E9W_21.297705_-157.862005@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203075,
+    "wof:geomhash":"f816921c703223fdd28f32dda62848bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857557151
+        }
+    ],
+    "wof:id":857557151,
+    "wof:lastmodified":1464203075,
+    "wof:name":"Hawaii Youth Svc Network",
+    "wof:parent_id":85872715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -157.862005,
+    21.297705,
+    -157.862005,
+    21.297705
+],
+  "geometry": {"coordinates":[-157.86200500000001,21.297705],"type":"Point"}
+}

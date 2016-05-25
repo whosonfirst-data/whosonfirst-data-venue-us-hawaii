@@ -1,0 +1,71 @@
+{
+  "id": 857673437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.823126,21.278277,-157.823126,21.278277",
+    "geom:latitude":21.278277,
+    "geom:longitude":-157.823126,
+    "iso:country":"US",
+    "sg:address":"232 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 922 7920",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W5dOSyZ5xak9m8YY62bv6_21.278277_-157.823126@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206467,
+    "wof:geomhash":"61b6b9ebc731da4204f1340e1865aeca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857673437
+        }
+    ],
+    "wof:id":857673437,
+    "wof:lastmodified":1464206467,
+    "wof:name":"Waikiki Whale Watcher",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -157.823126,
+    21.278277,
+    -157.823126,
+    21.278277
+],
+  "geometry": {"coordinates":[-157.823126,21.278277],"type":"Point"}
+}

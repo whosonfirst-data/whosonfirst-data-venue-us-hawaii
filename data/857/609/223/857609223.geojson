@@ -1,0 +1,71 @@
+{
+  "id": 857609223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.856809,21.317801,-157.856809,21.317801",
+    "geom:latitude":21.317801,
+    "geom:longitude":-157.856809,
+    "iso:country":"US",
+    "sg:address":"36 N School St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 534 1400",
+    "sg:postcode":"96817",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZYXgSGMAxW6IdcchzjXuT_21.317801_-157.856809@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204192,
+    "wof:geomhash":"b14fe2614fb2fb0b0893fa8835cb3348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857609223
+        }
+    ],
+    "wof:id":857609223,
+    "wof:lastmodified":1464204192,
+    "wof:name":"Salon 2000",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.856809,
+    21.317801,
+    -157.856809,
+    21.317801
+],
+  "geometry": {"coordinates":[-157.856809,21.317801],"type":"Point"}
+}

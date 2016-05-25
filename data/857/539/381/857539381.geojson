@@ -1,0 +1,73 @@
+{
+  "id": 857539381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.893678,21.343648,-157.893678,21.343648",
+    "geom:latitude":21.343648,
+    "geom:longitude":-157.893678,
+    "iso:country":"US",
+    "sg:address":"1024 Kikowaena Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 4672",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EwPVZUg06KVsSYcHGoV4G_21.343648_-157.893678@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202726,
+    "wof:geomhash":"b35446a0e548541f88f1ed2cb5a570c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857539381
+        }
+    ],
+    "wof:id":857539381,
+    "wof:lastmodified":1464202726,
+    "wof:name":"Tokunaga Masonry Inc",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.893678,
+    21.343648,
+    -157.893678,
+    21.343648
+],
+  "geometry": {"coordinates":[-157.89367799999999,21.343648],"type":"Point"}
+}

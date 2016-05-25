@@ -1,0 +1,76 @@
+{
+  "id": 857570351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.83274,21.301455,-157.83274,21.301455",
+    "geom:latitude":21.301455,
+    "geom:longitude":-157.83274,
+    "iso:country":"US",
+    "sg:address":"1621 Dole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 1198",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jNl1AkMB8Msdyrs0m5Zmq_21.301455_-157.832740@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203360,
+    "wof:geomhash":"bc4468787601a0ac4332737937fec346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857570351
+        }
+    ],
+    "wof:id":857570351,
+    "wof:lastmodified":1464203360,
+    "wof:name":"Punahou Tower",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -157.83274,
+    21.301455,
+    -157.83274,
+    21.301455
+],
+  "geometry": {"coordinates":[-157.83274,21.301455],"type":"Point"}
+}

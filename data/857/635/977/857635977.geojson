@@ -1,0 +1,71 @@
+{
+  "id": 857635977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.503093,20.893222,-156.503093,20.893222",
+    "geom:latitude":20.893222,
+    "geom:longitude":-156.503093,
+    "iso:country":"US",
+    "sg:address":"70 Central Ave",
+    "sg:city":"Wailuku",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 244 9203",
+    "sg:postcode":"96793",
+    "sg:province":"HI",
+    "sg:tags":[
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26l2s1P91LfP8lAwwkNXaU_20.893222_-156.503093@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204867,
+    "wof:geomhash":"f44a6384a054d113a82683dc10b051d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857635977
+        }
+    ],
+    "wof:id":857635977,
+    "wof:lastmodified":1464204867,
+    "wof:name":"Robert Wead",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health"
+    ]
+},
+  "bbox": [
+    -156.503093,
+    20.893222,
+    -156.503093,
+    20.893222
+],
+  "geometry": {"coordinates":[-156.50309300000001,20.893222],"type":"Point"}
+}

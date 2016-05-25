@@ -1,0 +1,73 @@
+{
+  "id": 857647183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.745006,21.403292,-157.745006,21.403292",
+    "geom:latitude":21.403292,
+    "geom:longitude":-157.745006,
+    "iso:country":"US",
+    "sg:address":"346 Hualani St",
+    "sg:city":"Kailua",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 262 5515",
+    "sg:postcode":"96734",
+    "sg:province":"HI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937585,
+        102085417,
+        85890379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12cvzDelFB0NoWxnhhD9a4_21.403292_-157.745006@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205344,
+    "wof:geomhash":"9161c1aa3b10167de9e16b8658c56e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937585,
+            "neighbourhood_id":85890379,
+            "region_id":85688671,
+            "venue_id":857647183
+        }
+    ],
+    "wof:id":857647183,
+    "wof:lastmodified":1464205344,
+    "wof:name":"K & R Plumbing",
+    "wof:parent_id":85890379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -157.745006,
+    21.403292,
+    -157.745006,
+    21.403292
+],
+  "geometry": {"coordinates":[-157.74500599999999,21.403292],"type":"Point"}
+}

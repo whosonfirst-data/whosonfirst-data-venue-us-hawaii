@@ -1,0 +1,73 @@
+{
+  "id": 857612471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.875841,21.304123,-157.875841,21.304123",
+    "geom:latitude":21.304123,
+    "geom:longitude":-157.875841,
+    "iso:country":"US",
+    "sg:address":"1169 Mikole St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 682 0900",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "waste",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lTHWmQdAtLBnj4l3F1zeG_21.304123_-157.875841@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204267,
+    "wof:geomhash":"df0cf54bbc44b42ee0324201988324e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857612471
+        }
+    ],
+    "wof:id":857612471,
+    "wof:lastmodified":1464204267,
+    "wof:name":"Honolulu Disposal",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "removal"
+    ]
+},
+  "bbox": [
+    -157.875841,
+    21.304123,
+    -157.875841,
+    21.304123
+],
+  "geometry": {"coordinates":[-157.87584100000001,21.304123],"type":"Point"}
+}

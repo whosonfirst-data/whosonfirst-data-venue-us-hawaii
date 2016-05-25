@@ -1,0 +1,74 @@
+{
+  "id": 857681601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.928229,21.343497,-157.928229,21.343497",
+    "geom:latitude":21.343497,
+    "geom:longitude":-157.928229,
+    "iso:country":"US",
+    "sg:address":"930 Valkenburgh St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/108567-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 422 2804",
+    "sg:postcode":"96818",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vutJoxPAoB7NiX5b4mMQ2_21.343497_-157.928229@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464206790,
+    "wof:geomhash":"e2c27efed7a49f7649c6be6922437e8a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857681601
+        }
+    ],
+    "wof:id":857681601,
+    "wof:lastmodified":1464206790,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -157.928229,
+    21.343497,
+    -157.928229,
+    21.343497
+],
+  "geometry": {"coordinates":[-157.92822899999999,21.343497],"type":"Point"}
+}

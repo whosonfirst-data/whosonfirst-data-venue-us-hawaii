@@ -1,0 +1,71 @@
+{
+  "id": 857631533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.880408,21.33329,-157.880408,21.33329",
+    "geom:latitude":21.33329,
+    "geom:longitude":-157.880408,
+    "iso:country":"US",
+    "sg:address":"810 Bannister St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 931 2632",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fuMqxJBUFvAvEuiAnl6Ja_21.333290_-157.880408@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204697,
+    "wof:geomhash":"f8b3554c29c71d4b5d3f2eb1e9933d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857631533
+        }
+    ],
+    "wof:id":857631533,
+    "wof:lastmodified":1464204697,
+    "wof:name":"Crown Court",
+    "wof:parent_id":85872723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -157.880408,
+    21.33329,
+    -157.880408,
+    21.33329
+],
+  "geometry": {"coordinates":[-157.88040799999999,21.33329],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857572045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-158.026775,21.514688,-158.026775,21.514688",
+    "geom:latitude":21.514688,
+    "geom:longitude":-158.026775,
+    "iso:country":"US",
+    "sg:address":"911 Hanau St",
+    "sg:city":"Wahiawa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 685 4200",
+    "sg:postcode":"96786",
+    "sg:province":"HI",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890125,
+        102085417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oFAhxmfweSwLzoa2GOcQy_21.514688_-158.026775@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203389,
+    "wof:geomhash":"793906550acd769a5e97892efa254945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890125,
+            "region_id":85688671,
+            "venue_id":857572045
+        }
+    ],
+    "wof:id":857572045,
+    "wof:lastmodified":1464203389,
+    "wof:name":"Tile Man",
+    "wof:parent_id":85890125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -158.026775,
+    21.514688,
+    -158.026775,
+    21.514688
+],
+  "geometry": {"coordinates":[-158.02677499999999,21.514688],"type":"Point"}
+}

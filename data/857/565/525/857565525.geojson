@@ -1,0 +1,75 @@
+{
+  "id": 857565525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.705257,20.026573,-155.705257,20.026573",
+    "geom:latitude":20.026573,
+    "geom:longitude":-155.705257,
+    "iso:country":"US",
+    "sg:address":"1720 Kawaihae Rd",
+    "sg:city":"Kamuela",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 885 4656",
+    "sg:postcode":"96743",
+    "sg:province":"HI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937401,
+        102085433,
+        85890363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ocqhaqpTspBJdcL3gMWnK_20.026573_-155.705257@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203264,
+    "wof:geomhash":"91285e95ec5610d0e8fd1d0006b24351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937401,
+            "neighbourhood_id":85890363,
+            "region_id":85688671,
+            "venue_id":857565525
+        }
+    ],
+    "wof:id":857565525,
+    "wof:lastmodified":1464203264,
+    "wof:name":"Fred's Nursery",
+    "wof:parent_id":85890363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -155.705257,
+    20.026573,
+    -155.705257,
+    20.026573
+],
+  "geometry": {"coordinates":[-155.70525699999999,20.026573],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857561251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.843412,21.323967,-157.843412,21.323967",
+    "geom:latitude":21.323967,
+    "geom:longitude":-157.843412,
+    "iso:country":"US",
+    "sg:address":"2668 Haili Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 537 6666",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85840145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tVrmDxy8ZRXSKa16TOAUt_21.323967_-157.843412@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203187,
+    "wof:geomhash":"370ea643fc512b68f278d16ccc282106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85840145,
+            "region_id":85688671,
+            "venue_id":857561251
+        }
+    ],
+    "wof:id":857561251,
+    "wof:lastmodified":1464203187,
+    "wof:name":"Akira Ishida",
+    "wof:parent_id":85840145,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -157.843412,
+    21.323967,
+    -157.843412,
+    21.323967
+],
+  "geometry": {"coordinates":[-157.843412,21.323967],"type":"Point"}
+}

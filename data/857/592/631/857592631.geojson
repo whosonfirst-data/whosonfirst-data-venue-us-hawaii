@@ -1,0 +1,71 @@
+{
+  "id": 857592631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.842508,21.296253,-157.842508,21.296253",
+    "geom:latitude":21.296253,
+    "geom:longitude":-157.842508,
+    "iso:country":"US",
+    "sg:address":"740 Sheridan St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 4477",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_723ay9tOlM1K9MuvwUkOBH_21.296253_-157.842508@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203820,
+    "wof:geomhash":"61240c5634d008b15381d5ed77b86b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857592631
+        }
+    ],
+    "wof:id":857592631,
+    "wof:lastmodified":1464203820,
+    "wof:name":"Jodi's Hairgraphics",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -157.842508,
+    21.296253,
+    -157.842508,
+    21.296253
+],
+  "geometry": {"coordinates":[-157.84250800000001,21.296253],"type":"Point"}
+}

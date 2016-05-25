@@ -1,0 +1,73 @@
+{
+  "id": 857560871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.837309,21.307353,-157.837309,21.307353",
+    "geom:latitude":21.307353,
+    "geom:longitude":-157.837309,
+    "iso:country":"US",
+    "sg:address":"1650 Liholiho St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 550 4330",
+    "sg:postcode":"96822",
+    "sg:province":"HI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85831995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1be2bBiSsB6tsu9nvL0S3X_21.307353_-157.837309@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203178,
+    "wof:geomhash":"e1b1942994ac57cc10f85437811cb74f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857560871
+        }
+    ],
+    "wof:id":857560871,
+    "wof:lastmodified":1464203178,
+    "wof:name":"Jes Tour",
+    "wof:parent_id":85831995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -157.837309,
+    21.307353,
+    -157.837309,
+    21.307353
+],
+  "geometry": {"coordinates":[-157.837309,21.307353],"type":"Point"}
+}

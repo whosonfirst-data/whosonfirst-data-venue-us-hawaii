@@ -1,0 +1,73 @@
+{
+  "id": 857643785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.840126,21.292986,-157.840126,21.292986",
+    "geom:latitude":21.292986,
+    "geom:longitude":-157.840126,
+    "iso:country":"US",
+    "sg:address":"1580 Makaloa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 947 2255",
+    "sg:postcode":"96814",
+    "sg:province":"HI",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35iu0jrwikSVzPafyiHbQz_21.292986_-157.840126@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205186,
+    "wof:geomhash":"874594bc318e284f04c22e4df58296ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872733,
+            "region_id":85688671,
+            "venue_id":857643785
+        }
+    ],
+    "wof:id":857643785,
+    "wof:lastmodified":1464205186,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85872733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -157.840126,
+    21.292986,
+    -157.840126,
+    21.292986
+],
+  "geometry": {"coordinates":[-157.840126,21.292986],"type":"Point"}
+}

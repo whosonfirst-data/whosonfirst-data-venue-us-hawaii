@@ -1,0 +1,71 @@
+{
+  "id": 857601937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.798882,21.282348,-157.798882,21.282348",
+    "geom:latitude":21.282348,
+    "geom:longitude":-157.798882,
+    "iso:country":"US",
+    "sg:address":"1117 12th Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 4024",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YKmKyl3vQPZHLWqGCoFcy_21.282348_-157.798882@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204027,
+    "wof:geomhash":"0e14474d0e88a0992155114cedd03b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827721,
+            "region_id":85688671,
+            "venue_id":857601937
+        }
+    ],
+    "wof:id":857601937,
+    "wof:lastmodified":1464204027,
+    "wof:name":"Sconees Bakery Inc",
+    "wof:parent_id":85827721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -157.798882,
+    21.282348,
+    -157.798882,
+    21.282348
+],
+  "geometry": {"coordinates":[-157.79888199999999,21.282348],"type":"Point"}
+}

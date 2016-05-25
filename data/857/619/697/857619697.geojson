@@ -1,0 +1,71 @@
+{
+  "id": 857619697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.935524,21.384857,-157.935524,21.384857",
+    "geom:latitude":21.384857,
+    "geom:longitude":-157.935524,
+    "iso:country":"US",
+    "sg:address":"351 Koauka Loop",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 486 0182",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937539,
+        102085417,
+        85827729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uPn7PFNhO2ryRk4073NNT_21.384857_-157.935524@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204425,
+    "wof:geomhash":"63d75b860c151a374f3fef293687c443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937539,
+            "neighbourhood_id":85827729,
+            "region_id":85688671,
+            "venue_id":857619697
+        }
+    ],
+    "wof:id":857619697,
+    "wof:lastmodified":1464204425,
+    "wof:name":"Electrical Enterprises",
+    "wof:parent_id":85827729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -157.935524,
+    21.384857,
+    -157.935524,
+    21.384857
+],
+  "geometry": {"coordinates":[-157.93552399999999,21.384857],"type":"Point"}
+}

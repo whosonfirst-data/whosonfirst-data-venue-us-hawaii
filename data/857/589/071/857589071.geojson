@@ -1,0 +1,68 @@
+{
+  "id": 857589071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.086953,19.724164,-155.086953,19.724164",
+    "geom:latitude":19.724164,
+    "geom:longitude":-155.086953,
+    "iso:country":"US",
+    "sg:address":"250 Keawe St",
+    "sg:city":"Hilo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 935 9053",
+    "sg:postcode":"96720",
+    "sg:province":"HI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937449,
+        102085433,
+        85890239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JgKz2dAsScDBNEe11ePWT_19.724164_-155.086953@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203741,
+    "wof:geomhash":"88bddad21f808f07bce868dcf91c7d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937449,
+            "neighbourhood_id":85890239,
+            "region_id":85688671,
+            "venue_id":857589071
+        }
+    ],
+    "wof:id":857589071,
+    "wof:lastmodified":1464203741,
+    "wof:name":"Island Hair Co",
+    "wof:parent_id":85890239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -155.086953,
+    19.724164,
+    -155.086953,
+    19.724164
+],
+  "geometry": {"coordinates":[-155.08695299999999,19.724164],"type":"Point"}
+}

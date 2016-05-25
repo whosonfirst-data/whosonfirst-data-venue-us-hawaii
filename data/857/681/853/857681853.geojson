@@ -1,0 +1,79 @@
+{
+  "id": 857681853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.8249,21.277347,-157.8249,21.277347",
+    "geom:latitude":21.277347,
+    "geom:longitude":-157.8249,
+    "iso:country":"US",
+    "sg:address":"150 Kaiulani Ave",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/hi/honolulu/3419-chucks-cellar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 923 4488",
+    "sg:postcode":"96815",
+    "sg:province":"HI",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85827783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UcbqErnsbnz5xrYLyI9BX_21.277790_-157.824471@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206810,
+    "wof:geomhash":"3a595b8b89fa9c0f6f902b32a90ea19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827783,
+            "region_id":85688671,
+            "venue_id":857681853
+        }
+    ],
+    "wof:id":857681853,
+    "wof:lastmodified":1464206810,
+    "wof:name":"Chuck's Cellar",
+    "wof:parent_id":85827783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -157.8249,
+    21.277347,
+    -157.8249,
+    21.277347
+],
+  "geometry": {"coordinates":[-157.82490000000001,21.277347],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857531389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-155.988775,19.648101,-155.988775,19.648101",
+    "geom:latitude":19.648101,
+    "geom:longitude":-155.988775,
+    "iso:country":"US",
+    "sg:address":"1000 Henry St",
+    "sg:city":"Kailua Kona",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 523 2500",
+    "sg:postcode":"96740",
+    "sg:province":"HI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.carlsmith.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        102191575,
+        85633793,
+        85937433,
+        102085433,
+        85890251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14kSCmAxYcQHXOHeO7wBhY_19.648101_-155.988775@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202574,
+    "wof:geomhash":"c9688147b30de7ad5289cd3f8fca5dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085433,
+            "locality_id":85937433,
+            "neighbourhood_id":85890251,
+            "region_id":85688671,
+            "venue_id":857531389
+        }
+    ],
+    "wof:id":857531389,
+    "wof:lastmodified":1464202574,
+    "wof:name":"Carlsmith Ball LLP",
+    "wof:parent_id":85890251,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -155.988775,
+    19.648101,
+    -155.988775,
+    19.648101
+],
+  "geometry": {"coordinates":[-155.988775,19.648101],"type":"Point"}
+}

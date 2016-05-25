@@ -1,0 +1,73 @@
+{
+  "id": 857632227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.799298,21.303954,-157.799298,21.303954",
+    "geom:latitude":21.303954,
+    "geom:longitude":-157.799298,
+    "iso:country":"US",
+    "sg:address":"1646 Quincy Pl",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 734 3664",
+    "sg:postcode":"96816",
+    "sg:province":"HI",
+    "sg:tags":[
+        "agricultural",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85846695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IFQd4At0YAbgPbTrX2owN_21.303954_-157.799298@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464204721,
+    "wof:geomhash":"7f74a0c2d47f61fee1eb61197aa47631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85846695,
+            "region_id":85688671,
+            "venue_id":857632227
+        }
+    ],
+    "wof:id":857632227,
+    "wof:lastmodified":1464204721,
+    "wof:name":"Aquanomics International",
+    "wof:parent_id":85846695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -157.799298,
+    21.303954,
+    -157.799298,
+    21.303954
+],
+  "geometry": {"coordinates":[-157.79929799999999,21.303954],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857600627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.863508,21.306505,-157.863508,21.306505",
+    "geom:latitude":21.306505,
+    "geom:longitude":-157.863508,
+    "iso:country":"US",
+    "sg:address":"171 Ala Moana Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 943 0199",
+    "sg:postcode":"96813",
+    "sg:province":"HI",
+    "sg:tags":[
+        "yacht",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YK4i9H6aMvYLJGn8oWH3s_21.306505_-157.863508@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464203999,
+    "wof:geomhash":"562cfd96d40e36f2eeab7a28f6826265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857600627
+        }
+    ],
+    "wof:id":857600627,
+    "wof:lastmodified":1464203999,
+    "wof:name":"Rainbow Yacht",
+    "wof:parent_id":85866919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht",
+        "broker"
+    ]
+},
+  "bbox": [
+    -157.863508,
+    21.306505,
+    -157.863508,
+    21.306505
+],
+  "geometry": {"coordinates":[-157.863508,21.306505],"type":"Point"}
+}

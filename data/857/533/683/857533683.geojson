@@ -1,0 +1,77 @@
+{
+  "id": 857533683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.888792,21.361079,-157.888792,21.361079",
+    "geom:latitude":21.361079,
+    "geom:longitude":-157.888792,
+    "iso:country":"US",
+    "sg:address":"459 Patterson Rd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 433 0852",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "federal",
+        "affairs",
+        "govt",
+        "admin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85890273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_386OL1mSP8T6uoSwkukmiG_21.361079_-157.888792@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202615,
+    "wof:geomhash":"b2e48fa9efa33d1c938968f29e5a44af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85890273,
+            "region_id":85688671,
+            "venue_id":857533683
+        }
+    ],
+    "wof:id":857533683,
+    "wof:lastmodified":1464202615,
+    "wof:name":"US Veterans Affairs Dept",
+    "wof:parent_id":85890273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "affairs",
+        "govt",
+        "admin"
+    ]
+},
+  "bbox": [
+    -157.888792,
+    21.361079,
+    -157.888792,
+    21.361079
+],
+  "geometry": {"coordinates":[-157.888792,21.361079],"type":"Point"}
+}

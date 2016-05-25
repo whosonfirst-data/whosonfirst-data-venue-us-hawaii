@@ -1,0 +1,76 @@
+{
+  "id": 857534007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-156.455645,20.881536,-156.455645,20.881536",
+    "geom:latitude":20.881536,
+    "geom:longitude":-156.455645,
+    "iso:country":"US",
+    "sg:address":"201 Dairy Rd",
+    "sg:city":"Kahului",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 877 5477",
+    "sg:postcode":"96732",
+    "sg:province":"HI",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "sg:website":"www.badass-coffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937681,
+        102085577,
+        85890309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LTGnIvTx0wqOw9IDKfps7_20.881536_-156.455645@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202621,
+    "wof:geomhash":"8c860bce315e8b241c9f518e1b241dc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085577,
+            "locality_id":85937681,
+            "neighbourhood_id":85890309,
+            "region_id":85688671,
+            "venue_id":857534007
+        }
+    ],
+    "wof:id":857534007,
+    "wof:lastmodified":1464202621,
+    "wof:name":"Bad Ass Coffee Co",
+    "wof:parent_id":85890309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -156.455645,
+    20.881536,
+    -156.455645,
+    20.881536
+],
+  "geometry": {"coordinates":[-156.455645,20.881536],"type":"Point"}
+}

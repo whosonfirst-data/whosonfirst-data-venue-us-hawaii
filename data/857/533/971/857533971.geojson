@@ -1,0 +1,71 @@
+{
+  "id": 857533971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.829194,21.288522,-157.829194,21.288522",
+    "geom:latitude":21.288522,
+    "geom:longitude":-157.829194,
+    "iso:country":"US",
+    "sg:address":"2232 Kapiolani Blvd",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 942 5303",
+    "sg:postcode":"96826",
+    "sg:province":"HI",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MLfZseIh0J5m7vgsMTDlt_21.288522_-157.829194@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464202620,
+    "wof:geomhash":"73cae41e7a257a37eaefec0ff56000e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872731,
+            "region_id":85688671,
+            "venue_id":857533971
+        }
+    ],
+    "wof:id":857533971,
+    "wof:lastmodified":1464202620,
+    "wof:name":"Duk Sung Fishing Inc",
+    "wof:parent_id":85872731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fishing"
+    ]
+},
+  "bbox": [
+    -157.829194,
+    21.288522,
+    -157.829194,
+    21.288522
+],
+  "geometry": {"coordinates":[-157.829194,21.288522],"type":"Point"}
+}

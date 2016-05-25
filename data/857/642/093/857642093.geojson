@@ -1,0 +1,71 @@
+{
+  "id": 857642093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.940429,21.407984,-157.940429,21.407984",
+    "geom:latitude":21.407984,
+    "geom:longitude":-157.940429,
+    "iso:country":"US",
+    "sg:address":"1842 Piki St",
+    "sg:city":"Aiea",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 488 6004",
+    "sg:postcode":"96701",
+    "sg:province":"HI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937559,
+        102085417,
+        85890705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dizDeaUY44xYhq4qUPjek_21.407984_-157.940429@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464205102,
+    "wof:geomhash":"ea7f6899b91776611855725f58ae79d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937559,
+            "neighbourhood_id":85890705,
+            "region_id":85688671,
+            "venue_id":857642093
+        }
+    ],
+    "wof:id":857642093,
+    "wof:lastmodified":1464205102,
+    "wof:name":"Belson Associates LTD",
+    "wof:parent_id":85890705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -157.940429,
+    21.407984,
+    -157.940429,
+    21.407984
+],
+  "geometry": {"coordinates":[-157.94042899999999,21.407984],"type":"Point"}
+}

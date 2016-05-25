@@ -1,0 +1,77 @@
+{
+  "id": 857670189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-157.895906,21.341189,-157.895906,21.341189",
+    "geom:latitude":21.341189,
+    "geom:longitude":-157.895906,
+    "iso:country":"US",
+    "sg:address":"2927 Mokumoa St",
+    "sg:city":"Honolulu",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 808 839 2782",
+    "sg:postcode":"96819",
+    "sg:province":"HI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533997,
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85869065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zv9LPpvdPeOFo8T7AnvPt_21.341189_-157.895906@1294088405"
+    },
+    "wof:country":"US",
+    "wof:created":1464206347,
+    "wof:geomhash":"8cc00bad1c6ba495c991b79cd510700f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533997,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85869065,
+            "region_id":85688671,
+            "venue_id":857670189
+        }
+    ],
+    "wof:id":857670189,
+    "wof:lastmodified":1464206347,
+    "wof:name":"Seal Master Hawaii Pavement",
+    "wof:parent_id":102533997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -157.895906,
+    21.341189,
+    -157.895906,
+    21.341189
+],
+  "geometry": {"coordinates":[-157.895906,21.341189],"type":"Point"}
+}
