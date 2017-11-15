@@ -2,9 +2,14 @@
   "id": 857668205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 Panana St Kapolei HI 96707",
+    "addr:housenumber":"1333",
+    "addr:postcode":"96707",
+    "addr:street":"Panana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.082562,21.358284,-158.082562,21.358284",
     "geom:latitude":21.358284,
     "geom:longitude":-158.082562,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ebc5ba19534763115721602fc19515a8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857668205,
-    "wof:lastmodified":1466481484,
+    "wof:lastmodified":1491935482,
     "wof:name":"Hawaii Goes Fishing",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

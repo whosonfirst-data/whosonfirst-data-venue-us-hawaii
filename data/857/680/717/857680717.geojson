@@ -2,14 +2,20 @@
   "id": 857680717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Keolu Dr Kailua HI 96734",
+    "addr:housenumber":"1020",
+    "addr:postcode":"96734",
+    "addr:street":"Keolu Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.72924,21.378043,-157.72924,21.378043",
     "geom:latitude":21.378043,
     "geom:longitude":-157.72924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 Keolu Dr",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85828183
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rx7XtrOzK1e4Bs8U3JRpO_21.378043_-157.729240@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206753,
-    "wof:geomhash":"af3b73c2965d99b14a8c32100fdaf883",
+    "wof:geomhash":"97fc08947d1a498aa5b278454a56ffbc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680717,
-    "wof:lastmodified":1466481765,
+    "wof:lastmodified":1510695976,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85828183,
     "wof:placetype":"venue",

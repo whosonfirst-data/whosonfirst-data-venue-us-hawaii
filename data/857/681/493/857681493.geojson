@@ -2,14 +2,20 @@
   "id": 857681493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 Kalia Rd Honolulu HI 96815",
+    "addr:housenumber":"2005",
+    "addr:postcode":"96815",
+    "addr:street":"Kalia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.835602,21.284225,-157.835602,21.284225",
     "geom:latitude":21.284225,
     "geom:longitude":-157.835602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 Kalia Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85854131
     ],
+    "wof:brand_id":1125151217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WuSrfXTVrjP7MPLCp3bU3_21.284225_-157.835602@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206786,
-    "wof:geomhash":"23c07eb8d6b3346a40b749a160698e66",
+    "wof:geomhash":"dcebe881aef8168ed445fa9b4a9e906d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857681493,
-    "wof:lastmodified":1466481757,
+    "wof:lastmodified":1510697569,
     "wof:name":"Golden Dragon",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",

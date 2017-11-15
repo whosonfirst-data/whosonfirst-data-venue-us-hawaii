@@ -2,14 +2,20 @@
   "id": 857560483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 S King St Honolulu HI 96814",
+    "addr:housenumber":"1451",
+    "addr:postcode":"96814",
+    "addr:street":"S King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.839309,21.29809,-157.839309,21.29809",
     "geom:latitude":21.29809,
     "geom:longitude":-157.839309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1451 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125151559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37R5n83Uav0flO1WbvAgxB_21.298090_-157.839309@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203167,
-    "wof:geomhash":"62c52a04e359c3937d56017817d137b9",
+    "wof:geomhash":"3262b91c18693c9fc6e5e51566a306df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857560483,
-    "wof:lastmodified":1466480291,
+    "wof:lastmodified":1510699754,
     "wof:name":"March Of Dimes",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

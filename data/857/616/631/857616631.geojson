@@ -2,14 +2,20 @@
   "id": 857616631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1148 Vitex Pl Honolulu HI 96818",
+    "addr:housenumber":"1148",
+    "addr:postcode":"96818",
+    "addr:street":"Vitex Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.920129,21.358898,-157.920129,21.358898",
     "geom:latitude":21.358898,
     "geom:longitude":-157.920129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1148 Vitex Pl",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85802703
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hX3x1GNjJXrwbw6SpE26s_21.358898_-157.920129@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204351,
-    "wof:geomhash":"e5b06952ffd32d941fc228525957f818",
+    "wof:geomhash":"0ecf6e705c3ffa78346b2fd4a464cbe5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857616631,
-    "wof:lastmodified":1466480765,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85802703,
     "wof:placetype":"venue",

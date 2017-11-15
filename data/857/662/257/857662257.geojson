@@ -2,14 +2,20 @@
   "id": 857662257,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 N Judd St Honolulu HI 96817",
+    "addr:housenumber":"45",
+    "addr:postcode":"96817",
+    "addr:street":"N Judd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.852176,21.324671,-157.852176,21.324671",
     "geom:latitude":21.324671,
     "geom:longitude":-157.852176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"45 N Judd St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85840145
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jcWngDE4RmmtdVfZjr0Hv_21.324671_-157.852176@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206021,
-    "wof:geomhash":"42346de2c01fbc79186f908a10182e91",
+    "wof:geomhash":"4c35cdd1fe787a0b2b4fd01a772ed3d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857662257,
-    "wof:lastmodified":1466481337,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85840145,
     "wof:placetype":"venue",

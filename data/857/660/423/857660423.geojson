@@ -2,9 +2,14 @@
   "id": 857660423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Aloha Tower Dr Honolulu HI 96813",
+    "addr:housenumber":"1",
+    "addr:postcode":"96813",
+    "addr:street":"Tower Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.864567,21.306433,-157.864567,21.306433",
     "geom:latitude":21.306433,
     "geom:longitude":-157.864567,
@@ -29,6 +34,7 @@
         85633793,
         85937601,
         102085417,
+        85866919,
         85872715
     ],
     "wof:breaches":[],
@@ -43,15 +49,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857660423
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85872715,
             "region_id":85688671,
             "venue_id":857660423
         }
     ],
     "wof:id":857660423,
-    "wof:lastmodified":1466481359,
+    "wof:lastmodified":1491904925,
     "wof:name":"T Gallery",
-    "wof:parent_id":85872715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

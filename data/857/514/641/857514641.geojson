@@ -2,14 +2,20 @@
   "id": 857514641,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 Kaahumanu Ave Kahului HI 96732",
+    "addr:housenumber":"275",
+    "addr:postcode":"96732",
+    "addr:street":"Kaahumanu Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.477324,20.888739,-156.477324,20.888739",
     "geom:latitude":20.888739,
     "geom:longitude":-156.477324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Kaahumanu Ave",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":420575045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fyB3RQDZh2Q3lhDEXfH8O_20.888739_-156.477324@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202245,
-    "wof:geomhash":"9803bfc55241cb9a8bbacdc6244a1e38",
+    "wof:geomhash":"a6a1d3a8cc825b57424285aa33fe52ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857514641,
-    "wof:lastmodified":1466479913,
+    "wof:lastmodified":1510602434,
     "wof:name":"Motherhood Maternity",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

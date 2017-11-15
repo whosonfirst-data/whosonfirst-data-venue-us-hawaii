@@ -2,9 +2,14 @@
   "id": 857504213,
   "type": "Feature",
   "properties": {
+    "addr:full":"429 Huehu St Kahuku HI 96731",
+    "addr:housenumber":"429",
+    "addr:postcode":"96731",
+    "addr:street":"Huehu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.956923,21.67466,-157.956923,21.67466",
     "geom:latitude":21.67466,
     "geom:longitude":-157.956923,
@@ -28,7 +33,12 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DMWghEmL6BnF0MINJVdkZ_21.674660_-157.956923@1294088405"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1464202011,
     "wof:geomhash":"745d849a685b69d296178c9afa30cb16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857504213
+        }
+    ],
     "wof:id":857504213,
-    "wof:lastmodified":1466479829,
+    "wof:lastmodified":1491935901,
     "wof:name":"Au Appliance Repair & Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

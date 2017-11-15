@@ -2,14 +2,20 @@
   "id": 857653153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 S Beretania St Honolulu HI 96826",
+    "addr:housenumber":"2000",
+    "addr:postcode":"96826",
+    "addr:street":"S Beretania St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.827806,21.295983,-157.827806,21.295983",
     "geom:latitude":21.295983,
     "geom:longitude":-157.827806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 S Beretania St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85872731
     ],
+    "wof:brand_id":1125155139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RrfU6xMoBSbyx11rvs9mE_21.295983_-157.827806@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205595,
-    "wof:geomhash":"b27e202d6d06846d9f7cb09786ffe819",
+    "wof:geomhash":"824b8be5fea9145bc47c13fa366ea888",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857653153,
-    "wof:lastmodified":1466481156,
+    "wof:lastmodified":1510699326,
     "wof:name":"Hair 2000",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

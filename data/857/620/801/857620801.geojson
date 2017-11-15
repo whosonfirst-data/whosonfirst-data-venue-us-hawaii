@@ -2,14 +2,20 @@
   "id": 857620801,
   "type": "Feature",
   "properties": {
+    "addr:full":"711 Kuahao Pl Pearl City HI 96782",
+    "addr:housenumber":"711",
+    "addr:postcode":"96782",
+    "addr:street":"Kuahao Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.955674,21.39222,-157.955674,21.39222",
     "geom:latitude":21.39222,
     "geom:longitude":-157.955674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 Kuahao Pl",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bm16tOAmMyA0ubgTfWopd_21.392220_-157.955674@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204448,
-    "wof:geomhash":"f0efc57e8b252b5caebcef45a024cb0e",
+    "wof:geomhash":"f3e3c6a306799c0c4733523ec9800d94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857620801,
-    "wof:lastmodified":1466480827,
+    "wof:lastmodified":1510693791,
     "wof:name":"Nabisco",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

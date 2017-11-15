@@ -2,14 +2,20 @@
   "id": 857626795,
   "type": "Feature",
   "properties": {
+    "addr:full":"1287 Kalani St Honolulu HI 96817",
+    "addr:housenumber":"1287",
+    "addr:postcode":"96817",
+    "addr:street":"Kalani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.876793,21.321718,-157.876793,21.321718",
     "geom:latitude":21.321718,
     "geom:longitude":-157.876793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1287 Kalani St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102085417,
         85827209
     ],
+    "wof:brand_id":1125152003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39h3bvviEPWudmPMTqrkED_21.321718_-157.876793@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204597,
-    "wof:geomhash":"53572dceda135f9df412f402a96c4ad3",
+    "wof:geomhash":"ec019afaab7bdc8fdebb7bc843dcec6b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":857626795,
-    "wof:lastmodified":1466480843,
+    "wof:lastmodified":1510694862,
     "wof:name":"Maid Brigade",
     "wof:parent_id":85827209,
     "wof:placetype":"venue",

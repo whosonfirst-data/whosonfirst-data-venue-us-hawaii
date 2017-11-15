@@ -2,14 +2,20 @@
   "id": 857681701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2320 S King St Honolulu HI 96826",
+    "addr:housenumber":"2320",
+    "addr:postcode":"96826",
+    "addr:street":"S King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.82619,21.293864,-157.82619,21.293864",
     "geom:latitude":21.293864,
     "geom:longitude":-157.82619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2320 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85872731
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I8csmV8dTpfog9enq7Gpu_21.293864_-157.826190@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206793,
-    "wof:geomhash":"5b62183796e87012dbeb3f95cdcc23e6",
+    "wof:geomhash":"0217fda6665ef89765eac8270c172e66",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681701,
-    "wof:lastmodified":1466481721,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

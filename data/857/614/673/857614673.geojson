@@ -2,14 +2,20 @@
   "id": 857614673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 Moanalua Rd Aiea HI 96701",
+    "addr:housenumber":"1025",
+    "addr:postcode":"96701",
+    "addr:street":"Moanalua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.941385,21.386135,-157.941385,21.386135",
     "geom:latitude":21.386135,
     "geom:longitude":-157.941385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1025 Moanalua Rd",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":420574397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yy9LtsLB0N9YDKzxecrba_21.386135_-157.941385@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204313,
-    "wof:geomhash":"6e757dcfbfab3ec3ca2ad163ca728d88",
+    "wof:geomhash":"d07f3c4ebc2e44eeff93ce88e18b2a6f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857614673,
-    "wof:lastmodified":1466480728,
+    "wof:lastmodified":1510604581,
     "wof:name":"JC Penney",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

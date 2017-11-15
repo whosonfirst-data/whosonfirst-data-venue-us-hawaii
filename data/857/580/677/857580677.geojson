@@ -2,9 +2,14 @@
   "id": 857580677,
   "type": "Feature",
   "properties": {
+    "addr:full":"526 N School St Honolulu HI 96817",
+    "addr:housenumber":"526",
+    "addr:postcode":"96817",
+    "addr:street":"N School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.859975,21.321592,-157.859975,21.321592",
     "geom:latitude":21.321592,
     "geom:longitude":-157.859975,
@@ -24,7 +29,14 @@
     "sg:postcode":"96817",
     "sg:province":"HI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919,
+        85866917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eRLyplRqvWlQiesdWSJmP_21.321592_-157.859975@1294088405"
@@ -32,11 +44,28 @@
     "wof:country":"US",
     "wof:created":1464203565,
     "wof:geomhash":"ef9f36ecca5665c29199654cae081d30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857580677
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857580677
+        }
+    ],
     "wof:id":857580677,
-    "wof:lastmodified":1466480488,
+    "wof:lastmodified":1491904889,
     "wof:name":"Ace Korean Bar-B-Q & Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

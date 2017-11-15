@@ -2,14 +2,20 @@
   "id": 857681569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1515 Dillingham Blvd Honolulu HI 96817",
+    "addr:housenumber":"1515",
+    "addr:postcode":"96817",
+    "addr:street":"Dillingham Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.877849,21.325027,-157.877849,21.325027",
     "geom:latitude":21.325027,
     "geom:longitude":-157.877849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1515 Dillingham Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872723
     ],
+    "wof:brand_id":420574645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GZkSkcW9AqgC3j4tAvxE5_21.325027_-157.877849@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206789,
-    "wof:geomhash":"2b0eef94fb9778caacbb3e03a499955b",
+    "wof:geomhash":"f4291fdfce2f71f24f6edf8a91555d51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857681569,
-    "wof:lastmodified":1466481759,
+    "wof:lastmodified":1510604182,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":85872723,
     "wof:placetype":"venue",

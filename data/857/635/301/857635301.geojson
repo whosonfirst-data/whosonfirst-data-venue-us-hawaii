@@ -2,14 +2,20 @@
   "id": 857635301,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Nani Kailua Dr Kailua Kona HI 96740",
+    "addr:housenumber":"240",
+    "addr:postcode":"96740",
+    "addr:street":"Nani Kailua Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.979982,19.63616,-155.979982,19.63616",
     "geom:latitude":19.63616,
     "geom:longitude":-155.979982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Nani Kailua Dr",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085433,
         85890345
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RvpAXEdFyJZwbmGplYxhp_19.636160_-155.979982@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204843,
-    "wof:geomhash":"0dd5e9545f06539ce5acc91aa77a7c24",
+    "wof:geomhash":"85c4ae06b8523159d42d9d728123c284",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857635301,
-    "wof:lastmodified":1466480919,
+    "wof:lastmodified":1510603930,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85890345,
     "wof:placetype":"venue",

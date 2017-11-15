@@ -2,14 +2,20 @@
   "id": 857527783,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Keawe St Hilo HI 96720",
+    "addr:housenumber":"120",
+    "addr:postcode":"96720",
+    "addr:street":"Keawe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.08757,19.7253,-155.08757,19.7253",
     "geom:latitude":19.7253,
     "geom:longitude":-155.08757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Keawe St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68G2kwTMeFslbGYChCcGxi_19.725300_-155.087570@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202499,
-    "wof:geomhash":"936054d7638b6a20b101ccd90647c705",
+    "wof:geomhash":"9ae8be9d6f590cfa240b510bc4e8da7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857527783,
-    "wof:lastmodified":1466480018,
+    "wof:lastmodified":1510604912,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

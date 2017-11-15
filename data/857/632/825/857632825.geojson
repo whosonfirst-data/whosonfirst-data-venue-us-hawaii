@@ -2,9 +2,14 @@
   "id": 857632825,
   "type": "Feature",
   "properties": {
+    "addr:full":"2165 10th Ave Honolulu HI 96816",
+    "addr:housenumber":"2165",
+    "addr:postcode":"96816",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.790535,21.300673,-157.790535,21.300673",
     "geom:latitude":21.300673,
     "geom:longitude":-157.790535,
@@ -33,6 +38,7 @@
         85633793,
         85937601,
         102085417,
+        420518469,
         85867469
     ],
     "wof:breaches":[],
@@ -47,15 +53,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":420518469,
+            "region_id":85688671,
+            "venue_id":857632825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85867469,
             "region_id":85688671,
             "venue_id":857632825
         }
     ],
     "wof:id":857632825,
-    "wof:lastmodified":1466481002,
+    "wof:lastmodified":1491914691,
     "wof:name":"Brad Fleener",
-    "wof:parent_id":85867469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

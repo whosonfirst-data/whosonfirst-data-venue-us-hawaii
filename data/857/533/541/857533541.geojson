@@ -2,14 +2,20 @@
   "id": 857533541,
   "type": "Feature",
   "properties": {
+    "addr:full":"1280 Puualoha St Kailua HI 96734",
+    "addr:housenumber":"1280",
+    "addr:postcode":"96734",
+    "addr:street":"Puualoha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.766528,21.358862,-157.766528,21.358862",
     "geom:latitude":21.358862,
     "geom:longitude":-157.766528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1280 Puualoha St",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85832899
     ],
+    "wof:brand_id":1125158557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_722q7ZHWLqJbnrqr1RJFdn_21.358862_-157.766528@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202613,
-    "wof:geomhash":"c6c324b3119c7f10f82d7cadc89bd7cd",
+    "wof:geomhash":"3203680d20db5f3d007a1bee7a3d5767",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857533541,
-    "wof:lastmodified":1466480081,
+    "wof:lastmodified":1510697796,
     "wof:name":"Jostens Inc",
     "wof:parent_id":85832899,
     "wof:placetype":"venue",

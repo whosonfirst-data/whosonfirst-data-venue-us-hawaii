@@ -2,14 +2,20 @@
   "id": 857650795,
   "type": "Feature",
   "properties": {
+    "addr:full":"5699 Alii Dr Kailua Kona HI 96740",
+    "addr:housenumber":"5699",
+    "addr:postcode":"96740",
+    "addr:street":"Alii Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.99461,19.639799,-155.99461,19.639799",
     "geom:latitude":19.639799,
     "geom:longitude":-155.99461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5699 Alii Dr",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085433,
         85890251
     ],
+    "wof:brand_id":1125152785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jg3r96DTHLXwLcYFdWK27_19.639799_-155.994610@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205488,
-    "wof:geomhash":"4f1551846a7f238ad152e39d346c8b7f",
+    "wof:geomhash":"5f3fe840cca42559651ac0e7a9da8cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857650795,
-    "wof:lastmodified":1466481243,
+    "wof:lastmodified":1510697424,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85890251,
     "wof:placetype":"venue",

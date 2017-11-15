@@ -2,14 +2,20 @@
   "id": 857584279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 Kalakaua Ave Honolulu HI 96826",
+    "addr:housenumber":"1305",
+    "addr:postcode":"96826",
+    "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.836922,21.298273,-157.836922,21.298273",
     "geom:latitude":21.298273,
     "geom:longitude":-157.836922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1305 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125154879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qmV6l4FU5U5SPzSsnHcGS_21.298273_-157.836922@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203630,
-    "wof:geomhash":"eea578f1325475879bf04f8f8c8ffe84",
+    "wof:geomhash":"3e9327d991b3cfcd3cfdbf319f5be42c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857584279,
-    "wof:lastmodified":1466480466,
+    "wof:lastmodified":1510696912,
     "wof:name":"Hairworks",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

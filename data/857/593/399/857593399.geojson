@@ -2,14 +2,20 @@
   "id": 857593399,
   "type": "Feature",
   "properties": {
+    "addr:full":"670 Auahi St Honolulu HI 96813",
+    "addr:housenumber":"670",
+    "addr:postcode":"96813",
+    "addr:street":"Auahi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860731,21.298384,-157.860731,21.298384",
     "geom:latitude":21.298384,
     "geom:longitude":-157.860731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"670 Auahi St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872715
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06CTKvL4FAPcWhobLtq5Gi_21.298384_-157.860731@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203837,
-    "wof:geomhash":"e8284ddf1f45701ffaf0237bbdcd076b",
+    "wof:geomhash":"483a850646604ccb34bc764321f5c642",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857593399,
-    "wof:lastmodified":1466480574,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",

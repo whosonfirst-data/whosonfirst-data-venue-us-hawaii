@@ -2,14 +2,20 @@
   "id": 857677295,
   "type": "Feature",
   "properties": {
+    "addr:full":"3580 Akaka Pl Honolulu HI 96822",
+    "addr:housenumber":"",
+    "addr:postcode":"3580;96822",
+    "addr:street":"Akaka Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.801581,21.317566,-157.801581,21.317566",
     "geom:latitude":21.317566,
     "geom:longitude":-157.801581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3580 Akaka Pl",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85858787
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Uv7Uy5de3AX6oAlkClWuK_21.317566_-157.801581@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206625,
-    "wof:geomhash":"8e77b8f359d2f12ad637999aeba05481",
+    "wof:geomhash":"e7f71b2a3a6d44d4387df96d765e714c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857677295,
-    "wof:lastmodified":1466481594,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85858787,
     "wof:placetype":"venue",

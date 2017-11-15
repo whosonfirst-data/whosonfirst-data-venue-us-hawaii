@@ -2,14 +2,20 @@
   "id": 857679605,
   "type": "Feature",
   "properties": {
+    "addr:full":"789 N Nimitz Hwy Honolulu HI 96817",
+    "addr:housenumber":"789",
+    "addr:postcode":"96817",
+    "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.872954,21.313401,-157.872954,21.313401",
     "geom:latitude":21.313401,
     "geom:longitude":-157.872954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"789 N Nimitz Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85827209
     ],
+    "wof:brand_id":1125153899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00bPQG4CpwnoT4NvLOhqYC_21.313401_-157.872954@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206715,
-    "wof:geomhash":"44f55545f7c848e5a251468c9cce3eff",
+    "wof:geomhash":"d3fbdaf8c30dca30ab264f34fa706e72",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857679605,
-    "wof:lastmodified":1466481748,
+    "wof:lastmodified":1510698864,
     "wof:name":"Shell Oil Products U S",
     "wof:parent_id":85827209,
     "wof:placetype":"venue",

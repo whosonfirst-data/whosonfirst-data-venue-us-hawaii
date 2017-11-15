@@ -2,14 +2,20 @@
   "id": 857514077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1059 Moanalua Rd Aiea HI 96701",
+    "addr:housenumber":"1059",
+    "addr:postcode":"96701",
+    "addr:street":"Moanalua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.939819,21.385517,-157.939819,21.385517",
     "geom:latitude":21.385517,
     "geom:longitude":-157.939819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1059 Moanalua Rd",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":420575359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u7DcefLG7DUGU8DJzPOOh_21.385517_-157.939819@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202232,
-    "wof:geomhash":"de2ad7aa36f6f3627596486a6d46aacd",
+    "wof:geomhash":"c1c0c1ec7c9602647f51f7f37762464d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857514077,
-    "wof:lastmodified":1466479845,
+    "wof:lastmodified":1510602456,
     "wof:name":"Sizzler",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857561761,
   "type": "Feature",
   "properties": {
+    "addr:full":"268 Maunuunu Pl Kahuku HI 96731",
+    "addr:housenumber":"268",
+    "addr:postcode":"96731",
+    "addr:street":"Maunuunu Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.953669,21.675137,-157.953669,21.675137",
     "geom:latitude":21.675137,
     "geom:longitude":-157.953669,
@@ -29,7 +34,12 @@
         "scuba"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WEhju6tTdNLt9QsvEONWI_21.675137_-157.953669@1294088405"
@@ -37,11 +47,19 @@
     "wof:country":"US",
     "wof:created":1464203196,
     "wof:geomhash":"c9317c454e29e672d49c582c6c5ca5b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857561761
+        }
+    ],
     "wof:id":857561761,
-    "wof:lastmodified":1466480317,
+    "wof:lastmodified":1491935901,
     "wof:name":"Scubadrew Videoworks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857598607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1649 Kalakaua Ave Honolulu HI 96826",
+    "addr:housenumber":"1649",
+    "addr:postcode":"96826",
+    "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.836889,21.293743,-157.836889,21.293743",
     "geom:latitude":21.293743,
     "geom:longitude":-157.836889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1649 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85872731
     ],
+    "wof:brand_id":1125158835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H1dDOkr9rQfKpwLtFuait_21.293743_-157.836889@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203954,
-    "wof:geomhash":"63df518cf23a9d898e936bc7123a602a",
+    "wof:geomhash":"0ea6a0124f092b8ad1dad169d3bb7787",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857598607,
-    "wof:lastmodified":1466480617,
+    "wof:lastmodified":1510695705,
     "wof:name":"Past & Present",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

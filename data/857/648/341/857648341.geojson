@@ -2,6 +2,10 @@
   "id": 857648341,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 Ala Moana Blvd Honolulu HI 96814",
+    "addr:housenumber":"1240",
+    "addr:postcode":"96814",
+    "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857648341,
-    "wof:lastmodified":1466481138,
+    "wof:lastmodified":1472619860,
     "wof:name":"IBM",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

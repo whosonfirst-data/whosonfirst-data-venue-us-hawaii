@@ -2,6 +2,10 @@
   "id": 857546921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Crossley Rd Kapaa HI 96746",
+    "addr:housenumber":"1234",
+    "addr:postcode":"96746",
+    "addr:street":"Crossley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857546921,
-    "wof:lastmodified":1466480222,
+    "wof:lastmodified":1472619766,
     "wof:name":"A & I Inc",
     "wof:parent_id":85890385,
     "wof:placetype":"venue",

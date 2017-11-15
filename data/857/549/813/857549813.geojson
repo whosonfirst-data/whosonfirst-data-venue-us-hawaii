@@ -2,14 +2,20 @@
   "id": 857549813,
   "type": "Feature",
   "properties": {
+    "addr:full":"845 Wainee St Lahaina HI 96761",
+    "addr:housenumber":"845",
+    "addr:postcode":"96761",
+    "addr:street":"Wainee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.682263,20.881381,-156.682263,20.881381",
     "geom:latitude":20.881381,
     "geom:longitude":-156.682263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"845 Wainee St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085577,
         85890517
     ],
+    "wof:brand_id":420575549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42AvT05xPSvfOJQQraAYks_20.881381_-156.682263@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202927,
-    "wof:geomhash":"6ab8aca6387ac282ff3eea4fc388d8c2",
+    "wof:geomhash":"49ea10f7bec86785ecb37f353f34177b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857549813,
-    "wof:lastmodified":1466480219,
+    "wof:lastmodified":1510602391,
     "wof:name":"Vitamin World",
     "wof:parent_id":85890517,
     "wof:placetype":"venue",

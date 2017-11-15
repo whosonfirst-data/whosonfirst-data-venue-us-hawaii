@@ -2,14 +2,20 @@
   "id": 857668783,
   "type": "Feature",
   "properties": {
+    "addr:full":"349 Kapiolani St Hilo HI 96720",
+    "addr:housenumber":"349",
+    "addr:postcode":"96720",
+    "addr:street":"Kapiolani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.086814,19.716709,-155.086814,19.716709",
     "geom:latitude":19.716709,
     "geom:longitude":-155.086814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"349 Kapiolani St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125159729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AYK1fhmMRUQiB0rSBnZdt_19.716709_-155.086814@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206285,
-    "wof:geomhash":"1e96bc2f958582075d15f1b30dce3075",
+    "wof:geomhash":"ce5a97d78fb1c0b92238a2838a41f24a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857668783,
-    "wof:lastmodified":1466481603,
+    "wof:lastmodified":1510697224,
     "wof:name":"US Drug Enforcement Adm",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

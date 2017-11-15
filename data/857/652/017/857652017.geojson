@@ -2,14 +2,20 @@
   "id": 857652017,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Kalanianaole Hwy Honolulu HI 96825",
+    "addr:housenumber":"",
+    "addr:postcode":"6700;96825",
+    "addr:street":"Kalanianaole Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.713801,21.282469,-157.713801,21.282469",
     "geom:latitude":21.282469,
     "geom:longitude":-157.713801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6700 Kalanianaole Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85842893
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45m52mskquo0pjA1MDZS7c_21.282469_-157.713801@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205548,
-    "wof:geomhash":"c04d642aeed38f09f1cbb667ccc2a967",
+    "wof:geomhash":"7c690876847e7d6a2165711a46a72f21",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857652017,
-    "wof:lastmodified":1466481093,
+    "wof:lastmodified":1510699351,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",

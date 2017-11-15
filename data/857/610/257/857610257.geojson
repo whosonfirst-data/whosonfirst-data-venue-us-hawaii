@@ -2,14 +2,20 @@
   "id": 857610257,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Merchant St Honolulu HI 96813",
+    "addr:housenumber":"55",
+    "addr:postcode":"96813",
+    "addr:street":"Merchant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.863037,21.309004,-157.863037,21.309004",
     "geom:latitude":21.309004,
     "geom:longitude":-157.863037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Merchant St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125159965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75rPL8dAcFFNOGwHFfSA0l_21.309004_-157.863037@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204214,
-    "wof:geomhash":"88490d2a5b2ff7b11d431a2090d4e757",
+    "wof:geomhash":"0d965efae185b51cec6068c111c783b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857610257,
-    "wof:lastmodified":1466480683,
+    "wof:lastmodified":1510693849,
     "wof:name":"Old Republic",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

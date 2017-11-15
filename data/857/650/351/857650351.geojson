@@ -2,14 +2,20 @@
   "id": 857650351,
   "type": "Feature",
   "properties": {
+    "addr:full":"233 Merchant St Honolulu HI 96813",
+    "addr:housenumber":"233",
+    "addr:postcode":"96813",
+    "addr:street":"Merchant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860959,21.306931,-157.860959,21.306931",
     "geom:latitude":21.306931,
     "geom:longitude":-157.860959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"233 Merchant St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xbKkRFP6mFJxxAeb1Rfp3_21.306931_-157.860959@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205473,
-    "wof:geomhash":"cffd91efb2cefa037bc45e977808ad73",
+    "wof:geomhash":"5507d556214df703ac5bd090e0f70474",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857650351,
-    "wof:lastmodified":1466481152,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

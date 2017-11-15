@@ -2,14 +2,20 @@
   "id": 857559471,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Fort Weaver Rd Ewa Beach HI 96706",
+    "addr:housenumber":"1401",
+    "addr:postcode":"96706",
+    "addr:street":"Fort Weaver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.023439,21.335466,-158.023439,21.335466",
     "geom:latitude":21.335466,
     "geom:longitude":-158.023439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Fort Weaver Rd",
     "sg:city":"Ewa Beach",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85818355
     ],
+    "wof:brand_id":1125157659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RUlzWcXPgY1rVkhgXMyQl_21.335466_-158.023439@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203139,
-    "wof:geomhash":"b346eb27b6e1ecf1d05d844b356e6d38",
+    "wof:geomhash":"931bb38582404f6fc26375c760a7045d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857559471,
-    "wof:lastmodified":1466480295,
+    "wof:lastmodified":1510695239,
     "wof:name":"Longs Drug Store",
     "wof:parent_id":85818355,
     "wof:placetype":"venue",

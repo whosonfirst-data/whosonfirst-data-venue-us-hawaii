@@ -2,14 +2,20 @@
   "id": 857551199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1639 Keeaumoku St Honolulu HI 96822",
+    "addr:housenumber":"1639",
+    "addr:postcode":"96822",
+    "addr:street":"Keeaumoku St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.835507,21.305357,-157.835507,21.305357",
     "geom:latitude":21.305357,
     "geom:longitude":-157.835507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1639 Keeaumoku St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125150351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U1PrkWfV7z93Ay81AMr8o_21.305357_-157.835507@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202952,
-    "wof:geomhash":"2cda871c34a2d3dd7b104425bc8b3674",
+    "wof:geomhash":"4a1046f19a17ef47fff47258c2f3d69f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857551199,
-    "wof:lastmodified":1466480157,
+    "wof:lastmodified":1510697027,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

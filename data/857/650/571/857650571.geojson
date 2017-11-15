@@ -2,14 +2,20 @@
   "id": 857650571,
   "type": "Feature",
   "properties": {
+    "addr:full":"3850 Wailea Alanui Dr Kihei HI 96753",
+    "addr:housenumber":"3850",
+    "addr:postcode":"96753",
+    "addr:street":"Wailea Alanui Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.439301,20.686037,-156.439301,20.686037",
     "geom:latitude":20.686037,
     "geom:longitude":-156.439301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3850 Wailea Alanui Dr",
     "sg:city":"Kihei",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085577,
         85890695
     ],
+    "wof:brand_id":420575771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CnicIsptDtieuzkE1UwsH_20.686037_-156.439301@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205480,
-    "wof:geomhash":"f12929196f47167b51d2ddb6b405e6da",
+    "wof:geomhash":"3886e1978e7440fd637aa654d9349aca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857650571,
-    "wof:lastmodified":1466481197,
+    "wof:lastmodified":1510602402,
     "wof:name":"W H Smith",
     "wof:parent_id":85890695,
     "wof:placetype":"venue",

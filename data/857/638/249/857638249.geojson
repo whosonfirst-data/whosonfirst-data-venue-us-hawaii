@@ -2,6 +2,10 @@
   "id": 857638249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 University Ave Honolulu HI 96826",
+    "addr:housenumber":"1212",
+    "addr:postcode":"96826",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857638249,
-    "wof:lastmodified":1466480928,
+    "wof:lastmodified":1472619849,
     "wof:name":"Don Conover",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

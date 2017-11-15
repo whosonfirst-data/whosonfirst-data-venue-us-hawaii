@@ -2,14 +2,20 @@
   "id": 857681133,
   "type": "Feature",
   "properties": {
+    "addr:full":"41-1610 Kalanianaole Hwy Waimanalo HI 96795",
+    "addr:housenumber":"41-1610",
+    "addr:postcode":"96795",
+    "addr:street":"Kalanianaole Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.723003,21.347887,-157.723003,21.347887",
     "geom:latitude":21.347887,
     "geom:longitude":-157.723003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41-1610 Kalanianaole Hwy",
     "sg:city":"Waimanalo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85854139
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c9LWgv6zFj4sTSdoBJnpj_21.347887_-157.723003@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206769,
-    "wof:geomhash":"b7bb8a5cc6cdbee2629332e6a988a0a5",
+    "wof:geomhash":"171f80cd8931ffb5585b247308442267",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681133,
-    "wof:lastmodified":1466481683,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85854139,
     "wof:placetype":"venue",

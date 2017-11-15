@@ -2,14 +2,20 @@
   "id": 857681427,
   "type": "Feature",
   "properties": {
+    "addr:full":"2344 Kalakaua Ave Honolulu HI 96815",
+    "addr:housenumber":"2344",
+    "addr:postcode":"96815",
+    "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.826788,21.277221,-157.826788,21.277221",
     "geom:latitude":21.277221,
     "geom:longitude":-157.826788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2344 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85827783
     ],
+    "wof:brand_id":1125151181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZlKl3nXR9PRVuiJ9Ms8tI_21.277221_-157.826788@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206783,
-    "wof:geomhash":"d93cceb409d3f71bbe592973ffb58b92",
+    "wof:geomhash":"c860dca210a6d9548498c2f0867920c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857681427,
-    "wof:lastmodified":1466481755,
+    "wof:lastmodified":1510697193,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":85827783,
     "wof:placetype":"venue",

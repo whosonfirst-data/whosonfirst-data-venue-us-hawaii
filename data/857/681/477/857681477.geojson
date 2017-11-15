@@ -2,14 +2,20 @@
   "id": 857681477,
   "type": "Feature",
   "properties": {
+    "addr:full":"3045 Monsarrat Ave Honolulu HI 96815",
+    "addr:housenumber":"3045",
+    "addr:postcode":"96815",
+    "addr:street":"Monsarrat Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.81362,21.268787,-157.81362,21.268787",
     "geom:latitude":21.268787,
     "geom:longitude":-157.81362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3045 Monsarrat Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85872719
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mg3f2WtyTtq40pBuSy7ex_21.268787_-157.813620@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206785,
-    "wof:geomhash":"e0fe60a2e6de73a2b17e252cf713b6c2",
+    "wof:geomhash":"0bc6bc55b3daee843230de6f91ab3004",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681477,
-    "wof:lastmodified":1466481713,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85872719,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857669779,
   "type": "Feature",
   "properties": {
+    "addr:full":"563 Farrington Hwy Kapolei HI 96707",
+    "addr:housenumber":"563",
+    "addr:postcode":"96707",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.079067,21.337777,-158.079067,21.337777",
     "geom:latitude":21.337777,
     "geom:longitude":-158.079067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"563 Farrington Hwy",
     "sg:city":"Kapolei",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85865243,
         102085417
     ],
+    "wof:brand_id":1125159551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FlEqYBmg3lMBzdxgsu7bE_21.337777_-158.079067@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206333,
-    "wof:geomhash":"a0cdc813e8679701f10123cb5b600b99",
+    "wof:geomhash":"99efe61a23c6ef406735546b56d302c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857669779,
-    "wof:lastmodified":1466481617,
+    "wof:lastmodified":1510696650,
     "wof:name":"Family Vision Care",
     "wof:parent_id":85865243,
     "wof:placetype":"venue",

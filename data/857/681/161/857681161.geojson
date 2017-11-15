@@ -2,14 +2,20 @@
   "id": 857681161,
   "type": "Feature",
   "properties": {
+    "addr:full":"94-300 Farrington Hwy Waipahu HI 96797",
+    "addr:housenumber":"94-300",
+    "addr:postcode":"96797",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.018937,21.381241,-158.018937,21.381241",
     "geom:latitude":21.381241,
     "geom:longitude":-158.018937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94-300 Farrington Hwy",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85826167,
         102085417
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U3y1D43mEg9T49JEzryUs_21.381241_-158.018937@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206771,
-    "wof:geomhash":"9f431b95de3c118ea82464eee520eb08",
+    "wof:geomhash":"6e8b59551b6555ffdc4ef1b40f6791dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857681161,
-    "wof:lastmodified":1466481689,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85826167,
     "wof:placetype":"venue",

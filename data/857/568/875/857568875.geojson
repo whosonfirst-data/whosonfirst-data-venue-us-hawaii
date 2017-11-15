@@ -2,9 +2,14 @@
   "id": 857568875,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Pualalea St Kahuku HI 96731",
+    "addr:housenumber":"119",
+    "addr:postcode":"96731",
+    "addr:street":"Pualalea St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.952363,21.676741,-157.952363,21.676741",
     "geom:latitude":21.676741,
     "geom:longitude":-157.952363,
@@ -28,7 +33,12 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JoGEKGQirKqLjClOfLF39_21.676741_-157.952363@1294088405"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1464203331,
     "wof:geomhash":"7ba2ff88244435c921d5fe616e80b206",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857568875
+        }
+    ],
     "wof:id":857568875,
-    "wof:lastmodified":1466480410,
+    "wof:lastmodified":1491935903,
     "wof:name":"James J Fleming Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

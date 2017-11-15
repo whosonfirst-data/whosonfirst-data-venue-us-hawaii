@@ -2,14 +2,20 @@
   "id": 857651205,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Operations St Hilo HI 96720",
+    "addr:housenumber":"110",
+    "addr:postcode":"96720",
+    "addr:street":"Operations St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.051203,19.718179,-155.051203,19.718179",
     "geom:latitude":19.718179,
     "geom:longitude":-155.051203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Operations St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H5zSZAX7OuIW5VJzEJC6c_19.718179_-155.051203@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205503,
-    "wof:geomhash":"95d7c8f1b5b2a7ed0cad26fb3832e3c5",
+    "wof:geomhash":"ba5d878e706ce4dcde9b728ccdfb30bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857651205,
-    "wof:lastmodified":1466481128,
+    "wof:lastmodified":1510613374,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857577099,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Ala Moana Blvd Honolulu HI 96850",
+    "addr:housenumber":"300",
+    "addr:postcode":"96850",
+    "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.862738,21.305414,-157.862738,21.305414",
     "geom:latitude":21.305414,
     "geom:longitude":-157.862738,
@@ -33,7 +38,8 @@
         85633793,
         85937601,
         102085417,
-        85866919
+        85866919,
+        85872715
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,20 @@
             "neighbourhood_id":85866919,
             "region_id":85688671,
             "venue_id":857577099
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872715,
+            "region_id":85688671,
+            "venue_id":857577099
         }
     ],
     "wof:id":857577099,
-    "wof:lastmodified":1466480366,
+    "wof:lastmodified":1491904938,
     "wof:name":"Clerks Office",
-    "wof:parent_id":85866919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 857661631,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 Kamehameha Hwy Haleiwa HI 96712",
+    "addr:housenumber":"158",
+    "addr:postcode":"96712",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.042006,21.672283,-158.042006,21.672283",
     "geom:latitude":21.672283,
     "geom:longitude":-158.042006,
@@ -30,8 +35,10 @@
     "wof:belongsto":[
         85688671,
         85633793,
-        85890125,
-        102085417
+        85937555,
+        102085417,
+        85851545,
+        85890125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +51,23 @@
         {
             "country_id":85633793,
             "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85851545,
+            "region_id":85688671,
+            "venue_id":857661631
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
             "neighbourhood_id":85890125,
             "region_id":85688671,
             "venue_id":857661631
         }
     ],
     "wof:id":857661631,
-    "wof:lastmodified":1466481401,
+    "wof:lastmodified":1491935669,
     "wof:name":"Smokie Acre Blossoms",
-    "wof:parent_id":85890125,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

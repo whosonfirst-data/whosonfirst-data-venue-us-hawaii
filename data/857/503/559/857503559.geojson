@@ -2,9 +2,14 @@
   "id": 857503559,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N Nimitz Hwy Honolulu HI 96817",
+    "addr:housenumber":"700",
+    "addr:postcode":"96817",
+    "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.871724,21.313788,-157.871724,21.313788",
     "geom:latitude":21.313788,
     "geom:longitude":-157.871724,
@@ -33,6 +38,7 @@
         85633793,
         85937601,
         102085417,
+        85866917,
         85827209
     ],
     "wof:breaches":[],
@@ -47,15 +53,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857503559
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85827209,
             "region_id":85688671,
             "venue_id":857503559
         }
     ],
     "wof:id":857503559,
-    "wof:lastmodified":1466479836,
+    "wof:lastmodified":1491903454,
     "wof:name":"Pomare Limited",
-    "wof:parent_id":85827209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

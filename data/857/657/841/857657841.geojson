@@ -2,14 +2,20 @@
   "id": 857657841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 University Ave Honolulu HI 96826",
+    "addr:housenumber":"1110",
+    "addr:postcode":"96826",
+    "addr:street":"University Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.821401,21.293259,-157.821401,21.293259",
     "geom:latitude":21.293259,
     "geom:longitude":-157.821401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 University Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872731
     ],
+    "wof:brand_id":1125152707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R1lVWvLaSfNNDGLdJ51U4_21.293259_-157.821401@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205811,
-    "wof:geomhash":"114f938904ed1eb3142daeb82b0741bd",
+    "wof:geomhash":"b3cb0b3eba407ab3cd1b7f2ace492722",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857657841,
-    "wof:lastmodified":1466481426,
+    "wof:lastmodified":1510697050,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

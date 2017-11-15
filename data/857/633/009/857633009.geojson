@@ -2,14 +2,20 @@
   "id": 857633009,
   "type": "Feature",
   "properties": {
+    "addr:full":"431 Alamaha St Kahului HI 96732",
+    "addr:housenumber":"431",
+    "addr:postcode":"96732",
+    "addr:street":"Alamaha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.45654,20.885529,-156.45654,20.885529",
     "geom:latitude":20.885529,
     "geom:longitude":-156.45654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"431 Alamaha St",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T7o8QpEBLVe7Uf3r8g3vB_20.885529_-156.456540@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204756,
-    "wof:geomhash":"7f057991d213864a5e8796f6fb9df059",
+    "wof:geomhash":"c36181ee404089cdc2d8f8d7f3c7874e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857633009,
-    "wof:lastmodified":1466480849,
+    "wof:lastmodified":1510697772,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

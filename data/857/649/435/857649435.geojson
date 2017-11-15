@@ -2,14 +2,20 @@
   "id": 857649435,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Mokuola St Waipahu HI 96797",
+    "addr:housenumber":"440",
+    "addr:postcode":"96797",
+    "addr:street":"Mokuola St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.005808,21.387456,-158.005808,21.387456",
     "geom:latitude":21.387456,
     "geom:longitude":-158.005808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"440 Mokuola St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85812891
     ],
+    "wof:brand_id":1125150143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ELQDFV3ipOg0NuJxMiqWK_21.387456_-158.005808@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205433,
-    "wof:geomhash":"8d65bec63d7836250b01b115ff3afafa",
+    "wof:geomhash":"c38d1b00c3f0fc5d3712904687e9b6cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857649435,
-    "wof:lastmodified":1466481157,
+    "wof:lastmodified":1510694770,
     "wof:name":"Y M C A",
     "wof:parent_id":85812891,
     "wof:placetype":"venue",

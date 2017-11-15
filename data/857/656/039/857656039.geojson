@@ -2,14 +2,20 @@
   "id": 857656039,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Farrington Hwy Waipahu HI 96797",
+    "addr:housenumber":"193",
+    "addr:postcode":"96797",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.023071,21.377841,-158.023071,21.377841",
     "geom:latitude":21.377841,
     "geom:longitude":-158.023071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"193 Farrington Hwy",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85826167,
         102085417
     ],
+    "wof:brand_id":420575449,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MNk9JAjt9hYkTSMcMvgAe_21.377841_-158.023071@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205726,
-    "wof:geomhash":"6819c92fdcbc7275f5682f9e053af270",
+    "wof:geomhash":"07507ef160294d09f89d3e22300d5040",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857656039,
-    "wof:lastmodified":1466481247,
+    "wof:lastmodified":1510602895,
     "wof:name":"K F C",
     "wof:parent_id":85826167,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857651939,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Pauahi St Hilo HI 96720",
+    "addr:housenumber":"100",
+    "addr:postcode":"96720",
+    "addr:street":"Pauahi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.078649,19.72132,-155.078649,19.72132",
     "geom:latitude":19.72132,
     "geom:longitude":-155.078649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Pauahi St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72QreeI93OzxQXUj3oVwic_19.721320_-155.078649@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205545,
-    "wof:geomhash":"933f4c7a6a3ddce560c47ba100b885e3",
+    "wof:geomhash":"7ccadab333b64862be2c7379b3fb47b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857651939,
-    "wof:lastmodified":1466481276,
+    "wof:lastmodified":1510602698,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857680685,
   "type": "Feature",
   "properties": {
+    "addr:full":"270 Dairy Rd Kahului HI 96732",
+    "addr:housenumber":"270",
+    "addr:postcode":"96732",
+    "addr:street":"Dairy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.455903,20.881098,-156.455903,20.881098",
     "geom:latitude":20.881098,
     "geom:longitude":-156.455903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"270 Dairy Rd",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fQjanolkLnPXLzJHYplDE_20.881098_-156.455903@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206752,
-    "wof:geomhash":"b546301ec3f4061384be8171ed4c2d90",
+    "wof:geomhash":"83cfe91e0d1f73fce0eae2002fe55c3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680685,
-    "wof:lastmodified":1466481765,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

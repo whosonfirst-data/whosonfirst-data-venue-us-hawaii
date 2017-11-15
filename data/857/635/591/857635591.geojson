@@ -2,14 +2,20 @@
   "id": 857635591,
   "type": "Feature",
   "properties": {
+    "addr:full":"4848 Kanalani St Kailua Kona HI 96740",
+    "addr:housenumber":"4848",
+    "addr:postcode":"96740",
+    "addr:street":"Kanalani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.019923,19.6861,-156.019923,19.6861",
     "geom:latitude":19.6861,
     "geom:longitude":-156.019923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4848 Kanalani St",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085433,
         85890335
     ],
+    "wof:brand_id":1125155827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wQ0BDxAvehDyjnt1oqQcD_19.686100_-156.019923@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204853,
-    "wof:geomhash":"1be595cdd421f94bbc6c604063b0c8d1",
+    "wof:geomhash":"463550d529c42c953fd6cc8ff8b00b14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857635591,
-    "wof:lastmodified":1466480979,
+    "wof:lastmodified":1510699021,
     "wof:name":"Pepsico",
     "wof:parent_id":85890335,
     "wof:placetype":"venue",

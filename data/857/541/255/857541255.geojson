@@ -2,9 +2,14 @@
   "id": 857541255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1081 Kepakepa St Waipahu HI 96797",
+    "addr:housenumber":"1081",
+    "addr:postcode":"96797",
+    "addr:street":"Kepakepa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.998414,21.415028,-157.998414,21.415028",
     "geom:latitude":21.415028,
     "geom:longitude":-157.998414,
@@ -29,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
-        85937531,
+        85937529,
         102085417,
-        85812891
+        85812891,
+        85890709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,26 @@
     "wof:geomhash":"a702c4fb8fd590239fe1a993c005df0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
-            "locality_id":85937531,
+            "locality_id":85937529,
             "neighbourhood_id":85812891,
+            "region_id":85688671,
+            "venue_id":857541255
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890709,
             "region_id":85688671,
             "venue_id":857541255
         }
     ],
     "wof:id":857541255,
-    "wof:lastmodified":1466480062,
+    "wof:lastmodified":1491906644,
     "wof:name":"Dolores Oakes",
-    "wof:parent_id":85812891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

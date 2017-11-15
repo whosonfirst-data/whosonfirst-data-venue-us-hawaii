@@ -2,14 +2,20 @@
   "id": 857634547,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 Kuahao Pl Pearl City HI 96782",
+    "addr:housenumber":"720",
+    "addr:postcode":"96782",
+    "addr:street":"Kuahao Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.955399,21.392365,-157.955399,21.392365",
     "geom:latitude":21.392365,
     "geom:longitude":-157.955399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 Kuahao Pl",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z8q70c0UqGN8RwXfhDefN_21.392365_-157.955399@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204816,
-    "wof:geomhash":"7a49d51a21f953aa7c3f751121dcfaac",
+    "wof:geomhash":"3c615e1f3396017c52e18739537f573a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":857634547,
-    "wof:lastmodified":1466480964,
+    "wof:lastmodified":1510697772,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

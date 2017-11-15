@@ -2,14 +2,20 @@
   "id": 857643351,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Iwilei Rd Honolulu HI 96817",
+    "addr:housenumber":"735",
+    "addr:postcode":"96817",
+    "addr:street":"Iwilei Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.870594,21.316112,-157.870594,21.316112",
     "geom:latitude":21.316112,
     "geom:longitude":-157.870594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"735 Iwilei Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85866917
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bQfRtDnYeEweO7i4N4vJu_21.316112_-157.870594@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205168,
-    "wof:geomhash":"e718ff3ad2fe02d46d836c14e92d2ed2",
+    "wof:geomhash":"53711615c7dd804675b247a1314a99ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857643351,
-    "wof:lastmodified":1466481061,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",

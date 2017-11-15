@@ -2,14 +2,20 @@
   "id": 857644269,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Richards St Honolulu HI 96813",
+    "addr:housenumber":"707",
+    "addr:postcode":"96813",
+    "addr:street":"Richards St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.861571,21.306111,-157.861571,21.306111",
     "geom:latitude":21.306111,
     "geom:longitude":-157.861571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 Richards St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125154471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tG2YRCvVqSZPWGn92TohQ_21.306111_-157.861571@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205204,
-    "wof:geomhash":"451d634d19f46ef3147b04dd22f3c33b",
+    "wof:geomhash":"13fb62bdddca790f8e9386cab05ef772",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857644269,
-    "wof:lastmodified":1466481091,
+    "wof:lastmodified":1510699499,
     "wof:name":"RBC Mortgage Co",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

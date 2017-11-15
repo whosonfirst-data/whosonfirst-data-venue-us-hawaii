@@ -2,14 +2,20 @@
   "id": 857681695,
   "type": "Feature",
   "properties": {
+    "addr:full":"7192 Kalanianaole Hwy Honolulu HI 96825",
+    "addr:housenumber":"7192",
+    "addr:postcode":"96825",
+    "addr:street":"Kalanianaole Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.705394,21.278525,-157.705394,21.278525",
     "geom:latitude":21.278525,
     "geom:longitude":-157.705394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7192 Kalanianaole Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85842893
     ],
+    "wof:brand_id":420575645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u6KRwR1djSLsFMDNssgrC_21.278525_-157.705394@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206793,
-    "wof:geomhash":"1d7f52467f84f0a102cbffa388079112",
+    "wof:geomhash":"ac9102cc25fb11be48c8b54dbd110f58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681695,
-    "wof:lastmodified":1466481763,
+    "wof:lastmodified":1510602468,
     "wof:name":"Jamba Juice",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",

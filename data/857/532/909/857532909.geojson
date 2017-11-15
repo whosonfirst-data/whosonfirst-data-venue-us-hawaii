@@ -2,14 +2,20 @@
   "id": 857532909,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Main St Wailuku HI 96793",
+    "addr:housenumber":"2200",
+    "addr:postcode":"96793",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.508725,20.889809,-156.508725,20.889809",
     "geom:latitude":20.889809,
     "geom:longitude":-156.508725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Main St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125152461,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eALaoofElIuix6OThuTNZ_20.889809_-156.508725@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202601,
-    "wof:geomhash":"ab938aace313445dcd7a54bb957963bb",
+    "wof:geomhash":"633eade816d7e7a3760b2780a86b3ec2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857532909,
-    "wof:lastmodified":1466480118,
+    "wof:lastmodified":1510696102,
     "wof:name":"Dean Witter",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

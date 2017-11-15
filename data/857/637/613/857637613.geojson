@@ -2,6 +2,10 @@
   "id": 857637613,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Rodgers Blvd Honolulu HI 96819",
+    "addr:housenumber":"310",
+    "addr:postcode":"96819",
+    "addr:street":"Rodgers Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857637613,
-    "wof:lastmodified":1466480992,
+    "wof:lastmodified":1472619854,
     "wof:name":"International In-Flight Catrg",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857554815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1235 Wilder Ave Honolulu HI 96822",
+    "addr:housenumber":"1235",
+    "addr:postcode":"96822",
+    "addr:street":"Wilder Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.837914,21.305422,-157.837914,21.305422",
     "geom:latitude":21.305422,
     "geom:longitude":-157.837914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1235 Wilder Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":420574337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SJJf1ho3Hg3iYl8hFjZVW_21.305422_-157.837914@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203024,
-    "wof:geomhash":"b05b301aa8bd19512c191a053e0835b9",
+    "wof:geomhash":"fa651cc9c9f8f6876b6cd9400007c695",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857554815,
-    "wof:lastmodified":1466480245,
+    "wof:lastmodified":1510604655,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

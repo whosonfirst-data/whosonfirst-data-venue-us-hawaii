@@ -2,9 +2,14 @@
   "id": 857669027,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"565",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.951856,21.677707,-157.951856,21.677707",
     "geom:latitude":21.677707,
     "geom:longitude":-157.951856,
@@ -30,7 +35,12 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QdtNkKhboQTiyE4RLDAsL_21.677707_-157.951856@1294088405"
@@ -38,11 +48,19 @@
     "wof:country":"US",
     "wof:created":1464206303,
     "wof:geomhash":"ca4b70881c20e24b389a21a65f462fd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857669027
+        }
+    ],
     "wof:id":857669027,
-    "wof:lastmodified":1466481464,
+    "wof:lastmodified":1491935903,
     "wof:name":"Curves For Women",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

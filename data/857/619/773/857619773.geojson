@@ -2,14 +2,20 @@
   "id": 857619773,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Pauahi St Hilo HI 96720",
+    "addr:housenumber":"120",
+    "addr:postcode":"96720",
+    "addr:street":"Pauahi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.078715,19.721482,-155.078715,19.721482",
     "geom:latitude":19.721482,
     "geom:longitude":-155.078715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Pauahi St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FRjU17hkyCRnxIm3xBknl_19.721482_-155.078715@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204428,
-    "wof:geomhash":"b3db1749b44f7804bfd8cbad35b63efa",
+    "wof:geomhash":"755265682e7b59f598dc20268c98f05c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857619773,
-    "wof:lastmodified":1466480811,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

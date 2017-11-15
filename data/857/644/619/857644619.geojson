@@ -2,9 +2,14 @@
   "id": 857644619,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Ulele Pl Kapolei HI 96707",
+    "addr:housenumber":"109",
+    "addr:postcode":"96707",
+    "addr:street":"Ulele Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.088154,21.355968,-158.088154,21.355968",
     "geom:latitude":21.355968,
     "geom:longitude":-158.088154,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -44,6 +50,7 @@
     "wof:geomhash":"2222a5e30616668ee407b979d0c2c027",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857644619,
-    "wof:lastmodified":1466481162,
+    "wof:lastmodified":1491935478,
     "wof:name":"Gary B Lucero Painting",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

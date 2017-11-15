@@ -2,14 +2,20 @@
   "id": 857527111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3375 Koapaka St Honolulu HI 96819",
+    "addr:housenumber":"",
+    "addr:postcode":"96819",
+    "addr:street":"Koapaka St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.915836,21.336026,-157.915836,21.336026",
     "geom:latitude":21.336026,
     "geom:longitude":-157.915836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3375 Koapaka St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_085WNVHHADDIWMkOaaQakG_21.336026_-157.915836@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202488,
-    "wof:geomhash":"9d343f48aec0cf1ef1b20b797cf05e51",
+    "wof:geomhash":"163991778a5759294f8018d1a0086a95",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857527111,
-    "wof:lastmodified":1466479950,
+    "wof:lastmodified":1510699364,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

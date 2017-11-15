@@ -2,14 +2,20 @@
   "id": 857624905,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 Kahuawai St Waipahu HI 96797",
+    "addr:housenumber":"313",
+    "addr:postcode":"96797",
+    "addr:street":"Kahuawai St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.998887,21.389802,-157.998887,21.389802",
     "geom:latitude":21.389802,
     "geom:longitude":-157.998887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"313 Kahuawai St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85812891
     ],
+    "wof:brand_id":1125157297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19uyS1sDUc5w2V8V1fMEbP_21.389802_-157.998887@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204560,
-    "wof:geomhash":"c50cbc58c797b0e46b9344a0367be684",
+    "wof:geomhash":"882ce4fc955aaf476e26980cfe78ccd7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857624905,
-    "wof:lastmodified":1466480849,
+    "wof:lastmodified":1510694603,
     "wof:name":"Victory Outreach",
     "wof:parent_id":85812891,
     "wof:placetype":"venue",

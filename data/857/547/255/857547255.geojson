@@ -2,14 +2,20 @@
   "id": 857547255,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Hualani St Hilo HI 96720",
+    "addr:housenumber":"400",
+    "addr:postcode":"96720",
+    "addr:street":"Hualani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.072455,19.714074,-155.072455,19.714074",
     "geom:latitude":19.714074,
     "geom:longitude":-155.072455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Hualani St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QmG9WQz5omlqOEGytHHld_19.714074_-155.072455@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202878,
-    "wof:geomhash":"7757da4b5557f6584f4c2ee34382cd02",
+    "wof:geomhash":"9ae46e43827676ee4fdb85e1b34da3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857547255,
-    "wof:lastmodified":1466480157,
+    "wof:lastmodified":1510696918,
     "wof:name":"American Heart Association",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

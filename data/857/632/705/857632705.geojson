@@ -2,14 +2,20 @@
   "id": 857632705,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 Kuahao Pl Pearl City HI 96782",
+    "addr:housenumber":"746",
+    "addr:postcode":"96782",
+    "addr:street":"Kuahao Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.954703,21.392276,-157.954703,21.392276",
     "geom:latitude":21.392276,
     "geom:longitude":-157.954703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"746 Kuahao Pl",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XRjQfqHHbQo2tPZ9T6QEK_21.392276_-157.954703@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204744,
-    "wof:geomhash":"da913525d88ad06ff57562a3b5145f5a",
+    "wof:geomhash":"18d6c0c91c7ca943396397ce457e9095",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857632705,
-    "wof:lastmodified":1466480978,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

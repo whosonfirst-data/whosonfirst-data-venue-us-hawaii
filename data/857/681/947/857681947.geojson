@@ -2,6 +2,10 @@
   "id": 857681947,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Merchant Street Floor 17 Honolulu HI 96813",
+    "addr:housenumber":"55;17",
+    "addr:postcode":"96813",
+    "addr:street":"Merchant Street Floor",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":857681947,
-    "wof:lastmodified":1466481772,
+    "wof:lastmodified":1472619929,
     "wof:name":"Tetris Online",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

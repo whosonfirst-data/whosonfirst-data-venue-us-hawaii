@@ -2,6 +2,10 @@
   "id": 857529011,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Ala Moana Blvd Honolulu HI 96813",
+    "addr:housenumber":"500",
+    "addr:postcode":"96813",
+    "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":857529011,
-    "wof:lastmodified":1466479944,
+    "wof:lastmodified":1472619731,
     "wof:name":"Something In Common",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",

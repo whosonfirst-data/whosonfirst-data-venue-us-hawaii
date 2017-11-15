@@ -2,14 +2,20 @@
   "id": 857680729,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Kaneohe Bay Dr Kailua HI 96734",
+    "addr:housenumber":"25",
+    "addr:postcode":"96734",
+    "addr:street":"Kaneohe Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.748304,21.423091,-157.748304,21.423091",
     "geom:latitude":21.423091,
     "geom:longitude":-157.748304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Kaneohe Bay Dr",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85827847
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44VoS2zah5ls8bHOKTtMNZ_21.423091_-157.748304@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206754,
-    "wof:geomhash":"4c429217779fa81075ef1f61877b6a15",
+    "wof:geomhash":"09b57a95ee1d8542e7c715de64a2af6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680729,
-    "wof:lastmodified":1466481766,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85827847,
     "wof:placetype":"venue",

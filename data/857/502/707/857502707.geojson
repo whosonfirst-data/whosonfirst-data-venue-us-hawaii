@@ -2,9 +2,14 @@
   "id": 857502707,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Umena St Kapolei HI 96707",
+    "addr:housenumber":"1205",
+    "addr:postcode":"96707",
+    "addr:street":"Umena St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.086103,21.372292,-158.086103,21.372292",
     "geom:latitude":21.372292,
     "geom:longitude":-158.086103,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"fd4cf56eed99bbd40c8dc2462414caf0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857502707,
-    "wof:lastmodified":1466479823,
+    "wof:lastmodified":1491935476,
     "wof:name":"Ray Higdon Construction Inc",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

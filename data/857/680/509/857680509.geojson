@@ -2,14 +2,20 @@
   "id": 857680509,
   "type": "Feature",
   "properties": {
+    "addr:full":"98-127 Kaonohi St Aiea HI 96701",
+    "addr:housenumber":"98-127",
+    "addr:postcode":"96701",
+    "addr:street":"Kaonohi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.94506,21.384306,-157.94506,21.384306",
     "geom:latitude":21.384306,
     "geom:longitude":-157.94506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"98-127 Kaonohi St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":420575645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37dthyatRedb4gmk5sJzHs_21.384306_-157.945060@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206746,
-    "wof:geomhash":"5635327671d49a9e9297b8acdcafff8c",
+    "wof:geomhash":"7c20a0d43dec7a603fd4c527f74243fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680509,
-    "wof:lastmodified":1466481757,
+    "wof:lastmodified":1510602468,
     "wof:name":"Jamba Juice",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857515421,
   "type": "Feature",
   "properties": {
+    "addr:full":"3060 Ualena St Honolulu HI 96819",
+    "addr:housenumber":"3060",
+    "addr:postcode":"96819",
+    "addr:street":"Ualena St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.913448,21.334479,-157.913448,21.334479",
     "geom:latitude":21.334479,
     "geom:longitude":-157.913448,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3060 Ualena St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125151197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f0uO2zh2taQz3BCMYlfQK_21.334479_-157.913448@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202258,
-    "wof:geomhash":"025756a89af9e44fd1e0f3448e23a368",
+    "wof:geomhash":"2a24d4b8ed148ba07108282567fc5799",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857515421,
-    "wof:lastmodified":1466479881,
+    "wof:lastmodified":1510697359,
     "wof:name":"Saic",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

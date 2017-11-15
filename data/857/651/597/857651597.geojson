@@ -2,14 +2,20 @@
   "id": 857651597,
   "type": "Feature",
   "properties": {
+    "addr:full":"939 Kamehameha Hwy Kaneohe HI 96744",
+    "addr:housenumber":"939",
+    "addr:postcode":"96744",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.800364,21.414393,-157.800364,21.414393",
     "geom:latitude":21.414393,
     "geom:longitude":-157.800364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"939 Kamehameha Hwy",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85824543
     ],
+    "wof:brand_id":1125157661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23jln6VBxdx8dL5dDNCYaT_21.414393_-157.800364@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205526,
-    "wof:geomhash":"b648928359bef3422a85624c1c718ac4",
+    "wof:geomhash":"8cc86dc04b6f7466343f87b617e22e8b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857651597,
-    "wof:lastmodified":1466481207,
+    "wof:lastmodified":1510698774,
     "wof:name":"Luxury Nails",
     "wof:parent_id":85824543,
     "wof:placetype":"venue",

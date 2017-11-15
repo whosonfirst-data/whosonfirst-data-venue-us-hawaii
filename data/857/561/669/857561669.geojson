@@ -2,14 +2,20 @@
   "id": 857561669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3949 Diamond Head Rd Honolulu HI 96816",
+    "addr:housenumber":"3949",
+    "addr:postcode":"96816",
+    "addr:street":"Diamond Head Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.796324,21.262856,-157.796324,21.262856",
     "geom:latitude":21.262856,
     "geom:longitude":-157.796324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3949 Diamond Head Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085417,
         85827711
     ],
+    "wof:brand_id":420575603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fEk6DJCBEpcpeOGmIRhlc_21.262856_-157.796324@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203194,
-    "wof:geomhash":"447fd73961365dba0706d8bfe5d89dd7",
+    "wof:geomhash":"1fddbb3fb71365721cddaa91df083ec4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857561669,
-    "wof:lastmodified":1466480307,
+    "wof:lastmodified":1510602888,
     "wof:name":"Army National Guard",
     "wof:parent_id":85827711,
     "wof:placetype":"venue",

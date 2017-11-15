@@ -2,14 +2,20 @@
   "id": 857681149,
   "type": "Feature",
   "properties": {
+    "addr:full":"94-673 Kupuohi St Waipahu HI 96797",
+    "addr:housenumber":"94-673",
+    "addr:postcode":"96797",
+    "addr:street":"Kupuohi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.032859,21.387722,-158.032859,21.387722",
     "geom:latitude":21.387722,
     "geom:longitude":-158.032859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94-673 Kupuohi St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826167,
         102085417
     ],
+    "wof:brand_id":1125151333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QISSdCAkxAwvCHMHzK3Y5_21.387722_-158.032859@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206770,
-    "wof:geomhash":"f1fde49714a98a474608bd374b1ba103",
+    "wof:geomhash":"77b8a34aa09def4437f6d77a1480e443",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857681149,
-    "wof:lastmodified":1466481686,
+    "wof:lastmodified":1510694947,
     "wof:name":"Taco Del Mar",
     "wof:parent_id":85826167,
     "wof:placetype":"venue",

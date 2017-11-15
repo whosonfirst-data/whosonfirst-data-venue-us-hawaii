@@ -2,9 +2,14 @@
   "id": 857599165,
   "type": "Feature",
   "properties": {
+    "addr:full":"485 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"485",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.945862,21.675547,-157.945862,21.675547",
     "geom:latitude":21.675547,
     "geom:longitude":-157.945862,
@@ -24,7 +29,12 @@
     "sg:postcode":"96731",
     "sg:province":"HI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wZFXjbPyhFnm0Q3HwmIM7_21.675547_-157.945862@1294088405"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1464203964,
     "wof:geomhash":"17e4f3a726efde73e5135947a0bc20d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857599165
+        }
+    ],
     "wof:id":857599165,
-    "wof:lastmodified":1466480570,
+    "wof:lastmodified":1491935903,
     "wof:name":"Amy's By The Greene",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

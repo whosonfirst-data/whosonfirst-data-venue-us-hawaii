@@ -2,14 +2,20 @@
   "id": 857677953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1860 Ala Moana Blvd Honolulu HI 96815",
+    "addr:housenumber":"1860",
+    "addr:postcode":"96815",
+    "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.837514,21.28473,-157.837514,21.28473",
     "geom:latitude":21.28473,
     "geom:longitude":-157.837514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1860 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85854131
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tnIxzh4ZBcIJH0apC360B_21.284730_-157.837514@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206653,
-    "wof:geomhash":"026dc0ebbf3357d3a6cf4c7fa475f6d5",
+    "wof:geomhash":"de0aa0b3ddab7b62803fb3c774729ba7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857677953,
-    "wof:lastmodified":1466481701,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",

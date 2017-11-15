@@ -2,14 +2,20 @@
   "id": 857542957,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 Fort Street Ml Honolulu HI 96813",
+    "addr:housenumber":"745",
+    "addr:postcode":"96813",
+    "addr:street":"Fort Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.863764,21.308151,-157.863764,21.308151",
     "geom:latitude":21.308151,
     "geom:longitude":-157.863764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"745 Fort Street Ml",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wcuOt7KSh1AGrWoGsnVgs_21.308151_-157.863764@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202800,
-    "wof:geomhash":"c20ac07ff7d97e7e0f474584f0096690",
+    "wof:geomhash":"2d96e6c8a33b670cd13d6579c198d2af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857542957,
-    "wof:lastmodified":1466480135,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

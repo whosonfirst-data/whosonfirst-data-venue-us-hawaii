@@ -2,14 +2,20 @@
   "id": 857634433,
   "type": "Feature",
   "properties": {
+    "addr:full":"7279 Anakua St Honolulu HI 96825",
+    "addr:housenumber":"7279",
+    "addr:postcode":"96825",
+    "addr:street":"Anakua St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.699714,21.279201,-157.699714,21.279201",
     "geom:latitude":21.279201,
     "geom:longitude":-157.699714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7279 Anakua St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85842893
     ],
+    "wof:brand_id":1125151275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QxBeK8yP5MPDu02otAssy_21.279201_-157.699714@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204813,
-    "wof:geomhash":"8ca82a0d164a49f3543c2c412666a080",
+    "wof:geomhash":"7360ef0842ee3203611fd30afbbe4121",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857634433,
-    "wof:lastmodified":1466480941,
+    "wof:lastmodified":1510699622,
     "wof:name":"Lucent Technologies Inc",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",

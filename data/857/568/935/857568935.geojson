@@ -2,14 +2,20 @@
   "id": 857568935,
   "type": "Feature",
   "properties": {
+    "addr:full":"564 South St Honolulu HI 96813",
+    "addr:housenumber":"564",
+    "addr:postcode":"96813",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860029,21.301831,-157.860029,21.301831",
     "geom:latitude":21.301831,
     "geom:longitude":-157.860029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"564 South St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85872715
     ],
+    "wof:brand_id":1125158219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42ZeT5R88SB1i20Nv3xRbE_21.301831_-157.860029@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203332,
-    "wof:geomhash":"e03ebf112e1cb6bb0c7657e531e809a0",
+    "wof:geomhash":"f6d06e5f8c40ef2d9e53e5c25ffd13a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857568935,
-    "wof:lastmodified":1466480416,
+    "wof:lastmodified":1510699389,
     "wof:name":"We The People",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",

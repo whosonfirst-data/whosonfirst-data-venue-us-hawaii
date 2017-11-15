@@ -2,14 +2,20 @@
   "id": 857508567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1218 Waimanu St Honolulu HI 96814",
+    "addr:housenumber":"1218",
+    "addr:postcode":"96814",
+    "addr:street":"Waimanu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.850541,21.295393,-157.850541,21.295393",
     "geom:latitude":21.295393,
     "geom:longitude":-157.850541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1218 Waimanu St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125155197,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uCjTNns80HpZkTzjb71YF_21.295393_-157.850541@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202116,
-    "wof:geomhash":"312e91bc2a2425d7e91a257a34654917",
+    "wof:geomhash":"aafd376ed3155bfd7e2f91bf3994762a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857508567,
-    "wof:lastmodified":1466479878,
+    "wof:lastmodified":1510699647,
     "wof:name":"Tuxedo Junction",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

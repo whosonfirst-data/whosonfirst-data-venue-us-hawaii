@@ -2,14 +2,20 @@
   "id": 857643347,
   "type": "Feature",
   "properties": {
+    "addr:full":"526 Liholiho St Wailuku HI 96793",
+    "addr:housenumber":"526",
+    "addr:postcode":"96793",
+    "addr:street":"Liholiho St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.486255,20.899117,-156.486255,20.899117",
     "geom:latitude":20.899117,
     "geom:longitude":-156.486255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"526 Liholiho St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28b9aoZvUuc8RTp18mtgUF_20.899117_-156.486255@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205163,
-    "wof:geomhash":"0d894bb89f2e2f3fbaa8bd51d09e4118",
+    "wof:geomhash":"d907062d150ab4bfa3863064d17ace81",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857643347,
-    "wof:lastmodified":1466481060,
+    "wof:lastmodified":1510602923,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

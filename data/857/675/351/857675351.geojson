@@ -2,14 +2,20 @@
   "id": 857675351,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 Kokea St Honolulu HI 96817",
+    "addr:housenumber":"925",
+    "addr:postcode":"96817",
+    "addr:street":"Kokea St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.869079,21.324299,-157.869079,21.324299",
     "geom:latitude":21.324299,
     "geom:longitude":-157.869079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 Kokea St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872723
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07ezyTAPFFkBTSQZ2AOpeh_21.324299_-157.869079@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206538,
-    "wof:geomhash":"a088a796882fa80253a479a1cc7e3990",
+    "wof:geomhash":"0929fd2810f4ffe9b5229137c942c7ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857675351,
-    "wof:lastmodified":1466481565,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85872723,
     "wof:placetype":"venue",

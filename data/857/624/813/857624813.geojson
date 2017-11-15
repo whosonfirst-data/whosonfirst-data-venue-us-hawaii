@@ -2,14 +2,20 @@
   "id": 857624813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1279 S Beretania St Honolulu HI 96814",
+    "addr:housenumber":"1279",
+    "addr:postcode":"96814",
+    "addr:street":"S Beretania St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.840317,21.30053,-157.840317,21.30053",
     "geom:latitude":21.30053,
     "geom:longitude":-157.840317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1279 S Beretania St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MzM0c2GZUxBodelXFvUhH_21.300530_-157.840317@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204558,
-    "wof:geomhash":"a293f6e0cf8cec9e692ce97bb750ed2e",
+    "wof:geomhash":"0d898abf874d3c00c90de612f79cf931",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857624813,
-    "wof:lastmodified":1466480836,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857601367,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 Huehu St Kahuku HI 96731",
+    "addr:housenumber":"321",
+    "addr:postcode":"96731",
+    "addr:street":"Huehu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.954573,21.673492,-157.954573,21.673492",
     "geom:latitude":21.673492,
     "geom:longitude":-157.954573,
@@ -28,7 +33,12 @@
         "formal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iwBSZIcLVfastCYsen0VP_21.673492_-157.954573@1294088405"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1464204015,
     "wof:geomhash":"d3188c603eceee3fc68112619caa3a89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857601367
+        }
+    ],
     "wof:id":857601367,
-    "wof:lastmodified":1466480601,
+    "wof:lastmodified":1491935899,
     "wof:name":"Royal Cleaners & Tuxedo Rntls",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857523383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1019 Waimanu St Honolulu HI 96814",
+    "addr:housenumber":"1019",
+    "addr:postcode":"96814",
+    "addr:street":"Waimanu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.850946,21.29563,-157.850946,21.29563",
     "geom:latitude":21.29563,
     "geom:longitude":-157.850946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1019 Waimanu St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125154225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QSMwJWi87VpNXCyDAzwxx_21.295630_-157.850946@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202419,
-    "wof:geomhash":"9d53f9650536bb03d541cfce0a1fefec",
+    "wof:geomhash":"f1030d89fffdcd9f6c58c1ba55bbf343",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857523383,
-    "wof:lastmodified":1466479971,
+    "wof:lastmodified":1510693988,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

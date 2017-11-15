@@ -2,9 +2,14 @@
   "id": 857645923,
   "type": "Feature",
   "properties": {
+    "addr:full":"6670 Hawaii Kai Dr Honolulu HI 96825",
+    "addr:housenumber":"6670",
+    "addr:postcode":"96825",
+    "addr:street":"Hawaii Kai Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.708474,21.293668,-157.708474,21.293668",
     "geom:latitude":21.293668,
     "geom:longitude":-157.708474,
@@ -29,6 +34,7 @@
         85633793,
         85937695,
         102085417,
+        85824285,
         85842893
     ],
     "wof:breaches":[],
@@ -43,15 +49,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937695,
+            "neighbourhood_id":85824285,
+            "region_id":85688671,
+            "venue_id":857645923
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
             "neighbourhood_id":85842893,
             "region_id":85688671,
             "venue_id":857645923
         }
     ],
     "wof:id":857645923,
-    "wof:lastmodified":1466481240,
+    "wof:lastmodified":1491887654,
     "wof:name":"Donald A Aus CPA",
-    "wof:parent_id":85842893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

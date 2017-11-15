@@ -2,14 +2,20 @@
   "id": 857655881,
   "type": "Feature",
   "properties": {
+    "addr:full":"5995 Kuakini Hwy Kailua Kona HI 96740",
+    "addr:housenumber":"5995",
+    "addr:postcode":"96740",
+    "addr:street":"Kuakini Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.983365,19.627312,-155.983365,19.627312",
     "geom:latitude":19.627312,
     "geom:longitude":-155.983365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5995 Kuakini Hwy",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085433,
         85890345
     ],
+    "wof:brand_id":1125154001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XDy6l6Bta6WvlqqOkKsXO_19.627312_-155.983365@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205718,
-    "wof:geomhash":"c1c837e3207c038e778ad52d1dbee980",
+    "wof:geomhash":"4715eca7cd0641fa2ba198e6472f71d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857655881,
-    "wof:lastmodified":1466481370,
+    "wof:lastmodified":1510695153,
     "wof:name":"Social Service Dept",
     "wof:parent_id":85890345,
     "wof:placetype":"venue",

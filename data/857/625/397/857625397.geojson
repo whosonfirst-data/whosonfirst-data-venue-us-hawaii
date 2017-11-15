@@ -2,14 +2,20 @@
   "id": 857625397,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Aupuni St Hilo HI 96720",
+    "addr:housenumber":"101",
+    "addr:postcode":"96720",
+    "addr:street":"Aupuni St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.077651,19.718284,-155.077651,19.718284",
     "geom:latitude":19.718284,
     "geom:longitude":-155.077651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Aupuni St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125154865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OM6fjnbSY5pWIj2E9BmIJ_19.718284_-155.077651@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204570,
-    "wof:geomhash":"d4255870915a120c140bdc48859ceec0",
+    "wof:geomhash":"31fa43d9fe1dc075efb1e652a1832f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857625397,
-    "wof:lastmodified":1466480811,
+    "wof:lastmodified":1510695972,
     "wof:name":"Cigna",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857519373,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 Keeaumoku St Honolulu HI 96814",
+    "addr:housenumber":"655",
+    "addr:postcode":"96814",
+    "addr:street":"Keeaumoku St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.841864,21.294325,-157.841864,21.294325",
     "geom:latitude":21.294325,
     "geom:longitude":-157.841864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Keeaumoku St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125155663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bnkmmH9VNpjvpjKp55LiZ_21.294325_-157.841864@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202338,
-    "wof:geomhash":"c2074048aa7f88d01ed74fa9fc324b79",
+    "wof:geomhash":"4d72ac6f23e3b49ff990a55027ed3fdf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857519373,
-    "wof:lastmodified":1466479895,
+    "wof:lastmodified":1510698985,
     "wof:name":"Princess Nails",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

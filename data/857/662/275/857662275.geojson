@@ -2,14 +2,20 @@
   "id": 857662275,
   "type": "Feature",
   "properties": {
+    "addr:full":"4260 Rice St Lihue HI 96766",
+    "addr:housenumber":"4260",
+    "addr:postcode":"96766",
+    "addr:street":"Rice St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.364538,21.972222,-159.364538,21.972222",
     "geom:latitude":21.972222,
     "geom:longitude":-159.364538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4260 Rice St",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085457,
         85890567
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f64JbcuvaLwXNj3HR75Is_21.972222_-159.364538@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206021,
-    "wof:geomhash":"6f1e203f047c4fda041b04b145cf320a",
+    "wof:geomhash":"3a5d657f84ac10241dbecdd229cd152f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857662275,
-    "wof:lastmodified":1466481341,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85890567,
     "wof:placetype":"venue",

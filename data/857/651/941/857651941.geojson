@@ -2,9 +2,14 @@
   "id": 857651941,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 Pilipono St Kapolei HI 96707",
+    "addr:housenumber":"580",
+    "addr:postcode":"96707",
+    "addr:street":"Pilipono St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.082295,21.346477,-158.082295,21.346477",
     "geom:latitude":21.346477,
     "geom:longitude":-158.082295,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -44,6 +50,7 @@
     "wof:geomhash":"0103d5a842fcf22ade127b931bdb6bf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857651941,
-    "wof:lastmodified":1466481277,
+    "wof:lastmodified":1491935478,
     "wof:name":"Alia Development LTD",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

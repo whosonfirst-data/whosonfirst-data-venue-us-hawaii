@@ -2,14 +2,20 @@
   "id": 857676899,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N Nimitz Hwy Honolulu HI 96817",
+    "addr:housenumber":"701",
+    "addr:postcode":"96817",
+    "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.870862,21.312995,-157.870862,21.312995",
     "geom:latitude":21.312995,
     "geom:longitude":-157.870862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 N Nimitz Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85827209
     ],
+    "wof:brand_id":1125159953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KnRG4oaaGaz5NmaxWzTcW_21.312995_-157.870862@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206610,
-    "wof:geomhash":"8830ab33783d2b538943c90a77a1724f",
+    "wof:geomhash":"b18b7b30c361bde59a4a1d85e55e06ff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857676899,
-    "wof:lastmodified":1466481680,
+    "wof:lastmodified":1510693741,
     "wof:name":"New Earl Scheib Paint & Body",
     "wof:parent_id":85827209,
     "wof:placetype":"venue",

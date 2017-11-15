@@ -2,6 +2,10 @@
   "id": 857645179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Kona St Honolulu HI 96814",
+    "addr:housenumber":"1234",
+    "addr:postcode":"96814",
+    "addr:street":"Kona St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":857645179,
-    "wof:lastmodified":1466481087,
+    "wof:lastmodified":1472619853,
     "wof:name":"Iolani Sportswear Ltd",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

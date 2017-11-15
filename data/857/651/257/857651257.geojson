@@ -2,14 +2,20 @@
   "id": 857651257,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Rodgers Blvd Honolulu HI 96819",
+    "addr:housenumber":"300",
+    "addr:postcode":"96819",
+    "addr:street":"Rodgers Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.921297,21.33279,-157.921297,21.33279",
     "geom:latitude":21.33279,
     "geom:longitude":-157.921297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Rodgers Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125153515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43yNJQRJpPUni7975xwo61_21.332790_-157.921297@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205508,
-    "wof:geomhash":"078e5e1aec9a93584d77656d020891af",
+    "wof:geomhash":"24bfb8068e978278158f4f1736e6f422",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857651257,
-    "wof:lastmodified":1466481138,
+    "wof:lastmodified":1510698959,
     "wof:name":"Delta Airlines",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

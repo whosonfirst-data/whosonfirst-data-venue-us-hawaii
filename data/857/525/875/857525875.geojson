@@ -2,14 +2,20 @@
   "id": 857525875,
   "type": "Feature",
   "properties": {
+    "addr:full":"719 Kamehameha Hwy Pearl City HI 96782",
+    "addr:housenumber":"719",
+    "addr:postcode":"96782",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.967108,21.39271,-157.967108,21.39271",
     "geom:latitude":21.39271,
     "geom:longitude":-157.967108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"719 Kamehameha Hwy",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085417,
         85890647
     ],
+    "wof:brand_id":420575093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HJjclWzPdEWuFNi34MOdD_21.392710_-157.967108@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202466,
-    "wof:geomhash":"c196d56931716ab47a7106e9e9a8c3fc",
+    "wof:geomhash":"e648d2bcf3f47cc48c5d93fca8ae886b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857525875,
-    "wof:lastmodified":1466480027,
+    "wof:lastmodified":1510602905,
     "wof:name":"Candy Bouquet",
     "wof:parent_id":85890647,
     "wof:placetype":"venue",

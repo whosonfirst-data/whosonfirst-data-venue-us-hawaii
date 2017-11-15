@@ -2,9 +2,14 @@
   "id": 857656345,
   "type": "Feature",
   "properties": {
+    "addr:full":"338 Kekauoha St Kahuku HI 96712",
+    "addr:housenumber":"338",
+    "addr:postcode":"96712",
+    "addr:street":"Kekauoha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.956521,21.675848,-157.956521,21.675848",
     "geom:latitude":21.675848,
     "geom:longitude":-157.956521,
@@ -28,7 +33,12 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G6sQR2qsC4oS0jV6gvto7_21.675848_-157.956521@1294088405"
@@ -36,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1464205738,
     "wof:geomhash":"2c4aefa01f97add2ccd4fa3c1d6973ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857656345
+        }
+    ],
     "wof:id":857656345,
-    "wof:lastmodified":1466481309,
+    "wof:lastmodified":1491935899,
     "wof:name":"T & N Disco Jam",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

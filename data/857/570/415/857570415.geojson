@@ -2,9 +2,14 @@
   "id": 857570415,
   "type": "Feature",
   "properties": {
+    "addr:full":"4449 Malia St Honolulu HI 96821",
+    "addr:housenumber":"4449",
+    "addr:postcode":"96821",
+    "addr:street":"Malia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.780587,21.280368,-157.780587,21.280368",
     "geom:latitude":21.280368,
     "geom:longitude":-157.780587,
@@ -33,7 +38,9 @@
         85633793,
         85937601,
         102085417,
-        85854121
+        85854121,
+        85937695,
+        85872721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +57,20 @@
             "neighbourhood_id":85854121,
             "region_id":85688671,
             "venue_id":857570415
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857570415
         }
     ],
     "wof:id":857570415,
-    "wof:lastmodified":1466480369,
+    "wof:lastmodified":1491893444,
     "wof:name":"Star of Sea Early Learning Ctr",
-    "wof:parent_id":85854121,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

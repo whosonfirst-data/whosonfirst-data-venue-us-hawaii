@@ -2,9 +2,14 @@
   "id": 857626675,
   "type": "Feature",
   "properties": {
+    "addr:full":"6079 Puapake St Kapolei HI 96707",
+    "addr:housenumber":"6079",
+    "addr:postcode":"96707",
+    "addr:street":"Puapake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.093705,21.363625,-158.093705,21.363625",
     "geom:latitude":21.363625,
     "geom:longitude":-158.093705,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -40,6 +46,7 @@
     "wof:geomhash":"a9f48c86372eaf8a9fa5fe0e017ca2ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857626675,
-    "wof:lastmodified":1466480830,
+    "wof:lastmodified":1491935477,
     "wof:name":"Chinese Home Day Care",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857632609,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Dillingham Blvd Honolulu HI 96817",
+    "addr:housenumber":"735",
+    "addr:postcode":"96817",
+    "addr:street":"Dillingham Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.869978,21.320187,-157.869978,21.320187",
     "geom:latitude":21.320187,
     "geom:longitude":-157.869978,
@@ -36,7 +41,9 @@
         85633793,
         85937601,
         102085417,
-        85866917
+        85866917,
+        85872723,
+        85827209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,28 @@
             "neighbourhood_id":85866917,
             "region_id":85688671,
             "venue_id":857632609
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857632609
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857632609
         }
     ],
     "wof:id":857632609,
-    "wof:lastmodified":1466480959,
+    "wof:lastmodified":1491903455,
     "wof:name":"Cutter Dodge Chrysler Jeep",
-    "wof:parent_id":85866917,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857656569,
   "type": "Feature",
   "properties": {
+    "addr:full":"4211 Waialae Ave Honolulu HI 96816",
+    "addr:housenumber":"4211",
+    "addr:postcode":"96816",
+    "addr:street":"Waialae Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.784771,21.278289,-157.784771,21.278289",
     "geom:latitude":21.278289,
     "geom:longitude":-157.784771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4211 Waialae Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85854121
     ],
+    "wof:brand_id":1125151361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XFlYMgCp0QqnsUpWmKesH_21.278289_-157.784771@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205748,
-    "wof:geomhash":"00dcb81455135e3c07961a27f7fadbe7",
+    "wof:geomhash":"69ff241a91c445d401340426e042d74d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857656569,
-    "wof:lastmodified":1466481355,
+    "wof:lastmodified":1510696781,
     "wof:name":"Godiva",
     "wof:parent_id":85854121,
     "wof:placetype":"venue",

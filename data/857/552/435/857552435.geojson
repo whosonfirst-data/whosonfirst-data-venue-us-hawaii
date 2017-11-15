@@ -2,14 +2,20 @@
   "id": 857552435,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 Kaahumanu Ave Kahului HI 96732",
+    "addr:housenumber":"450",
+    "addr:postcode":"96732",
+    "addr:street":"Kaahumanu Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.479008,20.88889,-156.479008,20.88889",
     "geom:latitude":20.88889,
     "geom:longitude":-156.479008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"450 Kaahumanu Ave",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6klaEmQJBNVr6Sw5gyNzIP_20.888890_-156.479008@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202979,
-    "wof:geomhash":"65f25d7d7d649950dee32e951dd6c928",
+    "wof:geomhash":"a7ec6d04d3492fd33b4ff44fc3688bb5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857552435,
-    "wof:lastmodified":1466480182,
+    "wof:lastmodified":1510694095,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

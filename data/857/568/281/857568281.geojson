@@ -2,14 +2,20 @@
   "id": 857568281,
   "type": "Feature",
   "properties": {
+    "addr:full":"848 Kilani Ave Wahiawa HI 96786",
+    "addr:housenumber":"848",
+    "addr:postcode":"96786",
+    "addr:street":"Kilani Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.026953,21.499151,-158.026953,21.499151",
     "geom:latitude":21.499151,
     "geom:longitude":-158.026953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"848 Kilani Ave",
     "sg:city":"Wahiawa",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85890125,
         102085417
     ],
+    "wof:brand_id":1125155941,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mJRtwyNj3CpFajCclcbNO_21.499151_-158.026953@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203320,
-    "wof:geomhash":"2363771d1edea86a23e8e11041fb8e6f",
+    "wof:geomhash":"5d550df7beb4b81846f1627048d58082",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857568281,
-    "wof:lastmodified":1466480350,
+    "wof:lastmodified":1510699783,
     "wof:name":"Just Hair",
     "wof:parent_id":85890125,
     "wof:placetype":"venue",

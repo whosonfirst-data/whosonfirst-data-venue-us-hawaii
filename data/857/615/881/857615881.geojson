@@ -2,9 +2,14 @@
   "id": 857615881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1264 Makakilo Dr Kapolei HI 96707",
+    "addr:housenumber":"1264",
+    "addr:postcode":"96707",
+    "addr:street":"Makakilo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.084042,21.367144,-158.084042,21.367144",
     "geom:latitude":21.367144,
     "geom:longitude":-158.084042,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9c321e9cfcf576f53476b5ff4b130ea0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857615881,
-    "wof:lastmodified":1466480771,
+    "wof:lastmodified":1491935479,
     "wof:name":"Palehua Nani Aoao",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

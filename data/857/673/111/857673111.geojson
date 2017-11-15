@@ -2,14 +2,20 @@
   "id": 857673111,
   "type": "Feature",
   "properties": {
+    "addr:full":"80 Pauahi St Hilo HI 96720",
+    "addr:housenumber":"80",
+    "addr:postcode":"96720",
+    "addr:street":"Pauahi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.07862,19.722308,-155.07862,19.722308",
     "geom:latitude":19.722308,
     "geom:longitude":-155.07862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"80 Pauahi St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z8sd9Biz9ki4BEQoU5N5T_19.722308_-155.078620@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206456,
-    "wof:geomhash":"99b553703bfa9740f0828a2fb520b01b",
+    "wof:geomhash":"74bdbe51b389889d8ca1cb0cb1f2869c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857673111,
-    "wof:lastmodified":1466481498,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

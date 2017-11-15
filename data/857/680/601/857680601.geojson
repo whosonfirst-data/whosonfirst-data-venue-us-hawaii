@@ -2,14 +2,20 @@
   "id": 857680601,
   "type": "Feature",
   "properties": {
+    "addr:full":"66-197 Kamehameha Hwy Haleiwa HI 96712",
+    "addr:housenumber":"66-197",
+    "addr:postcode":"96712",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.103093,21.588287,-158.103093,21.588287",
     "geom:latitude":21.588287,
     "geom:longitude":-158.103093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"66-197 Kamehameha Hwy",
     "sg:city":"Haleiwa",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85890121
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13LeWQeX89QquMv2ZOLdei_21.588287_-158.103093@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206749,
-    "wof:geomhash":"26bda0faeb032a25674cf460ea902ea5",
+    "wof:geomhash":"9c051863feb9b81245e14e172ff8ef63",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680601,
-    "wof:lastmodified":1466481763,
+    "wof:lastmodified":1510695976,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85890121,
     "wof:placetype":"venue",

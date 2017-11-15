@@ -2,14 +2,20 @@
   "id": 857602723,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Kokee Pl Honolulu HI 96825",
+    "addr:housenumber":"92",
+    "addr:postcode":"96825",
+    "addr:street":"Kokee Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.709772,21.265924,-157.709772,21.265924",
     "geom:latitude":21.265924,
     "geom:longitude":-157.709772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"92 Kokee Pl",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85842893
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47TMmi1QhJwp5rlmbsJP81_21.265924_-157.709772@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204042,
-    "wof:geomhash":"ecba11c91482a7fbd67147eb57c53d15",
+    "wof:geomhash":"9bd3abc0f43d79ef9fa54d4e50213d45",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857602723,
-    "wof:lastmodified":1466480637,
+    "wof:lastmodified":1510694618,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857677579,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"660",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.955002,21.679168,-157.955002,21.679168",
     "geom:latitude":21.679168,
     "geom:longitude":-157.955002,
@@ -37,7 +42,12 @@
     ],
     "sg:website":"www.bobbybensoncenter.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IXzTzWl1rhqf1olNOWgrL_21.679168_-157.955002@1294088405"
@@ -45,11 +55,19 @@
     "wof:country":"US",
     "wof:created":1464206636,
     "wof:geomhash":"dde0b7241a9186b22e4a9a0e47be8c6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857677579
+        }
+    ],
     "wof:id":857677579,
-    "wof:lastmodified":1466481652,
+    "wof:lastmodified":1491935901,
     "wof:name":"Bobby Benson Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

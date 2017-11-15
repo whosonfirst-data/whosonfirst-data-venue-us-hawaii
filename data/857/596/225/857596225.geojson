@@ -2,14 +2,20 @@
   "id": 857596225,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 Silva St Hilo HI 96720",
+    "addr:housenumber":"261",
+    "addr:postcode":"96720",
+    "addr:street":"Silva St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.054355,19.72326,-155.054355,19.72326",
     "geom:latitude":19.72326,
     "geom:longitude":-155.054355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"261 Silva St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125154587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QARGGgVIqCzBFp0HH7RU4_19.723260_-155.054355@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203896,
-    "wof:geomhash":"b705b22fef465ad430ce101b5a739622",
+    "wof:geomhash":"3897cc5a2f3cf1b00a106474e77e6d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":857596225,
-    "wof:lastmodified":1466480546,
+    "wof:lastmodified":1510613339,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857680995,
   "type": "Feature",
   "properties": {
+    "addr:full":"55-510 Kamehameha Hwy Laie HI 96762",
+    "addr:housenumber":"55-510",
+    "addr:postcode":"96762",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.921318,21.647076,-157.921318,21.647076",
     "geom:latitude":21.647076,
     "geom:longitude":-157.921318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55-510 Kamehameha Hwy",
     "sg:city":"Laie",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85890543
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fYD6HGsrm4MLtg1OqEYcr_21.647076_-157.921318@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206764,
-    "wof:geomhash":"6ca8ff33fcf46d2b1c003d0bf2002210",
+    "wof:geomhash":"4a3f809a777339d7d0312b20af1c1abc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680995,
-    "wof:lastmodified":1466481771,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85890543,
     "wof:placetype":"venue",

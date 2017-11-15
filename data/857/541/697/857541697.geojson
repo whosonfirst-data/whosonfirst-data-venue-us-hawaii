@@ -2,14 +2,20 @@
   "id": 857541697,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Kuahao Pl Pearl City HI 96782",
+    "addr:housenumber":"710",
+    "addr:postcode":"96782",
+    "addr:street":"Kuahao Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.955674,21.39237,-157.955674,21.39237",
     "geom:latitude":21.39237,
     "geom:longitude":-157.955674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Kuahao Pl",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125159765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XGxMzKe5I4ChYK2zqkiXh_21.392370_-157.955674@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202769,
-    "wof:geomhash":"66fc70f242e3f1cedf6ffb3f04da6ba5",
+    "wof:geomhash":"394622e720aa5f267ea2833da4e31717",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857541697,
-    "wof:lastmodified":1466480103,
+    "wof:lastmodified":1510697202,
     "wof:name":"A-American Self Storage",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

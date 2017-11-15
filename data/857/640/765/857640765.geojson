@@ -2,14 +2,20 @@
   "id": 857640765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 S King St Honolulu HI 96814",
+    "addr:housenumber":"1350",
+    "addr:postcode":"96814",
+    "addr:street":"S King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.841677,21.299071,-157.841677,21.299071",
     "geom:latitude":21.299071,
     "geom:longitude":-157.841677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1350 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125154471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C2WBfCLWzbgb5zA5NUHw0_21.299071_-157.841677@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205054,
-    "wof:geomhash":"81397f3b7b7e309bd9ddf2be41c222ab",
+    "wof:geomhash":"e388c56e20417367ed7e6680d41c35f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857640765,
-    "wof:lastmodified":1466481042,
+    "wof:lastmodified":1510699499,
     "wof:name":"RBC Mortgage Co",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

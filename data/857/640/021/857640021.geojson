@@ -2,9 +2,14 @@
   "id": 857640021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1549 Colburn St Honolulu HI 96817",
+    "addr:housenumber":"1549",
+    "addr:postcode":"96817",
+    "addr:street":"Colburn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.87635,21.323254,-157.87635,21.323254",
     "geom:latitude":21.323254,
     "geom:longitude":-157.87635,
@@ -28,7 +33,14 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872723,
+        85827209
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TKf44UKDuOt3ymxvZGqpB_21.323254_-157.876350@1294088405"
@@ -36,11 +48,28 @@
     "wof:country":"US",
     "wof:created":1464205019,
     "wof:geomhash":"6d82feb9d5813b3b66de4450e3474547",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872723,
+            "region_id":85688671,
+            "venue_id":857640021
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85827209,
+            "region_id":85688671,
+            "venue_id":857640021
+        }
+    ],
     "wof:id":857640021,
-    "wof:lastmodified":1466480890,
+    "wof:lastmodified":1491903458,
     "wof:name":"B & T Autosports",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

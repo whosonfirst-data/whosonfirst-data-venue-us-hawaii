@@ -2,9 +2,14 @@
   "id": 857617819,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"701",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.956059,21.68012,-157.956059,21.68012",
     "geom:latitude":21.68012,
     "geom:longitude":-157.956059,
@@ -31,8 +36,10 @@
     "wof:belongsto":[
         85688671,
         85633793,
-        85890125,
-        102085417
+        85890305,
+        102085417,
+        85890439,
+        85890125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +52,29 @@
         {
             "country_id":85633793,
             "county_id":102085417,
+            "neighbourhood_id":85890305,
+            "region_id":85688671,
+            "venue_id":857617819
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857617819
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
             "neighbourhood_id":85890125,
             "region_id":85688671,
             "venue_id":857617819
         }
     ],
     "wof:id":857617819,
-    "wof:lastmodified":1466480813,
+    "wof:lastmodified":1491935899,
     "wof:name":"Kahuku Wastewater Treatment",
-    "wof:parent_id":85890125,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857534875,
   "type": "Feature",
   "properties": {
+    "addr:full":"4968 Queen Kaahumanu Hwy Kailua Kona HI 96740",
+    "addr:housenumber":"4968",
+    "addr:postcode":"96740",
+    "addr:street":"Queen Kaahumanu Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.9915,19.645332,-155.9915,19.645332",
     "geom:latitude":19.645332,
     "geom:longitude":-155.9915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4968 Queen Kaahumanu Hwy",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085433,
         85890251
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1snLjXBAPlEB3FngSwppOq_19.645332_-155.991500@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202636,
-    "wof:geomhash":"fca5cb742f7430d63b843a97fa47dc40",
+    "wof:geomhash":"92f48641e4b3ebfde86d6328979d4445",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857534875,
-    "wof:lastmodified":1466480117,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85890251,
     "wof:placetype":"venue",

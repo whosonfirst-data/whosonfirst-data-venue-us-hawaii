@@ -2,14 +2,20 @@
   "id": 857636299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 Kamehameha Hwy Kaneohe HI 96744",
+    "addr:housenumber":"1117",
+    "addr:postcode":"96744",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.801317,21.416764,-157.801317,21.416764",
     "geom:latitude":21.416764,
     "geom:longitude":-157.801317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1117 Kamehameha Hwy",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85824543
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XskdJzZ1lh5Fr2NaNnPKv_21.416764_-157.801317@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204879,
-    "wof:geomhash":"81d2547d75e9ee1b0f013e1cad469694",
+    "wof:geomhash":"a74741c18cbfcd41de0983774f169785",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857636299,
-    "wof:lastmodified":1466480924,
+    "wof:lastmodified":1510602444,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85824543,
     "wof:placetype":"venue",

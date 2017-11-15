@@ -2,9 +2,14 @@
   "id": 857679141,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"700",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.956059,21.68012,-157.956059,21.68012",
     "geom:latitude":21.68012,
     "geom:longitude":-157.956059,
@@ -30,8 +35,10 @@
     "wof:belongsto":[
         85688671,
         85633793,
-        85890125,
-        102085417
+        85890305,
+        102085417,
+        85890439,
+        85890125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,15 +51,29 @@
         {
             "country_id":85633793,
             "county_id":102085417,
+            "neighbourhood_id":85890305,
+            "region_id":85688671,
+            "venue_id":857679141
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857679141
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
             "neighbourhood_id":85890125,
             "region_id":85688671,
             "venue_id":857679141
         }
     ],
     "wof:id":857679141,
-    "wof:lastmodified":1466481626,
+    "wof:lastmodified":1491935899,
     "wof:name":"Kahuku Clinic",
-    "wof:parent_id":85890125,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

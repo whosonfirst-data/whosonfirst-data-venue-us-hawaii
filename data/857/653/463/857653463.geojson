@@ -2,14 +2,20 @@
   "id": 857653463,
   "type": "Feature",
   "properties": {
+    "addr:full":"56 Kamehameha Hwy Kaneohe HI 96744",
+    "addr:housenumber":"56",
+    "addr:postcode":"96744",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.78117,21.375276,-157.78117,21.375276",
     "geom:latitude":21.375276,
     "geom:longitude":-157.78117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"56 Kamehameha Hwy",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85890379
     ],
+    "wof:brand_id":1125158843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hrQt6g8UzuSjP4mV32fOL_21.375276_-157.781170@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205610,
-    "wof:geomhash":"73094e43122b444ac85998eea40ad18e",
+    "wof:geomhash":"5522f98bbf205b5eda465ae6565cb448",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857653463,
-    "wof:lastmodified":1466481219,
+    "wof:lastmodified":1510697513,
     "wof:name":"Pretzelmaker",
     "wof:parent_id":85890379,
     "wof:placetype":"venue",

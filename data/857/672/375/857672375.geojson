@@ -2,14 +2,20 @@
   "id": 857672375,
   "type": "Feature",
   "properties": {
+    "addr:full":"1130 N Nimitz Hwy Honolulu HI 96817",
+    "addr:housenumber":"1130",
+    "addr:postcode":"96817",
+    "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.875826,21.318172,-157.875826,21.318172",
     "geom:latitude":21.318172,
     "geom:longitude":-157.875826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1130 N Nimitz Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85827209
     ],
+    "wof:brand_id":420575389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74IeZ0wWTqH7RCET3ONKTu_21.318172_-157.875826@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206430,
-    "wof:geomhash":"8caf85d9f22c97b127d6a1c908c5300f",
+    "wof:geomhash":"0fc721743342f3e6f5c641378839fd91",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857672375,
-    "wof:lastmodified":1466481552,
+    "wof:lastmodified":1510607669,
     "wof:name":"Fastsigns",
     "wof:parent_id":85827209,
     "wof:placetype":"venue",

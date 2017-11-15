@@ -2,14 +2,20 @@
   "id": 857558265,
   "type": "Feature",
   "properties": {
+    "addr:full":"4505 Puolo Rd Hanapepe HI 96716",
+    "addr:housenumber":"4505",
+    "addr:postcode":"96716",
+    "addr:street":"Puolo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.591016,21.909464,-159.591016,21.909464",
     "geom:latitude":21.909464,
     "geom:longitude":-159.591016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4505 Puolo Rd",
     "sg:city":"Hanapepe",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890073,
         102085457
     ],
+    "wof:brand_id":1125153109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05vmunyV6RJd1Q0CTbyt3p_21.909464_-159.591016@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203113,
-    "wof:geomhash":"5d0a6d2ba6f6859763ae9d7d6b09db54",
+    "wof:geomhash":"b8b000037c01fb35a88b3e3527979c5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857558265,
-    "wof:lastmodified":1466480263,
+    "wof:lastmodified":1510695986,
     "wof:name":"Lunch Box",
     "wof:parent_id":85890073,
     "wof:placetype":"venue",

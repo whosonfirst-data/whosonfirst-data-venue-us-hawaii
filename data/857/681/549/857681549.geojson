@@ -2,14 +2,20 @@
   "id": 857681549,
   "type": "Feature",
   "properties": {
+    "addr:full":"3571 Waialae Ave Honolulu HI 96816",
+    "addr:housenumber":"3571",
+    "addr:postcode":"96816",
+    "addr:street":"Waialae Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.799682,21.282895,-157.799682,21.282895",
     "geom:latitude":21.282895,
     "geom:longitude":-157.799682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3571 Waialae Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85827721
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rDOxaY5wFkRDd5IJ0bdr4_21.282895_-157.799682@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206788,
-    "wof:geomhash":"85e43fac056173437db524ce97fc5ee2",
+    "wof:geomhash":"3e8731f0dff3889c385871297b6d61da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681549,
-    "wof:lastmodified":1466481758,
+    "wof:lastmodified":1510604088,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":85827721,
     "wof:placetype":"venue",

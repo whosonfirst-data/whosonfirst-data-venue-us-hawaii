@@ -2,14 +2,20 @@
   "id": 857681639,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 Ahua St Honolulu HI 96819",
+    "addr:housenumber":"970",
+    "addr:postcode":"96819",
+    "addr:street":"Ahua St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.895808,21.343131,-157.895808,21.343131",
     "geom:latitude":21.343131,
     "geom:longitude":-157.895808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"970 Ahua St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tVClkpDPP5FK3q3aaFVgT_21.343131_-157.895808@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206791,
-    "wof:geomhash":"91f6d29c4240c654876adaba87bae669",
+    "wof:geomhash":"c36f6bf68ad4bb068c83f2405c75aec7",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857681639,
-    "wof:lastmodified":1466481761,
+    "wof:lastmodified":1510695976,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

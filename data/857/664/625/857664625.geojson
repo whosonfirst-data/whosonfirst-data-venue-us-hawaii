@@ -2,9 +2,14 @@
   "id": 857664625,
   "type": "Feature",
   "properties": {
+    "addr:full":"526 N School St Honolulu HI 96817",
+    "addr:housenumber":"526",
+    "addr:postcode":"96817",
+    "addr:street":"N School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.859975,21.321592,-157.859975,21.321592",
     "geom:latitude":21.321592,
     "geom:longitude":-157.859975,
@@ -28,7 +33,14 @@
         "sewing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919,
+        85866917
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7do1aA58TnLAt6oVHVNpVh_21.321592_-157.859975@1294088405"
@@ -36,11 +48,28 @@
     "wof:country":"US",
     "wof:created":1464206109,
     "wof:geomhash":"ef9f36ecca5665c29199654cae081d30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857664625
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857664625
+        }
+    ],
     "wof:id":857664625,
-    "wof:lastmodified":1466481421,
+    "wof:lastmodified":1491904894,
     "wof:name":"T & L Mobile Sewing Mach Rpr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857565991,
   "type": "Feature",
   "properties": {
+    "addr:full":"2405 Kalakaua Ave Honolulu HI 96815",
+    "addr:housenumber":"2405",
+    "addr:postcode":"96815",
+    "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.825812,21.276177,-157.825812,21.276177",
     "geom:latitude":21.276177,
     "geom:longitude":-157.825812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2405 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85854131
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BZH970gUcILDslTgxecCU_21.276177_-157.825812@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203272,
-    "wof:geomhash":"2d30a4fcaa3a4b35a8328d028b59cb19",
+    "wof:geomhash":"08465ec358cad603cc5b9ab279a1c420",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857565991,
-    "wof:lastmodified":1466480350,
+    "wof:lastmodified":1510693822,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857672179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1363 Hunekai St Kapolei HI 96707",
+    "addr:housenumber":"1363",
+    "addr:postcode":"96707",
+    "addr:street":"Hunekai St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.08158,21.367134,-158.08158,21.367134",
     "geom:latitude":21.367134,
     "geom:longitude":-158.08158,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -40,6 +46,7 @@
     "wof:geomhash":"120268a66f1d5351e0f6a1eab5fbceaf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857672179,
-    "wof:lastmodified":1466481512,
+    "wof:lastmodified":1491935479,
     "wof:name":"Julitas LLC",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

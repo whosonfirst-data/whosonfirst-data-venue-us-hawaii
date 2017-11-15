@@ -2,9 +2,14 @@
   "id": 857668893,
   "type": "Feature",
   "properties": {
+    "addr:full":"6028 Puapake St Kapolei HI 96707",
+    "addr:housenumber":"6028",
+    "addr:postcode":"96707",
+    "addr:street":"Puapake St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.093193,21.362147,-158.093193,21.362147",
     "geom:latitude":21.362147,
     "geom:longitude":-158.093193,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a9748eaa99b9d90d925abf6ed4c3b4f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857668893,
-    "wof:lastmodified":1466481625,
+    "wof:lastmodified":1491935485,
     "wof:name":"Douglas Saulsbury",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

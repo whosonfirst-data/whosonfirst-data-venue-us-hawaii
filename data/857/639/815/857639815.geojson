@@ -2,14 +2,20 @@
   "id": 857639815,
   "type": "Feature",
   "properties": {
+    "addr:full":"290 Kauhi St Kapolei HI 96707",
+    "addr:housenumber":"290",
+    "addr:postcode":"96707",
+    "addr:street":"Kauhi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.097173,21.308718,-158.097173,21.308718",
     "geom:latitude":21.308718,
     "geom:longitude":-158.097173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"290 Kauhi St",
     "sg:city":"Kapolei",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85865243,
         102085417
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CS0SRfC9yesn5rdTIsLsK_21.308718_-158.097173@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205012,
-    "wof:geomhash":"8e0f71b1fe48a72662c25a41cf441781",
+    "wof:geomhash":"1d24de7b7eb7453ad76899dc674e3e50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857639815,
-    "wof:lastmodified":1466481049,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85865243,
     "wof:placetype":"venue",

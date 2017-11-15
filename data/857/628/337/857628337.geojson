@@ -2,14 +2,20 @@
   "id": 857628337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1112 Pensacola St Honolulu HI 96814",
+    "addr:housenumber":"1112",
+    "addr:postcode":"96814",
+    "addr:street":"Pensacola St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.8454,21.301474,-157.8454,21.301474",
     "geom:latitude":21.301474,
     "geom:longitude":-157.8454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1112 Pensacola St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85831995
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lrKjhwRlmj9kZFj7LRQoj_21.301474_-157.845400@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204630,
-    "wof:geomhash":"c076a4aa3cb3f66d3b74ec151acd82c9",
+    "wof:geomhash":"d654c7087f58d438fbd0e939a53b36ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857628337,
-    "wof:lastmodified":1466480818,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",

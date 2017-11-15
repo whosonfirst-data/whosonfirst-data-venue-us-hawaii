@@ -2,14 +2,20 @@
   "id": 857680541,
   "type": "Feature",
   "properties": {
+    "addr:full":"98-150 Kaonohi St Aiea HI 96701",
+    "addr:housenumber":"98-150",
+    "addr:postcode":"96701",
+    "addr:street":"Kaonohi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.945343,21.384713,-157.945343,21.384713",
     "geom:latitude":21.384713,
     "geom:longitude":-157.945343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"98-150 Kaonohi St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50vFcs223chngPBgs52vtG_21.384713_-157.945343@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206747,
-    "wof:geomhash":"88dcb239fdacbcffc23e0326e377c158",
+    "wof:geomhash":"36162048279243c60925b03a3625d33f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857680541,
-    "wof:lastmodified":1466481760,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

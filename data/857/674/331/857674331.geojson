@@ -2,9 +2,14 @@
   "id": 857674331,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 Pueo St Honolulu HI 96816",
+    "addr:housenumber":"1021",
+    "addr:postcode":"96816",
+    "addr:street":"Pueo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.782949,21.270646,-157.782949,21.270646",
     "geom:latitude":21.270646,
     "geom:longitude":-157.782949,
@@ -32,6 +37,7 @@
         85633793,
         85937601,
         102085417,
+        85854121,
         85827715
     ],
     "wof:breaches":[],
@@ -46,15 +52,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":85854121,
+            "region_id":85688671,
+            "venue_id":857674331
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85827715,
             "region_id":85688671,
             "venue_id":857674331
         }
     ],
     "wof:id":857674331,
-    "wof:lastmodified":1466481555,
+    "wof:lastmodified":1491893451,
     "wof:name":"KIKA Inc",
-    "wof:parent_id":85827715,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

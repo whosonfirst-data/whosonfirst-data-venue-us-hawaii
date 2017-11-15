@@ -2,14 +2,20 @@
   "id": 857658925,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Kaneohe Bay Dr Kailua HI 96734",
+    "addr:housenumber":"70",
+    "addr:postcode":"96734",
+    "addr:street":"Kaneohe Bay Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.752049,21.425338,-157.752049,21.425338",
     "geom:latitude":21.425338,
     "geom:longitude":-157.752049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 Kaneohe Bay Dr",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85827847
     ],
+    "wof:brand_id":1125155219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hm1gKFXHk6cQ9TFk7r7Wd_21.425338_-157.752049@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205859,
-    "wof:geomhash":"10525705593cd77488ea0c771ed36484",
+    "wof:geomhash":"5c1c57ac4fa234e544b973039cec3a54",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857658925,
-    "wof:lastmodified":1466481448,
+    "wof:lastmodified":1510695371,
     "wof:name":"Asplundh Tree Expert Co",
     "wof:parent_id":85827847,
     "wof:placetype":"venue",

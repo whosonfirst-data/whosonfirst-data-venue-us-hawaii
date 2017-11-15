@@ -2,9 +2,14 @@
   "id": 857588237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1243 Panana St Kapolei HI 96707",
+    "addr:housenumber":"1243",
+    "addr:postcode":"96707",
+    "addr:street":"Panana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.083543,21.35689,-158.083543,21.35689",
     "geom:latitude":21.35689,
     "geom:longitude":-158.083543,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -44,6 +50,7 @@
     "wof:geomhash":"e9edd9c9367b47f04a8ca9b7920bdce1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857588237,
-    "wof:lastmodified":1466480474,
+    "wof:lastmodified":1491935484,
     "wof:name":"Bates of Hawaii",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

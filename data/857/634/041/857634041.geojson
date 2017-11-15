@@ -2,9 +2,14 @@
   "id": 857634041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1099 Alakea St Honolulu HI 96813",
+    "addr:housenumber":"1099",
+    "addr:postcode":"96813",
+    "addr:street":"Alakea St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860936,21.307747,-157.860936,21.307747",
     "geom:latitude":21.307747,
     "geom:longitude":-157.860936,
@@ -38,7 +43,8 @@
         85633793,
         85937601,
         102085417,
-        85866919
+        85866919,
+        85873549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,20 @@
             "neighbourhood_id":85866919,
             "region_id":85688671,
             "venue_id":857634041
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85873549,
+            "region_id":85688671,
+            "venue_id":857634041
         }
     ],
     "wof:id":857634041,
-    "wof:lastmodified":1466480860,
+    "wof:lastmodified":1491904902,
     "wof:name":"Alii Mini Mart",
-    "wof:parent_id":85866919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

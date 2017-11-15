@@ -2,14 +2,20 @@
   "id": 857636463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1357 Kapiolani Blvd Honolulu HI 96814",
+    "addr:housenumber":"1357",
+    "addr:postcode":"96814",
+    "addr:street":"Kapiolani Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.845708,21.294542,-157.845708,21.294542",
     "geom:latitude":21.294542,
     "geom:longitude":-157.845708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1357 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125154865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iZSMoXrHQs95UGuhu0s3Q_21.294542_-157.845708@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204885,
-    "wof:geomhash":"202629e406e410c9fa8e56b23690e6da",
+    "wof:geomhash":"f2e573df5d59e088ddf1ef38108e9ab0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857636463,
-    "wof:lastmodified":1466480958,
+    "wof:lastmodified":1510695973,
     "wof:name":"Cigna",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

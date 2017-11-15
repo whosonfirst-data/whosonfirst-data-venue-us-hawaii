@@ -2,9 +2,14 @@
   "id": 857668391,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 N Nimitz Hwy Honolulu HI 96817",
+    "addr:housenumber":"499",
+    "addr:postcode":"96817",
+    "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.867957,21.313741,-157.867957,21.313741",
     "geom:latitude":21.313741,
     "geom:longitude":-157.867957,
@@ -35,6 +40,7 @@
         85633793,
         85937601,
         102085417,
+        85866917,
         85827209
     ],
     "wof:breaches":[],
@@ -49,15 +55,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":85866917,
+            "region_id":85688671,
+            "venue_id":857668391
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85827209,
             "region_id":85688671,
             "venue_id":857668391
         }
     ],
     "wof:id":857668391,
-    "wof:lastmodified":1466481523,
+    "wof:lastmodified":1491903459,
     "wof:name":"Petrospect Inc",
-    "wof:parent_id":85827209,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 857602709,
   "type": "Feature",
   "properties": {
+    "addr:full":"1461 Dillingham Blvd Honolulu HI 96817",
+    "addr:housenumber":"1461",
+    "addr:postcode":"96817",
+    "addr:street":"Dillingham Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.877199,21.324827,-157.877199,21.324827",
     "geom:latitude":21.324827,
     "geom:longitude":-157.877199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1461 Dillingham Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85872723
     ],
+    "wof:brand_id":420575359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6snDofDLpO3gvOZiBiJ855_21.324827_-157.877199@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204042,
-    "wof:geomhash":"20ace6719bc1a7e7a567d9c37520ec10",
+    "wof:geomhash":"2ab81422b0932a3a8e2c88b36059cf70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857602709,
-    "wof:lastmodified":1466480636,
+    "wof:lastmodified":1510602456,
     "wof:name":"Sizzler",
     "wof:parent_id":85872723,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857530483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5600 Maiau St Kailua Kona HI 96740",
+    "addr:housenumber":"",
+    "addr:postcode":"5600;96740",
+    "addr:street":"Maiau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.018711,19.686817,-156.018711,19.686817",
     "geom:latitude":19.686817,
     "geom:longitude":-156.018711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5600 Maiau St",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085433,
         85890335
     ],
+    "wof:brand_id":1125156943,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ORxKVSpbyNo7KlLoAgoHM_19.686817_-156.018711@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202554,
-    "wof:geomhash":"3ae02a6bcbb4cefe55787c5a0d5e5ee9",
+    "wof:geomhash":"db168e49ec78c910ea7e2eec55fcd3d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857530483,
-    "wof:lastmodified":1466479998,
+    "wof:lastmodified":1510613429,
     "wof:name":"Costco Wholesale",
     "wof:parent_id":85890335,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857665321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1835 10th Ave Honolulu HI 96816",
+    "addr:housenumber":"1835",
+    "addr:postcode":"96816",
+    "addr:street":"10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.795155,21.294399,-157.795155,21.294399",
     "geom:latitude":21.294399,
     "geom:longitude":-157.795155,
@@ -32,6 +37,8 @@
         85633793,
         85937601,
         102085417,
+        420518465,
+        420518469,
         85867469
     ],
     "wof:breaches":[],
@@ -46,15 +53,31 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":420518465,
+            "region_id":85688671,
+            "venue_id":857665321
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":420518469,
+            "region_id":85688671,
+            "venue_id":857665321
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85867469,
             "region_id":85688671,
             "venue_id":857665321
         }
     ],
     "wof:id":857665321,
-    "wof:lastmodified":1466481393,
+    "wof:lastmodified":1491914691,
     "wof:name":"Healthy Options Inc",
-    "wof:parent_id":85867469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

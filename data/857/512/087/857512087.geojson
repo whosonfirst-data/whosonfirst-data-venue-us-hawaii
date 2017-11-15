@@ -2,14 +2,20 @@
   "id": 857512087,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Sand Island Access Rd Honolulu HI 96819",
+    "addr:housenumber":"330",
+    "addr:postcode":"96819",
+    "addr:street":"Sand Island Access Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.887955,21.32745,-157.887955,21.32745",
     "geom:latitude":21.32745,
     "geom:longitude":-157.887955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Sand Island Access Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85827737
     ],
+    "wof:brand_id":1125157281,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gYAdZskVg82a52X4Jo2Al_21.327450_-157.887955@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202187,
-    "wof:geomhash":"aaa9641c54ea17a6f032ec81c47f7c9a",
+    "wof:geomhash":"8280c8e204d74159a624e1bf11dad8d8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857512087,
-    "wof:lastmodified":1466481722,
+    "wof:lastmodified":1510696752,
     "wof:name":"Trane Co",
     "wof:parent_id":85827737,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857668745,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 Alamaha St Kahului HI 96732",
+    "addr:housenumber":"190",
+    "addr:postcode":"96732",
+    "addr:street":"Alamaha St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.462631,20.88969,-156.462631,20.88969",
     "geom:latitude":20.88969,
     "geom:longitude":-156.462631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 Alamaha St",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TXIiXOMeXUkm2CjP4uR2E_20.889690_-156.462631@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206283,
-    "wof:geomhash":"7380da0078e5c1b35bff562370b2c8ff",
+    "wof:geomhash":"c4b13ab61b913d9b3e259b0fb0844c95",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857668745,
-    "wof:lastmodified":1466481595,
+    "wof:lastmodified":1510694979,
     "wof:name":"Shear Madness",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

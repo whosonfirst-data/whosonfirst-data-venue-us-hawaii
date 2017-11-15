@@ -2,9 +2,14 @@
   "id": 857675235,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Richards St Honolulu HI 96813",
+    "addr:housenumber":"900",
+    "addr:postcode":"96813",
+    "addr:street":"Richards St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860345,21.307012,-157.860345,21.307012",
     "geom:latitude":21.307012,
     "geom:longitude":-157.860345,
@@ -28,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85866919,
+        85873549
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YBLEn5qflkP1djZuDLJio_21.307012_-157.860345@1294088405"
@@ -36,11 +48,28 @@
     "wof:country":"US",
     "wof:created":1464206534,
     "wof:geomhash":"0bb08e2711a8426c57e2af4ae5eb1c6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85866919,
+            "region_id":85688671,
+            "venue_id":857675235
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85873549,
+            "region_id":85688671,
+            "venue_id":857675235
+        }
+    ],
     "wof:id":857675235,
-    "wof:lastmodified":1466481542,
+    "wof:lastmodified":1491904892,
     "wof:name":"HEI Capital Trust III",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

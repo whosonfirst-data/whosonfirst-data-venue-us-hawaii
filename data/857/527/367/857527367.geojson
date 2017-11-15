@@ -2,14 +2,20 @@
   "id": 857527367,
   "type": "Feature",
   "properties": {
+    "addr:full":"671 Farrington Hwy Waianae HI 96792",
+    "addr:housenumber":"671",
+    "addr:postcode":"96792",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.215917,21.469773,-158.215917,21.469773",
     "geom:latitude":21.469773,
     "geom:longitude":-158.215917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"671 Farrington Hwy",
     "sg:city":"Waianae",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85831991
     ],
+    "wof:brand_id":420574395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mKGchm9dzqYxTT96R2nR7_21.469773_-158.215917@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202492,
-    "wof:geomhash":"83ed56801d23a6f74f4a6c1bdfd3645c",
+    "wof:geomhash":"4c63d6a00c8cb6ef74d5204c5b0bdfe3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857527367,
-    "wof:lastmodified":1466479976,
+    "wof:lastmodified":1510604717,
     "wof:name":"Habitat For Humanity",
     "wof:parent_id":85831991,
     "wof:placetype":"venue",

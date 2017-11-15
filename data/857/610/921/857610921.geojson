@@ -2,14 +2,20 @@
   "id": 857610921,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 Kilani Ave Wahiawa HI 96786",
+    "addr:housenumber":"850",
+    "addr:postcode":"96786",
+    "addr:street":"Kilani Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.026972,21.499143,-158.026972,21.499143",
     "geom:latitude":21.499143,
     "geom:longitude":-158.026972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"850 Kilani Ave",
     "sg:city":"Wahiawa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85890125,
         102085417
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CJhJfWFc36Kcu2abwkVP6_21.499143_-158.026972@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204225,
-    "wof:geomhash":"a1906f442ede0eca6f518777137334fb",
+    "wof:geomhash":"a30b364332fc4044890e03a0b72a6469",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857610921,
-    "wof:lastmodified":1466480753,
+    "wof:lastmodified":1510613251,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":85890125,
     "wof:placetype":"venue",

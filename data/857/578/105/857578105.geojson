@@ -2,14 +2,20 @@
   "id": 857578105,
   "type": "Feature",
   "properties": {
+    "addr:full":"60 Farrington Hwy Waipahu HI 96797",
+    "addr:housenumber":"60",
+    "addr:postcode":"96797",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.985824,21.395616,-157.985824,21.395616",
     "geom:latitude":21.395616,
     "geom:longitude":-157.985824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"60 Farrington Hwy",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85812891
     ],
+    "wof:brand_id":1125157659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G46YAxOj6bMAWeAyKFREG_21.395616_-157.985824@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203512,
-    "wof:geomhash":"668af2ca9414c2d08f41bfbab62caaed",
+    "wof:geomhash":"3c88f967bee40a9165cff1b4b6348aa4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857578105,
-    "wof:lastmodified":1466480372,
+    "wof:lastmodified":1510695239,
     "wof:name":"Longs Drug Store",
     "wof:parent_id":85812891,
     "wof:placetype":"venue",

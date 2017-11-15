@@ -2,14 +2,20 @@
   "id": 857609123,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Papalaua St Lahaina HI 96761",
+    "addr:housenumber":"222",
+    "addr:postcode":"96761",
+    "addr:street":"Papalaua St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.681975,20.881549,-156.681975,20.881549",
     "geom:latitude":20.881549,
     "geom:longitude":-156.681975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 Papalaua St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085577,
         85890517
     ],
+    "wof:brand_id":1125152085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_083uPYLavvAHh27CbXBA5C_20.881549_-156.681975@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204190,
-    "wof:geomhash":"3f24ee4199ddfbce09555bbe8143be54",
+    "wof:geomhash":"519773a8dc18094a2c5dcfd626720952",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857609123,
-    "wof:lastmodified":1466480656,
+    "wof:lastmodified":1510695087,
     "wof:name":"Creative Cuts",
     "wof:parent_id":85890517,
     "wof:placetype":"venue",

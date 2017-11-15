@@ -2,14 +2,20 @@
   "id": 857551485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2124 Pauoa Rd Honolulu HI 96813",
+    "addr:housenumber":"2124",
+    "addr:postcode":"96813",
+    "addr:street":"Pauoa Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.847664,21.319117,-157.847664,21.319117",
     "geom:latitude":21.319117,
     "geom:longitude":-157.847664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2124 Pauoa Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85872713
     ],
+    "wof:brand_id":1125158243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oXnopy02ugvhZvhdbglYP_21.319117_-157.847664@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202961,
-    "wof:geomhash":"28c7d7260924df7e0d0e1d1ff2628360",
+    "wof:geomhash":"6df377742d5e6ca74a2908387b964c99",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857551485,
-    "wof:lastmodified":1466480189,
+    "wof:lastmodified":1510697793,
     "wof:name":"Blessed Sacrament Church",
     "wof:parent_id":85872713,
     "wof:placetype":"venue",

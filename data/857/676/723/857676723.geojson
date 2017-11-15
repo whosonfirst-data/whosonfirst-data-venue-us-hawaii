@@ -2,9 +2,14 @@
   "id": 857676723,
   "type": "Feature",
   "properties": {
+    "addr:full":"749 Lihau St Kapolei HI 96707",
+    "addr:housenumber":"749",
+    "addr:postcode":"96707",
+    "addr:street":"Lihau St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.087341,21.348482,-158.087341,21.348482",
     "geom:latitude":21.348482,
     "geom:longitude":-158.087341,
@@ -28,7 +33,10 @@
         85688671,
         85633793,
         85865243,
-        102085417
+        102085417,
+        102191575,
+        85937569,
+        85890075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +52,21 @@
             "neighbourhood_id":85865243,
             "region_id":85688671,
             "venue_id":857676723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937569,
+            "neighbourhood_id":85890075,
+            "region_id":85688671,
+            "venue_id":857676723
         }
     ],
     "wof:id":857676723,
-    "wof:lastmodified":1466481645,
+    "wof:lastmodified":1491935479,
     "wof:name":"Servicemens Life Insurance",
-    "wof:parent_id":85865243,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

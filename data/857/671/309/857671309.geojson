@@ -2,9 +2,14 @@
   "id": 857671309,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Ho'ina Pl Kapolei HI 96707",
+    "addr:housenumber":"112",
+    "addr:postcode":"96707",
+    "addr:street":"Ho'Ina Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.088619,21.355022,-158.088619,21.355022",
     "geom:latitude":21.355022,
     "geom:longitude":-158.088619,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -44,6 +50,7 @@
     "wof:geomhash":"1c90a5deef1ab200338590bc86c340d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857671309,
-    "wof:lastmodified":1466481533,
+    "wof:lastmodified":1491935485,
     "wof:name":"Galaxy Enterprises  LLC",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

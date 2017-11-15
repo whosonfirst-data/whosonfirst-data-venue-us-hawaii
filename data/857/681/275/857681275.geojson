@@ -2,14 +2,20 @@
   "id": 857681275,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 Ala Moana Blvd Honolulu HI 96814",
+    "addr:housenumber":"1050",
+    "addr:postcode":"96814",
+    "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.855875,21.294715,-157.855875,21.294715",
     "geom:latitude":21.294715,
     "geom:longitude":-157.855875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OLR3sPVGT6rxAGTu9At3R_21.294715_-157.855875@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206777,
-    "wof:geomhash":"7e172c2d87691a6008e9da8187d503c9",
+    "wof:geomhash":"86a86d8bd5a9209348bae895edaf94b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681275,
-    "wof:lastmodified":1466481699,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

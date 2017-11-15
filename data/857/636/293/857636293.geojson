@@ -2,14 +2,20 @@
   "id": 857636293,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Meheula Pkwy Mililani HI 96789",
+    "addr:housenumber":"790",
+    "addr:postcode":"96789",
+    "addr:street":"Meheula Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.021523,21.442474,-158.021523,21.442474",
     "geom:latitude":21.442474,
     "geom:longitude":-158.021523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"790 Meheula Pkwy",
     "sg:city":"Mililani",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85890587
     ],
+    "wof:brand_id":420575359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R1FcQuqHs37AT5muRwAFw_21.442474_-158.021523@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204879,
-    "wof:geomhash":"7c4ff11cc43200796f6491c85973ec92",
+    "wof:geomhash":"81a9510987b4f8b097d20d3b9f887665",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857636293,
-    "wof:lastmodified":1466480923,
+    "wof:lastmodified":1510602456,
     "wof:name":"Sizzler",
     "wof:parent_id":85890587,
     "wof:placetype":"venue",

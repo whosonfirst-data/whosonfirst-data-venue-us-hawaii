@@ -2,9 +2,14 @@
   "id": 857541131,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Kohea Pl Kapolei HI 96707",
+    "addr:housenumber":"108",
+    "addr:postcode":"96707",
+    "addr:street":"Kohea Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.087955,21.353728,-158.087955,21.353728",
     "geom:latitude":21.353728,
     "geom:longitude":-158.087955,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"5d7e823fec86467b51cdaddf997a8f38",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857541131,
-    "wof:lastmodified":1466480050,
+    "wof:lastmodified":1491935480,
     "wof:name":"Edna Lucas",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857633327,
   "type": "Feature",
   "properties": {
+    "addr:full":"5562 Lawehana St Kailua Kona HI 96740",
+    "addr:housenumber":"5562",
+    "addr:postcode":"96740",
+    "addr:street":"Lawehana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.018092,19.684957,-156.018092,19.684957",
     "geom:latitude":19.684957,
     "geom:longitude":-156.018092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5562 Lawehana St",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085433,
         85890335
     ],
+    "wof:brand_id":1125159765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CUZ2anm4VIeKBOgoAZGg4_19.684957_-156.018092@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204768,
-    "wof:geomhash":"830761bd7738c1f25b89eb708a59dfbe",
+    "wof:geomhash":"8978aa16d153e0feea797b6335b2d082",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857633327,
-    "wof:lastmodified":1466480913,
+    "wof:lastmodified":1510697202,
     "wof:name":"A-American Self Storage",
     "wof:parent_id":85890335,
     "wof:placetype":"venue",

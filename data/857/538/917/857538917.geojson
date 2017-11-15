@@ -2,14 +2,20 @@
   "id": 857538917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1327 Nuuanu Ave Honolulu HI 96817",
+    "addr:housenumber":"1327",
+    "addr:postcode":"96817",
+    "addr:street":"Nuuanu Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.858017,21.314075,-157.858017,21.314075",
     "geom:latitude":21.314075,
     "geom:longitude":-157.858017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1327 Nuuanu Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125156059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NfYLWGWiAYuIrPSIQbpTl_21.314075_-157.858017@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202716,
-    "wof:geomhash":"99c97774ec03c00f57a79b68a1ffdd03",
+    "wof:geomhash":"1e27ace2eb70c2ed0d9d82efc155215d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857538917,
-    "wof:lastmodified":1466480136,
+    "wof:lastmodified":1510697114,
     "wof:name":"Cigarettes Cheaper",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

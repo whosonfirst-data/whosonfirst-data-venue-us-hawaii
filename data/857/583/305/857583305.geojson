@@ -2,14 +2,20 @@
   "id": 857583305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Kaumualii Hwy Lihue HI 96766",
+    "addr:housenumber":"2600",
+    "addr:postcode":"96766",
+    "addr:street":"Kaumualii Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.384317,21.970843,-159.384317,21.970843",
     "geom:latitude":21.970843,
     "geom:longitude":-159.384317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2600 Kaumualii Hwy",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890571,
         102085457
     ],
+    "wof:brand_id":420574425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XXJCXp0zmHGrZgFOmN5kv_21.970843_-159.384317@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203613,
-    "wof:geomhash":"bbd2baed5e9ce9d99ee99ddb76aece2d",
+    "wof:geomhash":"daacf149f2b6a55fbb5b8bc72dea8a06",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857583305,
-    "wof:lastmodified":1466480465,
+    "wof:lastmodified":1510604426,
     "wof:name":"Famous Footwear",
     "wof:parent_id":85890571,
     "wof:placetype":"venue",

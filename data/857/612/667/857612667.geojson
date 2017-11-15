@@ -2,14 +2,20 @@
   "id": 857612667,
   "type": "Feature",
   "properties": {
+    "addr:full":"5730 Kalanianaole Hwy Honolulu HI 96821",
+    "addr:housenumber":"5730",
+    "addr:postcode":"96821",
+    "addr:street":"Kalanianaole Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.735126,21.281967,-157.735126,21.281967",
     "geom:latitude":21.281967,
     "geom:longitude":-157.735126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5730 Kalanianaole Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85869061
     ],
+    "wof:brand_id":1125159917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67iTzuYhIMEjlhsARltSL9_21.281967_-157.735126@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204275,
-    "wof:geomhash":"118e5092ef99d83cc64babe830ee1b35",
+    "wof:geomhash":"5379d563d0093186ad7fc5a85eaa51e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857612667,
-    "wof:lastmodified":1466480716,
+    "wof:lastmodified":1510693827,
     "wof:name":"Le Bistro",
     "wof:parent_id":85869061,
     "wof:placetype":"venue",

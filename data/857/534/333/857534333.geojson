@@ -2,9 +2,14 @@
   "id": 857534333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1152 Panana St Kapolei HI 96707",
+    "addr:housenumber":"1152",
+    "addr:postcode":"96707",
+    "addr:street":"Panana St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.085582,21.356075,-158.085582,21.356075",
     "geom:latitude":21.356075,
     "geom:longitude":-158.085582,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"7cebe740cb63d5dba68926dd112f0116",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857534333,
-    "wof:lastmodified":1466480061,
+    "wof:lastmodified":1491935480,
     "wof:name":"Mors Travel",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

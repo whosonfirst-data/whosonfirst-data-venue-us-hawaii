@@ -2,14 +2,20 @@
   "id": 857560749,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Papa Pl Kahului HI 96732",
+    "addr:housenumber":"330",
+    "addr:postcode":"96732",
+    "addr:street":"Papa Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.454296,20.885691,-156.454296,20.885691",
     "geom:latitude":20.885691,
     "geom:longitude":-156.454296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Papa Pl",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125158223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xsBPmDeh2X4i1OYXorP0L_20.885691_-156.454296@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203175,
-    "wof:geomhash":"cd8a4a966744de7d18a3f1420f2a2b55",
+    "wof:geomhash":"23a0ddfd7565ab4ca5f44673d343a38b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857560749,
-    "wof:lastmodified":1466480320,
+    "wof:lastmodified":1510613202,
     "wof:name":"Wesco Distribution Inc",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

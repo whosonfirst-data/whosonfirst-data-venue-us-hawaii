@@ -2,14 +2,20 @@
   "id": 857681363,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Kamakee St Honolulu HI 96814",
+    "addr:housenumber":"310",
+    "addr:postcode":"96814",
+    "addr:street":"Kamakee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.852874,21.293761,-157.852874,21.293761",
     "geom:latitude":21.293761,
     "geom:longitude":-157.852874,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Kamakee St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xTlwyfNOk9SZeouLcbP2b_21.293761_-157.852874@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206780,
-    "wof:geomhash":"4dd0e8b3239f9613e8d5efb5de5fc51e",
+    "wof:geomhash":"3fe03e21f729800d60333c5d6caa77f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681363,
-    "wof:lastmodified":1466481707,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

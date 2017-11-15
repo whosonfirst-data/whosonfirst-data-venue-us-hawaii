@@ -2,14 +2,20 @@
   "id": 857632115,
   "type": "Feature",
   "properties": {
+    "addr:full":"3016 Umi St Lihue HI 96766",
+    "addr:housenumber":"3016",
+    "addr:postcode":"96766",
+    "addr:street":"Umi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.366736,21.974687,-159.366736,21.974687",
     "geom:latitude":21.974687,
     "geom:longitude":-159.366736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3016 Umi St",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085457,
         85890567
     ],
+    "wof:brand_id":1125157803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h7a6PvIFq2KqGxUmxEIKP_21.974687_-159.366736@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204717,
-    "wof:geomhash":"56fe296ea6f318101a6d86d82e312ec8",
+    "wof:geomhash":"62eb4d6a5cbad687cab12e26d35ba0a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857632115,
-    "wof:lastmodified":1466480857,
+    "wof:lastmodified":1510694858,
     "wof:name":"Charter Funding",
     "wof:parent_id":85890567,
     "wof:placetype":"venue",

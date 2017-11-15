@@ -2,14 +2,20 @@
   "id": 857655021,
   "type": "Feature",
   "properties": {
+    "addr:full":"4593 Ekolu St Lihue HI 96766",
+    "addr:housenumber":"",
+    "addr:postcode":"4593;96766",
+    "addr:street":"Ekolu St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.368698,21.986676,-159.368698,21.986676",
     "geom:latitude":21.986676,
     "geom:longitude":-159.368698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4593 Ekolu St",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890571,
         102085457
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g2NIGimKIaeZBzDw2IRII_21.986676_-159.368698@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205683,
-    "wof:geomhash":"c8f42a6a668b6dab2b932d0882e2f4c6",
+    "wof:geomhash":"f5383931d7315faeced473391c428979",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857655021,
-    "wof:lastmodified":1466481196,
+    "wof:lastmodified":1510602921,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85890571,
     "wof:placetype":"venue",

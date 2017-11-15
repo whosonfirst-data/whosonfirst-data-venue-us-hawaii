@@ -2,14 +2,20 @@
   "id": 857577705,
   "type": "Feature",
   "properties": {
+    "addr:full":"860 Iwaena St Aiea HI 96701",
+    "addr:housenumber":"860",
+    "addr:postcode":"96701",
+    "addr:street":"Iwaena St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.910153,21.377357,-157.910153,21.377357",
     "geom:latitude":21.377357,
     "geom:longitude":-157.910153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"860 Iwaena St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85823515
     ],
+    "wof:brand_id":1125152519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dzGB7riyTlx9actWP3JIT_21.377357_-157.910153@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203505,
-    "wof:geomhash":"f3b4ad567a3bacd8821d32714eaeeb68",
+    "wof:geomhash":"d96c468060daf2f83207c3e31d9383f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857577705,
-    "wof:lastmodified":1466480427,
+    "wof:lastmodified":1510613238,
     "wof:name":"Computer Sciences Corporation",
     "wof:parent_id":85823515,
     "wof:placetype":"venue",

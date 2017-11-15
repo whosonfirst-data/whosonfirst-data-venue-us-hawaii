@@ -2,14 +2,20 @@
   "id": 857530401,
   "type": "Feature",
   "properties": {
+    "addr:full":"374 Ilimalia Loop Kailua HI 96734",
+    "addr:housenumber":"374",
+    "addr:postcode":"96734",
+    "addr:street":"Ilimalia Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.750744,21.41582,-157.750744,21.41582",
     "geom:latitude":21.41582,
     "geom:longitude":-157.750744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"374 Ilimalia Loop",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85827847
     ],
+    "wof:brand_id":1125155811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wv5TLHk7Cj3HCt5uzEXNd_21.415820_-157.750744@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202552,
-    "wof:geomhash":"bd0a49ac3f9856683c1694f4f4bb5c9e",
+    "wof:geomhash":"aa4564f797301258fc0b0936a02d4f01",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857530401,
-    "wof:lastmodified":1466479989,
+    "wof:lastmodified":1510695386,
     "wof:name":"National Assoc of Retired",
     "wof:parent_id":85827847,
     "wof:placetype":"venue",

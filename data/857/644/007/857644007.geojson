@@ -2,14 +2,20 @@
   "id": 857644007,
   "type": "Feature",
   "properties": {
+    "addr:full":"4256 Radford Dr Honolulu HI 96818",
+    "addr:housenumber":"4256",
+    "addr:postcode":"96818",
+    "addr:street":"Radford Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.917273,21.344929,-157.917273,21.344929",
     "geom:latitude":21.344929,
     "geom:longitude":-157.917273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4256 Radford Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125157021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mWLSFkdYi0v8gGxdnL2O7_21.344929_-157.917273@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205194,
-    "wof:geomhash":"4e1677fca4cb534d83d95a839518a28c",
+    "wof:geomhash":"d3167b21bb5ae834baa145943963dc3a",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857644007,
-    "wof:lastmodified":1466481039,
+    "wof:lastmodified":1510696716,
     "wof:name":"Navy Federal Credit Union",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

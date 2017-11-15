@@ -2,9 +2,14 @@
   "id": 857574419,
   "type": "Feature",
   "properties": {
+    "addr:full":"1088 Kakoo Pl Kapolei HI 96707",
+    "addr:housenumber":"1088",
+    "addr:postcode":"96707",
+    "addr:street":"Kakoo Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.0854,21.362184,-158.0854,21.362184",
     "geom:latitude":21.362184,
     "geom:longitude":-158.0854,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -40,6 +46,7 @@
     "wof:geomhash":"78cb7d7d0c9bf04e9b464f26e9e2b4e1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857574419,
-    "wof:lastmodified":1466480395,
+    "wof:lastmodified":1491935481,
     "wof:name":"JCRG Elder Care & Transport",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

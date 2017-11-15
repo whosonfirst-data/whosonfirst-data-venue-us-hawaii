@@ -2,14 +2,20 @@
   "id": 857584131,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Moanalua Rd Aiea HI 96701",
+    "addr:housenumber":"209",
+    "addr:postcode":"96701",
+    "addr:street":"Moanalua Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.930976,21.378787,-157.930976,21.378787",
     "geom:latitude":21.378787,
     "geom:longitude":-157.930976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 Moanalua Rd",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85890057
     ],
+    "wof:brand_id":1125151847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A7SeN2DL4s5XGgKOE3Iqn_21.378787_-157.930976@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203627,
-    "wof:geomhash":"a33ce3088283c9a77dd5b4379d6e6105",
+    "wof:geomhash":"4b5f1892cac6161931f49aa183506da9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857584131,
-    "wof:lastmodified":1466480450,
+    "wof:lastmodified":1510697631,
     "wof:name":"Le Nails",
     "wof:parent_id":85890057,
     "wof:placetype":"venue",

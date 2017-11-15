@@ -2,14 +2,20 @@
   "id": 857681197,
   "type": "Feature",
   "properties": {
+    "addr:full":"94-615 Kupuohi St Waipahu HI 96797",
+    "addr:housenumber":"94-615",
+    "addr:postcode":"96797",
+    "addr:street":"Kupuohi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.034269,21.389595,-158.034269,21.389595",
     "geom:latitude":21.389595,
     "geom:longitude":-158.034269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94-615 Kupuohi St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85890707
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PGR0bYzdCfcfW5CiHA2qa_21.389595_-158.034269@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206775,
-    "wof:geomhash":"8621591135e6d94d5de61f5a6c283b32",
+    "wof:geomhash":"bb575923f52f464ecb6685e07d19ef3c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857681197,
-    "wof:lastmodified":1466481693,
+    "wof:lastmodified":1510695977,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85890707,
     "wof:placetype":"venue",

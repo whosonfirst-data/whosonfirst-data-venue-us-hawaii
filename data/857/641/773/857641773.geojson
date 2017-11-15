@@ -2,14 +2,20 @@
   "id": 857641773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4230 Waialae Ave Honolulu HI 96816",
+    "addr:housenumber":"",
+    "addr:postcode":"4230;96816",
+    "addr:street":"Waialae Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.785213,21.278479,-157.785213,21.278479",
     "geom:latitude":21.278479,
     "geom:longitude":-157.785213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4230 Waialae Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85854121
     ],
+    "wof:brand_id":1125158655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NWF3GSmhWFt8SAnblYDHa_21.278479_-157.785213@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205090,
-    "wof:geomhash":"8939228d878c7719dad0c1269473186e",
+    "wof:geomhash":"73e3be953edf5ee1f5b74a0faff7f4a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857641773,
-    "wof:lastmodified":1466481078,
+    "wof:lastmodified":1510696840,
     "wof:name":"Tony Roma's",
     "wof:parent_id":85854121,
     "wof:placetype":"venue",

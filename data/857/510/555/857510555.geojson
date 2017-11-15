@@ -2,6 +2,10 @@
   "id": 857510555,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 6th Ave Honolulu HI 96816",
+    "addr:housenumber":"1234",
+    "addr:postcode":"96816",
+    "addr:street":"6Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":857510555,
-    "wof:lastmodified":1466479888,
+    "wof:lastmodified":1472619723,
     "wof:name":"Alii Wiring",
     "wof:parent_id":85827721,
     "wof:placetype":"venue",

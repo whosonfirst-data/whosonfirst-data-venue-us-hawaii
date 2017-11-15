@@ -2,14 +2,20 @@
   "id": 857570137,
   "type": "Feature",
   "properties": {
+    "addr:full":"1540 Kalani St Honolulu HI 96817",
+    "addr:housenumber":"",
+    "addr:postcode":"1540;96817",
+    "addr:street":"Kalani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.880097,21.32482,-157.880097,21.32482",
     "geom:latitude":21.32482,
     "geom:longitude":-157.880097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1540 Kalani St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872723
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xXo4iajt1ozezDFfk6gZ3_21.324820_-157.880097@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203356,
-    "wof:geomhash":"baab30df85e75010c673cf355d8859c8",
+    "wof:geomhash":"64bbe2a1f838ad6a4b141cc40f3eb4d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857570137,
-    "wof:lastmodified":1466480341,
+    "wof:lastmodified":1510694883,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85872723,
     "wof:placetype":"venue",

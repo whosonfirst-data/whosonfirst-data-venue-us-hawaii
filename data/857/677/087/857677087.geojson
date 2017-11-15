@@ -2,14 +2,20 @@
   "id": 857677087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1972 Kalakaua Ave Honolulu HI 96815",
+    "addr:housenumber":"1972",
+    "addr:postcode":"96815",
+    "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.83239,21.284878,-157.83239,21.284878",
     "geom:latitude":21.284878,
     "geom:longitude":-157.83239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1972 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85854131
     ],
+    "wof:brand_id":1125158655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2StzWOqMVVTyt2BY0kqLkH_21.284878_-157.832390@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206616,
-    "wof:geomhash":"52fe4476570ac8a8aab456b3f0637191",
+    "wof:geomhash":"b34535960f17c8944e160517911576e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857677087,
-    "wof:lastmodified":1466481551,
+    "wof:lastmodified":1510696840,
     "wof:name":"Tony Roma's",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",

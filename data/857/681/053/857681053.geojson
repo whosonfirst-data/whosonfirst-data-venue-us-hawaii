@@ -2,14 +2,20 @@
   "id": 857681053,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 N Kamehameha Hwy Wahiawa HI 96786",
+    "addr:housenumber":"138",
+    "addr:postcode":"96786",
+    "addr:street":"N Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.029823,21.497724,-158.029823,21.497724",
     "geom:latitude":21.497724,
     "geom:longitude":-158.029823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"138 N Kamehameha Hwy",
     "sg:city":"Wahiawa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85890125,
         102085417
     ],
+    "wof:brand_id":1125153105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p1f6auCFgqYmOXyf4KmZI_21.497724_-158.029823@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206766,
-    "wof:geomhash":"914b125b6c9e6f0724917546f3fca803",
+    "wof:geomhash":"14b2148de918fa9c567e6d4b938853e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857681053,
-    "wof:lastmodified":1466481672,
+    "wof:lastmodified":1510695976,
     "wof:name":"L & L Hawaiian BBQ",
     "wof:parent_id":85890125,
     "wof:placetype":"venue",

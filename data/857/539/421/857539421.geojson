@@ -2,14 +2,20 @@
   "id": 857539421,
   "type": "Feature",
   "properties": {
+    "addr:full":"547 Ukee St Waipahu HI 96797",
+    "addr:housenumber":"547",
+    "addr:postcode":"96797",
+    "addr:street":"Ukee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.005411,21.421372,-158.005411,21.421372",
     "geom:latitude":21.421372,
     "geom:longitude":-158.005411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"547 Ukee St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890709,
         102085417
     ],
+    "wof:brand_id":1125156293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tlAntJhUASFMAcARuj8fF_21.421372_-158.005411@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202726,
-    "wof:geomhash":"0e04c00f609b96c15bed7ade0d3af8ca",
+    "wof:geomhash":"7c527c4baf1f2f8689e3a581c8fbfded",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857539421,
-    "wof:lastmodified":1466480089,
+    "wof:lastmodified":1510695377,
     "wof:name":"R J Reynolds Tobacco Company",
     "wof:parent_id":85890709,
     "wof:placetype":"venue",

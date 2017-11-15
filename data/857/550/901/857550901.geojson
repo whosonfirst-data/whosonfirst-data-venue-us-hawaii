@@ -2,14 +2,20 @@
   "id": 857550901,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Ululani St Hilo HI 96720",
+    "addr:housenumber":"39",
+    "addr:postcode":"96720",
+    "addr:street":"Ululani St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.090264,19.725264,-155.090264,19.725264",
     "geom:latitude":19.725264,
     "geom:longitude":-155.090264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Ululani St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sHOh4VJus5yK3MXZiMZfQ_19.725264_-155.090264@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202947,
-    "wof:geomhash":"e88ad42977c91e4ef7e7adeb3a7cb777",
+    "wof:geomhash":"24152425e95b8945ac9175235d2cf56e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857550901,
-    "wof:lastmodified":1466480229,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

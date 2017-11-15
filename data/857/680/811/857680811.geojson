@@ -2,14 +2,20 @@
   "id": 857680811,
   "type": "Feature",
   "properties": {
+    "addr:full":"46-056 Kamehameha Hwy Kaneohe HI 96744",
+    "addr:housenumber":"46-056",
+    "addr:postcode":"96744",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.784002,21.378066,-157.784002,21.378066",
     "geom:latitude":21.378066,
     "geom:longitude":-157.784002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"46-056 Kamehameha Hwy",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85890379
     ],
+    "wof:brand_id":1125155831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y0q4kXhI50ZdEiMdhGhT3_21.378066_-157.784002@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206756,
-    "wof:geomhash":"816bc39b374151dc049c7817a67a0f4c",
+    "wof:geomhash":"6af95a755d8ce3501c1868facd648fad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857680811,
-    "wof:lastmodified":1466481727,
+    "wof:lastmodified":1510613548,
     "wof:name":"Pretzel Maker",
     "wof:parent_id":85890379,
     "wof:placetype":"venue",

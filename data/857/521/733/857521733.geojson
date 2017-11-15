@@ -2,14 +2,20 @@
   "id": 857521733,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Lunalilo St Wailuku HI 96793",
+    "addr:housenumber":"35",
+    "addr:postcode":"96793",
+    "addr:street":"Lunalilo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.493724,20.889682,-156.493724,20.889682",
     "geom:latitude":20.889682,
     "geom:longitude":-156.493724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"35 Lunalilo St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085577,
         85890309
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fsXtYvu9rtk6lYvpFuYIg_20.889682_-156.493724@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202385,
-    "wof:geomhash":"862931a49da79f367fe9ff873bf1dbe0",
+    "wof:geomhash":"f0b3a1a6d018ab6f42e52f40c6f26e39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857521733,
-    "wof:lastmodified":1466479997,
+    "wof:lastmodified":1510604912,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",

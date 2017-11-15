@@ -2,14 +2,20 @@
   "id": 857637289,
   "type": "Feature",
   "properties": {
+    "addr:full":"680 Iwilei Rd Honolulu HI 96817",
+    "addr:housenumber":"680",
+    "addr:postcode":"96817",
+    "addr:street":"Iwilei Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.869535,21.316097,-157.869535,21.316097",
     "geom:latitude":21.316097,
     "geom:longitude":-157.869535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"680 Iwilei Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85866917
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zlWDhBgKwhdKTVnfTPPZv_21.316097_-157.869535@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204915,
-    "wof:geomhash":"801b1c12162751f44d95e9dbf058f614",
+    "wof:geomhash":"c6efa790773c2625e9624cb24c58e36c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857637289,
-    "wof:lastmodified":1466480925,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",

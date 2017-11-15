@@ -2,9 +2,14 @@
   "id": 857613851,
   "type": "Feature",
   "properties": {
+    "addr:full":"335 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"335",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.940836,21.672346,-157.940836,21.672346",
     "geom:latitude":21.672346,
     "geom:longitude":-157.940836,
@@ -24,7 +29,12 @@
     "sg:postcode":"96731",
     "sg:province":"HI",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GggG6vDKlX2o4nbvLHhPW_21.672346_-157.940836@1294088405"
@@ -32,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1464204298,
     "wof:geomhash":"eb50683f8492fa9e807ac607976fef0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857613851
+        }
+    ],
     "wof:id":857613851,
-    "wof:lastmodified":1466480731,
+    "wof:lastmodified":1491935899,
     "wof:name":"Friends Of Malaekahana",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

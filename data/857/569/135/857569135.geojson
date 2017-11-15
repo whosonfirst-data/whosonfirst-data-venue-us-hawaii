@@ -2,14 +2,20 @@
   "id": 857569135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2122 Metcalf St Honolulu HI 96822",
+    "addr:housenumber":"2122",
+    "addr:postcode":"96822",
+    "addr:street":"Metcalf St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.825583,21.299344,-157.825583,21.299344",
     "geom:latitude":21.299344,
     "geom:longitude":-157.825583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2122 Metcalf St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85872731
     ],
+    "wof:brand_id":1125156995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iDh4Ujlzj0DQZ3QRvuAJm_21.299344_-157.825583@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203335,
-    "wof:geomhash":"ae1e787fafb2816dc77679e894127767",
+    "wof:geomhash":"d4085c5b7503c34ea8fe2692aab2bc87",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857569135,
-    "wof:lastmodified":1466480343,
+    "wof:lastmodified":1510697501,
     "wof:name":"Korean Presbyterian Church",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",

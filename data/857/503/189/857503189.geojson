@@ -2,9 +2,14 @@
   "id": 857503189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1498 Ahuawa Loop Honolulu HI 96816",
+    "addr:housenumber":"1498",
+    "addr:postcode":"96816",
+    "addr:street":"Ahuawa Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.785336,21.283578,-157.785336,21.283578",
     "geom:latitude":21.283578,
     "geom:longitude":-157.785336,
@@ -32,7 +37,9 @@
         85633793,
         85937601,
         102085417,
-        85854121
+        85854121,
+        85937695,
+        85872721
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +56,20 @@
             "neighbourhood_id":85854121,
             "region_id":85688671,
             "venue_id":857503189
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937695,
+            "neighbourhood_id":85872721,
+            "region_id":85688671,
+            "venue_id":857503189
         }
     ],
     "wof:id":857503189,
-    "wof:lastmodified":1466479826,
+    "wof:lastmodified":1491893447,
     "wof:name":"Island Neurodiagnostic LLC",
-    "wof:parent_id":85854121,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

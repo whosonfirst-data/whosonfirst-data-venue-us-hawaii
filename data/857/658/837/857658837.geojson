@@ -2,9 +2,14 @@
   "id": 857658837,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Manauea Pl Kapolei HI 96707",
+    "addr:housenumber":"106",
+    "addr:postcode":"96707",
+    "addr:street":"Manauea Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.093084,21.363741,-158.093084,21.363741",
     "geom:latitude":21.363741,
     "geom:longitude":-158.093084,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -44,6 +50,7 @@
     "wof:geomhash":"32993ae159072f7e38c8ed1170f4eda9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857658837,
-    "wof:lastmodified":1466481430,
+    "wof:lastmodified":1491935482,
     "wof:name":"Danny Couch",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

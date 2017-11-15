@@ -2,9 +2,14 @@
   "id": 857667907,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 Makiki St Honolulu HI 96822",
+    "addr:housenumber":"2009",
+    "addr:postcode":"96822",
+    "addr:street":"Makiki St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.830599,21.308642,-157.830599,21.308642",
     "geom:latitude":21.308642,
     "geom:longitude":-157.830599,
@@ -36,6 +41,7 @@
         85633793,
         85937601,
         102085417,
+        85872711,
         85831995
     ],
     "wof:breaches":[],
@@ -50,15 +56,23 @@
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857667907
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
             "neighbourhood_id":85831995,
             "region_id":85688671,
             "venue_id":857667907
         }
     ],
     "wof:id":857667907,
-    "wof:lastmodified":1466481578,
+    "wof:lastmodified":1491905116,
     "wof:name":"Advenapictures",
-    "wof:parent_id":85831995,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

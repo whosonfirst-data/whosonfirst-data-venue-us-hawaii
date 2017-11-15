@@ -2,14 +2,20 @@
   "id": 857551269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 S Kihei Rd Kihei HI 96753",
+    "addr:housenumber":"1819",
+    "addr:postcode":"96753",
+    "addr:street":"S Kihei Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.452777,20.733971,-156.452777,20.733971",
     "geom:latitude":20.733971,
     "geom:longitude":-156.452777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1819 S Kihei Rd",
     "sg:city":"Kihei",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085577,
         85890695
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bVyOIU0XkNcjxgnLwvWnd_20.733971_-156.452777@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202953,
-    "wof:geomhash":"4a08a884388a408db9152b37de6ea0e7",
+    "wof:geomhash":"bf234bbcf33e4d297e43e7768e37866c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857551269,
-    "wof:lastmodified":1466480164,
+    "wof:lastmodified":1510693710,
     "wof:name":"Tony Romas",
     "wof:parent_id":85890695,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 857506009,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 Kamehameha Hwy Haleiwa HI 96712",
+    "addr:housenumber":"540",
+    "addr:postcode":"96712",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.057796,21.657723,-158.057796,21.657723",
     "geom:latitude":21.657723,
     "geom:longitude":-158.057796,
@@ -32,7 +37,8 @@
         85633793,
         85937555,
         102085417,
-        85854145
+        85854145,
+        85890127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +55,20 @@
             "neighbourhood_id":85854145,
             "region_id":85688671,
             "venue_id":857506009
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937555,
+            "neighbourhood_id":85890127,
+            "region_id":85688671,
+            "venue_id":857506009
         }
     ],
     "wof:id":857506009,
-    "wof:lastmodified":1466481693,
+    "wof:lastmodified":1491892040,
     "wof:name":"Haleiwa Off Road Towing",
-    "wof:parent_id":85854145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

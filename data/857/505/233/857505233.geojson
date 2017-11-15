@@ -2,14 +2,20 @@
   "id": 857505233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1249 Meheula Pkwy Mililani HI 96789",
+    "addr:housenumber":"1249",
+    "addr:postcode":"96789",
+    "addr:street":"Meheula Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.007576,21.455167,-158.007576,21.455167",
     "geom:latitude":21.455167,
     "geom:longitude":-158.007576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1249 Meheula Pkwy",
     "sg:city":"Mililani",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85854149
     ],
+    "wof:brand_id":1125151975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F9u8ajOi890tHNrascyY3_21.455167_-158.007576@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202038,
-    "wof:geomhash":"ce0cb552213c7606178239d204a40129",
+    "wof:geomhash":"93371fcc68b0b34728492ebed80ec6a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857505233,
-    "wof:lastmodified":1466481679,
+    "wof:lastmodified":1510695909,
     "wof:name":"Chilis",
     "wof:parent_id":85854149,
     "wof:placetype":"venue",

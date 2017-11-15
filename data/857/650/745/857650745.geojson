@@ -2,9 +2,14 @@
   "id": 857650745,
   "type": "Feature",
   "properties": {
+    "addr:full":"356 Kamehameha Hwy Kahuku HI 96731",
+    "addr:housenumber":"356",
+    "addr:postcode":"96731",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.939319,21.670628,-157.939319,21.670628",
     "geom:latitude":21.670628,
     "geom:longitude":-157.939319,
@@ -27,7 +32,12 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ISguDSqEbziEHwSBTLMT6_21.670628_-157.939319@1294088405"
@@ -35,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1464205486,
     "wof:geomhash":"8c923a65dba90ebe615dd47d420d4d25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857650745
+        }
+    ],
     "wof:id":857650745,
-    "wof:lastmodified":1466481233,
+    "wof:lastmodified":1491935902,
     "wof:name":"Holy Cross Episcopal Mission",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

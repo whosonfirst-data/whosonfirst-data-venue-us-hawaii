@@ -2,14 +2,20 @@
   "id": 857560523,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Waialae Ave Honolulu HI 96816",
+    "addr:housenumber":"4100",
+    "addr:postcode":"96816",
+    "addr:street":"Waialae Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.789741,21.279324,-157.789741,21.279324",
     "geom:latitude":21.279324,
     "geom:longitude":-157.789741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 Waialae Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85854121
     ],
+    "wof:brand_id":420574427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oOCXgayhZNyBE0NMPR1fR_21.279324_-157.789741@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203170,
-    "wof:geomhash":"03ce5295aa9e7f99afab2e8b0b3ed358",
+    "wof:geomhash":"7bb39de0025b783ca5b050fdffd8e45b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857560523,
-    "wof:lastmodified":1466480298,
+    "wof:lastmodified":1510604190,
     "wof:name":"Public Storage",
     "wof:parent_id":85854121,
     "wof:placetype":"venue",

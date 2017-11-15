@@ -2,14 +2,20 @@
   "id": 857674573,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Kahuhipa St Kaneohe HI 96744",
+    "addr:housenumber":"132",
+    "addr:postcode":"96744",
+    "addr:street":"Kahuhipa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.803098,21.417512,-157.803098,21.417512",
     "geom:latitude":21.417512,
     "geom:longitude":-157.803098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"132 Kahuhipa St",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85824543
     ],
+    "wof:brand_id":1125157911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S6tnf58o4YNH1ICIjOCYB_21.417512_-157.803098@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464206508,
-    "wof:geomhash":"99e5c08c060635fd9a728cb9683dc264",
+    "wof:geomhash":"35399c64252dcab7ad51690242ed37b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857674573,
-    "wof:lastmodified":1466481605,
+    "wof:lastmodified":1510697541,
     "wof:name":"Mexico Lindo",
     "wof:parent_id":85824543,
     "wof:placetype":"venue",

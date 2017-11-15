@@ -2,14 +2,20 @@
   "id": 857503779,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 Farrington Hwy Waipahu HI 96797",
+    "addr:housenumber":"216",
+    "addr:postcode":"96797",
+    "addr:street":"Farrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.019939,21.379627,-158.019939,21.379627",
     "geom:latitude":21.379627,
     "geom:longitude":-158.019939,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 Farrington Hwy",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85826167,
         102085417
     ],
+    "wof:brand_id":1125158235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_351k5XNMpZpDC81zweRSKB_21.379627_-158.019939@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202001,
-    "wof:geomhash":"f0e7535860dea637badc8ddaed3bbd4a",
+    "wof:geomhash":"1a26c08c17f968a88aabc55c481d0385",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857503779,
-    "wof:lastmodified":1466479922,
+    "wof:lastmodified":1510697367,
     "wof:name":"Avco Financial",
     "wof:parent_id":85826167,
     "wof:placetype":"venue",

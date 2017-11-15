@@ -2,14 +2,20 @@
   "id": 857551813,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Bishop St Honolulu HI 96813",
+    "addr:housenumber":"999",
+    "addr:postcode":"96813",
+    "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.862229,21.307997,-157.862229,21.307997",
     "geom:latitude":21.307997,
     "geom:longitude":-157.862229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"999 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085417,
         85866919
     ],
+    "wof:brand_id":1125158601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GKJrl0t8hsEbjqFdflmhp_21.307997_-157.862229@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202968,
-    "wof:geomhash":"29eed181ecd154384074ff9428c9f95a",
+    "wof:geomhash":"b34f903586125c87a486ab58b4b7424d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857551813,
-    "wof:lastmodified":1466480222,
+    "wof:lastmodified":1510698786,
     "wof:name":"Pricewaterhouse Coopers",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",

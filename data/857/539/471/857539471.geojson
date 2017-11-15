@@ -2,9 +2,14 @@
   "id": 857539471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 Tantalus Dr Honolulu HI 96813",
+    "addr:housenumber":"2504",
+    "addr:postcode":"96813",
+    "addr:street":"Tantalus Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.83363,21.318436,-157.83363,21.318436",
     "geom:latitude":21.318436,
     "geom:longitude":-157.83363,
@@ -28,7 +33,14 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85937601,
+        102085417,
+        85872711,
+        85831995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rsf5VHEuWuGuR9QYIU0JN_21.318436_-157.833630@1294088405"
@@ -36,11 +48,28 @@
     "wof:country":"US",
     "wof:created":1464202727,
     "wof:geomhash":"67dc194e9258fd866f913db6b8c4b5be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872711,
+            "region_id":85688671,
+            "venue_id":857539471
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85831995,
+            "region_id":85688671,
+            "venue_id":857539471
+        }
+    ],
     "wof:id":857539471,
-    "wof:lastmodified":1466480094,
+    "wof:lastmodified":1491905116,
     "wof:name":"Helart Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

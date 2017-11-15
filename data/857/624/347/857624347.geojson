@@ -2,14 +2,20 @@
   "id": 857624347,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Kalanianaole Hwy Waimanalo HI 96795",
+    "addr:housenumber":"202",
+    "addr:postcode":"96795",
+    "addr:street":"Kalanianaole Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.664203,21.315774,-157.664203,21.315774",
     "geom:latitude":21.315774,
     "geom:longitude":-157.664203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 Kalanianaole Hwy",
     "sg:city":"Waimanalo",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085417,
         85824285
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZtR6dceExQfFiWi1IajtK_21.315774_-157.664203@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204549,
-    "wof:geomhash":"10a537bf86759ffac3ac0a4a8f9f78dd",
+    "wof:geomhash":"6d10581cfe8cee898b37a7409cbfd8f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":857624347,
-    "wof:lastmodified":1466480789,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85824285,
     "wof:placetype":"venue",

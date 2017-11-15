@@ -2,14 +2,20 @@
   "id": 857528093,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Hanua St Kapolei HI 96707",
+    "addr:housenumber":"163",
+    "addr:postcode":"96707",
+    "addr:street":"Hanua St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.102214,21.303622,-158.102214,21.303622",
     "geom:latitude":21.303622,
     "geom:longitude":-158.102214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 Hanua St",
     "sg:city":"Kapolei",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85865243,
         102085417
     ],
+    "wof:brand_id":1125154587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zwympkiSe3oe9FRtl0Fqy_21.303622_-158.102214@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202507,
-    "wof:geomhash":"30f34c7b1cb1305b2a592cd54e543ebc",
+    "wof:geomhash":"a706bd52831a6beb00b2d7da88239ebc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857528093,
-    "wof:lastmodified":1466479948,
+    "wof:lastmodified":1510613338,
     "wof:name":"Air Liquide America Corp",
     "wof:parent_id":85865243,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857567801,
   "type": "Feature",
   "properties": {
+    "addr:full":"379 Kamehameha Hwy Pearl City HI 96782",
+    "addr:housenumber":"379",
+    "addr:postcode":"96782",
+    "addr:street":"Kamehameha Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.95654,21.388072,-157.95654,21.388072",
     "geom:latitude":21.388072,
     "geom:longitude":-157.95654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"379 Kamehameha Hwy",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125156409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PyNqa70ciCNMfK4uJIoqN_21.388072_-157.956540@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203312,
-    "wof:geomhash":"82104553765f086ed520e5018ef2c468",
+    "wof:geomhash":"970a70ede2c4ad4d4eb437fa40f5a300",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857567801,
-    "wof:lastmodified":1466480347,
+    "wof:lastmodified":1510695236,
     "wof:name":"Hair Dimensions",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

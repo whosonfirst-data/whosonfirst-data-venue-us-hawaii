@@ -2,14 +2,20 @@
   "id": 857560595,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 Ohohia St Honolulu HI 96819",
+    "addr:housenumber":"545",
+    "addr:postcode":"96819",
+    "addr:street":"Ohohia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.907765,21.333933,-157.907765,21.333933",
     "geom:latitude":21.333933,
     "geom:longitude":-157.907765,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"545 Ohohia St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vK6HUOUNLSjUK6JbuGIm9_21.333933_-157.907765@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203172,
-    "wof:geomhash":"5a162884cf6e494d493aa7cecfce6f53",
+    "wof:geomhash":"692115d9a89d7574d0ee4331d72ea854",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":857560595,
-    "wof:lastmodified":1466480305,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

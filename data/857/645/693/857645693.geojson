@@ -2,14 +2,20 @@
   "id": 857645693,
   "type": "Feature",
   "properties": {
+    "addr:full":"94 Dole Rd Wahiawa HI 96786",
+    "addr:housenumber":"94",
+    "addr:postcode":"96786",
+    "addr:street":"Dole Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.004619,21.505959,-158.004619,21.505959",
     "geom:latitude":21.505959,
     "geom:longitude":-158.004619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"94 Dole Rd",
     "sg:city":"Wahiawa",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890125,
         102085417
     ],
+    "wof:brand_id":420574139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JjvKNcE6KyCus67AYuOEU_21.505959_-158.004619@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205266,
-    "wof:geomhash":"066d4961896ee2f25bff56f2676eb999",
+    "wof:geomhash":"5410a3001f2f3fa6e91686f1fbca6b79",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857645693,
-    "wof:lastmodified":1466481192,
+    "wof:lastmodified":1510603924,
     "wof:name":"Herbalife Distributor",
     "wof:parent_id":85890125,
     "wof:placetype":"venue",

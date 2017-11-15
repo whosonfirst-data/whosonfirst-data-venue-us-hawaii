@@ -2,9 +2,14 @@
   "id": 857551935,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Leleuli St Kahuku HI 96731",
+    "addr:housenumber":"274",
+    "addr:postcode":"96731",
+    "addr:street":"Leleuli St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.954829,21.674162,-157.954829,21.674162",
     "geom:latitude":21.674162,
     "geom:longitude":-157.954829,
@@ -29,7 +34,12 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688671,
+        85633793,
+        85890439,
+        102085417
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nYpyeXhdRB3WJ9DH881Nc_21.674162_-157.954829@1294088405"
@@ -37,11 +47,19 @@
     "wof:country":"US",
     "wof:created":1464202970,
     "wof:geomhash":"7f245e10c6ac43ff60343e1c56d109ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "neighbourhood_id":85890439,
+            "region_id":85688671,
+            "venue_id":857551935
+        }
+    ],
     "wof:id":857551935,
-    "wof:lastmodified":1466480234,
+    "wof:lastmodified":1491935901,
     "wof:name":"Hawaii5point0",
-    "wof:parent_id":-1,
+    "wof:parent_id":85890439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

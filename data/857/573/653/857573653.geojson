@@ -2,9 +2,14 @@
   "id": 857573653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Kanehoa Loop Kapolei HI 96707",
+    "addr:housenumber":"1004",
+    "addr:postcode":"96707",
+    "addr:street":"Kanehoa Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-158.088287,21.357981,-158.088287,21.357981",
     "geom:latitude":21.357981,
     "geom:longitude":-158.088287,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688671,
+        102191575,
         85633793,
         85937569,
         102085417,
@@ -43,6 +49,7 @@
     "wof:geomhash":"138b2cb49ddb6f7a5528ab2b1fb8334b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085417,
             "locality_id":85937569,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857573653,
-    "wof:lastmodified":1466480412,
+    "wof:lastmodified":1491935476,
     "wof:name":"Ace Handy Works",
     "wof:parent_id":85890075,
     "wof:placetype":"venue",

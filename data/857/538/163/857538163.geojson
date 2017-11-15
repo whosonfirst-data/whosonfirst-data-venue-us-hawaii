@@ -2,14 +2,20 @@
   "id": 857538163,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 Auahi St Honolulu HI 96813",
+    "addr:housenumber":"746",
+    "addr:postcode":"96813",
+    "addr:street":"Auahi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.85967,21.297151,-157.85967,21.297151",
     "geom:latitude":21.297151,
     "geom:longitude":-157.85967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"746 Auahi St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872715
     ],
+    "wof:brand_id":1125152249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PGjVuzlpiThBYxUnYIUvU_21.297151_-157.859670@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464202701,
-    "wof:geomhash":"aa01e9a0a144aba4fec7557c2dfcbfd4",
+    "wof:geomhash":"7d0e4447c7a11f532e8089314a4a816f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857538163,
-    "wof:lastmodified":1466480055,
+    "wof:lastmodified":1510694095,
     "wof:name":"Xerox Corp",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",

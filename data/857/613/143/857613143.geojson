@@ -2,14 +2,20 @@
   "id": 857613143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4653 Apopo Rd Kapaa HI 96746",
+    "addr:housenumber":"4653",
+    "addr:postcode":"96746",
+    "addr:street":"Apopo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.329597,22.083008,-159.329597,22.083008",
     "geom:latitude":22.083008,
     "geom:longitude":-159.329597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4653 Apopo Rd",
     "sg:city":"Kapaa",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890387,
         102085457
     ],
+    "wof:brand_id":420574209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HybquSAjptlMelyep7bdZ_22.083008_-159.329597@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204283,
-    "wof:geomhash":"383463b3fe88a17adcaa2fb1484c7fee",
+    "wof:geomhash":"b8e1ac22c653d45719e65fba70e10b76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857613143,
-    "wof:lastmodified":1466480672,
+    "wof:lastmodified":1510604311,
     "wof:name":"Corporation of President of Th",
     "wof:parent_id":85890387,
     "wof:placetype":"venue",

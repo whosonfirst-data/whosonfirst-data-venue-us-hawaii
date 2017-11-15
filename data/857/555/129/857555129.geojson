@@ -2,14 +2,20 @@
   "id": 857555129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Kuhio Hwy Kapaa HI 96746",
+    "addr:housenumber":"1101",
+    "addr:postcode":"96746",
+    "addr:street":"Kuhio Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-159.31943,22.06858,-159.31943,22.06858",
     "geom:latitude":22.06858,
     "geom:longitude":-159.31943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Kuhio Hwy",
     "sg:city":"Kapaa",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85890387,
         102085457
     ],
+    "wof:brand_id":420574337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZTe4NFfvkq1qpEmXo0UfX_22.068580_-159.319430@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203030,
-    "wof:geomhash":"f98732999b9ed5e387d96a37fbe02e32",
+    "wof:geomhash":"05072354bbcee82d3fa4d717162e2fc1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857555129,
-    "wof:lastmodified":1466480178,
+    "wof:lastmodified":1510604655,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85890387,
     "wof:placetype":"venue",

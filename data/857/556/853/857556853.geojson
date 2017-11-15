@@ -2,9 +2,14 @@
   "id": 857556853,
   "type": "Feature",
   "properties": {
+    "addr:full":"2728 Pali Hwy Honolulu HI 96817",
+    "addr:housenumber":"2728",
+    "addr:postcode":"96817",
+    "addr:street":"Pali Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.843799,21.330906,-157.843799,21.330906",
     "geom:latitude":21.330906,
     "geom:longitude":-157.843799,
@@ -33,7 +38,9 @@
         85633793,
         85937601,
         102085417,
-        85840145
+        85840145,
+        420518477,
+        85872725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +57,28 @@
             "neighbourhood_id":85840145,
             "region_id":85688671,
             "venue_id":857556853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":420518477,
+            "region_id":85688671,
+            "venue_id":857556853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857556853
         }
     ],
     "wof:id":857556853,
-    "wof:lastmodified":1466480315,
+    "wof:lastmodified":1491895027,
     "wof:name":"Hawaii Conference-Seventh-Day",
-    "wof:parent_id":85840145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

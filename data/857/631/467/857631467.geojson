@@ -2,14 +2,20 @@
   "id": 857631467,
   "type": "Feature",
   "properties": {
+    "addr:full":"3077 Koapaka St Honolulu HI 96819",
+    "addr:housenumber":"",
+    "addr:postcode":"3077;96819",
+    "addr:street":"Koapaka St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.912914,21.335592,-157.912914,21.335592",
     "geom:latitude":21.335592,
     "geom:longitude":-157.912914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3077 Koapaka St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085417,
         85869065
     ],
+    "wof:brand_id":1125157361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aMjqEppyc6nocQ4ukcP0v_21.335592_-157.912914@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204695,
-    "wof:geomhash":"26a0b5eafffee0b92c5cd93ac4983ad1",
+    "wof:geomhash":"905b41af5ae6e48b21a173d465cbc359",
     "wof:hierarchy":[
         {
             "campus_id":102533997,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857631467,
-    "wof:lastmodified":1466480881,
+    "wof:lastmodified":1510694934,
     "wof:name":"Con Agra Foods",
     "wof:parent_id":102533997,
     "wof:placetype":"venue",

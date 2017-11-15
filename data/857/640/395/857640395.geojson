@@ -2,14 +2,20 @@
   "id": 857640395,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Pali Momi St Aiea HI 96701",
+    "addr:housenumber":"130",
+    "addr:postcode":"96701",
+    "addr:street":"Pali Momi St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.939564,21.382333,-157.939564,21.382333",
     "geom:latitude":21.382333,
     "geom:longitude":-157.939564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 Pali Momi St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085417,
         85827729
     ],
+    "wof:brand_id":1125151975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O3Czu3yKiwHP6OHnWvXgr_21.382333_-157.939564@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205036,
-    "wof:geomhash":"4dbb388e0d8d039cd829cf3649c9ba3b",
+    "wof:geomhash":"3f1702b2dbb245bc1ef96da35ea8e13e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857640395,
-    "wof:lastmodified":1466480966,
+    "wof:lastmodified":1510695909,
     "wof:name":"Chilis",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",

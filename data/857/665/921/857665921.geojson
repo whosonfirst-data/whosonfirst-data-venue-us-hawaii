@@ -2,9 +2,14 @@
   "id": 857665921,
   "type": "Feature",
   "properties": {
+    "addr:full":"2500 Pali Hwy Honolulu HI 96817",
+    "addr:housenumber":"2500",
+    "addr:postcode":"96817",
+    "addr:street":"Pali Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.843971,21.330728,-157.843971,21.330728",
     "geom:latitude":21.330728,
     "geom:longitude":-157.843971,
@@ -29,7 +34,8 @@
         85633793,
         85937601,
         102085417,
-        85840145
+        85840145,
+        85872725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,12 +52,20 @@
             "neighbourhood_id":85840145,
             "region_id":85688671,
             "venue_id":857665921
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085417,
+            "locality_id":85937601,
+            "neighbourhood_id":85872725,
+            "region_id":85688671,
+            "venue_id":857665921
         }
     ],
     "wof:id":857665921,
-    "wof:lastmodified":1466481517,
+    "wof:lastmodified":1491895026,
     "wof:name":"First Untrian Church Honolulu",
-    "wof:parent_id":85840145,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],

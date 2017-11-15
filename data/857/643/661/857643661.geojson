@@ -2,14 +2,20 @@
   "id": 857643661,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Pookela St Hilo HI 96720",
+    "addr:housenumber":"40",
+    "addr:postcode":"96720",
+    "addr:street":"Pookela St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.066763,19.703385,-155.066763,19.703385",
     "geom:latitude":19.703385,
     "geom:longitude":-155.066763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Pookela St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085433,
         85890239
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LT1Dh3iYnuRHGnwkoRZl0_19.703385_-155.066763@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205180,
-    "wof:geomhash":"a539b3fec754e77e6600f6995c618776",
+    "wof:geomhash":"fee4c2a41265f9f75740ee05eab8994a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857643661,
-    "wof:lastmodified":1466481124,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",

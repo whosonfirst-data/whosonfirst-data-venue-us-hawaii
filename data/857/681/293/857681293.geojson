@@ -2,14 +2,20 @@
   "id": 857681293,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Kapiolani Blvd Honolulu HI 96814",
+    "addr:housenumber":"1221",
+    "addr:postcode":"96814",
+    "addr:street":"Kapiolani Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.847537,21.294977,-157.847537,21.294977",
     "geom:latitude":21.294977,
     "geom:longitude":-157.847537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085417,
         85872733
     ],
+    "wof:brand_id":1125153339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OJROoowKoAiM2f2BKjzFH_21.294977_-157.847537@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464206778,
-    "wof:geomhash":"239548007ef06da7b373dd88e91e40e2",
+    "wof:geomhash":"68ed3ff775b493182f66a1bb83c36f07",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857681293,
-    "wof:lastmodified":1466481749,
+    "wof:lastmodified":1510699017,
     "wof:name":"The Original Pancake House",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",

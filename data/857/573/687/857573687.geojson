@@ -2,14 +2,20 @@
   "id": 857573687,
   "type": "Feature",
   "properties": {
+    "addr:full":"5583 Luhia St Kailua Kona HI 96740",
+    "addr:housenumber":"",
+    "addr:postcode":"5583;96740",
+    "addr:street":"Luhia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.998591,19.647245,-155.998591,19.647245",
     "geom:latitude":19.647245,
     "geom:longitude":-155.998591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5583 Luhia St",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102085433,
         85890251
     ],
+    "wof:brand_id":420574993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sqhvnV2zI7RuPge8p4WHV_19.647245_-155.998591@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203424,
-    "wof:geomhash":"db1c29de4cc3bbe3e893285fa066e944",
+    "wof:geomhash":"7a476bc0db5a3c0a850511311b69ab9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":857573687,
-    "wof:lastmodified":1466480419,
+    "wof:lastmodified":1510603964,
     "wof:name":"Gold's Gym",
     "wof:parent_id":85890251,
     "wof:placetype":"venue",
