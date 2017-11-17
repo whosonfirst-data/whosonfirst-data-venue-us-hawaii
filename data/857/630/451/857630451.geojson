@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.860056,21.309982,-157.860056,21.309982",
     "geom:latitude":21.309982,
     "geom:longitude":-157.860056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1136 Union Mall",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204674,
-    "wof:geomhash":"1cb23a136c2c237a4a43558811ac11c9",
+    "wof:geomhash":"e21bf3879a15a90dc35b55401e833f1e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":857630451,
-    "wof:lastmodified":1472619840,
+    "wof:lastmodified":1510942995,
     "wof:name":"E & Hair Company",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857517947
+    ],
     "wof:tags":[
         "shop"
     ]

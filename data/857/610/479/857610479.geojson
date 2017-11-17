@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.067306,19.695086,-155.067306,19.695086",
     "geom:latitude":19.695086,
     "geom:longitude":-155.067306,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 E Puainako St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204218,
-    "wof:geomhash":"2976d8d4afd595d38d1fdaa945b6d141",
+    "wof:geomhash":"75d210ab8493c6eec020f17db5820114",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":857610479,
-    "wof:lastmodified":1472619816,
+    "wof:lastmodified":1510943533,
     "wof:name":"Arbys",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857578807
+    ],
     "wof:tags":[
         "eating"
     ]

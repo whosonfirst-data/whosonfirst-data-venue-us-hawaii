@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.679206,20.878057,-156.679206,20.878057",
     "geom:latitude":20.878057,
     "geom:longitude":-156.679206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"885 Wainee St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206763,
-    "wof:geomhash":"e1483a97cb9db6e8d341987ed365d817",
+    "wof:geomhash":"d70ca2ad9bf6451ac1ae6224a2f269de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":857680975,
-    "wof:lastmodified":1472619929,
+    "wof:lastmodified":1510941364,
     "wof:name":"McDonald's",
     "wof:parent_id":85890517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857632591
+    ],
     "wof:tags":[
         "burger",
         "american"

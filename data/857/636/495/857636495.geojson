@@ -7,13 +7,16 @@
     "addr:postcode":"96815",
     "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.828868,21.279143,-157.828868,21.279143",
     "geom:latitude":21.279143,
     "geom:longitude":-157.828868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2250 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204886,
-    "wof:geomhash":"c4340db53702fa3e7c3296e062172d73",
+    "wof:geomhash":"2e9bc4c44f6e5786ff0fbc489d721fdd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":857636495,
-    "wof:lastmodified":1472619848,
+    "wof:lastmodified":1510943746,
     "wof:name":"J C B Plaza",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857639523
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "credit",

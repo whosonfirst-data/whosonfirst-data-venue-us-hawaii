@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.865189,21.307285,-157.865189,21.307285",
     "geom:latitude":21.307285,
     "geom:longitude":-157.865189,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Aloha Tower Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206775,
-    "wof:geomhash":"19d02c37d5dcafecd159a510cfff10ea",
+    "wof:geomhash":"6f2a90c9857a3a8abeff8d946ce5b96c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":857681219,
-    "wof:lastmodified":1472619921,
+    "wof:lastmodified":1510942681,
     "wof:name":"Chai's Island Bistro",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857554179
+    ],
     "wof:tags":[
         "wrap",
         "seafood",

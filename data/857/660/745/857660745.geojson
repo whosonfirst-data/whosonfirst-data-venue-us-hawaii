@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.854623,21.300029,-157.854623,21.300029",
     "geom:latitude":21.300029,
     "geom:longitude":-157.854623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"875 Waimanu St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205942,
-    "wof:geomhash":"e09a2ae2be9cca2f45b8b7383a16a0ef",
+    "wof:geomhash":"12ad32e6aa4e46823e801bb9fbfb9925",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":857660745,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1510942412,
     "wof:name":"C 2 F Inc",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857517517
+    ],
     "wof:tags":[
         "me",
         "engineering",

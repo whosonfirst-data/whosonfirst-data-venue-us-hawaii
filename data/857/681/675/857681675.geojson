@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.753993,21.278873,-157.753993,21.278873",
     "geom:latitude":21.278873,
     "geom:longitude":-157.753993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"820 W Hind Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206792,
-    "wof:geomhash":"58848a77e477cc21a9383eaa1ec38915",
+    "wof:geomhash":"5451036191dec9a008d54daf78eda8ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":857681675,
-    "wof:lastmodified":1472619928,
+    "wof:lastmodified":1510941209,
     "wof:name":"Chuck E. Cheese's",
     "wof:parent_id":85854135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857648107
+    ],
     "wof:tags":[
         "american",
         "pizza"

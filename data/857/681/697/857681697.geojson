@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.705394,21.278525,-157.705394,21.278525",
     "geom:latitude":21.278525,
     "geom:longitude":-157.705394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7192 Kalanianaole Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206793,
-    "wof:geomhash":"1d7f52467f84f0a102cbffa388079112",
+    "wof:geomhash":"ac9102cc25fb11be48c8b54dbd110f58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":857681697,
-    "wof:lastmodified":1472619928,
+    "wof:lastmodified":1510941221,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857512319
+    ],
     "wof:tags":[
         "american",
         "pizza"

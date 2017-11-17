@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.855266,21.31368,-157.855266,21.31368",
     "geom:latitude":21.31368,
     "geom:longitude":-157.855266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1441 Pali Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204501,
-    "wof:geomhash":"ad803e46bbf2462d7026fbdce8125d94",
+    "wof:geomhash":"e6955ccbf62c073e7cb8ee2f67ba145d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":857622709,
-    "wof:lastmodified":1472619829,
+    "wof:lastmodified":1510942674,
     "wof:name":"YMCA",
     "wof:parent_id":85872713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857533281
+    ],
     "wof:tags":[
         "organization",
         "welfare"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.803047,21.420068,-157.803047,21.420068",
     "geom:latitude":21.420068,
     "geom:longitude":-157.803047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Kamehameha Hwy",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202871,
-    "wof:geomhash":"bf4f696406ea131415cc61f29121dea1",
+    "wof:geomhash":"33bc32acf418815a051b8a68805d7b10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":857546817,
-    "wof:lastmodified":1472619763,
+    "wof:lastmodified":1510944012,
     "wof:name":"I M S Inc",
     "wof:parent_id":85824543,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857537333
+    ],
     "wof:tags":[]
 },
   "bbox": [

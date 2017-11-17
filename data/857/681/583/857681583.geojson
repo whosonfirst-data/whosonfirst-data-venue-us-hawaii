@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.875797,21.324619,-157.875797,21.324619",
     "geom:latitude":21.324619,
     "geom:longitude":-157.875797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1414 Dillingham Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206789,
-    "wof:geomhash":"be747328059d27472cfa4e81b664e34f",
+    "wof:geomhash":"b279da0414c3080b26c45343428eec3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":857681583,
-    "wof:lastmodified":1472619927,
+    "wof:lastmodified":1510944185,
     "wof:name":"McDonald's",
     "wof:parent_id":85872723,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857561765
+    ],
     "wof:tags":[
         "burger",
         "american"

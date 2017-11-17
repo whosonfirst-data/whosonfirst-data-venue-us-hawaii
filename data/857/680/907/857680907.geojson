@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.693796,20.920866,-156.693796,20.920866",
     "geom:latitude":20.920866,
     "geom:longitude":-156.693796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2435 Kaanapali Pkwy",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206761,
-    "wof:geomhash":"b93c111bfd32799d126d7f201a6d36fb",
+    "wof:geomhash":"24a59b5b4d5434f42d3d0631416bbdaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":857680907,
-    "wof:lastmodified":1472619929,
+    "wof:lastmodified":1510941296,
     "wof:name":"Leilani's On The Beach",
     "wof:parent_id":85890509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857518927
+    ],
     "wof:tags":[
         "seafood",
         "american"

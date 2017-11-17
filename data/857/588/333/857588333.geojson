@@ -7,13 +7,16 @@
     "addr:postcode":"96813",
     "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.863037,21.299438,-157.863037,21.299438",
     "geom:latitude":21.299438,
     "geom:longitude":-157.863037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"521 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203722,
-    "wof:geomhash":"12ce72b084490f962cee8d430e77397c",
+    "wof:geomhash":"922e00d7333b84ce3d7885b1a73d4163",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":857588333,
-    "wof:lastmodified":1472619794,
+    "wof:lastmodified":1510943576,
     "wof:name":"Jack's Handicraft LTD",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857612787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "importer"

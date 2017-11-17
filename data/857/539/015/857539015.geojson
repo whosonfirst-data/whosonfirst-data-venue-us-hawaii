@@ -7,13 +7,16 @@
     "addr:postcode":"96815",
     "addr:street":"Kalakaua Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.827932,21.278318,-157.827932,21.278318",
     "geom:latitude":21.278318,
     "geom:longitude":-157.827932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2270 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202719,
-    "wof:geomhash":"02feb8f17c59df7303cc3c04f6d0f82c",
+    "wof:geomhash":"e9413847d942f48d5d261d969383f515",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":857539015,
-    "wof:lastmodified":1472619739,
+    "wof:lastmodified":1510943655,
     "wof:name":"TOM Hawaii Inc",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857563809
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tours",

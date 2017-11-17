@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.844291,21.299844,-157.844291,21.299844",
     "geom:latitude":21.299844,
     "geom:longitude":-157.844291,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1113 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205319,
-    "wof:geomhash":"4efa2ca0e0b0694bf76f4414c707b6da",
+    "wof:geomhash":"e1e68690501ba86f57e6ae5f4f0d28e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":857646643,
-    "wof:lastmodified":1472619869,
+    "wof:lastmodified":1510942283,
     "wof:name":"Healthy Way",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857502553
+    ],
     "wof:tags":[
         "consultant",
         "health"

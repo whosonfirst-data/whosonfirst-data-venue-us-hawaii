@@ -7,13 +7,16 @@
     "addr:postcode":"96720",
     "addr:street":"Ululani St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.088913,19.723113,-155.088913,19.723113",
     "geom:latitude":19.723113,
     "geom:longitude":-155.088913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"177 Ululani St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203117,
-    "wof:geomhash":"8e1f781250c4d5389e8f7177e385bb64",
+    "wof:geomhash":"8f205d28e1266dae4d2b452649d17ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":857558449,
-    "wof:lastmodified":1472619764,
+    "wof:lastmodified":1510944097,
     "wof:name":"McDonalds",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857680631
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

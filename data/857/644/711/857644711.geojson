@@ -7,13 +7,16 @@
     "addr:postcode":"96720",
     "addr:street":"Aupuni St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-155.077651,19.718284,-155.077651,19.718284",
     "geom:latitude":19.718284,
     "geom:longitude":-155.077651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Aupuni St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205227,
-    "wof:geomhash":"d4255870915a120c140bdc48859ceec0",
+    "wof:geomhash":"31fa43d9fe1dc075efb1e652a1832f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":857644711,
-    "wof:lastmodified":1472619866,
+    "wof:lastmodified":1510943033,
     "wof:name":"P B R Hawaii",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857671475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city",

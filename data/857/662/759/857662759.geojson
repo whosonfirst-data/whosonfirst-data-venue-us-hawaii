@@ -7,13 +7,16 @@
     "addr:postcode":"96761",
     "addr:street":"Front St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-156.680329,20.875383,-156.680329,20.875383",
     "geom:latitude":20.875383,
     "geom:longitude":-156.680329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"671 Front St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206038,
-    "wof:geomhash":"f1d4daba7e606a63ad28bc2bd1b492b7",
+    "wof:geomhash":"6b052045c7a09152b758b3196eda4ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":857662759,
-    "wof:lastmodified":1472619903,
+    "wof:lastmodified":1510943567,
     "wof:name":"Bad Ass Coffee Co",
     "wof:parent_id":85890527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857680989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tea",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-157.968508,21.393331,-157.968508,21.393331",
     "geom:latitude":21.393331,
     "geom:longitude":-157.968508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"850 Kamehameha Hwy",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206766,
-    "wof:geomhash":"0e7a7c4a1e7228844ff888a22dbe95a8",
+    "wof:geomhash":"b37af8ad2823364f27797fdafe0adeab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":857681035,
-    "wof:lastmodified":1472619916,
+    "wof:lastmodified":1510941742,
     "wof:name":"Chuck E. Cheese's",
     "wof:parent_id":85890647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857676437
+    ],
     "wof:tags":[
         "american",
         "pizza"
