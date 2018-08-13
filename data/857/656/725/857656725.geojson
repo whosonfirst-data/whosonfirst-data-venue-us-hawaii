@@ -7,6 +7,7 @@
     "addr:postcode":"96822",
     "addr:street":"Woodlawn Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.810046,21.307362,-157.810046,21.307362",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.810046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2752 Woodlawn Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205756,
-    "wof:geomhash":"843b7b5c5e18a25a462886e3c8ce08c2",
+    "wof:geomhash":"1f5d97dd0bac996ee28d29dbe2ac3a6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857656725,
-    "wof:lastmodified":1472619889,
+    "wof:lastmodified":1534182386,
     "wof:name":"Kays Crackseed Inc",
     "wof:parent_id":85846695,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857531677
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

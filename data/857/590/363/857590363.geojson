@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"N Vineyard Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.860055,21.31718,-157.860055,21.31718",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.860055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 N Vineyard Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203769,
-    "wof:geomhash":"e358bb2f924aa6e37fa48063cfb46268",
+    "wof:geomhash":"a1deb386821ee845f056af6b05d40d83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857590363,
-    "wof:lastmodified":1472619796,
+    "wof:lastmodified":1534182394,
     "wof:name":"Community Assitance Center",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857675147
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

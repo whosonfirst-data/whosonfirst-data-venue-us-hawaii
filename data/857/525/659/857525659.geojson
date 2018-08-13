@@ -7,6 +7,7 @@
     "addr:postcode":"96766",
     "addr:street":"Rice St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-159.352888,21.9608,-159.352888,21.9608",
@@ -14,6 +15,7 @@
     "geom:longitude":-159.352888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3501 Rice St",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202463,
-    "wof:geomhash":"4d123325410614cb4b0ad2c7e3ddb377",
+    "wof:geomhash":"b8ade286f590d6ef4841e1a1f8c3a2a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857525659,
-    "wof:lastmodified":1472619742,
+    "wof:lastmodified":1534182387,
     "wof:name":"Tokyo Lobby",
     "wof:parent_id":85890567,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857532711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

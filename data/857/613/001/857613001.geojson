@@ -2,18 +2,24 @@
   "id": 857613001,
   "type": "Feature",
   "properties": {
-    "addr:full":"4428 Rice St Lihue HI 96766",
+    "addr:city":"Lihue",
+    "addr:full":"4428 Rice St Lihue, Hi 96766-1338",
+    "addr:house_number":"4428",
     "addr:housenumber":"4428",
-    "addr:postcode":"96766",
+    "addr:phone":"+1 808-245-6931",
+    "addr:postcode":"96766-1338",
+    "addr:road":"Rice St",
+    "addr:state":"HI",
     "addr:street":"Rice St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-159.368619,21.974987,-159.368619,21.974987",
-    "geom:latitude":21.974987,
-    "geom:longitude":-159.368619,
+    "geom:bbox":"-159.3684,21.97492,-159.3684,21.97492",
+    "geom:latitude":21.97492,
+    "geom:longitude":-159.3684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4428 Rice St",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -28,18 +34,22 @@
     "sg:postcode":"96766",
     "sg:province":"HI",
     "sg:website":"www.kauaimuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528943
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401500112,
         "sg:id":"SG_2neP407HeaY6gPAdEpsVht_21.974987_-159.368619@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204281,
-    "wof:geomhash":"ebf71d8e7469ca16f9409ae7f7da6b21",
+    "wof:geomhash":"5cb69f15c68ba855fc635ae81a6959c8",
     "wof:hierarchy":[],
     "wof:id":857613001,
-    "wof:lastmodified":1472619807,
+    "wof:lastmodified":1534182395,
     "wof:name":"Kauai Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -159.368619,
-    21.974987,
-    -159.368619,
-    21.974987
+    -159.3684,
+    21.97492,
+    -159.3684,
+    21.97492
 ],
-  "geometry": {"coordinates":[-159.368619,21.974987],"type":"Point"}
+  "geometry": {"coordinates":[-159.36840000000001,21.97492],"type":"Point"}
 }

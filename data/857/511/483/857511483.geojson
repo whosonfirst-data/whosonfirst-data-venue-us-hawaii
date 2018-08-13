@@ -14,6 +14,7 @@
     "geom:longitude":-158.020318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Leoleo St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202176,
-    "wof:geomhash":"4f0c364b0367b038ffd90792f2ae7985",
+    "wof:geomhash":"aafd8a4182ffdf6fac59cc2cdc75c946",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857511483,
-    "wof:lastmodified":1472619722,
+    "wof:lastmodified":1534182385,
     "wof:name":"Fordable Construction LLC",
     "wof:parent_id":85826167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857557541
+    ],
     "wof:tags":[
         "steel",
         "new",

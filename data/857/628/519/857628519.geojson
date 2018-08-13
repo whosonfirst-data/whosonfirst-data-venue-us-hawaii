@@ -7,6 +7,7 @@
     "addr:postcode":"96701",
     "addr:street":"Moanalua Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.940795,21.385893,-157.940795,21.385893",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.940795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1005 Moanalua Rd",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204633,
-    "wof:geomhash":"2cb37d3f12792a38ee2f1c678ebad4e6",
+    "wof:geomhash":"328313599e741e03a631c994d12d38dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857628519,
-    "wof:lastmodified":1472619831,
+    "wof:lastmodified":1534182385,
     "wof:name":"Watch Center of Hawaii Inc",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857538599
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repair",

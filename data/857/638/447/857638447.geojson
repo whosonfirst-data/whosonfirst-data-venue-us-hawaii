@@ -7,6 +7,7 @@
     "addr:postcode":"96766",
     "addr:street":"Kaumualii Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-159.384317,21.970843,-159.384317,21.970843",
@@ -14,6 +15,7 @@
     "geom:longitude":-159.384317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2600 Kaumualii Hwy",
     "sg:city":"Lihue",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204956,
-    "wof:geomhash":"bbd2baed5e9ce9d99ee99ddb76aece2d",
+    "wof:geomhash":"daacf149f2b6a55fbb5b8bc72dea8a06",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":857638447,
-    "wof:lastmodified":1472619854,
+    "wof:lastmodified":1534182393,
     "wof:name":"Mark's Hallmark Shop",
     "wof:parent_id":85890571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857672377
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

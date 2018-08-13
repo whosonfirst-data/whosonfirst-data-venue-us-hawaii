@@ -7,6 +7,7 @@
     "addr:postcode":"96815",
     "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.83812,21.284812,-157.83812,21.284812",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.83812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1777 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204755,
-    "wof:geomhash":"0deaf29844f4d45766db8140451eb858",
+    "wof:geomhash":"5b1a23bc78fe5b0d4d6c7666903173be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857632981,
-    "wof:lastmodified":1472619857,
+    "wof:lastmodified":1534182387,
     "wof:name":"Crazy Shirts Inc",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857532707
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shirt"

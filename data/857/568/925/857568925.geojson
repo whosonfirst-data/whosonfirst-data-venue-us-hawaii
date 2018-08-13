@@ -7,6 +7,7 @@
     "addr:postcode":"96734",
     "addr:street":"Kailua Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.741761,21.393841,-157.741761,21.393841",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.741761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"629 Kailua Rd",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464203332,
-    "wof:geomhash":"059a82201d0db4f9b4de76cca8b02e0f",
+    "wof:geomhash":"c43be2e10d8e5f0086d8af2b4c2b9dd3",
     "wof:hierarchy":[],
     "wof:id":857568925,
-    "wof:lastmodified":1472619786,
+    "wof:lastmodified":1534182393,
     "wof:name":"Sterlings Carpet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857677919
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

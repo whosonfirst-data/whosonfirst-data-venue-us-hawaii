@@ -14,6 +14,7 @@
     "geom:longitude":-157.842871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1330 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202546,
-    "wof:geomhash":"7a9debf0654b304c4951d1c43b0a25a9",
+    "wof:geomhash":"0cca85accd30bf176b4ddf443d6f6bdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857530139,
-    "wof:lastmodified":1472619739,
+    "wof:lastmodified":1534182386,
     "wof:name":"Nauru Tower",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857535647
+    ],
     "wof:tags":[
         "condominium"
     ]

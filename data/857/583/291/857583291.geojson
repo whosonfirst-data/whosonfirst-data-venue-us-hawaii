@@ -7,6 +7,7 @@
     "addr:postcode":"96720",
     "addr:street":"Kinoole St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-155.08504,19.719011,-155.08504,19.719011",
@@ -14,6 +15,7 @@
     "geom:longitude":-155.08504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"688 Kinoole St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203613,
-    "wof:geomhash":"1f054cfc0f11e6c9f21720c2abea52c4",
+    "wof:geomhash":"5562d07caa0786f77032a4f27d455205",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":857583291,
-    "wof:lastmodified":1472619780,
+    "wof:lastmodified":1534182388,
     "wof:name":"J W Revell and Associates Inc",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857636553
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker"

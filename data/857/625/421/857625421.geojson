@@ -14,6 +14,7 @@
     "geom:longitude":-157.827932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2270 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204570,
-    "wof:geomhash":"02feb8f17c59df7303cc3c04f6d0f82c",
+    "wof:geomhash":"e9413847d942f48d5d261d969383f515",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857625421,
-    "wof:lastmodified":1472619831,
+    "wof:lastmodified":1534182389,
     "wof:name":"NEO Intl Inc",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857541743
+    ],
     "wof:tags":[
         "cosmetic",
         "perfume"

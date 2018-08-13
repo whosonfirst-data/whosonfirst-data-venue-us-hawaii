@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Queen St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.8612,21.305716,-157.8612,21.305716",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.8612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"345 Queen St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203567,
-    "wof:geomhash":"8e004f82d9c22f7cc8c039a5ffe23e60",
+    "wof:geomhash":"c1bc2c250cfe4738dc1c2e2f456d48b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857580749,
-    "wof:lastmodified":1472619791,
+    "wof:lastmodified":1534182394,
     "wof:name":"Breiner Myles Law Offices",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857676167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

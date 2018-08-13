@@ -7,6 +7,7 @@
     "addr:postcode":"96720",
     "addr:street":"Aupuni St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-155.077651,19.718284,-155.077651,19.718284",
@@ -14,6 +15,7 @@
     "geom:longitude":-155.077651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Aupuni St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205711,
-    "wof:geomhash":"d4255870915a120c140bdc48859ceec0",
+    "wof:geomhash":"31fa43d9fe1dc075efb1e652a1832f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":857655709,
-    "wof:lastmodified":1472619887,
+    "wof:lastmodified":1534182385,
     "wof:name":"Office of Veterans Services",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857509531
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "state",

@@ -15,6 +15,7 @@
     "geom:longitude":-157.862738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206599,
-    "wof:geomhash":"0fd6f48e8ec5566ab945ae4d68686fe3",
+    "wof:geomhash":"c6fde2bb87e528d814d88c46db6c0c58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":857676625,
-    "wof:lastmodified":1491904926,
+    "wof:lastmodified":1534182394,
     "wof:name":"US Pretrial Svc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857598267
+    ],
     "wof:tags":[]
 },
   "bbox": [

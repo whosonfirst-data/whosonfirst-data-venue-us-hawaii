@@ -14,6 +14,7 @@
     "geom:longitude":-156.469768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Lono Ave",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204077,
-    "wof:geomhash":"297d5ae30b8e34776e7f61f17d259090",
+    "wof:geomhash":"dca1cd9b8ba33192cee4bd2d2c78662c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857604099,
-    "wof:lastmodified":1472619804,
+    "wof:lastmodified":1534182388,
     "wof:name":"Charter Funding of Hawaii",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857586335
+    ],
     "wof:tags":[
         "mortgage"
     ]

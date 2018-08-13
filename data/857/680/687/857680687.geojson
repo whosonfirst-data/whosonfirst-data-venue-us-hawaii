@@ -14,6 +14,7 @@
     "geom:longitude":-156.474456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 W Kaahumanu Ave",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206752,
-    "wof:geomhash":"a000531848fed708dd891a70ed730c51",
+    "wof:geomhash":"478b345fb9dcdb6b397b9640d4ab775b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":857680687,
-    "wof:lastmodified":1472619927,
+    "wof:lastmodified":1534182393,
     "wof:name":"Maui Tacos",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857606299
+    ],
     "wof:tags":[
         "american",
         "mexican",

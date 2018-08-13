@@ -14,6 +14,7 @@
     "geom:longitude":-157.861571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 Richards St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202586,
-    "wof:geomhash":"451d634d19f46ef3147b04dd22f3c33b",
+    "wof:geomhash":"13fb62bdddca790f8e9386cab05ef772",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857532057,
-    "wof:lastmodified":1472619735,
+    "wof:lastmodified":1534182386,
     "wof:name":"Law Offices Evangelista Quiban",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857678971
+    ],
     "wof:tags":[
         "law"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"96814",
     "addr:street":"Kaheka St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.839129,21.294305,-157.839129,21.294305",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.839129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"738 Kaheka St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205896,
-    "wof:geomhash":"7423646e49319dd64ab974d363f44557",
+    "wof:geomhash":"69c4846355e401c8b8e06dd18e4d3b6b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":857659789,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1534182393,
     "wof:name":"Hawaii Public Radio",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857663825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

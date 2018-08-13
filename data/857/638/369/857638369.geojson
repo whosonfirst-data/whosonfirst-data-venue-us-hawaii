@@ -7,6 +7,7 @@
     "addr:postcode":"96732",
     "addr:street":"Lalo St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.458474,20.88324,-156.458474,20.88324",
@@ -14,6 +15,7 @@
     "geom:longitude":-156.458474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"283 Lalo St",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204953,
-    "wof:geomhash":"9021f9968583696d88f5edd40c6db921",
+    "wof:geomhash":"0d735649d43711fb92c204bfdcd96e58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857638369,
-    "wof:lastmodified":1472619853,
+    "wof:lastmodified":1534182392,
     "wof:name":"Arthur's Limousine Svc",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857667313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "limousine"

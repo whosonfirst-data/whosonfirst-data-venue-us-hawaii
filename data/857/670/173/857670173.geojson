@@ -14,6 +14,7 @@
     "geom:longitude":-157.834698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1319 Punahou St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206347,
-    "wof:geomhash":"8c2d057e3a0d79f3cba8fc68077fe6f1",
+    "wof:geomhash":"da3519005910696c009a86aa83ab7009",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857670173,
-    "wof:lastmodified":1472619898,
+    "wof:lastmodified":1534182395,
     "wof:name":"Walton K T Shim MD Chld Srgery",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857647343
+    ],
     "wof:tags":[
         "surgeon",
         "pediatric"

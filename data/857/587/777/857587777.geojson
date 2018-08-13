@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"Kekaulike St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.863565,21.312736,-157.863565,21.312736",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.863565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1039 Kekaulike St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203709,
-    "wof:geomhash":"3badf2adca84dcd09014d6d0af98350f",
+    "wof:geomhash":"705720e4e253ef03c1bedea49bb90d30",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857587777,
-    "wof:lastmodified":1472619798,
+    "wof:lastmodified":1534182388,
     "wof:name":"Mc Art Maia Market",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857637805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "produce"

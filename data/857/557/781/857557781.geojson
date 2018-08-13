@@ -2,18 +2,23 @@
   "id": 857557781,
   "type": "Feature",
   "properties": {
-    "addr:full":"726 S Kihei Rd Kihei HI 96753",
+    "addr:city":"Kihei",
+    "addr:full":"726 South Kihei Road Kihei, Hi 96753",
+    "addr:house_number":"726",
     "addr:housenumber":"726",
     "addr:postcode":"96753",
+    "addr:road":"South Kihei Road",
+    "addr:state":"HI",
     "addr:street":"S Kihei Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-156.458413,20.765517,-156.458413,20.765517",
-    "geom:latitude":20.765517,
-    "geom:longitude":-156.458413,
+    "geom:bbox":"-156.45833,20.76367,-156.45833,20.76367",
+    "geom:latitude":20.76367,
+    "geom:longitude":-156.45833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"726 S Kihei Rd",
     "sg:city":"Kihei",
     "sg:classifiers":[
@@ -27,19 +32,23 @@
     "sg:phone":"+1 808 879 2818",
     "sg:postcode":"96753",
     "sg:province":"HI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532929
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400250,
         "sg:id":"SG_5PFlYQYURtlO5kYbhyEhZ9_20.765517_-156.458413@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203093,
-    "wof:geomhash":"00be7ab9926854c92b6e6387b4e0f522",
+    "wof:geomhash":"080f50ad2acb5ac13b83dc57534952fd",
     "wof:hierarchy":[],
     "wof:id":857557781,
-    "wof:lastmodified":1472619769,
-    "wof:name":"HAWAIIAN Island Humpback Whale",
+    "wof:lastmodified":1534182395,
+    "wof:name":"Hawaiian Islands Humpback Whale Visitor Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
@@ -48,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -156.458413,
-    20.765517,
-    -156.458413,
-    20.765517
+    -156.45833,
+    20.76367,
+    -156.45833,
+    20.76367
 ],
-  "geometry": {"coordinates":[-156.45841300000001,20.765517],"type":"Point"}
+  "geometry": {"coordinates":[-156.45832999999999,20.76367],"type":"Point"}
 }

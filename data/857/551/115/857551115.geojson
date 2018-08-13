@@ -7,6 +7,7 @@
     "addr:postcode":"96819",
     "addr:street":"Sand Island Access Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.889087,21.316561,-157.889087,21.316561",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.889087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5 Sand Island Access Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202950,
-    "wof:geomhash":"97eae842ec2198223b0a1fdbdc513525",
+    "wof:geomhash":"ea2c9b940aae0cc7df1ffc6c30a5daf8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857551115,
-    "wof:lastmodified":1472619752,
+    "wof:lastmodified":1534182386,
     "wof:name":"Harbor House Inc/Kids Kitchen",
     "wof:parent_id":85827737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857528957
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organization",

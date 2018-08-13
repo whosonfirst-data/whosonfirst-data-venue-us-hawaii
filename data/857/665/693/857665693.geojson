@@ -14,6 +14,7 @@
     "geom:longitude":-157.861593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 Liliha St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206158,
-    "wof:geomhash":"ffd810b0952e7e77e74817c3a39374f9",
+    "wof:geomhash":"c3127c67273d558568cb221e5b153606",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857665693,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1534182393,
     "wof:name":"Lin's Canton Foods Inc",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857561897
+    ],
     "wof:tags":[
         "caterer"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-156.489549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1063 Lower Main St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203540,
-    "wof:geomhash":"05162d15475c05ec79ee58870ad4217b",
+    "wof:geomhash":"128144b1b4348ebd632ae3d1ae04074d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857579351,
-    "wof:lastmodified":1472619783,
+    "wof:lastmodified":1534182388,
     "wof:name":"Saito Norman Engrg Cons In",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857568239
+    ],
     "wof:tags":[
         "civil",
         "consulting",

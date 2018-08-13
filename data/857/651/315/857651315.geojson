@@ -14,6 +14,7 @@
     "geom:longitude":-156.685539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Front St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205512,
-    "wof:geomhash":"b0d17ab528587051bf2a39fb78e86f6d",
+    "wof:geomhash":"eef56c1caf20db215fbe4494831fb415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":857651315,
-    "wof:lastmodified":1472619875,
+    "wof:lastmodified":1534182391,
     "wof:name":"Rainbow Beach Swimwear",
     "wof:parent_id":85890517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857606119
+    ],
     "wof:tags":[
         "swimwear",
         "accessory"

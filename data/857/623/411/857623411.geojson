@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"N Nimitz Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.870033,21.313861,-157.870033,21.313861",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.870033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"560 N Nimitz Hwy",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204515,
-    "wof:geomhash":"e8f14bf7730d2cc727130eda24ce17ed",
+    "wof:geomhash":"fb7900889e1baab1edc55107956ed832",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857623411,
-    "wof:lastmodified":1472619832,
+    "wof:lastmodified":1534182388,
     "wof:name":"Lavino Shipping",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857591137
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "passenger",

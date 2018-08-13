@@ -7,6 +7,7 @@
     "addr:postcode":"96826",
     "addr:street":"Punahou St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.834698,21.299511,-157.834698,21.299511",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.834698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1319 Punahou St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205349,
-    "wof:geomhash":"8c2d057e3a0d79f3cba8fc68077fe6f1",
+    "wof:geomhash":"da3519005910696c009a86aa83ab7009",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":857647343,
-    "wof:lastmodified":1472619860,
+    "wof:lastmodified":1534182395,
     "wof:name":"Children's Surgery LTD",
     "wof:parent_id":85872731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857670173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

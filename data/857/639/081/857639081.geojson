@@ -7,6 +7,7 @@
     "addr:postcode":"96786",
     "addr:street":"California Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.031858,21.49517,-158.031858,21.49517",
@@ -14,6 +15,7 @@
     "geom:longitude":-158.031858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"302 California Ave",
     "sg:city":"Wahiawa",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204986,
-    "wof:geomhash":"cd9c65c0ac0acc94c05f2c5e118f2a28",
+    "wof:geomhash":"695f77b8ad80fae9bdbdb6ab33513dee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857639081,
-    "wof:lastmodified":1472619840,
+    "wof:lastmodified":1534182387,
     "wof:name":"Salvador B Cecilio MD",
     "wof:parent_id":85890125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857539129
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

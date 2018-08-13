@@ -14,6 +14,7 @@
     "geom:longitude":-157.937757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1079 Moanalua Rd",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204462,
-    "wof:geomhash":"73a26e29ef72ff71f15a3c2fbbe2d2e9",
+    "wof:geomhash":"0f46967e896664ab1a697f76b8f3a655",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857621453,
-    "wof:lastmodified":1472619825,
+    "wof:lastmodified":1534182390,
     "wof:name":"Hiro Makino Inc",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857584851
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

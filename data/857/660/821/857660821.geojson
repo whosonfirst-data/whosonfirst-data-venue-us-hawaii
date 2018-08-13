@@ -14,6 +14,7 @@
     "geom:longitude":-156.506277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 N Church St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205946,
-    "wof:geomhash":"e097990a6bcc0c592356a8543f27551b",
+    "wof:geomhash":"16e7332435918ecd431d1616137976aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857660821,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1534182390,
     "wof:name":"William T Kinaka",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857571909
+    ],
     "wof:tags":[
         "attorney"
     ]

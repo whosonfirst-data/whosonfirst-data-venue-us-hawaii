@@ -14,6 +14,7 @@
     "geom:longitude":-157.846586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205396,
-    "wof:geomhash":"c133c2637f868758860a9a3be7743a00",
+    "wof:geomhash":"bfbc3bcc0b8b7d4a7f91cb8823aed1d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":857648549,
-    "wof:lastmodified":1472619864,
+    "wof:lastmodified":1534182390,
     "wof:name":"Sani Systems Incorporated",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857606827
+    ],
     "wof:tags":[]
 },
   "bbox": [

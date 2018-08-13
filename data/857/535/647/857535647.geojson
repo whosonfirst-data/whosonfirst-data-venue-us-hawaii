@@ -7,6 +7,7 @@
     "addr:postcode":"96814",
     "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.842871,21.289524,-157.842871,21.289524",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.842871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1330 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202655,
-    "wof:geomhash":"7a9debf0654b304c4951d1c43b0a25a9",
+    "wof:geomhash":"0cca85accd30bf176b4ddf443d6f6bdb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857535647,
-    "wof:lastmodified":1472619747,
+    "wof:lastmodified":1534182386,
     "wof:name":"Nauru Tower Inc",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857530139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "real estate"

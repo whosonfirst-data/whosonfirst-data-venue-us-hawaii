@@ -14,6 +14,7 @@
     "geom:longitude":-157.855007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 Auahi St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205535,
-    "wof:geomhash":"991ddb4d0ac142b1132109cb1e9280c7",
+    "wof:geomhash":"513a7d32294e660c18bd432e6f60a75f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":857651821,
-    "wof:lastmodified":1472619881,
+    "wof:lastmodified":1534182391,
     "wof:name":"I C E S",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857609119
+    ],
     "wof:tags":[]
 },
   "bbox": [

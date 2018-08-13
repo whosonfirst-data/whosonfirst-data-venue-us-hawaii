@@ -14,6 +14,7 @@
     "geom:longitude":-158.007576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1249 Meheula Pkwy",
     "sg:city":"Mililani",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205654,
-    "wof:geomhash":"ce0cb552213c7606178239d204a40129",
+    "wof:geomhash":"93371fcc68b0b34728492ebed80ec6a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857654459,
-    "wof:lastmodified":1472619884,
+    "wof:lastmodified":1534182393,
     "wof:name":"Omphroy & Omphroy",
     "wof:parent_id":85854149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857663437
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

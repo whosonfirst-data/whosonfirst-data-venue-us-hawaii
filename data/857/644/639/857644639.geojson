@@ -15,6 +15,7 @@
     "geom:longitude":-157.864567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Aloha Tower Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205223,
-    "wof:geomhash":"f3ba80a9fdf6a50f18b94387bf512a00",
+    "wof:geomhash":"ff8c3896cbe25cd7b1698d58d64f8112",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,13 +67,15 @@
         }
     ],
     "wof:id":857644639,
-    "wof:lastmodified":1491904925,
+    "wof:lastmodified":1534182390,
     "wof:name":"Big Island Steakhouse The",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857578003
+    ],
     "wof:tags":[
         "eating"
     ]

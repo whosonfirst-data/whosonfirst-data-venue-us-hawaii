@@ -14,6 +14,7 @@
     "geom:longitude":-157.856135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 Ward Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206073,
-    "wof:geomhash":"deb234d1c203925706272421cdbcb9ba",
+    "wof:geomhash":"dcbc2aeea264c5ed58bf887750b7d5ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":857663665,
-    "wof:lastmodified":1472619897,
+    "wof:lastmodified":1534182392,
     "wof:name":"Signs By Dey",
     "wof:parent_id":85872715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857563715
+    ],
     "wof:tags":[]
 },
   "bbox": [

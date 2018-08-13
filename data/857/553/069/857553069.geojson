@@ -14,6 +14,7 @@
     "geom:longitude":-157.843114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202990,
-    "wof:geomhash":"0cbc799720a19b551a38fd184d3cd615",
+    "wof:geomhash":"2352433f76a9383850d44c515c291e7e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857553069,
-    "wof:lastmodified":1472619758,
+    "wof:lastmodified":1534182387,
     "wof:name":"Dan's Air Conditioning Svc",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857589385
+    ],
     "wof:tags":[
         "equipment",
         "conditioning",

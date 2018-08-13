@@ -14,6 +14,7 @@
     "geom:longitude":-157.826568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2330 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203611,
-    "wof:geomhash":"aa13d2aa6bdf891b6ded3d32ee0eafc7",
+    "wof:geomhash":"7e410648ba670c6a536bb9fb33c2f548",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857583177,
-    "wof:lastmodified":1472619779,
+    "wof:lastmodified":1534182388,
     "wof:name":"U S Mart Inc",
     "wof:parent_id":85827783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857539925
+    ],
     "wof:tags":[
         "jeweler"
     ]

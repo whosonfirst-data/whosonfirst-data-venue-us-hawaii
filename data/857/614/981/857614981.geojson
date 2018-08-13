@@ -14,6 +14,7 @@
     "geom:longitude":-156.680039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"658 Front St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204322,
-    "wof:geomhash":"91fd8039edaf755002e056a0c385e923",
+    "wof:geomhash":"cc279f2d949aa17ba4bb39497fe58706",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857614981,
-    "wof:lastmodified":1472619826,
+    "wof:lastmodified":1534182389,
     "wof:name":"Crazy Shirts At The Wharf",
     "wof:parent_id":85890527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857578803
+    ],
     "wof:tags":[
         "t"
     ]

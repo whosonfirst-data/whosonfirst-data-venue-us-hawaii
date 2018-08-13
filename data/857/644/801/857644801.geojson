@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"N King St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.864268,21.312952,-157.864268,21.312952",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.864268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"145 N King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205231,
-    "wof:geomhash":"07e791ff1c2d41f1bb8857f7baac26f6",
+    "wof:geomhash":"1a7eee244d8e35ce0c2664811a13e81c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857644801,
-    "wof:lastmodified":1472619867,
+    "wof:lastmodified":1534182390,
     "wof:name":"Ishimoto Fish Market",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857646067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"

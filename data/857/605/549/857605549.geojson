@@ -14,6 +14,7 @@
     "geom:longitude":-157.862895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"733 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204108,
-    "wof:geomhash":"3c391f7acc4b2980abae62849f866633",
+    "wof:geomhash":"83bd051af4a7eab5e453140d79f61f17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857605549,
-    "wof:lastmodified":1472619810,
+    "wof:lastmodified":1534182389,
     "wof:name":"John Schmidtke Jr Law Offices",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857588791
+    ],
     "wof:tags":[
         "attorney"
     ]

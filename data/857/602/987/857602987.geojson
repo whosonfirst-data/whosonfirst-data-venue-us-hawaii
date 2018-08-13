@@ -14,6 +14,7 @@
     "geom:longitude":-157.859391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1188 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204050,
-    "wof:geomhash":"00fa491db22afb7e593b43e548ccdd5a",
+    "wof:geomhash":"30b3049bfa88b89fdd00d5b9997a31c9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857602987,
-    "wof:lastmodified":1472619815,
+    "wof:lastmodified":1534182388,
     "wof:name":"Ralston Psychological Svc Inc",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857588753
+    ],
     "wof:tags":[
         "psychologist"
     ]

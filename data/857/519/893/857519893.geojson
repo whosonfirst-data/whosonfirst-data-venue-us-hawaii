@@ -14,6 +14,7 @@
     "geom:longitude":-157.844022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1440 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202348,
-    "wof:geomhash":"38829c2789a47db39b5b7350ccb112c0",
+    "wof:geomhash":"f9beba0030708d98dfe332834091727d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":857519893,
-    "wof:lastmodified":1472619731,
+    "wof:lastmodified":1534182385,
     "wof:name":"Tosei Properties",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857652483
+    ],
     "wof:tags":[]
 },
   "bbox": [

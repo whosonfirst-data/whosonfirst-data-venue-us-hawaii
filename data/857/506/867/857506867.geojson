@@ -14,6 +14,7 @@
     "geom:longitude":-155.077651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Aupuni St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202077,
-    "wof:geomhash":"d4255870915a120c140bdc48859ceec0",
+    "wof:geomhash":"31fa43d9fe1dc075efb1e652a1832f77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":857506867,
-    "wof:lastmodified":1472619720,
+    "wof:lastmodified":1534182387,
     "wof:name":"Brian T Nishimura Planning",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857540179
+    ],
     "wof:tags":[
         "town",
         "city",

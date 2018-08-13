@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Bethel St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.860574,21.311054,-157.860574,21.311054",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.860574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1149 Bethel St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203849,
-    "wof:geomhash":"02a7982760209626827f9f70fe2739f0",
+    "wof:geomhash":"6f62ebf109e6b3493fecf69b9247e04b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857594019,
-    "wof:lastmodified":1472619797,
+    "wof:lastmodified":1534182389,
     "wof:name":"Leland's",
     "wof:parent_id":85872737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857609961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

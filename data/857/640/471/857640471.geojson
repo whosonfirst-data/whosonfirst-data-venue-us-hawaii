@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.85895,21.31044,-157.85895,21.31044",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.85895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1164 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205044,
-    "wof:geomhash":"675feef82aa804c69bdde03761cd2662",
+    "wof:geomhash":"1ba72db84532908476abcaf76693bec6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857640471,
-    "wof:lastmodified":1472619851,
+    "wof:lastmodified":1534182390,
     "wof:name":"Sherman S Hee Attorney",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857655737
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

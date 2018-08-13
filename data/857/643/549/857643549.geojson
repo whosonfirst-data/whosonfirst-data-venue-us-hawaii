@@ -2,18 +2,24 @@
   "id": 857643549,
   "type": "Feature",
   "properties": {
-    "addr:full":"560 Kawaiahao St Honolulu HI 96813",
+    "addr:city":"Honolulu",
+    "addr:full":"560 Kawaiahao St Honolulu, Hi 96813-5023",
+    "addr:house_number":"560",
     "addr:housenumber":"560",
-    "addr:postcode":"96813",
+    "addr:phone":"+1 808-537-6271",
+    "addr:postcode":"96813-5023",
+    "addr:road":"Kawaiahao St",
+    "addr:state":"HI",
     "addr:street":"Kawaiahao St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-157.857311,21.303901,-157.857311,21.303901",
-    "geom:latitude":21.303901,
-    "geom:longitude":-157.857311,
+    "geom:bbox":"-157.85698,21.30393,-157.85698,21.30393",
+    "geom:latitude":21.30393,
+    "geom:longitude":-157.85698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"560 Kawaiahao St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -28,18 +34,22 @@
     "sg:postcode":"96813",
     "sg:province":"HI",
     "sg:website":"www.hawaiianhistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533997
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401500105,
         "sg:id":"SG_5vKxldTpPYX9aCV5GaQELm_21.303901_-157.857311@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464205176,
-    "wof:geomhash":"bd5f747f8d97cf87fb5cbeaf721de104",
+    "wof:geomhash":"45d5dec8db50392175ed5b246f5ce21e",
     "wof:hierarchy":[],
     "wof:id":857643549,
-    "wof:lastmodified":1472619861,
+    "wof:lastmodified":1534182395,
     "wof:name":"Hawaiian Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -157.857311,
-    21.303901,
-    -157.857311,
-    21.303901
+    -157.85698,
+    21.30393,
+    -157.85698,
+    21.30393
 ],
-  "geometry": {"coordinates":[-157.85731100000001,21.303901],"type":"Point"}
+  "geometry": {"coordinates":[-157.85697999999999,21.30393],"type":"Point"}
 }

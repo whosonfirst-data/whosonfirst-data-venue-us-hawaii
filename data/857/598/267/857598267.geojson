@@ -7,6 +7,7 @@
     "addr:postcode":"96850",
     "addr:street":"Ala Moana Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-157.862738,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Ala Moana Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203946,
-    "wof:geomhash":"0fd6f48e8ec5566ab945ae4d68686fe3",
+    "wof:geomhash":"c6fde2bb87e528d814d88c46db6c0c58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":857598267,
-    "wof:lastmodified":1491904920,
+    "wof:lastmodified":1534182394,
     "wof:name":"U S Pretrial Services Offices",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857676625
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

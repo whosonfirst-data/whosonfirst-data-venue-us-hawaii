@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"S King St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.858913,21.305488,-157.858913,21.305488",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.858913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"417 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464203295,
-    "wof:geomhash":"2ce291ab001383351938e0a5a2ca2e3c",
+    "wof:geomhash":"6c516ed6e8fa3f5a2eec4263ceebb082",
     "wof:hierarchy":[],
     "wof:id":857566871,
-    "wof:lastmodified":1472619784,
+    "wof:lastmodified":1534182393,
     "wof:name":"Supreme Court Chief Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857677535
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "state"

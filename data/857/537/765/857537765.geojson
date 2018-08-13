@@ -14,6 +14,7 @@
     "geom:longitude":-157.827687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"334 Seaside Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202694,
-    "wof:geomhash":"2809ddf57fcc26f7f57d8b80045f6baf",
+    "wof:geomhash":"57c5eaefd84235852cda805733e65bc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857537765,
-    "wof:lastmodified":1472619750,
+    "wof:lastmodified":1534182387,
     "wof:name":"Sevens' Enterprises Inc",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857605539
+    ],
     "wof:tags":[
         "jeweler"
     ]

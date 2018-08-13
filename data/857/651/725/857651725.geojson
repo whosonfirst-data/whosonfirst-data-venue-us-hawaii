@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"Liliha St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.858135,21.323109,-157.858135,21.323109",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.858135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1712 Liliha St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205531,
-    "wof:geomhash":"c85f30382603491155ccd5ce26ef49a9",
+    "wof:geomhash":"6ba3b7375d63f1d4fa2f7e3c2c3af6a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857651725,
-    "wof:lastmodified":1472619882,
+    "wof:lastmodified":1534182391,
     "wof:name":"Theresa Thuy Bui DC",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857656563
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

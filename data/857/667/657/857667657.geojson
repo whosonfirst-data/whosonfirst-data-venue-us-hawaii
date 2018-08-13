@@ -14,6 +14,7 @@
     "geom:longitude":-156.477324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Kaahumanu Ave",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206248,
-    "wof:geomhash":"9803bfc55241cb9a8bbacdc6244a1e38",
+    "wof:geomhash":"a6a1d3a8cc825b57424285aa33fe52ad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857667657,
-    "wof:lastmodified":1472619906,
+    "wof:lastmodified":1534182390,
     "wof:name":"Palms Travel Service Inc",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857662723
+    ],
     "wof:tags":[
         "agency"
     ]

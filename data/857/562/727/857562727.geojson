@@ -14,6 +14,7 @@
     "geom:longitude":-156.695406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2435 Kaanapali Pkwy",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203216,
-    "wof:geomhash":"89e18c7c6f1e34eaf70d503f10fb0d4f",
+    "wof:geomhash":"a9780c4609e230f4f2b6c4a5e195716d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857562727,
-    "wof:lastmodified":1472619781,
+    "wof:lastmodified":1534182387,
     "wof:name":"Whalers Realty Management",
     "wof:parent_id":85890509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857629651
+    ],
     "wof:tags":[
         "agency"
     ]

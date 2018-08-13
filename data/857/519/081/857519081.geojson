@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"Liliha St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.860365,21.32138,-157.860365,21.32138",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.860365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1520 Liliha St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202332,
-    "wof:geomhash":"6b50460ebbf9821cf52575ac237d417f",
+    "wof:geomhash":"9aff646ca9ccb87b697614d0cb7e1932",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857519081,
-    "wof:lastmodified":1472619723,
+    "wof:lastmodified":1534182394,
     "wof:name":"Yeoh and Muranaka Mds Inc",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857670895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

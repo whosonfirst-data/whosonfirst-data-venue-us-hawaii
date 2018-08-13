@@ -14,6 +14,7 @@
     "geom:longitude":-157.953544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"718 Moanalua Rd",
     "sg:city":"Pearl City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205002,
-    "wof:geomhash":"ee52156a10e2fe18e9ab9b2c9272523e",
+    "wof:geomhash":"dc79091a03e1b8985d71b352c282024b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857639507,
-    "wof:lastmodified":1472619855,
+    "wof:lastmodified":1534182389,
     "wof:name":"Air",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857631523
+    ],
     "wof:tags":[
         "food",
         "item",

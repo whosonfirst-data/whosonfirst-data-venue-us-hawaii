@@ -14,6 +14,7 @@
     "geom:longitude":-157.846106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"615 Piikoi St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206465,
-    "wof:geomhash":"c2e5d757bb888e7632dc0afb64a6d1ff",
+    "wof:geomhash":"1eaf84b332dcc3d26bce41bd5254e619",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857673391,
-    "wof:lastmodified":1472619914,
+    "wof:lastmodified":1534182394,
     "wof:name":"Institute For Fam Enrichment",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857580425
+    ],
     "wof:tags":[
         "counseling",
         "agency",

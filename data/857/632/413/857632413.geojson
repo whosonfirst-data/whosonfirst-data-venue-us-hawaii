@@ -7,6 +7,7 @@
     "addr:postcode":"96701",
     "addr:street":"Hekaha St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.951684,21.384572,-157.951684,21.384572",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.951684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30 Hekaha St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204730,
-    "wof:geomhash":"f48af32c8ef084ab441c435b326dc1bd",
+    "wof:geomhash":"3cf1ad28a929837449364432b0d5325d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":857632413,
-    "wof:lastmodified":1472619841,
+    "wof:lastmodified":1534182389,
     "wof:name":"Applied Computer Training",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857641349
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "training",

@@ -7,6 +7,7 @@
     "addr:postcode":"96753",
     "addr:street":"Wailea Alanui Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-156.439267,20.686522,-156.439267,20.686522",
@@ -14,6 +15,7 @@
     "geom:longitude":-156.439267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3750 Wailea Alanui Dr",
     "sg:city":"Kihei",
     "sg:classifiers":[
@@ -38,15 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464202241,
-    "wof:geomhash":"fda1d2bdd9a70dc5295f58fc468c2562",
+    "wof:geomhash":"513315a9bdd65c5c04c751da520c6c0c",
     "wof:hierarchy":[],
     "wof:id":857514405,
-    "wof:lastmodified":1472619725,
+    "wof:lastmodified":1534182395,
     "wof:name":"Chris Ruths Steak House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857518329,
+        857680887
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

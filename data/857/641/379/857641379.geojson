@@ -14,6 +14,7 @@
     "geom:longitude":-157.828395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"388 Hui Iwa St",
     "sg:city":"Kaneohe",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205075,
-    "wof:geomhash":"5cbcfba5b464b467af811a5124423e7c",
+    "wof:geomhash":"bf84c0d443e3ba3fe97a7f90bc33690a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":857641379,
-    "wof:lastmodified":1472619853,
+    "wof:lastmodified":1534182389,
     "wof:name":"Elanes Hair & Nail Salon",
     "wof:parent_id":85869059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857609115
+    ],
     "wof:tags":[
         "shop"
     ]

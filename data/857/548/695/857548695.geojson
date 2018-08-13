@@ -14,6 +14,7 @@
     "geom:longitude":-157.856835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 N Kuakini St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202906,
-    "wof:geomhash":"84d1a7723176ad4c0c6ffdda5340472d",
+    "wof:geomhash":"4bf9417a83503d4c80f5540ab232ce73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857548695,
-    "wof:lastmodified":1472619763,
+    "wof:lastmodified":1534182389,
     "wof:name":"Internal Med Pedi Assoc LLC",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857563305
+    ],
     "wof:tags":[
         "medical"
     ]

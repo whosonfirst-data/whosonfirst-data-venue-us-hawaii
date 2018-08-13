@@ -7,6 +7,7 @@
     "addr:postcode":"96814",
     "addr:street":"S King St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.844887,21.300216,-157.844887,21.300216",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.844887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1150 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203092,
-    "wof:geomhash":"145550b5288c9bde7d10487179628d52",
+    "wof:geomhash":"225f186c209ee7b9f4c6d3aae1cf9203",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857557741,
-    "wof:lastmodified":1472619768,
+    "wof:lastmodified":1534182394,
     "wof:name":"Omura Inouye & Park DDS Inc",
     "wof:parent_id":85831995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857668827
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

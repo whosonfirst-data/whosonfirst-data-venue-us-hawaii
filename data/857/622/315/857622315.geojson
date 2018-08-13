@@ -14,6 +14,7 @@
     "geom:longitude":-157.850648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Kamakee St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204488,
-    "wof:geomhash":"8e50eb96afc342ff57f1b65edf7b1045",
+    "wof:geomhash":"84cb01b614d06450865711e766511975",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857622315,
-    "wof:lastmodified":1472619823,
+    "wof:lastmodified":1534182389,
     "wof:name":"Audio Facility/Hawaii",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857640675
+    ],
     "wof:tags":[
         "recording",
         "studio"

@@ -7,6 +7,7 @@
     "addr:postcode":"96817",
     "addr:street":"Liliha St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.851718,21.328671,-157.851718,21.328671",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.851718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2228 Liliha St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203664,
-    "wof:geomhash":"acdbffe36af985250fd4fb08c42afd08",
+    "wof:geomhash":"a5b4040ab488636de2d49e48fcf9b909",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857585635,
-    "wof:lastmodified":1472619796,
+    "wof:lastmodified":1534182392,
     "wof:name":"Tam Roland F S MD",
     "wof:parent_id":85890271,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857650947
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

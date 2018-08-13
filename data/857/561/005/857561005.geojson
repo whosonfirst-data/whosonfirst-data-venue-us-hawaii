@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Tower Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-157.864567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Aloha Tower Dr",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203182,
-    "wof:geomhash":"f3ba80a9fdf6a50f18b94387bf512a00",
+    "wof:geomhash":"ff8c3896cbe25cd7b1698d58d64f8112",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,12 +69,14 @@
         }
     ],
     "wof:id":857561005,
-    "wof:lastmodified":1491904946,
+    "wof:lastmodified":1534182390,
     "wof:name":"Sayumi's Princess Garden Salon",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857656695
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

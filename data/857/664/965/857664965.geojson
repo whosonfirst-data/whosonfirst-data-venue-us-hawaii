@@ -14,6 +14,7 @@
     "geom:longitude":-157.860394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206121,
-    "wof:geomhash":"87a48a3128e4959370f09ac2cafc7bb9",
+    "wof:geomhash":"b6b2dc32abedc54ce196c8b318db29cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857664965,
-    "wof:lastmodified":1472619906,
+    "wof:lastmodified":1534182393,
     "wof:name":"Stephen H Reese Law Office",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857643295
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-157.870375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 Iwilei Rd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205008,
-    "wof:geomhash":"10f04d4414a9beb99be27bdedaa27aad",
+    "wof:geomhash":"96f287ec43979e31b3f06cdcf28cf887",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857639687,
-    "wof:lastmodified":1472619861,
+    "wof:lastmodified":1534182389,
     "wof:name":"Grass Shack Productions",
     "wof:parent_id":85866917,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857541211
+    ],
     "wof:tags":[
         "graphic",
         "designer"

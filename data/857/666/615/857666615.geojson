@@ -14,6 +14,7 @@
     "geom:longitude":-157.824973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2330 Kuhio Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206211,
-    "wof:geomhash":"7873a79ad76d610e1a96de3b4dc7d1ec",
+    "wof:geomhash":"66a6e4b41cd917f5b566a33805c262a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":857666615,
-    "wof:lastmodified":1472619900,
+    "wof:lastmodified":1534182393,
     "wof:name":"Outrigger Auto-Services Ltd",
     "wof:parent_id":85827783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857657091
+    ],
     "wof:tags":[
         "machine",
         "product",

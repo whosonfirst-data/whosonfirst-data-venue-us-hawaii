@@ -7,6 +7,7 @@
     "addr:postcode":"96734",
     "addr:street":"N Kalaheo Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.747687,21.419617,-157.747687,21.419617",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.747687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"970 N Kalaheo Ave",
     "sg:city":"Kailua",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204194,
-    "wof:geomhash":"13c395466e08e5f7caad96c558cc7cdc",
+    "wof:geomhash":"1a14b4a6730a8a7bb1b0a88d8cf00619",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":857609367,
-    "wof:lastmodified":1472619814,
+    "wof:lastmodified":1534182389,
     "wof:name":"All Pacific Mortgage Company",
     "wof:parent_id":85827847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857613777
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "correspondent",

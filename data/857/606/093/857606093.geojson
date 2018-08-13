@@ -2,18 +2,24 @@
   "id": 857606093,
   "type": "Feature",
   "properties": {
-    "addr:full":"553 S King St Honolulu HI 96813",
+    "addr:city":"Honolulu",
+    "addr:full":"553 South King Street Honolulu, Hi 96813-3002",
+    "addr:house_number":"553",
     "addr:housenumber":"553",
-    "addr:postcode":"96813",
+    "addr:phone":"+1 808-447-3910",
+    "addr:postcode":"96813-3002",
+    "addr:road":"South King Street",
+    "addr:state":"HI",
     "addr:street":"S King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-157.856204,21.303929,-157.856204,21.303929",
-    "geom:latitude":21.303929,
-    "geom:longitude":-157.856204,
+    "geom:bbox":"-157.85681,21.30422,-157.85681,21.30422",
+    "geom:latitude":21.30422,
+    "geom:longitude":-157.85681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"553 S King St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -31,19 +37,23 @@
         "gallery"
     ],
     "sg:website":"www.missionhouses.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533997
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401500014,
         "sg:id":"SG_19o7Q4XlykLmCKKIQr2DyI_21.303929_-157.856204@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204118,
-    "wof:geomhash":"72bef9b0015140b9738c3d43f8c38486",
+    "wof:geomhash":"13a7cdf774e816c8cd737a1640847db4",
     "wof:hierarchy":[],
     "wof:id":857606093,
-    "wof:lastmodified":1472619804,
-    "wof:name":"Mission Houses Museum",
+    "wof:lastmodified":1534182395,
+    "wof:name":"Mission House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
@@ -54,10 +64,10 @@
     ]
 },
   "bbox": [
-    -157.856204,
-    21.303929,
-    -157.856204,
-    21.303929
+    -157.85681,
+    21.30422,
+    -157.85681,
+    21.30422
 ],
-  "geometry": {"coordinates":[-157.85620399999999,21.303929],"type":"Point"}
+  "geometry": {"coordinates":[-157.85681,21.30422],"type":"Point"}
 }

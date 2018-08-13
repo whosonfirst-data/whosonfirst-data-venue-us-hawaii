@@ -2,18 +2,24 @@
   "id": 857556761,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 Front St Lahaina HI 96761",
+    "addr:city":"Lahaina",
+    "addr:full":"525 Front St Lahaina, Hi 96761-1116",
+    "addr:house_number":"525",
     "addr:housenumber":"525",
-    "addr:postcode":"96761",
+    "addr:phone":"+1 808-667-4050",
+    "addr:postcode":"96761-1116",
+    "addr:road":"Front St",
+    "addr:state":"HI",
     "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-156.678061,20.87162,-156.678061,20.87162",
-    "geom:latitude":20.87162,
-    "geom:longitude":-156.678061,
+    "geom:bbox":"-156.67585,20.86921,-156.67585,20.86921",
+    "geom:latitude":20.86921,
+    "geom:longitude":-156.67585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"525 Front St",
     "sg:city":"Lahaina",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 808 667 4050",
     "sg:postcode":"96761",
     "sg:province":"HI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533095,
+        102532929
+    ],
     "wof:belongsto":[
         85688671,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401500132,
         "sg:id":"SG_12dwsMVLGEJy1DdIBcWyx6_20.871620_-156.678061@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464203067,
-    "wof:geomhash":"2b8a1a988e9c5494d7dc340786b02ac7",
+    "wof:geomhash":"6f4b499db7b21f189f7fa30e9082d1df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":857556761,
-    "wof:lastmodified":1472619779,
-    "wof:name":"Hui O Wa'a Kaulua",
+    "wof:lastmodified":1534182395,
+    "wof:name":"Hui O Wa A Kaulua",
     "wof:parent_id":85890527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -156.678061,
-    20.87162,
-    -156.678061,
-    20.87162
+    -156.67585,
+    20.86921,
+    -156.67585,
+    20.86921
 ],
-  "geometry": {"coordinates":[-156.67806100000001,20.87162],"type":"Point"}
+  "geometry": {"coordinates":[-156.67585,20.86921],"type":"Point"}
 }

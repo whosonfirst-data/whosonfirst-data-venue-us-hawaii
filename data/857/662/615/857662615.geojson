@@ -14,6 +14,7 @@
     "geom:longitude":-158.005411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"547 Ukee St",
     "sg:city":"Waipahu",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206033,
-    "wof:geomhash":"0e04c00f609b96c15bed7ade0d3af8ca",
+    "wof:geomhash":"7c527c4baf1f2f8689e3a581c8fbfded",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":857662615,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1534182391,
     "wof:name":"M&S Brokerage Inc",
     "wof:parent_id":85890709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857585843
+    ],
     "wof:tags":[
         "mfg"
     ]

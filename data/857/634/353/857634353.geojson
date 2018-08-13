@@ -2,18 +2,24 @@
   "id": 857634353,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Cameron Way Kahului HI 96732",
+    "addr:city":"Kahului",
+    "addr:full":"1 Cameron Way Kahului, Hi 96732-1137",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"96732",
+    "addr:phone":"+1 808-242-2787",
+    "addr:postcode":"96732-1137",
+    "addr:road":"Cameron Way",
+    "addr:state":"HI",
     "addr:street":"Cameron Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-156.449238,20.898121,-156.449238,20.898121",
-    "geom:latitude":20.898121,
-    "geom:longitude":-156.449238,
+    "geom:bbox":"-156.446,20.89462,-156.446,20.89462",
+    "geom:latitude":20.89462,
+    "geom:longitude":-156.446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Cameron Way",
     "sg:city":"Kahului",
     "sg:classifiers":[
@@ -28,21 +34,26 @@
     "sg:postcode":"96732",
     "sg:province":"HI",
     "sg:website":"www.mauiarts.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533095,
+        102532929
+    ],
     "wof:belongsto":[
-        85688671,
+        85890309,
         85633793,
         85937681,
         102085577,
-        85890309
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401500133,
         "sg:id":"SG_35ZeacCw8G0jZKXjvLRf6J_20.898121_-156.449238@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204810,
-    "wof:geomhash":"d514a9a558adf0263af59b2fb26e08ff",
+    "wof:geomhash":"08414deb2ff0040d2aad58a2ed348d57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +65,8 @@
         }
     ],
     "wof:id":857634353,
-    "wof:lastmodified":1472619843,
-    "wof:name":"Maui Arts & Cultural Ctr",
+    "wof:lastmodified":1534182395,
+    "wof:name":"Maui Arts & Cultural Center",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
@@ -64,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -156.449238,
-    20.898121,
-    -156.449238,
-    20.898121
+    -156.446,
+    20.89462,
+    -156.446,
+    20.89462
 ],
-  "geometry": {"coordinates":[-156.44923800000001,20.898121],"type":"Point"}
+  "geometry": {"coordinates":[-156.446,20.89462],"type":"Point"}
 }

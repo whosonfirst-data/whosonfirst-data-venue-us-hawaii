@@ -14,6 +14,7 @@
     "geom:longitude":-157.825332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2424 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205880,
-    "wof:geomhash":"a958148c2e65bb7f53c5ed0beac30a4c",
+    "wof:geomhash":"fe3d8d712aafe761ba021020a1134321",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":857659459,
-    "wof:lastmodified":1472619891,
+    "wof:lastmodified":1534182392,
     "wof:name":"Hyatt Hotels & Resorts",
     "wof:parent_id":85827783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857667709
+    ],
     "wof:tags":[]
 },
   "bbox": [

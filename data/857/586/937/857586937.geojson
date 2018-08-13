@@ -7,6 +7,7 @@
     "addr:postcode":"96740",
     "addr:street":"Alii Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-155.96618,19.577173,-155.96618,19.577173",
@@ -14,6 +15,7 @@
     "geom:longitude":-155.96618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6831 Alii Dr",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203693,
-    "wof:geomhash":"0d61ae35d4932d3a9276260ed08dbac0",
+    "wof:geomhash":"11146483bdba0c42f652071b78c8280f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":857586937,
-    "wof:lastmodified":1472619798,
+    "wof:lastmodified":1534182385,
     "wof:name":"West Hawaii Property Service",
     "wof:parent_id":85890293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857503151
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

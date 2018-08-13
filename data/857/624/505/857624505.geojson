@@ -7,6 +7,7 @@
     "addr:postcode":"96814",
     "addr:street":"Kapiolani Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.846586,21.294837,-157.846586,21.294837",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.846586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1221 Kapiolani Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204553,
-    "wof:geomhash":"c133c2637f868758860a9a3be7743a00",
+    "wof:geomhash":"bfbc3bcc0b8b7d4a7f91cb8823aed1d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":857624505,
-    "wof:lastmodified":1472619831,
+    "wof:lastmodified":1534182393,
     "wof:name":"Haimoff Haimoff Creat In Gold",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857663787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gold"

@@ -14,6 +14,7 @@
     "geom:longitude":-156.490699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 Mahalani St",
     "sg:city":"Wailuku",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202591,
-    "wof:geomhash":"d02279aae784b0f9c7fd3b1a975ed2ac",
+    "wof:geomhash":"a759b2e83bd99f99df708f5ed2f0fcec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857532353,
-    "wof:lastmodified":1472619741,
+    "wof:lastmodified":1534182386,
     "wof:name":"Mental Health Assn In Maui",
     "wof:parent_id":85890309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857679427
+    ],
     "wof:tags":[
         "mental"
     ]

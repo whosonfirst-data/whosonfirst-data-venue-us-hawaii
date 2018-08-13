@@ -14,6 +14,7 @@
     "geom:longitude":-155.96618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6831 Alii Dr",
     "sg:city":"Kailua Kona",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464201988,
-    "wof:geomhash":"0d61ae35d4932d3a9276260ed08dbac0",
+    "wof:geomhash":"11146483bdba0c42f652071b78c8280f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857503151,
-    "wof:lastmodified":1472619715,
+    "wof:lastmodified":1534182385,
     "wof:name":"West Hawaii Property Svc Inc",
     "wof:parent_id":85890293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857586937
+    ],
     "wof:tags":[
         "management"
     ]

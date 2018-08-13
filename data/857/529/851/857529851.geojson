@@ -14,6 +14,7 @@
     "geom:longitude":-157.860394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202540,
-    "wof:geomhash":"87a48a3128e4959370f09ac2cafc7bb9",
+    "wof:geomhash":"b6b2dc32abedc54ce196c8b318db29cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857529851,
-    "wof:lastmodified":1472619755,
+    "wof:lastmodified":1534182386,
     "wof:name":"Lowder Maria CPA",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857519539
+    ],
     "wof:tags":[
         "building",
         "commercial"

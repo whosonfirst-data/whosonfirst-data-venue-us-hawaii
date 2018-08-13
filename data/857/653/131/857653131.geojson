@@ -14,6 +14,7 @@
     "geom:longitude":-157.95154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Hekaha St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205593,
-    "wof:geomhash":"a36b530ac8f2981671617d3dc8127be6",
+    "wof:geomhash":"e7f4321711093f42181b9f16eadf7e16",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857653131,
-    "wof:lastmodified":1472619873,
+    "wof:lastmodified":1534182392,
     "wof:name":"Fan Shop",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857639765
+    ],
     "wof:tags":[
         "commercial",
         "fan"

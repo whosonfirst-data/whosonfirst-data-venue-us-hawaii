@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Bishop St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.861548,21.308484,-157.861548,21.308484",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.861548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1088 Bishop St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203758,
-    "wof:geomhash":"e5dffa45e6203f83fabe1c68ec27c146",
+    "wof:geomhash":"5559f3f4bab9e2d623bb6002f6912d44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857589985,
-    "wof:lastmodified":1472619799,
+    "wof:lastmodified":1534182389,
     "wof:name":"Contract Library Svc LTD",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857645683
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

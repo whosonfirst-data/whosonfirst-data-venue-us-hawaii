@@ -14,6 +14,7 @@
     "geom:longitude":-157.951518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Hekaha St",
     "sg:city":"Aiea",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206156,
-    "wof:geomhash":"e674506344d69cfc15a31c2525e251e2",
+    "wof:geomhash":"bf9185dc0e8a584ab8feadb09ae2a692",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857665613,
-    "wof:lastmodified":1472619901,
+    "wof:lastmodified":1534182392,
     "wof:name":"Pavsek & Assoc",
     "wof:parent_id":85827729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857624165
+    ],
     "wof:tags":[
         "investigator"
     ]

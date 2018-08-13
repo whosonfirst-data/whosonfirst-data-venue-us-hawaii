@@ -14,6 +14,7 @@
     "geom:longitude":-157.860055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 N Vineyard Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206530,
-    "wof:geomhash":"e358bb2f924aa6e37fa48063cfb46268",
+    "wof:geomhash":"a1deb386821ee845f056af6b05d40d83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857675147,
-    "wof:lastmodified":1472619914,
+    "wof:lastmodified":1534182394,
     "wof:name":"Community Assistance Ctr",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857590363
+    ],
     "wof:tags":[
         "organization",
         "welfare"

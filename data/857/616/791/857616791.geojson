@@ -2,18 +2,23 @@
   "id": 857616791,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 N Vineyard Blvd Honolulu HI 96817",
+    "addr:city":"Honolulu",
+    "addr:full":"50 N Vineyard Blvd Honolulu, Hi 96817",
+    "addr:house_number":"50",
     "addr:housenumber":"50",
     "addr:postcode":"96817",
+    "addr:road":"N Vineyard Blvd",
+    "addr:state":"HI",
     "addr:street":"N Vineyard Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-157.858167,21.314911,-157.858167,21.314911",
-    "geom:latitude":21.314911,
-    "geom:longitude":-157.858167,
+    "geom:bbox":"-157.85761,21.31519,-157.85761,21.31519",
+    "geom:latitude":21.31519,
+    "geom:longitude":-157.85761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"50 N Vineyard Blvd",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -30,21 +35,26 @@
     "sg:tags":[
         "parks"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531685,
+        102533997
+    ],
     "wof:belongsto":[
-        85688671,
+        85866919,
         85633793,
         85937601,
         102085417,
-        85866919
+        85688671
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502216,
         "sg:id":"SG_3XQD7jvXequPpKOFLfqxka_21.314911_-157.858167@1294088405"
     },
     "wof:country":"US",
     "wof:created":1464204354,
-    "wof:geomhash":"e789e3d6898dac208951d205762a113a",
+    "wof:geomhash":"272953c862e0f8808b54a0b893aa9617",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":857616791,
-    "wof:lastmodified":1472619827,
-    "wof:name":"Honolulu City Botanical Garden",
+    "wof:lastmodified":1534182395,
+    "wof:name":"Honolulu Botanical Gardens",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -157.858167,
-    21.314911,
-    -157.858167,
-    21.314911
+    -157.85761,
+    21.31519,
+    -157.85761,
+    21.31519
 ],
-  "geometry": {"coordinates":[-157.85816700000001,21.314911],"type":"Point"}
+  "geometry": {"coordinates":[-157.85760999999999,21.31519],"type":"Point"}
 }

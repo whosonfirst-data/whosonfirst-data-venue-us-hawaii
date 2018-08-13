@@ -7,6 +7,7 @@
     "addr:postcode":"96789",
     "addr:street":"Kipapa Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-158.01588,21.458431,-158.01588,21.458431",
@@ -14,6 +15,7 @@
     "geom:longitude":-158.01588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"221 Kipapa Dr",
     "sg:city":"Mililani",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464205387,
-    "wof:geomhash":"d6a5ae9b3e750bc739761112f205cc3d",
+    "wof:geomhash":"9087fdb7de4c47825809fc9d8b562597",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857648283,
-    "wof:lastmodified":1472619858,
+    "wof:lastmodified":1534182391,
     "wof:name":"Suns Bar-B-Que II",
     "wof:parent_id":85854149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857659139
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"96813",
     "addr:street":"Richards St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-157.861571,21.306111,-157.861571,21.306111",
@@ -14,6 +15,7 @@
     "geom:longitude":-157.861571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"707 Richards St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464203218,
-    "wof:geomhash":"451d634d19f46ef3147b04dd22f3c33b",
+    "wof:geomhash":"13fb62bdddca790f8e9386cab05ef772",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":857562863,
-    "wof:lastmodified":1472619783,
+    "wof:lastmodified":1534182388,
     "wof:name":"Goto Arthur K Attorney A Law",
     "wof:parent_id":85866919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857634213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

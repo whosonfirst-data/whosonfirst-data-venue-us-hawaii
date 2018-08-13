@@ -14,6 +14,7 @@
     "geom:longitude":-157.830014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2155 Kalakaua Ave",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464204638,
-    "wof:geomhash":"8d087b12c2cc3cd77e8407c2e6eec36c",
+    "wof:geomhash":"15e703057bb99c76bceb8aff05f527d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857628785,
-    "wof:lastmodified":1472619838,
+    "wof:lastmodified":1534182389,
     "wof:name":"Marie's Health Foods-Organic",
     "wof:parent_id":85854131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857637605
+    ],
     "wof:tags":[
         "health",
         "diet"

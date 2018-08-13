@@ -14,6 +14,7 @@
     "geom:longitude":-157.707692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"377 Keahole St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206680,
-    "wof:geomhash":"5e9f8a6ebc084d0119f7b6b88c3643a9",
+    "wof:geomhash":"affb86bfc24d81cc83ff74c386989963",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":857678719,
-    "wof:lastmodified":1472619926,
+    "wof:lastmodified":1534182395,
     "wof:name":"Four Seasons Agency Inc",
     "wof:parent_id":85842893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857664407
+    ],
     "wof:tags":[
         "attraction",
         "tourist"

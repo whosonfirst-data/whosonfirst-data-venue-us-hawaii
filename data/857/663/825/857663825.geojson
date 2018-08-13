@@ -14,6 +14,7 @@
     "geom:longitude":-157.839129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"738 Kaheka St",
     "sg:city":"Honolulu",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464206078,
-    "wof:geomhash":"7423646e49319dd64ab974d363f44557",
+    "wof:geomhash":"69c4846355e401c8b8e06dd18e4d3b6b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":857663825,
-    "wof:lastmodified":1472619902,
+    "wof:lastmodified":1534182393,
     "wof:name":"K H P R",
     "wof:parent_id":85872733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857659789
+    ],
     "wof:tags":[
         "broadcasting"
     ]

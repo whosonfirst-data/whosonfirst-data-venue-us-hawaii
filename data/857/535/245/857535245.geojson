@@ -14,6 +14,7 @@
     "geom:longitude":-155.086457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 Ponahawai St",
     "sg:city":"Hilo",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464202645,
-    "wof:geomhash":"9807a515cd30f2ab480578f374c3bc32",
+    "wof:geomhash":"f85545ea02dff5341d28c7d9683e3be9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857535245,
-    "wof:lastmodified":1472619737,
+    "wof:lastmodified":1534182387,
     "wof:name":"Garrett O Ota DDS",
     "wof:parent_id":85890239,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-hi",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857522901
+    ],
     "wof:tags":[
         "dentist"
     ]
